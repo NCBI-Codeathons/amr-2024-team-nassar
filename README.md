@@ -3,8 +3,8 @@
 List of participants and affiliations:
 - Maaly Nassar (Team Leader)
 - Parul Sharma
-- Dae-Young Kim
-- Leonardo de Oliveira Martins, Quadram Institute Bioscience
+- Dae-Young Kim, Children's National Hospital, Washington D.C., USA
+- Leonardo de Oliveira Martins, Quadram Institute Bioscience, Norwich, UK
 - Participant, Affiliation
 
 ## Project Goals
