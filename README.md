@@ -2,6 +2,7 @@
 
 List of participants and affiliations:
 - Participant, Affiliation (Team Leader)
+- Leonardo de Oliveira Martins, Quadram Institute Bioscience
 - Participant, Affiliation
 
 ## Project Goals
