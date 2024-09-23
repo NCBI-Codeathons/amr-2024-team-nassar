@@ -19,7 +19,7 @@ The query will be:
 (self-resistance[Abstract]AND regulators[Abstract]) OR (self-resistance[Abstract]AND Genome[Abstract])
 ```
 
-**Please let me know what kind of keywords would be good to narrow down the search research enough and from where we should search for the keywords.**
+**Please let me know list of keywords to narrow down the search research enough and from where we should search for the keywords.**
 
 ### Data Collection
 1. Download relative papers from [PubMed PMC](https://www.ncbi.nlm.nih.gov/pmc/tools/developers/).
