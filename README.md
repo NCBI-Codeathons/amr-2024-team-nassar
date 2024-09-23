@@ -1,7 +1,9 @@
 # Team Project Name
 
 List of participants and affiliations:
-- Participant, Affiliation (Team Leader)
+- Maaly Nassar (Team Leader)
+- Parul Sharma
+- Dae-Young Kim
 - Leonardo de Oliveira Martins, Quadram Institute Bioscience
 - Participant, Affiliation
 
@@ -31,7 +33,7 @@ Generate dataset of self-resistance genes with what up-/down-regulate them and t
 <img src="figures/hypothesis001.png" width="400">
 #### Milestones
 
-* **Dae-young Kim (Leroy)** (Tech Lead) to retrieve literature for self-resistance genes (from medline) and use LLMs and/or 
+* **Dae-Young Kim (Leroy)** (Tech Lead) to retrieve literature for self-resistance genes (from medline) and use LLMs and/or 
 RAG (https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/) to identify self-resistance genes in context,  their regulators and whole genome/BGCs accession numbers 
 * **Parul Sharma** (Flex Lead) to download and generate training datasets from ncbi_pathogen_detect_amr AMR gene sequences to train a transformer model 
     * download ncbi_pathogen_detect_amr AMR protein/gene sequences of microbes
