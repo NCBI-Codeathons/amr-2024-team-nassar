@@ -1,4 +1,8 @@
 # Literature Analysis on Self-Resistance Genes
+## Check List
+- [x] PubMed keyword selection
+- [ ] Data Collection
+- [ ] Model Training
 ## Main Deliverables
 Identification of
 - Self-resistance genes,
@@ -9,17 +13,12 @@ Identification of
 - [bgc_discovery_for_t_cell_immunology / data / training_dataset /emerald/ner_annotations.csv](https://gitlab.com/maaly7/bgc_discovery_for_t_cell_immunology/-/blob/master/data/training_dataset/emerald/ner_annotations.csv?ref_type=heads)
 ## Implementation Strategy
 ### Keyword Selection
-We need keyword to search relevant articles from PubMed. For example, when we want to retrieve literature search result with combinations of these keywords in abstract part:
-- Self-resistance
-- Regulators
-- Genome
+We need keyword to search relevant articles from PubMed.
 
-The query will be:
+PubMed Query:
 ```SQL
-(self-resistance[Abstract]AND regulators[Abstract]) OR (self-resistance[Abstract]AND Genome[Abstract])
+"self-resistance" AND "gene" [TIAB]
 ```
-
-**Please let me know the list of keywords to narrow down the search research enough and from where we should search for the keywords.**
 
 ### Data Collection
 1. Download relative papers from [PubMed PMC](https://www.ncbi.nlm.nih.gov/pmc/tools/developers/).
