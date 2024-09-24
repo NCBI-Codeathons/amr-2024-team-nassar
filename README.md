@@ -25,7 +25,13 @@ For general questions about NCBI software and tools, please visit: [NCBI Contact
 ## draft notes 
 
 ### 2024.09.23
-#### Main Deliverable
+#### Work updates (Parul)
+- Extracted list of AMR genes from the NCBI Pathogen AMR dataset
+- Work in progress - extracting the listed AMR gene sequences from the whole genomes
+- Reading more about transformers to finalize which model to use for our dataset
+- Working on setting up GCP instances and setting up enviroments for installing transformer model
+
+#### Main Deliverable (Leo)
 Generate dataset of self-resistance genes with what up-/down-regulate them and train ML models to identify them in whole genomes
 #### Resources 
 [BGCs dataset](https://gitlab.com/maaly7/bgc_discovery_for_t_cell_immunology/-/tree/master/data/training_dataset/emerald?ref_type=heads), 
