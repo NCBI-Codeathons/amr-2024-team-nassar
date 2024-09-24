@@ -32,3 +32,33 @@ PubMed Query:
 2. Fine-tune the selected LLM: [Supervised Fine-tuning Trainer](https://huggingface.co/docs/trl/en/sft_trainer) with [the BGC emerald NER dataset](https://gitlab.com/maaly7/bgc_discovery_for_t_cell_immunology/-/blob/master/data/training_dataset/emerald/ner_annotations.csv?ref_type=heads).
 3. Use GraphRAG or Neo4j graph builder based on the fine-tuned LLM.
 4. Retrieve target entities according to [the main delieverables](#main-deliverables).
+
+## GCP Environment Setup
+
+### Git Installation
+```bash
+sudo apt-get update
+sudo apt-get install git
+which git /usr/bin/git
+
+git config --global user.name "leroykim"
+git config --global user.email "leroy.kim@umbc.edu"
+git clone https://github.com/NCBI-Codeathons/amr-2024-team-nassar.git
+```
+
+### Virtual Environment Setup
+```bash
+which python3 #/usr/bin/python3
+python3 --version #Python 3.11.2
+sudo apt-get install python3.11-venv
+cd /home/k163/codeathon/amr-2024-team-nassar/literature_analysis
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+### Poetry Setup
+```bash
+pip install --upgrade pip
+pip install poetry
+poetry install
+```
