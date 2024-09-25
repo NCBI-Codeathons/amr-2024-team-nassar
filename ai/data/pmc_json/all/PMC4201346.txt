@@ -1,0 +1,1647 @@
+ Calicheamicin γ1I (1)
+is an enediyne antitumor compound produced by Micromonospora
+echinospora spp. calichensis, and its biosynthetic gene cluster
+has been previously reported. Despite extensive analysis and biochemical
+study, several genes in the biosynthetic gene cluster of 1 remain functionally unassigned. Using a structural genomics approach
+and biochemical characterization, two proteins encoded by genes from
+the 1 biosynthetic gene cluster assigned as “unknowns”,
+CalU16 and CalU19, were characterized. Structure analysis revealed
+that they possess the STeroidogenic Acute Regulatory protein related
+lipid Transfer (START) domain known mainly to bind and transport lipids
+and previously identified as the structural signature of the enediyne
+self-resistance protein CalC. Subsequent study revealed calU16 and calU19 to confer resistance to 1, and reminiscent of the prototype CalC, both CalU16 and CalU19 were
+cleaved by 1in vitro. Through site-directed
+mutagenesis and mass spectrometry, we identified the site of cleavage
+in each protein and characterized their function in conferring resistance
+against 1. This report emphasizes the importance of structural
+genomics as a powerful tool for the functional annotation of unknown
+proteins. The calicheamicins
+are a prototype
+of the naturally occurring 10-membered enediyne antitumor antibiotic
+family and were first reported in 1989 as metabolites of Micromonospora
+echinospora spp. calichensis.1−3 Members of this family
+share a structurally conserved bicyclo[7.3.1]enediyne core, also often
+referred to as the “warhead” as this structural unit
+is central to the fundamental enediyne mechanism of action (Figure 1A).4−6 In all family members, the enediyne core is strategically
+decorated with a bioorthogonal “triggering” system and
+specific appendages that enhance affinity to the metabolite’s
+target (DNA/RNA). The calicheamicin trigger system (and that of esperamicins,
+shishijimicins, and namenamicins) is comprised of a unique trisulfide
+that, upon reduction by bioreductants such as glutathione, induces
+an intramolecular hetero-Michael addition at C-9 (Figure 1B).7−9 The resulting fused enediyne core ring strain invokes
+a spontaneous cycloaromatization reaction which proceeds via a highly
+reactive diradical intermediate that is rapidly quenched by any suitable
+hydrogen source.7,10 Calicheamicin’s high affinity
+for the minor groove of DNA, by virtue of its aryltetrasaccharide,
+insures that the diradical species is quenched via hydrogen abstraction
+from the backbone of opposing strands of dsDNA to form DNA radicals
+that, in the presence of oxygen, result in facile double-strand scission.11−13 The study of calicheamicin’s many fascinating architectural
+and functional facets have led to numerous discoveries/advances in
+chemistry,14,15 enzymology,16−26 and anticancer drug development27,28 over the past
+three decades. Yet, while the gene cluster encoding for calicheamicin
+biosynthesis was cloned from M. echinospora and sequenced
+nearly a decade ago,16 there remain a number
+of genes (∼30%) within this locus annotated as “unknowns”
+due to a lack of homologues and/or biochemical characterization of
+corresponding gene products. Figure 1(A) Selected structures of naturally occurring
+10-membered enediynes.
+The “warhead” is highlighted in red. (B) Proposed mechanism
+of cycloaromatization of 1 and its effect on DNA scission
+and CalC self-sacrifice mechanism. (A) Selected structures of naturally occurring
+10-membered enediynes.
+The “warhead” is highlighted in red. (B) Proposed mechanism
+of cycloaromatization of 1 and its effect on DNA scission
+and CalC self-sacrifice mechanism. Herein, we describe the application of structural genomics
+as a
+basis for the functional characterization of two proteins encoded
+by such “unknowns”—CalU16 and CalU19. Specifically,
+structure elucidation (via both NMR and X-ray crystallography) revealed
+CalU16 to be a structural homologue of CalC, a protein previously
+characterized as among the first reported enediyne “self-sacrifice”
+resistance proteins.18,19 Prompted by this structure-based
+revelation, subsequent biochemical characterization of CalU16 and
+its homologue CalU19 revealed both to serve in a similar capacity
+wherein CalU19 also displayed the unprecedented ability to trigger
+enediyne cycloaromatization in the absence of endogenous reducing
+agents. Cumulatively, this work extends the body of work focused upon
+understanding how bacteria construct and control highly reactive and
+lethal metabolites and expands the number of known “self-sacrifice”
+enediyne resistance proteins. This work also serves to illustrate
+the impact of structure determination as a critical tool for the functional
+annotation of unassigned genes. Results and Discussion Results and Discussion CalU16
+Structure and CalU19 Homology Model CalU16
+Structure and CalU19 Homology Model CalU16
+Structure and CalU19 Homology Model Protein
+Structure Initiative (PSI- Biology) employs a complementary combination
+of NMR spectroscopy and/or X-ray crystallography to determine 3D-structures
+of biologically relevant targets. The structure of CalU16 was solved
+both by X-ray crystallography (Protein Database Bank (PDB: 4FPW)) and NMR (PDB: 2LUZ). The crystal structure
+of CalU16 was determined at 2.50 Å resolution, refined to an Rcryst and Rfree of
+24.1% and 28.2% (Table 1), respectively, and
+is comprised of two subunits in an asymmetric unit belonging to space
+group P61 (Figure 2). Of the 182 residues of CalU16, the first 4 residues, the last
+2 residues, and a dynamic loop containing 19 residues (a.a. 141–159)
+from subunit A and 15 residues (a.a. 144–158) from subunit
+B were not modeled due to insufficient electron density. Structure
+and quality statistics are given in Table 1. The corresponding solution structure of CalU16 was determined by
+multidimensional heteronuclear NMR spectroscopy (Supporting Information Figures S1–S3). Nearly complete 1H, 15N, and 13C assignments were obtained
+and structures were calculated from residual dipolar couplings (RDCs),
+chemical shift-derived dihedral angle constraints, and Nuclear Overhauser
+Effect (NOE)-derived distance constraints via standard protocols.
+Structure and quality statistics are given in Table 2 for the ensemble of 20 lowest energy structures, indicating
+the high quality of the structure. Intrinsic disorder was observed
+for the first 6 residues, the last 3 residues, and 21 residues that
+includes a loop and part of the following helix (a.a. 143–163)
+and is corroborated by a lack of long-range NOEs and low (<0.6) 15N{1H} heteronuclear values (Supporting Information Figure S3). Protein
+Structure Initiative (PSI- Biology) employs a complementary combination
+of NMR spectroscopy and/or X-ray crystallography to determine 3D-structures
+of biologically relevant targets. The structure of CalU16 was solved
+both by X-ray crystallography (Protein Database Bank (PDB: 4FPW)) and NMR (PDB: 2LUZ). The crystal structure
+of CalU16 was determined at 2.50 Å resolution, refined to an Rcryst and Rfree of
+24.1% and 28.2% (Table 1), respectively, and
+is comprised of two subunits in an asymmetric unit belonging to space
+group P61 (Figure 2). Of the 182 residues of CalU16, the first 4 residues, the last
+2 residues, and a dynamic loop containing 19 residues (a.a. 141–159)
+from subunit A and 15 residues (a.a. 144–158) from subunit
+B were not modeled due to insufficient electron density. Structure
+and quality statistics are given in Table 1. The corresponding solution structure of CalU16 was determined by
+multidimensional heteronuclear NMR spectroscopy (Supporting Information Figures S1–S3). Nearly complete 1H, 15N, and 13C assignments were obtained
+and structures were calculated from residual dipolar couplings (RDCs),
+chemical shift-derived dihedral angle constraints, and Nuclear Overhauser
+Effect (NOE)-derived distance constraints via standard protocols.
+Structure and quality statistics are given in Table 2 for the ensemble of 20 lowest energy structures, indicating
+the high quality of the structure. Intrinsic disorder was observed
+for the first 6 residues, the last 3 residues, and 21 residues that
+includes a loop and part of the following helix (a.a. 143–163)
+and is corroborated by a lack of long-range NOEs and low (<0.6) 15N{1H} heteronuclear values (Supporting Information Figure S3). Protein
+Structure Initiative (PSI- Biology) employs a complementary combination
+of NMR spectroscopy and/or X-ray crystallography to determine 3D-structures
+of biologically relevant targets. The structure of CalU16 was solved
+both by X-ray crystallography (Protein Database Bank (PDB: 4FPW)) and NMR (PDB: 2LUZ). The crystal structure
+of CalU16 was determined at 2.50 Å resolution, refined to an Rcryst and Rfree of
+24.1% and 28.2% (Table 1), respectively, and
+is comprised of two subunits in an asymmetric unit belonging to space
+group P61 (Figure 2). Of the 182 residues of CalU16, the first 4 residues, the last
+2 residues, and a dynamic loop containing 19 residues (a.a. 141–159)
+from subunit A and 15 residues (a.a. 144–158) from subunit
+B were not modeled due to insufficient electron density. Structure
+and quality statistics are given in Table 1. The corresponding solution structure of CalU16 was determined by
+multidimensional heteronuclear NMR spectroscopy (Supporting Information Figures S1–S3). Nearly complete 1H, 15N, and 13C assignments were obtained
+and structures were calculated from residual dipolar couplings (RDCs),
+chemical shift-derived dihedral angle constraints, and Nuclear Overhauser
+Effect (NOE)-derived distance constraints via standard protocols.
+Structure and quality statistics are given in Table 2 for the ensemble of 20 lowest energy structures, indicating
+the high quality of the structure. Intrinsic disorder was observed
+for the first 6 residues, the last 3 residues, and 21 residues that
+includes a loop and part of the following helix (a.a. 143–163)
+and is corroborated by a lack of long-range NOEs and low (<0.6) 15N{1H} heteronuclear values (Supporting Information Figure S3). Figure 2Structure of CalU16.
+(A) Overlay of NMR (green) and monomers of
+the crystal (brick- red) structures of CalU16. The N- and C-termini of the protein are labeled, while
+the dynamic loop is colored yellow. (B) Monomer with secondary structural
+elements labeled. The residues in the hydrophobic cavity are represented
+as stick models. (C) B-factors for the Cα atoms in the crystal
+structure (left) and Cα RMSD values from the NMR ensemble (right)
+are mapped to the color and tube diameter of “putty”
+traces showing the general agreement (correlation coefficient 0.559)
+between the structures. Figure 2Structure of CalU16.
+(A) Overlay of NMR (green) and monomers of
+the crystal (brick- red) structures of CalU16. The N- and C-termini of the protein are labeled, while
+the dynamic loop is colored yellow. (B) Monomer with secondary structural
+elements labeled. The residues in the hydrophobic cavity are represented
+as stick models. (C) B-factors for the Cα atoms in the crystal
+structure (left) and Cα RMSD values from the NMR ensemble (right)
+are mapped to the color and tube diameter of “putty”
+traces showing the general agreement (correlation coefficient 0.559)
+between the structures. Figure 2Structure of CalU16.
+(A) Overlay of NMR (green) and monomers of
+the crystal (brick- red) structures of CalU16. The N- and C-termini of the protein are labeled, while
+the dynamic loop is colored yellow. (B) Monomer with secondary structural
+elements labeled. The residues in the hydrophobic cavity are represented
+as stick models. (C) B-factors for the Cα atoms in the crystal
+structure (left) and Cα RMSD values from the NMR ensemble (right)
+are mapped to the color and tube diameter of “putty”
+traces showing the general agreement (correlation coefficient 0.559)
+between the structures. Structure of CalU16.
+(A) Overlay of NMR (green) and monomers of
+the crystal (brick- red) structures of CalU16. The N- and C-termini of the protein are labeled, while
+the dynamic loop is colored yellow. (B) Monomer with secondary structural
+elements labeled. The residues in the hydrophobic cavity are represented
+as stick models. (C) B-factors for the Cα atoms in the crystal
+structure (left) and Cα RMSD values from the NMR ensemble (right)
+are mapped to the color and tube diameter of “putty”
+traces showing the general agreement (correlation coefficient 0.559)
+between the structures. Structure of CalU16.
+(A) Overlay of NMR (green) and monomers of
+the crystal (brick- red) structures of CalU16. The N- and C-termini of the protein are labeled, while
+the dynamic loop is colored yellow. (B) Monomer with secondary structural
+elements labeled. The residues in the hydrophobic cavity are represented
+as stick models. (C) B-factors for the Cα atoms in the crystal
+structure (left) and Cα RMSD values from the NMR ensemble (right)
+are mapped to the color and tube diameter of “putty”
+traces showing the general agreement (correlation coefficient 0.559)
+between the structures. Structure of CalU16.
+(A) Overlay of NMR (green) and monomers of
+the crystal (brick- red) structures of CalU16. The N- and C-termini of the protein are labeled, while
+the dynamic loop is colored yellow. (B) Monomer with secondary structural
+elements labeled. The residues in the hydrophobic cavity are represented
+as stick models. (C) B-factors for the Cα atoms in the crystal
+structure (left) and Cα RMSD values from the NMR ensemble (right)
+are mapped to the color and tube diameter of “putty”
+traces showing the general agreement (correlation coefficient 0.559)
+between the structures. Summary of Crystal Parameters, Data
+Collection, and Refinement Statisticsa Summary of Crystal Parameters, Data
+Collection, and Refinement Statisticsa Summary of Crystal Parameters, Data
+Collection, and Refinement Statisticsa property value. property value. property value. Crystal Param.. Crystal Param.. Crystal Param.. space group P61. space group P61. space group P61. molecules per asymmetric
+unit 2. molecules per asymmetric
+unit 2. molecules per asymmetric
+unit 2. VM (Å3 Da–1) 2.95. VM (Å3 Da–1) 2.95. VM (Å3 Da–1) 2.95. unit-cell param. (Å) a = b = 51.85, c = 305.70. unit-cell param. (Å) a = b = 51.85, c = 305.70. unit-cell param. (Å) a = b = 51.85, c = 305.70. Data Collection Statistics. Data Collection Statistics. Data Collection Statistics. wavelength (Å) 0.9790. wavelength (Å) 0.9790. wavelength (Å) 0.9790. resolution range (Å) 50.00–2.50 (2.59–2.50). resolution range (Å) 50.00–2.50 (2.59–2.50). resolution range (Å) 50.00–2.50 (2.59–2.50). no. of reflections (measured/unique) 236417/16051. no. of reflections (measured/unique) 236417/16051. no. of reflections (measured/unique) 236417/16051. completeness
+(%) 99.9 (99.5). completeness
+(%) 99.9 (99.5). completeness
+(%) 99.9 (99.5). Rmergeb 0.056 (0.169). Rmergeb 0.056 (0.169). Rmergeb 0.056 (0.169). redundancy 14.8 (12.3). redundancy 14.8 (12.3). redundancy 14.8 (12.3). mean I/σ (I) 27.4 (10.4). mean I/σ (I) 27.4 (10.4). mean I/σ (I) 27.4 (10.4). Refinement and Model
+Statistics. Refinement and Model
+Statistics. Refinement and Model
+Statistics. resolution range (Å) 44.91–2.50. resolution range (Å) 44.91–2.50. resolution range (Å) 44.91–2.50. no.
+of reflections (work/test) 15160/794. no.
+of reflections (work/test) 15160/794. no.
+of reflections (work/test) 15160/794. Rcrystc 0.241 (0.325). Rcrystc 0.241 (0.325). Rcrystc 0.241 (0.325). Rfreed 0.282 (0.371). Rfreed 0.282 (0.371). Rfreed 0.282 (0.371). twin
+operator K, H, -L. twin
+operator K, H, -L. twin
+operator K, H, -L. twin fraction 0.50. twin fraction 0.50. twin fraction 0.50. RMSD bonds (Å) 0.009. RMSD bonds (Å) 0.009. RMSD bonds (Å) 0.009. RMSD angles (deg) 1.453. RMSD angles (deg) 1.453. RMSD angles (deg) 1.453. B factor (protein/solvent) (Å2) 53.8/50.9. B factor (protein/solvent) (Å2) 53.8/50.9. B factor (protein/solvent) (Å2) 53.8/50.9. no. of protein atoms 2497. no. of protein atoms 2497. no. of protein atoms 2497. no. of waters 128. no. of waters 128. no. of waters 128. Ramachandran Plot (%)e. Ramachandran Plot (%)e. Ramachandran Plot (%)e. most favorable regions 91.3. most favorable regions 91.3. most favorable regions 91.3. allowed regions 5.8. allowed regions 5.8. allowed regions 5.8. disallowed regions 2.9. disallowed regions 2.9. disallowed regions 2.9. Global
+Quality Scores (Raw/Z-Score). Global
+Quality Scores (Raw/Z-Score). Global
+Quality Scores (Raw/Z-Score). Verify3D 0.4/–1.0. Verify3D 0.4/–1.0. Verify3D 0.4/–1.0. ProsaII 0.5/–0.6. ProsaII 0.5/–0.6. ProsaII 0.5/–0.6. Procheck
+G factor (phi-psi) –0.6/–2.0. Procheck
+G factor (phi-psi) –0.6/–2.0. Procheck
+G factor (phi-psi) –0.6/–2.0. Procheck G factor (all) –0.5/–2.7. Procheck G factor (all) –0.5/–2.7. Procheck G factor (all) –0.5/–2.7. Molprobity
+clash score 9.6/–1.8. Molprobity
+clash score 9.6/–1.8. Molprobity
+clash score 9.6/–1.8. PDB ID 4FPW. PDB ID 4FPW. PDB ID 4FPW. Values in parentheses are for
+the highest resolution shell. Values in parentheses are for
+the highest resolution shell. Values in parentheses are for
+the highest resolution shell. Rmerge = ∑h ∑i | Ii(h) – ⟨I(h)⟩|/∑h∑iIi(h), where Ii(h) is the intensity of an individual
+measurement of the reflection
+and ⟨I(h)⟩ is the
+mean intensity of the reflection. Rmerge = ∑h ∑i | Ii(h) – ⟨I(h)⟩|/∑h∑iIi(h), where Ii(h) is the intensity of an individual
+measurement of the reflection
+and ⟨I(h)⟩ is the
+mean intensity of the reflection. Rmerge = ∑h ∑i | Ii(h) – ⟨I(h)⟩|/∑h∑iIi(h), where Ii(h) is the intensity of an individual
+measurement of the reflection
+and ⟨I(h)⟩ is the
+mean intensity of the reflection. Rcryst = ∑h ||Fobs| – |Fcalc||/∑h |Fobs|, where Fobs and Fcalc are
+the observed and calculated structure-factor amplitudes, respectively. Rcryst = ∑h ||Fobs| – |Fcalc||/∑h |Fobs|, where Fobs and Fcalc are
+the observed and calculated structure-factor amplitudes, respectively. Rcryst = ∑h ||Fobs| – |Fcalc||/∑h |Fobs|, where Fobs and Fcalc are
+the observed and calculated structure-factor amplitudes, respectively. Rfree was calculated as Rcryst except that
+it uses 10% of the reflection data omitted from refinement. Rfree was calculated as Rcryst except that
+it uses 10% of the reflection data omitted from refinement. Rfree was calculated as Rcryst except that
+it uses 10% of the reflection data omitted from refinement. Calculated using Molprobity.71 Calculated using Molprobity.71 Calculated using Molprobity.71 Summary of CalU16 Solution Structural
+Statisticsa Summary of CalU16 Solution Structural
+Statisticsa Summary of CalU16 Solution Structural
+Statisticsa property value. property value. property value. Completeness of Resonance
+Assignmentsb. Completeness of Resonance
+Assignmentsb. Completeness of Resonance
+Assignmentsb. backbone (%) 98.3. backbone (%) 98.3. backbone (%) 98.3. side chain (%) 97.9. side chain (%) 97.9. side chain (%) 97.9. aromatic (%) 96.2. aromatic (%) 96.2. aromatic (%) 96.2. stereospecific methyl (%) 85.8. stereospecific methyl (%) 85.8. stereospecific methyl (%) 85.8. Conformationally
+Restricting Constraintsc. Conformationally
+Restricting Constraintsc. Conformationally
+Restricting Constraintsc. distance constraints. distance constraints. distance constraints. total 2522. total 2522. total 2522. intraresidue
+(i = j) 471. intraresidue
+(i = j) 471. intraresidue
+(i = j) 471. sequential (|I – j| = 1) 614. sequential (|I – j| = 1) 614. sequential (|I – j| = 1) 614. medium range (1 < |i – j| < 5) 458. medium range (1 < |i – j| < 5) 458. medium range (1 < |i – j| < 5) 458. long-range (|i – j| ≥ 5) 979. long-range (|i – j| ≥ 5) 979. long-range (|i – j| ≥ 5) 979. dihedral angle constraints 222. dihedral angle constraints 222. dihedral angle constraints 222. hydrogen bond constraints 192. hydrogen bond constraints 192. hydrogen bond constraints 192. NH RDC constraints (gel NH/NC′) 75/59. NH RDC constraints (gel NH/NC′) 75/59. NH RDC constraints (gel NH/NC′) 75/59. no. of constraints
+per residue 16.5. no. of constraints
+per residue 16.5. no. of constraints
+per residue 16.5. no. of long-range
+constraints
+per residue 6.0. no. of long-range
+constraints
+per residue 6.0. no. of long-range
+constraints
+per residue 6.0. Residual Constraint Violationsc. Residual Constraint Violationsc. Residual Constraint Violationsc. avg. no. of distance
+violations per structure. avg. no. of distance
+violations per structure. avg. no. of distance
+violations per structure. 0.1–0.2
+Å 24.8. 0.1–0.2
+Å 24.8. 0.1–0.2
+Å 24.8. 0.2–0.5 Å 6.2. 0.2–0.5 Å 6.2. 0.2–0.5 Å 6.2. > 0.5 Å 0. > 0.5 Å 0. > 0.5 Å 0. avg no. of dihedral
+angle violations per structure. avg no. of dihedral
+angle violations per structure. avg no. of dihedral
+angle violations per structure. 1–10° 17.8. 1–10° 17.8. 1–10° 17.8. > 10° 0.2. > 10° 0.2. > 10° 0.2. RDC Qrmsd (gel NH/NC′)d 0.4/0.3. RDC Qrmsd (gel NH/NC′)d 0.4/0.3. RDC Qrmsd (gel NH/NC′)d 0.4/0.3. Model Qualityc. Model Qualityc. Model Qualityc. RMSD backbone atoms (Å)e 0.7. RMSD backbone atoms (Å)e 0.7. RMSD backbone atoms (Å)e 0.7. RMSD heavy atoms (Å)e 1.2. RMSD heavy atoms (Å)e 1.2. RMSD heavy atoms (Å)e 1.2. RMSD
+bond lengths (Å) 0.018. RMSD
+bond lengths (Å) 0.018. RMSD
+bond lengths (Å) 0.018. RMSD bond angles (deg) 1.3. RMSD bond angles (deg) 1.3. RMSD bond angles (deg) 1.3. MolProbity
+Ramachandran
+statisticsc,e. MolProbity
+Ramachandran
+statisticsc,e. MolProbity
+Ramachandran
+statisticsc,e. most favored regions (%) 94.6. most favored regions (%) 94.6. most favored regions (%) 94.6. allowed
+regions (%) 5.4. allowed
+regions (%) 5.4. allowed
+regions (%) 5.4. disallowed regions (%) 0. disallowed regions (%) 0. disallowed regions (%) 0. global quality scores
+(Raw/Z-score)c. global quality scores
+(Raw/Z-score)c. global quality scores
+(Raw/Z-score)c. Verify3D 0.4/–0.3. Verify3D 0.4/–0.3. Verify3D 0.4/–0.3. ProsaII 0.5/–0.6. ProsaII 0.5/–0.6. ProsaII 0.5/–0.6. Procheck G factor (φ–ψ)e –0.4/ −1.3. Procheck G factor (φ–ψ)e –0.4/ −1.3. Procheck G factor (φ–ψ)e –0.4/ −1.3. Procheck G factor (all)e –0.3/–2.0. Procheck G factor (all)e –0.3/–2.0. Procheck G factor (all)e –0.3/–2.0. MolProbity clash score 16.0/–1.2. MolProbity clash score 16.0/–1.2. MolProbity clash score 16.0/–1.2. RPF
+scoresf. RPF
+scoresf. RPF
+scoresf. recall/precision 0.98. recall/precision 0.98. recall/precision 0.98. F-measure/DP-score 0.94. F-measure/DP-score 0.94. F-measure/DP-score 0.94. Model Contents. Model Contents. Model Contents. ordered residue rangee 7–65, 71–89, 95–140, 161–179. ordered residue rangee 7–65, 71–89, 95–140, 161–179. ordered residue rangee 7–65, 71–89, 95–140, 161–179. BMRB accession no. 18547. BMRB accession no. 18547. BMRB accession no. 18547. PDB ID 2LUZ. PDB ID 2LUZ. PDB ID 2LUZ. Structural statistics computed for
+the ensemble of 20 deposited structures. Structural statistics computed for
+the ensemble of 20 deposited structures. Structural statistics computed for
+the ensemble of 20 deposited structures. Computed using AVS software from
+the expected number of resonances, excluding: highly exchangeable
+protons (N-terminal, Lys, and Arg amino groups, hydroxyls of Ser,
+Thr, Tyr), carboxyls of Asp and Glu, nonprotonated aromatic carbons,
+for residues 1–182. Computed using AVS software from
+the expected number of resonances, excluding: highly exchangeable
+protons (N-terminal, Lys, and Arg amino groups, hydroxyls of Ser,
+Thr, Tyr), carboxyls of Asp and Glu, nonprotonated aromatic carbons,
+for residues 1–182. Computed using AVS software from
+the expected number of resonances, excluding: highly exchangeable
+protons (N-terminal, Lys, and Arg amino groups, hydroxyls of Ser,
+Thr, Tyr), carboxyls of Asp and Glu, nonprotonated aromatic carbons,
+for residues 1–182. Calculated using PSVS 1.4. Average
+distance violations were calculated using the sum over r–6. Calculated using PSVS 1.4. Average
+distance violations were calculated using the sum over r–6. Calculated using PSVS 1.4. Average
+distance violations were calculated using the sum over r–6. RDC
+goodness-of-fit quality factor Qrmsd determined
+using PALES. RDC
+goodness-of-fit quality factor Qrmsd determined
+using PALES. RDC
+goodness-of-fit quality factor Qrmsd determined
+using PALES. Based on ordered
+residue ranges
+[S(φ) + S(ψ) > 1.8]. Based on ordered
+residue ranges
+[S(φ) + S(ψ) > 1.8]. Based on ordered
+residue ranges
+[S(φ) + S(ψ) > 1.8]. RPF scores reflecting the goodness-of-fit
+of the final ensemble of structures (including disordered residues)
+to the NOESY data and resonance assignments. RPF scores reflecting the goodness-of-fit
+of the final ensemble of structures (including disordered residues)
+to the NOESY data and resonance assignments. RPF scores reflecting the goodness-of-fit
+of the final ensemble of structures (including disordered residues)
+to the NOESY data and resonance assignments. Superposition of the CalU16 solution structure with
+individual
+subunits of the crystal structure reveals a rmsd of 0.88 Å, indicating
+that the structures are quite similar. The major difference between
+the two structures is the absence of the previously mentioned dynamic
+loop region (residues 141–159) in the crystal structure (Figure 2). Interestingly, the crystal structure of CalU16
+contains two subunits in the asymmetric unit related by 2-fold noncrystallographic
+symmetry, with a small contact interface (calculated to be ∼530
+Å2 by PISA).29 Based on
+analytical static light scattering in-line (Supporting
+Information Figure S4) with gel filtration chromatography and
+NMR correlation time estimates, CalU16 exists as a monomer in solution.
+The final difference map also reveals an additional long tubular feature
+in hydrophobic pocket, perhaps representing a bound unknown E. coli metabolite carried through the purification procedure
+(Supporting Information Figure S5). Superposition of the CalU16 solution structure with
+individual
+subunits of the crystal structure reveals a rmsd of 0.88 Å, indicating
+that the structures are quite similar. The major difference between
+the two structures is the absence of the previously mentioned dynamic
+loop region (residues 141–159) in the crystal structure (Figure 2). Interestingly, the crystal structure of CalU16
+contains two subunits in the asymmetric unit related by 2-fold noncrystallographic
+symmetry, with a small contact interface (calculated to be ∼530
+Å2 by PISA).29 Based on
+analytical static light scattering in-line (Supporting
+Information Figure S4) with gel filtration chromatography and
+NMR correlation time estimates, CalU16 exists as a monomer in solution.
+The final difference map also reveals an additional long tubular feature
+in hydrophobic pocket, perhaps representing a bound unknown E. coli metabolite carried through the purification procedure
+(Supporting Information Figure S5). Superposition of the CalU16 solution structure with
+individual
+subunits of the crystal structure reveals a rmsd of 0.88 Å, indicating
+that the structures are quite similar. The major difference between
+the two structures is the absence of the previously mentioned dynamic
+loop region (residues 141–159) in the crystal structure (Figure 2). Interestingly, the crystal structure of CalU16
+contains two subunits in the asymmetric unit related by 2-fold noncrystallographic
+symmetry, with a small contact interface (calculated to be ∼530
+Å2 by PISA).29 Based on
+analytical static light scattering in-line (Supporting
+Information Figure S4) with gel filtration chromatography and
+NMR correlation time estimates, CalU16 exists as a monomer in solution.
+The final difference map also reveals an additional long tubular feature
+in hydrophobic pocket, perhaps representing a bound unknown E. coli metabolite carried through the purification procedure
+(Supporting Information Figure S5). The CalU16 monomer folds into a globular domain formed by four
+α-helices and seven antiparallel β-strands in the order:
+β1-β2-α1-α2-β3-β4-β5-β6-β7-α3-loop-α4
+(Figure 2). The domain exhibits a common tertiary
+structure consisting of a helix-grip-fold, characteristic of STeroidogenic
+Acute Regulatory protein related lipid Transfer (START) domains implicated
+in possessing a hydrophobic cavity for ligand binding.30,31 The hydrophobic cavity in CalU16 spans the entire length of CalU16,
+formed by seven β-strands and three helices, α1, α2,
+and α3, encompassing residues Ile24, Ile26, Val37, Trp38, Ile47,
+Trp50, Phe51, Ile52, Phe64, Leu66, Leu83, Ile74, Ile85, Trp87, Val97,
+Leu99, Leu101, Leu110, Leu112, Val125, Trp129, Leu133, Leu136, and
+Ile140 (Figure 2). In addition to the START
+domain core, the fourth helix (α4) of CalU16 contributes an
+additional structural unit. Such extra secondary structural elements
+are common upon START domain members where they contribute to a range
+of structural/functional roles.19,32 The CalU16 monomer folds into a globular domain formed by four
+α-helices and seven antiparallel β-strands in the order:
+β1-β2-α1-α2-β3-β4-β5-β6-β7-α3-loop-α4
+(Figure 2). The domain exhibits a common tertiary
+structure consisting of a helix-grip-fold, characteristic of STeroidogenic
+Acute Regulatory protein related lipid Transfer (START) domains implicated
+in possessing a hydrophobic cavity for ligand binding.30,31 The hydrophobic cavity in CalU16 spans the entire length of CalU16,
+formed by seven β-strands and three helices, α1, α2,
+and α3, encompassing residues Ile24, Ile26, Val37, Trp38, Ile47,
+Trp50, Phe51, Ile52, Phe64, Leu66, Leu83, Ile74, Ile85, Trp87, Val97,
+Leu99, Leu101, Leu110, Leu112, Val125, Trp129, Leu133, Leu136, and
+Ile140 (Figure 2). In addition to the START
+domain core, the fourth helix (α4) of CalU16 contributes an
+additional structural unit. Such extra secondary structural elements
+are common upon START domain members where they contribute to a range
+of structural/functional roles.19,32 The CalU16 monomer folds into a globular domain formed by four
+α-helices and seven antiparallel β-strands in the order:
+β1-β2-α1-α2-β3-β4-β5-β6-β7-α3-loop-α4
+(Figure 2). The domain exhibits a common tertiary
+structure consisting of a helix-grip-fold, characteristic of STeroidogenic
+Acute Regulatory protein related lipid Transfer (START) domains implicated
+in possessing a hydrophobic cavity for ligand binding.30,31 The hydrophobic cavity in CalU16 spans the entire length of CalU16,
+formed by seven β-strands and three helices, α1, α2,
+and α3, encompassing residues Ile24, Ile26, Val37, Trp38, Ile47,
+Trp50, Phe51, Ile52, Phe64, Leu66, Leu83, Ile74, Ile85, Trp87, Val97,
+Leu99, Leu101, Leu110, Leu112, Val125, Trp129, Leu133, Leu136, and
+Ile140 (Figure 2). In addition to the START
+domain core, the fourth helix (α4) of CalU16 contributes an
+additional structural unit. Such extra secondary structural elements
+are common upon START domain members where they contribute to a range
+of structural/functional roles.19,32 CalU19 is another
+protein of unknown function encoded by a gene
+in the calicheamicin gene cluster, which displays 42% sequence identity
+to CalU16 (Supporting Information Figure S6). A CalU16-based homology model of CalU19, generated using SWISS-MODEL
+also highlights the presence of a signature hydrophobic core consistent
+with START domain family members, implicating a similar function (Supporting Information Figure S7). CalU19 is another
+protein of unknown function encoded by a gene
+in the calicheamicin gene cluster, which displays 42% sequence identity
+to CalU16 (Supporting Information Figure S6). A CalU16-based homology model of CalU19, generated using SWISS-MODEL
+also highlights the presence of a signature hydrophobic core consistent
+with START domain family members, implicating a similar function (Supporting Information Figure S7). CalU19 is another
+protein of unknown function encoded by a gene
+in the calicheamicin gene cluster, which displays 42% sequence identity
+to CalU16 (Supporting Information Figure S6). A CalU16-based homology model of CalU19, generated using SWISS-MODEL
+also highlights the presence of a signature hydrophobic core consistent
+with START domain family members, implicating a similar function (Supporting Information Figure S7). Structurally-Related
+Proteins Structurally-Related
+Proteins Structurally-Related
+Proteins A structure-based similarity
+search of CalU16 using DaliLite server33 and PDBeFold34 returned >100 hits
+that
+share close structural similarity. Figure 3 and Supporting Information Table S1 summarize
+a small selection of functionally characterized structural homologues
+of CalU16 (Figure 3A). Among these is CalC
+(PDB: 2L65)
+(Figure 3B), the prototype calicheamicin self-sacrifice
+resistance protein encoded by the gene calC from
+the same biosynthetic gene cluster as CalU16.19 In addition, three structures (Figure 3C–E)
+associated with other natural product biosynthetic pathways were identified.
+Specifically, TcmN Aro/Cyc (PDB: 3TVQ) is a polyketide aromatase/cyclase (Figure 3C) involved in the regiospecific cyclization of
+tetracenomycin,35 Hyp-1 (PDB: 3IE5) is involved in
+the formation of hypericin (Figure 3D),36 while NCS (PDB: 2VQ5) is involved in the biosynthesis of (S)-norcoclaurine (Figure 3E).37 Other representative structural homologues identified
+include plant allergen Bet v1-J (PDB: 4A8U),38 abscisic
+acid receptor (PDB: 4N0G),39 cytokinin-specific binding protein
+(PDB: 2FLH),40 and major celery allergen protein (PDB: 2BK0) (Supporting Information Table S1).41 A structural alignment of CalU16 with these homologues highlights
+the striking conservation of the core structural fold, which contributes
+to the binding site for a structurally diverse array of ligands including
+steroids, lipids, hormones, and polyketides. However, a clear structural
+difference in CalU16 is the presence of an additional helical region
+near the residues 160–180 (α4 helix as shown in Figure 2B). While this extra helix is not observed in the
+other homologues of known function, two functionally uncharacterized
+CalU16 structural homologues also have this helix (PDB: 2NN5 and 2K5G).42,43 Despite the plethora of available sequences and structures,31,44 START domain structure/sequence alone remains insufficient to assign
+function for newly discovered family members. Thus, additional structures
+and parallel biochemical characterization are needed to establish
+broader structure–activity relationships of START domain proteins. A structure-based similarity
+search of CalU16 using DaliLite server33 and PDBeFold34 returned >100 hits
+that
+share close structural similarity. Figure 3 and Supporting Information Table S1 summarize
+a small selection of functionally characterized structural homologues
+of CalU16 (Figure 3A). Among these is CalC
+(PDB: 2L65)
+(Figure 3B), the prototype calicheamicin self-sacrifice
+resistance protein encoded by the gene calC from
+the same biosynthetic gene cluster as CalU16.19 In addition, three structures (Figure 3C–E)
+associated with other natural product biosynthetic pathways were identified.
+Specifically, TcmN Aro/Cyc (PDB: 3TVQ) is a polyketide aromatase/cyclase (Figure 3C) involved in the regiospecific cyclization of
+tetracenomycin,35 Hyp-1 (PDB: 3IE5) is involved in
+the formation of hypericin (Figure 3D),36 while NCS (PDB: 2VQ5) is involved in the biosynthesis of (S)-norcoclaurine (Figure 3E).37 Other representative structural homologues identified
+include plant allergen Bet v1-J (PDB: 4A8U),38 abscisic
+acid receptor (PDB: 4N0G),39 cytokinin-specific binding protein
+(PDB: 2FLH),40 and major celery allergen protein (PDB: 2BK0) (Supporting Information Table S1).41 A structural alignment of CalU16 with these homologues highlights
+the striking conservation of the core structural fold, which contributes
+to the binding site for a structurally diverse array of ligands including
+steroids, lipids, hormones, and polyketides. However, a clear structural
+difference in CalU16 is the presence of an additional helical region
+near the residues 160–180 (α4 helix as shown in Figure 2B). While this extra helix is not observed in the
+other homologues of known function, two functionally uncharacterized
+CalU16 structural homologues also have this helix (PDB: 2NN5 and 2K5G).42,43 Despite the plethora of available sequences and structures,31,44 START domain structure/sequence alone remains insufficient to assign
+function for newly discovered family members. Thus, additional structures
+and parallel biochemical characterization are needed to establish
+broader structure–activity relationships of START domain proteins. A structure-based similarity
+search of CalU16 using DaliLite server33 and PDBeFold34 returned >100 hits
+that
+share close structural similarity. Figure 3 and Supporting Information Table S1 summarize
+a small selection of functionally characterized structural homologues
+of CalU16 (Figure 3A). Among these is CalC
+(PDB: 2L65)
+(Figure 3B), the prototype calicheamicin self-sacrifice
+resistance protein encoded by the gene calC from
+the same biosynthetic gene cluster as CalU16.19 In addition, three structures (Figure 3C–E)
+associated with other natural product biosynthetic pathways were identified.
+Specifically, TcmN Aro/Cyc (PDB: 3TVQ) is a polyketide aromatase/cyclase (Figure 3C) involved in the regiospecific cyclization of
+tetracenomycin,35 Hyp-1 (PDB: 3IE5) is involved in
+the formation of hypericin (Figure 3D),36 while NCS (PDB: 2VQ5) is involved in the biosynthesis of (S)-norcoclaurine (Figure 3E).37 Other representative structural homologues identified
+include plant allergen Bet v1-J (PDB: 4A8U),38 abscisic
+acid receptor (PDB: 4N0G),39 cytokinin-specific binding protein
+(PDB: 2FLH),40 and major celery allergen protein (PDB: 2BK0) (Supporting Information Table S1).41 A structural alignment of CalU16 with these homologues highlights
+the striking conservation of the core structural fold, which contributes
+to the binding site for a structurally diverse array of ligands including
+steroids, lipids, hormones, and polyketides. However, a clear structural
+difference in CalU16 is the presence of an additional helical region
+near the residues 160–180 (α4 helix as shown in Figure 2B). While this extra helix is not observed in the
+other homologues of known function, two functionally uncharacterized
+CalU16 structural homologues also have this helix (PDB: 2NN5 and 2K5G).42,43 Despite the plethora of available sequences and structures,31,44 START domain structure/sequence alone remains insufficient to assign
+function for newly discovered family members. Thus, additional structures
+and parallel biochemical characterization are needed to establish
+broader structure–activity relationships of START domain proteins. Figure 3CalU16
+structural homologues. (A) CalU16 (PDB: 4FPW); (B) CalC (PDB: 2L65), calicheamicin
+resistance protein; (C) TcmN Aro/Cyc (in complex with trans-dihydroquercetin; PDB: 3TVQ) involved in the biosynthesis of tetracenomycin; (D)
+Hyp-1 (in complex with ethylene glycol; PDB: 3IE5) involved in the
+biosynthesis of hypericin; (E) NCS (in complex with hydroxybenzaldehyde;
+PDB: 2VQ5) involved
+in the biosynthesis of norcoclaurine. Figure 3CalU16
+structural homologues. (A) CalU16 (PDB: 4FPW); (B) CalC (PDB: 2L65), calicheamicin
+resistance protein; (C) TcmN Aro/Cyc (in complex with trans-dihydroquercetin; PDB: 3TVQ) involved in the biosynthesis of tetracenomycin; (D)
+Hyp-1 (in complex with ethylene glycol; PDB: 3IE5) involved in the
+biosynthesis of hypericin; (E) NCS (in complex with hydroxybenzaldehyde;
+PDB: 2VQ5) involved
+in the biosynthesis of norcoclaurine. Figure 3CalU16
+structural homologues. (A) CalU16 (PDB: 4FPW); (B) CalC (PDB: 2L65), calicheamicin
+resistance protein; (C) TcmN Aro/Cyc (in complex with trans-dihydroquercetin; PDB: 3TVQ) involved in the biosynthesis of tetracenomycin; (D)
+Hyp-1 (in complex with ethylene glycol; PDB: 3IE5) involved in the
+biosynthesis of hypericin; (E) NCS (in complex with hydroxybenzaldehyde;
+PDB: 2VQ5) involved
+in the biosynthesis of norcoclaurine. CalU16
+structural homologues. (A) CalU16 (PDB: 4FPW); (B) CalC (PDB: 2L65), calicheamicin
+resistance protein; (C) TcmN Aro/Cyc (in complex with trans-dihydroquercetin; PDB: 3TVQ) involved in the biosynthesis of tetracenomycin; (D)
+Hyp-1 (in complex with ethylene glycol; PDB: 3IE5) involved in the
+biosynthesis of hypericin; (E) NCS (in complex with hydroxybenzaldehyde;
+PDB: 2VQ5) involved
+in the biosynthesis of norcoclaurine. CalU16
+structural homologues. (A) CalU16 (PDB: 4FPW); (B) CalC (PDB: 2L65), calicheamicin
+resistance protein; (C) TcmN Aro/Cyc (in complex with trans-dihydroquercetin; PDB: 3TVQ) involved in the biosynthesis of tetracenomycin; (D)
+Hyp-1 (in complex with ethylene glycol; PDB: 3IE5) involved in the
+biosynthesis of hypericin; (E) NCS (in complex with hydroxybenzaldehyde;
+PDB: 2VQ5) involved
+in the biosynthesis of norcoclaurine. CalU16
+structural homologues. (A) CalU16 (PDB: 4FPW); (B) CalC (PDB: 2L65), calicheamicin
+resistance protein; (C) TcmN Aro/Cyc (in complex with trans-dihydroquercetin; PDB: 3TVQ) involved in the biosynthesis of tetracenomycin; (D)
+Hyp-1 (in complex with ethylene glycol; PDB: 3IE5) involved in the
+biosynthesis of hypericin; (E) NCS (in complex with hydroxybenzaldehyde;
+PDB: 2VQ5) involved
+in the biosynthesis of norcoclaurine. Heterologous Expression of calU16 or calU19 in E. coli Confers Resistance to
+Calicheamicin Heterologous Expression of calU16 or calU19 in E. coli Confers Resistance to
+Calicheamicin Heterologous Expression of calU16 or calU19 in E. coli Confers Resistance to
+Calicheamicin Our initial cloning of the 1 biosynthetic
+gene cluster was facilitated by employing a selection for 1 resistance using a M. echinospora cosmid library
+in E. coli.(16) From positive
+cosmids identified, an iterative subcloning and selection process
+ultimately led to the discovery of calC gene and
+subsequent elucidation of the CalC mechanism.18 It is important to note that the initial screen for resistance genes
+relied upon the native Micromonospora promoters for
+heterologous expression in E. coli, and thus, calU16 and calU19 could have been missed
+simply due to poor heterologous expression in E. coli. However, the ability of calC (and presumably other
+self-sacrifice resistance protein encoding genes) to confer resistance
+upon E. coli provides a convenient indicator for
+putative function. As a preliminary assessment of potential CalU16/19
+function, the genes encoding each protein were expressed in E. coli and the corresponding recombinant strains tested
+for 1 resistance in a manner reminiscent to that previously
+reported for CalC.18 To do so, calU16 and calU19 were cloned into pET28a
+to provide pSECalU16-E. coli and pSECalU19-E. coli, respectively, and the corresponding heterologous
+production levels of both CalU16 and CalU19 in E. coli were confirmed via SDS-PAGE to be comparable (Supporting Information Figure S8). A subsequent disc diffusion
+assay was used to test for 1 resistance of pSECalU16-E. coli, pSECalU19-E. coli, pET28a-E. coli (an empty vector negative control), and pJB2011-E. coli (a calC-expressing positive control).18 Figure 4 illustrates
+the rank order of in vivo resistance to be CalC ≈
+CalU19 > CalU16 with no resistance in the empty vector-containing
+negative control. Consistent with this qualitative assessment, the
+determination of minimum inhibitory concentration (MIC) (Table 3, Supporting Information Figure
+S9), revealed both pJB2011-E. coli and pSECalU19-E. coli to be 330-fold more tolerant to 1 than
+the pET28a-E. coli empty vector control while pSECalU16-E. coli was 80-fold more resistant than the control strain.
+Importantly, this supports the contention that CalU16/19 function
+in a manner similar to CalC. To further confirm that the 1-resistance pattern of CalC, CalU16, and CalU19 is specific and not
+an artifact related to general proteins encoded by genes in the calicheamicin
+gene cluster, an identical study using the unknown-encoding gene calU17 revealed no resistance toward 1 (Supporting Information Figure S10). It is also
+important to note that 1 does not indiscriminately cleave
+other proteins such as bovine serum albumin, illustrating the importance
+of the START domain hydrophobic core for enediyne binding and functional
+enediyne resistance.18 Our initial cloning of the 1 biosynthetic
+gene cluster was facilitated by employing a selection for 1 resistance using a M. echinospora cosmid library
+in E. coli.(16) From positive
+cosmids identified, an iterative subcloning and selection process
+ultimately led to the discovery of calC gene and
+subsequent elucidation of the CalC mechanism.18 It is important to note that the initial screen for resistance genes
+relied upon the native Micromonospora promoters for
+heterologous expression in E. coli, and thus, calU16 and calU19 could have been missed
+simply due to poor heterologous expression in E. coli. However, the ability of calC (and presumably other
+self-sacrifice resistance protein encoding genes) to confer resistance
+upon E. coli provides a convenient indicator for
+putative function. As a preliminary assessment of potential CalU16/19
+function, the genes encoding each protein were expressed in E. coli and the corresponding recombinant strains tested
+for 1 resistance in a manner reminiscent to that previously
+reported for CalC.18 To do so, calU16 and calU19 were cloned into pET28a
+to provide pSECalU16-E. coli and pSECalU19-E. coli, respectively, and the corresponding heterologous
+production levels of both CalU16 and CalU19 in E. coli were confirmed via SDS-PAGE to be comparable (Supporting Information Figure S8). A subsequent disc diffusion
+assay was used to test for 1 resistance of pSECalU16-E. coli, pSECalU19-E. coli, pET28a-E. coli (an empty vector negative control), and pJB2011-E. coli (a calC-expressing positive control).18 Figure 4 illustrates
+the rank order of in vivo resistance to be CalC ≈
+CalU19 > CalU16 with no resistance in the empty vector-containing
+negative control. Consistent with this qualitative assessment, the
+determination of minimum inhibitory concentration (MIC) (Table 3, Supporting Information Figure
+S9), revealed both pJB2011-E. coli and pSECalU19-E. coli to be 330-fold more tolerant to 1 than
+the pET28a-E. coli empty vector control while pSECalU16-E. coli was 80-fold more resistant than the control strain.
+Importantly, this supports the contention that CalU16/19 function
+in a manner similar to CalC. To further confirm that the 1-resistance pattern of CalC, CalU16, and CalU19 is specific and not
+an artifact related to general proteins encoded by genes in the calicheamicin
+gene cluster, an identical study using the unknown-encoding gene calU17 revealed no resistance toward 1 (Supporting Information Figure S10). It is also
+important to note that 1 does not indiscriminately cleave
+other proteins such as bovine serum albumin, illustrating the importance
+of the START domain hydrophobic core for enediyne binding and functional
+enediyne resistance.18 Our initial cloning of the 1 biosynthetic
+gene cluster was facilitated by employing a selection for 1 resistance using a M. echinospora cosmid library
+in E. coli.(16) From positive
+cosmids identified, an iterative subcloning and selection process
+ultimately led to the discovery of calC gene and
+subsequent elucidation of the CalC mechanism.18 It is important to note that the initial screen for resistance genes
+relied upon the native Micromonospora promoters for
+heterologous expression in E. coli, and thus, calU16 and calU19 could have been missed
+simply due to poor heterologous expression in E. coli. However, the ability of calC (and presumably other
+self-sacrifice resistance protein encoding genes) to confer resistance
+upon E. coli provides a convenient indicator for
+putative function. As a preliminary assessment of potential CalU16/19
+function, the genes encoding each protein were expressed in E. coli and the corresponding recombinant strains tested
+for 1 resistance in a manner reminiscent to that previously
+reported for CalC.18 To do so, calU16 and calU19 were cloned into pET28a
+to provide pSECalU16-E. coli and pSECalU19-E. coli, respectively, and the corresponding heterologous
+production levels of both CalU16 and CalU19 in E. coli were confirmed via SDS-PAGE to be comparable (Supporting Information Figure S8). A subsequent disc diffusion
+assay was used to test for 1 resistance of pSECalU16-E. coli, pSECalU19-E. coli, pET28a-E. coli (an empty vector negative control), and pJB2011-E. coli (a calC-expressing positive control).18 Figure 4 illustrates
+the rank order of in vivo resistance to be CalC ≈
+CalU19 > CalU16 with no resistance in the empty vector-containing
+negative control. Consistent with this qualitative assessment, the
+determination of minimum inhibitory concentration (MIC) (Table 3, Supporting Information Figure
+S9), revealed both pJB2011-E. coli and pSECalU19-E. coli to be 330-fold more tolerant to 1 than
+the pET28a-E. coli empty vector control while pSECalU16-E. coli was 80-fold more resistant than the control strain.
+Importantly, this supports the contention that CalU16/19 function
+in a manner similar to CalC. To further confirm that the 1-resistance pattern of CalC, CalU16, and CalU19 is specific and not
+an artifact related to general proteins encoded by genes in the calicheamicin
+gene cluster, an identical study using the unknown-encoding gene calU17 revealed no resistance toward 1 (Supporting Information Figure S10). It is also
+important to note that 1 does not indiscriminately cleave
+other proteins such as bovine serum albumin, illustrating the importance
+of the START domain hydrophobic core for enediyne binding and functional
+enediyne resistance.18 Figure 4CalU16 and CalU19 assays.
+Serial disc dilutions of 1 against (A) pSE28a-E. coli (control), (B) pSECalU16-E. coli (CalU16), (C) pSECalU19-E. coli (CalU19), (D) pJB2011-E. coli (CalC). Amount of 1 on discs 1–6
+are 10 μg, 1 μg, 100 ng,
+50 ng, 10 ng, and 1 ng, respectively. Coomassie-stained 8–12%
+SDS-PAGE gradient gel of (E) CalU16 and (F) CalU19 in the presence
+of DTT (lane 1), 1 (lane 2), and DTT and 1 (lane 3). Figure 4CalU16 and CalU19 assays.
+Serial disc dilutions of 1 against (A) pSE28a-E. coli (control), (B) pSECalU16-E. coli (CalU16), (C) pSECalU19-E. coli (CalU19), (D) pJB2011-E. coli (CalC). Amount of 1 on discs 1–6
+are 10 μg, 1 μg, 100 ng,
+50 ng, 10 ng, and 1 ng, respectively. Coomassie-stained 8–12%
+SDS-PAGE gradient gel of (E) CalU16 and (F) CalU19 in the presence
+of DTT (lane 1), 1 (lane 2), and DTT and 1 (lane 3). Figure 4CalU16 and CalU19 assays.
+Serial disc dilutions of 1 against (A) pSE28a-E. coli (control), (B) pSECalU16-E. coli (CalU16), (C) pSECalU19-E. coli (CalU19), (D) pJB2011-E. coli (CalC). Amount of 1 on discs 1–6
+are 10 μg, 1 μg, 100 ng,
+50 ng, 10 ng, and 1 ng, respectively. Coomassie-stained 8–12%
+SDS-PAGE gradient gel of (E) CalU16 and (F) CalU19 in the presence
+of DTT (lane 1), 1 (lane 2), and DTT and 1 (lane 3). CalU16 and CalU19 assays.
+Serial disc dilutions of 1 against (A) pSE28a-E. coli (control), (B) pSECalU16-E. coli (CalU16), (C) pSECalU19-E. coli (CalU19), (D) pJB2011-E. coli (CalC). Amount of 1 on discs 1–6
+are 10 μg, 1 μg, 100 ng,
+50 ng, 10 ng, and 1 ng, respectively. Coomassie-stained 8–12%
+SDS-PAGE gradient gel of (E) CalU16 and (F) CalU19 in the presence
+of DTT (lane 1), 1 (lane 2), and DTT and 1 (lane 3). CalU16 and CalU19 assays.
+Serial disc dilutions of 1 against (A) pSE28a-E. coli (control), (B) pSECalU16-E. coli (CalU16), (C) pSECalU19-E. coli (CalU19), (D) pJB2011-E. coli (CalC). Amount of 1 on discs 1–6
+are 10 μg, 1 μg, 100 ng,
+50 ng, 10 ng, and 1 ng, respectively. Coomassie-stained 8–12%
+SDS-PAGE gradient gel of (E) CalU16 and (F) CalU19 in the presence
+of DTT (lane 1), 1 (lane 2), and DTT and 1 (lane 3). CalU16 and CalU19 assays.
+Serial disc dilutions of 1 against (A) pSE28a-E. coli (control), (B) pSECalU16-E. coli (CalU16), (C) pSECalU19-E. coli (CalU19), (D) pJB2011-E. coli (CalC). Amount of 1 on discs 1–6
+are 10 μg, 1 μg, 100 ng,
+50 ng, 10 ng, and 1 ng, respectively. Coomassie-stained 8–12%
+SDS-PAGE gradient gel of (E) CalU16 and (F) CalU19 in the presence
+of DTT (lane 1), 1 (lane 2), and DTT and 1 (lane 3). Minimum
+Inhibitory Concentration of
+Strains Used in This Study Against 1 Minimum
+Inhibitory Concentration of
+Strains Used in This Study Against 1 Minimum
+Inhibitory Concentration of
+Strains Used in This Study Against 1 strain MIC (μM). strain MIC (μM). strain MIC (μM). pSE28a-E. coli 0.036. pSE28a-E. coli 0.036. pSE28a-E. coli 0.036. pSECalU16-E.
+coli 3. pSECalU16-E.
+coli 3. pSECalU16-E.
+coli 3. pSECalU19-E. coli 12. pSECalU19-E. coli 12. pSECalU19-E. coli 12. pJB2011-E. coli 12. pJB2011-E. coli 12. pJB2011-E. coli 12. pSEU16G128V-E. coli 0.36. pSEU16G128V-E. coli 0.36. pSEU16G128V-E. coli 0.36. pSEU16G128R-E. coli 0.18. pSEU16G128R-E. coli 0.18. pSEU16G128R-E. coli 0.18. pSEU16G142V-E. coli 3. pSEU16G142V-E. coli 3. pSEU16G142V-E. coli 3. pSEU16G142R-E. coli 3. pSEU16G142R-E. coli 3. pSEU16G142R-E. coli 3. pSEU19G177V-E. coli 6. pSEU19G177V-E. coli 6. pSEU19G177V-E. coli 6. pSEU19G177R-E. coli 0.36. pSEU19G177R-E. coli 0.36. pSEU19G177R-E. coli 0.36. pSEU19G181V-E. coli 12. pSEU19G181V-E. coli 12. pSEU19G181V-E. coli 12. pSEU19G191V-E. coli 12. pSEU19G191V-E. coli 12. pSEU19G191V-E. coli 12. pSEU19G196V-E. coli 12. pSEU19G196V-E. coli 12. pSEU19G196V-E. coli 12. pSEU19G206V-E. coli 12. pSEU19G206V-E. coli 12. pSEU19G206V-E. coli 12. CalU16 Biochemical Characterization CalU16 Biochemical Characterization CalU16 Biochemical Characterization The prototype self-sacrifice
+protein CalC functions via binding calicheamicin and providing an
+alternative hydrogen source for quenching the highly reactive diradical
+species formed upon calicheamicin cycloaromatization. In competition
+assays using the real-time fluorescence-based molecular break light
+assay,13 CalC was found to out-compete
+DNA for calicheamicin and thereby prevent calicheamicin-induced strand
+scission. In the presence of CalC, the calicheamicin diradical species
+abstracts the Cα hydrogen of G113 to generate a protein
+radical that, in the presence of oxygen, leads to proteolysis into
+two distinct CalC fragments (Figure 1B).18 Thus, a similar series of proteolysis experiments
+were conducted to determine whether CalU16 utilizes an analogous mechanism.
+Figure 4 highlights the outcome of this analysis
+using N-His6-CalU16. Importantly, incubation
+of CalU16 with 1 alone led to no reaction, incubation
+of CalU16 and 1 in the presence of reducing agent (dithiothreitol,
+DTT) led to the specific cleavage of CalU16 into two fragments of
+estimated size 16 kDa and 6 kDa based upon SDS-PAGE (Figure 4E). LC-MS/MS analysis of the tryptic digestion of
+the isolated fragments identified two nontryptic peptides flanking
+Gly128: 101LSEEGDGTLLELEHATTSEQMLVEVG127V(−NH2) and 129WEMALDFLGMFI141R (see MS/MS spectra of the two peptides in Supporting Information Figure S11). The first
+peptide ends with a nontryptic residue 127V with an amine
+group (−NH2) from the 128Gly residue
+attached. The second peptide starts with 129W further supports
+that Gly128 is likely the cleavage site due to hydrogen abstraction.
+In addition, the LC-MS/MS data suggested 142G as another
+potential cleavage site, based upon a weak peptide signal [129WEMALDFLGMFI141R(−NH2), ion score =24].
+However, the corresponding peptide starting with 143D was
+not identified. Nevertheless, we included both Gly128 and Gly142 in
+CalU16 as putative sites in the subsequent mutational study to further
+determine which glycine is the critical point of hydrogen abstraction. The prototype self-sacrifice
+protein CalC functions via binding calicheamicin and providing an
+alternative hydrogen source for quenching the highly reactive diradical
+species formed upon calicheamicin cycloaromatization. In competition
+assays using the real-time fluorescence-based molecular break light
+assay,13 CalC was found to out-compete
+DNA for calicheamicin and thereby prevent calicheamicin-induced strand
+scission. In the presence of CalC, the calicheamicin diradical species
+abstracts the Cα hydrogen of G113 to generate a protein
+radical that, in the presence of oxygen, leads to proteolysis into
+two distinct CalC fragments (Figure 1B).18 Thus, a similar series of proteolysis experiments
+were conducted to determine whether CalU16 utilizes an analogous mechanism.
+Figure 4 highlights the outcome of this analysis
+using N-His6-CalU16. Importantly, incubation
+of CalU16 with 1 alone led to no reaction, incubation
+of CalU16 and 1 in the presence of reducing agent (dithiothreitol,
+DTT) led to the specific cleavage of CalU16 into two fragments of
+estimated size 16 kDa and 6 kDa based upon SDS-PAGE (Figure 4E). LC-MS/MS analysis of the tryptic digestion of
+the isolated fragments identified two nontryptic peptides flanking
+Gly128: 101LSEEGDGTLLELEHATTSEQMLVEVG127V(−NH2) and 129WEMALDFLGMFI141R (see MS/MS spectra of the two peptides in Supporting Information Figure S11). The first
+peptide ends with a nontryptic residue 127V with an amine
+group (−NH2) from the 128Gly residue
+attached. The second peptide starts with 129W further supports
+that Gly128 is likely the cleavage site due to hydrogen abstraction.
+In addition, the LC-MS/MS data suggested 142G as another
+potential cleavage site, based upon a weak peptide signal [129WEMALDFLGMFI141R(−NH2), ion score =24].
+However, the corresponding peptide starting with 143D was
+not identified. Nevertheless, we included both Gly128 and Gly142 in
+CalU16 as putative sites in the subsequent mutational study to further
+determine which glycine is the critical point of hydrogen abstraction. The prototype self-sacrifice
+protein CalC functions via binding calicheamicin and providing an
+alternative hydrogen source for quenching the highly reactive diradical
+species formed upon calicheamicin cycloaromatization. In competition
+assays using the real-time fluorescence-based molecular break light
+assay,13 CalC was found to out-compete
+DNA for calicheamicin and thereby prevent calicheamicin-induced strand
+scission. In the presence of CalC, the calicheamicin diradical species
+abstracts the Cα hydrogen of G113 to generate a protein
+radical that, in the presence of oxygen, leads to proteolysis into
+two distinct CalC fragments (Figure 1B).18 Thus, a similar series of proteolysis experiments
+were conducted to determine whether CalU16 utilizes an analogous mechanism.
+Figure 4 highlights the outcome of this analysis
+using N-His6-CalU16. Importantly, incubation
+of CalU16 with 1 alone led to no reaction, incubation
+of CalU16 and 1 in the presence of reducing agent (dithiothreitol,
+DTT) led to the specific cleavage of CalU16 into two fragments of
+estimated size 16 kDa and 6 kDa based upon SDS-PAGE (Figure 4E). LC-MS/MS analysis of the tryptic digestion of
+the isolated fragments identified two nontryptic peptides flanking
+Gly128: 101LSEEGDGTLLELEHATTSEQMLVEVG127V(−NH2) and 129WEMALDFLGMFI141R (see MS/MS spectra of the two peptides in Supporting Information Figure S11). The first
+peptide ends with a nontryptic residue 127V with an amine
+group (−NH2) from the 128Gly residue
+attached. The second peptide starts with 129W further supports
+that Gly128 is likely the cleavage site due to hydrogen abstraction.
+In addition, the LC-MS/MS data suggested 142G as another
+potential cleavage site, based upon a weak peptide signal [129WEMALDFLGMFI141R(−NH2), ion score =24].
+However, the corresponding peptide starting with 143D was
+not identified. Nevertheless, we included both Gly128 and Gly142 in
+CalU16 as putative sites in the subsequent mutational study to further
+determine which glycine is the critical point of hydrogen abstraction. To elucidate the key CalU16 glycine residue that serves as the
+putative hydrogen donor, four targeted CalU16 glycine mutants (G128V,
+G128R, G142V, and G142R) were created and tested both in vivo and in vitro. Strains expressing CalU16ΔG142
+mutations (pSEU16G142V-E. coli and pSEU16G142R-E. coli) retained wtCalU16 (pSECalU16-E. coli) resistance levels to 1 while mutation of Gly128 (pSEU16G128V-E. coli and pSEU16G128R-E. coli) reduced
+or abolished tolerance to 1 (Figure 5, Supporting Information Figure S12, Table 3). Consistent with this, 1-based proteolysis of N-His6-CalU16 mutant
+proteins (Supporting Information Figure S13) revealed CalU16G142V and CalU16G142R to cleave in an identical
+manner to wtCalU16 in the presence of 1 and DTT while
+CalU16G128V and CalU16G128R were resistant to cleavage under identical
+conditions. Cumulatively, this data is consistent with CalU16 Gly128
+as the key hydrogen donor in self-sacrifice mechanism, reminiscent
+of CalC Gly113, wherein cleavage of CalU16 (or CalC) inactivates 1 in a stoichiometric manner. To elucidate the key CalU16 glycine residue that serves as the
+putative hydrogen donor, four targeted CalU16 glycine mutants (G128V,
+G128R, G142V, and G142R) were created and tested both in vivo and in vitro. Strains expressing CalU16ΔG142
+mutations (pSEU16G142V-E. coli and pSEU16G142R-E. coli) retained wtCalU16 (pSECalU16-E. coli) resistance levels to 1 while mutation of Gly128 (pSEU16G128V-E. coli and pSEU16G128R-E. coli) reduced
+or abolished tolerance to 1 (Figure 5, Supporting Information Figure S12, Table 3). Consistent with this, 1-based proteolysis of N-His6-CalU16 mutant
+proteins (Supporting Information Figure S13) revealed CalU16G142V and CalU16G142R to cleave in an identical
+manner to wtCalU16 in the presence of 1 and DTT while
+CalU16G128V and CalU16G128R were resistant to cleavage under identical
+conditions. Cumulatively, this data is consistent with CalU16 Gly128
+as the key hydrogen donor in self-sacrifice mechanism, reminiscent
+of CalC Gly113, wherein cleavage of CalU16 (or CalC) inactivates 1 in a stoichiometric manner. To elucidate the key CalU16 glycine residue that serves as the
+putative hydrogen donor, four targeted CalU16 glycine mutants (G128V,
+G128R, G142V, and G142R) were created and tested both in vivo and in vitro. Strains expressing CalU16ΔG142
+mutations (pSEU16G142V-E. coli and pSEU16G142R-E. coli) retained wtCalU16 (pSECalU16-E. coli) resistance levels to 1 while mutation of Gly128 (pSEU16G128V-E. coli and pSEU16G128R-E. coli) reduced
+or abolished tolerance to 1 (Figure 5, Supporting Information Figure S12, Table 3). Consistent with this, 1-based proteolysis of N-His6-CalU16 mutant
+proteins (Supporting Information Figure S13) revealed CalU16G142V and CalU16G142R to cleave in an identical
+manner to wtCalU16 in the presence of 1 and DTT while
+CalU16G128V and CalU16G128R were resistant to cleavage under identical
+conditions. Cumulatively, this data is consistent with CalU16 Gly128
+as the key hydrogen donor in self-sacrifice mechanism, reminiscent
+of CalC Gly113, wherein cleavage of CalU16 (or CalC) inactivates 1 in a stoichiometric manner. Figure 5Site directed mutagenesis of CalU16 and
+CalU19. Docking models
+of (A) CalC (B) CalU16, and (C) CalU19 with mutated glycine residues
+represented as spheres where colored Gly residues indicate cleavage
+sites, wheat Gly residues indicate mutations that did not affect activity
+and calicheamicin (1) is represented as a stick model.
+Results of disc diffusion assay in CalU16 mutants (D) pSE28a-E. coli (control); (E) pSEU16G128V-E. coli; (F) pSEU16G128R-E. coli; (G) pSECalU16-E. coli; and CalU19 mutants (H) pSE28a-E. coli (control); (I) pSEU19G177V-E. coli; (J) pSEU19G177R-E. coli; (K) pSECalU19-E. coli. Amount
+of 1 on discs 1–6 are 10 μg, 1 μg,
+100 ng, 50 ng, 10 ng, and 1 ng, respectively. Figure 5Site directed mutagenesis of CalU16 and
+CalU19. Docking models
+of (A) CalC (B) CalU16, and (C) CalU19 with mutated glycine residues
+represented as spheres where colored Gly residues indicate cleavage
+sites, wheat Gly residues indicate mutations that did not affect activity
+and calicheamicin (1) is represented as a stick model.
+Results of disc diffusion assay in CalU16 mutants (D) pSE28a-E. coli (control); (E) pSEU16G128V-E. coli; (F) pSEU16G128R-E. coli; (G) pSECalU16-E. coli; and CalU19 mutants (H) pSE28a-E. coli (control); (I) pSEU19G177V-E. coli; (J) pSEU19G177R-E. coli; (K) pSECalU19-E. coli. Amount
+of 1 on discs 1–6 are 10 μg, 1 μg,
+100 ng, 50 ng, 10 ng, and 1 ng, respectively. Figure 5Site directed mutagenesis of CalU16 and
+CalU19. Docking models
+of (A) CalC (B) CalU16, and (C) CalU19 with mutated glycine residues
+represented as spheres where colored Gly residues indicate cleavage
+sites, wheat Gly residues indicate mutations that did not affect activity
+and calicheamicin (1) is represented as a stick model.
+Results of disc diffusion assay in CalU16 mutants (D) pSE28a-E. coli (control); (E) pSEU16G128V-E. coli; (F) pSEU16G128R-E. coli; (G) pSECalU16-E. coli; and CalU19 mutants (H) pSE28a-E. coli (control); (I) pSEU19G177V-E. coli; (J) pSEU19G177R-E. coli; (K) pSECalU19-E. coli. Amount
+of 1 on discs 1–6 are 10 μg, 1 μg,
+100 ng, 50 ng, 10 ng, and 1 ng, respectively. Site directed mutagenesis of CalU16 and
+CalU19. Docking models
+of (A) CalC (B) CalU16, and (C) CalU19 with mutated glycine residues
+represented as spheres where colored Gly residues indicate cleavage
+sites, wheat Gly residues indicate mutations that did not affect activity
+and calicheamicin (1) is represented as a stick model.
+Results of disc diffusion assay in CalU16 mutants (D) pSE28a-E. coli (control); (E) pSEU16G128V-E. coli; (F) pSEU16G128R-E. coli; (G) pSECalU16-E. coli; and CalU19 mutants (H) pSE28a-E. coli (control); (I) pSEU19G177V-E. coli; (J) pSEU19G177R-E. coli; (K) pSECalU19-E. coli. Amount
+of 1 on discs 1–6 are 10 μg, 1 μg,
+100 ng, 50 ng, 10 ng, and 1 ng, respectively. Site directed mutagenesis of CalU16 and
+CalU19. Docking models
+of (A) CalC (B) CalU16, and (C) CalU19 with mutated glycine residues
+represented as spheres where colored Gly residues indicate cleavage
+sites, wheat Gly residues indicate mutations that did not affect activity
+and calicheamicin (1) is represented as a stick model.
+Results of disc diffusion assay in CalU16 mutants (D) pSE28a-E. coli (control); (E) pSEU16G128V-E. coli; (F) pSEU16G128R-E. coli; (G) pSECalU16-E. coli; and CalU19 mutants (H) pSE28a-E. coli (control); (I) pSEU19G177V-E. coli; (J) pSEU19G177R-E. coli; (K) pSECalU19-E. coli. Amount
+of 1 on discs 1–6 are 10 μg, 1 μg,
+100 ng, 50 ng, 10 ng, and 1 ng, respectively. Site directed mutagenesis of CalU16 and
+CalU19. Docking models
+of (A) CalC (B) CalU16, and (C) CalU19 with mutated glycine residues
+represented as spheres where colored Gly residues indicate cleavage
+sites, wheat Gly residues indicate mutations that did not affect activity
+and calicheamicin (1) is represented as a stick model.
+Results of disc diffusion assay in CalU16 mutants (D) pSE28a-E. coli (control); (E) pSEU16G128V-E. coli; (F) pSEU16G128R-E. coli; (G) pSECalU16-E. coli; and CalU19 mutants (H) pSE28a-E. coli (control); (I) pSEU19G177V-E. coli; (J) pSEU19G177R-E. coli; (K) pSECalU19-E. coli. Amount
+of 1 on discs 1–6 are 10 μg, 1 μg,
+100 ng, 50 ng, 10 ng, and 1 ng, respectively. CalU19 Biochemical Characterization CalU19 Biochemical Characterization CalU19 Biochemical Characterization To determine whether
+the CalU16 homologue CalU19 presents a 1 self-sacrifice
+resistance function analogous to CalC and CalU16, the expressed N-His6-CalU19 was purified and incubated with 1 alone or in the presence of a reducing agent (DTT). In this
+study, CalU19 was also cleaved into two fragments by 1 but, in stark contrast to CalC and CalU16, 1-induced
+CalU19 cleavage occurred even in the absence of the reducing agent
+DTT (Figure 4F). The estimated sizes of the
+corresponding CalU19 fragments were ∼21 and 6 kDa based upon
+SDS-PAGE (Supporting Information Table S2). LC-MS/MS analysis of the chymotrypsin digestion of the isolated
+fragments identified two nonchymotryptic peptides flanking Gly177: 142RLTPSGDATVLELEHAPVPAEIIPNAAPGAWGIG176A(−NH2) and 178WEMGLVALDDYLAGTLPEGRAVD201W (see MS/MS spectra of the two peptides in Supporting Information Figure S14). The first
+peptide ends with a nonchymotryptic residue 176A with an
+amine group (−NH2) from the 177Gly residue
+attached. The second peptide starts with 178W further supports
+that Gly177 is likely the cleavage site due to hydrogen abstraction. To determine whether
+the CalU16 homologue CalU19 presents a 1 self-sacrifice
+resistance function analogous to CalC and CalU16, the expressed N-His6-CalU19 was purified and incubated with 1 alone or in the presence of a reducing agent (DTT). In this
+study, CalU19 was also cleaved into two fragments by 1 but, in stark contrast to CalC and CalU16, 1-induced
+CalU19 cleavage occurred even in the absence of the reducing agent
+DTT (Figure 4F). The estimated sizes of the
+corresponding CalU19 fragments were ∼21 and 6 kDa based upon
+SDS-PAGE (Supporting Information Table S2). LC-MS/MS analysis of the chymotrypsin digestion of the isolated
+fragments identified two nonchymotryptic peptides flanking Gly177: 142RLTPSGDATVLELEHAPVPAEIIPNAAPGAWGIG176A(−NH2) and 178WEMGLVALDDYLAGTLPEGRAVD201W (see MS/MS spectra of the two peptides in Supporting Information Figure S14). The first
+peptide ends with a nonchymotryptic residue 176A with an
+amine group (−NH2) from the 177Gly residue
+attached. The second peptide starts with 178W further supports
+that Gly177 is likely the cleavage site due to hydrogen abstraction. To determine whether
+the CalU16 homologue CalU19 presents a 1 self-sacrifice
+resistance function analogous to CalC and CalU16, the expressed N-His6-CalU19 was purified and incubated with 1 alone or in the presence of a reducing agent (DTT). In this
+study, CalU19 was also cleaved into two fragments by 1 but, in stark contrast to CalC and CalU16, 1-induced
+CalU19 cleavage occurred even in the absence of the reducing agent
+DTT (Figure 4F). The estimated sizes of the
+corresponding CalU19 fragments were ∼21 and 6 kDa based upon
+SDS-PAGE (Supporting Information Table S2). LC-MS/MS analysis of the chymotrypsin digestion of the isolated
+fragments identified two nonchymotryptic peptides flanking Gly177: 142RLTPSGDATVLELEHAPVPAEIIPNAAPGAWGIG176A(−NH2) and 178WEMGLVALDDYLAGTLPEGRAVD201W (see MS/MS spectra of the two peptides in Supporting Information Figure S14). The first
+peptide ends with a nonchymotryptic residue 176A with an
+amine group (−NH2) from the 177Gly residue
+attached. The second peptide starts with 178W further supports
+that Gly177 is likely the cleavage site due to hydrogen abstraction. To confirm the key CalU19 glycine residue, two targeted CalU19ΔGly177
+mutants (G177V and G177R) were created and tested both in
+vivo and in vitro. To rule out any other
+possible glycine residues that might be involved in the protein cleavage,
+four additional glycine residues (Gly181, Gly191, Gly196 and Gly206)
+were mutated and the corresponding mutants tested in parallel. The E. coli strains expressing CalU19G181V, CalU19G191V, CalU19G196V,
+CalU19G206V (pSEU19G181V-E. coli, pSEU19G191V-E. coli, pSEU19G196V-E. coli, and pSEU19G206V-E. coli, respectively) retained wtCalU19 (pSECalU19-E. coli) resistance levels to 1 while mutation
+of Gly177 (pSEU19G177V-E. coli and pSEU19G177R-E. coli) reduced or abolished tolerance to 1 (Figure 5, Supporting
+Information Figure S15, and Table 3)
+as depicted by disc diffusion and MIC assays. Consistent with this, 1-based proteolysis of N-His6-CalU19
+mutant proteins revealed CalU19G177V and CalU19G177R to be resistant
+to cleavage when compared with wtCalU19 under identical conditions
+(Supporting Information Figure S16). In
+aggregate, this data is consistent with CalU19 Gly177 as the key hydrogen
+donor in the context of 1 inactivation and served as
+a basis for modeling the interactions of 1 with CalU16
+and CalU19. Notably, the modeled orientation of 1 bound
+to CalU16 or CalU19 appears to be different from 1 with
+CalC (Figure 5A–C) consistent with prior
+observations that the late stage biosynthetic intermediates en route
+to 1 bind the glycosyltransferases involved in 1 maturation via distinct orientations.45 To confirm the key CalU19 glycine residue, two targeted CalU19ΔGly177
+mutants (G177V and G177R) were created and tested both in
+vivo and in vitro. To rule out any other
+possible glycine residues that might be involved in the protein cleavage,
+four additional glycine residues (Gly181, Gly191, Gly196 and Gly206)
+were mutated and the corresponding mutants tested in parallel. The E. coli strains expressing CalU19G181V, CalU19G191V, CalU19G196V,
+CalU19G206V (pSEU19G181V-E. coli, pSEU19G191V-E. coli, pSEU19G196V-E. coli, and pSEU19G206V-E. coli, respectively) retained wtCalU19 (pSECalU19-E. coli) resistance levels to 1 while mutation
+of Gly177 (pSEU19G177V-E. coli and pSEU19G177R-E. coli) reduced or abolished tolerance to 1 (Figure 5, Supporting
+Information Figure S15, and Table 3)
+as depicted by disc diffusion and MIC assays. Consistent with this, 1-based proteolysis of N-His6-CalU19
+mutant proteins revealed CalU19G177V and CalU19G177R to be resistant
+to cleavage when compared with wtCalU19 under identical conditions
+(Supporting Information Figure S16). In
+aggregate, this data is consistent with CalU19 Gly177 as the key hydrogen
+donor in the context of 1 inactivation and served as
+a basis for modeling the interactions of 1 with CalU16
+and CalU19. Notably, the modeled orientation of 1 bound
+to CalU16 or CalU19 appears to be different from 1 with
+CalC (Figure 5A–C) consistent with prior
+observations that the late stage biosynthetic intermediates en route
+to 1 bind the glycosyltransferases involved in 1 maturation via distinct orientations.45 To confirm the key CalU19 glycine residue, two targeted CalU19ΔGly177
+mutants (G177V and G177R) were created and tested both in
+vivo and in vitro. To rule out any other
+possible glycine residues that might be involved in the protein cleavage,
+four additional glycine residues (Gly181, Gly191, Gly196 and Gly206)
+were mutated and the corresponding mutants tested in parallel. The E. coli strains expressing CalU19G181V, CalU19G191V, CalU19G196V,
+CalU19G206V (pSEU19G181V-E. coli, pSEU19G191V-E. coli, pSEU19G196V-E. coli, and pSEU19G206V-E. coli, respectively) retained wtCalU19 (pSECalU19-E. coli) resistance levels to 1 while mutation
+of Gly177 (pSEU19G177V-E. coli and pSEU19G177R-E. coli) reduced or abolished tolerance to 1 (Figure 5, Supporting
+Information Figure S15, and Table 3)
+as depicted by disc diffusion and MIC assays. Consistent with this, 1-based proteolysis of N-His6-CalU19
+mutant proteins revealed CalU19G177V and CalU19G177R to be resistant
+to cleavage when compared with wtCalU19 under identical conditions
+(Supporting Information Figure S16). In
+aggregate, this data is consistent with CalU19 Gly177 as the key hydrogen
+donor in the context of 1 inactivation and served as
+a basis for modeling the interactions of 1 with CalU16
+and CalU19. Notably, the modeled orientation of 1 bound
+to CalU16 or CalU19 appears to be different from 1 with
+CalC (Figure 5A–C) consistent with prior
+observations that the late stage biosynthetic intermediates en route
+to 1 bind the glycosyltransferases involved in 1 maturation via distinct orientations.45 Distinct from CalC and CalU16, CalU19 functioned
+in the absence
+of a reducing agent–implicating a residue within CalU19 as
+a putative reductive activator of the process. CalU19 contains two
+cysteines (Cys25 and Cys120) where the CalU19 homology model suggests
+Cys25 to potentially be closer to the trisulfide of 1 in a ligand-bound model than Cys120 (estimated distance 14.80 Å, Supporting Information Figure S17). To test the
+putative role of Cys25 and Cys120, the corresponding alanine mutants
+were generated and tested in vivo and in
+vitro. Surprisingly, no differences in DTT-dependence were
+observed between wtCalU19, CalU19Cys25A, CalU19Cys120A and the double
+mutant CalU19Cys25A/Cys120A (Supporting Information
+Figure S18), suggesting 1 activation via CalU19
+occurs via a nonredox mechanism. Notably, cycloaromatized calicheamicin
+ε (Figure 1B) was detected in all CalU19
+proteolysis experiments (including those with the double mutant CalU19Cys25A/Cys120A),
+indicating there is an alternative CalU19 contributor to trisulfide
+reductive initiation event. Distinct from CalC and CalU16, CalU19 functioned
+in the absence
+of a reducing agent–implicating a residue within CalU19 as
+a putative reductive activator of the process. CalU19 contains two
+cysteines (Cys25 and Cys120) where the CalU19 homology model suggests
+Cys25 to potentially be closer to the trisulfide of 1 in a ligand-bound model than Cys120 (estimated distance 14.80 Å, Supporting Information Figure S17). To test the
+putative role of Cys25 and Cys120, the corresponding alanine mutants
+were generated and tested in vivo and in
+vitro. Surprisingly, no differences in DTT-dependence were
+observed between wtCalU19, CalU19Cys25A, CalU19Cys120A and the double
+mutant CalU19Cys25A/Cys120A (Supporting Information
+Figure S18), suggesting 1 activation via CalU19
+occurs via a nonredox mechanism. Notably, cycloaromatized calicheamicin
+ε (Figure 1B) was detected in all CalU19
+proteolysis experiments (including those with the double mutant CalU19Cys25A/Cys120A),
+indicating there is an alternative CalU19 contributor to trisulfide
+reductive initiation event. Distinct from CalC and CalU16, CalU19 functioned
+in the absence
+of a reducing agent–implicating a residue within CalU19 as
+a putative reductive activator of the process. CalU19 contains two
+cysteines (Cys25 and Cys120) where the CalU19 homology model suggests
+Cys25 to potentially be closer to the trisulfide of 1 in a ligand-bound model than Cys120 (estimated distance 14.80 Å, Supporting Information Figure S17). To test the
+putative role of Cys25 and Cys120, the corresponding alanine mutants
+were generated and tested in vivo and in
+vitro. Surprisingly, no differences in DTT-dependence were
+observed between wtCalU19, CalU19Cys25A, CalU19Cys120A and the double
+mutant CalU19Cys25A/Cys120A (Supporting Information
+Figure S18), suggesting 1 activation via CalU19
+occurs via a nonredox mechanism. Notably, cycloaromatized calicheamicin
+ε (Figure 1B) was detected in all CalU19
+proteolysis experiments (including those with the double mutant CalU19Cys25A/Cys120A),
+indicating there is an alternative CalU19 contributor to trisulfide
+reductive initiation event. Enediyne Specificity of CalU16 and CalU19 Enediyne Specificity of CalU16 and CalU19 Enediyne Specificity of CalU16 and CalU19 To test whether
+CalU16 and CalU19 confer resistance against other 10-membered enediynes, in vivo and in vitro studies similar to
+those described in the previous sections were performed where 1 was substituted with dynemicin (2) or esperamicin
+A1 (3). CalU16 and CalU19 each failed to cause
+any cross resistance against 2 or 3in vivo (Supporting Information Figure
+S19), and consistent with these observations, neither protein
+could be cleaved via 2 or 3 in the absence
+or presence of reducing agent (Supporting Information
+Figure S20). Thus, CalU16 and CalU19 appear to display enediyne
+specificity similar to CalC.18 To test whether
+CalU16 and CalU19 confer resistance against other 10-membered enediynes, in vivo and in vitro studies similar to
+those described in the previous sections were performed where 1 was substituted with dynemicin (2) or esperamicin
+A1 (3). CalU16 and CalU19 each failed to cause
+any cross resistance against 2 or 3in vivo (Supporting Information Figure
+S19), and consistent with these observations, neither protein
+could be cleaved via 2 or 3 in the absence
+or presence of reducing agent (Supporting Information
+Figure S20). Thus, CalU16 and CalU19 appear to display enediyne
+specificity similar to CalC.18 To test whether
+CalU16 and CalU19 confer resistance against other 10-membered enediynes, in vivo and in vitro studies similar to
+those described in the previous sections were performed where 1 was substituted with dynemicin (2) or esperamicin
+A1 (3). CalU16 and CalU19 each failed to cause
+any cross resistance against 2 or 3in vivo (Supporting Information Figure
+S19), and consistent with these observations, neither protein
+could be cleaved via 2 or 3 in the absence
+or presence of reducing agent (Supporting Information
+Figure S20). Thus, CalU16 and CalU19 appear to display enediyne
+specificity similar to CalC.18 Conclusions Conclusions Conclusions High throughput sequencing and genomics
+are powerful tools to implicate putative function but are still limited
+by three primary liabilities: (i) functional misannotation due to
+mistakes propagated throughout large sequence databases; (ii) functional
+misannotation due to the fact that even highly homologous proteins
+can present dramatically distinct mechanisms/functions; and (iii)
+a lack of suitably characterized homologues within existing large
+sequence databases.46−48 Structural genomics can augment the use of sequence
+homology for functional annotation by presenting opportunities to
+identify structural homologues even where sequence homology may be
+too low to identify suitable homologues.49−51 The current
+study highlights the power of structural genomics to inform putative
+function as the basis for subsequent biochemical characterization/confirmation
+and, in doing so, reveals two new enediyne self-sacrifice proteins
+(CalU16 and CalU19) encoded by genes in the calicheamicin biosynthetic
+gene cluster. The elucidation of these genes serve as potential new
+genetic markers which, in conjunction with the signature minimal enediyne
+PKS cassette, may facilitate future enediyne discovery via genome
+mining.17 High throughput sequencing and genomics
+are powerful tools to implicate putative function but are still limited
+by three primary liabilities: (i) functional misannotation due to
+mistakes propagated throughout large sequence databases; (ii) functional
+misannotation due to the fact that even highly homologous proteins
+can present dramatically distinct mechanisms/functions; and (iii)
+a lack of suitably characterized homologues within existing large
+sequence databases.46−48 Structural genomics can augment the use of sequence
+homology for functional annotation by presenting opportunities to
+identify structural homologues even where sequence homology may be
+too low to identify suitable homologues.49−51 The current
+study highlights the power of structural genomics to inform putative
+function as the basis for subsequent biochemical characterization/confirmation
+and, in doing so, reveals two new enediyne self-sacrifice proteins
+(CalU16 and CalU19) encoded by genes in the calicheamicin biosynthetic
+gene cluster. The elucidation of these genes serve as potential new
+genetic markers which, in conjunction with the signature minimal enediyne
+PKS cassette, may facilitate future enediyne discovery via genome
+mining.17 High throughput sequencing and genomics
+are powerful tools to implicate putative function but are still limited
+by three primary liabilities: (i) functional misannotation due to
+mistakes propagated throughout large sequence databases; (ii) functional
+misannotation due to the fact that even highly homologous proteins
+can present dramatically distinct mechanisms/functions; and (iii)
+a lack of suitably characterized homologues within existing large
+sequence databases.46−48 Structural genomics can augment the use of sequence
+homology for functional annotation by presenting opportunities to
+identify structural homologues even where sequence homology may be
+too low to identify suitable homologues.49−51 The current
+study highlights the power of structural genomics to inform putative
+function as the basis for subsequent biochemical characterization/confirmation
+and, in doing so, reveals two new enediyne self-sacrifice proteins
+(CalU16 and CalU19) encoded by genes in the calicheamicin biosynthetic
+gene cluster. The elucidation of these genes serve as potential new
+genetic markers which, in conjunction with the signature minimal enediyne
+PKS cassette, may facilitate future enediyne discovery via genome
+mining.17 While there exist many
+natural product biosynthetic loci that also encode for more than one
+resistance mechanism for the encoded natural product,52,53 the encoded redundancy highlighted by the current study is uncommon
+and may suggest discrete self-sacrifice proteins to contribute to
+subtle distinctions in their localization and/or function. For example,
+the predicted isoelectric point of CalC (10.16) is dramatically different
+from CalU16 (4.24) or CalU19 (4.69) (Supporting
+Information Table S2) and is consistent with CalC’s
+demonstrated ability to bind DNA (the target of enediynes) under physiological
+pH.19 Under identical conditions, CalU16/U19
+are predicted to possess an overall negative charge, which may contribute
+to distinct intracellular localization and/or unique protein–protein
+interactions possibly including those proteins/enzymes involved in 1 biosynthesis. While there exist many
+natural product biosynthetic loci that also encode for more than one
+resistance mechanism for the encoded natural product,52,53 the encoded redundancy highlighted by the current study is uncommon
+and may suggest discrete self-sacrifice proteins to contribute to
+subtle distinctions in their localization and/or function. For example,
+the predicted isoelectric point of CalC (10.16) is dramatically different
+from CalU16 (4.24) or CalU19 (4.69) (Supporting
+Information Table S2) and is consistent with CalC’s
+demonstrated ability to bind DNA (the target of enediynes) under physiological
+pH.19 Under identical conditions, CalU16/U19
+are predicted to possess an overall negative charge, which may contribute
+to distinct intracellular localization and/or unique protein–protein
+interactions possibly including those proteins/enzymes involved in 1 biosynthesis. While there exist many
+natural product biosynthetic loci that also encode for more than one
+resistance mechanism for the encoded natural product,52,53 the encoded redundancy highlighted by the current study is uncommon
+and may suggest discrete self-sacrifice proteins to contribute to
+subtle distinctions in their localization and/or function. For example,
+the predicted isoelectric point of CalC (10.16) is dramatically different
+from CalU16 (4.24) or CalU19 (4.69) (Supporting
+Information Table S2) and is consistent with CalC’s
+demonstrated ability to bind DNA (the target of enediynes) under physiological
+pH.19 Under identical conditions, CalU16/U19
+are predicted to possess an overall negative charge, which may contribute
+to distinct intracellular localization and/or unique protein–protein
+interactions possibly including those proteins/enzymes involved in 1 biosynthesis. The enediyne self-sacrifice genes and
+corresponding encoded proteins
+have been validated in the context of conferring enediyne resistance,
+but it remains possible that such proteins or their proteolytic fragments
+could also serve alternative roles in Micromonospora. For example, many members of the START domain family function as
+molecular chaperones as exemplified by the Coq10 homologue CC1736,
+responsible for transporting ubiquinone to or within the respiratory
+chain complexes and contributes to dramatically higher biosynthetic
+efficiency.54 Although the precedent for
+molecular chaperones in the context of the structurally related 9-membered
+enediynes is well established,5,55 it remains to be determined
+whether such proteins play additional roles beyond stabilizing the
+highly reactive 9-membered enediyne chromophore. Preliminary evidence,
+based upon the location of the key glycines in CalC, CalU16, and CalU19,
+suggest that CalC binds 1 in a manner distinct from CalU16/CalU19
+which, in the context of a molecular chaperone model, suggests different
+regions of the cargo would be accessible to putative associated partner
+proteins (Figure 5A–C). While CalC homologues
+lack apparent polyketide aromatase/cyclase TcmN Aro/Cyc catalytic
+residues based upon sequence (Supporting Information
+Figure S21) and structural (Supporting
+Information Figure S22) alignments, this relationship raises
+the intriguing possibility of CalC homologues as the long sought after
+contributors to enediyne polyketide core folding/cyclization. Indeed,
+the surface area of the hydrophobic cavities of CalU16 (3986 Å2), CalC (3931 Å2), and TcmN ARO/CYC (3655
+Å2) are similar (Supporting Information
+Figure S23), the latter of which accommodates large (≤C20)
+linear polyketides.35 Alternatively, certain
+proteolytic fragments from CalC, CalU16, and/or CalU19 could also
+potentially serve as intracellular signals of enediyne concentrations,
+in a manner conceptually similar to the vancomycin- or β-lactam-inducible
+three-component regulatory systems, where hydrolytic fragments of
+the bacterial cell wall serve as key inducers.56,57 Studies are underway to further probe whether the functions of START
+domain congeners encoded by the calicheamicin gene cluster extend
+beyond simple protection of host against these highly reactive and
+toxic metabolites. The enediyne self-sacrifice genes and
+corresponding encoded proteins
+have been validated in the context of conferring enediyne resistance,
+but it remains possible that such proteins or their proteolytic fragments
+could also serve alternative roles in Micromonospora. For example, many members of the START domain family function as
+molecular chaperones as exemplified by the Coq10 homologue CC1736,
+responsible for transporting ubiquinone to or within the respiratory
+chain complexes and contributes to dramatically higher biosynthetic
+efficiency.54 Although the precedent for
+molecular chaperones in the context of the structurally related 9-membered
+enediynes is well established,5,55 it remains to be determined
+whether such proteins play additional roles beyond stabilizing the
+highly reactive 9-membered enediyne chromophore. Preliminary evidence,
+based upon the location of the key glycines in CalC, CalU16, and CalU19,
+suggest that CalC binds 1 in a manner distinct from CalU16/CalU19
+which, in the context of a molecular chaperone model, suggests different
+regions of the cargo would be accessible to putative associated partner
+proteins (Figure 5A–C). While CalC homologues
+lack apparent polyketide aromatase/cyclase TcmN Aro/Cyc catalytic
+residues based upon sequence (Supporting Information
+Figure S21) and structural (Supporting
+Information Figure S22) alignments, this relationship raises
+the intriguing possibility of CalC homologues as the long sought after
+contributors to enediyne polyketide core folding/cyclization. Indeed,
+the surface area of the hydrophobic cavities of CalU16 (3986 Å2), CalC (3931 Å2), and TcmN ARO/CYC (3655
+Å2) are similar (Supporting Information
+Figure S23), the latter of which accommodates large (≤C20)
+linear polyketides.35 Alternatively, certain
+proteolytic fragments from CalC, CalU16, and/or CalU19 could also
+potentially serve as intracellular signals of enediyne concentrations,
+in a manner conceptually similar to the vancomycin- or β-lactam-inducible
+three-component regulatory systems, where hydrolytic fragments of
+the bacterial cell wall serve as key inducers.56,57 Studies are underway to further probe whether the functions of START
+domain congeners encoded by the calicheamicin gene cluster extend
+beyond simple protection of host against these highly reactive and
+toxic metabolites. The enediyne self-sacrifice genes and
+corresponding encoded proteins
+have been validated in the context of conferring enediyne resistance,
+but it remains possible that such proteins or their proteolytic fragments
+could also serve alternative roles in Micromonospora. For example, many members of the START domain family function as
+molecular chaperones as exemplified by the Coq10 homologue CC1736,
+responsible for transporting ubiquinone to or within the respiratory
+chain complexes and contributes to dramatically higher biosynthetic
+efficiency.54 Although the precedent for
+molecular chaperones in the context of the structurally related 9-membered
+enediynes is well established,5,55 it remains to be determined
+whether such proteins play additional roles beyond stabilizing the
+highly reactive 9-membered enediyne chromophore. Preliminary evidence,
+based upon the location of the key glycines in CalC, CalU16, and CalU19,
+suggest that CalC binds 1 in a manner distinct from CalU16/CalU19
+which, in the context of a molecular chaperone model, suggests different
+regions of the cargo would be accessible to putative associated partner
+proteins (Figure 5A–C). While CalC homologues
+lack apparent polyketide aromatase/cyclase TcmN Aro/Cyc catalytic
+residues based upon sequence (Supporting Information
+Figure S21) and structural (Supporting
+Information Figure S22) alignments, this relationship raises
+the intriguing possibility of CalC homologues as the long sought after
+contributors to enediyne polyketide core folding/cyclization. Indeed,
+the surface area of the hydrophobic cavities of CalU16 (3986 Å2), CalC (3931 Å2), and TcmN ARO/CYC (3655
+Å2) are similar (Supporting Information
+Figure S23), the latter of which accommodates large (≤C20)
+linear polyketides.35 Alternatively, certain
+proteolytic fragments from CalC, CalU16, and/or CalU19 could also
+potentially serve as intracellular signals of enediyne concentrations,
+in a manner conceptually similar to the vancomycin- or β-lactam-inducible
+three-component regulatory systems, where hydrolytic fragments of
+the bacterial cell wall serve as key inducers.56,57 Studies are underway to further probe whether the functions of START
+domain congeners encoded by the calicheamicin gene cluster extend
+beyond simple protection of host against these highly reactive and
+toxic metabolites. Methods Methods Strains, Materials,
+and General Methods Strains, Materials,
+and General Methods Strains, Materials,
+and General Methods All primers
+(Integrated DNA Technology) and strains used in this study are summarized
+in Supporting Information Tables S3 and S4, respectively. M. echinospora strain LL6000 and
+calicheamicin γ1I were graciously provided
+by Pfizer. Dynemicin and esperamicin A1 were generously
+provided by Bristol-Myers Squibb. All other reagents and chemicals
+were purchased from Sigma-Aldrich, unless otherwise stated. All protein
+structures were illustrated using PyMOL.58 Gene alignments and analyses were performed using Geneious Pro 5.0.3.59 All primers
+(Integrated DNA Technology) and strains used in this study are summarized
+in Supporting Information Tables S3 and S4, respectively. M. echinospora strain LL6000 and
+calicheamicin γ1I were graciously provided
+by Pfizer. Dynemicin and esperamicin A1 were generously
+provided by Bristol-Myers Squibb. All other reagents and chemicals
+were purchased from Sigma-Aldrich, unless otherwise stated. All protein
+structures were illustrated using PyMOL.58 Gene alignments and analyses were performed using Geneious Pro 5.0.3.59 All primers
+(Integrated DNA Technology) and strains used in this study are summarized
+in Supporting Information Tables S3 and S4, respectively. M. echinospora strain LL6000 and
+calicheamicin γ1I were graciously provided
+by Pfizer. Dynemicin and esperamicin A1 were generously
+provided by Bristol-Myers Squibb. All other reagents and chemicals
+were purchased from Sigma-Aldrich, unless otherwise stated. All protein
+structures were illustrated using PyMOL.58 Gene alignments and analyses were performed using Geneious Pro 5.0.3.59 Parental Plasmids for Protein Production Parental Plasmids for Protein Production Parental Plasmids for Protein Production For biochemical
+characterization, genomic DNA was extracted from M. echinospora LL6000 using the InstaGene Matrix Kit (BioRad) following manufacturer’s
+protocol. Primers CalU16-NdeI-F/CalU16-HindIII-R,
+CalU17-NdeI-F/CalU17-HindIII-R, and CalU19-NdeI-F/CalU19-HindIII-R (Supporting Information Table
+S3) were used to amplify each of calU16, calU17, and calU19, respectively. Amplification
+was performed using the Advantage GC2 polymerase enzyme (Clontech)
+and the following PCR conditions: initial denaturation at 95 °C
+for 3 min; 25 cycles at 94 °C for 30 s, 65–62 °C
+for 30 s, 68 °C for 35 s; final extension temperature at 68 °C
+for 5 min. Each PCR product was gel purified using the QIAquick gel
+extraction kit (Qiagen). Restriction digestion with NdeI/HindIII (New Englands Biolabs, NEB) followed by ligation using T4 DNA
+ligase (NEB) into a linearized dephosphorylated pET28a (Novagen) yielded
+pSECalU16, pSECalU17, and pSECalU19 for calU16, calU17, and calU19, respectively. Each
+plasmid was transformed into NEB DH5α chemically competent cells
+(NEB). Plasmids were purified using QIAprep Minispin kit (Qiagen).
+Each plasmid was verified by sequencing and subsequently transformed
+into the expression host BL21 (DE3) competent cells (NEB) to yield
+pSECalU16-E. coli, pSECalU17-E. coli, and pSECalU19-E. coli, respectively. For structural
+studies, plasmid preparation, overproduction, and purification were
+conducted following standard protocols of the Northeast Structural
+Genomics Consortium (NESG) to produce a uniformly 15N/13C-enriched and 5% biosynthetically directed 13C (NC5)-labeled protein samples for NMR spectroscopy and selenomethionine
+(Se-Met) labeled samples for X-ray crystallography and details can
+be found in Supporting Information Methods.60,61 In brief, calU16 was PCR
+amplified from genomic DNA and cloned into NdeI/XhoI-digested pET15
+expression vector (NESG Clone ID MiR12–15.1; PSI:Biology Materials
+Repository clone ID MeCD000597015, see http://psimr.asu.edu/) to encode for the corresponding N-terminally tagged (MGHHHHHHSHM)
+fusion protein. The plasmid was transformed into codon-enhanced E. coli BL21 (DE3) pMGK cells for protein production. Additional
+plasmids and protocols employed for protein overproduction and purification
+for biochemical studies are described in the Supporting
+Information Methods. For biochemical
+characterization, genomic DNA was extracted from M. echinospora LL6000 using the InstaGene Matrix Kit (BioRad) following manufacturer’s
+protocol. Primers CalU16-NdeI-F/CalU16-HindIII-R,
+CalU17-NdeI-F/CalU17-HindIII-R, and CalU19-NdeI-F/CalU19-HindIII-R (Supporting Information Table
+S3) were used to amplify each of calU16, calU17, and calU19, respectively. Amplification
+was performed using the Advantage GC2 polymerase enzyme (Clontech)
+and the following PCR conditions: initial denaturation at 95 °C
+for 3 min; 25 cycles at 94 °C for 30 s, 65–62 °C
+for 30 s, 68 °C for 35 s; final extension temperature at 68 °C
+for 5 min. Each PCR product was gel purified using the QIAquick gel
+extraction kit (Qiagen). Restriction digestion with NdeI/HindIII (New Englands Biolabs, NEB) followed by ligation using T4 DNA
+ligase (NEB) into a linearized dephosphorylated pET28a (Novagen) yielded
+pSECalU16, pSECalU17, and pSECalU19 for calU16, calU17, and calU19, respectively. Each
+plasmid was transformed into NEB DH5α chemically competent cells
+(NEB). Plasmids were purified using QIAprep Minispin kit (Qiagen).
+Each plasmid was verified by sequencing and subsequently transformed
+into the expression host BL21 (DE3) competent cells (NEB) to yield
+pSECalU16-E. coli, pSECalU17-E. coli, and pSECalU19-E. coli, respectively. For structural
+studies, plasmid preparation, overproduction, and purification were
+conducted following standard protocols of the Northeast Structural
+Genomics Consortium (NESG) to produce a uniformly 15N/13C-enriched and 5% biosynthetically directed 13C (NC5)-labeled protein samples for NMR spectroscopy and selenomethionine
+(Se-Met) labeled samples for X-ray crystallography and details can
+be found in Supporting Information Methods.60,61 In brief, calU16 was PCR
+amplified from genomic DNA and cloned into NdeI/XhoI-digested pET15
+expression vector (NESG Clone ID MiR12–15.1; PSI:Biology Materials
+Repository clone ID MeCD000597015, see http://psimr.asu.edu/) to encode for the corresponding N-terminally tagged (MGHHHHHHSHM)
+fusion protein. The plasmid was transformed into codon-enhanced E. coli BL21 (DE3) pMGK cells for protein production. Additional
+plasmids and protocols employed for protein overproduction and purification
+for biochemical studies are described in the Supporting
+Information Methods. For biochemical
+characterization, genomic DNA was extracted from M. echinospora LL6000 using the InstaGene Matrix Kit (BioRad) following manufacturer’s
+protocol. Primers CalU16-NdeI-F/CalU16-HindIII-R,
+CalU17-NdeI-F/CalU17-HindIII-R, and CalU19-NdeI-F/CalU19-HindIII-R (Supporting Information Table
+S3) were used to amplify each of calU16, calU17, and calU19, respectively. Amplification
+was performed using the Advantage GC2 polymerase enzyme (Clontech)
+and the following PCR conditions: initial denaturation at 95 °C
+for 3 min; 25 cycles at 94 °C for 30 s, 65–62 °C
+for 30 s, 68 °C for 35 s; final extension temperature at 68 °C
+for 5 min. Each PCR product was gel purified using the QIAquick gel
+extraction kit (Qiagen). Restriction digestion with NdeI/HindIII (New Englands Biolabs, NEB) followed by ligation using T4 DNA
+ligase (NEB) into a linearized dephosphorylated pET28a (Novagen) yielded
+pSECalU16, pSECalU17, and pSECalU19 for calU16, calU17, and calU19, respectively. Each
+plasmid was transformed into NEB DH5α chemically competent cells
+(NEB). Plasmids were purified using QIAprep Minispin kit (Qiagen).
+Each plasmid was verified by sequencing and subsequently transformed
+into the expression host BL21 (DE3) competent cells (NEB) to yield
+pSECalU16-E. coli, pSECalU17-E. coli, and pSECalU19-E. coli, respectively. For structural
+studies, plasmid preparation, overproduction, and purification were
+conducted following standard protocols of the Northeast Structural
+Genomics Consortium (NESG) to produce a uniformly 15N/13C-enriched and 5% biosynthetically directed 13C (NC5)-labeled protein samples for NMR spectroscopy and selenomethionine
+(Se-Met) labeled samples for X-ray crystallography and details can
+be found in Supporting Information Methods.60,61 In brief, calU16 was PCR
+amplified from genomic DNA and cloned into NdeI/XhoI-digested pET15
+expression vector (NESG Clone ID MiR12–15.1; PSI:Biology Materials
+Repository clone ID MeCD000597015, see http://psimr.asu.edu/) to encode for the corresponding N-terminally tagged (MGHHHHHHSHM)
+fusion protein. The plasmid was transformed into codon-enhanced E. coli BL21 (DE3) pMGK cells for protein production. Additional
+plasmids and protocols employed for protein overproduction and purification
+for biochemical studies are described in the Supporting
+Information Methods. Structure Determination of CalU16 by X-ray
+Crystallography Structure Determination of CalU16 by X-ray
+Crystallography Structure Determination of CalU16 by X-ray
+Crystallography Initial crystallization conditions for Se-Met
+labeled CalU16 were
+identified at the Hauptmann-Woodward Institute high-throughput screening
+facility62 and further optimized manually
+by microbatch methods at 18 °C. The protein was mixed in a 1:1
+ratio with the precipitant containing 2.9 M sodium malonate pH 6.5.
+The crystals were cryo-protected by 10% (v/v) ethylene glycol and
+2.6 M sodium malonate pH 6.5 prior to flash freezing in liquid nitrogen
+for data collection at 100 K. A single crystal of Se-Met labeled protein
+was used for data collection at a wavelength of 0.978 Å and diffracted
+to 2.5 Å resolution. The data was collected at beamline X4A at
+the National Synchrotron Light Source at Brookhaven National Laboratory,
+and further processed and scaled using HKL-2000 (Table 1).63 Eight of the ten selenium
+sites in the asymmetric unit were successfully located by the SHELXD64 program for initial phasing. RESOLVE65 was utilized for automated model building and
+the model was further built by manual refitting with the program Coot.66 The data were twinned, and a twin refinement
+was performed. The refinement involved iterations of manual model-building
+in Coot and Refmac.67 The quality of the
+final structure was validated by PROCHECK.68 The diffraction images illustrate diffuse scattering perpendicular
+to the 61 screw axis indicative of order/disorder (Supporting Information Figure S24). The effects
+of the disorder are also evident in the data anisotropy where the
+B-factor component along the 61 axis is less than half
+of the B-factor in the perpendicular direction. The unmodeled disorder
+leads to higher than expected R-factors and is likely contributing
+to the lower percentage of residues in the Ramachandran favored regions
+(Table 1). The atomic coordinates and structure
+factors have been deposited in the PDB (4FPW). Initial crystallization conditions for Se-Met
+labeled CalU16 were
+identified at the Hauptmann-Woodward Institute high-throughput screening
+facility62 and further optimized manually
+by microbatch methods at 18 °C. The protein was mixed in a 1:1
+ratio with the precipitant containing 2.9 M sodium malonate pH 6.5.
+The crystals were cryo-protected by 10% (v/v) ethylene glycol and
+2.6 M sodium malonate pH 6.5 prior to flash freezing in liquid nitrogen
+for data collection at 100 K. A single crystal of Se-Met labeled protein
+was used for data collection at a wavelength of 0.978 Å and diffracted
+to 2.5 Å resolution. The data was collected at beamline X4A at
+the National Synchrotron Light Source at Brookhaven National Laboratory,
+and further processed and scaled using HKL-2000 (Table 1).63 Eight of the ten selenium
+sites in the asymmetric unit were successfully located by the SHELXD64 program for initial phasing. RESOLVE65 was utilized for automated model building and
+the model was further built by manual refitting with the program Coot.66 The data were twinned, and a twin refinement
+was performed. The refinement involved iterations of manual model-building
+in Coot and Refmac.67 The quality of the
+final structure was validated by PROCHECK.68 The diffraction images illustrate diffuse scattering perpendicular
+to the 61 screw axis indicative of order/disorder (Supporting Information Figure S24). The effects
+of the disorder are also evident in the data anisotropy where the
+B-factor component along the 61 axis is less than half
+of the B-factor in the perpendicular direction. The unmodeled disorder
+leads to higher than expected R-factors and is likely contributing
+to the lower percentage of residues in the Ramachandran favored regions
+(Table 1). The atomic coordinates and structure
+factors have been deposited in the PDB (4FPW). Initial crystallization conditions for Se-Met
+labeled CalU16 were
+identified at the Hauptmann-Woodward Institute high-throughput screening
+facility62 and further optimized manually
+by microbatch methods at 18 °C. The protein was mixed in a 1:1
+ratio with the precipitant containing 2.9 M sodium malonate pH 6.5.
+The crystals were cryo-protected by 10% (v/v) ethylene glycol and
+2.6 M sodium malonate pH 6.5 prior to flash freezing in liquid nitrogen
+for data collection at 100 K. A single crystal of Se-Met labeled protein
+was used for data collection at a wavelength of 0.978 Å and diffracted
+to 2.5 Å resolution. The data was collected at beamline X4A at
+the National Synchrotron Light Source at Brookhaven National Laboratory,
+and further processed and scaled using HKL-2000 (Table 1).63 Eight of the ten selenium
+sites in the asymmetric unit were successfully located by the SHELXD64 program for initial phasing. RESOLVE65 was utilized for automated model building and
+the model was further built by manual refitting with the program Coot.66 The data were twinned, and a twin refinement
+was performed. The refinement involved iterations of manual model-building
+in Coot and Refmac.67 The quality of the
+final structure was validated by PROCHECK.68 The diffraction images illustrate diffuse scattering perpendicular
+to the 61 screw axis indicative of order/disorder (Supporting Information Figure S24). The effects
+of the disorder are also evident in the data anisotropy where the
+B-factor component along the 61 axis is less than half
+of the B-factor in the perpendicular direction. The unmodeled disorder
+leads to higher than expected R-factors and is likely contributing
+to the lower percentage of residues in the Ramachandran favored regions
+(Table 1). The atomic coordinates and structure
+factors have been deposited in the PDB (4FPW). NMR Spectroscopy and Structure
+Determination of CalU16 NMR Spectroscopy and Structure
+Determination of CalU16 NMR Spectroscopy and Structure
+Determination of CalU16 NMR data were collected at 25 °C
+on [U-13C, 15N]- and U-15N,
+5% biosynthetically directed 13C (NC5)-labeled samples
+in 300 μL buffered solution (0.9 mM CalU16, 0.02% NaN3, 10 mM DTT, 5 mM CaCl2, 100 mM NaCl, 1× proteinase
+inhibitors, 20 mM MES pH 6.5) in 5 mm Shigemi NMR tubes on a 600 MHz
+Varian Inova spectrometer with a 5 mm HCN cold probe and a 850 MHz
+Bruker Avance III NMR spectrometer equipped with a conventional 5
+mm HCN probe. A description of NMR experiments and methods for structure
+determination and refinement can be found in Supporting
+Information Methods. The protein was monomeric under the conditions
+used in the NMR experiments based on analytical static light scattering
+in-line with gel filtration chromatography and correlation time estimates
+based on one-dimensional 15N T1 and T2 relaxation data (estimated τc 12.1 ns, Supporting Information Figure
+S1). The assigned 1H–15N HSQC
+spectrum is provided as Supporting Information
+Figure S2. Chemical shifts, NOESY peak lists, and raw FIDS
+were deposited in the BioMagResDB (BMRB accession number 18547). The
+final ensemble of 20 models and NMR resonance assignments were deposited
+to the Protein Data Bank (PDB: 2LUZ). NMR data were collected at 25 °C
+on [U-13C, 15N]- and U-15N,
+5% biosynthetically directed 13C (NC5)-labeled samples
+in 300 μL buffered solution (0.9 mM CalU16, 0.02% NaN3, 10 mM DTT, 5 mM CaCl2, 100 mM NaCl, 1× proteinase
+inhibitors, 20 mM MES pH 6.5) in 5 mm Shigemi NMR tubes on a 600 MHz
+Varian Inova spectrometer with a 5 mm HCN cold probe and a 850 MHz
+Bruker Avance III NMR spectrometer equipped with a conventional 5
+mm HCN probe. A description of NMR experiments and methods for structure
+determination and refinement can be found in Supporting
+Information Methods. The protein was monomeric under the conditions
+used in the NMR experiments based on analytical static light scattering
+in-line with gel filtration chromatography and correlation time estimates
+based on one-dimensional 15N T1 and T2 relaxation data (estimated τc 12.1 ns, Supporting Information Figure
+S1). The assigned 1H–15N HSQC
+spectrum is provided as Supporting Information
+Figure S2. Chemical shifts, NOESY peak lists, and raw FIDS
+were deposited in the BioMagResDB (BMRB accession number 18547). The
+final ensemble of 20 models and NMR resonance assignments were deposited
+to the Protein Data Bank (PDB: 2LUZ). NMR data were collected at 25 °C
+on [U-13C, 15N]- and U-15N,
+5% biosynthetically directed 13C (NC5)-labeled samples
+in 300 μL buffered solution (0.9 mM CalU16, 0.02% NaN3, 10 mM DTT, 5 mM CaCl2, 100 mM NaCl, 1× proteinase
+inhibitors, 20 mM MES pH 6.5) in 5 mm Shigemi NMR tubes on a 600 MHz
+Varian Inova spectrometer with a 5 mm HCN cold probe and a 850 MHz
+Bruker Avance III NMR spectrometer equipped with a conventional 5
+mm HCN probe. A description of NMR experiments and methods for structure
+determination and refinement can be found in Supporting
+Information Methods. The protein was monomeric under the conditions
+used in the NMR experiments based on analytical static light scattering
+in-line with gel filtration chromatography and correlation time estimates
+based on one-dimensional 15N T1 and T2 relaxation data (estimated τc 12.1 ns, Supporting Information Figure
+S1). The assigned 1H–15N HSQC
+spectrum is provided as Supporting Information
+Figure S2. Chemical shifts, NOESY peak lists, and raw FIDS
+were deposited in the BioMagResDB (BMRB accession number 18547). The
+final ensemble of 20 models and NMR resonance assignments were deposited
+to the Protein Data Bank (PDB: 2LUZ). Resistance Assays Resistance Assays Resistance Assays In vivo resistance
+assays were performed using overnight cultures of the tested strain
+diluted to OD600 ∼ 0.1 in molten LB agar supplemented
+with final concentration of 30 μg mL–1 kanamycin
+and 100 μM of isopropyl-β-d-thiogalactopyranoside
+(IPTG). The mixture was poured into Petri dishes and allowed to solidify.
+A stock solution of 1 was prepared in methanol at a concentration
+of 1 mg mL–1 and serial dilutions were prepared
+such that the final concentrations tested ranged from 0.1 to 10 μg
+μL–1. These were applied to sterile discs
+such that the final quantities of 1 on the discs were
+1 ng, 10 ng, 50 ng, 100 ng, 1 μg, and 10 μg. The disks
+were allowed to air-dry, and applied aseptically to the plates. All
+plates were incubated at 37 °C for 14 h. In vivo resistance
+assays were performed using overnight cultures of the tested strain
+diluted to OD600 ∼ 0.1 in molten LB agar supplemented
+with final concentration of 30 μg mL–1 kanamycin
+and 100 μM of isopropyl-β-d-thiogalactopyranoside
+(IPTG). The mixture was poured into Petri dishes and allowed to solidify.
+A stock solution of 1 was prepared in methanol at a concentration
+of 1 mg mL–1 and serial dilutions were prepared
+such that the final concentrations tested ranged from 0.1 to 10 μg
+μL–1. These were applied to sterile discs
+such that the final quantities of 1 on the discs were
+1 ng, 10 ng, 50 ng, 100 ng, 1 μg, and 10 μg. The disks
+were allowed to air-dry, and applied aseptically to the plates. All
+plates were incubated at 37 °C for 14 h. In vivo resistance
+assays were performed using overnight cultures of the tested strain
+diluted to OD600 ∼ 0.1 in molten LB agar supplemented
+with final concentration of 30 μg mL–1 kanamycin
+and 100 μM of isopropyl-β-d-thiogalactopyranoside
+(IPTG). The mixture was poured into Petri dishes and allowed to solidify.
+A stock solution of 1 was prepared in methanol at a concentration
+of 1 mg mL–1 and serial dilutions were prepared
+such that the final concentrations tested ranged from 0.1 to 10 μg
+μL–1. These were applied to sterile discs
+such that the final quantities of 1 on the discs were
+1 ng, 10 ng, 50 ng, 100 ng, 1 μg, and 10 μg. The disks
+were allowed to air-dry, and applied aseptically to the plates. All
+plates were incubated at 37 °C for 14 h. Protein Cleavage Assay Protein Cleavage Assay Protein Cleavage Assay Final concentration of 1 μM
+of each protein in 50 mM Tris pH 8.0 in the presence of 1 mol equiv
+of 1 with and without 0.2 mM DTT in a final volume of
+500 μL was allowed to incubate at 30 °C for 30 min. Reactions
+were lyophilized and resuspended in 25 μL of 50 mM Tris, pH
+8.0. Cleavage was analyzed by mixing with equal volume of 2×
+sample buffer. A volume of 30 μL was analyzed by NuPAGE 4–12%
+Bis-Tris Gels (Life technologies) using protein ladder (Bio-Rad) as
+size indicator. Final concentration of 1 μM
+of each protein in 50 mM Tris pH 8.0 in the presence of 1 mol equiv
+of 1 with and without 0.2 mM DTT in a final volume of
+500 μL was allowed to incubate at 30 °C for 30 min. Reactions
+were lyophilized and resuspended in 25 μL of 50 mM Tris, pH
+8.0. Cleavage was analyzed by mixing with equal volume of 2×
+sample buffer. A volume of 30 μL was analyzed by NuPAGE 4–12%
+Bis-Tris Gels (Life technologies) using protein ladder (Bio-Rad) as
+size indicator. Final concentration of 1 μM
+of each protein in 50 mM Tris pH 8.0 in the presence of 1 mol equiv
+of 1 with and without 0.2 mM DTT in a final volume of
+500 μL was allowed to incubate at 30 °C for 30 min. Reactions
+were lyophilized and resuspended in 25 μL of 50 mM Tris, pH
+8.0. Cleavage was analyzed by mixing with equal volume of 2×
+sample buffer. A volume of 30 μL was analyzed by NuPAGE 4–12%
+Bis-Tris Gels (Life technologies) using protein ladder (Bio-Rad) as
+size indicator. Trypsin Digestion and Mass Analysis Trypsin Digestion and Mass Analysis Trypsin Digestion and Mass Analysis A total of 4 μM
+of each of CalU16 and CalU19 were added to 2 mol equiv of 1 in the presence of 0.2 mM DTT. Reactions were incubated at 30 °C
+for 30 min. A fraction of each reaction was subjected to SDS-PAGE
+to confirm completion of the reaction. For proteolytic digestion,
+the protein bands were excised from SDS-PAGE gel, washed with 50 mM
+ammonium bicarbonate, reduced with DTT, alkylated with iodoacetamide
+(IAA), and subjected to trypsin (for CalU16) or chymotrypsin (for
+CalU19) digestion at 37 °C for 16 h. Peptides resulting from
+the proteolytic digestion were extracted from gel pieces and analyzed
+by LC-MS/MS as previously described.69 Briefly,
+the information-dependent acquisition of LC-MS/MS data were acquired
+using an LTQ Velos Orbitrap mass spectrometer (Thermo Fisher Scientific,
+Waltham, MA) coupled with a Nano-LC Ultra/cHiPLC-nanoflex HPLC system
+(Eksigent, Dublin, CA) through a nano-electrospray ionization source.70 The results were subjected using ProteomeDiscoverer
+1.3 software (Thermo Fisher Scientific, Waltham, MA) and MASCOT server.
+The cleavage sites were deduced from nonenzymatic peptides ending
+with an amine group (−NH2) from the Gly residue
+attached to a nontrypsin or nonchymotrypsin digestion site. A total of 4 μM
+of each of CalU16 and CalU19 were added to 2 mol equiv of 1 in the presence of 0.2 mM DTT. Reactions were incubated at 30 °C
+for 30 min. A fraction of each reaction was subjected to SDS-PAGE
+to confirm completion of the reaction. For proteolytic digestion,
+the protein bands were excised from SDS-PAGE gel, washed with 50 mM
+ammonium bicarbonate, reduced with DTT, alkylated with iodoacetamide
+(IAA), and subjected to trypsin (for CalU16) or chymotrypsin (for
+CalU19) digestion at 37 °C for 16 h. Peptides resulting from
+the proteolytic digestion were extracted from gel pieces and analyzed
+by LC-MS/MS as previously described.69 Briefly,
+the information-dependent acquisition of LC-MS/MS data were acquired
+using an LTQ Velos Orbitrap mass spectrometer (Thermo Fisher Scientific,
+Waltham, MA) coupled with a Nano-LC Ultra/cHiPLC-nanoflex HPLC system
+(Eksigent, Dublin, CA) through a nano-electrospray ionization source.70 The results were subjected using ProteomeDiscoverer
+1.3 software (Thermo Fisher Scientific, Waltham, MA) and MASCOT server.
+The cleavage sites were deduced from nonenzymatic peptides ending
+with an amine group (−NH2) from the Gly residue
+attached to a nontrypsin or nonchymotrypsin digestion site. A total of 4 μM
+of each of CalU16 and CalU19 were added to 2 mol equiv of 1 in the presence of 0.2 mM DTT. Reactions were incubated at 30 °C
+for 30 min. A fraction of each reaction was subjected to SDS-PAGE
+to confirm completion of the reaction. For proteolytic digestion,
+the protein bands were excised from SDS-PAGE gel, washed with 50 mM
+ammonium bicarbonate, reduced with DTT, alkylated with iodoacetamide
+(IAA), and subjected to trypsin (for CalU16) or chymotrypsin (for
+CalU19) digestion at 37 °C for 16 h. Peptides resulting from
+the proteolytic digestion were extracted from gel pieces and analyzed
+by LC-MS/MS as previously described.69 Briefly,
+the information-dependent acquisition of LC-MS/MS data were acquired
+using an LTQ Velos Orbitrap mass spectrometer (Thermo Fisher Scientific,
+Waltham, MA) coupled with a Nano-LC Ultra/cHiPLC-nanoflex HPLC system
+(Eksigent, Dublin, CA) through a nano-electrospray ionization source.70 The results were subjected using ProteomeDiscoverer
+1.3 software (Thermo Fisher Scientific, Waltham, MA) and MASCOT server.
+The cleavage sites were deduced from nonenzymatic peptides ending
+with an amine group (−NH2) from the Gly residue
+attached to a nontrypsin or nonchymotrypsin digestion site. Determination
+of Minimum Inhibitory Concentrations (MICs) Determination
+of Minimum Inhibitory Concentrations (MICs) Determination
+of Minimum Inhibitory Concentrations (MICs) Fourteen strains
+created in this study (Supporting
+Information Table S4, strains 2–15) were grown overnight
+in LB supplemented with kanamycin 30 mg L–1. Each
+overnight culture was diluted to OD600 ∼ 0.1 using
+an Overnight Express Autoinduction System 1 (Novagen) supplemented
+with kanamycin 30 mg L–1. Enediyne 1 was serially diluted 1:2 in DMSO such that the final concentrations
+ranged from 2.4 μM to 4.5 nM for pSE28a-E. coli and from 12 μM to 22 nM for all other strains. Ampicillin
+and kanamycin were used as positive and negative controls, respectively.
+All plates were incubated for 18 h at 37 °C at 250 rpm. The residual
+metabolic activity was monitored based on the irreversible reduction
+of resazurin (7-hydroxy-3H-phenoxazin-3-one-10-oxide, blue) to resorufin
+(7-hydroxy-3H-phenoxazin-3-one, pink). For this assay, 10 μL
+of resazurin (final concentration 100 μM) was added to each
+well and allowed to incubate at 37 °C with shaking at 250 rpm
+for 1 h to allow viable cells to convert resazurin to resorufin. The
+well with the minimum concentration of 1 that did not
+display bacterial growth but did display a red color after incubation
+with resazurin was recorded as the MIC of that strain (Supporting Information Figure S9; Table 3). Fourteen strains
+created in this study (Supporting
+Information Table S4, strains 2–15) were grown overnight
+in LB supplemented with kanamycin 30 mg L–1. Each
+overnight culture was diluted to OD600 ∼ 0.1 using
+an Overnight Express Autoinduction System 1 (Novagen) supplemented
+with kanamycin 30 mg L–1. Enediyne 1 was serially diluted 1:2 in DMSO such that the final concentrations
+ranged from 2.4 μM to 4.5 nM for pSE28a-E. coli and from 12 μM to 22 nM for all other strains. Ampicillin
+and kanamycin were used as positive and negative controls, respectively.
+All plates were incubated for 18 h at 37 °C at 250 rpm. The residual
+metabolic activity was monitored based on the irreversible reduction
+of resazurin (7-hydroxy-3H-phenoxazin-3-one-10-oxide, blue) to resorufin
+(7-hydroxy-3H-phenoxazin-3-one, pink). For this assay, 10 μL
+of resazurin (final concentration 100 μM) was added to each
+well and allowed to incubate at 37 °C with shaking at 250 rpm
+for 1 h to allow viable cells to convert resazurin to resorufin. The
+well with the minimum concentration of 1 that did not
+display bacterial growth but did display a red color after incubation
+with resazurin was recorded as the MIC of that strain (Supporting Information Figure S9; Table 3). Fourteen strains
+created in this study (Supporting
+Information Table S4, strains 2–15) were grown overnight
+in LB supplemented with kanamycin 30 mg L–1. Each
+overnight culture was diluted to OD600 ∼ 0.1 using
+an Overnight Express Autoinduction System 1 (Novagen) supplemented
+with kanamycin 30 mg L–1. Enediyne 1 was serially diluted 1:2 in DMSO such that the final concentrations
+ranged from 2.4 μM to 4.5 nM for pSE28a-E. coli and from 12 μM to 22 nM for all other strains. Ampicillin
+and kanamycin were used as positive and negative controls, respectively.
+All plates were incubated for 18 h at 37 °C at 250 rpm. The residual
+metabolic activity was monitored based on the irreversible reduction
+of resazurin (7-hydroxy-3H-phenoxazin-3-one-10-oxide, blue) to resorufin
+(7-hydroxy-3H-phenoxazin-3-one, pink). For this assay, 10 μL
+of resazurin (final concentration 100 μM) was added to each
+well and allowed to incubate at 37 °C with shaking at 250 rpm
+for 1 h to allow viable cells to convert resazurin to resorufin. The
+well with the minimum concentration of 1 that did not
+display bacterial growth but did display a red color after incubation
+with resazurin was recorded as the MIC of that strain (Supporting Information Figure S9; Table 3). Supporting Information Available Additional
+protocols and methods,
+supplemental figures, and supplemental tables. This material is available
+free of charge via the Internet at http://pubs.acs.org. Supplementary Material Supplementary Material cb500327m_si_001.pdf cb500327m_si_001.pdf Author Present Address □ School
+of Pharmacy and Health Profession, University
+of Maryland Eastern Shore, Princess Anne, Maryland 21853,
+U.S.A. The authors
+declare the following competing financial interest(s): J.S.T. is a
+co-founder of Centrose (Madison, WI). Acknowledgments This work
+was supported by the National Institutes of Health
+(NIH) grants CA84374 (to J.S.T.), U01GM098248 (to G.N.P.), the National
+Center for Advancing Translational Sciences (UL1TR000117), a NIH PSI
+grant (U54-GM094597 to M.A.K. and G.T.M.) and the BioXFEL Science
+and Technology Center under National Science Foundation Grant No.
+1231306. Enediynes for this study were generously provided by Pfizer
+(calicheamicin) and Bristol-Myers-Squibb (esperamicin and dynemicin).
+Proteomics analyses were conducted by the University of Kentucky Proteomics
+Core that is partially supported by grants from the National Institute
+of General Medical Sciences (P20GM103486), the National Cancer Institute
+(P30CA177558) and equipment acquired via a grant from National Center
+for Research Resources (1S10RR029127 to H.Z.). Protein NMR data collection
+was conducted at the Ohio Biomedicine Center of Excellence in Structural
+Biology and Metabolomics (Miami University). We thank Dr. J. Prestgard,
+Dr. T. Acton, and Dr. J. Everett at the Northeast Structural Genomics
+Consortium for technical assistance and J. Schwanof and R. Abramowitz
+for data collection assistance at beamline X4A, NSLS. References
