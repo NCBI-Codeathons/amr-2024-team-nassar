@@ -4,8 +4,8 @@ List of participants and affiliations:
 - Maaly Nassar (Team Leader)
 - Parul Sharma, Emory University, Atlanta-GA, USA
 - Dae-young Kim, Children's National Hospital, Washington D.C., USA
-- Leonardo de Oliveira Martins, Quadram Institute Bioscience, Norwich, UK
-- Participant, Affiliation
+- Madeline Galac, NIAID BCBB, Washington DC, USA
+- Brendan Jeffrey, NIAID BCBB, Corvallis, OR, USA
 
 ## Project Goals
 
