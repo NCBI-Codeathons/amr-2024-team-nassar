@@ -12,8 +12,8 @@ List of participants and affiliations:
 Generate dataset of self-resistance genes with what up-/down-regulate them and train Machine Learning (ML) models to identify them in whole genomes
 
 ## Approach
-We selected a list of bacterial genomes to build our model on by focusing on the ESKAPE pathogens (** Enterococcus faecium, Staphylococcus aureus, Klebsiella 
-pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter spp.**) and those with complete genomes from the [NCBI Pathogen Detection Isolate Browser](https://www.ncbi.nlm.nih.gov/pathogens/isolates/) . The protein sequences in these genomes were then categorized as AMR or non-AMR using the [NCBI Pathogen Detection Microbial Browser for Identification of Genetic and Genomic Elements (MicroBIGG-E)](https://www.ncbi.nlm.nih.gov/pathogens/microbigge/). 
+We selected a list of bacterial genomes to build our model on by focusing on the ESKAPE pathogens (* *Enterococcus faecium, Staphylococcus aureus, Klebsiella 
+pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter spp.* *) and those with complete genomes from the [NCBI Pathogen Detection Isolate Browser](https://www.ncbi.nlm.nih.gov/pathogens/isolates/) . The protein sequences in these genomes were then categorized as AMR or non-AMR using the [NCBI Pathogen Detection Microbial Browser for Identification of Genetic and Genomic Elements (MicroBIGG-E)](https://www.ncbi.nlm.nih.gov/pathogens/microbigge/). 
 
 ## Results
 
