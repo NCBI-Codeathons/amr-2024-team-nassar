@@ -1,0 +1,796 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Chem Biol</journal-id><journal-id journal-id-type="iso-abbrev">ACS Chem. Biol</journal-id><journal-id journal-id-type="publisher-id">cb</journal-id><journal-id journal-id-type="coden">acbcct</journal-id><journal-title-group><journal-title>ACS Chemical Biology</journal-title></journal-title-group><issn pub-type="ppub">1554-8929</issn><issn pub-type="epub">1554-8937</issn><publisher><publisher-name>American Chemical
+Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4201346</article-id><article-id pub-id-type="doi">10.1021/cb500327m</article-id><article-categories><subj-group><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Structure-Guided Functional Characterization of Enediyne
+Self-Sacrifice Resistance Proteins, CalU16 and CalU19</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Elshahawi</surname><given-names>Sherif
+I.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Ramelot</surname><given-names>Theresa A.</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Seetharaman</surname><given-names>Jayaraman</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Chen</surname><given-names>Jing</given-names></name><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Singh</surname><given-names>Shanteri</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Yang</surname><given-names>Yunhuang</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Pederson</surname><given-names>Kari</given-names></name><xref rid="aff6" ref-type="aff">#</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Kharel</surname><given-names>Madan
+K.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="notes-1" ref-type="notes">&#x025a1;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>Xiao</surname><given-names>Rong</given-names></name><xref rid="aff7" ref-type="aff">&#x02207;</xref></contrib><contrib contrib-type="author" id="ath10"><name><surname>Lew</surname><given-names>Scott</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath11"><name><surname>Yennamalli</surname><given-names>Ragothaman
+M.</given-names></name><xref rid="aff8" ref-type="aff">&#x025cb;</xref></contrib><contrib contrib-type="author" id="ath12"><name><surname>Miller</surname><given-names>Mitchell D.</given-names></name><xref rid="aff8" ref-type="aff">&#x025cb;</xref></contrib><contrib contrib-type="author" id="ath13"><name><surname>Wang</surname><given-names>Fengbin</given-names></name><xref rid="aff8" ref-type="aff">&#x025cb;</xref></contrib><contrib contrib-type="author" id="ath14"><name><surname>Tong</surname><given-names>Liang</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath15"><name><surname>Montelione</surname><given-names>Gaetano T.</given-names></name><xref rid="aff7" ref-type="aff">&#x02207;</xref><xref rid="aff9" ref-type="aff">&#x025c6;</xref></contrib><contrib contrib-type="author" id="ath16"><name><surname>Kennedy</surname><given-names>Michael
+A.</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath17"><name><surname>Bingman</surname><given-names>Craig A.</given-names></name><xref rid="aff10" ref-type="aff">&#x000b6;</xref></contrib><contrib contrib-type="author" id="ath18"><name><surname>Zhu</surname><given-names>Haining</given-names></name><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath19"><name><surname>Phillips</surname><given-names>George N.</given-names><suffix>Jr.</suffix></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff8" ref-type="aff">&#x025cb;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath20"><name><surname>Thorson</surname><given-names>Jon S.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Pharmaceutical Sciences, College of Pharmacy, <institution>University of Kentucky</institution>, Lexington, Kentucky 40536, <country>United States</country></aff><aff id="aff2"><label>&#x02021;</label>Center
+for Pharmaceutical Research and Innovation (CPRI), College of Pharmacy, <institution>University of Kentucky</institution>, Lexington, Kentucky 40536, <country>United States</country></aff><aff id="aff3"><label>&#x000a7;</label>Department
+of Chemistry and Biochemistry, Northeast Structural Genomics Consortium, <institution>Miami University</institution>, Oxford, Ohio 45056, <country>United States</country></aff><aff id="aff4"><label>&#x02225;</label>Department
+of Biological Sciences, Northeast Structural Genomics Consortium, <institution>Columbia University</institution>, New York, New York 10027, <country>United States</country></aff><aff id="aff5"><label>&#x022a5;</label>Department
+of Molecular and Cellular Biochemistry &#x00026; Center for Structural
+Biology, College of Medicine, <institution>University
+of Kentucky</institution>, Lexington, Kentucky 40536, <country>United
+States</country></aff><aff id="aff6"><label>#</label>Complex Carbohydrate
+Research Center, Northeast Structural Genomics Consortium, <institution>University of Georgia</institution>, Athens, Georgia 30602, <country>United States</country></aff><aff id="aff7"><label>&#x02207;</label>Center
+for Advanced Biotechnology and Medicine, Department of Molecular Biology
+and Biochemistry, and Northeast Structural Genomics Consortium, Rutgers, <institution>The State University of New Jersey</institution>, Piscataway, New Jersey 08854, <country>United States</country></aff><aff id="aff8"><label>&#x025cb;</label>Department
+of Biochemistry and Cell Biology, <institution>Rice University</institution>, Houston, Texas 77005, <country>United States</country></aff><aff id="aff9"><label>&#x025c6;</label>Department
+of Biochemistry, Robert Wood Johnson Medical School, Rutgers, <institution>The State University of New Jersey</institution>, Piscataway, New Jersey 08854, <country>United States</country></aff><aff id="aff10"><label>&#x000b6;</label>Department
+of Biochemistry, <institution>University of Wisconsin-Madison</institution>, Madison, Wisconsin 53706, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>jsthorson@uky.edu</email>.</corresp><corresp id="cor2"><label>*</label>Email: <email>georgep@rice.edu</email>.</corresp></author-notes><pub-date pub-type="pmc-release"><day>31</day><month>07</month><year>2015</year></pub-date><pub-date pub-type="epub"><day>31</day><month>07</month><year>2014</year></pub-date><pub-date pub-type="ppub"><day>17</day><month>10</month><year>2014</year></pub-date><volume>9</volume><issue>10</issue><fpage>2347</fpage><lpage>2358</lpage><history><date date-type="received"><day>30</day><month>04</month><year>2014</year></date><date date-type="accepted"><day>31</day><month>07</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2014 American Chemical
+Society</copyright-statement><copyright-year>2014</copyright-year><copyright-holder>American Chemical
+Society</copyright-holder><license><license-p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">Terms of Use</ext-link></license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00327m_0006" id="ab-tgr1"/></p><p>Calicheamicin &#x003b3;<sub>1</sub><sup>I</sup> (<bold>1</bold>)
+is an enediyne antitumor compound produced by <italic>Micromonospora
+echinospora</italic> spp. calichensis, and its biosynthetic gene cluster
+has been previously reported. Despite extensive analysis and biochemical
+study, several genes in the biosynthetic gene cluster of <bold>1</bold> remain functionally unassigned. Using a structural genomics approach
+and biochemical characterization, two proteins encoded by genes from
+the <bold>1</bold> biosynthetic gene cluster assigned as &#x0201c;unknowns&#x0201d;,
+CalU16 and CalU19, were characterized. Structure analysis revealed
+that they possess the STeroidogenic Acute Regulatory protein related
+lipid Transfer (START) domain known mainly to bind and transport lipids
+and previously identified as the structural signature of the enediyne
+self-resistance protein CalC. Subsequent study revealed <italic>calU16</italic> and <italic>calU19</italic> to confer resistance to <bold>1</bold>, and reminiscent of the prototype CalC, both CalU16 and CalU19 were
+cleaved by <bold>1</bold><italic>in vitro.</italic> Through site-directed
+mutagenesis and mass spectrometry, we identified the site of cleavage
+in each protein and characterized their function in conferring resistance
+against <bold>1</bold>. This report emphasizes the importance of structural
+genomics as a powerful tool for the functional annotation of unknown
+proteins.</p></abstract><funding-group><funding-statement><funding-source>National Institutes of Health, United States</funding-source></funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>cb500327m</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>cb-2014-00327m</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p id="sec1">The calicheamicins
+are a prototype
+of the naturally occurring 10-membered enediyne antitumor antibiotic
+family and were first reported in 1989 as metabolites of <italic>Micromonospora
+echinospora</italic> spp. calichensis.<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref3">3</xref></sup> Members of this family
+share a structurally conserved bicyclo[7.3.1]enediyne core, also often
+referred to as the &#x0201c;warhead&#x0201d; as this structural unit
+is central to the fundamental enediyne mechanism of action (Figure <xref rid="fig1" ref-type="fig">1</xref>A).<sup><xref ref-type="bibr" rid="ref4">4</xref>&#x02212;<xref ref-type="bibr" rid="ref6">6</xref></sup> In all family members, the enediyne core is strategically
+decorated with a bioorthogonal &#x0201c;triggering&#x0201d; system and
+specific appendages that enhance affinity to the metabolite&#x02019;s
+target (DNA/RNA). The calicheamicin trigger system (and that of esperamicins,
+shishijimicins, and namenamicins) is comprised of a unique trisulfide
+that, upon reduction by bioreductants such as glutathione, induces
+an intramolecular hetero-Michael addition at C-9 (Figure <xref rid="fig1" ref-type="fig">1</xref>B).<sup><xref ref-type="bibr" rid="ref7">7</xref>&#x02212;<xref ref-type="bibr" rid="ref9">9</xref></sup> The resulting fused enediyne core ring strain invokes
+a spontaneous cycloaromatization reaction which proceeds via a highly
+reactive diradical intermediate that is rapidly quenched by any suitable
+hydrogen source.<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> Calicheamicin&#x02019;s high affinity
+for the minor groove of DNA, by virtue of its aryltetrasaccharide,
+insures that the diradical species is quenched via hydrogen abstraction
+from the backbone of opposing strands of dsDNA to form DNA radicals
+that, in the presence of oxygen, result in facile double-strand scission.<sup><xref ref-type="bibr" rid="ref11">11</xref>&#x02212;<xref ref-type="bibr" rid="ref13">13</xref></sup> The study of calicheamicin&#x02019;s many fascinating architectural
+and functional facets have led to numerous discoveries/advances in
+chemistry,<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref15">15</xref></sup> enzymology,<sup><xref ref-type="bibr" rid="ref16">16</xref>&#x02212;<xref ref-type="bibr" rid="ref26">26</xref></sup> and anticancer drug development<sup><xref ref-type="bibr" rid="ref27">27</xref>,<xref ref-type="bibr" rid="ref28">28</xref></sup> over the past
+three decades. Yet, while the gene cluster encoding for calicheamicin
+biosynthesis was cloned from <italic>M. echinospora</italic> and sequenced
+nearly a decade ago,<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> there remain a number
+of genes (&#x0223c;30%) within this locus annotated as &#x0201c;unknowns&#x0201d;
+due to a lack of homologues and/or biochemical characterization of
+corresponding gene products.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(A) Selected structures of naturally occurring
+10-membered enediynes.
+The &#x0201c;warhead&#x0201d; is highlighted in red. (B) Proposed mechanism
+of cycloaromatization of <bold>1</bold> and its effect on DNA scission
+and CalC self-sacrifice mechanism.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00327m_0001" id="gr1" position="float"/></fig><p>Herein, we describe the application of structural genomics
+as a
+basis for the functional characterization of two proteins encoded
+by such &#x0201c;unknowns&#x0201d;&#x02014;CalU16 and CalU19. Specifically,
+structure elucidation (via both NMR and X-ray crystallography) revealed
+CalU16 to be a structural homologue of CalC, a protein previously
+characterized as among the first reported enediyne &#x0201c;self-sacrifice&#x0201d;
+resistance proteins.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup> Prompted by this structure-based
+revelation, subsequent biochemical characterization of CalU16 and
+its homologue CalU19 revealed both to serve in a similar capacity
+wherein CalU19 also displayed the unprecedented ability to trigger
+enediyne cycloaromatization in the absence of endogenous reducing
+agents. Cumulatively, this work extends the body of work focused upon
+understanding how bacteria construct and control highly reactive and
+lethal metabolites and expands the number of known &#x0201c;self-sacrifice&#x0201d;
+enediyne resistance proteins. This work also serves to illustrate
+the impact of structure determination as a critical tool for the functional
+annotation of unassigned genes.</p><sec id="sec2"><title>Results and Discussion</title><sec id="sec2.1"><title>CalU16
+Structure and CalU19 Homology Model</title><p>Protein
+Structure Initiative (PSI- Biology) employs a complementary combination
+of NMR spectroscopy and/or X-ray crystallography to determine 3D-structures
+of biologically relevant targets. The structure of CalU16 was solved
+both by X-ray crystallography (Protein Database Bank (PDB: 4FPW)) and NMR (PDB: 2LUZ). The crystal structure
+of CalU16 was determined at 2.50 &#x000c5; resolution, refined to an <italic>R</italic><sub>cryst</sub> and <italic>R</italic><sub>free</sub> of
+24.1% and 28.2% (Table <xref rid="tbl1" ref-type="other">1</xref>), respectively, and
+is comprised of two subunits in an asymmetric unit belonging to space
+group <italic>P</italic>6<sub>1</sub> (Figure <xref rid="fig2" ref-type="fig">2</xref>). Of the 182 residues of CalU16, the first 4 residues, the last
+2 residues, and a dynamic loop containing 19 residues (a.a. 141&#x02013;159)
+from subunit A and 15 residues (a.a. 144&#x02013;158) from subunit
+B were not modeled due to insufficient electron density. Structure
+and quality statistics are given in Table <xref rid="tbl1" ref-type="other">1</xref>. The corresponding solution structure of CalU16 was determined by
+multidimensional heteronuclear NMR spectroscopy (<xref rid="notes-2" ref-type="notes">Supporting Information Figures S1&#x02013;S3</xref>). Nearly complete <sup>1</sup>H, <sup>15</sup>N, and <sup>13</sup>C assignments were obtained
+and structures were calculated from residual dipolar couplings (RDCs),
+chemical shift-derived dihedral angle constraints, and Nuclear Overhauser
+Effect (NOE)-derived distance constraints via standard protocols.
+Structure and quality statistics are given in Table <xref rid="tbl2" ref-type="other">2</xref> for the ensemble of 20 lowest energy structures, indicating
+the high quality of the structure. Intrinsic disorder was observed
+for the first 6 residues, the last 3 residues, and 21 residues that
+includes a loop and part of the following helix (a.a. 143&#x02013;163)
+and is corroborated by a lack of long-range NOEs and low (&#x0003c;0.6) <sup>15</sup>N{<sup>1</sup>H} heteronuclear values (<xref rid="notes-2" ref-type="notes">Supporting Information Figure S3</xref>).</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Structure of CalU16.
+(A) Overlay of NMR (green) and monomers of
+the crystal (brick- red) structures of CalU16. The <italic>N</italic>- and <italic>C</italic>-termini of the protein are labeled, while
+the dynamic loop is colored yellow. (B) Monomer with secondary structural
+elements labeled. The residues in the hydrophobic cavity are represented
+as stick models. (C) B-factors for the C&#x003b1; atoms in the crystal
+structure (left) and C&#x003b1; RMSD values from the NMR ensemble (right)
+are mapped to the color and tube diameter of &#x0201c;putty&#x0201d;
+traces showing the general agreement (correlation coefficient 0.559)
+between the structures.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00327m_0002" id="gr2" position="float"/></fig><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Summary of Crystal Parameters, Data
+Collection, and Refinement Statistics<xref rid="tbl1-fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">property</th><th style="border:none;" align="center">value</th></tr></thead><tbody><tr><td colspan="2" style="border:none;" align="left">Crystal Param.</td></tr><tr><td style="border:none;" align="left">space group</td><td style="border:none;" align="left"><italic>P</italic>6<sub>1</sub></td></tr><tr><td style="border:none;" align="left">molecules per asymmetric
+unit</td><td style="border:none;" align="left">2</td></tr><tr><td style="border:none;" align="left"><italic>V</italic><sub>M</sub>&#x000a0;(&#x000c5;<sup>3</sup>&#x000a0;Da<sup>&#x02013;1</sup>)</td><td style="border:none;" align="left">2.95</td></tr><tr><td style="border:none;" align="left">unit-cell param. (&#x000c5;)</td><td style="border:none;" align="left">a = b&#x000a0;=&#x000a0;51.85, c&#x000a0;=&#x000a0;305.70</td></tr><tr><td colspan="2" style="border:none;" align="left">Data Collection Statistics</td></tr><tr><td style="border:none;" align="left">wavelength (&#x000c5;)</td><td style="border:none;" align="left">0.9790</td></tr><tr><td style="border:none;" align="left">resolution range (&#x000c5;)</td><td style="border:none;" align="left">50.00&#x02013;2.50 (2.59&#x02013;2.50)</td></tr><tr><td style="border:none;" align="left">no. of reflections (measured/unique)</td><td style="border:none;" align="left">236417/16051</td></tr><tr><td style="border:none;" align="left">completeness
+(%)</td><td style="border:none;" align="left">99.9&#x000a0;(99.5)</td></tr><tr><td style="border:none;" align="left"><italic>R</italic><sub>merge</sub><xref rid="t1fn1" ref-type="table-fn">b</xref></td><td style="border:none;" align="left">0.056&#x000a0;(0.169)</td></tr><tr><td style="border:none;" align="left">redundancy</td><td style="border:none;" align="left">14.8&#x000a0;(12.3)</td></tr><tr><td style="border:none;" align="left">mean&#x000a0;<italic>I</italic>/&#x003c3;&#x000a0;(I)</td><td style="border:none;" align="left">27.4&#x000a0;(10.4)</td></tr><tr><td colspan="2" style="border:none;" align="left">Refinement and Model
+Statistics</td></tr><tr><td style="border:none;" align="left">resolution range (&#x000c5;)</td><td style="border:none;" align="left">44.91&#x02013;2.50</td></tr><tr><td style="border:none;" align="left">no.
+of reflections (work/test)</td><td style="border:none;" align="left">15160/794</td></tr><tr><td style="border:none;" align="left"><italic>R</italic><sub>cryst</sub><xref rid="t1fn2" ref-type="table-fn">c</xref></td><td style="border:none;" align="left">0.241&#x000a0;(0.325)</td></tr><tr><td style="border:none;" align="left"><italic>R</italic><sub>free</sub><xref rid="t1fn3" ref-type="table-fn">d</xref></td><td style="border:none;" align="left">0.282&#x000a0;(0.371)</td></tr><tr><td style="border:none;" align="left">twin
+operator</td><td style="border:none;" align="left">K, H, -L</td></tr><tr><td style="border:none;" align="left">twin fraction</td><td style="border:none;" align="left">0.50</td></tr><tr><td style="border:none;" align="left">RMSD bonds (&#x000c5;)</td><td style="border:none;" align="left">0.009</td></tr><tr><td style="border:none;" align="left">RMSD angles (deg)</td><td style="border:none;" align="left">1.453</td></tr><tr><td style="border:none;" align="left">B factor (protein/solvent) (&#x000c5;<sup>2</sup>)</td><td style="border:none;" align="left">53.8/50.9</td></tr><tr><td style="border:none;" align="left">no. of protein atoms</td><td style="border:none;" align="left">2497</td></tr><tr><td style="border:none;" align="left">no. of waters</td><td style="border:none;" align="left">128</td></tr><tr><td colspan="2" style="border:none;" align="left">Ramachandran Plot (%)<xref rid="t1fn4" ref-type="table-fn">e</xref></td></tr><tr><td style="border:none;" align="left">most favorable regions</td><td style="border:none;" align="left">91.3</td></tr><tr><td style="border:none;" align="left">allowed regions</td><td style="border:none;" align="left">5.8</td></tr><tr><td style="border:none;" align="left">disallowed regions</td><td style="border:none;" align="left">2.9</td></tr><tr><td colspan="2" style="border:none;" align="left">Global
+Quality Scores (Raw/Z-Score)</td></tr><tr><td style="border:none;" align="left">Verify3D</td><td style="border:none;" align="left">0.4/&#x02013;1.0</td></tr><tr><td style="border:none;" align="left">ProsaII</td><td style="border:none;" align="left">0.5/&#x02013;0.6</td></tr><tr><td style="border:none;" align="left">Procheck
+G factor (phi-psi)</td><td style="border:none;" align="left">&#x02013;0.6/&#x02013;2.0</td></tr><tr><td style="border:none;" align="left">Procheck G factor (all)</td><td style="border:none;" align="left">&#x02013;0.5/&#x02013;2.7</td></tr><tr><td style="border:none;" align="left">Molprobity
+clash score</td><td style="border:none;" align="left">9.6/&#x02013;1.8</td></tr><tr><td style="border:none;" align="left">PDB ID</td><td style="border:none;" align="left">4FPW</td></tr></tbody></table><table-wrap-foot><fn id="tbl1-fn1"><label>a</label><p>Values in parentheses are for
+the highest resolution shell.</p></fn><fn id="t1fn1"><label>b</label><p><italic>R</italic><sub>merge</sub> = &#x02211;<sub><italic>h</italic></sub> &#x02211;<sub><italic>i</italic></sub> | <italic>I</italic><sub><italic>i</italic></sub>(<italic>h</italic>) &#x02013; &#x027e8;<italic>I</italic>(<italic>h</italic>)&#x027e9;|/&#x02211;<sub><italic>h</italic></sub>&#x02211;<sub><italic>i</italic></sub><italic>I</italic><sub><italic>i</italic></sub>(<italic>h</italic>), where <italic>I</italic><sub>i</sub>(<italic>h</italic>) is the intensity of an individual
+measurement of the reflection
+and &#x027e8;<italic>I</italic>(<italic>h</italic>)&#x027e9; is the
+mean intensity of the reflection.</p></fn><fn id="t1fn2"><label>c</label><p><italic>R</italic><sub>cryst</sub> = &#x02211;<sub><italic>h</italic></sub> ||<italic>F</italic><sub>obs</sub>| &#x02013; |<italic>F</italic><sub>calc</sub>||/&#x02211;<sub><italic>h</italic></sub> |<italic>F</italic><sub>obs</sub>|, where <italic>F</italic><sub>obs</sub> and <italic>F</italic><sub>calc</sub> are
+the observed and calculated structure-factor amplitudes, respectively.</p></fn><fn id="t1fn3"><label>d</label><p><italic>R</italic><sub>free</sub> was calculated as <italic>R</italic><sub>cryst</sub> except that
+it uses 10% of the reflection data omitted from refinement.</p></fn><fn id="t1fn4"><label>e</label><p>Calculated using Molprobity.<sup><xref ref-type="bibr" rid="ref71">71</xref></sup></p></fn></table-wrap-foot></table-wrap><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>Summary of CalU16 Solution Structural
+Statistics<xref rid="t2fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">property</th><th style="border:none;" align="center">value</th></tr></thead><tbody><tr><td colspan="2" style="border:none;" align="left">Completeness of Resonance
+Assignments<xref rid="t2fn2" ref-type="table-fn">b</xref></td></tr><tr><td style="border:none;" align="left">backbone (%)</td><td style="border:none;" align="left">98.3</td></tr><tr><td style="border:none;" align="left">side chain (%)</td><td style="border:none;" align="left">97.9</td></tr><tr><td style="border:none;" align="left">aromatic (%)</td><td style="border:none;" align="left">96.2</td></tr><tr><td style="border:none;" align="left">stereospecific methyl (%)</td><td style="border:none;" align="left">85.8</td></tr><tr><td colspan="2" style="border:none;" align="left">Conformationally
+Restricting Constraints<xref rid="t2fn3" ref-type="table-fn">c</xref></td></tr><tr><td style="border:none;" align="left">distance constraints</td><td style="border:none;" align="left">&#x000a0;</td></tr><tr><td style="padding-left: 2em;" align="left"> total</td><td style="border:none;" align="left">2522</td></tr><tr><td style="padding-left: 2em;" align="left"> intraresidue
+(<italic>i</italic> = <italic>j</italic>)</td><td style="border:none;" align="left">471</td></tr><tr><td style="padding-left: 2em;" align="left">&#x000a0;&#x000a0;sequential&#x000a0;(|<italic>I</italic>&#x000a0;&#x02013;&#x000a0;<italic>j</italic>|&#x000a0;=&#x000a0;1)</td><td style="border:none;" align="left">614</td></tr><tr><td style="padding-left: 2em;" align="left"> medium range (1&#x000a0;&#x0003c;&#x000a0;|<italic>i</italic>&#x000a0;&#x02013;&#x000a0;<italic>j</italic>|&#x000a0;&#x0003c;&#x000a0;5)</td><td style="border:none;" align="left">458</td></tr><tr><td style="padding-left: 2em;" align="left"> long-range (|<italic>i</italic>&#x000a0;&#x02013;&#x000a0;<italic>j</italic>|&#x000a0;&#x02265;&#x000a0;5)</td><td style="border:none;" align="left">979</td></tr><tr><td style="border:none;" align="left">dihedral angle constraints</td><td style="border:none;" align="left">222</td></tr><tr><td style="border:none;" align="left">hydrogen bond constraints</td><td style="border:none;" align="left">192</td></tr><tr><td style="border:none;" align="left">NH RDC constraints (gel&#x000a0;NH/NC&#x02032;)</td><td style="border:none;" align="left">75/59</td></tr><tr><td style="border:none;" align="left">no. of constraints
+per residue</td><td style="border:none;" align="left">16.5</td></tr><tr><td style="border:none;" align="left">no. of long-range
+constraints
+per residue</td><td style="border:none;" align="left">6.0</td></tr><tr><td colspan="2" style="border:none;" align="left">Residual Constraint Violations<xref rid="t2fn3" ref-type="table-fn">c</xref></td></tr><tr><td colspan="2" align="left">avg. no. of distance
+violations per structure</td></tr><tr><td style="padding-left: 2em;" align="left">0.1&#x02013;0.2
+&#x000c5;</td><td style="border:none;" align="left">24.8</td></tr><tr><td style="padding-left: 2em;" align="left">0.2&#x02013;0.5&#x000a0;&#x000c5;</td><td style="border:none;" align="left">6.2</td></tr><tr><td style="padding-left: 2em;" align="left">&#x0003e; 0.5 &#x000c5;</td><td style="border:none;" align="left">0</td></tr><tr><td colspan="2" align="left">avg no. of dihedral
+angle violations per structure</td></tr><tr><td style="padding-left: 2em;" align="left">1&#x02013;10&#x000b0;</td><td style="border:none;" align="left">17.8</td></tr><tr><td style="padding-left: 2em;" align="left">&#x0003e; 10&#x000b0;</td><td style="border:none;" align="left">0.2</td></tr><tr><td style="border:none;" align="left"> RDC <italic>Q</italic><sub>rmsd</sub> (gel&#x000a0;NH/NC&#x02032;)<xref rid="t2fn4" ref-type="table-fn">d</xref></td><td style="border:none;" align="left">0.4/0.3</td></tr><tr><td colspan="2" style="border:none;" align="left">Model Quality<xref rid="t2fn3" ref-type="table-fn">c</xref></td></tr><tr><td style="border:none;" align="left">RMSD backbone atoms (&#x000c5;)<xref rid="t2fn5" ref-type="table-fn">e</xref></td><td style="border:none;" align="left">0.7</td></tr><tr><td style="border:none;" align="left">RMSD heavy atoms (&#x000c5;)<xref rid="t2fn5" ref-type="table-fn">e</xref></td><td style="border:none;" align="left">1.2</td></tr><tr><td style="border:none;" align="left">RMSD
+bond lengths (&#x000c5;)</td><td style="border:none;" align="left">0.018</td></tr><tr><td style="border:none;" align="left">RMSD bond angles (deg)</td><td style="border:none;" align="left">1.3</td></tr><tr><td style="border:none;" align="left">MolProbity
+Ramachandran
+statistics<xref rid="t2fn3" ref-type="table-fn">c</xref><sup>,</sup><xref rid="t2fn5" ref-type="table-fn">e</xref></td><td style="border:none;" align="left">&#x000a0;</td></tr><tr><td style="padding-left: 2em;" align="left">most favored regions (%)</td><td style="border:none;" align="left">94.6</td></tr><tr><td style="padding-left: 2em;" align="left">allowed
+regions (%)</td><td style="border:none;" align="left">5.4</td></tr><tr><td style="padding-left: 2em;" align="left">disallowed regions (%)</td><td style="border:none;" align="left">0</td></tr><tr><td colspan="2" align="left">global quality scores
+(Raw/<italic>Z</italic>-score)<xref rid="t2fn3" ref-type="table-fn">c</xref></td></tr><tr><td style="padding-left: 2em;" align="left">Verify3D</td><td style="border:none;" align="left">0.4/&#x02013;0.3</td></tr><tr><td style="padding-left: 2em;" align="left">ProsaII</td><td style="border:none;" align="left">0.5/&#x02013;0.6</td></tr><tr><td style="padding-left: 2em;" align="left">Procheck G factor (&#x003c6;&#x02013;&#x003c8;)<xref rid="t2fn5" ref-type="table-fn">e</xref></td><td style="border:none;" align="left">&#x02013;0.4/ &#x02212;1.3</td></tr><tr><td style="padding-left: 2em;" align="left">Procheck G factor (all)<xref rid="t2fn5" ref-type="table-fn">e</xref></td><td style="border:none;" align="left">&#x02013;0.3/&#x02013;2.0</td></tr><tr><td style="padding-left: 2em;" align="left">MolProbity clash score</td><td style="border:none;" align="left">16.0/&#x02013;1.2</td></tr><tr><td style="border:none;" align="left">RPF
+scores<xref rid="t2fn6" ref-type="table-fn">f</xref></td><td style="border:none;" align="left">&#x000a0;</td></tr><tr><td style="padding-left: 2em;" align="left">recall/precision</td><td style="border:none;" align="left">0.98</td></tr><tr><td style="padding-left: 2em;" align="left">F-measure/DP-score</td><td style="border:none;" align="left">0.94</td></tr><tr><td colspan="2" style="border:none;" align="left">Model Contents</td></tr><tr><td style="padding-left: 2em;" align="left">ordered residue range<xref rid="t2fn5" ref-type="table-fn">e</xref></td><td style="border:none;" align="left">7&#x02013;65, 71&#x02013;89, 95&#x02013;140, 161&#x02013;179</td></tr><tr><td style="border:none;" align="left">BMRB accession no.</td><td style="border:none;" align="left">18547</td></tr><tr><td style="border:none;" align="left">PDB ID</td><td style="border:none;" align="left">2LUZ</td></tr></tbody></table><table-wrap-foot><fn id="t2fn1"><label>a</label><p>Structural statistics computed for
+the ensemble of 20 deposited structures.</p></fn><fn id="t2fn2"><label>b</label><p>Computed using AVS software from
+the expected number of resonances, excluding: highly exchangeable
+protons (N-terminal, Lys, and Arg amino groups, hydroxyls of Ser,
+Thr, Tyr), carboxyls of Asp and Glu, nonprotonated aromatic carbons,
+for residues 1&#x02013;182.</p></fn><fn id="t2fn3"><label>c</label><p>Calculated using PSVS 1.4. Average
+distance violations were calculated using the sum over <italic>r</italic><sup>&#x02013;6</sup>.</p></fn><fn id="t2fn4"><label>d</label><p>RDC
+goodness-of-fit quality factor <italic>Q</italic><sub>rmsd</sub> determined
+using PALES.</p></fn><fn id="t2fn5"><label>e</label><p>Based on ordered
+residue ranges
+[S(&#x003c6;) + S(&#x003c8;) &#x0003e; 1.8].</p></fn><fn id="t2fn6"><label>f</label><p>RPF scores reflecting the goodness-of-fit
+of the final ensemble of structures (including disordered residues)
+to the NOESY data and resonance assignments.</p></fn></table-wrap-foot></table-wrap><p>Superposition of the CalU16 solution structure with
+individual
+subunits of the crystal structure reveals a rmsd of 0.88 &#x000c5;, indicating
+that the structures are quite similar. The major difference between
+the two structures is the absence of the previously mentioned dynamic
+loop region (residues 141&#x02013;159) in the crystal structure (Figure <xref rid="fig2" ref-type="fig">2</xref>). Interestingly, the crystal structure of CalU16
+contains two subunits in the asymmetric unit related by 2-fold noncrystallographic
+symmetry, with a small contact interface (calculated to be &#x0223c;530
+&#x000c5;<sup>2</sup> by PISA).<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> Based on
+analytical static light scattering in-line (<xref rid="notes-2" ref-type="notes">Supporting
+Information Figure S4</xref>) with gel filtration chromatography and
+NMR correlation time estimates, CalU16 exists as a monomer in solution.
+The final difference map also reveals an additional long tubular feature
+in hydrophobic pocket, perhaps representing a bound unknown <italic>E. coli</italic> metabolite carried through the purification procedure
+(<xref rid="notes-2" ref-type="notes">Supporting Information Figure S5</xref>).</p><p>The CalU16 monomer folds into a globular domain formed by four
+&#x003b1;-helices and seven antiparallel &#x003b2;-strands in the order:
+&#x003b2;1-&#x003b2;2-&#x003b1;1-&#x003b1;2-&#x003b2;3-&#x003b2;4-&#x003b2;5-&#x003b2;6-&#x003b2;7-&#x003b1;3-loop-&#x003b1;4
+(Figure <xref rid="fig2" ref-type="fig">2</xref>). The domain exhibits a common tertiary
+structure consisting of a helix-grip-fold, characteristic of STeroidogenic
+Acute Regulatory protein related lipid Transfer (START) domains implicated
+in possessing a hydrophobic cavity for ligand binding.<sup><xref ref-type="bibr" rid="ref30">30</xref>,<xref ref-type="bibr" rid="ref31">31</xref></sup> The hydrophobic cavity in CalU16 spans the entire length of CalU16,
+formed by seven &#x003b2;-strands and three helices, &#x003b1;1, &#x003b1;2,
+and &#x003b1;3, encompassing residues Ile24, Ile26, Val37, Trp38, Ile47,
+Trp50, Phe51, Ile52, Phe64, Leu66, Leu83, Ile74, Ile85, Trp87, Val97,
+Leu99, Leu101, Leu110, Leu112, Val125, Trp129, Leu133, Leu136, and
+Ile140 (Figure <xref rid="fig2" ref-type="fig">2</xref>). In addition to the START
+domain core, the fourth helix (&#x003b1;4) of CalU16 contributes an
+additional structural unit. Such extra secondary structural elements
+are common upon START domain members where they contribute to a range
+of structural/functional roles.<sup><xref ref-type="bibr" rid="ref19">19</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup></p><p>CalU19 is another
+protein of unknown function encoded by a gene
+in the calicheamicin gene cluster, which displays 42% sequence identity
+to CalU16 (<xref rid="notes-2" ref-type="notes">Supporting Information Figure S6</xref>). A CalU16-based homology model of CalU19, generated using SWISS-MODEL
+also highlights the presence of a signature hydrophobic core consistent
+with START domain family members, implicating a similar function (<xref rid="notes-2" ref-type="notes">Supporting Information Figure S7</xref>).</p></sec><sec id="sec2.2"><title>Structurally-Related
+Proteins</title><p>A structure-based similarity
+search of CalU16 using DaliLite server<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> and PDBeFold<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> returned &#x0003e;100 hits
+that
+share close structural similarity. Figure <xref rid="fig3" ref-type="fig">3</xref> and <xref rid="notes-2" ref-type="notes">Supporting Information Table S1</xref> summarize
+a small selection of functionally characterized structural homologues
+of CalU16 (Figure <xref rid="fig3" ref-type="fig">3</xref>A). Among these is CalC
+(PDB: 2L65)
+(Figure <xref rid="fig3" ref-type="fig">3</xref>B), the prototype calicheamicin self-sacrifice
+resistance protein encoded by the gene <italic>calC</italic> from
+the same biosynthetic gene cluster as CalU16.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> In addition, three structures (Figure <xref rid="fig3" ref-type="fig">3</xref>C&#x02013;E)
+associated with other natural product biosynthetic pathways were identified.
+Specifically, TcmN Aro/Cyc (PDB: 3TVQ) is a polyketide aromatase/cyclase (Figure <xref rid="fig3" ref-type="fig">3</xref>C) involved in the regiospecific cyclization of
+tetracenomycin,<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> Hyp-1 (PDB: 3IE5) is involved in
+the formation of hypericin (Figure <xref rid="fig3" ref-type="fig">3</xref>D),<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> while NCS (PDB: 2VQ5) is involved in the biosynthesis of (<italic>S</italic>)-norcoclaurine (Figure <xref rid="fig3" ref-type="fig">3</xref>E).<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> Other representative structural homologues identified
+include plant allergen Bet v1-J (PDB: 4A8U),<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> abscisic
+acid receptor (PDB: 4N0G),<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> cytokinin-specific binding protein
+(PDB: 2FLH),<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> and major celery allergen protein (PDB: 2BK0) (<xref rid="notes-2" ref-type="notes">Supporting Information Table S1</xref>).<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> A structural alignment of CalU16 with these homologues highlights
+the striking conservation of the core structural fold, which contributes
+to the binding site for a structurally diverse array of ligands including
+steroids, lipids, hormones, and polyketides. However, a clear structural
+difference in CalU16 is the presence of an additional helical region
+near the residues 160&#x02013;180 (&#x003b1;4 helix as shown in Figure <xref rid="fig2" ref-type="fig">2</xref>B). While this extra helix is not observed in the
+other homologues of known function, two functionally uncharacterized
+CalU16 structural homologues also have this helix (PDB: 2NN5 and 2K5G).<sup><xref ref-type="bibr" rid="ref42">42</xref>,<xref ref-type="bibr" rid="ref43">43</xref></sup> Despite the plethora of available sequences and structures,<sup><xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref44">44</xref></sup> START domain structure/sequence alone remains insufficient to assign
+function for newly discovered family members. Thus, additional structures
+and parallel biochemical characterization are needed to establish
+broader structure&#x02013;activity relationships of START domain proteins.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>CalU16
+structural homologues. (A) CalU16 (PDB: 4FPW); (B) CalC (PDB: 2L65), calicheamicin
+resistance protein; (C) TcmN Aro/Cyc (in complex with <italic>trans</italic>-dihydroquercetin; PDB: 3TVQ) involved in the biosynthesis of tetracenomycin; (D)
+Hyp-1 (in complex with ethylene glycol; PDB: 3IE5) involved in the
+biosynthesis of hypericin; (E) NCS (in complex with hydroxybenzaldehyde;
+PDB: 2VQ5) involved
+in the biosynthesis of norcoclaurine.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00327m_0003" id="gr3" position="float"/></fig></sec><sec id="sec2.3"><title>Heterologous Expression of <italic>calU16</italic> or <italic>calU19</italic> in <italic>E. coli</italic> Confers Resistance to
+Calicheamicin</title><p>Our initial cloning of the <bold>1</bold> biosynthetic
+gene cluster was facilitated by employing a selection for <bold>1</bold> resistance using a <italic>M. echinospora</italic> cosmid library
+in <italic>E. coli.</italic>(<xref ref-type="bibr" rid="ref16">16</xref>) From positive
+cosmids identified, an iterative subcloning and selection process
+ultimately led to the discovery of <italic>calC</italic> gene and
+subsequent elucidation of the CalC mechanism.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> It is important to note that the initial screen for resistance genes
+relied upon the native <italic>Micromonospora</italic> promoters for
+heterologous expression in <italic>E. coli</italic>, and thus, <italic>calU16</italic> and <italic>calU19</italic> could have been missed
+simply due to poor heterologous expression in <italic>E. coli.</italic> However, the ability of <italic>calC</italic> (and presumably other
+self-sacrifice resistance protein encoding genes) to confer resistance
+upon <italic>E. coli</italic> provides a convenient indicator for
+putative function. As a preliminary assessment of potential CalU16/19
+function, the genes encoding each protein were expressed in <italic>E. coli</italic> and the corresponding recombinant strains tested
+for <bold>1</bold> resistance in a manner reminiscent to that previously
+reported for CalC.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> To do so, <italic>calU16</italic> and <italic>calU19</italic> were cloned into pET28a
+to provide pSECalU16-<italic>E. coli</italic> and pSECalU19-<italic>E. coli</italic>, respectively, and the corresponding heterologous
+production levels of both CalU16 and CalU19 in <italic>E. coli</italic> were confirmed via SDS-PAGE to be comparable (<xref rid="notes-2" ref-type="notes">Supporting Information Figure S8</xref>). A subsequent disc diffusion
+assay was used to test for <bold>1</bold> resistance of pSECalU16-<italic>E. coli</italic>, pSECalU19-<italic>E. coli</italic>, pET28a-<italic>E. coli</italic> (an empty vector negative control), and pJB2011-<italic>E. coli</italic> (a <italic>calC</italic>-expressing positive control).<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> Figure <xref rid="fig4" ref-type="fig">4</xref> illustrates
+the rank order of <italic>in vivo</italic> resistance to be CalC &#x02248;
+CalU19 &#x0003e; CalU16 with no resistance in the empty vector-containing
+negative control. Consistent with this qualitative assessment, the
+determination of minimum inhibitory concentration (MIC) (Table <xref rid="tbl3" ref-type="other">3</xref>, <xref rid="notes-2" ref-type="notes">Supporting Information Figure
+S9</xref>), revealed both pJB2011-<italic>E. coli</italic> and pSECalU19-<italic>E. coli</italic> to be 330-fold more tolerant to <bold>1</bold> than
+the pET28a-<italic>E. coli</italic> empty vector control while pSECalU16-<italic>E. coli</italic> was 80-fold more resistant than the control strain.
+Importantly, this supports the contention that CalU16/19 function
+in a manner similar to CalC. To further confirm that the <bold>1</bold>-resistance pattern of CalC, CalU16, and CalU19 is specific and not
+an artifact related to general proteins encoded by genes in the calicheamicin
+gene cluster, an identical study using the unknown-encoding gene <italic>calU17</italic> revealed no resistance toward <bold>1</bold> (<xref rid="notes-2" ref-type="notes">Supporting Information Figure S10</xref>). It is also
+important to note that <bold>1</bold> does not indiscriminately cleave
+other proteins such as bovine serum albumin, illustrating the importance
+of the START domain hydrophobic core for enediyne binding and functional
+enediyne resistance.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup></p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>CalU16 and CalU19 assays.
+Serial disc dilutions of <bold>1</bold> against (A) pSE28a-<italic>E. coli</italic> (control), (B) pSECalU16-<italic>E. coli</italic> (CalU16), (C) pSECalU19-<italic>E. coli</italic> (CalU19), (D) pJB2011-<italic>E. coli</italic> (CalC). Amount of <bold>1</bold> on discs 1&#x02013;6
+are 10 &#x003bc;g, 1 &#x003bc;g, 100 ng,
+50 ng, 10 ng, and 1 ng, respectively. Coomassie-stained 8&#x02013;12%
+SDS-PAGE gradient gel of (E) CalU16 and (F) CalU19 in the presence
+of DTT (lane 1), <bold>1</bold> (lane 2), and DTT and <bold>1</bold> (lane 3).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00327m_0004" id="gr4" position="float"/></fig><table-wrap id="tbl3" position="float"><label>Table 3</label><caption><title>Minimum
+Inhibitory Concentration of
+Strains Used in This Study Against <bold>1</bold></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">strain</th><th style="border:none;" align="center">MIC (&#x003bc;M)</th></tr></thead><tbody><tr><td style="border:none;" align="left">pSE28a-<italic>E. coli</italic></td><td style="border:none;" align="left">0.036</td></tr><tr><td style="border:none;" align="left">pSECalU16-<italic>E.
+coli</italic></td><td style="border:none;" align="left">3</td></tr><tr><td style="border:none;" align="left">pSECalU19-<italic>E. coli</italic></td><td style="border:none;" align="left">12</td></tr><tr><td style="border:none;" align="left">pJB2011-<italic>E. coli</italic></td><td style="border:none;" align="left">12</td></tr><tr><td style="border:none;" align="left">pSEU16G128V-<italic>E.&#x000a0;coli</italic></td><td style="border:none;" align="left">0.36</td></tr><tr><td style="border:none;" align="left">pSEU16G128R-<italic>E. coli</italic></td><td style="border:none;" align="left">0.18</td></tr><tr><td style="border:none;" align="left">pSEU16G142V-<italic>E. coli</italic></td><td style="border:none;" align="left">3</td></tr><tr><td style="border:none;" align="left">pSEU16G142R-<italic>E. coli</italic></td><td style="border:none;" align="left">3</td></tr><tr><td style="border:none;" align="left">pSEU19G177V-<italic>E. coli</italic></td><td style="border:none;" align="left">6</td></tr><tr><td style="border:none;" align="left">pSEU19G177R-<italic>E. coli</italic></td><td style="border:none;" align="left">0.36</td></tr><tr><td style="border:none;" align="left">pSEU19G181V-<italic>E. coli</italic></td><td style="border:none;" align="left">12</td></tr><tr><td style="border:none;" align="left">pSEU19G191V-<italic>E. coli</italic></td><td style="border:none;" align="left">12</td></tr><tr><td style="border:none;" align="left">pSEU19G196V-<italic>E. coli</italic></td><td style="border:none;" align="left">12</td></tr><tr><td style="border:none;" align="left">pSEU19G206V-<italic>E.&#x000a0;coli</italic></td><td style="border:none;" align="left">12</td></tr></tbody></table></table-wrap></sec><sec id="sec2.4"><title>CalU16 Biochemical Characterization</title><p>The prototype self-sacrifice
+protein CalC functions via binding calicheamicin and providing an
+alternative hydrogen source for quenching the highly reactive diradical
+species formed upon calicheamicin cycloaromatization. In competition
+assays using the real-time fluorescence-based molecular break light
+assay,<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> CalC was found to out-compete
+DNA for calicheamicin and thereby prevent calicheamicin-induced strand
+scission. In the presence of CalC, the calicheamicin diradical species
+abstracts the C<sub>&#x003b1;</sub> hydrogen of G113 to generate a protein
+radical that, in the presence of oxygen, leads to proteolysis into
+two distinct CalC fragments (Figure <xref rid="fig1" ref-type="fig">1</xref>B).<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> Thus, a similar series of proteolysis experiments
+were conducted to determine whether CalU16 utilizes an analogous mechanism.
+Figure <xref rid="fig4" ref-type="fig">4</xref> highlights the outcome of this analysis
+using <italic>N</italic>-His<sub>6</sub>-CalU16. Importantly, incubation
+of CalU16 with <bold>1</bold> alone led to no reaction, incubation
+of CalU16 and <bold>1</bold> in the presence of reducing agent (dithiothreitol,
+DTT) led to the specific cleavage of CalU16 into two fragments of
+estimated size 16 kDa and 6 kDa based upon SDS-PAGE (Figure <xref rid="fig4" ref-type="fig">4</xref>E). LC-MS/MS analysis of the tryptic digestion of
+the isolated fragments identified two nontryptic peptides flanking
+Gly128: <sup>101</sup>LSEEGDGTLLELEHATTSEQMLVEVG<sup>127</sup>V(&#x02212;NH<sub>2</sub>) and <sup>129</sup>WEMALDFLGMFI<sup>141</sup>R (see MS/MS spectra of the two peptides in <xref rid="notes-2" ref-type="notes">Supporting Information Figure S11</xref>). The first
+peptide ends with a nontryptic residue <sup>127</sup>V with an amine
+group (&#x02212;NH<sub>2</sub>) from the <sup>128</sup>Gly residue
+attached. The second peptide starts with <sup>129</sup>W further supports
+that Gly128 is likely the cleavage site due to hydrogen abstraction.
+In addition, the LC-MS/MS data suggested <sup>142</sup>G as another
+potential cleavage site, based upon a weak peptide signal [<sup>129</sup>WEMALDFLGMFI<sup>141</sup>R(&#x02212;NH<sub>2</sub>), ion score =24].
+However, the corresponding peptide starting with <sup>143</sup>D was
+not identified. Nevertheless, we included both Gly128 and Gly142 in
+CalU16 as putative sites in the subsequent mutational study to further
+determine which glycine is the critical point of hydrogen abstraction.</p><p>To elucidate the key CalU16 glycine residue that serves as the
+putative hydrogen donor, four targeted CalU16 glycine mutants (G128V,
+G128R, G142V, and G142R) were created and tested both <italic>in vivo</italic> and <italic>in vitro.</italic> Strains expressing CalU16&#x00394;G142
+mutations (pSEU16G142V-<italic>E. coli</italic> and pSEU16G142R-<italic>E. coli</italic>) retained wtCalU16 (pSECalU16-<italic>E. coli</italic>) resistance levels to <bold>1</bold> while mutation of Gly128 (pSEU16G128V-<italic>E. coli</italic> and pSEU16G128R-<italic>E. coli</italic>) reduced
+or abolished tolerance to <bold>1</bold> (Figure <xref rid="fig5" ref-type="fig">5</xref>, <xref rid="notes-2" ref-type="notes">Supporting Information Figure S12</xref>, Table <xref rid="tbl3" ref-type="other">3</xref>). Consistent with this, <bold>1</bold>-based proteolysis of <italic>N</italic>-His<sub>6</sub>-CalU16 mutant
+proteins (<xref rid="notes-2" ref-type="notes">Supporting Information Figure S13</xref>) revealed CalU16G142V and CalU16G142R to cleave in an identical
+manner to wtCalU16 in the presence of <bold>1</bold> and DTT while
+CalU16G128V and CalU16G128R were resistant to cleavage under identical
+conditions. Cumulatively, this data is consistent with CalU16 Gly128
+as the key hydrogen donor in self-sacrifice mechanism, reminiscent
+of CalC Gly113, wherein cleavage of CalU16 (or CalC) inactivates <bold>1</bold> in a stoichiometric manner.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Site directed mutagenesis of CalU16 and
+CalU19. Docking models
+of (A) CalC (B) CalU16, and (C) CalU19 with mutated glycine residues
+represented as spheres where colored Gly residues indicate cleavage
+sites, wheat Gly residues indicate mutations that did not affect activity
+and calicheamicin (<bold>1</bold>) is represented as a stick model.
+Results of disc diffusion assay in CalU16 mutants (D) pSE28a-<italic>E. coli</italic> (control); (E) pSEU16G128V-<italic>E. coli</italic>; (F) pSEU16G128R-<italic>E. coli</italic>; (G) pSECalU16-<italic>E. coli</italic>; and CalU19 mutants (H) pSE28a-<italic>E. coli</italic> (control); (I) pSEU19G177V-<italic>E. coli</italic>; (J) pSEU19G177R-<italic>E. coli</italic>; (K) pSECalU19-<italic>E. coli</italic>. Amount
+of <bold>1</bold> on discs 1&#x02013;6 are 10 &#x003bc;g, 1 &#x003bc;g,
+100 ng, 50 ng, 10 ng, and 1 ng, respectively.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00327m_0005" id="gr5" position="float"/></fig></sec><sec id="sec2.5"><title>CalU19 Biochemical Characterization</title><p>To determine whether
+the CalU16 homologue CalU19 presents a <bold>1</bold> self-sacrifice
+resistance function analogous to CalC and CalU16, the expressed <italic>N</italic>-His<sub>6</sub>-CalU19 was purified and incubated with <bold>1</bold> alone or in the presence of a reducing agent (DTT). In this
+study, CalU19 was also cleaved into two fragments by <bold>1</bold> but, in stark contrast to CalC and CalU16, <bold>1</bold>-induced
+CalU19 cleavage occurred even in the absence of the reducing agent
+DTT (Figure <xref rid="fig4" ref-type="fig">4</xref>F). The estimated sizes of the
+corresponding CalU19 fragments were &#x0223c;21 and 6 kDa based upon
+SDS-PAGE (<xref rid="notes-2" ref-type="notes">Supporting Information Table S2</xref>). LC-MS/MS analysis of the chymotrypsin digestion of the isolated
+fragments identified two nonchymotryptic peptides flanking Gly177: <sup>142</sup>RLTPSGDATVLELEHAPVPAEIIPNAAPGAWGIG<sup>176</sup>A(&#x02212;NH<sub>2</sub>) and <sup>178</sup>WEMGLVALDDYLAGTLPEGRAVD<sup>201</sup>W (see MS/MS spectra of the two peptides in <xref rid="notes-2" ref-type="notes">Supporting Information Figure S14</xref>). The first
+peptide ends with a nonchymotryptic residue <sup>176</sup>A with an
+amine group (&#x02212;NH<sub>2</sub>) from the <sup>177</sup>Gly residue
+attached. The second peptide starts with <sup>178</sup>W further supports
+that Gly177 is likely the cleavage site due to hydrogen abstraction.</p><p>To confirm the key CalU19 glycine residue, two targeted CalU19&#x00394;Gly177
+mutants (G177V and G177R) were created and tested both <italic>in
+vivo</italic> and <italic>in vitro.</italic> To rule out any other
+possible glycine residues that might be involved in the protein cleavage,
+four additional glycine residues (Gly181, Gly191, Gly196 and Gly206)
+were mutated and the corresponding mutants tested in parallel. The <italic>E. coli</italic> strains expressing CalU19G181V, CalU19G191V, CalU19G196V,
+CalU19G206V (pSEU19G181V-<italic>E. coli</italic>, pSEU19G191V-<italic>E. coli</italic>, pSEU19G196V-<italic>E. coli</italic>, and pSEU19G206V-<italic>E. coli</italic>, respectively) retained wtCalU19 (pSECalU19-<italic>E. coli</italic>) resistance levels to <bold>1</bold> while mutation
+of Gly177 (pSEU19G177V-<italic>E. coli</italic> and pSEU19G177R-<italic>E. coli</italic>) reduced or abolished tolerance to <bold>1</bold> (Figure <xref rid="fig5" ref-type="fig">5</xref>, <xref rid="notes-2" ref-type="notes">Supporting
+Information Figure S15</xref>, and Table <xref rid="tbl3" ref-type="other">3</xref>)
+as depicted by disc diffusion and MIC assays. Consistent with this, <bold>1</bold>-based proteolysis of <italic>N</italic>-His<sub>6</sub>-CalU19
+mutant proteins revealed CalU19G177V and CalU19G177R to be resistant
+to cleavage when compared with wtCalU19 under identical conditions
+(<xref rid="notes-2" ref-type="notes">Supporting Information Figure S16</xref>). In
+aggregate, this data is consistent with CalU19 Gly177 as the key hydrogen
+donor in the context of <bold>1</bold> inactivation and served as
+a basis for modeling the interactions of <bold>1</bold> with CalU16
+and CalU19. Notably, the modeled orientation of <bold>1</bold> bound
+to CalU16 or CalU19 appears to be different from <bold>1</bold> with
+CalC (Figure <xref rid="fig5" ref-type="fig">5</xref>A&#x02013;C) consistent with prior
+observations that the late stage biosynthetic intermediates en route
+to <bold>1</bold> bind the glycosyltransferases involved in <bold>1</bold> maturation via distinct orientations.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup></p><p>Distinct from CalC and CalU16, CalU19 functioned
+in the absence
+of a reducing agent&#x02013;implicating a residue within CalU19 as
+a putative reductive activator of the process. CalU19 contains two
+cysteines (Cys25 and Cys120) where the CalU19 homology model suggests
+Cys25 to potentially be closer to the trisulfide of <bold>1</bold> in a ligand-bound model than Cys120 (estimated distance 14.80 &#x000c5;, <xref rid="notes-2" ref-type="notes">Supporting Information Figure S17</xref>). To test the
+putative role of Cys25 and Cys120, the corresponding alanine mutants
+were generated and tested <italic>in vivo</italic> and <italic>in
+vitro.</italic> Surprisingly, no differences in DTT-dependence were
+observed between wtCalU19, CalU19Cys25A, CalU19Cys120A and the double
+mutant CalU19Cys25A/Cys120A (<xref rid="notes-2" ref-type="notes">Supporting Information
+Figure S18</xref>), suggesting <bold>1</bold> activation via CalU19
+occurs via a nonredox mechanism. Notably, cycloaromatized calicheamicin
+&#x003b5; (Figure <xref rid="fig1" ref-type="fig">1</xref>B) was detected in all CalU19
+proteolysis experiments (including those with the double mutant CalU19Cys25A/Cys120A),
+indicating there is an alternative CalU19 contributor to trisulfide
+reductive initiation event.</p></sec><sec id="sec2.6"><title>Enediyne Specificity of CalU16 and CalU19</title><p>To test whether
+CalU16 and CalU19 confer resistance against other 10-membered enediynes, <italic>in vivo</italic> and <italic>in vitro</italic> studies similar to
+those described in the previous sections were performed where <bold>1</bold> was substituted with dynemicin (<bold>2</bold>) or esperamicin
+A<sub>1</sub> (<bold>3</bold>). CalU16 and CalU19 each failed to cause
+any cross resistance against <bold>2</bold> or <bold>3</bold><italic>in vivo</italic> (<xref rid="notes-2" ref-type="notes">Supporting Information Figure
+S19</xref>), and consistent with these observations, neither protein
+could be cleaved via <bold>2</bold> or <bold>3</bold> in the absence
+or presence of reducing agent (<xref rid="notes-2" ref-type="notes">Supporting Information
+Figure S20</xref>). Thus, CalU16 and CalU19 appear to display enediyne
+specificity similar to CalC.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup></p></sec><sec sec-type="conclusions" id="sec3"><title>Conclusions</title><p>High throughput sequencing and genomics
+are powerful tools to implicate putative function but are still limited
+by three primary liabilities: (i) functional misannotation due to
+mistakes propagated throughout large sequence databases; (ii) functional
+misannotation due to the fact that even highly homologous proteins
+can present dramatically distinct mechanisms/functions; and (iii)
+a lack of suitably characterized homologues within existing large
+sequence databases.<sup><xref ref-type="bibr" rid="ref46">46</xref>&#x02212;<xref ref-type="bibr" rid="ref48">48</xref></sup> Structural genomics can augment the use of sequence
+homology for functional annotation by presenting opportunities to
+identify structural homologues even where sequence homology may be
+too low to identify suitable homologues.<sup><xref ref-type="bibr" rid="ref49">49</xref>&#x02212;<xref ref-type="bibr" rid="ref51">51</xref></sup> The current
+study highlights the power of structural genomics to inform putative
+function as the basis for subsequent biochemical characterization/confirmation
+and, in doing so, reveals two new enediyne self-sacrifice proteins
+(CalU16 and CalU19) encoded by genes in the calicheamicin biosynthetic
+gene cluster. The elucidation of these genes serve as potential new
+genetic markers which, in conjunction with the signature minimal enediyne
+PKS cassette, may facilitate future enediyne discovery via genome
+mining.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup></p><p>While there exist many
+natural product biosynthetic loci that also encode for more than one
+resistance mechanism for the encoded natural product,<sup><xref ref-type="bibr" rid="ref52">52</xref>,<xref ref-type="bibr" rid="ref53">53</xref></sup> the encoded redundancy highlighted by the current study is uncommon
+and may suggest discrete self-sacrifice proteins to contribute to
+subtle distinctions in their localization and/or function. For example,
+the predicted isoelectric point of CalC (10.16) is dramatically different
+from CalU16 (4.24) or CalU19 (4.69) (<xref rid="notes-2" ref-type="notes">Supporting
+Information Table S2</xref>) and is consistent with CalC&#x02019;s
+demonstrated ability to bind DNA (the target of enediynes) under physiological
+pH.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> Under identical conditions, CalU16/U19
+are predicted to possess an overall negative charge, which may contribute
+to distinct intracellular localization and/or unique protein&#x02013;protein
+interactions possibly including those proteins/enzymes involved in <bold>1</bold> biosynthesis.</p><p>The enediyne self-sacrifice genes and
+corresponding encoded proteins
+have been validated in the context of conferring enediyne resistance,
+but it remains possible that such proteins or their proteolytic fragments
+could also serve alternative roles in <italic>Micromonospora.</italic> For example, many members of the START domain family function as
+molecular chaperones as exemplified by the Coq10 homologue CC1736,
+responsible for transporting ubiquinone to or within the respiratory
+chain complexes and contributes to dramatically higher biosynthetic
+efficiency.<sup><xref ref-type="bibr" rid="ref54">54</xref></sup> Although the precedent for
+molecular chaperones in the context of the structurally related 9-membered
+enediynes is well established,<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref55">55</xref></sup> it remains to be determined
+whether such proteins play additional roles beyond stabilizing the
+highly reactive 9-membered enediyne chromophore. Preliminary evidence,
+based upon the location of the key glycines in CalC, CalU16, and CalU19,
+suggest that CalC binds <bold>1</bold> in a manner distinct from CalU16/CalU19
+which, in the context of a molecular chaperone model, suggests different
+regions of the cargo would be accessible to putative associated partner
+proteins (Figure <xref rid="fig5" ref-type="fig">5</xref>A&#x02013;C). While CalC homologues
+lack apparent polyketide aromatase/cyclase TcmN Aro/Cyc catalytic
+residues based upon sequence (<xref rid="notes-2" ref-type="notes">Supporting Information
+Figure S21</xref>) and structural (<xref rid="notes-2" ref-type="notes">Supporting
+Information Figure S22</xref>) alignments, this relationship raises
+the intriguing possibility of CalC homologues as the long sought after
+contributors to enediyne polyketide core folding/cyclization. Indeed,
+the surface area of the hydrophobic cavities of CalU16 (3986 &#x000c5;<sup>2</sup>), CalC (3931 &#x000c5;<sup>2</sup>), and TcmN ARO/CYC (3655
+&#x000c5;<sup>2</sup>) are similar (<xref rid="notes-2" ref-type="notes">Supporting Information
+Figure S23</xref>), the latter of which accommodates large (&#x02264;C20)
+linear polyketides.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> Alternatively, certain
+proteolytic fragments from CalC, CalU16, and/or CalU19 could also
+potentially serve as intracellular signals of enediyne concentrations,
+in a manner conceptually similar to the vancomycin- or &#x003b2;-lactam-inducible
+three-component regulatory systems, where hydrolytic fragments of
+the bacterial cell wall serve as key inducers.<sup><xref ref-type="bibr" rid="ref56">56</xref>,<xref ref-type="bibr" rid="ref57">57</xref></sup> Studies are underway to further probe whether the functions of START
+domain congeners encoded by the calicheamicin gene cluster extend
+beyond simple protection of host against these highly reactive and
+toxic metabolites.</p></sec></sec><sec sec-type="methods" id="sec4"><title>Methods</title><sec id="sec4.1"><title>Strains, Materials,
+and General Methods</title><p>All primers
+(Integrated DNA Technology) and strains used in this study are summarized
+in <xref rid="notes-2" ref-type="notes">Supporting Information Tables S3 and S4</xref>, respectively. <italic>M. echinospora</italic> strain LL6000 and
+calicheamicin &#x003b3;<sub>1</sub><sup>I</sup> were graciously provided
+by Pfizer. Dynemicin and esperamicin A<sub>1</sub> were generously
+provided by Bristol-Myers Squibb. All other reagents and chemicals
+were purchased from Sigma-Aldrich, unless otherwise stated. All protein
+structures were illustrated using PyMOL.<sup><xref ref-type="bibr" rid="ref58">58</xref></sup> Gene alignments and analyses were performed using Geneious Pro 5.0.3.<sup><xref ref-type="bibr" rid="ref59">59</xref></sup></p></sec><sec id="sec4.2"><title>Parental Plasmids for Protein Production</title><p>For biochemical
+characterization, genomic DNA was extracted from <italic>M. echinospora</italic> LL6000 using the InstaGene Matrix Kit (BioRad) following manufacturer&#x02019;s
+protocol. Primers CalU16-NdeI-F/CalU16-<italic>Hin</italic>dIII-R,
+CalU17-NdeI-F/CalU17-<italic>Hin</italic>dIII-R, and CalU19-NdeI-F/CalU19-<italic>Hin</italic>dIII-R (<xref rid="notes-2" ref-type="notes">Supporting Information Table
+S3</xref>) were used to amplify each of <italic>calU16</italic>, <italic>calU17</italic>, and <italic>calU19</italic>, respectively. Amplification
+was performed using the Advantage GC2 polymerase enzyme (Clontech)
+and the following PCR conditions: initial denaturation at 95 &#x000b0;C
+for 3 min; 25 cycles at 94 &#x000b0;C for 30 s, 65&#x02013;62 &#x000b0;C
+for 30 s, 68 &#x000b0;C for 35 s; final extension temperature at 68 &#x000b0;C
+for 5 min. Each PCR product was gel purified using the QIAquick gel
+extraction kit (Qiagen). Restriction digestion with NdeI/<italic>Hin</italic>dIII (New Englands Biolabs, NEB) followed by ligation using T4 DNA
+ligase (NEB) into a linearized dephosphorylated pET28a (Novagen) yielded
+pSECalU16, pSECalU17, and pSECalU19 for <italic>calU16</italic>, <italic>calU17</italic>, and <italic>calU19</italic>, respectively. Each
+plasmid was transformed into NEB DH5&#x003b1; chemically competent cells
+(NEB). Plasmids were purified using QIAprep Minispin kit (Qiagen).
+Each plasmid was verified by sequencing and subsequently transformed
+into the expression host BL21 (DE3) competent cells (NEB) to yield
+pSECalU16-<italic>E. coli</italic>, pSECalU17-<italic>E. coli,</italic> and pSECalU19-<italic>E. coli,</italic> respectively. For structural
+studies, plasmid preparation, overproduction, and purification were
+conducted following standard protocols of the Northeast Structural
+Genomics Consortium (NESG) to produce a uniformly <sup>15</sup>N/<sup>13</sup>C-enriched and 5% biosynthetically directed <sup>13</sup>C (NC5)-labeled protein samples for NMR spectroscopy and selenomethionine
+(Se-Met) labeled samples for X-ray crystallography and details can
+be found in <xref rid="notes-2" ref-type="notes">Supporting Information Methods</xref>.<sup><xref ref-type="bibr" rid="ref60">60</xref>,<xref ref-type="bibr" rid="ref61">61</xref></sup> In brief, <italic>calU16</italic> was PCR
+amplified from genomic DNA and cloned into NdeI/XhoI-digested pET15
+expression vector (NESG Clone ID MiR12&#x02013;15.1; PSI:Biology Materials
+Repository clone ID MeCD000597015, see <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://psimr.asu.edu/">http://psimr.asu.edu/</uri>) to encode for the corresponding N-terminally tagged (MGHHHHHHSHM)
+fusion protein. The plasmid was transformed into codon-enhanced <italic>E. coli</italic> BL21 (DE3) pMGK cells for protein production. Additional
+plasmids and protocols employed for protein overproduction and purification
+for biochemical studies are described in the <xref rid="notes-2" ref-type="notes">Supporting
+Information Methods</xref>.</p></sec><sec id="sec4.3"><title>Structure Determination of CalU16 by X-ray
+Crystallography</title><p>Initial crystallization conditions for Se-Met
+labeled CalU16 were
+identified at the Hauptmann-Woodward Institute high-throughput screening
+facility<sup><xref ref-type="bibr" rid="ref62">62</xref></sup> and further optimized manually
+by microbatch methods at 18 &#x000b0;C. The protein was mixed in a 1:1
+ratio with the precipitant containing 2.9 M sodium malonate pH 6.5.
+The crystals were cryo-protected by 10% (v/v) ethylene glycol and
+2.6 M sodium malonate pH 6.5 prior to flash freezing in liquid nitrogen
+for data collection at 100 K. A single crystal of Se-Met labeled protein
+was used for data collection at a wavelength of 0.978 &#x000c5; and diffracted
+to 2.5 &#x000c5; resolution. The data was collected at beamline X4A at
+the National Synchrotron Light Source at Brookhaven National Laboratory,
+and further processed and scaled using HKL-2000 (Table <xref rid="tbl1" ref-type="other">1</xref>).<sup><xref ref-type="bibr" rid="ref63">63</xref></sup> Eight of the ten selenium
+sites in the asymmetric unit were successfully located by the SHELXD<sup><xref ref-type="bibr" rid="ref64">64</xref></sup> program for initial phasing. RESOLVE<sup><xref ref-type="bibr" rid="ref65">65</xref></sup> was utilized for automated model building and
+the model was further built by manual refitting with the program Coot.<sup><xref ref-type="bibr" rid="ref66">66</xref></sup> The data were twinned, and a twin refinement
+was performed. The refinement involved iterations of manual model-building
+in Coot and Refmac.<sup><xref ref-type="bibr" rid="ref67">67</xref></sup> The quality of the
+final structure was validated by PROCHECK.<sup><xref ref-type="bibr" rid="ref68">68</xref></sup> The diffraction images illustrate diffuse scattering perpendicular
+to the 6<sub>1</sub> screw axis indicative of order/disorder (<xref rid="notes-2" ref-type="notes">Supporting Information Figure S24</xref>). The effects
+of the disorder are also evident in the data anisotropy where the
+B-factor component along the 6<sub>1</sub> axis is less than half
+of the B-factor in the perpendicular direction. The unmodeled disorder
+leads to higher than expected R-factors and is likely contributing
+to the lower percentage of residues in the Ramachandran favored regions
+(Table <xref rid="tbl1" ref-type="other">1</xref>). The atomic coordinates and structure
+factors have been deposited in the PDB (4FPW).</p></sec><sec id="sec4.4"><title>NMR Spectroscopy and Structure
+Determination of CalU16</title><p>NMR data were collected at 25 &#x000b0;C
+on [<italic>U</italic>-<sup>13</sup>C, <sup>15</sup>N]- and <italic>U</italic>-<sup>15</sup>N,
+5% biosynthetically directed <sup>13</sup>C (NC5)-labeled samples
+in 300 &#x003bc;L buffered solution (0.9 mM CalU16, 0.02% NaN<sub>3</sub>, 10 mM DTT, 5 mM CaCl<sub>2</sub>, 100 mM NaCl, 1&#x000d7; proteinase
+inhibitors, 20 mM MES pH 6.5) in 5 mm Shigemi NMR tubes on a 600 MHz
+Varian Inova spectrometer with a 5 mm HCN cold probe and a 850 MHz
+Bruker Avance III NMR spectrometer equipped with a conventional 5
+mm HCN probe. A description of NMR experiments and methods for structure
+determination and refinement can be found in <xref rid="notes-2" ref-type="notes">Supporting
+Information Methods</xref>. The protein was monomeric under the conditions
+used in the NMR experiments based on analytical static light scattering
+in-line with gel filtration chromatography and correlation time estimates
+based on one-dimensional <sup>15</sup>N <italic>T</italic><sub>1</sub> and <italic>T</italic><sub>2</sub> relaxation data (estimated &#x003c4;<sub>c</sub> 12.1 ns, <xref rid="notes-2" ref-type="notes">Supporting Information Figure
+S1</xref>). The assigned <sup>1</sup>H&#x02013;<sup>15</sup>N HSQC
+spectrum is provided as <xref rid="notes-2" ref-type="notes">Supporting Information
+Figure S2</xref>. Chemical shifts, NOESY peak lists, and raw FIDS
+were deposited in the BioMagResDB (BMRB accession number 18547). The
+final ensemble of 20 models and NMR resonance assignments were deposited
+to the Protein Data Bank (PDB: 2LUZ).</p></sec><sec id="sec4.5"><title>Resistance Assays</title><p><italic>In vivo</italic> resistance
+assays were performed using overnight cultures of the tested strain
+diluted to OD<sub>600</sub> &#x0223c; 0.1 in molten LB agar supplemented
+with final concentration of 30 &#x003bc;g mL<sup>&#x02013;1</sup> kanamycin
+and 100 &#x003bc;M of isopropyl-&#x003b2;-<sc>d</sc>-thiogalactopyranoside
+(IPTG). The mixture was poured into Petri dishes and allowed to solidify.
+A stock solution of <bold>1</bold> was prepared in methanol at a concentration
+of 1 mg mL<sup>&#x02013;1</sup> and serial dilutions were prepared
+such that the final concentrations tested ranged from 0.1 to 10 &#x003bc;g
+&#x003bc;L<sup>&#x02013;1</sup>. These were applied to sterile discs
+such that the final quantities of <bold>1</bold> on the discs were
+1 ng, 10 ng, 50 ng, 100 ng, 1 &#x003bc;g, and 10 &#x003bc;g. The disks
+were allowed to air-dry, and applied aseptically to the plates. All
+plates were incubated at 37 &#x000b0;C for 14 h.</p></sec><sec id="sec4.6"><title>Protein Cleavage Assay</title><p>Final concentration of 1 &#x003bc;M
+of each protein in 50 mM Tris pH 8.0 in the presence of 1 mol equiv
+of <bold>1</bold> with and without 0.2 mM DTT in a final volume of
+500 &#x003bc;L was allowed to incubate at 30 &#x000b0;C for 30 min. Reactions
+were lyophilized and resuspended in 25 &#x003bc;L of 50 mM Tris, pH
+8.0. Cleavage was analyzed by mixing with equal volume of 2&#x000d7;
+sample buffer. A volume of 30 &#x003bc;L was analyzed by NuPAGE 4&#x02013;12%
+Bis-Tris Gels (Life technologies) using protein ladder (Bio-Rad) as
+size indicator.</p></sec><sec id="sec4.7"><title>Trypsin Digestion and Mass Analysis</title><p>A total of 4 &#x003bc;M
+of each of CalU16 and CalU19 were added to 2 mol equiv of <bold>1</bold> in the presence of 0.2 mM DTT. Reactions were incubated at 30 &#x000b0;C
+for 30 min. A fraction of each reaction was subjected to SDS-PAGE
+to confirm completion of the reaction. For proteolytic digestion,
+the protein bands were excised from SDS-PAGE gel, washed with 50 mM
+ammonium bicarbonate, reduced with DTT, alkylated with iodoacetamide
+(IAA), and subjected to trypsin (for CalU16) or chymotrypsin (for
+CalU19) digestion at 37 &#x000b0;C for 16 h. Peptides resulting from
+the proteolytic digestion were extracted from gel pieces and analyzed
+by LC-MS/MS as previously described.<sup><xref ref-type="bibr" rid="ref69">69</xref></sup> Briefly,
+the information-dependent acquisition of LC-MS/MS data were acquired
+using an LTQ Velos Orbitrap mass spectrometer (Thermo Fisher Scientific,
+Waltham, MA) coupled with a Nano-LC Ultra/cHiPLC-nanoflex HPLC system
+(Eksigent, Dublin, CA) through a nano-electrospray ionization source.<sup><xref ref-type="bibr" rid="ref70">70</xref></sup> The results were subjected using ProteomeDiscoverer
+1.3 software (Thermo Fisher Scientific, Waltham, MA) and MASCOT server.
+The cleavage sites were deduced from nonenzymatic peptides ending
+with an amine group (&#x02212;NH<sub>2</sub>) from the Gly residue
+attached to a nontrypsin or nonchymotrypsin digestion site.</p></sec><sec id="sec4.8"><title>Determination
+of Minimum Inhibitory Concentrations (MICs)</title><p>Fourteen strains
+created in this study (<xref rid="notes-2" ref-type="notes">Supporting
+Information Table S4</xref>, strains 2&#x02013;15) were grown overnight
+in LB supplemented with kanamycin 30 mg L<sup>&#x02013;1</sup>. Each
+overnight culture was diluted to OD<sub>600</sub> &#x0223c; 0.1 using
+an Overnight Express Autoinduction System 1 (Novagen) supplemented
+with kanamycin 30 mg L<sup>&#x02013;1</sup>. Enediyne <bold>1</bold> was serially diluted 1:2 in DMSO such that the final concentrations
+ranged from 2.4 &#x003bc;M to 4.5 nM for pSE28a-<italic>E. coli</italic> and from 12 &#x003bc;M to 22 nM for all other strains. Ampicillin
+and kanamycin were used as positive and negative controls, respectively.
+All plates were incubated for 18 h at 37 &#x000b0;C at 250 rpm. The residual
+metabolic activity was monitored based on the irreversible reduction
+of resazurin (7-hydroxy-3H-phenoxazin-3-one-10-oxide, blue) to resorufin
+(7-hydroxy-3H-phenoxazin-3-one, pink). For this assay, 10 &#x003bc;L
+of resazurin (final concentration 100 &#x003bc;M) was added to each
+well and allowed to incubate at 37 &#x000b0;C with shaking at 250 rpm
+for 1 h to allow viable cells to convert resazurin to resorufin. The
+well with the minimum concentration of <bold>1</bold> that did not
+display bacterial growth but did display a red color after incubation
+with resazurin was recorded as the MIC of that strain (<xref rid="notes-2" ref-type="notes">Supporting Information Figure S9</xref>; Table <xref rid="tbl3" ref-type="other">3</xref>).</p></sec></sec></body><back><notes id="notes-2" notes-type="si"><title>Supporting Information Available</title><p>Additional
+protocols and methods,
+supplemental figures, and supplemental tables. This material is available
+free of charge <italic>via</italic> the Internet at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://pubs.acs.org">http://pubs.acs.org</uri>.</p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb500327m_si_001.pdf"><caption><p>cb500327m_si_001.pdf</p></caption></media></supplementary-material></sec><notes id="notes-1"><title>Author Present Address</title><p><sup>&#x025a1;</sup> School
+of Pharmacy and Health Profession, University
+of Maryland Eastern Shore, Princess Anne, Maryland 21853,
+U.S.A.</p></notes><notes id="notes-3" notes-type="conflict-of-interest"><p>The authors
+declare the following competing financial interest(s): J.S.T. is a
+co-founder of Centrose (Madison, WI).</p></notes><ack><title>Acknowledgments</title><p>This work
+was supported by the National Institutes of Health
+(NIH) grants CA84374 (to J.S.T.), U01GM098248 (to G.N.P.), the National
+Center for Advancing Translational Sciences (UL1TR000117), a NIH PSI
+grant (U54-GM094597 to M.A.K. and G.T.M.) and the BioXFEL Science
+and Technology Center under National Science Foundation Grant No.
+1231306. Enediynes for this study were generously provided by Pfizer
+(calicheamicin) and Bristol-Myers-Squibb (esperamicin and dynemicin).
+Proteomics analyses were conducted by the University of Kentucky Proteomics
+Core that is partially supported by grants from the National Institute
+of General Medical Sciences (P20GM103486), the National Cancer Institute
+(P30CA177558) and equipment acquired via a grant from National Center
+for Research Resources (1S10RR029127 to H.Z.). Protein NMR data collection
+was conducted at the Ohio Biomedicine Center of Excellence in Structural
+Biology and Metabolomics (Miami University). We thank Dr. J. Prestgard,
+Dr. T. Acton, and Dr. J. Everett at the Northeast Structural Genomics
+Consortium for technical assistance and J. Schwanof and R. Abramowitz
+for data collection assistance at beamline X4A, NSLS.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Maiese</surname><given-names>W. M.</given-names></name>; <name><surname>Lechevalier</surname><given-names>M. P.</given-names></name>; <name><surname>Lechevalier</surname><given-names>H. A.</given-names></name>; <name><surname>Korshalla</surname><given-names>J.</given-names></name>; <name><surname>Kuck</surname><given-names>N.</given-names></name>; <name><surname>Fantini</surname><given-names>A.</given-names></name>; <name><surname>Wildey</surname><given-names>M. J.</given-names></name>; <name><surname>Thomas</surname><given-names>J.</given-names></name>; <name><surname>Greenstein</surname><given-names>M.</given-names></name> (<year>1989</year>) <article-title>Calicheamicins, a novel family of antitumor antibiotics:
+taxonomy, fermentation and biological properties</article-title>. <source>J. Antibiot. (Tokyo)</source>
+<volume>42</volume>, <fpage>558</fpage>&#x02013;<lpage>563</lpage>.<pub-id pub-id-type="pmid">2722671</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Lee</surname><given-names>M. D.</given-names></name>; <name><surname>Manning</surname><given-names>J. K.</given-names></name>; <name><surname>Williams</surname><given-names>D. R.</given-names></name>; <name><surname>Kuck</surname><given-names>N. A.</given-names></name>; <name><surname>Testa</surname><given-names>R. T.</given-names></name>; <name><surname>Borders</surname><given-names>D. B.</given-names></name> (<year>1989</year>) <article-title>Calicheamicins,
+a novel family of antitumor antibiotics.
+3. Isolation, purification and characterization of calicheamicins
+&#x003b2; 1Br, &#x003b3; 1Br, &#x003b1; 2I, &#x003b1; 3I, &#x003b2; 1I, &#x003b3;
+1I, and &#x003b4; 1I</article-title>. <source>J. Antibiot. (Tokyo)</source>
+<volume>42</volume>, <fpage>1070</fpage>&#x02013;<lpage>1087</lpage>.<pub-id pub-id-type="pmid">2753814</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Lee</surname><given-names>M. D.</given-names></name>; <name><surname>Dunne</surname><given-names>T. S.</given-names></name>; <name><surname>Chang</surname><given-names>C. C.</given-names></name>; <name><surname>Siegel</surname><given-names>M. M.</given-names></name>; <name><surname>Morton</surname><given-names>G. O.</given-names></name>; <name><surname>Ellestad</surname><given-names>G. A.</given-names></name>; <name><surname>McGahren</surname><given-names>W. J.</given-names></name>; <name><surname>Borders</surname><given-names>D. B.</given-names></name> (<year>1992</year>) <article-title>Calicheamicins,
+a novel family of antitumor antibiotics. 4. Structure elucidation
+of calicheamicins &#x003b2; 1Br, &#x003b3; 1Br, &#x003b1; 2I, &#x003b1; 3I,
+&#x003b2; 1I, &#x003b3; 1I, and &#x003b4; 1I</article-title>. <source>J. Am.
+Chem. Soc.</source>
+<volume>114</volume>, <fpage>985</fpage>&#x02013;<lpage>997</lpage>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Thorson</surname><given-names>J.
+S.</given-names></name>; <name><surname>Sievers</surname><given-names>E. L.</given-names></name>; <name><surname>Ahlert</surname><given-names>J.</given-names></name>; <name><surname>Shepard</surname><given-names>E.</given-names></name>; <name><surname>Whitwam</surname><given-names>R. E.</given-names></name>; <name><surname>Onwueme</surname><given-names>K. C.</given-names></name>; <name><surname>Ruppen</surname><given-names>M.</given-names></name> (<year>2000</year>) <article-title>Understanding and exploiting nature&#x02019;s
+chemical arsenal: The past, present, and future of calicheamicin research</article-title>. <source>Curr. Pharm. Des.</source>
+<volume>6</volume>, <fpage>1841</fpage>&#x02013;<lpage>1879</lpage>.<pub-id pub-id-type="pmid">11102565</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Galm</surname><given-names>U.</given-names></name>; <name><surname>Hager</surname><given-names>M. H.</given-names></name>; <name><surname>Van Lanen</surname><given-names>S. G.</given-names></name>; <name><surname>Ju</surname><given-names>J.</given-names></name>; <name><surname>Thorson</surname><given-names>J. S.</given-names></name>; <name><surname>Shen</surname><given-names>B.</given-names></name> (<year>2005</year>) <article-title>Antitumor
+antibiotics: Bleomycin, enediynes, and mitomycin</article-title>. <source>Chem. Rev.</source>
+<volume>105</volume>, <fpage>739</fpage>&#x02013;<lpage>758</lpage>.<pub-id pub-id-type="pmid">15700963</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Liang</surname><given-names>Z.-X.</given-names></name> (<year>2010</year>) <article-title>Complexity
+and simplicity in the biosynthesis of enediyne natural products</article-title>. <source>Nat. Prod. Rep.</source>
+<volume>27</volume>, <fpage>499</fpage>&#x02013;<lpage>528</lpage>.<pub-id pub-id-type="pmid">20336235</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>De
+Voss</surname><given-names>J. J.</given-names></name>; <name><surname>Hangeland</surname><given-names>J. J.</given-names></name>; <name><surname>Townsend</surname><given-names>C. A.</given-names></name> (<year>1990</year>) <article-title>Characterization
+of the <italic>in vitro</italic> cyclization chemistry of calicheamicin
+and its relation to DNA cleavage</article-title>. <source>J. Am. Chem.
+Soc.</source>
+<volume>112</volume>, <fpage>4554</fpage>&#x02013;<lpage>4556</lpage>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Chatterjee</surname><given-names>M.</given-names></name>; <name><surname>Cramer</surname><given-names>K. D.</given-names></name>; <name><surname>Townsend</surname><given-names>C. A.</given-names></name> (<year>1993</year>) <article-title>Kinetic nature of thiol activation
+in DNA cleavage by calicheamicin</article-title>. <source>J. Am. Chem.
+Soc.</source>
+<volume>115</volume>, <fpage>3374</fpage>&#x02013;<lpage>3375</lpage>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Myers</surname><given-names>A. G.</given-names></name>; <name><surname>Cohen</surname><given-names>S. B.</given-names></name>; <name><surname>Kwon</surname><given-names>B. M.</given-names></name> (<year>1994</year>) <article-title>A study
+of the reaction of calicheamicin
+&#x003b3; 1 with glutathione in the presence of double-stranded DNA</article-title>. <source>J. Am. Chem. Soc.</source>
+<volume>116</volume>, <fpage>1255</fpage>&#x02013;<lpage>1271</lpage>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Zein</surname><given-names>N.</given-names></name>; <name><surname>Sinha</surname><given-names>A. M.</given-names></name>; <name><surname>McGahren</surname><given-names>W. J.</given-names></name>; <name><surname>Ellestad</surname><given-names>G. A.</given-names></name> (<year>1988</year>) <article-title>Calicheamicin &#x003b3;
+1I: An antitumor antibiotic that cleaves double-stranded DNA site
+specifically</article-title>. <source>Science</source>
+<volume>240</volume>, <fpage>1198</fpage>&#x02013;<lpage>1201</lpage>.<pub-id pub-id-type="pmid">3240341</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Zein</surname><given-names>N.</given-names></name>; <name><surname>Poncin</surname><given-names>M.</given-names></name>; <name><surname>Nilakantan</surname><given-names>R.</given-names></name>; <name><surname>Ellestad</surname><given-names>G. A.</given-names></name> (<year>1989</year>) <article-title>Calicheamicin &#x003b3;
+1I and DNA: Molecular recognition process responsible for site-specificity</article-title>. <source>Science</source>
+<volume>244</volume>, <fpage>697</fpage>&#x02013;<lpage>699</lpage>.<pub-id pub-id-type="pmid">2717946</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Mah</surname><given-names>S. C.</given-names></name>; <name><surname>Price</surname><given-names>M. A.</given-names></name>; <name><surname>Townsend</surname><given-names>C. A.</given-names></name>; <name><surname>Tullius</surname><given-names>T. D.</given-names></name> (<year>1994</year>) <article-title>Features of DNA
+recognition for oriented binding and cleavage by calicheamicin</article-title>. <source>Tetrahedron</source>
+<volume>50</volume>, <fpage>1361</fpage>&#x02013;<lpage>1378</lpage>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Biggins</surname><given-names>J. B.</given-names></name>; <name><surname>Prudent</surname><given-names>J. R.</given-names></name>; <name><surname>Marshall</surname><given-names>D. J.</given-names></name>; <name><surname>Thorson</surname><given-names>J. S.</given-names></name> (<year>2006</year>) <article-title>A continuous assay
+for DNA cleavage using molecular break lights</article-title>. <source>Methods Mol. Biol.</source>
+<volume>335</volume>, <fpage>83</fpage>&#x02013;<lpage>92</lpage>.<pub-id pub-id-type="pmid">16785622</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Danishefsky</surname><given-names>S. J.</given-names></name>; <name><surname>Shair</surname><given-names>M. D.</given-names></name> (<year>1996</year>) <article-title>Observations in the chemistry and biology of cyclic
+enediyne antibiotics: Total syntheses of calicheamicin &#x003b3;<sub>1</sub><sup>I</sup> and dynemicin A</article-title>. <source>J. Org.
+Chem.</source>
+<volume>61</volume>, <fpage>16</fpage>&#x02013;<lpage>44</lpage>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Nicolaou</surname><given-names>K.
+C.</given-names></name>; <name><surname>Hale</surname><given-names>C. R. H.</given-names></name>; <name><surname>Nilewski</surname><given-names>C.</given-names></name> (<year>2012</year>) <article-title>A total synthesis trilogy: Calicheamicin
+&#x003b3;1(I), Taxol, and brevetoxin A</article-title>. <source>Chem.
+Rec.</source>
+<volume>12</volume>, <fpage>407</fpage>&#x02013;<lpage>441</lpage>.<pub-id pub-id-type="pmid">22711588</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Ahlert</surname><given-names>J.</given-names></name>; <name><surname>Shepard</surname><given-names>E.</given-names></name>; <name><surname>Lomovskaya</surname><given-names>N.</given-names></name>; <name><surname>Zazopoulos</surname><given-names>E.</given-names></name>; <name><surname>Staffa</surname><given-names>A.</given-names></name>; <name><surname>Bachmann</surname><given-names>B. O.</given-names></name>; <name><surname>Huang</surname><given-names>K.</given-names></name>; <name><surname>Fonstein</surname><given-names>L.</given-names></name>; <name><surname>Czisny</surname><given-names>A.</given-names></name>; <name><surname>Whitwam</surname><given-names>R. E.</given-names></name>; <name><surname>Farnet</surname><given-names>C. M.</given-names></name>; <name><surname>Thorson</surname><given-names>J. S.</given-names></name> (<year>2002</year>) <article-title>The calicheamicin
+gene cluster and its iterative type I enediyne PKS</article-title>. <source>Science</source>
+<volume>297</volume>, <fpage>1173</fpage>&#x02013;<lpage>1176</lpage>.<pub-id pub-id-type="pmid">12183629</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Liu</surname><given-names>W.</given-names></name>; <name><surname>Ahlert</surname><given-names>J.</given-names></name>; <name><surname>Gao</surname><given-names>Q.</given-names></name>; <name><surname>Wendt-Pienkowski</surname><given-names>E.</given-names></name>; <name><surname>Shen</surname><given-names>B.</given-names></name>; <name><surname>Thorson</surname><given-names>J. S.</given-names></name> (<year>2003</year>) <article-title>Rapid PCR
+amplification of minimal
+enediyne polyketide synthase cassettes leads to a predictive familial
+classification model</article-title>. <source>Proc. Natl. Acad. Sci.
+U.S.A.</source>
+<volume>100</volume>, <fpage>11959</fpage>&#x02013;<lpage>11963</lpage>.<pub-id pub-id-type="pmid">14528002</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Biggins</surname><given-names>J.
+B.</given-names></name>; <name><surname>Onwueme</surname><given-names>K. C.</given-names></name>; <name><surname>Thorson</surname><given-names>J. S.</given-names></name> (<year>2003</year>) <article-title>Resistance to enediyne antitumor
+antibiotics by CalC self-sacrifice</article-title>. <source>Science</source>
+<volume>301</volume>, <fpage>1537</fpage>&#x02013;<lpage>1541</lpage>.<pub-id pub-id-type="pmid">12970566</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Singh</surname><given-names>S.</given-names></name>; <name><surname>Hager</surname><given-names>M. H.</given-names></name>; <name><surname>Zhang</surname><given-names>C.</given-names></name>; <name><surname>Griffith</surname><given-names>B. R.</given-names></name>; <name><surname>Lee</surname><given-names>M. S.</given-names></name>; <name><surname>Hallenga</surname><given-names>K.</given-names></name>; <name><surname>Markley</surname><given-names>J. L.</given-names></name>; <name><surname>Thorson</surname><given-names>J. S.</given-names></name> (<year>2006</year>) <article-title>Structural insight
+into the self-sacrifice mechanism of enediyne resistance</article-title>. <source>ACS Chem. Biol.</source>
+<volume>1</volume>, <fpage>451</fpage>&#x02013;<lpage>460</lpage>.<pub-id pub-id-type="pmid">17168523</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Zhang</surname><given-names>C.</given-names></name>; <name><surname>Griffith</surname><given-names>B. R.</given-names></name>; <name><surname>Fu</surname><given-names>Q.</given-names></name>; <name><surname>Albermann</surname><given-names>C.</given-names></name>; <name><surname>Fu</surname><given-names>X.</given-names></name>; <name><surname>Lee</surname><given-names>I.-K.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Thorson</surname><given-names>J. S.</given-names></name> (<year>2006</year>) <article-title>Exploiting the reversibility
+of natural product glycosyltransferase-catalyzed reactions</article-title>. <source>Science</source>
+<volume>313</volume>, <fpage>1291</fpage>&#x02013;<lpage>1294</lpage>.<pub-id pub-id-type="pmid">16946071</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Johnson</surname><given-names>H. D.</given-names></name>; <name><surname>Thorson</surname><given-names>J. S.</given-names></name> (<year>2008</year>) <article-title>Characterization of CalE10, the <italic>N</italic>-oxidase
+involved in calicheamicin hydroxyaminosugar formation</article-title>. <source>J. Am. Chem. Soc.</source>
+<volume>130</volume>, <fpage>17662</fpage>&#x02013;<lpage>17663</lpage>.<pub-id pub-id-type="pmid">19055330</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Belecki</surname><given-names>K.</given-names></name>; <name><surname>Crawford</surname><given-names>J. M.</given-names></name>; <name><surname>Townsend</surname><given-names>C. A.</given-names></name> (<year>2009</year>) <article-title>Production of octaketide polyenes
+by the calicheamicin polyketide synthase CalE8: Implications for the
+biosynthesis of enediyne core structures</article-title>. <source>J.
+Am. Chem. Soc.</source>
+<volume>131</volume>, <fpage>12564</fpage>&#x02013;<lpage>12566</lpage>.<pub-id pub-id-type="pmid">19689130</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Horsman</surname><given-names>G. P.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Thorson</surname><given-names>J. S.</given-names></name>; <name><surname>Shen</surname><given-names>B.</given-names></name> (<year>2010</year>) <article-title>Polyketide synthase
+chemistry does not direct biosynthetic divergence between 9- and 10-membered
+enediynes</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>107</volume>, <fpage>11331</fpage>&#x02013;<lpage>11335</lpage>.<pub-id pub-id-type="pmid">20534556</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Gantt</surname><given-names>R. W.</given-names></name>; <name><surname>Peltier-Pain</surname><given-names>P.</given-names></name>; <name><surname>Singh</surname><given-names>S.</given-names></name>; <name><surname>Zhou</surname><given-names>M.</given-names></name>; <name><surname>Thorson</surname><given-names>J. S.</given-names></name> (<year>2013</year>) <article-title>Broadening
+the scope of glycosyltransferase-catalyzed sugar nucleotide synthesis</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>110</volume>, <fpage>7648</fpage>&#x02013;<lpage>7653</lpage>.<pub-id pub-id-type="pmid">23610417</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Belecki</surname><given-names>K.</given-names></name>; <name><surname>Townsend</surname><given-names>C. A.</given-names></name> (<year>2012</year>) <article-title>Environmental control of the calicheamicin polyketide
+synthase leads to detection of a programmed octaketide and a proposal
+for enediyne biosynthesis</article-title>. <source>Angew. Chem., Int.
+Ed.</source>
+<volume>51</volume>, <fpage>11316</fpage>&#x02013;<lpage>11319</lpage>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Belecki</surname><given-names>K.</given-names></name>; <name><surname>Townsend</surname><given-names>C. A.</given-names></name> (<year>2013</year>) <article-title>Biochemical determination
+of enzyme-bound metabolites:
+Preferential accumulation of a programmed octaketide on the enediyne
+polyketide synthase CalE8</article-title>. <source>J. Am. Chem. Soc.</source>
+<volume>135</volume>, <fpage>14339</fpage>&#x02013;<lpage>14348</lpage>.<pub-id pub-id-type="pmid">24041368</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Ricart</surname><given-names>A. D.</given-names></name> (<year>2011</year>) <article-title>Antibody-drug
+conjugates of calicheamicin derivative: Gemtuzumab Ozogamicin and
+Inotuzumab Ozogamicin</article-title>. <source>Clin. Cancer Res.</source>
+<volume>17</volume>, <fpage>6417</fpage>&#x02013;<lpage>6427</lpage>.<pub-id pub-id-type="pmid">22003069</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Trail</surname><given-names>P. A.</given-names></name> (<year>2013</year>) <article-title>Antibody
+drug conjugates as cancer therapeutics</article-title>. <source>Antibodies</source>
+<volume>2</volume>, <fpage>113</fpage>&#x02013;<lpage>129</lpage>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Krissinel</surname><given-names>E.</given-names></name>; <name><surname>Henrick</surname><given-names>K.</given-names></name> (<year>2007</year>) <article-title>Inference of macromolecular
+assemblies from crystalline
+state</article-title>. <source>J. Mol. Biol.</source>
+<volume>372</volume>, <fpage>774</fpage>&#x02013;<lpage>797</lpage>.<pub-id pub-id-type="pmid">17681537</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Iyer</surname><given-names>L. M.</given-names></name>; <name><surname>Koonin</surname><given-names>E. V.</given-names></name>; <name><surname>Aravind</surname><given-names>L.</given-names></name> (<year>2001</year>) <article-title>Adaptations of the
+helix-grip fold
+for ligand binding and catalysis in the START domain superfamily</article-title>. <source>Proteins</source>
+<volume>43</volume>, <fpage>134</fpage>&#x02013;<lpage>144</lpage>.<pub-id pub-id-type="pmid">11276083</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Thorsell</surname><given-names>A.-G.</given-names></name>; <name><surname>Lee</surname><given-names>W. H.</given-names></name>; <name><surname>Persson</surname><given-names>C.</given-names></name>; <name><surname>Siponen</surname><given-names>M. I.</given-names></name>; <name><surname>Nilsson</surname><given-names>M.</given-names></name>; <name><surname>Busam</surname><given-names>R. D.</given-names></name>; <name><surname>Kotenyova</surname><given-names>T.</given-names></name>; <name><surname>Sch&#x000fc;ler</surname><given-names>H.</given-names></name>; <name><surname>Lehti&#x000f6;</surname><given-names>L.</given-names></name> (<year>2011</year>) <article-title>Comparative structural analysis of lipid binding START
+domains</article-title>. <source>PloS One</source>
+<volume>6</volume>, <fpage>e19521</fpage>.<pub-id pub-id-type="pmid">21738568</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Alpy</surname><given-names>F.</given-names></name>; <name><surname>Tomasetto</surname><given-names>C.</given-names></name> (<year>2005</year>) <article-title>Give lipids a START: The StAR-related lipid transfer
+(START) domain in mammals</article-title>. <source>J. Cell Sci.</source>
+<volume>118</volume>, <fpage>2791</fpage>&#x02013;<lpage>2801</lpage>.<pub-id pub-id-type="pmid">15976441</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Holm</surname><given-names>L.</given-names></name>; <name><surname>Rosenstr&#x000f6;m</surname><given-names>P.</given-names></name> (<year>2010</year>) <article-title>Dali server:
+Conservation mapping in 3D</article-title>. <source>Nucleic Acids Res.</source>
+<volume>38</volume>, <fpage>W545</fpage>&#x02013;<lpage>549</lpage>.<pub-id pub-id-type="pmid">20457744</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Krissinel</surname><given-names>E.</given-names></name>; <name><surname>Henrick</surname><given-names>K.</given-names></name> (<year>2004</year>) <article-title>Secondary-structure
+matching (SSM), a new tool for
+fast protein structure alignment in three dimensions</article-title>. <source>Acta Crystallogr., Sect. D: Biol. Crystallogr.</source>
+<volume>60</volume>, <fpage>2256</fpage>&#x02013;<lpage>2268</lpage>.<pub-id pub-id-type="pmid">15572779</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Ames</surname><given-names>B. D.</given-names></name>; <name><surname>Korman</surname><given-names>T. P.</given-names></name>; <name><surname>Zhang</surname><given-names>W.</given-names></name>; <name><surname>Smith</surname><given-names>P.</given-names></name>; <name><surname>Vu</surname><given-names>T.</given-names></name>; <name><surname>Tang</surname><given-names>Y.</given-names></name>; <name><surname>Tsai</surname><given-names>S.-C.</given-names></name> (<year>2008</year>) <article-title>Crystal
+structure and functional
+analysis of tetracenomycin ARO/CYC: Implications for cyclization specificity
+of aromatic polyketides</article-title>. <source>Proc. Natl. Acad. Sci.
+U.S.A.</source>
+<volume>105</volume>, <fpage>5349</fpage>&#x02013;<lpage>5354</lpage>.<pub-id pub-id-type="pmid">18388203</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Michalska</surname><given-names>K.</given-names></name>; <name><surname>Fernandes</surname><given-names>H.</given-names></name>; <name><surname>Sikorski</surname><given-names>M.</given-names></name>; <name><surname>Jaskolski</surname><given-names>M.</given-names></name> (<year>2010</year>) <article-title>Crystal structure
+of Hyp-1, a St. John&#x02019;s Wort protein implicated in the biosynthesis
+of hypericin</article-title>. <source>J. Struct. Biol.</source>
+<volume>169</volume>, <fpage>161</fpage>&#x02013;<lpage>171</lpage>.<pub-id pub-id-type="pmid">19853038</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Ilari</surname><given-names>A.</given-names></name>; <name><surname>Franceschini</surname><given-names>S.</given-names></name>; <name><surname>Bonamore</surname><given-names>A.</given-names></name>; <name><surname>Arenghi</surname><given-names>F.</given-names></name>; <name><surname>Botta</surname><given-names>B.</given-names></name>; <name><surname>Macone</surname><given-names>A.</given-names></name>; <name><surname>Pasquo</surname><given-names>A.</given-names></name>; <name><surname>Bellucci</surname><given-names>L.</given-names></name>; <name><surname>Boffi</surname><given-names>A.</given-names></name> (<year>2009</year>) <article-title>Structural
+basis of enzymatic (<italic>S</italic>)-norcoclaurine biosynthesis</article-title>. <source>J. Biol. Chem.</source>
+<volume>284</volume>, <fpage>897</fpage>&#x02013;<lpage>904</lpage>.<pub-id pub-id-type="pmid">19004827</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Kofler</surname><given-names>S.</given-names></name>; <name><surname>Asam</surname><given-names>C.</given-names></name>; <name><surname>Eckhard</surname><given-names>U.</given-names></name>; <name><surname>Wallner</surname><given-names>M.</given-names></name>; <name><surname>Ferreira</surname><given-names>F.</given-names></name>; <name><surname>Brandstetter</surname><given-names>H.</given-names></name> (<year>2012</year>) <article-title>Crystallographically mapped ligand binding differs
+in high and low IgE binding isoforms of birch pollen allergen bet
+v 1</article-title>. <source>J. Mol. Biol.</source>
+<volume>422</volume>, <fpage>109</fpage>&#x02013;<lpage>123</lpage>.<pub-id pub-id-type="pmid">22634284</pub-id></mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Li</surname><given-names>W.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Sheng</surname><given-names>X.</given-names></name>; <name><surname>Yan</surname><given-names>C.</given-names></name>; <name><surname>Zhou</surname><given-names>R.</given-names></name>; <name><surname>Hang</surname><given-names>J.</given-names></name>; <name><surname>Yin</surname><given-names>P.</given-names></name>; <name><surname>Yan</surname><given-names>N.</given-names></name> (<year>2013</year>) <article-title>Molecular basis for
+the selective and ABA-independent inhibition of PP2CA by PYL13</article-title>. <source>Cell Res.</source>
+<volume>23</volume>, <fpage>1369</fpage>&#x02013;<lpage>1379</lpage>.<pub-id pub-id-type="pmid">24165892</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Pasternak</surname><given-names>O.</given-names></name>; <name><surname>Bujacz</surname><given-names>G. D.</given-names></name>; <name><surname>Fujimoto</surname><given-names>Y.</given-names></name>; <name><surname>Hashimoto</surname><given-names>Y.</given-names></name>; <name><surname>Jelen</surname><given-names>F.</given-names></name>; <name><surname>Otlewski</surname><given-names>J.</given-names></name>; <name><surname>Sikorski</surname><given-names>M. M.</given-names></name>; <name><surname>Jaskolski</surname><given-names>M.</given-names></name> (<year>2006</year>) <article-title>Crystal structure
+of <italic>Vigna radiata</italic> cytokinin-specific binding protein
+in complex with zeatin</article-title>. <source>Plant Cell</source>
+<volume>18</volume>, <fpage>2622</fpage>&#x02013;<lpage>2634</lpage>.<pub-id pub-id-type="pmid">16998071</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Schirmer</surname><given-names>T.</given-names></name>; <name><surname>Hoffimann-Sommergrube</surname><given-names>K.</given-names></name>; <name><surname>Susani</surname><given-names>M.</given-names></name>; <name><surname>Breiteneder</surname><given-names>H.</given-names></name>; <name><surname>Markovi&#x00107;-Housley</surname><given-names>Z.</given-names></name> (<year>2005</year>) <article-title>Crystal structure
+of the major celery
+allergen Api g 1: Molecular analysis of cross-reactivity</article-title>. <source>J. Mol. Biol.</source>
+<volume>351</volume>, <fpage>1101</fpage>&#x02013;<lpage>1109</lpage>.<pub-id pub-id-type="pmid">16051263</pub-id></mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="undeclared" id="cit42"><person-group person-group-type="allauthors"><name><surname>Osipiuk</surname><given-names>J.</given-names></name>, <name><surname>Wu</surname><given-names>R.</given-names></name>, <name><surname>Moy</surname><given-names>S.</given-names></name>, <name><surname>Joachimiak</surname><given-names>A.</given-names></name></person-group> (<year>2006</year>) <source>X-ray crystal structure
+of conserved hypothetical protein EF_2215 from <inline-formula><italic>Enterococcus faecalis</italic></inline-formula></source>. PDB ID:
+2NN5. Unpublished.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="undeclared" id="cit43"><person-group person-group-type="allauthors"><name><surname>Singarapu</surname><given-names>K.</given-names></name>, <name><surname>Eletsky</surname><given-names>A.</given-names></name>, <name><surname>Sathyamoorthy</surname><given-names>B.</given-names></name>, <name><surname>Sukumaran</surname><given-names>D.</given-names></name>, <name><surname>Wang</surname><given-names>D.</given-names></name>, <name><surname>Jiang</surname><given-names>M.</given-names></name>, <name><surname>Ciccosanti</surname><given-names>C.</given-names></name>, <name><surname>Xiao</surname><given-names>R.</given-names></name>, <name><surname>Liu</surname><given-names>J.</given-names></name>, <name><surname>Baran</surname><given-names>M. C.</given-names></name>, <name><surname>Swapna</surname><given-names>G.</given-names></name>, <name><surname>Acton</surname><given-names>T. B.</given-names></name>, <name><surname>Rost</surname><given-names>B.</given-names></name>, <name><surname>Montelione</surname><given-names>G. T.</given-names></name>, <name><surname>Szyperski</surname><given-names>T.</given-names></name></person-group> (<year>2008</year>) <source>Solution NMR structure of protein encoded
+by gene BPP1335
+from <inline-formula><italic>Bordetella parapertussis</italic></inline-formula></source>. PDB ID: 2K5G. Unpublished.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Clark</surname><given-names>B. J.</given-names></name> (<year>2012</year>) <article-title>The mammalian
+START domain protein family in lipid transport in health and disease</article-title>. <source>J. Endocrinol.</source>
+<volume>212</volume>, <fpage>257</fpage>&#x02013;<lpage>275</lpage>.<pub-id pub-id-type="pmid">21965545</pub-id></mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Chang</surname><given-names>A.</given-names></name>; <name><surname>Singh</surname><given-names>S.</given-names></name>; <name><surname>Helmich</surname><given-names>K. E.</given-names></name>; <name><surname>Goff</surname><given-names>R. D.</given-names></name>; <name><surname>Bingman</surname><given-names>C. A.</given-names></name>; <name><surname>Thorson</surname><given-names>J. S.</given-names></name>; <name><surname>Phillips</surname><given-names>G. N.</given-names><suffix>Jr.</suffix></name> (<year>2011</year>) <article-title>Complete set
+of glycosyltransferase structures in the calicheamicin biosynthetic
+pathway reveals the origin of regiospecificity</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>108</volume>, <fpage>17649</fpage>&#x02013;<lpage>17654</lpage>.<pub-id pub-id-type="pmid">21987796</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Gerlt</surname><given-names>J. A.</given-names></name>; <name><surname>Babbitt</surname><given-names>P. C.</given-names></name> (<year>2000</year>) <article-title>Can sequence determine function?</article-title>. <source>Genome Biol.</source>
+<volume>1</volume>, <fpage>1</fpage>&#x02013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">11178226</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Whisstock</surname><given-names>J. C.</given-names></name>; <name><surname>Lesk</surname><given-names>A. M.</given-names></name> (<year>2003</year>) <article-title>Prediction
+of protein function from protein sequence
+and structure</article-title>. <source>Q. Rev. Biophys.</source>
+<volume>36</volume>, <fpage>307</fpage>&#x02013;<lpage>340</lpage>.<pub-id pub-id-type="pmid">15029827</pub-id></mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Schnoes</surname><given-names>A. M.</given-names></name>; <name><surname>Brown</surname><given-names>S. D.</given-names></name>; <name><surname>Dodevski</surname><given-names>I.</given-names></name>; <name><surname>Babbitt</surname><given-names>P. C.</given-names></name> (<year>2009</year>) <article-title>Annotation error
+in public databases: Misannotation of molecular function in enzyme
+superfamilies</article-title>. <source>PLoS Comput. Biol.</source>
+<volume>5</volume>, <fpage>e1000605</fpage>.<pub-id pub-id-type="pmid">20011109</pub-id></mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Baker</surname><given-names>D.</given-names></name>; <name><surname>Sali</surname><given-names>A.</given-names></name> (<year>2001</year>) <article-title>Protein structure prediction and structural genomics</article-title>. <source>Science</source>
+<volume>294</volume>, <fpage>93</fpage>&#x02013;<lpage>96</lpage>.<pub-id pub-id-type="pmid">11588250</pub-id></mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Hermann</surname><given-names>J. C.</given-names></name>; <name><surname>Marti-Arbona</surname><given-names>R.</given-names></name>; <name><surname>Fedorov</surname><given-names>A. A.</given-names></name>; <name><surname>Fedorov</surname><given-names>E.</given-names></name>; <name><surname>Almo</surname><given-names>S. C.</given-names></name>; <name><surname>Shoichet</surname><given-names>B. K.</given-names></name>; <name><surname>Raushel</surname><given-names>F. M.</given-names></name> (<year>2007</year>) <article-title>Structure-based activity prediction
+for an enzyme of unknown function</article-title>. <source>Nature</source>
+<volume>448</volume>, <fpage>775</fpage>&#x02013;<lpage>779</lpage>.<pub-id pub-id-type="pmid">17603473</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Guichou</surname><given-names>J.-F.</given-names></name>; <name><surname>Labesse</surname><given-names>G.</given-names></name> (<year>2012</year>) <article-title>Fragment and conquer:
+From structure to complexes to
+function</article-title>. <source>Structure</source>
+<volume>20</volume>, <fpage>1617</fpage>&#x02013;<lpage>1619</lpage>.<pub-id pub-id-type="pmid">23063007</pub-id></mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Wright</surname><given-names>G. D.</given-names></name> (<year>2007</year>) <article-title>The antibiotic
+resistome: The nexus of chemical and genetic diversity</article-title>. <source>Nat. Rev. Microbiol.</source>
+<volume>5</volume>, <fpage>175</fpage>&#x02013;<lpage>186</lpage>.<pub-id pub-id-type="pmid">17277795</pub-id></mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Cundliffe</surname><given-names>E.</given-names></name>; <name><surname>Demain</surname><given-names>A. L.</given-names></name> (<year>2010</year>) <article-title>Avoidance of suicide in antibiotic-producing microbes</article-title>. <source>J. Ind. Microbiol. Biotechnol.</source>
+<volume>37</volume>, <fpage>643</fpage>&#x02013;<lpage>672</lpage>.<pub-id pub-id-type="pmid">20446033</pub-id></mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Allan</surname><given-names>C. M.</given-names></name>; <name><surname>Hill</surname><given-names>S.</given-names></name>; <name><surname>Morvaridi</surname><given-names>S.</given-names></name>; <name><surname>Saiki</surname><given-names>R.</given-names></name>; <name><surname>Johnson</surname><given-names>J. S.</given-names></name>; <name><surname>Liau</surname><given-names>W.-S.</given-names></name>; <name><surname>Hirano</surname><given-names>K.</given-names></name>; <name><surname>Kawashima</surname><given-names>T.</given-names></name>; <name><surname>Ji</surname><given-names>Z.</given-names></name>; <name><surname>Loo</surname><given-names>J. A.</given-names></name>; <name><surname>Shepherd</surname><given-names>J. N.</given-names></name>; <name><surname>Clarke</surname><given-names>C. F.</given-names></name> (<year>2013</year>) <article-title>A conserved START
+domain coenzyme Q-binding polypeptide is required for efficient Q
+biosynthesis, respiratory electron transport, and antioxidant function
+in <italic>Saccharomyces cerevisiae</italic></article-title>. <source>Biochim. Biophys. Acta</source>
+<volume>1831</volume>, <fpage>776</fpage>&#x02013;<lpage>791</lpage>.<pub-id pub-id-type="pmid">23270816</pub-id></mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Baker</surname><given-names>J. R.</given-names></name>; <name><surname>Woolfson</surname><given-names>D. N.</given-names></name>; <name><surname>Muskett</surname><given-names>F. W.</given-names></name>; <name><surname>Stoneman</surname><given-names>R. G.</given-names></name>; <name><surname>Urbaniak</surname><given-names>M. D.</given-names></name>; <name><surname>Caddick</surname><given-names>S.</given-names></name> (<year>2007</year>) <article-title>Protein&#x02013;small molecule interactions in neocarzinostatin,
+the prototypical enediyne chromoprotein antibiotic</article-title>. <source>ChemBioChem</source>
+<volume>8</volume>, <fpage>704</fpage>&#x02013;<lpage>717</lpage>.<pub-id pub-id-type="pmid">17451164</pub-id></mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Weigel</surname><given-names>L. M.</given-names></name>; <name><surname>Clewell</surname><given-names>D. B.</given-names></name>; <name><surname>Gill</surname><given-names>S. R.</given-names></name>; <name><surname>Clark</surname><given-names>N. C.</given-names></name>; <name><surname>McDougal</surname><given-names>L. K.</given-names></name>; <name><surname>Flannagan</surname><given-names>S. E.</given-names></name>; <name><surname>Kolonay</surname><given-names>J. F.</given-names></name>; <name><surname>Shetty</surname><given-names>J.</given-names></name>; <name><surname>Killgore</surname><given-names>G. E.</given-names></name>; <name><surname>Tenover</surname><given-names>F. C.</given-names></name> (<year>2003</year>) <article-title>Genetic analysis of a high-level vancomycin-resistant
+isolate of <italic>Staphylococcus aureus</italic></article-title>. <source>Science</source>
+<volume>302</volume>, <fpage>1569</fpage>&#x02013;<lpage>1571</lpage>.<pub-id pub-id-type="pmid">14645850</pub-id></mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Qureshi</surname><given-names>N. K.</given-names></name>; <name><surname>Yin</surname><given-names>S.</given-names></name>; <name><surname>Boyle-Vavra</surname><given-names>S.</given-names></name> (<year>2014</year>) <article-title>The role of the Staphylococcal VraTSR regulatory system
+on vancomycin resistance and vanA operon expression in vancomycin-resistant <italic>Staphylococcus aureus</italic></article-title>. <source>PloS One</source>
+<volume>9</volume>, <fpage>e85873</fpage>.<pub-id pub-id-type="pmid">24454941</pub-id></mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="computer-program" id="cit58"><source>The PyMOL Molecular Graphics System</source>, Version
+1.3r1.
+(<year>2010</year>, August) <publisher-name>Schr&#x000f6;dinger, LLC.</publisher-name>, <publisher-loc>New York</publisher-loc>.</mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name><surname>Kearse</surname><given-names>M.</given-names></name>; <name><surname>Moir</surname><given-names>R.</given-names></name>; <name><surname>Wilson</surname><given-names>A.</given-names></name>; <name><surname>Stones-Havas</surname><given-names>S.</given-names></name>; <name><surname>Cheung</surname><given-names>M.</given-names></name>; <name><surname>Sturrock</surname><given-names>S.</given-names></name>; <name><surname>Buxton</surname><given-names>S.</given-names></name>; <name><surname>Cooper</surname><given-names>A.</given-names></name>; <name><surname>Markowitz</surname><given-names>S.</given-names></name>; <name><surname>Duran</surname><given-names>C.</given-names></name>; <name><surname>Thierer</surname><given-names>T.</given-names></name>; <name><surname>Ashton</surname><given-names>B.</given-names></name>; <name><surname>Meintjes</surname><given-names>P.</given-names></name>; <name><surname>Drummond</surname><given-names>A.</given-names></name> (<year>2012</year>) <article-title>Geneious Basic: An integrated and
+extendable desktop software platform for the organization and analysis
+of sequence data</article-title>. <source>Bioinformatics</source>
+<volume>28</volume>, <fpage>1647</fpage>&#x02013;<lpage>1649</lpage>.<pub-id pub-id-type="pmid">22543367</pub-id></mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name><surname>Acton</surname><given-names>T. B.</given-names></name>; <name><surname>Xiao</surname><given-names>R.</given-names></name>; <name><surname>Anderson</surname><given-names>S.</given-names></name>; <name><surname>Aramini</surname><given-names>J.</given-names></name>; <name><surname>Buchwald</surname><given-names>W. A.</given-names></name>; <name><surname>Ciccosanti</surname><given-names>C.</given-names></name>; <name><surname>Conover</surname><given-names>K.</given-names></name>; <name><surname>Everett</surname><given-names>J.</given-names></name>; <name><surname>Hamilton</surname><given-names>K.</given-names></name>; <name><surname>Huang</surname><given-names>Y. J.</given-names></name>; <name><surname>Janjua</surname><given-names>H.</given-names></name>; <name><surname>Kornhaber</surname><given-names>G.</given-names></name>; <name><surname>Lau</surname><given-names>J.</given-names></name>; <name><surname>Lee</surname><given-names>D. Y.</given-names></name>; <name><surname>Liu</surname><given-names>G.</given-names></name>; <name><surname>Maglaqui</surname><given-names>M.</given-names></name>; <name><surname>Ma</surname><given-names>L.</given-names></name>; <name><surname>Mao</surname><given-names>L.</given-names></name>; <name><surname>Patel</surname><given-names>D.</given-names></name>; <name><surname>Rossi</surname><given-names>P.</given-names></name>; <name><surname>Sahdev</surname><given-names>S.</given-names></name>; <name><surname>Shastry</surname><given-names>R.</given-names></name>; <name><surname>Swapna</surname><given-names>G. V. T.</given-names></name>; <name><surname>Tang</surname><given-names>Y.</given-names></name>; <name><surname>Tong</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>D.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Zhao</surname><given-names>L.</given-names></name>; <name><surname>Montelione</surname><given-names>G. T.</given-names></name> (<year>2011</year>) <article-title>Preparation
+of protein samples for NMR structure, function, and small-molecule
+screening studies</article-title>. <source>Methods Enzymol.</source>
+<volume>493</volume>, <fpage>21</fpage>&#x02013;<lpage>60</lpage>.<pub-id pub-id-type="pmid">21371586</pub-id></mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name><surname>Xiao</surname><given-names>R.</given-names></name>; <name><surname>Anderson</surname><given-names>S.</given-names></name>; <name><surname>Aramini</surname><given-names>J.</given-names></name>; <name><surname>Belote</surname><given-names>R.</given-names></name>; <name><surname>Buchwald</surname><given-names>W. A.</given-names></name>; <name><surname>Ciccosanti</surname><given-names>C.</given-names></name>; <name><surname>Conover</surname><given-names>K.</given-names></name>; <name><surname>Everett</surname><given-names>J. K.</given-names></name>; <name><surname>Hamilton</surname><given-names>K.</given-names></name>; <name><surname>Huang</surname><given-names>Y. J.</given-names></name>; <name><surname>Janjua</surname><given-names>H.</given-names></name>; <name><surname>Jiang</surname><given-names>M.</given-names></name>; <name><surname>Kornhaber</surname><given-names>G. J.</given-names></name>; <name><surname>Lee</surname><given-names>D. Y.</given-names></name>; <name><surname>Locke</surname><given-names>J. Y.</given-names></name>; <name><surname>Ma</surname><given-names>L.-C.</given-names></name>; <name><surname>Maglaqui</surname><given-names>M.</given-names></name>; <name><surname>Mao</surname><given-names>L.</given-names></name>; <name><surname>Mitra</surname><given-names>S.</given-names></name>; <name><surname>Patel</surname><given-names>D.</given-names></name>; <name><surname>Rossi</surname><given-names>P.</given-names></name>; <name><surname>Sahdev</surname><given-names>S.</given-names></name>; <name><surname>Sharma</surname><given-names>S.</given-names></name>; <name><surname>Shastry</surname><given-names>R.</given-names></name>; <name><surname>Swapna</surname><given-names>G. V. T.</given-names></name>; <name><surname>Tong</surname><given-names>S. N.</given-names></name>; <name><surname>Wang</surname><given-names>D.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Zhao</surname><given-names>L.</given-names></name>; <name><surname>Montelione</surname><given-names>G. T.</given-names></name>; <name><surname>Acton</surname><given-names>T. B.</given-names></name> (<year>2010</year>) <article-title>The high-throughput protein sample production platform
+of the Northeast Structural Genomics Consortium</article-title>. <source>J. Struct. Biol.</source>
+<volume>172</volume>, <fpage>21</fpage>&#x02013;<lpage>33</lpage>.<pub-id pub-id-type="pmid">20688167</pub-id></mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name><surname>Luft</surname><given-names>J. R.</given-names></name>; <name><surname>Wolfley</surname><given-names>J. R.</given-names></name>; <name><surname>Said</surname><given-names>M. I.</given-names></name>; <name><surname>Nagel</surname><given-names>R. M.</given-names></name>; <name><surname>Lauricella</surname><given-names>A. M.</given-names></name>; <name><surname>Smith</surname><given-names>J. L.</given-names></name>; <name><surname>Thayer</surname><given-names>M. H.</given-names></name>; <name><surname>Veatch</surname><given-names>C. K.</given-names></name>; <name><surname>Snell</surname><given-names>E. H.</given-names></name>; <name><surname>Malkowski</surname><given-names>M. G.</given-names></name>; <name><surname>Detitta</surname><given-names>G. T.</given-names></name> (<year>2007</year>) <article-title>Efficient optimization of crystallization
+conditions by manipulation of drop volume ratio and temperature</article-title>. <source>Protein Sci. Publ. Protein Soc.</source>
+<volume>16</volume>, <fpage>715</fpage>&#x02013;<lpage>722</lpage>.</mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name><surname>Otwinowski</surname><given-names>Z.</given-names></name>; <name><surname>Minor</surname><given-names>W.</given-names></name> (<year>1997</year>) <article-title>Processing of X-ray diffraction data
+collected in oscillation mode</article-title>. <source>Methods Enzymol.</source>
+<volume>276</volume>, <fpage>307</fpage>&#x02013;<lpage>326</lpage>.</mixed-citation></ref><ref id="ref64"><mixed-citation publication-type="journal" id="cit64"><name><surname>Sheldrick</surname><given-names>G. M.</given-names></name> (<year>2010</year>) <article-title>Experimental
+phasing with SHELXC/D/E: Combining chain tracing with density modification</article-title>. <source>Acta Crystallogr., Sect. D: Biol. Crystallogr.</source>
+<volume>66</volume>, <fpage>479</fpage>&#x02013;<lpage>485</lpage>.<pub-id pub-id-type="pmid">20383001</pub-id></mixed-citation></ref><ref id="ref65"><mixed-citation publication-type="journal" id="cit65"><name><surname>Terwilliger</surname><given-names>T. C.</given-names></name>; <name><surname>Berendzen</surname><given-names>J.</given-names></name> (<year>1999</year>) <article-title>Automated
+MAD and MIR structure solution</article-title>. <source>Acta Crystallogr.,
+Sect. D: Biol. Crystallogr.</source>
+<volume>55</volume>, <fpage>849</fpage>&#x02013;<lpage>861</lpage>.<pub-id pub-id-type="pmid">10089316</pub-id></mixed-citation></ref><ref id="ref66"><mixed-citation publication-type="journal" id="cit66"><name><surname>Emsley</surname><given-names>P.</given-names></name>; <name><surname>Lohkamp</surname><given-names>B.</given-names></name>; <name><surname>Scott</surname><given-names>W. G.</given-names></name>; <name><surname>Cowtan</surname><given-names>K.</given-names></name> (<year>2010</year>) <article-title>Features and development
+of Coot</article-title>. <source>Acta Crystallogr., Sect. D: Biol. Crystallogr.</source>
+<volume>66</volume>, <fpage>486</fpage>&#x02013;<lpage>501</lpage>.<pub-id pub-id-type="pmid">20383002</pub-id></mixed-citation></ref><ref id="ref67"><mixed-citation publication-type="journal" id="cit67"><name><surname>Murshudov</surname><given-names>G. N.</given-names></name>; <name><surname>Vagin</surname><given-names>A. A.</given-names></name>; <name><surname>Dodson</surname><given-names>E. J.</given-names></name> (<year>1997</year>) <article-title>Refinement
+of macromolecular structures
+by the maximum-likelihood method</article-title>. <source>Acta Crystallogr.,
+Sect. D: Biol. Crystallogr.</source>
+<volume>53</volume>, <fpage>240</fpage>&#x02013;<lpage>255</lpage>.<pub-id pub-id-type="pmid">15299926</pub-id></mixed-citation></ref><ref id="ref68"><mixed-citation publication-type="journal" id="cit68"><name><surname>Laskowski</surname><given-names>R.</given-names></name>; <name><surname>MacArthur</surname><given-names>M.</given-names></name>; <name><surname>Moss</surname><given-names>D.</given-names></name>; <name><surname>Thornton</surname><given-names>J.</given-names></name> (<year>1993</year>) <article-title>PROCHECK: A program
+to check the stereochemical quality of protein structures</article-title>. <source>J. Appl. Crystallogr.</source>
+<volume>26</volume>, <fpage>283</fpage>&#x02013;<lpage>291</lpage>.</mixed-citation></ref><ref id="ref69"><mixed-citation publication-type="journal" id="cit69"><name><surname>Shi</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Zeng</surname><given-names>L.</given-names></name>; <name><surname>Wu</surname><given-names>Y.</given-names></name>; <name><surname>Deng</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>; <name><surname>Lin</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Kang</surname><given-names>T.</given-names></name>; <name><surname>Tao</surname><given-names>M.</given-names></name>; <name><surname>Rusinova</surname><given-names>E.</given-names></name>; <name><surname>Zhang</surname><given-names>G.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Zhu</surname><given-names>H.</given-names></name>; <name><surname>Yao</surname><given-names>J.</given-names></name>; <name><surname>Zeng</surname><given-names>Y.-X.</given-names></name>; <name><surname>Evers</surname><given-names>B. M.</given-names></name>; <name><surname>Zhou</surname><given-names>M.-M.</given-names></name>; <name><surname>Zhou</surname><given-names>B. P.</given-names></name> (<year>2014</year>) <article-title>Disrupting
+the interaction of BRD4 with diacetylated twist suppresses tumorigenesis
+in basal-like breast cancer</article-title>. <source>Cancer Cell</source>
+<volume>25</volume>, <fpage>210</fpage>&#x02013;<lpage>225</lpage>.<pub-id pub-id-type="pmid">24525235</pub-id></mixed-citation></ref><ref id="ref70"><mixed-citation publication-type="journal" id="cit70"><name><surname>Zhai</surname><given-names>J.</given-names></name>; <name><surname>Str&#x000f6;m</surname><given-names>A.-L.</given-names></name>; <name><surname>Kilty</surname><given-names>R.</given-names></name>; <name><surname>Venkatakrishnan</surname><given-names>P.</given-names></name>; <name><surname>White</surname><given-names>J.</given-names></name>; <name><surname>Everson</surname><given-names>W. V.</given-names></name>; <name><surname>Smart</surname><given-names>E. J.</given-names></name>; <name><surname>Zhu</surname><given-names>H.</given-names></name> (<year>2009</year>) <article-title>Proteomic
+characterization of lipid raft proteins in amyotrophic lateral sclerosis
+mouse spinal cord</article-title>. <source>FEBS J.</source>
+<volume>276</volume>, <fpage>3308</fpage>&#x02013;<lpage>3323</lpage>.<pub-id pub-id-type="pmid">19438725</pub-id></mixed-citation></ref><ref id="ref71"><mixed-citation publication-type="journal" id="cit71"><name><surname>Chen</surname><given-names>V. B.</given-names></name>; <name><surname>Arendall</surname><given-names>W. B.</given-names><suffix>3rd</suffix></name>; <name><surname>Headd</surname><given-names>J. J.</given-names></name>; <name><surname>Keedy</surname><given-names>D. A.</given-names></name>; <name><surname>Immormino</surname><given-names>R. M.</given-names></name>; <name><surname>Kapral</surname><given-names>G. J.</given-names></name>; <name><surname>Murray</surname><given-names>L. W.</given-names></name>; <name><surname>Richardson</surname><given-names>J. S.</given-names></name>; <name><surname>Richardson</surname><given-names>D. C.</given-names></name> (<year>2010</year>) <article-title>MolProbity: All-atom structure validation
+for macromolecular
+crystallography</article-title>. <source>Acta Crystallogr., Sect. D:
+Biol. Crystallogr.</source>
+<volume>66</volume>, <fpage>12</fpage>&#x02013;<lpage>21</lpage>.<pub-id pub-id-type="pmid">20057044</pub-id></mixed-citation></ref></ref-list></back></article>
