@@ -223,12 +223,12 @@ class literature:
 
                         # saving sentences and text files in the output dirs #
                         if txt != '':
-                            jsf = Path(output_dirs[0],sect,pmcid+'.json') # json file
+                            jsf = Path(output_dirs[1],sect,pmcid+'.json') # json file
                             with open(jsf, 'w', encoding='utf-8') as j:
                                 json.dump(snts,j)
                             os.chmod(jsf, 0o755)     
 
-                            txtf = Path(output_dirs[1],sect,pmcid+'.txt') # text file
+                            txtf = Path(output_dirs[0],sect,pmcid+'.txt') # text file
                             f = open(txtf,"a",encoding='utf-8')
                             f.write(txt)
                             f.close()
