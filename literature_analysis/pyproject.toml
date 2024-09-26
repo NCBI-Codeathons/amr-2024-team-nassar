@@ -16,6 +16,7 @@ beautifulsoup4 = "^4.12.3"
 lxml = "^5.3.0"
 graphrag = "^0.3.6"
 yfiles-jupyter-graphs = "^1.8.1"
+pandas = "^2.2.3"
 
 
 [build-system]
