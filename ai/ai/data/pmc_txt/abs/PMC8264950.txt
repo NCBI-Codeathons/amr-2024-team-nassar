@@ -1,0 +1,43 @@
+Conspectus  The genomic era has dramatically changed how we discover and investigate
+microbial biochemistry. In particular, the exponential expansion in
+the number of sequenced microbial genomes provides investigators with
+a vast wealth of sequence data to exploit for the discovery of biochemical
+functions and mechanisms, as well as novel enzymes and metabolites.
+In contrast to early biochemical work, which was largely characterized
+by “forward” approaches that proceed from biomass to
+enzyme to gene, the availability of genome sequences enables the discovery
+of new microbial metabolic activities, enzymes, and metabolites by
+“reverse” approaches that originate with genetic information
+or by approaches that incorporate features of both forward and reverse
+methodologies. In the genomic era, the canonical organization of microbial
+genomes into gene clusters presents a singular opportunity for the
+utilization of genomic data. Specifically, genomic context (information
+gleaned from the genes surrounding a gene of interest in the chromosome)
+is a powerful tool for chemical discovery in microbial systems because
+of the functional and/or physiological relationship that usually exists
+between genes found within a gene cluster. This means that the investigator
+can use this inferred link to generate hypotheses about the functions
+of individual genes in the cluster or even the function of the entire
+cluster itself. Here, we discuss how analysis of genomic context in
+combination with a mechanistic understanding of enzymes can facilitate
+numerous facets of microbial biochemical research including the identification
+of biosynthetic gene clusters, the discovery of important and novel
+enzymes, the elucidation of natural product structures, and the identification
+of new metabolic pathways. We highlight work from our laboratory using
+genomic context to discover and study biosynthetic pathways that produce
+natural products, including the cylindrocyclophanes, nitrogen–nitrogen
+bond-containing metabolites, and the gut microbial genotoxin colibactin.
+Although use of genomic context is most commonly associated with studies
+of natural product biosynthesis, we also show that it can be applied
+to the study of primary metabolism. We illustrate this with examples
+from our work studying the members of the glycyl radical enzyme superfamily
+involved in choline and 4-hydroxyproline degradation in the human
+gut. Looking forward, we envision increased opportunities to use such
+information, with the combination of biochemical knowledge and computational
+tools poised to fuel a new revolution in our ability to connect genes
+and their biochemical functions. In particular, we note a need for
+methods that computationally formalize the functional association
+between genes when such associations are not obvious from manual gene
+annotations. Such tools will drastically augment the feasibility and
+scope of gene cluster analysis and accelerate the discovery of new
+microbial enzymes, metabolites, and metabolic processes.

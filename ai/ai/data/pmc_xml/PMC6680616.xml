@@ -1,0 +1,1499 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Microb Biotechnol</journal-id><journal-id journal-id-type="iso-abbrev">Microb Biotechnol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1751-7915</journal-id><journal-id journal-id-type="publisher-id">MBT2</journal-id><journal-title-group><journal-title>Microbial Biotechnology</journal-title></journal-title-group><issn pub-type="epub">1751-7915</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6680616</article-id><article-id pub-id-type="doi">10.1111/1751-7915.13398</article-id><article-id pub-id-type="publisher-id">MBT213398</article-id><article-categories><subj-group subj-group-type="overline"><subject>Minireview</subject></subj-group><subj-group subj-group-type="heading"><subject>Minireview</subject></subj-group></article-categories><title-group><article-title>Novel bioactive natural products from bacteria via bioprospecting, genome mining and metabolic engineering</article-title><alt-title alt-title-type="left-running-head">O. N. Sekurova, O. Schneider and S. B. Zotchev</alt-title></title-group><contrib-group><contrib id="mbt213398-cr-0001" contrib-type="author"><name><surname>Sekurova</surname><given-names>Olga N.</given-names></name><xref ref-type="aff" rid="mbt213398-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mbt213398-cr-0002" contrib-type="author"><name><surname>Schneider</surname><given-names>Olha</given-names></name><xref ref-type="aff" rid="mbt213398-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mbt213398-cr-0003" contrib-type="author" corresp="yes"><name><surname>Zotchev</surname><given-names>Sergey B.</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-9324-245X</contrib-id><address><email>sergey.zotchev@univie.ac.at</email></address><xref ref-type="aff" rid="mbt213398-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="mbt213398-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Pharmacognosy</named-content>
+<institution>University of Vienna</institution>
+<named-content content-type="street">Althanstra&#x000df;e 14</named-content>
+<named-content content-type="post-code">1090</named-content>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>For correspondence: E&#x02010;mail: <email>sergey.zotchev@univie.ac.at</email>; Tel. +43 1 4277 55296; Fax: +43 1 4277 855296</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>3</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2019</year></pub-date><volume>12</volume><issue>5</issue><issue-id pub-id-type="doi">10.1111/mbt2.v12.5</issue-id><fpage>828</fpage><lpage>844</lpage><history><date date-type="received"><day>11</day><month>1</month><year>2019</year></date><date date-type="rev-recd"><day>15</day><month>2</month><year>2019</year></date><date date-type="accepted"><day>21</day><month>2</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 John Wiley & Sons Ltd and Society for Applied Microbiology <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Microbial Biotechnology</italic> published by John Wiley &#x00026; Sons Ltd and Society for Applied Microbiology.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:MBT2-12-828.pdf"/><abstract id="mbt213398-abs-0001"><title>Summary</title><p>For over seven decades, bacteria served as a valuable source of bioactive natural products some of which were eventually developed into drugs to treat infections, cancer and immune system&#x02010;related diseases. Traditionally, novel compounds produced by bacteria were discovered via conventional bioprospecting based on isolation of potential producers and screening their extracts in a variety of bioassays. Over time, most of the natural products identifiable by this approach were discovered, and the pipeline for new drugs based on bacterially produced metabolites started to run dry. This mini&#x02010;review highlights recent developments in bacterial bioprospecting for novel compounds that are based on several out&#x02010;of&#x02010;the&#x02010;box approaches, including the following: (i) targeting bacterial species previously unknown to produce any bioactive natural products, (ii) exploring non&#x02010;traditional environmental niches and methods for isolation of bacteria and (iii) various types of &#x02018;genome mining&#x02019; aimed at unravelling genetic potential of bacteria to produce secondary metabolites. All these approaches have already yielded a number of novel bioactive compounds and, if used wisely, will soon revitalize drug discovery pipeline based on bacterial natural products.</p></abstract><funding-group><award-group><funding-source>Universit&#x000e4;t Wien</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="1"/><page-count count="17"/><word-count count="11846"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>mbt213398</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.7 mode:remove_FC converted:05.08.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="mbt213398-cit-1001">
+<source xml:lang="en">Microbial Biotechnology</source> (<year>2019</year>) <volume>12</volume>(<issue>5</issue>), <fpage>828</fpage>&#x02013;<lpage>844</lpage>
+</mixed-citation>
+</p><fn-group id="mbt213398-ntgp-0001"><fn fn-type="funding" id="mbt213398-note-1001"><p>
+<bold>Funding information</bold>
+</p><p>This work was supported by the University of Vienna.</p></fn></fn-group></notes></front><body><sec id="mbt213398-sec-0001"><title>Introduction</title><p>Natural products from microorganisms are structurally very diverse and represent a rich source for the discovery of new drugs to treat various human diseases, including infections and cancer. Over 50% of all pharmaceutical drugs currently on the market are directly derived from or inspired by natural products (Newman and Cragg, <xref rid="mbt213398-bib-0079" ref-type="ref">2016</xref>). Bacteria are perhaps the most prolific microbial producers of bioactive natural products, which are represented by their secondary metabolites. The latter compounds are not required for the normal proliferation of the producing organisms, but appear to give some advantages in environmental adaptation and survival (Jenke&#x02010;Kodama <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0047" ref-type="ref">2008</xref>; Strachan and Davies, <xref rid="mbt213398-bib-0103" ref-type="ref">2016</xref>). Some studies suggest that secondary metabolites with antibiotic activity may be used by bacteria to fight off predators, to compete for nutritional sources (van der Meij <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0075" ref-type="ref">2017</xref>) or even to defend their hosts (Samuels <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0094" ref-type="ref">2013</xref>). Whatever the biological role(s) of secondary metabolites is in nature, they are important for the bacteria that synthesize them, since a significant amount of cellular resources, including building blocks from primary metabolism, cofactors and energy in the form of ATP and NADPH, are required for their biosynthesis. Apparently, the biosynthetic pathways for secondary metabolites evolved over millions of years to generate chemical structures that interact with particular biological targets, either in the producing organism itself or in those present in the surrounding environment. Consequently, it can be assumed that most, if not all, secondary metabolites have biological activities, although we may not yet have assays to detect these.</p><p>Considering the looming crisis of antibiotic resistance that spreads among bacterial pathogens and increasing incidence of cancer, the search for new, efficient and less toxic drugs remains a priority. In the 1950&#x02013;1970s, a massive effort on isolation and screening of bacteria capable of producing bioactive secondary metabolites yielded a plethora of antibiotics, e.g. antibacterials vancomycin and erythromycin, as well as antifungal agents, e.g. nystatin and amphotericin B. Same can be said about the anticancer agents such as bacterially produced bleomycin and doxorubicin. However, these compounds, which have been developed into medically important drugs, mostly represent &#x02018;low&#x02010;hanging fruits&#x02019; that were relatively easy to discover. Later on, efforts on finding new antibiotics faced a problem of consistent re&#x02010;discovery of already known compounds. The latter, together with high costs for screening, made pharmaceutical companies to invest into research and development of the drugs to treat chronic diseases, such as diabetes (Kuehn, <xref rid="mbt213398-bib-0057" ref-type="ref">2011</xref>; Bartlett <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0005" ref-type="ref">2013</xref>). Recent developments in the fields of genomics, bio&#x02010; and chemoinformatics, metabolic engineering and synthetic biology opened completely new possibilities for drug discovery, thus re&#x02010;vitalizing interest in bacterial secondary metabolites. Combined with novel methods for isolation of rare, previously uncultivated bacteria, these approaches pave a new way towards better drugs. This review highlights recent developments in the bacterial bioprospecting and so&#x02010;called &#x02018;genome mining&#x02019; (see below) and suggests how these can be interconnected in order to speed&#x02010;up and focus the drug discovery process. The schematic workflow showing integration of modern bacterial bioprospecting and genome mining is shown in Fig.&#x000a0;<xref rid="mbt213398-fig-0001" ref-type="fig">1</xref>.</p><fig fig-type="Figure" xml:lang="en" id="mbt213398-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Overview of the workflow for the discovery of bioactive natural products from bacteria.</p></caption><graphic id="nlm-graphic-3" xlink:href="MBT2-12-828-g001"/></fig></sec><sec id="mbt213398-sec-0002"><title>Bioprospecting of bacteria from natural environments</title><p>At the onset of the antibiotic discovery era, which can be traced back to the 1940s as far as bacterial sources of antibiotics are concerned, much attention was given to actinomycete bacteria. These Gram&#x02010;positive bacteria represent one of the largest bacterial phyla and can be found in a wide variety of environments (van der Meij <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0075" ref-type="ref">2017</xref>). The first antibiotic proved to be affective against the causative agent of tuberculosis (<italic>Mycobacterium tuberculosis</italic>), streptomycin, was discovered from a soil&#x02010;dwelling <italic>Streptomyces griseus</italic> (Smith and Waksman, <xref rid="mbt213398-bib-0102" ref-type="ref">1947</xref>). A plethora of various bioactive compounds that were later developed into drugs were subsequently discovered from actinomycetes, including antifungal nystatin, antibacterials erythromycin, vancomycin, colistin (polymyxin E) and anticancer agent doxorubicin. The vast majority of these discoveries have been made in the 1950s&#x02013;1970s, when pharmaceutical companies screened large numbers of actinomycetes mostly isolated from soil samples collected all over the world. However, the relatively easily isolated <italic>Streptomyces</italic> spp. dominated these collections, and repeated re&#x02010;discovery of already known compounds became a discouraging factor in further bioprospecting efforts. In order to increase the probability of finding new bioactive natural products, the search has turned to more exotic environments, such as marine sediments and animals, plants, insects and remote/extreme terrestrial locations (Hug <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0042" ref-type="ref">2018</xref>). In addition, a considerable effort has been put into the development of methods for selective isolation of rare actinomycetes and cultivation of previously uncultivable bacteria (Puspita <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0089" ref-type="ref">2012</xref>; Tiwari and Gupta, <xref rid="mbt213398-bib-0107" ref-type="ref">2013</xref>). These efforts have indeed afforded many new bacterial genera and species, some of which were shown to produce novel bioactive compounds (Sherpa <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0100" ref-type="ref">2015</xref>). Figure&#x000a0;<xref rid="mbt213398-fig-0002" ref-type="fig">2</xref> shows examples of novel bacterial natural products discovered via bioprospecting of rare and unusual bacteria from various environments.</p><fig fig-type="Figure" xml:lang="en" id="mbt213398-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Novel bacterial secondary metabolites discovered via unconventional bioprospecting of previously uncharacterized bacteria isolated from unique environments.</p></caption><graphic id="nlm-graphic-5" xlink:href="MBT2-12-828-g002"/></fig><sec id="mbt213398-sec-0003"><title>Accessing rare and non&#x02010;obvious bacterial producers of secondary metabolites</title><p>Group of W. Fenical at the Scripps Institute (USA) was the first one to isolate a true marine actinomycete <italic>Salinispora arenicola</italic> (Maldonado <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0073" ref-type="ref">2005</xref>), which was later found to produce salinosporamide A (Fig.&#x000a0;<xref rid="mbt213398-fig-0002" ref-type="fig">2</xref>), a novel secondary metabolite with proteasome&#x02010;inhibiting activity that is currently undergoing clinical trials in cancer patients under the name marizomib (Levin <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0063" ref-type="ref">2016</xref>). Extensive metabolite profiling coupled to genome sequencing of this bacterium revealed other structurally unique natural products (Gontang <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0033" ref-type="ref">2010</xref>), clearly supporting the idea that previously uncharted environments and novel bacterial species must be explored in search for new drug leads. At the same time, recent study by P. Jensen group from Scripps has clearly demonstrated that environment has a far greater impact on the ability of the same bacterial species to biosynthesize secondary metabolites (Ziemert <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0122" ref-type="ref">2014</xref>). In this study, 75 isolates of the genus <italic>Salinispiora</italic> were obtained from geographically distinct areas, and subsequent genome sequencing and analyses revealed many gene clusters for the biosynthesis of secondary metabolites (BGCs) that were unique for isolates tagged to particular locations. This finding implies that actinomycetes are able to acquire new BGCs from other bacteria dwelling in the same environment, thereby probably enhancing their adaptive capabilities for a particular environmental niche. Other recent studies have also showed the same trend for <italic>Strepomyces</italic> spp., which were lately considered by many as being of no more interest in search for novel compounds. For example, the genome of <italic>Streptomyces albus</italic> isolated from a marine sponge was found to harbour many BGCs not found in its counterpart isolated from a terrestrial source (Ian <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0043" ref-type="ref">2014</xref>). Although this marine isolate was not shown to actually produce novel secondary metabolites specified by these unique BGCs in the conditions tested, new approaches such as genome mining (see next sections) may activate silent BGCs and yield new bioactive compounds.</p><p>Although actinobacteria remain an interesting source for the drug discovery, research on these bacteria appears overcrowded and is undermined by frequent re&#x02010;discovery of already known compounds. This situation encouraged &#x02018;out&#x02010;of&#x02010;the&#x02010;box&#x02019; approaches targeting other underexplored environmental niches and bacterial phyla. Recently, bioprospecting of human microbiota yielded two novel antibiotics, lugdunin and lactocillin (Fig.&#x000a0;<xref rid="mbt213398-fig-0002" ref-type="fig">2</xref>). Lugdunin, a thiazolidine&#x02010;containing cyclic peptide active against Gram&#x02010;positive bacteria, including pathogenic <italic>Staphylococcus aureus</italic>, was isolated from <italic>Staphylococcus lugdunensis</italic>, a common nasal commensal bacterium (Zipperer <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0123" ref-type="ref">2016</xref>). Lactocillin is a novel thiopeptide antibiotic produced by the member of human vaginal microbiota <italic>Lactobacillus gasseri</italic> and active against vaginal pathogenic bacteria (Donia <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0024" ref-type="ref">2014</xref>). Yet another example is represented by clostrubin and unusual antibiotic isolated from a strictly anaerobic bacterium <italic>Clostridium beijerinckii</italic> known for a long time as producer of organic solvents, such as butanol and acetone. By manipulating growth conditions, Hertweck group was able to induce formation of clostrubin (Fig.&#x000a0;<xref rid="mbt213398-fig-0002" ref-type="fig">2</xref>), a polyphenolic polyketide active against methicillin&#x02010;resistant <italic>S.&#x000a0;aureus</italic>, vancomycin&#x02010;resistant <italic>Enterococcus faecalis</italic> and several <italic>Mycobacterium</italic> spp. (Pidot <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0088" ref-type="ref">2014</xref>).</p><p>The use of novel approaches for culturing previously inaccessible bacteria is exemplified by the recent discovery of teixobactin (Fig.&#x000a0;<xref rid="mbt213398-fig-0002" ref-type="fig">2</xref>), a bactericidal antibiotic active against such pathogens as <italic>S.&#x000a0;aureus</italic> and <italic>M.&#x000a0;tuberculosis</italic>, reportedly without causing emergence of resistance (Ling <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0067" ref-type="ref">2015</xref>). The producer of teixobactin, previously uncultivated bacterium provisionally named <italic>Eleftheria terrae</italic>, was discovered using a new tool, iChip, that allows to place individual bacterial cells from environmental samples into specially designed diffusion chambers, which are then deposited into the original environment to support proliferation. Other methods designed for selective isolation of particular bacterial phyla and genera rely mostly on a variety of media and special pretreatments, such as sample heating, microwave irradiation, bacteriophage and phenol treatment, are covered by several excellent reviews (Kurtb&#x000f6;ke, <xref rid="mbt213398-bib-0058" ref-type="ref">2011</xref>; Tiwari and Gupta, <xref rid="mbt213398-bib-0107" ref-type="ref">2013</xref>; Goodfellow <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0034" ref-type="ref">2018</xref>).</p><p>Considering these examples, especially recent study on the actinomycetes from the Atacama Desert soils (Goodfellow <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0034" ref-type="ref">2018</xref>), it is obvious that unique environments can provide bacterial species belonging to both well&#x02010;studied and underappreciated genera with unique biosynthetic capabilities. The latter can relatively easily be assessed via genomics and bio&#x02010; and chemoinformatics, which have become indispensable for modern bacterial bioprospecting.</p></sec><sec id="mbt213398-sec-0004"><title>Bacterial bioprospecting assisted by genomics and metagenomics</title><p>The examples given above comprise bacterial strains isolated using rather conventional methods and techniques. At the same time, metagenomics and single&#x02010;cell sequencing studies clearly demonstrate unprecedented potential of as yet uncultivated bacteria to produce secondary metabolites (Brady, <xref rid="mbt213398-bib-0010" ref-type="ref">2007</xref>; Milshteyn <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0077" ref-type="ref">2014</xref>; Bowers <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0009" ref-type="ref">2017</xref>). Using this approach, the biosynthesis of several bioactive compounds previously discovered from marine animals was actually attributed to symbiotic bacteria associated with these hosts (Kwan <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0059" ref-type="ref">2012</xref>; Schofield <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0097" ref-type="ref">2015</xref>). Such examples include bryostatins, polyketides isolated from the marine bryozoan <italic>Bugula neritina</italic> with potential in anticancer therapy and treatment of Alzheimer disease, which are apparently produced by as yet uncultivated bacterial symbiont Candidatus <italic>Endobugula sertula</italic> (Davidson <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0018" ref-type="ref">2001</xref>). Unfortunately, access to the biosynthetic potential of such bacterial symbionts outside of their natural habitats is rather limited. Although there are several examples of finding new secondary metabolites via cloning and expression of metagenomic DNA in various bacterial hosts (Gillespie <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0029" ref-type="ref">2002</xref>; Parsley <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0087" ref-type="ref">2011</xref>; Rebets <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0091" ref-type="ref">2017</xref>), as well as upon heterologous expression of BGCs (see next section), this approach has many hurdles. The latter can be exemplified by poor quality of metagenomics DNA, necessity to screen very large metagenomics libraries, potential inability of the host's transcriptional machinery to recognize regulatory sequences in foreign DNA, the absence of particular biosynthetic precursors, etc. Thus, new cultivation techniques that would enable isolation and maintenance of previously uncultivated bacteria may greatly assist in gaining access to novel bacterial species and their secondary metabolites.</p><p>The efforts on bacterial bioprospecting can be greatly assisted by modern DNA sequencing technologies (later called NGS &#x02013; next&#x02010;generation sequencing) that offer new opportunities for discovering habitats of rare bacteria that may become sources of new drug leads. One of the NGS&#x02010;based approaches targeted at environmental samples encompasses metagenome sequencing, allowing direct access to the genomes of the majority of bacteria dwelling in this habitat. Whether or not these bacteria can be cultivated is of no importance, as long as the genes for secondary metabolite biosynthesis discovered in metagenomes can be amplified or synthesized and heterologously expressed in an appropriate well&#x02010;characterized bacterial host (see next section). However, considering relatively low success rate for heterologous expression of metagenomic DNA, it is still preferable to be able to isolate and cultivate an actual host harbouring secondary metabolite biosynthesis genes and thus most likely possessing all the machinery required for the biosynthesis of cognate compounds. In this, metagenomics may also be of great help, since it can provide important insights into the metabolic/nutritional requirements of particular bacteria, especially if their genomes can be at least partially assembled from the metagenomics data. If such bacterium carries biosynthetic genes that are presumed to specify biosynthesis of a new secondary metabolite, such information can be used to design growth media and specific conditions allowing isolation and propagation of this bacterium.</p><p>All the bioprospecting efforts aimed at isolation and cultivation of prospective bacterial producers of bioactive secondary metabolites face the challenge of de&#x02010;replication. The latter aims at elimination of isolates and compounds that are already known and focusing only on those that are potentially novel. Historically, 16S rRNA gene sequence&#x02010;based taxonomy was used to de&#x02010;replicate bacterial isolates (Brandao <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0011" ref-type="ref">2002</xref>), and for a long time, it was assumed that bacteria with &#x0003e;&#x000a0;99% sequence identity represent the same species and are likely to produce the same secondary metabolites. However, studies based on genomics revealed that this assumption is not entirely correct and may lead to elimination of valuable isolates. For example, comparative genome analysis of the marine sponge&#x02010;derived <italic>Actinoalloteichus fjordicus</italic> that shares 99.9% 16S rRNA gene sequence identity with that of <italic>Actinoalloteichus hyamenocidonis</italic> isolated from a different sponge showed drastically different capacities of these bacteria to produce secondary metabolites (Nouioui <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0081" ref-type="ref">2017</xref>).</p><p>Hence, more effort must be directed towards chemical de&#x02010;replication, when bacterial extracts are screened using state&#x02010;of&#x02010;the&#x02010;art analytical methods allowing identification of known compounds in these complex mixtures. This would allow, for example, efficient identification of unique compounds in bacterial species that share very similar 16S RNA gene sequences but originate from different environments and thus might possess different biosynthetic capabilities. Since recent comprehensive reviews on the issues of de&#x02010;replication describing novel methods such as hybrid NMR/high&#x02010;resolution mass spectrometry (Gomes <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0030" ref-type="ref">2018</xref>) and comparative metabolomics (Covington <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0017" ref-type="ref">2017</xref>) are available, these topics will not be covered in this mini&#x02010;review.</p></sec></sec><sec id="mbt213398-sec-0005"><title>Mining of bacterial genomes for new bioactive natural products</title><p>The fast development of genome sequencing technologies and power of advanced computational analyses of the DNA sequences dramatically increased the potential for natural product discovery. Many bioactive bacterial secondary metabolites are biosynthesized by multi&#x02010;modular enzymes, such as polyketide synthases and non&#x02010;ribosomal peptide synthetases (NRPS), to name the most common types. The genes encoding biosynthetic machinery for secondary metabolites are organized in biosynthetic gene clusters (BGC), analyses of which can provide important information regarding chemical class of the compounds they specify. This predictive correlation between BGCs and cognate compounds can now be achieved using a wide range of bioinformatics tools [e.g. antiSMASH (Weber <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0111" ref-type="ref">2015</xref>), BAGEL3 (van Heel <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0037" ref-type="ref">2013</xref>) and PRISM (Skinnider <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0101" ref-type="ref">2016</xref>)]. It became then increasingly clear, that some bacteria are able to produce far greater numbers of secondary metabolites than a conventional screening can reveal. Indeed, genomes of actinomycete bacteria may contain up to 50 different BGCs, many of which are uncharacterized, and may yield novel bioactive compounds. The majority of such BGCs appear to be &#x02018;silent&#x02019; in the laboratory conditions or their cognate metabolites are produced in very small amounts, not sufficient for proper characterization or industrial applications.</p><p>Our knowledge on the biosynthesis of secondary metabolites by bacteria is constantly expanding, thereby adding new information that connects biosynthetic genes with metabolites of particular chemical classes. In this respect, recently developed standardized database of BGCs, MIBiG, represents an important resource allowing identification of both already characterized BGCs and those that may encode enzymes for assembly of novel secondary metabolites (Epstein <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0025" ref-type="ref">2018</xref>). Supported by the abovementioned bioinformatics tools and databases, a new concept of so&#x02010;called &#x02018;genome mining&#x02019; based on analysing bacterial genomes for the presence of various BGCs has been established. Figure&#x000a0;<xref rid="mbt213398-fig-0003" ref-type="fig">3</xref> shows how genome mining approach can be applied in different ways based upon (i) phenotype of the producer (e.g. bioactivity and biosynthesis of specific compounds or enzymes); (ii) targeted chemical class of natural products (e.g. terpenes, lasso peptides and aromatic polyketides) and (iii) the potential uniqueness of the bacterial isolate that may yield novel compounds (e.g. novel or taxonomically divergent species, and isolates from unique environmental sources). A starting point for application of target&#x02010;based genome mining is the choice of a specific chemical class of a natural product, followed by mining of genomic DNA sequence for genes encoding enzymes that specify biosynthesis of corresponding molecular scaffold. Once the candidate target BGCs are detected, different techniques can be used to identify the secondary metabolite it specifies and to increase its production to a level allowing purification and biological testing. The expression of this BGC could be activated or enhanced in the host organism by genetic manipulation and/or by optimization of the growth conditions. Alternatively, this BCG can be cloned and heterologously expressed in a well&#x02010;characterized or engineered host. The goals of the genome mining based on phenotype and uniqueness of the bacterial isolate are self&#x02010;explanatory and do not require further specification. Instead, in the following subsections, we would like to focus on different strategies that can be employed to reach particular goals of the genome mining. Examples of novel bioactive secondary metabolites discovered via various types of genome mining are shown in Fig.&#x000a0;<xref rid="mbt213398-fig-0004" ref-type="fig">4</xref> (see Table&#x000a0;<xref rid="mbt213398-tbl-0001" ref-type="table">1</xref> for details).</p><fig fig-type="Figure" xml:lang="en" id="mbt213398-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Different approaches used in mining bacterial genomes for novel natural products (see text for details).</p></caption><graphic id="nlm-graphic-7" xlink:href="MBT2-12-828-g003"/></fig><fig fig-type="Figure" xml:lang="en" id="mbt213398-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Examples of novel bioactive bacterial secondary metabolites discovered using various approaches of genome mining (see Table&#x000a0;<xref rid="mbt213398-tbl-0001" ref-type="table">1</xref> for details).</p></caption><graphic id="nlm-graphic-9" xlink:href="MBT2-12-828-g004"/></fig><table-wrap id="mbt213398-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Selected examples of novel bacterial secondary metabolites discovered via genome mining approaches</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Compound</th><th align="left" valign="top" rowspan="1" colspan="1">Class</th><th align="left" valign="top" rowspan="1" colspan="1">Activity</th><th align="left" valign="top" rowspan="1" colspan="1">BGC original host</th><th align="left" valign="top" rowspan="1" colspan="1">Identification strategy</th><th align="left" valign="top" rowspan="1" colspan="1">Reference</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Scleric acid</td><td align="left" rowspan="1" colspan="1">(2&#x02010;(benzoyloxy) acetyl)&#x02010;L&#x02010;proline</td><td align="left" rowspan="1" colspan="1">
+<italic>Mycobacterium tuberculosis</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Streptomyces sclerotialus</italic> NRRL ISP&#x02010;5269</td><td align="left" rowspan="1" colspan="1">Heterologous expression in <italic>Streptomyces albus</italic> J1074</td><td align="left" rowspan="1" colspan="1">(Alberti <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0001" ref-type="ref">2019</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Enterocin</td><td align="left" rowspan="1" colspan="1">Polyketide</td><td align="left" rowspan="1" colspan="1">Cytotoxic</td><td align="left" rowspan="1" colspan="1">
+<italic>Salinispora pacifica</italic> CNT&#x02010;150</td><td align="left" rowspan="1" colspan="1">Heterologous expression in <italic>Streptomyces coelicolor</italic> M1146</td><td align="left" rowspan="1" colspan="1">(Bonet <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0008" ref-type="ref">2014</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Borregomycin A</td><td align="left" rowspan="1" colspan="1">Indolotryptoline</td><td align="left" rowspan="1" colspan="1">CaMKII&#x003b4; kinase inhibition</td><td align="left" rowspan="1" colspan="1">Metagenomic DNA from Anza&#x02010;Borrego Desert soil</td><td align="left" rowspan="1" colspan="1">Heterologous expression in <italic>Streptomyces albus</italic> J1074</td><td align="left" rowspan="1" colspan="1">(Chang and Brady, <xref rid="mbt213398-bib-0015" ref-type="ref">2013</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Avermectins</td><td align="left" rowspan="1" colspan="1">Polyketides</td><td align="left" rowspan="1" colspan="1">Antihelminthic</td><td align="left" rowspan="1" colspan="1">
+<italic>Streptomyces avermitilis</italic> ATCC 31267</td><td align="left" rowspan="1" colspan="1">Heterologous expression in <italic>Streptomyces lividans</italic> 1326</td><td align="left" rowspan="1" colspan="1">(Deng <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0020" ref-type="ref">2017</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Tetarimycin A</td><td align="left" rowspan="1" colspan="1">Polyketide</td><td align="left" rowspan="1" colspan="1">MRSA</td><td align="left" rowspan="1" colspan="1">Metagenomic DNA</td><td align="left" rowspan="1" colspan="1">Heterologous expression in <italic>Streptomyces albus</italic> J1074</td><td align="left" rowspan="1" colspan="1">(Kallifidas <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0050" ref-type="ref">2012</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Cosmomycins</td><td align="left" rowspan="1" colspan="1">Polyketides</td><td align="left" rowspan="1" colspan="1">Cytotoxic</td><td align="left" rowspan="1" colspan="1">
+<italic>Streptomyces</italic> sp. CNT&#x02010;302</td><td align="left" rowspan="1" colspan="1">Heterologous expression in <italic>Streptomyces coelicolor</italic> M512</td><td align="left" rowspan="1" colspan="1">(Larson <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0060" ref-type="ref">2017</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Alterochromide</td><td align="left" rowspan="1" colspan="1">Lipopeptide</td><td align="left" rowspan="1" colspan="1">Antibacterial, cytotoxic</td><td align="left" rowspan="1" colspan="1">
+<italic>Pseudoalteromonas piscicida</italic> JCM 20779</td><td align="left" rowspan="1" colspan="1">Heterologous expression in <italic>Escherichia coli</italic> BL21(DE3)</td><td align="left" rowspan="1" colspan="1">(Ross <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0093" ref-type="ref">2015</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Taromycin A</td><td align="left" rowspan="1" colspan="1">NP peptide</td><td align="left" rowspan="1" colspan="1">Antibacterial</td><td align="left" rowspan="1" colspan="1">
+<italic>Saccharomonospora</italic> sp. CNQ490</td><td align="left" rowspan="1" colspan="1">Heterologous expression in <italic>Streptomyces coelicolor</italic> M512</td><td align="left" rowspan="1" colspan="1">(Yamanaka <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0115" ref-type="ref">2014</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Streptoseomycin</td><td align="left" rowspan="1" colspan="1">Polyketide</td><td align="left" rowspan="1" colspan="1">
+<italic>Helicobacter pylori</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Streptomyces seoulensis</italic> A01</td><td align="left" rowspan="1" colspan="1">Heterologous expression in <italic>Streptomyces chartreusis</italic> 1018</td><td align="left" rowspan="1" colspan="1">(Zhang <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0119" ref-type="ref">2018</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Actinoallolides</td><td align="left" rowspan="1" colspan="1">Polyketides</td><td align="left" rowspan="1" colspan="1">Anti&#x02010;trypanosomal</td><td align="left" rowspan="1" colspan="1">
+<italic>Actinoallomurus fulvus</italic> MK10&#x02010;037</td><td align="left" rowspan="1" colspan="1">Heterologous expression in <italic>Streptomyces coelicolor</italic> M1152</td><td align="left" rowspan="1" colspan="1">(Inahashi <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0045" ref-type="ref">2018</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Thaxtomins</td><td align="left" rowspan="1" colspan="1">Nitrated diketopiperazines</td><td align="left" rowspan="1" colspan="1">Herbicide</td><td align="left" rowspan="1" colspan="1">
+<italic>Streptomyces scabiei</italic> 87.22</td><td align="left" rowspan="1" colspan="1">Heterologous expression in <italic>Streptomyces albus</italic> J1074</td><td align="left" rowspan="1" colspan="1">(Jiang <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0049" ref-type="ref">2018</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Syringolin</td><td align="left" rowspan="1" colspan="1">NR peptide</td><td align="left" rowspan="1" colspan="1">Cytotoxic</td><td align="left" rowspan="1" colspan="1">
+<italic>Pseudomonas syringae pv. syringae</italic> (Pss) B728a</td><td align="left" rowspan="1" colspan="1">Heterologous expression in <italic>Streptomyces lividans</italic> TK24</td><td align="left" rowspan="1" colspan="1">(Huang <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0041" ref-type="ref">2018</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Pseudomycoicidin</td><td align="left" rowspan="1" colspan="1">Lantibiotic</td><td align="left" rowspan="1" colspan="1">Antibacterial</td><td align="left" rowspan="1" colspan="1">
+<italic>Bacillus pseudomycoides</italic> DSM 12442</td><td align="left" rowspan="1" colspan="1">Heterologous expression in <italic>Escherichia coli</italic> BL21(DE3)</td><td align="left" rowspan="1" colspan="1">(Basi&#x02010;Chipalu <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0006" ref-type="ref">2015</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Amicoumacin</td><td align="left" rowspan="1" colspan="1">Dihydroisocoumarin</td><td align="left" rowspan="1" colspan="1">Antibacterial</td><td align="left" rowspan="1" colspan="1">
+<italic>Bacillus subtilis</italic> 1779</td><td align="left" rowspan="1" colspan="1">Heterologous expression in <italic>Bacillus subtilis</italic> JH642</td><td align="left" rowspan="1" colspan="1">(Li <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0065" ref-type="ref">2015</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Pyxidicyclines</td><td align="left" rowspan="1" colspan="1">Polyketides</td><td align="left" rowspan="1" colspan="1">Topoisomerase inhibitor</td><td align="left" rowspan="1" colspan="1">
+<italic>Pyxidicoccus fallax</italic> An d48</td><td align="left" rowspan="1" colspan="1">BGC activation and heterologous expression</td><td align="left" rowspan="1" colspan="1">(Panter <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0086" ref-type="ref">2018</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Chattamycins</td><td align="left" rowspan="1" colspan="1">Polyketides</td><td align="left" rowspan="1" colspan="1">Cytotoxic</td><td align="left" rowspan="1" colspan="1">
+<italic>Streptomyces chattanoogensis</italic> L10</td><td align="left" rowspan="1" colspan="1">Overexpression of pathway&#x02010;specific activator</td><td align="left" rowspan="1" colspan="1">(Zhou <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0120" ref-type="ref">2015</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Stambomycins</td><td align="left" rowspan="1" colspan="1">Polyketides</td><td align="left" rowspan="1" colspan="1">Cytotoxic</td><td align="left" rowspan="1" colspan="1">
+<italic>Streptomyces ambofaciens</italic> ATCC 23877</td><td align="left" rowspan="1" colspan="1">Overexpression of pathway&#x02010;specific activator</td><td align="left" rowspan="1" colspan="1">(Laureti <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0061" ref-type="ref">2011</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Coelimycin P1</td><td align="left" rowspan="1" colspan="1">Polyketide</td><td align="left" rowspan="1" colspan="1">Antibacterial</td><td align="left" rowspan="1" colspan="1">
+<italic>Streptomyces coelicolor</italic> A3(2)</td><td align="left" rowspan="1" colspan="1">Inactivation of pathway&#x02010;specific repressor</td><td align="left" rowspan="1" colspan="1">Gomez&#x02010;Escribano <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0032" ref-type="ref">2012</xref>;</td></tr><tr><td align="left" rowspan="1" colspan="1">Gacamide A</td><td align="left" rowspan="1" colspan="1">Lipopeptide</td><td align="left" rowspan="1" colspan="1">Antibacterial</td><td align="left" rowspan="1" colspan="1">
+<italic>Pseudomonas fluorescens</italic> Pf0&#x02010;1</td><td align="left" rowspan="1" colspan="1">Repair of defective pathway&#x02010;specific activator</td><td align="left" rowspan="1" colspan="1">Jahanshah <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0046" ref-type="ref">2019</xref>;</td></tr><tr><td align="left" rowspan="1" colspan="1">Atolypenes</td><td align="left" rowspan="1" colspan="1">Sesterterpenes</td><td align="left" rowspan="1" colspan="1">Cytotoxic</td><td align="left" rowspan="1" colspan="1">
+<italic>Amycolatopsis tolypomycina</italic> NRRL B&#x02010;24205</td><td align="left" rowspan="1" colspan="1">Cas9&#x02010;TAR BGC refactoring</td><td align="left" rowspan="1" colspan="1">Kim <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0053" ref-type="ref">2018</xref>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><sec id="mbt213398-sec-0006"><title>Host engineering and heterologous expression of BGCs</title><p>Although the idea of heterologous production of a secondary metabolite is not new, only recently a significant progress has been made in this approach, mainly due to the use of engineered bacterial hosts. Quite often, bacterial producers of new bioactive compounds are barely cultivable and cannot be used in the industrial setting that requires good growth characteristics and yields allowing profitable operation. The robust, fast&#x02010;growing bacterial host able to biosynthesize a wide spectrum of compounds can be used for heterologous expression of entire biosynthetic pathways from such &#x02018;problematic&#x02019; bacteria. <italic>Escherichia coli</italic> and the representatives of genus <italic>Streptomyces</italic> are known as suitable heterologous hosts for this purpose. Although <italic>E.&#x000a0;coli</italic> is easy to cultivate and a well&#x02010;developed toolbox for gene manipulations is available for this bacterium, many secondary metabolites cannot be easily produced in this host because of the lack of specific precursors, sigma factors for the recognition of alien promoters, problems with protein folding or toxicity of the final products. From this point of view, <italic>Streptomyces</italic> bacteria have the advantages of availability of pathways for the biosynthesis of many precursors, post&#x02010;translational modification machinery and genes for resistance against a variety of toxic compounds such as antibiotics. However, streptomycetes often produce their own secondary metabolites, thus channelling away precursors needed for the biosynthesis of an exogenous compound, leading to the decreased yield and complicating the purification. Thus, elimination of the competing endogenous pathways by deleting corresponding BGCs became the major theme in construction of several &#x02018;bacterial chasses&#x02019; for heterologous expression.</p><p>Such hosts based on <italic>Streptomyces coelicolor</italic> M145 have been constructed (Gomez&#x02010;Escribano and Bibb, <xref rid="mbt213398-bib-0031" ref-type="ref">2011</xref>) by deleting four antibiotic BGCs (for actinorhodin, undecylprodigiosin, calcium&#x02010;dependent antibiotic and coelimycin) to increase the precursors pool and simplify the metabolic profile. In addition, point mutations into the genes <italic>rpoB</italic> and <italic>rpsL</italic> were introduced to pleiotropically increase the production of secondary metabolites via so&#x02010;called ribosome engineering (Ochi <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0084" ref-type="ref">2004</xref>). To assess the efficiency of new surrogate host, exogenous BGCs for chloramphenicol from <italic>Streptomyces venezuelae</italic> ATCC 10712 and congocidine from <italic>Streptomyces ambofaciens</italic> have been introduced into the engineered strain. Further analysis confirmed not only the heterologous expression of both clusters, but also the elevated, in comparison with the native strains, level of production of chloramphenicol and congocidine. Two of these engineered <italic>S.&#x000a0;coelicolor</italic> hosts, M1152 and M1154, have later been also found useful for heterologous expression of a wide spectrum of BGCs, such as the ones for indolocarbazole, aminocoumarines, liponucleoside and thiopeptides (Flinspach <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0027" ref-type="ref">2010</xref>, <xref rid="mbt213398-bib-0028" ref-type="ref">2014</xref>; Li <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0064" ref-type="ref">2013</xref>; Linares&#x02010;Otoya <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0066" ref-type="ref">2017</xref>). Additional engineering steps have been performed in order to make <italic>S.&#x000a0;coelicolor</italic> M1152 to efficiently produce compounds biosynthesized by type III PKS (Thanapipatsiri <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0106" ref-type="ref">2015</xref>). For this purpose, three endogenous type III PKS genes have been removed from the chromosome to make a clean background for heterologous expression of type III PKS genes from different organisms. Such mutant strain, designated M1317, was validated by the production of germicidin and flaviolin after reintroduction of germicidin synthase gene <italic>gcs</italic> of <italic>S.&#x000a0;coelicolor</italic> and <italic>rppA</italic> homologue from <italic>S.&#x000a0;venezuelae</italic> respectively.</p><p>
+<italic>Streptomyces lividans</italic> is closely related to <italic>S.&#x000a0;coelicolor</italic> and is successfully used as a host for heterologous production of both proteins (Ann&#x000e9; and Van Mellaert, <xref rid="mbt213398-bib-0003" ref-type="ref">1993</xref>) and secondary metabolites (Eustaquio <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0026" ref-type="ref">2005</xref>). Recently, a set of <italic>S.&#x000a0;lividans</italic> TK24 mutants, designated RedStrep strains, have been developed by sequential deletions of clusters predicted to be potentially interfering with the production of antitumoral polyketide mithramycin A (MTM) (Nov&#x000e1;kov&#x000e1; <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0082" ref-type="ref">2018</xref>). The entire biosynthetic gene cluster of mithramycin A from <italic>Streptomyces argillaceus</italic> ATCC12956 was introduced into <italic>S.&#x000a0;lividans</italic> TK24 wild type and RedStrep strains. While parent strain TK24 was able to produce MTM in amount of 850&#x000a0;mg&#x000a0;l<sup>&#x02212;1</sup>, the deletion of actinorhodine, undecylprodigiosin and calcium&#x02010;dependent antibiotic BGCs resulted in the production of almost 3&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup> MTM, which by far surpassed the production of MTM in the native strain <italic>S</italic>.&#x000a0;<italic>argillaceus</italic>.</p><p>Significant genome reduction in <italic>Streptomyces avermitilis</italic> has been achieved via a series of sequential large deletions, yielding a new heterologous production host (Komatsu <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0054" ref-type="ref">2010</xref>). The region of ca. 1.4&#x000a0;Mb containing the BGCs for major metabolites produced by the parent strain was deleted. To confirm the suitability of the new hosts for heterologous production, exogenous BGCs for streptomycin from <italic>S.&#x000a0;griseus</italic> IFO 13350<italic>,</italic> cephamycin C from <italic>Streptomyces clavuligerus</italic> ATCC 27064 and pladienolide from <italic>Streptomyces platensis</italic> 11107 have been introduced into the wild type and engineered strains. The first two metabolites were produced in mutants at levels higher than in the wild&#x02010;type <italic>S.&#x000a0;avermitilis</italic> and also by the native producers. Pladienolide at first was not produced, but the problem was alleviated by introduction of a copy of the regulatory gene <italic>pldR</italic> under control of an alternative promotor. Engineered <italic>S.&#x000a0;avermitilis</italic> strains SUKA17 and SUKA22 were later used to express more than 20 BGCs for secondary metabolites with different chemical structures and from different hosts (Komatsu <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0055" ref-type="ref">2013</xref>).</p><p>Recently, a new host based on genome&#x02010;reduced <italic>S.&#x000a0;albus</italic> J1074 has been reported (Myronovskyi <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0078" ref-type="ref">2018</xref>). Deletion of 15 BGCs from the chromosome of <italic>S.&#x000a0;albus</italic> yielded strain Del14, which utility for heterologous expression was confirmed for BGCs specifying chemically diverse metabolites (PKS types I and II, glycosylated phospholipid, lantibiotic, nucleoside). The strain Del14 showed enhanced production of secondary metabolites compared to <italic>S.&#x000a0;albus</italic> J1074 and <italic>S.&#x000a0;coelicolor</italic> M1152 and M1154. Additional changes in the genome of Del14 have been made by introduction of phage <italic>phi</italic>C31 <italic>attB</italic> attachment sites, yielding strains B2P1 and B4. This step allowed the integration of multiple copies of heterologous BGCs into the chromosome and resulted in improved yields of six out of eight exogenous compounds tested.</p><p>In parallel with the engineering of heterologous hosts, novel methods for cloning of entire BGCs were rapidly developing over the last decade. Previously, most of the BGCs were assembled using lambda&#x02010;red &#x02018;recombineering&#x02019; (Gust <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0036" ref-type="ref">2004</xref>), a robust but labour&#x02010; and time&#x02010;consuming procedure. Transformation&#x02010;associated recombination in yeast (Kim <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0052" ref-type="ref">2010</xref>) offered an excellent alternative for the assembly of large BGCs either from several overlapping PCR products encompassing entire BGC (Bilyk <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0007" ref-type="ref">2016</xref>), by direct capture of the whole BGC (Yamanaka <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0115" ref-type="ref">2014</xref>), or assembly from restriction fragments isolated from a genomic library covering entire BGC (Nov&#x000e1;kov&#x000e1; <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0082" ref-type="ref">2018</xref>). A prerequisite for the successful cloning/assembly of large BGCs in yeast was construction of specialized &#x02018;capture&#x02019; vectors capable of replicating in <italic>E.&#x000a0;coli</italic> and yeast, and integrating into the genome of the host chosen for heterologous expression. Details on various modern methods currently employed for this purpose can be found in recent reviews (e.g. Luo <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0071" ref-type="ref">2016</xref>).</p><p>Several other examples on successful heterologous expression of the BGCs, including ones accomplished in hosts other than streptomycetes, are presented in Table&#x000a0;<xref rid="mbt213398-tbl-0001" ref-type="table">1</xref>. Those include targeted genome mining leading to the discovery of pseudomycoicidin from <italic>Bacillus pseudomycoides</italic> DSM 12442 via heterologous expression of its BGC in <italic>E.&#x000a0;coli</italic> (Basi&#x02010;Chipalu <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0006" ref-type="ref">2015</xref>). Here, the NCBI database was specifically searched for proteins with high homology to mersacidin biosynthetic enzyme (MrsM), which is involved in post&#x02010;translational modification of the pre&#x02010;peptide (Altena <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0002" ref-type="ref">2000</xref>). <italic>In silico</italic> analysis revealed a new class II lantibiotic gene cluster in <italic>B.&#x000a0;pseudomycoides</italic> DSM 12442. Putative new BGC for this lantibiotic was heterologously expressed in <italic>E.&#x000a0;coli</italic> BL21, and its production was detected via matrix&#x02010;assisted laser desorption ionization&#x02013;time&#x02010;of&#x02010;flight mass spectrometry (MALDI&#x02010;TOF MS) (Basi&#x02010;Chipalu <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0006" ref-type="ref">2015</xref>). Interestingly, 6&#x000a0;years before discovery of pseudomycoicidin, the same group followed this procedure for detection of potentially new lantibiotics in NCBI database and was able to identify novel two&#x02010;peptide lantibiotic lichenicidin in <italic>Bacillus licheniformis</italic> DSM 13. However, in this work, new peptides were produced in <italic>B.&#x000a0;licheniformis</italic> host and the compound&#x02010;BGC connection was determined using gene knockout in the original host (Dischinger <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0021" ref-type="ref">2009</xref>).</p><p>Applying isolate&#x02010;based genome mining approach (see Fig.&#x000a0;<xref rid="mbt213398-fig-0003" ref-type="fig">3</xref>), genomes of bacteria obtained from unusual environments can be scanned for unique BGCs that may govern biosynthesis of novel natural products. A good example of such isolate&#x02010;based genome mining is the identification of a lipopeptide&#x02010;type antibiotic taromycin A from <italic>Saccharomonospora</italic> sp. CNQ&#x02010;490 isolated from marine sediments collected at the mouth of the La Jolla Submarine Canyon. Bioinformatics analysis of the 4.9&#x02010;Mb draft genome sequence of this bacterium revealed 19 BGCs, indicating a potential to produce diverse secondary metabolites (Yamanaka <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0115" ref-type="ref">2014</xref>). BGC for taromycin A is silent in <italic>Saccharomonospora</italic> sp. CNQ&#x02010;490, and its expression was carried out in heterologous host <italic>S.&#x000a0;coelicolor</italic> M512. In this case, a forced expression of the pathway&#x02010;specific regulator was necessary to achieve production of taromycin A, which demonstrated moderate calcium&#x02010;dependent activity against several Gram&#x02010;positive bacteria (Yamanaka <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0115" ref-type="ref">2014</xref>).</p><p>Whether the BGC of interest is present in the native host, or transferred to a heterologous one, its expression can be activated by various methods. It can be achieved via supplementing growth media with elicitors (Xu <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0114" ref-type="ref">2018</xref>), by targeting global regulators (Huang <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0040" ref-type="ref">2016</xref>) or pathway&#x02010;specific regulators (Tu <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0108" ref-type="ref">2018</xref>). Some of these strategies are discussed in more details below.</p></sec><sec id="mbt213398-sec-0007"><title>Genes&#x02010;to&#x02010;compound connection</title><p>When, upon genome analysis, a potentially novel BGC is discovered, its product may be identified upon inactivation of a particular biosynthetic gene coupled with comparative metabolic profiling of the wild type and mutant strains using HPLC and/or LC&#x02010;MS. This strategy was used for the discovery of coelichelin from <italic>S.&#x000a0;coelicolor</italic>, when a cryptic NRPS gene cluster was inactivated and the association of this BGC to its product could be made using comparative metabolomics (Lautru <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0062" ref-type="ref">2005</xref>). This approach does not require the compound specified by a cryptic BGC to be bioactive and relies solely on the comparison of metabolic profiles. This can be advantageous, since bioactivity of a new compound may not be readily detectable. Once a novelty is established, the new compound can be purified and sent to many partners that may have complementary assays at hand. At the same time, genome mining combined with a phenotype brought about by the production of a particular metabolite is rather straight forward and allows to connect BGC with the compound of interest. For example, bioassays can be combined with a phenotype&#x02010;based genome mining approach (Fig.&#x000a0;<xref rid="mbt213398-fig-0003" ref-type="fig">3</xref>) when a particular bacterial strain produces as yet uncharacterized bioactive compound for which neither chemical structure nor biosynthetic pathway is known.</p><p>Recently, <italic>Streptomyces</italic> sp. NP10 strain was isolated, which is characterized by unusually high production of free fatty acids (FAs) (Ilic&#x02010;Tomic <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0044" ref-type="ref">2015</xref>). A lipidomics study on this strain revealed a large structural diversity of produced FAs with over 50 different <italic>n</italic> and branched chain, (un)saturated and cyclopropane FAs (C<sub>7</sub>&#x02013;C<sub>30</sub>). Two of these, <italic>i</italic>&#x02010;17:0cy9&#x02010;10 and <italic>a</italic>&#x02010;18:0cy9&#x02010;10, represent new natural products (Ilic&#x02010;Tomic <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0044" ref-type="ref">2015</xref>). Based on the genome analysis of this strain coupled to gene inactivation, our group successfully identified a unique FA biosynthesis gene cluster responsible for this particular phenotype (Schneider <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0095" ref-type="ref">2018a</xref>).</p><p>Using the same approach, we were also able to make a clear connection between antibacterial activity of <italic>Streptomyces</italic> sp. YIM 130001 isolated from lichen, the compound responsible for this activity and a cognate BGC (Schneider <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0096" ref-type="ref">2018b</xref>). The identified bioactive compound turned out to be a thiopeptide closely related to geninthiocin A, for which BGC has not yet been described. Analyses of the genes in the identified BGCs showed them to be very similar to those involved in the biosynthesis of another closely related thiopeptide antibiotic, berninamycin (Malcolmson <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0072" ref-type="ref">2013</xref>).</p><p>Genome mining aimed at connecting compounds to particular BGCs was also recently used for myxobacterium <italic>Chondromyces crocatus</italic> Cm c5, which produces judazoles, chondramides, crocacins, chondrochlorens, thuggacins, crocapeptins and crocagins. All the secondary metabolites mentioned above were presumed to be synthesized by NRPS. Analysis of the genome sequence revealed the presence of at least 11 NRPS BGCs, most of which must be cryptic, and it was not possible to connect them to the cognate compounds based on bioinformatics only. All 11 BGCs were inactivated by gene disruptions, and resulting recombinant strains subjected to the secondary metabolomics study, which allowed identification of BGC for crocadepsins (Surup <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0105" ref-type="ref">2018</xref>).</p></sec><sec id="mbt213398-sec-0008"><title>Manipulation of regulatory genes and promoters</title><p>The vast majority of BGCs for secondary metabolites contain pathway&#x02010;specific regulatory genes, which can be represented by transcriptional activators and/or repressors. It is logical to assume that some BGCs may be not expressed due to the lack of expression of activators or constitutive expression of repressors. In a pioneering study by Gottelt <italic>et&#x000a0;al</italic>. (<xref rid="mbt213398-bib-0035" ref-type="ref">2010</xref>), researchers deleted a gene encoding ScbR, a &#x003b3;&#x02010;butyrolactone receptor&#x02010;like protein within a cryptic type I PKS gene cluster <italic>cpk</italic> in a model streptomycete bacterium, <italic>S.&#x000a0;coelicolor</italic> A3(2). Apparently, this protein acted as a repressor, since its deletion led to <italic>cpk</italic> cluster activation and production of an antibacterial compound later identified as coelimycin P1 (Gomez&#x02010;Escribano <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0032" ref-type="ref">2012</xref>).</p><p>Laureti <italic>et&#x000a0;al</italic>. (<xref rid="mbt213398-bib-0061" ref-type="ref">2011</xref>) demonstrated how expression of a pathway&#x02010;specific regulator can lead to activation of a silent BGC and result in a discovery of novel bioactive natural product. In this study, genome sequence of <italic>S.&#x000a0;ambofaciens</italic> ATCC 23877 was analysed, revealing, among other BGCs, an unusually large type I PKS cluster, which harboured a gene for LuxR&#x02010;type regulator. Expression of this regulator from a constitutive promoter apparently activated this gene cluster, and led to the discovery of a series of 51&#x02010;membered glycosylated macrolides, stambomycins, which exhibited anti&#x02010;proliferative activity.</p><p>This strategy for activation of silent BGCs was further developed by several research groups, which also used promoter replacement as an alternative approach for the clusters that do not contain any obvious pathway&#x02010;specific regulatory genes. Luo <italic>et&#x000a0;al</italic>. (<xref rid="mbt213398-bib-0070" ref-type="ref">2013</xref>) identified a silent PKS&#x02010;NRPS gene cluster in the genome of <italic>S.&#x000a0;griseus</italic> and used a combination of PCR and DNA synthesis to assemble it in yeast by means of transformation&#x02010;associated recombination. Importantly, all the biosynthetic genes in this semi&#x02010;synthetic cluster were placed under control of a constitutive promoter <italic>ermE</italic>*p. The refactored cluster was then introduced into <italic>S.&#x000a0;lividans</italic>, and recombinant strain was shown to produce new polycyclic tetramate macrolactams (Luo <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0070" ref-type="ref">2013</xref>).</p><p>Lately, a combination of several methods of genome mining is gaining momentum, exemplified by the example of <italic>S.&#x000a0;albus</italic> J1074, a well&#x02010;known host frequently used for heterologous expression of exogenous BGCs. Olano <italic>et&#x000a0;al</italic>. (<xref rid="mbt213398-bib-0085" ref-type="ref">2014</xref>) have selected five BGCs in the genome of this bacterium, which they manipulated by either inserting strong constitutive promoter upstream of the biosynthetic genes, overexpressing pathway&#x02010;specific regulators or gene deletion. This strategy has led to isolation of novel polycyclic tetramate macrolactams, activation of candicidin and antimycin biosynthesis, and identification of paulomycins BGC (Olano <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0085" ref-type="ref">2014</xref>). The same group further expanded this approach to genome mining of <italic>Streptomyces agrillaceus</italic> by repressor inactivation and engineering precursor supply, which in combination led to the discovery of six new alkaloids (Ye <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0116" ref-type="ref">2017</xref>).</p></sec></sec><sec id="mbt213398-sec-0009"><title>Engineering of bacterial natural product biosynthesis pathways</title><p>Bacterial secondary metabolites have evolved to serve a particular biological function that is beneficial for the producer, while not necessarily being optimal for use as human drugs. Poor solubility and pharmacokinetics, general toxicity and off&#x02010;target effects may prevent bioactive bacterial natural products from being developed into drugs. Although modifications by means of synthetic chemistry or total synthesis to generate analogues with improved drug&#x02010;like properties are viable strategies to overcome these hurdles, such approaches are often cost&#x02010;prohibiting, too complicated or even impossible for particular molecular moieties. In the past three decades, an alternative approach of biosynthetic engineering has emerged that is based on solid knowledge of the biosynthetic pathway leading to a particular metabolite and the ability to manipulate it in a way that leads to production of a desired analogue. One of the first examples of such engineered compounds was analogues of macrolide antibiotics, which are synthesized by multi&#x02010;modular type I PKS. The biosynthetic logic of these enzymes [for review, see (Weissman, <xref rid="mbt213398-bib-0112" ref-type="ref">2004</xref>)] allows to make predictable changes in the macrolactam rings of these antibiotics, thereby generating novel compounds with altered ring size and degrees of reduction (Weissman, <xref rid="mbt213398-bib-0113" ref-type="ref">2016</xref>). Although the biosynthetic engineering principle was first tested on erythromycin, an antibacterial macrolide antibiotic from <italic>Saccharopolyspora erythraea</italic> (Donadio <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0023" ref-type="ref">1993</xref>), no clinically useful analogues with improved activity were reported. The precedent, however, prompted others to use biosynthetic engineering in order to improve pharmacological properties of bacterial natural products. One of such examples is provided by the biosynthetic engineering of nystatin, an antifungal polyene macrolide produced by <italic>Streptomyces noursei</italic> ATCC 11455, and used since 1950s to treat superficial fungal infections. The main disadvantage of nystatin is its toxicity upon systemic administration, which could lead to severe side&#x02010;effects. The nystatin BGC encompassing six modular PKS type I and accessory genes was cloned and genes&#x02019; functions determined by gene knockouts and bioinformatics analyses (Brautaset <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0012" ref-type="ref">2000</xref>). When the biosynthetic machinery behind nystatin biosynthesis was understood, specific parts of its molecule, in particular, polyene region, carboxyl group and the polyol region, have been changed by genetic engineering of corresponding enzymes. A series of genetically engineered nystatin analogues have been generated and tested <italic>in&#x000a0;vitro</italic> for antifungal and haemolytic activities (Brautaset <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0013" ref-type="ref">2008</xref>). The data acquired on structure&#x02013;activity&#x02013;toxicity allowed the selection of the most potent and less toxic compounds. <italic>In vivo</italic> tests further revealed that two of the analogues, BSG005 and BSG020, performed better than amphotericin B, the only polyene macrolide antibiotic currently used to treat systemic fungal infections. The BSG005 analogue is currently in late preclinical development as an antifungal drug for human therapy.</p><p>Another example, also taking advantage of the modular enzyme architecture, is represented by daptomycin, the lipopeptide antibiotic produced by <italic>Streptomyces roseosporus</italic> currently used (under trade name Cubicin) to treat systemic infections caused by Gram&#x02010;positive bacteria. Daptomycin is synthesized by the modular NRPS, making its biosynthetic pathway amenable to genetic modifications by swapping the domains, modules and subunits in an approach called &#x02018;combinatorial biosynthesis&#x02019; [for review, see (Kries, <xref rid="mbt213398-bib-0056" ref-type="ref">2016</xref>)]. Multiple attempts to engineer daptomycin NRPS have been made by combining gene deletions and multiple module exchanges, generating a library of ca 120 new lipopeptides, over 40 of which have been produced in quantities allowing further investigations on their structures and antibacterial activities. Some of them indeed demonstrated better pharmacological properties by having the activity similar to daptomycin but lower mammalian toxicity (Doekel <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0022" ref-type="ref">2008</xref>; Nguyen <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0080" ref-type="ref">2010</xref>).</p><p>Combinatorial biosynthesis is not restricted to modular enzymes&#x02019; engineering. This approach has also been applied to mithramycin, glycosylated aromatic polyketide used for treatment of several types of cancer, but known to have a severe toxicity. The mithramycin BGC has been cloned from <italic>S.&#x000a0;argillaceus</italic> ATCC 12956, and its biosynthetic pathway was characterized. The information on the pathway was used to genetically engineer the cluster by changing mithramycin glycosylation profile via sugar moiety modifications or substitutions and combinations of different approaches, including bioconversions and lipase&#x02010;based biocatalysis (Remsing <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0092" ref-type="ref">2003</xref>; Baig <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0004" ref-type="ref">2008</xref>). These efforts led to the generation of more than 90 mithramycin analogues, among them compounds with lower toxicity and higher activity, which were chosen as candidates for drug development. The clinical trial for improved mithramycin analogues is currently under way (N&#x000fa;&#x000f1;ez <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0083" ref-type="ref">2012</xref>; M&#x000e9;ndez <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0076" ref-type="ref">2015</xref>).</p></sec><sec id="mbt213398-sec-0010"><title>Application of synthetic biology tools for drug discovery in bacteria</title><p>Synthetic biology, a new discipline which emerged quite recently (Keasling, <xref rid="mbt213398-bib-0051" ref-type="ref">2012</xref>), involves application of engineering principles to biological systems in order to build new biological systems and organisms with pre&#x02010;programmed features. Synthetic biology focuses on the modelling and construction of standard interchangeable parts and devices (promoters, Shine&#x02013;Dalgarno sequences, ORFs, terminators, genetic circuits) and assembling them into new biological systems such as novel metabolic pathways. Using the principles and technologies of synthetic biology, bacterial BGCs can be redesigned, the new pathways introduced into the hosts pre&#x02010;engineered for biosynthesis of particular compounds specified by this BGC, and used in a plug&#x02010;and&#x02010;play manner (Medema <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0074" ref-type="ref">2011</xref>).</p><p>Reorganizations of metabolic pathways, also termed &#x02018;refactoring&#x02019;, must take into account the levels of gene expression. Ideally, enzymes should be produced only in the amounts sufficient to catalyse specific reactions, and excessive synthesis of enzymes is too energy&#x02010;demanding or could be even toxic for the cell. Gene expression in bacterial BGCs is usually tightly regulated by a complex system consisting of several layers of regulation (Liu <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0068" ref-type="ref">2013</xref>). The regulatory synthetic devices or synthetic genetic circuits control the target biological process by sensing the environmental signals and responding accordingly. Nowadays, many synthetic genetic circuits offer new possibilities for controlling BGCs, including those based on ribozymes (Shen <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0099" ref-type="ref">2015</xref>), riboswitches (Serganov and Nudler, <xref rid="mbt213398-bib-0098" ref-type="ref">2013</xref>) and inducible dual control systems, where the interchangeable inducible promoters of different strength are induced by a range of inducer concentrations, allowing tuning of gene expression in bacteria (Brophy and Voigt, <xref rid="mbt213398-bib-0014" ref-type="ref">2014</xref>; Horbal and Luzhetskyy, <xref rid="mbt213398-bib-0038" ref-type="ref">2016</xref>). Although application of these circuits for controlling secondary metabolism in bacteria is currently still in the early stage, they will certainly become valuable in the future biotech industry, especially for controlled production of valuable drugs.</p><p>Synthetic biology also offers possibilities for construction of <italic>in&#x000a0;vivo</italic> biosensors, the synthetic devices for selection of strains producing specific compounds and intermediates as a tool that greatly simplifies genome mining and screening. Biosensors reacting to production of specific secondary metabolites can replace laborious and time&#x02010;consuming analytical chemistry needed to analyse the results of genome mining. Certain types of biosensors are based on proteins which are able to translate the chemical information (target compound) into fluorescent or colorimetric signal, which makes the screening fast and convenient (DeLoache <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0019" ref-type="ref">2015</xref>). Recently, several attempts to build biosensors reacting to target compounds and allowing selection of high&#x02010;producing strains have been reported. Based on the TetR&#x02010;like repressors, which are very abundant in the BGCs, and <italic>bpsA</italic> reporter gene encoding indigoidine synthetase, the proof of principle was obtained by detecting production of target antibiotic coelimycin by a biosensor (Sun <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0104" ref-type="ref">2017</xref>). In another case, the constructed biosensor was used to improve production of antibiotic pamamycin (Reberts <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0090" ref-type="ref">2018</xref>). In this work, the biosensor built based on the native TetR&#x02010;like repressor proved to be suboptimal, but was then fine&#x02010;tuned by altering the promoter and operator regions of the reporter, as well as the ligand affinity of the repressor. Although the attempts were successful, and much useful information has been obtained, these tools still need to be improved to make them robust and applicable to a wide variety of BGCs that are still not characterized with respect to their products.</p><p>Synthetic biology also inspired application of the CRISPR/Cas9 genome editing technologies for the discovery of new natural products in bacteria. (Cobb <italic>et&#x000a0;al</italic>. (<xref rid="mbt213398-bib-0016" ref-type="ref">2014</xref>) applied this technique for <italic>Streptomyces</italic> gene editing, deleting the entire undecylprodigiosin BGC from the chromosome of <italic>S.&#x000a0;lividans</italic> 66. A year later, several groups demonstrated the efficacy of the method by performing single and multiple gene deletions and point mutations in the genomes of <italic>Streptomyces</italic> spp. (Huang <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0039" ref-type="ref">2015</xref>; Zeng <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0117" ref-type="ref">2015</xref>). There is also a progress in application of the system for CRISPR/Cas9&#x02010;mediated activation of cryptic BGCs in <italic>Streptomyces</italic> (Zhang <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0118" ref-type="ref">2017</xref>), manipulating the BSGs (Liu <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0069" ref-type="ref">2015</xref>) and cloning and refactoring of BGCs for heterologous expression. Cloning the big BGCs of 100&#x000a0;kb or larger is still a bottleneck in heterologous expression. In recent studies, CRISPR/Cas9 approach was combined with Gibson assembly and TAR cloning allowing to clone up to 100&#x000a0;kb of intact DNA, improve the efficiency of TAR and even assemble megabase&#x02010;sized fragment of DNA by homologous recombination assembly (CasHRA) (Jiang <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0048" ref-type="ref">2015</xref>; Wang <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0109" ref-type="ref">2015</xref>, <xref rid="mbt213398-bib-0110" ref-type="ref">2016</xref>; Zhou <italic>et&#x000a0;al</italic>., <xref rid="mbt213398-bib-0121" ref-type="ref">2016</xref>). Considering the above, CRISPR/Cas9&#x02010;based methodologies appear to be very promising tools for the discovery of novel bioactive secondary metabolites in bacteria.</p></sec><sec id="mbt213398-sec-0011"><title>Conclusion</title><p>Despite a clear scepticism from the pharmaceutical companies regarding bacterial natural products, most of which traditionally been antibiotics, a considerable effort is being made by scientific community to prove that many new drugs can still be developed from bacterial secondary metabolites. New ways of how previously uncultivable bacteria can be isolated, exploration of unique environments, and metagenomic&#x02010;assisted isolation methods will certainly provide bacterial producers of new bioactive compounds. Recent developments in analytic techniques allowing fast de&#x02010;replication and identification of compounds&#x02019; chemical classes and structural features will greatly support the bacterial bioprospecting for new drugs. Development and application of new assays for bioactivities (e.g. for quorum sensing inhibitors, pain suppressors and bioactive compounds against Alzheimer disease) will help to identify compounds that were previously not detected simply because there were no corresponding assays. Genome mining will definitely expand to more bacterial species and BGCs, providing new bioactive compounds via a combination of different methods, including those inspired by synthetic biology. Once discovered, the new compounds will have to be produced at a scale allowing biological testing for pharmacological properties. Therefore, the supply issue will have to be addressed by both refactoring of the BGCs and streamlining metabolism of the host through metabolic engineering, focusing on metabolic flux through target pathway, robustness of the producer and balancing precursor supply. Considering all the advances made in bacterial biology over the last two decades, the future for the discovery of novel drug candidates from bacteria looks bright.</p></sec><sec sec-type="COI-statement" id="mbt213398-sec-0013"><title>Conflict of interest</title><p>Authors declare that they do not have conflict of interest.</p></sec></body><back><ack id="mbt213398-sec-0012"><title>Acknowledgements</title><p>This work was supported by the University of Vienna.</p></ack><ref-list content-type="cited-references" id="mbt213398-bibl-0001"><title>References</title><ref id="mbt213398-bib-0001"><mixed-citation publication-type="journal" id="mbt213398-cit-0001">
+<string-name>
+<surname>Alberti</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Leng</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Wilkening</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Tosin</surname>, <given-names>M.</given-names>,</string-name> and <string-name>
+<surname>Corre</surname>, <given-names>C.</given-names>
+</string-name> (<year>2019</year>) <article-title>Triggering the expression of a silent gene cluster from genetically intractable bacteria results in scleric acid discovery</article-title>. <source xml:lang="en">Chem Sci</source>
+<volume>10</volume>: <fpage>453</fpage>&#x02013;<lpage>463</lpage>.<pub-id pub-id-type="pmid">30746093</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0002"><mixed-citation publication-type="journal" id="mbt213398-cit-0002">
+<string-name>
+<surname>Altena</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Guder</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Cramer</surname>, <given-names>C.</given-names>
+</string-name>, and <string-name>
+<surname>Bierbaum</surname>, <given-names>G.</given-names>
+</string-name> (<year>2000</year>) <article-title>Biosynthesis of the lantibiotic mersacidin: organization of a type B lantibiotic gene cluster</article-title>. <source xml:lang="en">Appl Environ Microb</source>
+<volume>66</volume>: <fpage>2565</fpage>&#x02013;<lpage>2571</lpage>.</mixed-citation></ref><ref id="mbt213398-bib-0003"><mixed-citation publication-type="journal" id="mbt213398-cit-0003">
+<string-name>
+<surname>Ann&#x000e9;</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<surname>Van Mellaert</surname>, <given-names>L.</given-names>
+</string-name> (<year>1993</year>) <article-title>
+<italic>Streptomyces lividans</italic> as host for heterologous protein production</article-title>. <source xml:lang="en">FEMS Microbiol Lett</source>
+<volume>114</volume>: <fpage>121</fpage>&#x02013;<lpage>128</lpage>.<pub-id pub-id-type="pmid">8282181</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0004"><mixed-citation publication-type="journal" id="mbt213398-cit-0004">
+<string-name>
+<surname>Baig</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Perez</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bra&#x000f1;a</surname>, <given-names>A.F.</given-names>
+</string-name>, <string-name>
+<surname>Gomathinayagam</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Damodaran</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Salas</surname>, <given-names>J.A.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>Mithramycin analogues generated by combinatorial biosynthesis show improved bioactivity</article-title>. <source xml:lang="en">J Nat Prod</source>
+<volume>71</volume>: <fpage>199</fpage>&#x02013;<lpage>207</lpage>.<pub-id pub-id-type="pmid">18197601</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0005"><mixed-citation publication-type="journal" id="mbt213398-cit-0005">
+<string-name>
+<surname>Bartlett</surname>, <given-names>J.G.</given-names>
+</string-name>, <string-name>
+<surname>Gilbert</surname>, <given-names>D.N.</given-names>
+</string-name>, and <string-name>
+<surname>Spellberg</surname>, <given-names>B.</given-names>
+</string-name> (<year>2013</year>) <article-title>Seven ways to preserve the miracle of antibiotics</article-title>. <source xml:lang="en">Clin Infect Dis</source>
+<volume>56</volume>: <fpage>1445</fpage>&#x02013;<lpage>1450</lpage>.<pub-id pub-id-type="pmid">23403172</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0006"><mixed-citation publication-type="journal" id="mbt213398-cit-0006">
+<string-name>
+<surname>Basi&#x02010;Chipalu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Dischinger</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Josten</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Szekat</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zweynert</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sahl</surname>, <given-names>H.G.</given-names>
+</string-name>, and <string-name>
+<surname>Bierbaum</surname>, <given-names>G.</given-names>
+</string-name> (<year>2015</year>) <article-title>Pseudomycoicidin, a class II lantibiotic from <italic>Bacillus pseudomycoides</italic>
+</article-title>. <source xml:lang="en">Appl Environ Microb</source>
+<volume>81</volume>: <fpage>3419</fpage>&#x02013;<lpage>3429</lpage>.</mixed-citation></ref><ref id="mbt213398-bib-0007"><mixed-citation publication-type="journal" id="mbt213398-cit-0007">
+<string-name>
+<surname>Bilyk</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Sekurova</surname>, <given-names>O.N.</given-names>
+</string-name>, <string-name>
+<surname>Zotchev</surname>, <given-names>S.B.</given-names>
+</string-name>, and <string-name>
+<surname>Luzhetskyy</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>) <article-title>Cloning and heterologous expression of the grecocycline biosynthetic gene cluster</article-title>. <source xml:lang="en">PLoS One</source>
+<volume>11</volume>: <fpage>e0158682</fpage>.<pub-id pub-id-type="pmid">27410036</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0008"><mixed-citation publication-type="journal" id="mbt213398-cit-0008">
+<string-name>
+<surname>Bonet</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Teufel</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Cr&#x000fc;semann</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ziemert</surname>, <given-names>N.</given-names>
+</string-name>, and <string-name>
+<surname>Moore</surname>, <given-names>B.S.</given-names>
+</string-name> (<year>2014</year>) <article-title>Direct capture and heterologous expression of <italic>Salinispora</italic> natural product genes for the biosynthesis of enterocin</article-title>. <source xml:lang="en">J Nat Prod</source>
+<volume>78</volume>: <fpage>539</fpage>&#x02013;<lpage>542</lpage>.<pub-id pub-id-type="pmid">25382643</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0009"><mixed-citation publication-type="journal" id="mbt213398-cit-0009">
+<string-name>
+<surname>Bowers</surname>, <given-names>R.M.</given-names>
+</string-name>, <string-name>
+<surname>Kyrpides</surname>, <given-names>N.C.</given-names>
+</string-name>, <string-name>
+<surname>Stepanauskas</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Harmon&#x02010;Smith</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Doud</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Reddy</surname>, <given-names>T.B.K.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Minimum information about a single amplified genome (MISAG) and a metagenome&#x02010;assembled genome (MIMAG) of bacteria and archaea</article-title>. <source xml:lang="en">Nat Biotechnol</source>
+<volume>35</volume>: <fpage>725</fpage>&#x02013;<lpage>731</lpage>.<pub-id pub-id-type="pmid">28787424</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0010"><mixed-citation publication-type="journal" id="mbt213398-cit-0010">
+<string-name>
+<surname>Brady</surname>, <given-names>S.F.</given-names>
+</string-name> (<year>2007</year>) <article-title>Construction of soil environmental DNA cosmid libraries and screening for clones that produce biologically active small molecules</article-title>. <source xml:lang="en">Nat Protoc</source>
+<volume>2</volume>: <fpage>1297</fpage>&#x02013;<lpage>1305</lpage>.<pub-id pub-id-type="pmid">17546026</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0011"><mixed-citation publication-type="journal" id="mbt213398-cit-0011">
+<string-name>
+<surname>Brandao</surname>, <given-names>P.F.B.</given-names>
+</string-name>, <string-name>
+<surname>Torimura</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kurane</surname>, <given-names>R.</given-names>
+</string-name>, and <string-name>
+<surname>Bull</surname>, <given-names>A.T.</given-names>
+</string-name> (<year>2002</year>) <article-title>Dereplication for biotechnology screening: PyMS analysis and PCR&#x02010;RFLP&#x02010;SSCP (PRS) profiling of 16S rRNA genes of marine and terrestrial actinomycetes</article-title>. <source xml:lang="en">Appl Microbiol Biot</source>
+<volume>58</volume>: <fpage>77</fpage>&#x02013;<lpage>83</lpage>.</mixed-citation></ref><ref id="mbt213398-bib-0012"><mixed-citation publication-type="journal" id="mbt213398-cit-0012">
+<string-name>
+<surname>Brautaset</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sekurova</surname>, <given-names>O.N.</given-names>
+</string-name>, <string-name>
+<surname>Sletta</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ellingsen</surname>, <given-names>T.E.</given-names>
+</string-name>, <string-name>
+<surname>Str&#x000f8;m</surname>, <given-names>A.R.</given-names>
+</string-name>, <string-name>
+<surname>Valla</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name>
+<surname>Zotchev</surname>, <given-names>S.B.</given-names>
+</string-name> (<year>2000</year>) <article-title>Biosynthesis of the polyene antifungal antibiotic nystatin in <italic>Streptomyces noursei</italic> ATCC 11455: analysis of the gene cluster and deduction of the biosynthetic pathway</article-title>. <source xml:lang="en">Chem Biol</source>
+<volume>7</volume>: <fpage>395</fpage>&#x02013;<lpage>403</lpage>.<pub-id pub-id-type="pmid">10873841</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0013"><mixed-citation publication-type="journal" id="mbt213398-cit-0013">
+<string-name>
+<surname>Brautaset</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sletta</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Nedal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Borgos</surname>, <given-names>S.E.</given-names>
+</string-name>, <string-name>
+<surname>Degnes</surname>, <given-names>K.F.</given-names>
+</string-name>, <string-name>
+<surname>Bakke</surname>, <given-names>I.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>Improved antifungal polyene macrolides via engineering of the nystatin biosynthetic genes in <italic>Streptomyces noursei</italic>
+</article-title>. <source xml:lang="en">Chem Biol</source>
+<volume>15</volume>: <fpage>1198</fpage>&#x02013;<lpage>1206</lpage>.<pub-id pub-id-type="pmid">19022180</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0014"><mixed-citation publication-type="journal" id="mbt213398-cit-0014">
+<string-name>
+<surname>Brophy</surname>, <given-names>J.A.</given-names>
+</string-name>, and <string-name>
+<surname>Voigt</surname>, <given-names>C.A.</given-names>
+</string-name> (<year>2014</year>) <article-title>Principles of genetic circuit design</article-title>. <source xml:lang="en">Nat Methods</source>
+<volume>11</volume>: <fpage>508</fpage>&#x02013;<lpage>520</lpage>.<pub-id pub-id-type="pmid">24781324</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0015"><mixed-citation publication-type="journal" id="mbt213398-cit-0015">
+<string-name>
+<surname>Chang</surname>, <given-names>F.Y.</given-names>
+</string-name>, and <string-name>
+<surname>Brady</surname>, <given-names>S.F.</given-names>
+</string-name> (<year>2013</year>) <article-title>Discovery of indolotryptoline antiproliferative agents by homology&#x02010;guided metagenomic screening</article-title>. <source xml:lang="en">P Natl Acad Sci USA</source>
+<volume>110</volume>: <fpage>2478</fpage>&#x02013;<lpage>2483</lpage>.</mixed-citation></ref><ref id="mbt213398-bib-0016"><mixed-citation publication-type="journal" id="mbt213398-cit-0016">
+<string-name>
+<surname>Cobb</surname>, <given-names>R.E.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, and <string-name>
+<surname>Zhao</surname>, <given-names>H.</given-names>
+</string-name> (<year>2014</year>) <article-title>High&#x02010;efficiency multiplex genome editing of <italic>Streptomyces</italic> species using an engineered CRISPR/Cas system</article-title>. <source xml:lang="en">ACS Synth Biol</source>
+<volume>4</volume>: <fpage>723</fpage>&#x02013;<lpage>728</lpage>.<pub-id pub-id-type="pmid">25458909</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0017"><mixed-citation publication-type="journal" id="mbt213398-cit-0017">
+<string-name>
+<surname>Covington</surname>, <given-names>B.C.</given-names>
+</string-name>, <string-name>
+<surname>McLean</surname>, <given-names>J.A.</given-names>
+</string-name>, and <string-name>
+<surname>Bachmann</surname>, <given-names>B.O.</given-names>
+</string-name> (<year>2017</year>) <article-title>Comparative mass spectrometry&#x02010;based metabolomics strategies for the investigation of microbial secondary metabolites</article-title>. <source xml:lang="en">Nat Prod Rep</source>
+<volume>34</volume>: <fpage>6</fpage>&#x02013;<lpage>24</lpage>.<pub-id pub-id-type="pmid">27604382</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0018"><mixed-citation publication-type="journal" id="mbt213398-cit-0018">
+<string-name>
+<surname>Davidson</surname>, <given-names>S.K.</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>, <given-names>S.W.</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>, <given-names>G.E.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>C.M.</given-names>
+</string-name>, and <string-name>
+<surname>Haygood</surname>, <given-names>M.G.</given-names>
+</string-name> (<year>2001</year>) <article-title>Evidence for the biosynthesis of bryostatins by the bacterial symbiont &#x0201c;<italic>Candidatus Endobugula sertula</italic>&#x0201d; of the bryozoan <italic>Bugula neritina</italic>
+</article-title>. <source xml:lang="en">Appl Environ Microbiol</source>
+<volume>67</volume>: <fpage>4531</fpage>&#x02013;<lpage>4537</lpage>.<pub-id pub-id-type="pmid">11571152</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0019"><mixed-citation publication-type="journal" id="mbt213398-cit-0019">
+<string-name>
+<surname>DeLoache</surname>, <given-names>W.C.</given-names>
+</string-name>, <string-name>
+<surname>Russ</surname>, <given-names>Z.N.</given-names>
+</string-name>, <string-name>
+<surname>Narcross</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Gonzales</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>V.J.</given-names>
+</string-name>, and <string-name>
+<surname>Dueber</surname>, <given-names>J.E.</given-names>
+</string-name> (<year>2015</year>) <article-title>An enzyme&#x02010;coupled biosensor enables (S)&#x02010;reticuline production in yeast from glucose</article-title>. <source xml:lang="en">Nat Chem Biol</source>
+<volume>11</volume>: <fpage>465</fpage>.<pub-id pub-id-type="pmid">25984720</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0020"><mixed-citation publication-type="journal" id="mbt213398-cit-0020">
+<string-name>
+<surname>Deng</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>, <given-names>M.Z.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>Z.X.</given-names>
+</string-name>, and <string-name>
+<surname>Zhao</surname>, <given-names>C.M.</given-names>
+</string-name> (<year>2017</year>) <article-title>Heterologous expression of Avermectins biosynthetic gene cluster by construction of a Bacterial Artificial Chromosome library of the producers</article-title>. <source xml:lang="en">Synth Syst Biotechno</source>
+<volume>2</volume>: <fpage>59</fpage>&#x02013;<lpage>64</lpage>.</mixed-citation></ref><ref id="mbt213398-bib-0021"><mixed-citation publication-type="journal" id="mbt213398-cit-0021">
+<string-name>
+<surname>Dischinger</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Josten</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Szekat</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Sahl</surname>, <given-names>H.G.</given-names>
+</string-name> and <string-name>
+<surname>Bierbaum</surname>, <given-names>G.</given-names>
+</string-name> (<year>2009</year>) <article-title>Production of the Novel Two&#x02010;Peptide Lantibiotic Lichenicidin by <italic>Bacillus licheniformis</italic> DSM 13</article-title>. <source xml:lang="en">PLoS One</source>
+<volume>4</volume>: <fpage>e6788</fpage>.<pub-id pub-id-type="pmid">19707558</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0022"><mixed-citation publication-type="journal" id="mbt213398-cit-0022">
+<string-name>
+<surname>Doekel</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Coeffet&#x02010;Le Gal</surname>, <given-names>M.F.</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>, <given-names>J.Q.</given-names>
+</string-name>, <string-name>
+<surname>Chu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Baltz</surname>, <given-names>R.H.</given-names>
+</string-name>, and <string-name>
+<surname>Brian</surname>, <given-names>P.</given-names>
+</string-name> (<year>2008</year>) <article-title>Non&#x02010;ribosomal peptide synthetase module fusions to produce derivatives of daptomycin in <italic>Streptomyces roseosporus</italic>
+</article-title>. <source xml:lang="en">Microbiology</source>
+<volume>154</volume>: <fpage>2872</fpage>&#x02013;<lpage>2880</lpage>.<pub-id pub-id-type="pmid">18757821</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0023"><mixed-citation publication-type="journal" id="mbt213398-cit-0023">
+<string-name>
+<surname>Donadio</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>McAlpine</surname>, <given-names>J.B.</given-names>
+</string-name>, <string-name>
+<surname>Sheldon</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name>
+<surname>Katz</surname>, <given-names>L.</given-names>
+</string-name> (<year>1993</year>) <article-title>An erythromycin analog produced by reprogramming of polyketide synthesis</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>
+<volume>90</volume>: <fpage>7119</fpage>&#x02013;<lpage>7123</lpage>.<pub-id pub-id-type="pmid">8346223</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0024"><mixed-citation publication-type="journal" id="mbt213398-cit-0024">
+<string-name>
+<surname>Donia</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Cimermancic</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Schulze</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Wieland Brown</surname>, <given-names>L.C.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mitreva</surname>, <given-names>M.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>A systematic analysis of biosynthetic gene clusters in the human microbiome reveals a common family of antibiotics</article-title>. <source xml:lang="en">Cell</source>
+<volume>158</volume>: <fpage>1402</fpage>&#x02013;<lpage>1414</lpage>.<pub-id pub-id-type="pmid">25215495</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0025"><mixed-citation publication-type="journal" id="mbt213398-cit-0025">
+<string-name>
+<surname>Epstein</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>Charkoudian</surname>, <given-names>L.K.</given-names>
+</string-name>, and <string-name>
+<surname>Medema</surname>, <given-names>M.H.</given-names>
+</string-name> (<year>2018</year>) <article-title>A standardized workflow for submitting data to the Minimum Information about a Biosynthetic Gene cluster (MIBiG) repository: prospects for research&#x02010;based educational experiences</article-title>. <source xml:lang="en">Stand Genomic Sci</source>
+<volume>13</volume>: <fpage>16</fpage>.<pub-id pub-id-type="pmid">30008988</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0026"><mixed-citation publication-type="journal" id="mbt213398-cit-0026">
+<string-name>
+<surname>Eustaquio</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Gust</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Galm</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>S.M.</given-names>
+</string-name>, <string-name>
+<surname>Chater</surname>, <given-names>K.F.</given-names>
+</string-name>, and <string-name>
+<surname>Heide</surname>, <given-names>L.</given-names>
+</string-name> (<year>2005</year>) <article-title>Heterologous expression of novobiocin and clorobiocin biosynthetic gene clusters</article-title>. <source xml:lang="en">Appl Environ Microbiol</source>
+<volume>71</volume>: <fpage>2452</fpage>&#x02013;<lpage>2459</lpage>.<pub-id pub-id-type="pmid">15870333</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0027"><mixed-citation publication-type="journal" id="mbt213398-cit-0027">
+<string-name>
+<surname>Flinspach</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Westrich</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Kaysser</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Siebenberg</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gomez&#x02010;Escribano</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Bibb</surname>, <given-names>M.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Heterologous expression of the biosynthetic gene clusters of coumermycin A(1), clorobiocin and caprazamycins in genetically modified <italic>Streptomyces coelicolor</italic> strains</article-title>. <source xml:lang="en">Biopolymers</source>
+<volume>93</volume>: <fpage>823</fpage>&#x02013;<lpage>832</lpage>.<pub-id pub-id-type="pmid">20578003</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0028"><mixed-citation publication-type="journal" id="mbt213398-cit-0028">
+<string-name>
+<surname>Flinspach</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kapitzke</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Tocchetti</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sosio</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name>
+<surname>Apel</surname>, <given-names>A.K.</given-names>
+</string-name> (<year>2014</year>) <article-title>Heterologous expression of the thiopeptide antibiotic GE2270 from <italic>Planobispora rosea</italic> ATCC 53733 in <italic>Streptomyces coelicolor</italic> requires deletion of ribosomal genes from the expression construct</article-title>. <source xml:lang="en">PLoS One</source>
+<volume>9</volume>: <fpage>e90499</fpage>.<pub-id pub-id-type="pmid">24598591</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0029"><mixed-citation publication-type="journal" id="mbt213398-cit-0029">
+<string-name>
+<surname>Gillespie</surname>, <given-names>D.E.</given-names>
+</string-name>, <string-name>
+<surname>Brady</surname>, <given-names>S.F.</given-names>
+</string-name>, <string-name>
+<surname>Bettermann</surname>, <given-names>A.D.</given-names>
+</string-name>, <string-name>
+<surname>Cianciotto</surname>, <given-names>N.P.</given-names>
+</string-name>, <string-name>
+<surname>Liles</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>Rondon</surname>, <given-names>M.R.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2002</year>) <article-title>Isolation of antibiotics turbomycin A and B from a metagenomic library of soil microbial DNA</article-title>. <source xml:lang="en">Appl Environ Microb</source>
+<volume>68</volume>: <fpage>4301</fpage>&#x02013;<lpage>4306</lpage>.</mixed-citation></ref><ref id="mbt213398-bib-0030"><mixed-citation publication-type="journal" id="mbt213398-cit-0030">
+<string-name>
+<surname>Gomes</surname>, <given-names>N.G.M.</given-names>
+</string-name>, <string-name>
+<surname>Pereira</surname>, <given-names>D.M.</given-names>
+</string-name>, <string-name>
+<surname>Valentao</surname>, <given-names>P.</given-names>
+</string-name>, and <string-name>
+<surname>Andrade</surname>, <given-names>P.B.</given-names>
+</string-name> (<year>2018</year>) <article-title>Hybrid MS/NMR methods on the prioritization of natural products: applications in drug discovery</article-title>. <source xml:lang="en">J Pharm Biomed Anal</source>
+<volume>147</volume>: <fpage>234</fpage>&#x02013;<lpage>249</lpage>.<pub-id pub-id-type="pmid">28826951</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0031"><mixed-citation publication-type="journal" id="mbt213398-cit-0031">
+<string-name>
+<surname>Gomez&#x02010;Escribano</surname>, <given-names>J.P.</given-names>
+</string-name>, and <string-name>
+<surname>Bibb</surname>, <given-names>M.J.</given-names>
+</string-name> (<year>2011</year>) <article-title>Engineering <italic>Streptomyces coelicolor</italic> for heterologous expression of secondary metabolite gene clusters</article-title>. <source xml:lang="en">Microb Biotechnol</source>
+<volume>4</volume>: <fpage>207</fpage>&#x02013;<lpage>215</lpage>.<pub-id pub-id-type="pmid">21342466</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0032"><mixed-citation publication-type="journal" id="mbt213398-cit-0032">
+<string-name>
+<surname>Gomez&#x02010;Escribano</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>L.J.</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Yeo</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Bibb</surname>, <given-names>M.J.</given-names>
+</string-name>, and <string-name>
+<surname>Challis</surname>, <given-names>G.L.</given-names>
+</string-name> (<year>2012</year>) <article-title>Structure and biosynthesis of the unusual polyketide alkaloid coelimycin P1, a metabolic product of the <italic>cpk</italic> gene cluster of <italic>Streptomyces coelicolor</italic> M145</article-title>. <source xml:lang="en">Chem Sci</source>
+<volume>3</volume>: <fpage>2716</fpage>&#x02013;<lpage>2720</lpage>.</mixed-citation></ref><ref id="mbt213398-bib-0033"><mixed-citation publication-type="journal" id="mbt213398-cit-0033">
+<string-name>
+<surname>Gontang</surname>, <given-names>E.A.</given-names>
+</string-name>, <string-name>
+<surname>Gaudencio</surname>, <given-names>S.P.</given-names>
+</string-name>, <string-name>
+<surname>Fenical</surname>, <given-names>W.</given-names>
+</string-name>, and <string-name>
+<surname>Jensen</surname>, <given-names>P.R.</given-names>
+</string-name> (<year>2010</year>) <article-title>Sequence&#x02010;based analysis of secondary&#x02010;metabolite biosynthesis in marine actinobacteria</article-title>. <source xml:lang="en">Appl Environ Microbiol</source>
+<volume>76</volume>: <fpage>2487</fpage>&#x02013;<lpage>2499</lpage>.<pub-id pub-id-type="pmid">20154113</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0034"><mixed-citation publication-type="journal" id="mbt213398-cit-0034">
+<string-name>
+<surname>Goodfellow</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nouioui</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Sanderson</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>F.</given-names>
+</string-name>, and <string-name>
+<surname>Bull</surname>, <given-names>A.T.</given-names>
+</string-name> (<year>2018</year>) <article-title>Rare taxa and dark microbial matter: novel bioactive actinobacteria abound in Atacama Desert soils</article-title>. <source xml:lang="en">Antonie Van Leeuwenhoek</source>
+<volume>111</volume>: <fpage>1315</fpage>&#x02013;<lpage>1332</lpage>.<pub-id pub-id-type="pmid">29721711</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0035"><mixed-citation publication-type="journal" id="mbt213398-cit-0035">
+<string-name>
+<surname>Gottelt</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kol</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gomez&#x02010;Escribano</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Bibb</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name>
+<surname>Takano</surname>, <given-names>E.</given-names>
+</string-name> (<year>2010</year>) <article-title>Deletion of a regulatory gene within the cpk gene cluster reveals novel antibacterial activity in <italic>Streptomyces coelicolor</italic> A3(2)</article-title>. <source xml:lang="en">Microbiology</source>
+<volume>156</volume>: <fpage>2343</fpage>&#x02013;<lpage>2353</lpage>.<pub-id pub-id-type="pmid">20447997</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0036"><mixed-citation publication-type="journal" id="mbt213398-cit-0036">
+<string-name>
+<surname>Gust</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Chandra</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Jakimowicz</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Yuqing</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Bruton</surname>, <given-names>C.J.</given-names>
+</string-name>, and <string-name>
+<surname>Chater</surname>, <given-names>K.F.</given-names>
+</string-name> (<year>2004</year>) <article-title>Lambda red&#x02010;mediated genetic manipulation of antibiotic&#x02010;producing <italic>Streptomyces</italic>
+</article-title>. <source xml:lang="en">Adv Appl Microbiol</source>
+<volume>54</volume>: <fpage>107</fpage>&#x02013;<lpage>128</lpage>.<pub-id pub-id-type="pmid">15251278</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0037"><mixed-citation publication-type="journal" id="mbt213398-cit-0037">
+<string-name>
+<surname>van Heel</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>de Jong</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Montalban&#x02010;Lopez</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kok</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<surname>Kuipers</surname>, <given-names>O.P.</given-names>
+</string-name> (<year>2013</year>) <article-title>BAGEL3: automated identification of genes encoding bacteriocins and (non&#x02010;) bactericidal posttranslationally modified peptides</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>41</volume>: <fpage>W448</fpage>&#x02013;<lpage>W453</lpage>.<pub-id pub-id-type="pmid">23677608</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0038"><mixed-citation publication-type="journal" id="mbt213398-cit-0038">
+<string-name>
+<surname>Horbal</surname>, <given-names>L.</given-names>
+</string-name>, and <string-name>
+<surname>Luzhetskyy</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>) <article-title>Dual control system &#x02010; A novel scaffolding architecture of an inducible regulatory device for the precise regulation of gene expression</article-title>. <source xml:lang="en">Metab Eng</source>
+<volume>37</volume>: <fpage>11</fpage>&#x02013;<lpage>23</lpage>.<pub-id pub-id-type="pmid">27040671</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0039"><mixed-citation publication-type="journal" id="mbt213398-cit-0039">
+<string-name>
+<surname>Huang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>H.</given-names>
+</string-name>, and <string-name>
+<surname>Lu</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2015</year>) <article-title>One&#x02010;step high&#x02010;efficiency CRISPR/Cas9&#x02010;mediated genome editing in <italic>Streptomyces</italic>
+</article-title>. <source xml:lang="en">Acta Biochim Biophys Sin</source>
+<volume>47</volume>: <fpage>231</fpage>&#x02013;<lpage>243</lpage>.<pub-id pub-id-type="pmid">25739462</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0040"><mixed-citation publication-type="journal" id="mbt213398-cit-0040">
+<string-name>
+<surname>Huang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hou</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ju</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<surname>Li</surname>, <given-names>W.</given-names>
+</string-name> (<year>2016</year>) <article-title>Activation of a plasmid&#x02010;situated type III PKS gene cluster by deletion of a wbl gene in deepsea&#x02010;derived <italic>Streptomyces somaliensis</italic> SCSIO ZH66</article-title>. <source xml:lang="en">Microb Cell Fact</source>
+<volume>15</volume>: <fpage>116</fpage>.<pub-id pub-id-type="pmid">27350607</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0041"><mixed-citation publication-type="journal" id="mbt213398-cit-0041">
+<string-name>
+<surname>Huang</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title>Heterologous expression and antitumor activity analysis of syringolin from <italic>Pseudomonas syringae</italic> pv<italic>. syringae</italic> B728a</article-title>. <source xml:lang="en">Microb Cell Fact</source>
+<volume>17</volume>: <fpage>31</fpage>.<pub-id pub-id-type="pmid">29482589</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0042"><mixed-citation publication-type="journal" id="mbt213398-cit-0042">
+<string-name>
+<surname>Hug</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>Bader</surname>, <given-names>C.D.</given-names>
+</string-name>, <string-name>
+<surname>Remskar</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cirnski</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Muller</surname>, <given-names>R.</given-names>
+</string-name> (<year>2018</year>) <article-title>Concepts and methods to access novel antibiotics from actinomycetes</article-title>. <source xml:lang="en">Antibiotics</source>
+<volume>7</volume>: <fpage>44</fpage>.</mixed-citation></ref><ref id="mbt213398-bib-0043"><mixed-citation publication-type="journal" id="mbt213398-cit-0043">
+<string-name>
+<surname>Ian</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Malko</surname>, <given-names>D.B.</given-names>
+</string-name>, <string-name>
+<surname>Sekurova</surname>, <given-names>O.N.</given-names>
+</string-name>, <string-name>
+<surname>Bredholt</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ruckert</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Borisova</surname>, <given-names>M.E.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Genomics of sponge&#x02010;associated <italic>Streptomyces</italic> spp. closely related to <italic>Streptomyces albus</italic> J1074: insights into marine adaptation and secondary metabolite biosynthesis potential</article-title>. <source xml:lang="en">PLoS One</source>
+<volume>9</volume>: <fpage>e96719</fpage>.<pub-id pub-id-type="pmid">24819608</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0044"><mixed-citation publication-type="journal" id="mbt213398-cit-0044">
+<string-name>
+<surname>Ilic&#x02010;Tomic</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Gencic</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Zivkovic</surname>, <given-names>M.Z.</given-names>
+</string-name>, <string-name>
+<surname>Vasiljevic</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Djokic</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Nikodinovic&#x02010;Runic</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<surname>Radulovic</surname>, <given-names>N.S.</given-names>
+</string-name> (<year>2015</year>) <article-title>Structural diversity and possible functional roles of free fatty acids of the novel soil isolate <italic>Streptomyces</italic> sp. NP10</article-title>. <source xml:lang="en">Appl Microbiol Biot</source>
+<volume>99</volume>: <fpage>4815</fpage>&#x02013;<lpage>4833</lpage>.</mixed-citation></ref><ref id="mbt213398-bib-0045"><mixed-citation publication-type="journal" id="mbt213398-cit-0045">
+<string-name>
+<surname>Inahashi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Shiraishi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Take</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Matsumoto</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Omura</surname>, <given-names>S.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title>Identification and heterologous expression of the actinoallolide biosynthetic gene cluster</article-title>. <source xml:lang="en">J Antibiot</source>
+<volume>71</volume>: <fpage>749</fpage>&#x02013;<lpage>752</lpage>.<pub-id pub-id-type="pmid">29679043</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0046"><mixed-citation publication-type="journal" id="mbt213398-cit-0046">
+<string-name>
+<surname>Jahanshah</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Gerhardt</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Pataj</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000e4;mmerhofer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pianet</surname>, <given-names>I.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2019</year>) <article-title>Discovery of the cyclic lipopeptide gacamide A by genome mining and repair of the defective GacA regulator in <italic>Pseudomonas fluorescens</italic> Pf0&#x02010;1</article-title>. <source xml:lang="en">J Nat Prod</source>
+<volume>82</volume>: <fpage>301</fpage>&#x02013;<lpage>308</lpage>.<pub-id pub-id-type="pmid">30666877</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0047"><mixed-citation publication-type="journal" id="mbt213398-cit-0047">
+<string-name>
+<surname>Jenke&#x02010;Kodama</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Muller</surname>, <given-names>R.</given-names>
+</string-name>, and <string-name>
+<surname>Dittmann</surname>, <given-names>E.</given-names>
+</string-name> (<year>2008</year>) <article-title>Evolutionary mechanisms underlying secondary metabolite diversity</article-title>. <source xml:lang="en">Prog Drug Res</source>
+<volume>65</volume>: <fpage>121</fpage>&#x02013;<lpage>140</lpage>.</mixed-citation></ref><ref id="mbt213398-bib-0048"><mixed-citation publication-type="journal" id="mbt213398-cit-0048">
+<string-name>
+<surname>Jiang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Gabrieli</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Lou</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ebenstein</surname>, <given-names>Y.</given-names>
+</string-name>, and <string-name>
+<surname>Zhu</surname>, <given-names>T.F.</given-names>
+</string-name> (<year>2015</year>) <article-title>Cas9&#x02010;Assisted Targeting of CHromosome segments CATCH enables one&#x02010;step targeted cloning of large gene clusters</article-title>. <source xml:lang="en">Nat Commun</source>
+<volume>6</volume>: <fpage>8101</fpage>.<pub-id pub-id-type="pmid">26323354</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0049"><mixed-citation publication-type="journal" id="mbt213398-cit-0049">
+<string-name>
+<surname>Jiang</surname>, <given-names>G.D.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.C.</given-names>
+</string-name>, <string-name>
+<surname>Powell</surname>, <given-names>M.M.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>P.L.</given-names>
+</string-name>, <string-name>
+<surname>Zuo</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title>High&#x02010;yield production of herbicidal thaxtomins and thaxtomin analogs in a nonpathogenic <italic>Streptomyces</italic> strain</article-title>. <source xml:lang="en">Appl Environ Microb</source>
+<volume>84</volume>: <fpage>e00164</fpage>&#x02013;<lpage>18</lpage>.</mixed-citation></ref><ref id="mbt213398-bib-0050"><mixed-citation publication-type="journal" id="mbt213398-cit-0050">
+<string-name>
+<surname>Kallifidas</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>, <given-names>H.S.</given-names>
+</string-name>, and <string-name>
+<surname>Brady</surname>, <given-names>S.F.</given-names>
+</string-name> (<year>2012</year>) <article-title>Tetarimycin A, an MRSA&#x02010;active antibiotic identified through induced expression of environmental DNA gene clusters</article-title>. <source xml:lang="en">J Am Chem Soc</source>
+<volume>134</volume>: <fpage>19552</fpage>&#x02013;<lpage>19555</lpage>.<pub-id pub-id-type="pmid">23157252</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0051"><mixed-citation publication-type="journal" id="mbt213398-cit-0051">
+<string-name>
+<surname>Keasling</surname>, <given-names>J.D.</given-names>
+</string-name> (<year>2012</year>) <article-title>Synthetic biology and the development of tools for metabolic engineering</article-title>. <source xml:lang="en">Metab Eng</source>
+<volume>14</volume>: <fpage>189</fpage>&#x02013;<lpage>195</lpage>.<pub-id pub-id-type="pmid">22314049</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0052"><mixed-citation publication-type="journal" id="mbt213398-cit-0052">
+<string-name>
+<surname>Kim</surname>, <given-names>J.H.</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Bauer</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Kallifidas</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Calle</surname>, <given-names>P.Y.</given-names>
+</string-name>, and <string-name>
+<surname>Brady</surname>, <given-names>S.F.</given-names>
+</string-name> (<year>2010</year>) <article-title>Cloning large natural product gene clusters from the environment: piecing environmental DNA gene clusters back together with TAR</article-title>. <source xml:lang="en">Biopolymers</source>
+<volume>93</volume>: <fpage>833</fpage>&#x02013;<lpage>844</lpage>.<pub-id pub-id-type="pmid">20577994</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0053"><mixed-citation publication-type="journal" id="mbt213398-cit-0053">
+<string-name>
+<surname>Kim</surname>, <given-names>S.H.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Ahmadi</surname>, <given-names>M.K.</given-names>
+</string-name>, <string-name>
+<surname>Montiel</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Ternei</surname>, <given-names>M.A.</given-names>
+</string-name> and <string-name>
+<surname>Brady</surname>, <given-names>S.F.</given-names>
+</string-name> (<year>2018</year>) <article-title>Atolypenes, tricyclic bacterial sesterterpenes discovered using a multiplexed <italic>in&#x000a0;vitro</italic> Cas9&#x02010;TAR gene cluster refactoring approach</article-title>. <source xml:lang="en">ACS Synth Biol</source>
+<volume>2018</volume>: <fpage>109</fpage>&#x02013;<lpage>118</lpage>. <pub-id pub-id-type="doi">10.1021/acssynbio.8b00361</pub-id>.</mixed-citation></ref><ref id="mbt213398-bib-0054"><mixed-citation publication-type="journal" id="mbt213398-cit-0054">
+<string-name>
+<surname>Komatsu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Uchiyama</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Omura</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Cane</surname>, <given-names>D.E.</given-names>
+</string-name>, and <string-name>
+<surname>Ikeda</surname>, <given-names>H.</given-names>
+</string-name> (<year>2010</year>) <article-title>Genome&#x02010;minimized <italic>Streptomyces</italic> host for the heterologous expression of secondary metabolism</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<volume>107</volume>: <fpage>2646</fpage>&#x02013;<lpage>2651</lpage>.<pub-id pub-id-type="pmid">20133795</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0055"><mixed-citation publication-type="journal" id="mbt213398-cit-0055">
+<string-name>
+<surname>Komatsu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Komatsu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Koiwai</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yamada</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kozone</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Izumikawa</surname>, <given-names>M.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Engineered <italic>Streptomyces avermitilis</italic> host for heterologous expression of biosynthetic gene cluster for secondary metabolites</article-title>. <source xml:lang="en">ACS Synth Biol</source>
+<volume>2</volume>: <fpage>384</fpage>&#x02013;<lpage>396</lpage>.<pub-id pub-id-type="pmid">23654282</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0056"><mixed-citation publication-type="journal" id="mbt213398-cit-0056">
+<string-name>
+<surname>Kries</surname>, <given-names>H.</given-names>
+</string-name> (<year>2016</year>) <article-title>Biosynthetic engineering of nonribosomal peptide synthetases</article-title>. <source xml:lang="en">J Pept Sci</source>
+<volume>22</volume>: <fpage>564</fpage>&#x02013;<lpage>570</lpage>.<pub-id pub-id-type="pmid">27465074</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0057"><mixed-citation publication-type="journal" id="mbt213398-cit-0057">
+<string-name>
+<surname>Kuehn</surname>, <given-names>B.M.</given-names>
+</string-name> (<year>2011</year>) <article-title>Proposals seek to reduce resistance, boost development of new antibiotics</article-title>. <source xml:lang="en">JAMA</source>
+<volume>305</volume>: <fpage>1845</fpage>&#x02013;<lpage>1846</lpage>.<pub-id pub-id-type="pmid">21558509</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0058"><mixed-citation publication-type="journal" id="mbt213398-cit-0058">
+<string-name>
+<surname>Kurtb&#x000f6;ke</surname>, <given-names>D.I.</given-names>
+</string-name> (<year>2011</year>) <article-title>Exploitation of phage battery in the search for bioactive actinomycetes</article-title>. <source xml:lang="en">Appl Microbiol Biotechnol</source>
+<volume>89</volume>: <fpage>931</fpage>&#x02013;<lpage>937</lpage>.<pub-id pub-id-type="pmid">21120467</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0059"><mixed-citation publication-type="journal" id="mbt213398-cit-0059">
+<string-name>
+<surname>Kwan</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Donia</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>A.W.</given-names>
+</string-name>, <string-name>
+<surname>Hirose</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Haygood</surname>, <given-names>M.G.</given-names>
+</string-name>, and <string-name>
+<surname>Schmidt</surname>, <given-names>E.W.</given-names>
+</string-name> (<year>2012</year>) <article-title>Genome streamlining and chemical defense in a coral reef symbiosis</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<volume>109</volume>: <fpage>20655</fpage>&#x02013;<lpage>20660</lpage>.<pub-id pub-id-type="pmid">23185008</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0060"><mixed-citation publication-type="journal" id="mbt213398-cit-0060">
+<string-name>
+<surname>Larson</surname>, <given-names>C.B.</given-names>
+</string-name>, <string-name>
+<surname>Crusemann</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name>
+<surname>Moore</surname>, <given-names>B.S.</given-names>
+</string-name> (<year>2017</year>) <article-title>PCR&#x02010;independent method of transformation&#x02010;associated recombination reveals the cosmomycin biosynthetic gene cluster in an ocean <italic>Streptomycete</italic>
+</article-title>. <source xml:lang="en">J Nat Prod</source>
+<volume>80</volume>: <fpage>1200</fpage>&#x02013;<lpage>1204</lpage>.<pub-id pub-id-type="pmid">28333450</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0061"><mixed-citation publication-type="journal" id="mbt213398-cit-0061">
+<string-name>
+<surname>Laureti</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Corre</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Leblond</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Challis</surname>, <given-names>G.L.</given-names>
+</string-name>, and <string-name>
+<surname>Aigle</surname>, <given-names>B.</given-names>
+</string-name> (<year>2011</year>) <article-title>Identification of a bioactive 51&#x02010;membered macrolide complex by activation of a silent polyketide synthase in <italic>Streptomyces ambofaciens</italic>
+</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<volume>108</volume>: <fpage>6258</fpage>&#x02013;<lpage>6263</lpage>.<pub-id pub-id-type="pmid">21444795</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0062"><mixed-citation publication-type="journal" id="mbt213398-cit-0062">
+<string-name>
+<surname>Lautru</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Deeth</surname>, <given-names>R.J.</given-names>
+</string-name>, <string-name>
+<surname>Bailey</surname>, <given-names>L.M.</given-names>
+</string-name>, and <string-name>
+<surname>Challis</surname>, <given-names>G.L.</given-names>
+</string-name> (<year>2005</year>) <article-title>Discovery of a new peptide natural product by <italic>Streptomyces coelicolor</italic> genome mining</article-title>. <source xml:lang="en">Nat Chem Biol</source>
+<volume>1</volume>: <fpage>265</fpage>&#x02013;<lpage>269</lpage>.<pub-id pub-id-type="pmid">16408055</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0063"><mixed-citation publication-type="journal" id="mbt213398-cit-0063">
+<string-name>
+<surname>Levin</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Spencer</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Harrison</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Chauhan</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Burrows</surname>, <given-names>F.J.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>K.C.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Marizomib irreversibly inhibits proteasome to overcome compensatory hyperactivation in multiple myeloma and solid tumour patients</article-title>. <source xml:lang="en">Br J Haematol</source>
+<volume>174</volume>: <fpage>711</fpage>&#x02013;<lpage>720</lpage>.<pub-id pub-id-type="pmid">27161872</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0064"><mixed-citation publication-type="journal" id="mbt213398-cit-0064">
+<string-name>
+<surname>Li</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>, <given-names>K.</given-names>
+</string-name>, and <string-name>
+<surname>Li</surname>, <given-names>W.</given-names>
+</string-name> (<year>2013</year>) <article-title>Cloning, characterization and heterologous expression of the indolocarbazole biosynthetic gene cluster from marine&#x02010;derived <italic>Streptomyces sanyensis</italic> FMA</article-title>. <source xml:lang="en">Mar Drugs</source>
+<volume>11</volume>: <fpage>466</fpage>&#x02013;<lpage>488</lpage>.<pub-id pub-id-type="pmid">23389092</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0065"><mixed-citation publication-type="journal" id="mbt213398-cit-0065">
+<string-name>
+<surname>Li</surname>, <given-names>Y.X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z.R.</given-names>
+</string-name>, <string-name>
+<surname>Yamanaka</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>W.P.</given-names>
+</string-name>, <string-name>
+<surname>Vlamakis</surname>, <given-names>H.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Directed natural product biosynthesis gene cluster capture and expression in the model bacterium <italic>Bacillus subtilis</italic>
+</article-title>. <source xml:lang="en">Sci Rep</source>
+<volume>5</volume>: <fpage>9383</fpage>.<pub-id pub-id-type="pmid">25807046</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0066"><mixed-citation publication-type="journal" id="mbt213398-cit-0066">
+<string-name>
+<surname>Linares&#x02010;Otoya</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Linares&#x02010;Otoya</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Armas&#x02010;Mantilla</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Blanco&#x02010;Olano</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Crusemann</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ganoza&#x02010;Yupanqui</surname>, <given-names>M.L.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Identification and heterologous expression of the kocurin biosynthetic gene cluster</article-title>. <source xml:lang="en">Microbiology</source>
+<volume>163</volume>: <fpage>1409</fpage>&#x02013;<lpage>1414</lpage>.</mixed-citation></ref><ref id="mbt213398-bib-0067"><mixed-citation publication-type="journal" id="mbt213398-cit-0067">
+<string-name>
+<surname>Ling</surname>, <given-names>L.L.</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Peoples</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Spoering</surname>, <given-names>A.L.</given-names>
+</string-name>, <string-name>
+<surname>Engels</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Conlon</surname>, <given-names>B.P.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>A new antibiotic kills pathogens without detectable resistance</article-title>. <source xml:lang="en">Nature</source>
+<volume>517</volume>: <fpage>455</fpage>&#x02013;<lpage>459</lpage>.<pub-id pub-id-type="pmid">25561178</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0068"><mixed-citation publication-type="journal" id="mbt213398-cit-0068">
+<string-name>
+<surname>Liu</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Chater</surname>, <given-names>K.F.</given-names>
+</string-name>, <string-name>
+<surname>Chandra</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Niu</surname>, <given-names>G.</given-names>
+</string-name>, and <string-name>
+<surname>Tan</surname>, <given-names>H.</given-names>
+</string-name> (<year>2013</year>) <article-title>Molecular regulation of antibiotic biosynthesis in streptomyces</article-title>. <source xml:lang="en">Microbiol Mol Biol Rev</source>
+<volume>77</volume>: <fpage>112</fpage>&#x02013;<lpage>143</lpage>.<pub-id pub-id-type="pmid">23471619</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0069"><mixed-citation publication-type="journal" id="mbt213398-cit-0069">
+<string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tao</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Wen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>Z.</given-names>
+</string-name>, and <string-name>
+<surname>Sun</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2015</year>) <article-title>
+<italic>In vitro</italic> CRISPR/Cas9 system for efficient targeted DNA editing</article-title>. <source xml:lang="en">MBio</source>
+<volume>6</volume>: <fpage>e01714</fpage>&#x02013;<lpage>e01715</lpage>.<pub-id pub-id-type="pmid">26556277</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0070"><mixed-citation publication-type="journal" id="mbt213398-cit-0070">
+<string-name>
+<surname>Luo</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Shao</surname>, <given-names>Z.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Activation and characterization of a cryptic polycyclic tetramate macrolactam biosynthetic gene cluster</article-title>. <source xml:lang="en">Nat Commun</source>
+<volume>4</volume>: <fpage>2894</fpage>.<pub-id pub-id-type="pmid">24305602</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0071"><mixed-citation publication-type="journal" id="mbt213398-cit-0071">
+<string-name>
+<surname>Luo</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Enghiad</surname>, <given-names>B.</given-names>
+</string-name>, and <string-name>
+<surname>Zhao</surname>, <given-names>H.</given-names>
+</string-name> (<year>2016</year>) <article-title>New tools for reconstruction and heterologous expression of natural product biosynthetic gene clusters</article-title>. <source xml:lang="en">Nat Prod Rep</source>
+<volume>33</volume>: <fpage>174</fpage>&#x02013;<lpage>182</lpage>.<pub-id pub-id-type="pmid">26647833</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0072"><mixed-citation publication-type="journal" id="mbt213398-cit-0072">
+<string-name>
+<surname>Malcolmson</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>, <given-names>T.S.</given-names>
+</string-name>, <string-name>
+<surname>Ruby</surname>, <given-names>J.G.</given-names>
+</string-name>, <string-name>
+<surname>Skewes&#x02010;Cox</surname>, <given-names>P.</given-names>
+</string-name>, and <string-name>
+<surname>Walsh</surname>, <given-names>C.T.</given-names>
+</string-name> (<year>2013</year>) <article-title>The posttranslational modification cascade to the thiopeptide berninamycin generates linear forms and altered macrocyclic scaffolds</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<volume>110</volume>: <fpage>8483</fpage>&#x02013;<lpage>8488</lpage>.<pub-id pub-id-type="pmid">23650400</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0073"><mixed-citation publication-type="journal" id="mbt213398-cit-0073">
+<string-name>
+<surname>Maldonado</surname>, <given-names>L.A.</given-names>
+</string-name>, <string-name>
+<surname>Fenical</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>, <given-names>P.R.</given-names>
+</string-name>, <string-name>
+<surname>Kauffman</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Mincer</surname>, <given-names>T.J.</given-names>
+</string-name>, <string-name>
+<surname>Ward</surname>, <given-names>A.C.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2005</year>) <article-title>
+<italic>Salinispora arenicola</italic> gen. nov., sp. nov. and <italic>Salinispora tropica</italic> sp. nov., obligate marine actinomycetes belonging to the family <italic>Micromonosporaceae</italic>
+</article-title>. <source xml:lang="en">Int J Syst Evol Microbiol</source>
+<volume>55</volume>: <fpage>1759</fpage>&#x02013;<lpage>1766</lpage>.<pub-id pub-id-type="pmid">16166663</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0074"><mixed-citation publication-type="journal" id="mbt213398-cit-0074">
+<string-name>
+<surname>Medema</surname>, <given-names>M.H.</given-names>
+</string-name>, <string-name>
+<surname>Breitling</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Bovenberg</surname>, <given-names>R.</given-names>
+</string-name>, and <string-name>
+<surname>Takano</surname>, <given-names>E.</given-names>
+</string-name> (<year>2011</year>) <article-title>Exploiting plug&#x02010;and&#x02010;play synthetic biology for drug discovery and production in microorganisms</article-title>. <source xml:lang="en">Nat Rev Microbiol</source>
+<volume>9</volume>: <fpage>131</fpage>&#x02013;<lpage>137</lpage>.<pub-id pub-id-type="pmid">21189477</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0075"><mixed-citation publication-type="journal" id="mbt213398-cit-0075">
+<string-name>
+<surname>van der Meij</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Worsley</surname>, <given-names>S.F.</given-names>
+</string-name>, <string-name>
+<surname>Hutchings</surname>, <given-names>M.I.</given-names>
+</string-name>, and <string-name>
+<surname>van Wezel</surname>, <given-names>G.P.</given-names>
+</string-name> (<year>2017</year>) <article-title>Chemical ecology of antibiotic production by actinomycetes</article-title>. <source xml:lang="en">FEMS Microbiol Rev</source>
+<volume>41</volume>: <fpage>392</fpage>&#x02013;<lpage>416</lpage>.<pub-id pub-id-type="pmid">28521336</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0076"><mixed-citation publication-type="journal" id="mbt213398-cit-0076">
+<string-name>
+<surname>M&#x000e9;ndez</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#x000e1;lez&#x02010;Sab&#x000ed;n</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mor&#x000ed;s</surname>, <given-names>F.</given-names>
+</string-name>, and <string-name>
+<surname>Salas</surname>, <given-names>J.A.</given-names>
+</string-name> (<year>2015</year>) <article-title>Expanding the chemical diversity of the antitumoral compound mithramycin by combinatorial biosynthesis and biocatalysis: the quest for mithralogs with improved therapeutic window</article-title>. <source xml:lang="en">Planta Med</source>
+<volume>81</volume>: <fpage>1326</fpage>&#x02013;<lpage>1338</lpage>.<pub-id pub-id-type="pmid">26393942</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0077"><mixed-citation publication-type="journal" id="mbt213398-cit-0077">
+<string-name>
+<surname>Milshteyn</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>, <given-names>J.S.</given-names>
+</string-name>, and <string-name>
+<surname>Brady</surname>, <given-names>S.F.</given-names>
+</string-name> (<year>2014</year>) <article-title>Mining the metabiome: identifying novel natural products from microbial communities</article-title>. <source xml:lang="en">Chem Biol</source>
+<volume>21</volume>: <fpage>1211</fpage>&#x02013;<lpage>1223</lpage>.<pub-id pub-id-type="pmid">25237864</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0078"><mixed-citation publication-type="journal" id="mbt213398-cit-0078">
+<string-name>
+<surname>Myronovskyi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rosenkranzer</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Nadmid</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Pujic</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Normand</surname>, <given-names>P.</given-names>
+</string-name>, and <string-name>
+<surname>Luzhetskyy</surname>, <given-names>A.</given-names>
+</string-name> (<year>2018</year>) <article-title>Generation of a cluster&#x02010;free <italic>Streptomyces albus</italic> chassis strains for improved heterologous expression of secondary metabolite clusters</article-title>. <source xml:lang="en">Metab Eng</source>
+<volume>49</volume>: <fpage>316</fpage>&#x02013;<lpage>324</lpage>.<pub-id pub-id-type="pmid">30196100</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0079"><mixed-citation publication-type="journal" id="mbt213398-cit-0079">
+<string-name>
+<surname>Newman</surname>, <given-names>D.J.</given-names>
+</string-name>, and <string-name>
+<surname>Cragg</surname>, <given-names>G.M.</given-names>
+</string-name> (<year>2016</year>) <article-title>Natural products as sources of new drugs from 1981 to 2014</article-title>. <source xml:lang="en">J Nat Prod</source>
+<volume>79</volume>: <fpage>629</fpage>&#x02013;<lpage>661</lpage>.<pub-id pub-id-type="pmid">26852623</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0080"><mixed-citation publication-type="journal" id="mbt213398-cit-0080">
+<string-name>
+<surname>Nguyen</surname>, <given-names>K.T.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Alexander</surname>, <given-names>D.C.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>, <given-names>J.Q.</given-names>
+</string-name>, <string-name>
+<surname>Mascio</surname>, <given-names>C.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Genetically engineered lipopeptide antibiotics related to A54145 and daptomycin with improved properties</article-title>. <source xml:lang="en">Antimicrob Agents Chemother</source>
+<volume>54</volume>: <fpage>1404</fpage>&#x02013;<lpage>1413</lpage>.<pub-id pub-id-type="pmid">20086142</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0081"><mixed-citation publication-type="journal" id="mbt213398-cit-0081">
+<string-name>
+<surname>Nouioui</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>R&#x000fc;ckert</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Willemse</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>van Wezel</surname>, <given-names>G.P.</given-names>
+</string-name>, <string-name>
+<surname>Klenk</surname>, <given-names>H.P.</given-names>
+</string-name>, <string-name>
+<surname>Busche</surname>, <given-names>T.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>
+<italic>Actinoalloteichus fjordicus</italic> sp. nov. isolated from marine sponges: phenotypic, chemotaxonomic and genomic characterisation</article-title>. <source xml:lang="en">Antonie Van Leeuwenhoek</source>
+<volume>110</volume>: <fpage>1705</fpage>&#x02013;<lpage>1717</lpage>.<pub-id pub-id-type="pmid">28770445</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0082"><mixed-citation publication-type="journal" id="mbt213398-cit-0082">
+<string-name>
+<surname>Nov&#x000e1;kov&#x000e1;</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>N&#x000fa;&#x000f1;ez</surname>, <given-names>L.E.</given-names>
+</string-name>, <string-name>
+<surname>Homerova</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Knirschova</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Feckova</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Rezuchova</surname>, <given-names>B.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title>Increased heterologous production of the antitumoral polyketide mithramycin A by engineered <italic>Streptomyces lividans</italic> TK24 strains</article-title>. <source xml:lang="en">Appl Microbiol Biotechnol</source>
+<volume>102</volume>: <fpage>857</fpage>&#x02013;<lpage>869</lpage>.<pub-id pub-id-type="pmid">29196786</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0083"><mixed-citation publication-type="journal" id="mbt213398-cit-0083">
+<string-name>
+<surname>N&#x000fa;&#x000f1;ez</surname>, <given-names>L.E.</given-names>
+</string-name>, <string-name>
+<surname>Nybo</surname>, <given-names>S.E.</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#x000e1;lez&#x02010;Sab&#x000ed;n</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>P&#x000e9;rez</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Men&#x000e9;ndez</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Bra&#x000f1;a</surname>, <given-names>A.F.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>A novel mithramycin analogue with high antitumor activity and less toxicity generated by combinatorial biosynthesis</article-title>. <source xml:lang="en">J Med Chem</source>
+<volume>55</volume>: <fpage>5813</fpage>&#x02013;<lpage>5825</lpage>.<pub-id pub-id-type="pmid">22578073</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0084"><mixed-citation publication-type="journal" id="mbt213398-cit-0084">
+<string-name>
+<surname>Ochi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Okamoto</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Tozawa</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Inaoka</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hosaka</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<surname>Kurosawa</surname>, <given-names>K.</given-names>
+</string-name> (<year>2004</year>) <article-title>Ribosome engineering and secondary metabolite production</article-title>. <source xml:lang="en">Adv Appl Microbiol</source>
+<volume>56</volume>: <fpage>155</fpage>&#x02013;<lpage>184</lpage>.<pub-id pub-id-type="pmid">15566979</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0085"><mixed-citation publication-type="journal" id="mbt213398-cit-0085">
+<string-name>
+<surname>Olano</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Garc&#x000ed;a</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#x000e1;lez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rozas</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Rubio</surname>, <given-names>J.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Activation and identification of five clusters for secondary metabolites in <italic>Streptomyces albus</italic> J1074</article-title>. <source xml:lang="en">Microb Biotechnol</source>
+<volume>7</volume>: <fpage>242</fpage>&#x02013;<lpage>256</lpage>.<pub-id pub-id-type="pmid">24593309</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0086"><mixed-citation publication-type="journal" id="mbt213398-cit-0086">
+<string-name>
+<surname>Panter</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Krug</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Baumann</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>R.</given-names>
+</string-name> (<year>2018</year>) <article-title>Self&#x02010;resistance guided genome mining uncovers new topoisomerase inhibitors from myxobacteria</article-title>. <source xml:lang="en">Chem Sci.</source>
+<volume>9</volume>: <fpage>4898</fpage>&#x02013;<lpage>4908</lpage>.<pub-id pub-id-type="pmid">29910943</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0087"><mixed-citation publication-type="journal" id="mbt213398-cit-0087">
+<string-name>
+<surname>Parsley</surname>, <given-names>L.C.</given-names>
+</string-name>, <string-name>
+<surname>Linneman</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Goode</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Becklund</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>George</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Goodman</surname>, <given-names>R.M.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>Polyketide synthase pathways identified from a metagenomic library are derived from soil <italic>Acidobacteria</italic>
+</article-title>. <source xml:lang="en">FEMS Microbiol Ecol</source>
+<volume>78</volume>: <fpage>176</fpage>&#x02013;<lpage>187</lpage>.<pub-id pub-id-type="pmid">21539584</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0088"><mixed-citation publication-type="journal" id="mbt213398-cit-0088">
+<string-name>
+<surname>Pidot</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ishida</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Cyrulies</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name>
+<surname>Hertweck</surname>, <given-names>C.</given-names>
+</string-name> (<year>2014</year>) <article-title>Discovery of clostrubin, an exceptional polyphenolic polyketide antibiotic from a strictly anaerobic bacterium</article-title>. <source xml:lang="en">Angew Chem Int Ed Engl</source>
+<volume>53</volume>: <fpage>7856</fpage>&#x02013;<lpage>7859</lpage>.<pub-id pub-id-type="pmid">24827417</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0089"><mixed-citation publication-type="journal" id="mbt213398-cit-0089">
+<string-name>
+<surname>Puspita</surname>, <given-names>I.D.</given-names>
+</string-name>, <string-name>
+<surname>Kamagata</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tanaka</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Asano</surname>, <given-names>K.</given-names>
+</string-name>, and <string-name>
+<surname>Nakatsu</surname>, <given-names>C.H.</given-names>
+</string-name> (<year>2012</year>) <article-title>Are uncultivated bacteria really uncultivable?</article-title>
+<source xml:lang="en">Microbes Environ</source>
+<volume>27</volume>: <fpage>356</fpage>&#x02013;<lpage>366</lpage>.<pub-id pub-id-type="pmid">23059723</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0090"><mixed-citation publication-type="journal" id="mbt213398-cit-0090">
+<string-name>
+<surname>Reberts</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Schmelz</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gromyko</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Tistechok</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Petzke</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Scrima</surname>, <given-names>A.</given-names>
+</string-name>, and <string-name>
+<surname>Luzhetskyy</surname>, <given-names>A.</given-names>
+</string-name> (<year>2018</year>) <article-title>Design, development and application of whole&#x02010;cell based antibiotic&#x02010;specific biosensor</article-title>. <source xml:lang="en">Metab Eng</source>
+<volume>47</volume>: <fpage>263</fpage>&#x02013;<lpage>270</lpage>.<pub-id pub-id-type="pmid">29609044</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0091"><mixed-citation publication-type="journal" id="mbt213398-cit-0091">
+<string-name>
+<surname>Rebets</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kormanec</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Luzhetskyy</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bernaerts</surname>, <given-names>K.</given-names>
+</string-name>, and <string-name>
+<surname>Anne</surname>, <given-names>J.</given-names>
+</string-name> (<year>2017</year>) <article-title>Cloning and expression of metagenomic DNA in <italic>Streptomyces lividans</italic> and subsequent fermentation for optimized production</article-title>. <source xml:lang="en">Methods Mol Biol</source>
+<volume>1539</volume>: <fpage>99</fpage>&#x02013;<lpage>144</lpage>.<pub-id pub-id-type="pmid">27900687</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0092"><mixed-citation publication-type="journal" id="mbt213398-cit-0092">
+<string-name>
+<surname>Remsing</surname>, <given-names>L.L.</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#x000e1;lez</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Nur&#x02010;e&#x02010;Alam</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fern&#x000e1;ndez&#x02010;Lozano</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Bra&#x000f1;a</surname>, <given-names>A.F.</given-names>
+</string-name>, <string-name>
+<surname>Rix</surname>, <given-names>U.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2003</year>) <article-title>Mithramycin SK, a novel antitumor drug with improved therapeutic index, mithramycin SA, and demycarosyl&#x02010;mithramycin SK: three new products generated in the mithramycin producer <italic>Streptomyces argillaceus</italic> through combinatorial biosynthesis</article-title>. <source xml:lang="en">J Am Chem Soc</source>
+<volume>125</volume>: <fpage>5745</fpage>&#x02013;<lpage>5753</lpage>.<pub-id pub-id-type="pmid">12733914</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0093"><mixed-citation publication-type="journal" id="mbt213398-cit-0093">
+<string-name>
+<surname>Ross</surname>, <given-names>A.C.</given-names>
+</string-name>, <string-name>
+<surname>Gulland</surname>, <given-names>L.E.</given-names>
+</string-name>, <string-name>
+<surname>Dorrestein</surname>, <given-names>P.C.</given-names>
+</string-name>, and <string-name>
+<surname>Moore</surname>, <given-names>B.S.</given-names>
+</string-name> (<year>2015</year>) <article-title>Targeted capture and heterologous expression of the <italic>Pseudoalteromonas alterochromide</italic> gene cluster in <italic>Escherichia coli</italic> represents a promising natural product exploratory platform</article-title>. <source xml:lang="en">ACS Synth Biol</source>
+<volume>4</volume>: <fpage>414</fpage>&#x02013;<lpage>420</lpage>.<pub-id pub-id-type="pmid">25140825</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0094"><mixed-citation publication-type="journal" id="mbt213398-cit-0094">
+<string-name>
+<surname>Samuels</surname>, <given-names>R.I.</given-names>
+</string-name>, <string-name>
+<surname>Mattoso</surname>, <given-names>T.C.</given-names>
+</string-name>, and <string-name>
+<surname>Moreira</surname>, <given-names>D.D.</given-names>
+</string-name> (<year>2013</year>) <article-title>Chemical warfare: leaf&#x02010;cutting ants defend themselves and their gardens against parasite attack by deploying antibiotic secreting bacteria</article-title>. <source xml:lang="en">Commun Integr Biol</source>
+<volume>6</volume>: <fpage>e23095</fpage>.<pub-id pub-id-type="pmid">23795235</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0095"><mixed-citation publication-type="journal" id="mbt213398-cit-0095">
+<string-name>
+<surname>Schneider</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Ilic&#x02010;Tomic</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ruckert</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kalinowski</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gencic</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Zivkovic</surname>, <given-names>M.Z.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2018a</year>) <article-title>Genomics&#x02010;based insights into the biosynthesis and unusually high accumulation of free fatty acids by <italic>Streptomyces</italic> sp. NP10</article-title>. <source xml:lang="en">Front Microbiol</source>
+<volume>9</volume>: <fpage>1302</fpage>.<pub-id pub-id-type="pmid">29971051</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0096"><mixed-citation publication-type="journal" id="mbt213398-cit-0096">
+<string-name>
+<surname>Schneider</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Simic</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Aachmann</surname>, <given-names>F.L.</given-names>
+</string-name>, <string-name>
+<surname>R&#x000fc;ckert</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kristiansen</surname>, <given-names>K.A.</given-names>
+</string-name>, <string-name>
+<surname>Kalinowski</surname>, <given-names>J.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2018b</year>) <article-title>Genome mining of <italic>Streptomyces</italic> sp. YIM 130001 isolated from lichen affords new thiopeptide antibiotic</article-title>. <source xml:lang="en">Front Microbiol</source>
+<volume>9</volume>: <fpage>3139</fpage>.<pub-id pub-id-type="pmid">30619207</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0097"><mixed-citation publication-type="journal" id="mbt213398-cit-0097">
+<string-name>
+<surname>Schofield</surname>, <given-names>M.M.</given-names>
+</string-name>, <string-name>
+<surname>Jain</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Porat</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Dick</surname>, <given-names>G.J.</given-names>
+</string-name>, and <string-name>
+<surname>Sherman</surname>, <given-names>D.H.</given-names>
+</string-name> (<year>2015</year>) <article-title>Identification and analysis of the bacterial endosymbiont specialized for production of the chemotherapeutic natural product ET&#x02010;743</article-title>. <source xml:lang="en">Environ Microbiol</source>
+<volume>17</volume>: <fpage>3964</fpage>&#x02013;<lpage>3975</lpage>.<pub-id pub-id-type="pmid">26013440</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0098"><mixed-citation publication-type="journal" id="mbt213398-cit-0098">
+<string-name>
+<surname>Serganov</surname>, <given-names>A.</given-names>
+</string-name>, and <string-name>
+<surname>Nudler</surname>, <given-names>E.</given-names>
+</string-name> (<year>2013</year>) <article-title>A decade of riboswitches</article-title>. <source xml:lang="en">Cell</source>
+<volume>152</volume>: <fpage>17</fpage>&#x02013;<lpage>24</lpage>.<pub-id pub-id-type="pmid">23332744</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0099"><mixed-citation publication-type="journal" id="mbt213398-cit-0099">
+<string-name>
+<surname>Shen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rodrigo</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Prakash</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Majer</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Landrain</surname>, <given-names>T.E.</given-names>
+</string-name>, <string-name>
+<surname>Kirov</surname>, <given-names>B.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Dynamic signal processing by ribozyme&#x02010;mediated RNA circuits to control gene expression</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>43</volume>: <fpage>5158</fpage>&#x02013;<lpage>5170</lpage>.<pub-id pub-id-type="pmid">25916845</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0100"><mixed-citation publication-type="journal" id="mbt213398-cit-0100">
+<string-name>
+<surname>Sherpa</surname>, <given-names>R.T.</given-names>
+</string-name>, <string-name>
+<surname>Reese</surname>, <given-names>C.J.</given-names>
+</string-name>, and <string-name>
+<surname>Aliabadi</surname>, <given-names>H.M.</given-names>
+</string-name> (<year>2015</year>) <article-title>Application of iChip to grow &#x0201c;uncultivable&#x0201d; microorganisms and its impact on antibiotic discovery</article-title>. <source xml:lang="en">J Pharm Pharm Sci</source>
+<volume>18</volume>: <fpage>303</fpage>&#x02013;<lpage>315</lpage>.<pub-id pub-id-type="pmid">26517134</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0101"><mixed-citation publication-type="journal" id="mbt213398-cit-0101">
+<string-name>
+<surname>Skinnider</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Johnston</surname>, <given-names>C.W.</given-names>
+</string-name>, <string-name>
+<surname>Edgar</surname>, <given-names>R.E.</given-names>
+</string-name>, <string-name>
+<surname>Dejong</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Merwin</surname>, <given-names>N.J.</given-names>
+</string-name>, <string-name>
+<surname>Rees</surname>, <given-names>P.N.</given-names>
+</string-name>, and <string-name>
+<surname>Magarvey</surname>, <given-names>N.A.</given-names>
+</string-name> (<year>2016</year>) <article-title>Genomic charting of ribosomally synthesized natural product chemical space facilitates targeted mining</article-title>. <source xml:lang="en">Proc Natl Acad Sci</source>
+<volume>113</volume>: <fpage>E6343</fpage>&#x02013;<lpage>E6351</lpage>.<pub-id pub-id-type="pmid">27698135</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0102"><mixed-citation publication-type="journal" id="mbt213398-cit-0102">
+<string-name>
+<surname>Smith</surname>, <given-names>D.G.</given-names>
+</string-name>, and <string-name>
+<surname>Waksman</surname>, <given-names>S.A.</given-names>
+</string-name> (<year>1947</year>) <article-title>Tuberculostatic and tuberculocidal properties of streptomycin</article-title>. <source xml:lang="en">J Bacteriol</source>
+<volume>54</volume>: <fpage>253</fpage>&#x02013;<lpage>261</lpage>.<pub-id pub-id-type="pmid">16561356</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0103"><mixed-citation publication-type="journal" id="mbt213398-cit-0103">
+<string-name>
+<surname>Strachan</surname>, <given-names>C.R.</given-names>
+</string-name>, and <string-name>
+<surname>Davies</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>) <article-title>Antibiotics and evolution: food for thought</article-title>. <source xml:lang="en">J Ind Microbiol Biotechnol</source>
+<volume>43</volume>: <fpage>149</fpage>&#x02013;<lpage>153</lpage>.<pub-id pub-id-type="pmid">26527578</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0104"><mixed-citation publication-type="journal" id="mbt213398-cit-0104">
+<string-name>
+<surname>Sun</surname>, <given-names>Y.Q.</given-names>
+</string-name>, <string-name>
+<surname>Busche</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ruckert</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Paulus</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Rebets</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Novakova</surname>, <given-names>R.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Development of a biosensor concept to detect the production of cluster&#x02010;specific secondary metabolites</article-title>. <source xml:lang="en">ACS Synth Biol</source>
+<volume>6</volume>: <fpage>1026</fpage>&#x02013;<lpage>1033</lpage>.<pub-id pub-id-type="pmid">28221784</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0105"><mixed-citation publication-type="journal" id="mbt213398-cit-0105">
+<string-name>
+<surname>Surup</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Viehrig</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Rachid</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Plaza</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Maurer</surname>, <given-names>C.K.</given-names>
+</string-name>, <string-name>
+<surname>Hartmann</surname>, <given-names>R.W.</given-names>
+</string-name>, and <string-name>
+<surname>Muller</surname>, <given-names>R.</given-names>
+</string-name> (<year>2018</year>) <article-title>Crocadepsins&#x02010;depsipeptides from the myxobacterium <italic>Chondromyces crocatus</italic> found by a genome mining approach</article-title>. <source xml:lang="en">ACS Chem Biol</source>
+<volume>13</volume>: <fpage>267</fpage>&#x02013;<lpage>272</lpage>.<pub-id pub-id-type="pmid">29220569</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0106"><mixed-citation publication-type="journal" id="mbt213398-cit-0106">
+<string-name>
+<surname>Thanapipatsiri</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Claesen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gomez&#x02010;Escribano</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Bibb</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name>
+<surname>Thamchaipenet</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015</year>) <article-title>A <italic>Streptomyces coelicolor</italic> host for the heterologous expression of Type III polyketide synthase genes</article-title>. <source xml:lang="en">Microb Cell Fact</source>
+<volume>14</volume>: <fpage>145</fpage>.<pub-id pub-id-type="pmid">26376792</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0107"><mixed-citation publication-type="journal" id="mbt213398-cit-0107">
+<string-name>
+<surname>Tiwari</surname>, <given-names>K.</given-names>
+</string-name>, and <string-name>
+<surname>Gupta</surname>, <given-names>R.K.</given-names>
+</string-name> (<year>2013</year>) <article-title>Diversity and isolation of rare actinomycetes: an overview</article-title>. <source xml:lang="en">Crit Rev Microbiol</source>
+<volume>39</volume>: <fpage>256</fpage>&#x02013;<lpage>294</lpage>.<pub-id pub-id-type="pmid">22901022</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0108"><mixed-citation publication-type="journal" id="mbt213398-cit-0108">
+<string-name>
+<surname>Tu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ju</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<surname>Li</surname>, <given-names>Q.</given-names>
+</string-name> (<year>2018</year>) <article-title>Characterization and heterologous expression of the neoabyssomicin/abyssomicin biosynthetic gene cluster from <italic>Streptomyces koyangensis</italic> SCSIO 5802</article-title>. <source xml:lang="en">Microb Cell Fact</source>
+<volume>17</volume>: <fpage>28</fpage>.<pub-id pub-id-type="pmid">29463238</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0109"><mixed-citation publication-type="journal" id="mbt213398-cit-0109">
+<string-name>
+<surname>Wang</surname>, <given-names>J.W.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>K.Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>B.M.</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>, <given-names>S.Q.</given-names>
+</string-name>, <string-name>
+<surname>Reiser</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name>
+<surname>Lockey</surname>, <given-names>R.F.</given-names>
+</string-name> (<year>2015</year>) <article-title>CRISPR/Cas9 nuclease cleavage combined with Gibson assembly for seamless cloning</article-title>. <source xml:lang="en">Biotechniques</source>
+<volume>58</volume>: <fpage>161</fpage>&#x02013;<lpage>170</lpage>.<pub-id pub-id-type="pmid">25861928</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0110"><mixed-citation publication-type="journal" id="mbt213398-cit-0110">
+<string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Cobb</surname>, <given-names>R.</given-names>
+</string-name>, and <string-name>
+<surname>Zhao</surname>, <given-names>H.</given-names>
+</string-name> (<year>2016</year>) <article-title>High&#x02010;efficiency genome editing of <italic>Streptomyces</italic> species by an engineered CRISPR/Cas system</article-title>. <source xml:lang="en">Methods Enzymol</source>
+<volume>575</volume>: <fpage>271</fpage>&#x02013;<lpage>284</lpage>.<pub-id pub-id-type="pmid">27417933</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0111"><mixed-citation publication-type="journal" id="mbt213398-cit-0111">
+<string-name>
+<surname>Weber</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Blin</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Duddela</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Krug</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>H.U.</given-names>
+</string-name>, <string-name>
+<surname>Bruccoleri</surname>, <given-names>R.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>antiSMASH 3.0&#x02014;a comprehensive resource for the genome mining of biosynthetic gene clusters</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>43</volume>: <fpage>W237</fpage>&#x02013;<lpage>W243</lpage>.<pub-id pub-id-type="pmid">25948579</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0112"><mixed-citation publication-type="journal" id="mbt213398-cit-0112">
+<string-name>
+<surname>Weissman</surname>, <given-names>K.J.</given-names>
+</string-name> (<year>2004</year>) <article-title>Polyketide biosynthesis: understanding and exploiting modularity</article-title>. <source xml:lang="en">Philos Trans A Math Phys Eng Sci</source>
+<volume>362</volume>: <fpage>2671</fpage>&#x02013;<lpage>2690</lpage>.<pub-id pub-id-type="pmid">15539364</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0113"><mixed-citation publication-type="journal" id="mbt213398-cit-0113">
+<string-name>
+<surname>Weissman</surname>, <given-names>K.J.</given-names>
+</string-name> (<year>2016</year>) <article-title>Genetic engineering of modular PKSs: from combinatorial biosynthesis to synthetic biology</article-title>. <source xml:lang="en">Nat Prod Rep</source>
+<volume>33</volume>: <fpage>203</fpage>&#x02013;<lpage>230</lpage>.<pub-id pub-id-type="pmid">26555805</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0114"><mixed-citation publication-type="journal" id="mbt213398-cit-0114">
+<string-name>
+<surname>Xu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Barrett</surname>, <given-names>N.H.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title>Bioprospecting deep&#x02010;sea actinobacteria for novel anti&#x02010;infective natural products</article-title>. <source xml:lang="en">Front Microbiol</source>
+<volume>9</volume>: <fpage>787</fpage>.<pub-id pub-id-type="pmid">29760684</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0115"><mixed-citation publication-type="journal" id="mbt213398-cit-0115">
+<string-name>
+<surname>Yamanaka</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Reynolds</surname>, <given-names>K.A.</given-names>
+</string-name>, <string-name>
+<surname>Kersten</surname>, <given-names>R.D.</given-names>
+</string-name>, <string-name>
+<surname>Ryan</surname>, <given-names>K.S.</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Nizet</surname>, <given-names>V.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Direct cloning and refactoring of a silent lipopeptide biosynthetic gene cluster yields the antibiotic taromycin A</article-title>. <source xml:lang="en">P Natl Acad Sci USA</source>
+<volume>111</volume>: <fpage>1957</fpage>&#x02013;<lpage>1962</lpage>.</mixed-citation></ref><ref id="mbt213398-bib-0116"><mixed-citation publication-type="journal" id="mbt213398-cit-0116">
+<string-name>
+<surname>Ye</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Molloy</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Bra&#x000f1;a</surname>, <given-names>A.F.</given-names>
+</string-name>, <string-name>
+<surname>Zabala</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Olano</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Cort&#x000e9;s</surname>, <given-names>J.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Identification by genome mining of a type I polyketide gene cluster from <italic>Streptomyces argillaceus</italic> involved in the biosynthesis of pyridine and piperidine alkaloids argimycins P</article-title>. <source xml:lang="en">Front Microbiol</source>
+<volume>8</volume>: <fpage>194</fpage>.<pub-id pub-id-type="pmid">28239372</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0117"><mixed-citation publication-type="journal" id="mbt213398-cit-0117">
+<string-name>
+<surname>Zeng</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Zhai</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Highly efficient editing of the actinorhodin polyketide chain length factor gene in <italic>Streptomyces coelicolor</italic> M145 using CRISPR/Cas9&#x02010;CodA (sm) combined system</article-title>. <source xml:lang="en">Appl Microbiol Biot</source>
+<volume>99</volume>: <fpage>10575</fpage>&#x02013;<lpage>10585</lpage>.</mixed-citation></ref><ref id="mbt213398-bib-0118"><mixed-citation publication-type="journal" id="mbt213398-cit-0118">
+<string-name>
+<surname>Zhang</surname>, <given-names>M.M.</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>, <given-names>F.T.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>, <given-names>Y.H.</given-names>
+</string-name>, <string-name>
+<surname>Heng</surname>, <given-names>E.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>CRISPR&#x02013;Cas9 strategy for activation of silent <italic>Streptomyces</italic> biosynthetic gene clusters</article-title>. <source xml:lang="en">Nat Chem Biol</source>
+<volume>13</volume>: <fpage>607</fpage>.</mixed-citation></ref><ref id="mbt213398-bib-0119"><mixed-citation publication-type="journal" id="mbt213398-cit-0119">
+<string-name>
+<surname>Zhang</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>K.B.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Bi</surname>, <given-names>S.F.</given-names>
+</string-name>, <string-name>
+<surname>Mei</surname>, <given-names>Y.N.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>X.Z.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title>Discovery, biosynthesis, and heterologous production of streptoseomycin, an anti&#x02010;microaerophilic bacteria macrodilactone</article-title>. <source xml:lang="en">Org Lett</source>
+<volume>20</volume>: <fpage>2967</fpage>&#x02013;<lpage>2971</lpage>.<pub-id pub-id-type="pmid">29697266</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0120"><mixed-citation publication-type="journal" id="mbt213398-cit-0120">
+<string-name>
+<surname>Zhou</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Bu</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Genome mining&#x02010;directed activation of a silent angucycline biosynthetic gene cluster in <italic>Streptomyces chattanoogensis</italic>
+</article-title>. <source xml:lang="en">ChemBioChem</source>
+<volume>16</volume>: <fpage>496</fpage>&#x02013;<lpage>502</lpage>.<pub-id pub-id-type="pmid">25511454</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0121"><mixed-citation publication-type="journal" id="mbt213398-cit-0121">
+<string-name>
+<surname>Zhou</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>, <given-names>X.</given-names>
+</string-name>, and <string-name>
+<surname>Qin</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2016</year>) <article-title>CasHRA (Cas 9&#x02010;facilitated Homologous Recombination Assembly) method of constructing megabase&#x02010;sized DNA</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>44</volume>: <fpage>e124</fpage>.<pub-id pub-id-type="pmid">27220470</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0122"><mixed-citation publication-type="journal" id="mbt213398-cit-0122">
+<string-name>
+<surname>Ziemert</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Lechner</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wietz</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Millan&#x02010;Aguinaga</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Chavarria</surname>, <given-names>K.L.</given-names>
+</string-name>, and <string-name>
+<surname>Jensen</surname>, <given-names>P.R.</given-names>
+</string-name> (<year>2014</year>) <article-title>Diversity and evolution of secondary metabolism in the marine actinomycete genus <italic>Salinispora</italic>
+</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<volume>111</volume>: <fpage>E1130</fpage>&#x02013;<lpage>E1139</lpage>.<pub-id pub-id-type="pmid">24616526</pub-id></mixed-citation></ref><ref id="mbt213398-bib-0123"><mixed-citation publication-type="journal" id="mbt213398-cit-0123">
+<string-name>
+<surname>Zipperer</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Konnerth</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Laux</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Berscheid</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Janek</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Weidenmaier</surname>, <given-names>C.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Human commensals producing a novel antibiotic impair pathogen colonization</article-title>. <source xml:lang="en">Nature</source>
+<volume>535</volume>: <fpage>511</fpage>.<pub-id pub-id-type="pmid">27466123</pub-id></mixed-citation></ref></ref-list></back></article>

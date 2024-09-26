@@ -1,0 +1,898 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="anie202203175" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Angew Chem Int Ed Engl</journal-id><journal-id journal-id-type="iso-abbrev">Angew Chem Int Ed Engl</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1521-3773</journal-id><journal-id journal-id-type="publisher-id">ANIE</journal-id><journal-title-group><journal-title>Angewandte Chemie (International Ed. in English)</journal-title></journal-title-group><issn pub-type="ppub">1433-7851</issn><issn pub-type="epub">1521-3773</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">9321709</article-id><article-id pub-id-type="pmid">35325497</article-id><article-id pub-id-type="doi">10.1002/anie.202203175</article-id><article-id pub-id-type="publisher-id">ANIE202203175</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject><subj-group subj-group-type="heading"><subject>Natural Products</subject></subj-group></subj-group></article-categories><title-group><article-title>Euglenatides, Potent Antiproliferative Cyclic Peptides Isolated from the Freshwater Photosynthetic Microalga <italic toggle="yes">Euglena gracilis</italic>
+</article-title></title-group><contrib-group><contrib id="anie202203175-cr-0001" contrib-type="author" corresp="yes"><name><surname>Aldholmi</surname><given-names>Mohammed</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-3270-0338</contrib-id><xref rid="anie202203175-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>mjaldholami@iau.edu.sa</email></address></contrib><contrib id="anie202203175-cr-0002" contrib-type="author"><name><surname>Ahmad</surname><given-names>Rizwan</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-6490-8219</contrib-id><xref rid="anie202203175-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="anie202203175-cr-0003" contrib-type="author"><name><surname>Carretero&#x02010;Molina</surname><given-names>Daniel</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-4481-8157</contrib-id><xref rid="anie202203175-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="anie202203175-cr-0004" contrib-type="author"><name><surname>P&#x000e9;rez&#x02010;Victoria</surname><given-names>Ignacio</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-4556-688X</contrib-id><xref rid="anie202203175-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="anie202203175-cr-0005" contrib-type="author"><name><surname>Mart&#x000ed;n</surname><given-names>Jes&#x000fa;s</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-7487-2790</contrib-id><xref rid="anie202203175-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="anie202203175-cr-0006" contrib-type="author"><name><surname>Reyes</surname><given-names>Fernando</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-1607-5106</contrib-id><xref rid="anie202203175-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="anie202203175-cr-0007" contrib-type="author"><name><surname>Genilloud</surname><given-names>Olga</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-4202-1219</contrib-id><xref rid="anie202203175-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="anie202203175-cr-0008" contrib-type="author"><name><surname>Gourbeyre</surname><given-names>L&#x000e9;a</given-names><prefix>Dr.</prefix></name><xref rid="anie202203175-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="anie202203175-cr-0009" contrib-type="author"><name><surname>Gefflaut</surname><given-names>Thierry</given-names><prefix>Prof.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-4411-8233</contrib-id><xref rid="anie202203175-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="anie202203175-cr-0010" contrib-type="author"><name><surname>Carlsson</surname><given-names>Hanne</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-3001-8258</contrib-id><xref rid="anie202203175-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="anie202203175-cr-0011" contrib-type="author"><name><surname>Maklakov</surname><given-names>Alexei</given-names><prefix>Prof.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-5809-1203</contrib-id><xref rid="anie202203175-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="anie202203175-cr-0012" contrib-type="author"><name><surname>O'Neill</surname><given-names>Ellis</given-names><prefix>Dr.</prefix></name><xref rid="anie202203175-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="anie202203175-cr-0013" contrib-type="author"><name><surname>Field</surname><given-names>Robert A.</given-names><prefix>Prof.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-8574-0275</contrib-id><xref rid="anie202203175-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="anie202203175-cr-0014" contrib-type="author"><name><surname>Wilkinson</surname><given-names>Barrie</given-names><prefix>Prof.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-7646-7174</contrib-id><xref rid="anie202203175-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="anie202203175-cr-0015" contrib-type="author"><name><surname>O'Connell</surname><given-names>Maria</given-names><prefix>Prof.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-0267-0951</contrib-id><xref rid="anie202203175-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="anie202203175-cr-0016" contrib-type="author" corresp="yes"><name><surname>Ganesan</surname><given-names>A.</given-names><prefix>Prof.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-4862-7999</contrib-id><xref rid="anie202203175-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><address><email>a.ganesan@uea.ac.uk</email></address></contrib></contrib-group><aff id="anie202203175-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Natural Products and Alternative Medicine</named-content>
+<named-content content-type="organisation-division">College of Clinical Pharmacy</named-content>
+<institution>Imam Abdulrahman Bin Faisal University</institution>
+<city>Dammam</city>
+<postal-code>31441</postal-code>
+<country country="SA">Saudi Arabia</country>
+</aff><aff id="anie202203175-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Fundaci&#x000f3;n MEDINA</named-content>
+<institution>Centro de Excelencia en Investigaci&#x000f3;n de Medicamentos Innovadores en Andaluc&#x000ed;a</institution>
+<named-content content-type="street">Avenida del Conocimiento 34</named-content>
+<postal-code>18016</postal-code>
+<city>Armilla</city>
+<named-content content-type="country-part">Granada</named-content>
+<country country="ES">Spain</country>
+</aff><aff id="anie202203175-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Universit&#x000e9; Clermont Auvergne</institution>
+<named-content content-type="organisation-division">Clermont Auvergne INP, CNRS, Institut Pascal</named-content>
+<postal-code>63000</postal-code>
+<city>Clermont-Ferrand</city>
+<country country="FR">France</country>
+</aff><aff id="anie202203175-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">School of Biological Sciences</named-content>
+<institution>University of East Anglia</institution>
+<named-content content-type="organisation-division">Norwich Research Park</named-content>
+<city>Norwich</city>
+<postal-code>NR4 7TJ</postal-code>
+<country country="GB">UK</country>
+</aff><aff id="anie202203175-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">School of Chemistry</named-content>
+<institution>University of Nottingham</institution>
+<city>Nottingham</city>
+<postal-code>NG7 2RD</postal-code>
+<country country="GB">UK</country>
+</aff><aff id="anie202203175-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Manchester Institute of Biotechnology</named-content>
+<institution>University of Manchester</institution>
+<city>Manchester</city>
+<postal-code>M1 7DN</postal-code>
+<country country="GB">UK</country>
+</aff><aff id="anie202203175-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<institution>John Innes Centre</institution>
+<named-content content-type="organisation-division">Norwich Research Park</named-content>
+<city>Norwich</city>
+<postal-code>NR4 7UH</postal-code>
+<country country="GB">UK</country>
+</aff><aff id="anie202203175-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">School of Pharmacy</named-content>
+<institution>University of East Anglia</institution>
+<named-content content-type="organisation-division">Norwich Research Park</named-content>
+<city>Norwich</city>
+<postal-code>NR4 7TJ</postal-code>
+<country country="GB">UK</country>
+</aff><pub-date pub-type="epub"><day>06</day><month>4</month><year>2022</year></pub-date><pub-date pub-type="ppub"><day>07</day><month>6</month><year>2022</year></pub-date><volume>61</volume><issue seq="4380">23</issue><issue-id pub-id-type="doi">10.1002/anie.v61.23</issue-id><elocation-id>e202203175</elocation-id><history>
+<date date-type="received"><day>01</day><month>3</month><year>2022</year></date>
+</history><permissions><!--&#x000a9; 2022 Wiley&#x02010;VCH GmbH--><copyright-statement content-type="article-copyright">&#x000a9; 2022 The Authors. Angewandte Chemie International Edition published by Wiley-VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ANIE-61-0.pdf"/><abstract><title>Abstract</title><p>By limiting the nitrogen source to glutamic acid, we isolated cyclic peptides from <italic toggle="yes">Euglena gracilis</italic> containing asparagine and non&#x02010;proteinogenic amino acids. Structure elucidation was accomplished through spectroscopic methods, mass spectrometry and chemical degradation. The euglenatides potently inhibit pathogenic fungi and cancer cell lines e.g., euglenatide B exhibiting IC<sub>50</sub> values of 4.3&#x02005;&#x003bc;M in <italic toggle="yes">Aspergillus fumigatus</italic> and 0.29&#x02005;&#x003bc;M in MCF&#x02010;7 breast cancer cells. In an unprecedented convergence of non&#x02010;ribosomal peptide synthetase and polyketide synthase assembly&#x02010;line biosynthesis between unicellular species and the metazoan kingdom, euglenatides bear resemblance to nemamides from <italic toggle="yes">Caenorhabditis elegans</italic> and inhibited both producing organisms <italic toggle="yes">E.&#x02005;gracilis</italic> and <italic toggle="yes">C.&#x02005;elegans</italic>. By molecular network analysis, we detected over forty euglenatide&#x02010;like metabolites in <italic toggle="yes">E.&#x02005;gracilis</italic>, <italic toggle="yes">E.&#x02005;sanguinea</italic> and <italic toggle="yes">E.&#x02005;mutabilis</italic>, suggesting an important biological role for these natural products.</p></abstract><abstract abstract-type="graphical"><p>Light and glutamic acid induced <italic toggle="yes">E.&#x02005;gracilis</italic> to produce euglenatides with antifungal and anticancer activity. Euglenatides were also detected in <italic toggle="yes">E.&#x02005;sanguinea</italic> and <italic toggle="yes">E.&#x02005;mutabilis</italic>. They resemble the nemamides isolated from <italic toggle="yes">C.&#x02005;elegans</italic>, inhibited both producing species, and represent uniquely convergent assembly&#x02010;line biosynthesis between unicellular organisms and metazoans.<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="ANIE-61-0-g005.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="anie202203175-kwd-0001">Antiproliferative</kwd><kwd id="anie202203175-kwd-0002">Cyclic Peptides</kwd><kwd id="anie202203175-kwd-0003">Microalgae</kwd><kwd id="anie202203175-kwd-0004">Natural Products</kwd><kwd id="anie202203175-kwd-0005">Nematodes</kwd></kwd-group><counts><fig-count count="9"/><table-count count="0"/><ref-count count="39"/><page-count count="7"/><word-count count="0"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 7, 2022</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.1.7 mode:remove_FC converted:26.07.2022</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="self-citation" id="anie202203175-self">M. Aldholmi, R. Ahmad, D. Carretero-Molina, I. P&#x000e9;rez-Victoria, J. Mart&#x000ed;n, F. Reyes, O. Genilloud, L. Gourbeyre, T. Gefflaut, H. Carlsson, A. Maklakov, E. O'Neill, R. A. Field, B. Wilkinson, M. O'Connell, A. Ganesan, <italic toggle="yes">Angew. Chem. Int. Ed.</italic>
+<bold>2022</bold>, <italic toggle="yes">61</italic>, e202203175; <italic toggle="yes">Angew. Chem.</italic>
+<bold>2022</bold>, <italic toggle="yes">134</italic>, e202203175.</mixed-citation>
+</p></notes></front><body><sec id="anie202203175-sec-0001"><title>Introduction</title><p>Microorganisms are a bountiful source of biologically active secondary metabolites, especially those with antimicrobial or cytotoxic properties.[<xref rid="anie202203175-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="anie202203175-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>] Indeed, the treatment of infectious disease and cancer relies heavily on natural products or their semisynthetic or fully synthetic analogues.<xref rid="anie202203175-bib-0003" ref-type="bibr">
+<sup>[3]</sup>
+</xref> Nevertheless, we have only scratched the surface of microbial metabolite diversity, as a tiny fraction of species are successfully isolated and cultured.[<xref rid="anie202203175-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="anie202203175-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>] Furthermore, even within this minority, the vast number of secondary metabolite biosynthetic gene clusters (BGCs) remain silent under artificial laboratory conditions.<xref rid="anie202203175-bib-0006" ref-type="bibr">
+<sup>[6]</sup>
+</xref> Many approaches are being studied for the activation of BGCs including the alteration of fermentation parameters, addition of small molecule elicitors, expression or deletion of transcriptional modulators and reconstitution in a heterologous host.[<xref rid="anie202203175-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="anie202203175-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>]</p><p>As a case in point, the common freshwater unicellular microalga <italic toggle="yes">Euglena gracilis</italic> is capable of plant&#x02010;like photoautotrophic growth with light as an energy source and carbon dioxide as the carbon source, animal&#x02010;like heterotrophic feeding with an external carbon source, or mixotrophically combining the two modes. <italic toggle="yes">E.&#x02005;gracilis</italic> is produced commercially as a food supplement,<xref rid="anie202203175-bib-0009" ref-type="bibr">
+<sup>[9]</sup>
+</xref> investigated as a potential biofuel source of lipids, carbohydrates and vitamins,<xref rid="anie202203175-bib-0010" ref-type="bibr">
+<sup>[10]</sup>
+</xref> and even grown with complete replacement of hydrogen by deuterium,<xref rid="anie202203175-bib-0011" ref-type="bibr">
+<sup>[11]</sup>
+</xref> or in outer space as a potential bioregenerative life support system.<xref rid="anie202203175-bib-0012" ref-type="bibr">
+<sup>[12]</sup>
+</xref> Despite such intensive scrutiny, the heterocycle euglenapterin (Figure&#x02005;<xref rid="anie202203175-fig-0001" ref-type="fig">1</xref>) is the only secondary metabolite reported from <italic toggle="yes">E.&#x02005;gracilis</italic>.[<xref rid="anie202203175-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="anie202203175-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>] In fact, the only natural product of note from the entire <italic toggle="yes">Euglena</italic> genus (&#x0003e;250 species) is the cytotoxic alkaloid euglenophycin, isolated from <italic toggle="yes">E.&#x02005;sanguinea</italic> and detected in several other species but absent in <italic toggle="yes">E.&#x02005;gracilis</italic>.[<xref rid="anie202203175-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="anie202203175-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>] Nonetheless, partial genome sequencing of <italic toggle="yes">E.&#x02005;gracilis</italic> and transcriptome analysis identified a large number of enzymes involved in secondary metabolism.[<xref rid="anie202203175-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="anie202203175-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>] This included 19 non&#x02010;ribosomal peptide synthetases (NRPSs) and 14 polyketide synthases (PKSs), multidomain enzymes involved in assembly&#x02010;line biosynthesis,[<xref rid="anie202203175-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="anie202203175-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>] suggesting that <italic toggle="yes">E.&#x02005;gracilis</italic> is a potential source of hitherto undiscovered natural products.
+</p><fig position="float" fig-type="Figure" id="anie202203175-fig-0001"><label>Figure 1</label><caption><p>Previous secondary metabolites isolated from <italic toggle="yes">Euglena</italic>.</p></caption><graphic xlink:href="ANIE-61-0-g007" position="anchor" id="jats-graphic-3"/></fig></sec><sec id="anie202203175-sec-0002"><title>Results and Discussion</title><sec id="anie202203175-sec-0003"><title>Discovery of Euglenatides</title><p>We cultured <italic toggle="yes">Euglena gracilis</italic> var. <italic toggle="yes">saccharophila</italic> Klebs (strain 1224/7A) under photosynthetic and heterotrophic conditions (media composition in Table&#x02005;S1, S2). Disappointingly, only common chlorophyll and xanthophyll photosynthetic pigments were perceived in extracts of either the supernatant or the algal biomass. The addition of small molecule epigenetic modulators, that we used to activate BGCs in <italic toggle="yes">Aspergillus</italic> fungi,<xref rid="anie202203175-bib-0021" ref-type="bibr">
+<sup>[21]</sup>
+</xref> was also to no avail. A breakthrough came about by considering the role of our nitrogen source. While the standard culture medium contains a complex mixture of amino acids arising from tryptone and yeast extract protein hydrolysates, Oda et&#x02005;al. reported that amino acids can either promote or inhibit growth in <italic toggle="yes">E.&#x02005;gracilis</italic>, with glutamic acid being the most effective nutrient.<xref rid="anie202203175-bib-0022" ref-type="bibr">
+<sup>[22]</sup>
+</xref> Consequently, we removed tryptone and yeast extract from our medium and instead used a minimal composition supplemented by glutamic acid. Gratifyingly, new metabolites were now observed in the biomass extract of <italic toggle="yes">E.&#x02005;gracilis</italic> grown photosynthetically, and the effect was replicated by several other amino acids, notably asparagine and glutamine (Figure&#x02005;<xref rid="anie202203175-fig-0002" ref-type="fig">2</xref>). Time course experiments indicated a maximal metabolite production after ten days of cultivation in minimal medium with the addition of 30&#x02005;mM glutamic acid (Figure&#x02005;S1). Under higher resolution in the HPLC, the main induced peak split into multiple closely overlapping signals (Figure&#x02005;<xref rid="anie202203175-fig-0002" ref-type="fig">2</xref>). We named the compounds corresponding to the five major peaks as euglenatides&#x02005;A&#x02013;E in order of chromatographic elution.
+</p><fig position="float" fig-type="Figure" id="anie202203175-fig-0002"><label>Figure 2</label><caption><p>Overlay of HPLC traces at 270&#x02005;nm from <italic toggle="yes">E.&#x02005;gracilis</italic> extracts cultured in complex or minimal media supplemented with 30&#x02005;mM of individual amino acids. Under optimized HPLC conditions, the major induced peak split into multiple overlapping signals.</p></caption><graphic xlink:href="ANIE-61-0-g009" position="anchor" id="jats-graphic-5"/></fig><p>From UV/Vis absorption maxima at 260, 269 and 280&#x02005;nm (Figure&#x02005;S2), we surmised the euglenatides contain a conjugated triene substructure.<xref rid="anie202203175-bib-0023" ref-type="bibr">
+<sup>[23]</sup>
+</xref> In negative mode electrospray mass spectrometry (ESI&#x02010;MS, Figure&#x02005;S3), the molecular ions and predicted molecular formulae did not correspond to any known natural products: euglenatide A, <italic toggle="yes">m</italic>/<italic toggle="yes">z</italic> 825.4612 [<italic toggle="yes">M</italic>&#x02212;H]<sup>&#x02212;</sup> (calcd. for C<sub>39</sub>H<sub>65</sub>N<sub>6</sub>O<sub>13</sub>, 825.4615, &#x00394;=&#x02212;0.4&#x02005;ppm); euglenatide B <italic toggle="yes">m</italic>/<italic toggle="yes">z</italic> 808.4464 [<italic toggle="yes">M</italic>&#x02212;H]<sup>&#x02212;</sup> (calcd. for C<sub>38</sub>H<sub>62</sub>N<sub>7</sub>O<sub>12</sub>, 808.4462, &#x00394;=0.3&#x02005;ppm); euglenatide C <italic toggle="yes">m</italic>/<italic toggle="yes">z</italic> 822.4615 [<italic toggle="yes">M</italic>&#x02212;H]<sup>&#x02212;</sup> (calcd. for C<sub>39</sub>H<sub>64</sub>N<sub>7</sub>O<sub>12</sub>, 822.4618, &#x00394;=&#x02212;0.4&#x02005;ppm); euglenatide D <italic toggle="yes">m</italic>/<italic toggle="yes">z</italic> 809.4659 [<italic toggle="yes">M</italic>&#x02212;H]<sup>&#x02212;</sup> (calcd. for C<sub>39</sub>H<sub>65</sub>N<sub>6</sub>O<sub>12</sub>, 809.4666, &#x00394;=&#x02212;0.9&#x02005;ppm); euglenatide E <italic toggle="yes">m</italic>/<italic toggle="yes">z</italic> 792.4516 [<italic toggle="yes">M</italic>&#x02212;H]<sup>&#x02212;</sup> (calcd. for C<sub>38</sub>H<sub>62</sub>N<sub>7</sub>O<sub>11</sub>, 792.4513, &#x00394;=0.4&#x02005;ppm). In positive mode ESI&#x02010;MS (Figure&#x02005;S4), in addition to the molecular ion, all euglenatides produced prominent fragments of [<italic toggle="yes">M</italic>&#x02212;32]<sup>+</sup> and [<italic toggle="yes">M</italic>&#x02212;50]<sup>+</sup> that we attributed to the loss of methanol (32&#x02005;Da) or methanol+water (50&#x02005;Da).</p></sec><sec id="anie202203175-sec-0004"><title>Isolation and Structure Elucidation</title><p>We cultured <italic toggle="yes">E.&#x02005;gracilis</italic> in larger 18&#x02005;L scale, with minimal medium+30&#x02005;mM Glu, at ambient temperature under photosynthetic conditions (irradiation by daylight lamps, 2000 lumens). Following cell lysis and extraction, the residue of 1.7&#x02005;g was initially purified by silica flash chromatography to give 187&#x02005;mg of a mixture of euglenatides. Repeated cycles of semi&#x02010;preparative HPLC finally afforded 2.8&#x02005;mg of pure euglenatide&#x02005;A, 5.7&#x02005;mg of euglenatide&#x02005;B, 2.8&#x02005;mg of euglenatide&#x02005;C, 2.3&#x02005;mg of euglenatide&#x02005;D and 2.4&#x02005;mg of euglenatide&#x02005;E. IR absorptions at 3347&#x02005;cm<sup>&#x02212;1</sup> (NH) and 1651&#x02005;cm<sup>&#x02212;1</sup> (CO) revealed the presence of amide carbonyl groups while the broad peak at 2873&#x02005;cm<sup>&#x02212;1</sup> (CH) was characteristic of an aliphatic chain.</p><p>The molecular connectivity of euglenatides was established by extensive 1D and 2D&#x02010;NMR experiments (Figures&#x02005;S5&#x02013;S40). For euglenatide&#x02005;B (Table&#x02005;S3), the presence of nine amide protons at <italic toggle="yes">&#x003b4;</italic>
+<sub>H</sub> 6.88 (1&#x02009;H, s), 6.90 (1&#x02009;H, d), 7.06 (1&#x02009;H, s), 7.29 (1&#x02009;H, s), 7.36 (1&#x02009;H, s), 7.65 (1&#x02009;H, d), 7.77 (1&#x02009;H, d), 7.78 (1&#x02009;H, s) and 9.02 (1&#x02009;H, d) in the <sup>1</sup>H NMR spectrum, and seven carbonyl carbon signals at <italic toggle="yes">&#x003b4;</italic>
+<sub>C</sub> 176.3, 173.4, 172.4, 172.3, 172.1, 171.1 and 169.6 implied a peptide backbone. In addition, overlapping signals at <italic toggle="yes">&#x003b4;</italic>
+<sub>H</sub> 1.25 in the <sup>1</sup>H NMR spectrum and a cluster of methylene carbon signals at <italic toggle="yes">&#x003b4;</italic>
+<sub>C</sub> 28.5&#x02013;31.2 in the HSQC spectrum, and a methyl group at <italic toggle="yes">&#x003b4;</italic>
+<sub>H</sub> 0.85 (3H, t) and <italic toggle="yes">&#x003b4;</italic>
+<sub>C</sub> 13.9 indicated the presence of a long aliphatic chain. The signals at <italic toggle="yes">&#x003b4;</italic>
+<sub>H</sub> 4.31, 4.38, 4.44 and 5.13 were diagnostic of four hydroxyls while the singlet at <italic toggle="yes">&#x003b4;</italic>
+<sub>H</sub> 3.13, accompanied by <italic toggle="yes">&#x003b4;</italic>
+<sub>C</sub> 55.5, indicated a methoxy group. A triene, as inferred from the UV/Vis spectrum, was confirmed by six proton signals at <italic toggle="yes">&#x003b4;</italic>
+<sub>H</sub> 5.51 (1&#x02009;H, dd), 5.72 (1&#x02009;H, dt), 6.07 (1&#x02009;H, dd), 6.15 (1&#x02009;H, dd), 6.20 (1&#x02009;H, dd), 6.24 (1&#x02009;H, dd), and six carbon signals at <italic toggle="yes">&#x003b4;</italic>
+<sub>C</sub> 135.1, 133.9, 132.8, 131.3, 130.3, 130.0. Analysis of <sup>1</sup>H, <sup>13</sup>C, and HSQC data, in addition to key COSY and HMBC correlations, unveiled the presence of two asparagine residues (Asn I and Asn II) and three non&#x02010;proteinogenic amino acids: &#x003b2;&#x02010;aminoisobutyric acid (&#x003b2;Aib), 4,5&#x02010;dihydroxynorvaline (Dnv) and the novel &#x003b2;&#x02010;amino&#x02010;2,5&#x02010;dihydroxy&#x02010;7&#x02010;methoxy&#x02010;8,10,12&#x02010;eicosatrienoic acid residue that we named graciline (Gra) after its origin from <italic toggle="yes">E.&#x02005;gracilis</italic>. The sequence of amino acid residues was established by correlations of the NH protons to the amide carbonyls and CH<sub>&#x003b1;</sub> and CH<sub>&#x003b2;</sub> protons in the amino acid side chains in HMBC and COSY spectra, resulting in the complete 2D structure of euglenatide&#x02005;B (Figure&#x02005;<xref rid="anie202203175-fig-0003" ref-type="fig">3</xref>). The allylic loss of methanol and water assisted by the conjugated triene is presumably a facile process, accounting for the resulting fragment ions observed in positive mode mass spectrometry.
+</p><fig position="float" fig-type="Figure" id="anie202203175-fig-0003"><label>Figure 3</label><caption><p>Key COSY and HMBC correlations used to establish the molecular connectivity of euglenatide&#x02005;B.</p></caption><graphic xlink:href="ANIE-61-0-g002" position="anchor" id="jats-graphic-7"/></fig><p>The non&#x02010;proteinogenic amino acid &#x003b2;Aib is rarely found within natural products, previously reported in only the guanidine phascolosomine from the sipunculid worm <italic toggle="yes">Phascolion strombi</italic>,<xref rid="anie202203175-bib-0024" ref-type="bibr">
+<sup>[24]</sup>
+</xref> and the lipopeptides YM&#x02010;170320 and fusaristatins from fungal <italic toggle="yes">Candida</italic> and <italic toggle="yes">Fusarium</italic> sp. respectively.[<xref rid="anie202203175-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="anie202203175-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>] To the best of our knowledge, euglenatide B is the first natural product identified to contain Dnv, although the <italic toggle="yes">O</italic>&#x02010;carbamoyl derivative is present in the antimicrobial <italic toggle="yes">Streptomyces</italic> polyoxin nucleoside peptides and GE81112 tetrapeptides.[<xref rid="anie202203175-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="anie202203175-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>] Meanwhile, to our surprise, the long chain C20 lipophilic &#x003b2;&#x02010;amino acid Gra bears a resemblance to the C16 amino acid found within the nemamides isolated by the Butcher group from the nematode <italic toggle="yes">Caenorhabditis elegans</italic> (Figure&#x02005;<xref rid="anie202203175-fig-0004" ref-type="fig">4</xref>).<xref rid="anie202203175-bib-0029" ref-type="bibr">
+<sup>[29]</sup>
+</xref> The nemamides are the product of the multimodule megasynthases PKS&#x02010;1 and NRPS&#x02010;1 in <italic toggle="yes">C.&#x02005;elegans</italic>, and the first example of such assembly&#x02010;line biosynthesis in a metazoan. Furthermore, the presence of PKS&#x02010;1 and NRPS&#x02010;1 homologs in many nematode genomes implies an important physiological function for these peptides. It is remarkable that nemamides, the only known metazoan PKS&#x02010;NRPS metabolites, should possess structural similarity in the lipophilic region to euglenatides of microalgal origin. While the rest of the nemamide backbone contains three Asn residues, the euglenatides are more complex and contain additional stereocenters with one Asn replaced by Dnv and &#x003b2;Ala substituted by the chiral &#x003b2;Aib in euglenatide&#x02005;B.
+</p><fig position="float" fig-type="Figure" id="anie202203175-fig-0004"><label>Figure 4</label><caption><p>The structures of nemamides&#x02005;A and B.</p></caption><graphic xlink:href="ANIE-61-0-g003" position="anchor" id="jats-graphic-9"/></fig><p>The structures of euglenatides&#x02005;A, C, D and E were elucidated through their relationship to euglenatide&#x02005;B. In brief (Figure&#x02005;S41, Tables&#x02005;S4&#x02013;S7), euglenatide&#x02005;A contained the same amino acids as euglenatide&#x02005;B, except that Asn II was replaced by a second Dnv residue. Euglenatides&#x02005;D and E were deoxy analogues of euglenatides&#x02005;A and B, respectively, without the C2&#x02010;hydroxyl group of the graciline residue. The NMR spectrum of euglenatide&#x02005;C was unique relative to the others, as it contained an extra methyl group (<sup>1</sup>H, <italic toggle="yes">&#x003b4;</italic> 1.02&#x02005;ppm; <sup>13</sup>C, <italic toggle="yes">&#x003b4;</italic> 19.5&#x02005;ppm), and COSY/HMBC correlations assigned this to the replacement of Dnv by 4,5&#x02010;dihydroxynorleucine (Dnl).</p><p>Numerous attempts to obtain diffraction quality X&#x02010;ray crystals of euglenatide&#x02005;B were unsuccessful. The stereochemistry of Asn residues was instead determined through their conversion to aspartic acid by microscale acidic degradation. The hydrolysate was subjected to Marfey's analysis by chemical derivatization with <italic toggle="yes">N</italic>
+<sub>&#x003b1;</sub>&#x02010;(2,4&#x02010;dinitro&#x02010;5&#x02010;fluorophenyl)&#x02010;L&#x02010;valinamide (L&#x02010;FDVA).<xref rid="anie202203175-bib-0030" ref-type="bibr">
+<sup>[30]</sup>
+</xref> Both L&#x02010;FDVA&#x02010;L&#x02010;Asp (RT=20.66&#x02005;min) and L&#x02010;FDVA&#x02010;D&#x02010;Asp (RT=25.52&#x02005;min) were found, indicating one each of L&#x02010;Asn and D&#x02010;Asn in euglenatide B, whereas only the D amino acid was detected from euglenatide&#x02005;A (Figure&#x02005;S42).</p><p>Previously, the configurational assignment of &#x003b2;Aib by Marfey analysis was complicated by difficult HPLC separation of the two diastereomers and required mathematical peak fitting by Gaussian deconvolution.<xref rid="anie202203175-bib-0031" ref-type="bibr">
+<sup>[31]</sup>
+</xref> By careful optimization of conditions including mobile and stationary phase, temperature, flow rate and isocratic solvent system, we devised a new protocol with sufficient chromatographic resolution: L&#x02010;FDVA&#x02010;L&#x02010;&#x003b2;Aib, RT=59.47&#x02005;min and L&#x02010;FDVA&#x02010;D&#x02010;&#x003b2;Aib, RT=56.98&#x02005;min (Figure&#x02005;S43). This confirmed that both euglenatides A and B contain the (<italic toggle="yes">R</italic>)&#x02010;enantiomer, identical in stereochemistry to naturally occurring &#x003b2;Aib isolated from bacterial, fungal or plant sources. On the other hand, in humans, &#x003b2;Aib is a catabolite of thymine and valine metabolism and both enantiomers are detected in plasma.<xref rid="anie202203175-bib-0032" ref-type="bibr">
+<sup>[32]</sup>
+</xref>
+</p><p>Determination of the Dnv stereochemistry was challenging due to the lack of commercial standards and we employed a bi&#x02010;enzymatic recycling cascade synthesis from Ala involving pyruvate&#x02010;aldolase and L&#x02010; or D&#x02010;&#x003b1;&#x02010;transaminase.<xref rid="anie202203175-bib-0033" ref-type="bibr">
+<sup>[33]</sup>
+</xref> This resulted in two scalemic samples: the L&#x02010;series contained L&#x02010;Ala (70&#x02009;%)+L&#x02010;<italic toggle="yes">syn</italic>&#x02010;Dnv (26&#x02009;%)+L&#x02010;<italic toggle="yes">anti</italic>&#x02010;Dnv (4&#x02009;%) while the D&#x02010;series contained D&#x02010;Ala (25&#x02009;%)+D&#x02010;<italic toggle="yes">syn</italic>&#x02010;Dnv (9&#x02009;%)+D&#x02010;<italic toggle="yes">anti</italic>&#x02010;Dnv (66&#x02009;%). Marfey analysis with these samples resulted in clear separation of the four Dnv diastereomers: L&#x02010;FDVA&#x02010;L&#x02010;<italic toggle="yes">anti</italic>&#x02010;Dnv, RT=17.03&#x02005;min; L&#x02010;FDVA&#x02010;L&#x02010;<italic toggle="yes">syn</italic>&#x02010;Dnv, RT=32.38&#x02005;min; L&#x02010;FDVA&#x02010;D&#x02010;<italic toggle="yes">anti</italic>&#x02010;Dnv, RT=24.92&#x02005;min; L&#x02010;FDVA&#x02010;D&#x02010;<italic toggle="yes">syn</italic>&#x02010;Dnv, RT=29.90&#x02005;min (Figure&#x02005;S44). Our hydrolysates were found to produce L&#x02010;FDVA&#x02010;L&#x02010;<italic toggle="yes">anti</italic>&#x02010;Dnv, and further confirmation came from enantiopure Boc&#x02010;L&#x02010;<italic toggle="yes">anti</italic>&#x02010;Dnv(4&#x02010;TBDMS)&#x02010;OEt, an intermediate in GE81112A total synthesis kindly provided by Dr. Armin Bauer at Sanofi&#x02010;Aventis.<xref rid="anie202203175-bib-0034" ref-type="bibr">
+<sup>[34]</sup>
+</xref> Global deprotection of this material to Dnv followed by Marfey's analysis gave an identical result to our sample. We note that of the four diastereomers of Dnv, only L&#x02010;<italic toggle="yes">anti</italic>&#x02010;Dnv or its <italic toggle="yes">O</italic>&#x02010;carbamoyl derivative are currently observed in natural products.</p><p>Neither the intact Gra residue nor simpler fragments were recognized from our acid hydrolysis, due to the lability of this complex amino acid under these conditions. The <sup>1</sup>H and <sup>13</sup>C NMR chemical shifts, coupling constants and NOESY correlations (Tables&#x02005;S8&#x02013;S11) of 2&#x02010;deoxyGra in euglenatides&#x02005;D and E closely matched the data for nemamide&#x02005;A, as did the CD spectra (Figure&#x02005;S45). We conclude that 2&#x02010;deoxyGra is identical in relative and absolute stereochemistry with the nemamide side chain. The chirality of the additional C2 hydroxyl group in graciline was deduced from comparison of <italic toggle="yes">J</italic> values with nemamide&#x02005;A. Combining all the above information completed the structure elucidation of euglenatides&#x02005;A&#x02013;E (Figure&#x02005;<xref rid="anie202203175-fig-0005" ref-type="fig">5</xref>).
+</p><fig position="float" fig-type="Figure" id="anie202203175-fig-0005"><label>Figure 5</label><caption><p>Structures of euglenatides&#x02005;A&#x02013;E.</p></caption><graphic xlink:href="ANIE-61-0-g006" position="anchor" id="jats-graphic-11"/></fig></sec><sec id="anie202203175-sec-0005"><title>Antiproliferative Activity of Euglenatides</title><p>The euglenatides were tested for antibacterial activity with methicillin&#x02010;sensitive <italic toggle="yes">Staphylococcus aureus</italic> (MSSA ATCC 29213), methicillin&#x02010;resistant <italic toggle="yes">S.&#x02005;aureus</italic> (MRSA MB5393) and <italic toggle="yes">Escherichia coli</italic> ATCC 25922 but were inactive at the highest tested concentration of 128&#x02005;&#x003bc;g&#x02009;mL<sup>&#x02212;1</sup> (Figure&#x02005;S46). On the other hand, antifungal activity was observed against the yeast <italic toggle="yes">Candida albicans</italic> ATCC 64124. Euglenatides&#x02005;B, C and E had IC<sub>50</sub> values of 13&#x02013;14&#x02005;&#x003bc;M, whereas euglenatide&#x02005;A (27&#x02005;&#x003bc;M) and D (40&#x02005;&#x003bc;M) were less active (Figure&#x02005;S47). Since this strain is ketoconazole resistant, it signifies the euglenatides are not cross&#x02010;resistant with the clinically important azole class of antifungal agents. All five euglenatides had a higher activity against the mold <italic toggle="yes">Aspergillus fumigatus</italic> ATCC 46645, with similar IC<sub>50</sub> values of 4&#x02013;9&#x02005;&#x003bc;M. The lack of activity against bacteria suggested a specific target in eukaryotic cells absent in prokaryotes, and we screened the most abundant member, euglenatide&#x02005;B, in several human cancer cell lines. Potent antiproliferative activity was noted with respective IC<sub>50</sub> values of 533, 773 and 292&#x02005;nM against the THP&#x02010;1 acute monocytic leukemia, A&#x02010;549 lung adenocarcinoma and MCF&#x02010;7 breast cancer cell lines (Figure&#x02005;S48).</p><p>The Butcher group did not report bioassays with the worm nemamides, perhaps due to the paucity of material as only 0.07&#x02005;mg of nemamide A and even less of nemamide&#x02005;B was isolated from 50&#x02005;L of nematode culture. Instead, <italic toggle="yes">C.&#x02005;elegans</italic> mutants that do not produce nemamides were discerned to be defective in recovery from arrest of the L1 larval stage under starvation conditions. Based on the similarity of the lipophilic side chain between nemamides and euglenatides, we predict the former would possess antiproliferative properties against fungal and mammalian cancer cells.</p></sec><sec id="anie202203175-sec-0006"><title>Effects on Producing Organisms</title><p>Given the biological activity against eukaryotes, we were curious if euglenatides would influence the producer <italic toggle="yes">E.&#x02005;gracilis</italic> itself. After four days of algal incubation with euglenatide B, growth was significantly inhibited (Figure&#x02005;<xref rid="anie202203175-fig-0006" ref-type="fig">6</xref>). The effect appears to be cytostatic rather than cytotoxic, as the algae recovered after a longer period of seven days. The question then arises whether the nemamides have similar bioactivity against their nematode producer <italic toggle="yes">C.&#x02005;elegans</italic>. Although the worm nemamides are unavailable for testing, we indirectly addressed this issue by using our euglenatides. At concentrations of 10 and 25&#x02005;&#x003bc;M, euglenatide&#x02005;B was strongly inhibitory to starvation recovery of the L1 larval stage of <italic toggle="yes">C.&#x02005;elegans</italic> (Figure&#x02005;<xref rid="anie202203175-fig-0007" ref-type="fig">7</xref>).
+</p><fig position="float" fig-type="Figure" id="anie202203175-fig-0006"><label>Figure 6</label><caption><p>Algastatic effects of euglenatide&#x02005;B (1.25&#x02005;&#x003bc;M to 100&#x02005;&#x003bc;M) on the growth of <italic toggle="yes">E.&#x02005;gracilis</italic> after four and seven days of treatment. Vorinostat (1&#x02005;mM) and DMSO (1&#x02009;%) were used as positive and negative controls respectively. The data represent the average&#x000b1;standard error of three replicates.</p></caption><graphic xlink:href="ANIE-61-0-g004" position="anchor" id="jats-graphic-13"/></fig><fig position="float" fig-type="Figure" id="anie202203175-fig-0007"><label>Figure 7</label><caption><p>Inhibition of L1 <italic toggle="yes">C.&#x02005;elegans</italic> recovery by euglenatide&#x02005;B (10&#x02005;&#x003bc;M to 50&#x02005;&#x003bc;M, C=control) after starvation for 10, 20 or 30&#x02005;days. The data represent three replicates with 100&#x02005;eggs per treatment, based on the total number of sexually mature adults recovered by day four, five and six, respectively.</p></caption><graphic xlink:href="ANIE-61-0-g001" position="anchor" id="jats-graphic-15"/></fig><p>It is tempting to speculate that the nemamides in <italic toggle="yes">C.&#x02005;elegans</italic> and the euglenatides in <italic toggle="yes">E.&#x02005;gracilis</italic> perform similar biological functions. While low concentrations might serve regulatory purposes and facilitate recovery from starvation conditions without negative effects on the producing organism, the external addition of higher amounts is apparently deleterious and overcomes mechanisms of self&#x02010;resistance.[<xref rid="anie202203175-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="anie202203175-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>] In our <italic toggle="yes">Euglena</italic> cultures, we did not detect euglenatides in the supernatant, implying that they are not secreted into the external environment. It is possible the natural products are sequestered in a specific cellular compartment to reduce self&#x02010;exposure and serve as antifeedants that discourage predators.</p></sec><sec id="anie202203175-sec-0007"><title>A Common Biosynthetic Pathway in Euglena</title><p>We cultivated <italic toggle="yes">E.&#x02005;sanguinea</italic> and <italic toggle="yes">E.&#x02005;mutabilis</italic> strains under a variety of conditions and subjected extracts from cultures with good or excellent growth to metabolomic profiling by LC&#x02010;MS. The UV/Vis profile of the <italic toggle="yes">E.&#x02005;sanguinea</italic> extract was similar to that of <italic toggle="yes">E.&#x02005;gracilis</italic>, while the <italic toggle="yes">E.&#x02005;mutabilis</italic> extract did not have significant UV/Vis absorptions in the 200&#x02013;600&#x02005;nM range (Figures&#x02005;S49, S50). This suggests that both <italic toggle="yes">E.&#x02005;gracilis</italic> and <italic toggle="yes">E.&#x02005;sanguinea</italic> produce euglenatides with conjugated trienes, while they are either absent or in very low amounts in <italic toggle="yes">E.&#x02005;mutabilis</italic>.</p><p>MS/MS spectra of <italic toggle="yes">E.&#x02005;gracilis</italic>, <italic toggle="yes">E.&#x02005;sanguinea</italic> and <italic toggle="yes">E.&#x02005;mutabilis</italic> extracts were obtained in negative ion mode and used to construct a molecular network of related metabolites (Figure&#x02005;<xref rid="anie202203175-fig-0008" ref-type="fig">8</xref>).<xref rid="anie202203175-bib-0037" ref-type="bibr">
+<sup>[37]</sup>
+</xref> Each node in the molecular network is labelled with the precursor mass of the molecule deduced from the corresponding MS/MS spectrum. The constructed molecular network groups the structurally similar metabolites from three <italic toggle="yes">Euglena</italic> species in a cluster. The higher the similarity, the closer they are in the cluster. For example, precursor masses 808 and 822 represent the MS/MS spectra of euglenatides B and C which differ only by the addition of a methyl group, while precursor masses of 809 and 825 represent euglenatides&#x02005;A and D that differ by an additional hydroxyl group. Our network analysis indicates the presence of over 40 euglenatide&#x02010;like metabolites within these three species, including ubiquitous examples such as 845 and 847 and others such as 849 and 1006, detected only in <italic toggle="yes">E.&#x02005;mutabilis</italic> and <italic toggle="yes">E.&#x02005;sanguinea</italic>, respectively. The broad distribution, and the multitude of family members, point to an important function for euglenatides and we searched the available genomic <italic toggle="yes">Euglena gracilis</italic> data for homology with the nemamide BGC.<xref rid="anie202203175-bib-0038" ref-type="bibr">
+<sup>[38]</sup>
+</xref> However, due to the incomplete assembly, and the likely absence of gene clustering in <italic toggle="yes">Euglena</italic>, we did not identify a candidate BGC for euglenatide biosynthesis.
+</p><fig position="float" fig-type="Figure" id="anie202203175-fig-0008"><label>Figure 8</label><caption><p>Molecular network analysis of euglenatides produced by <italic toggle="yes">E.&#x02005;gracilis</italic> (white circles), <italic toggle="yes">E.&#x02005;sanguinea</italic> (gray) and <italic toggle="yes">E.&#x02005;mutabilis</italic> (black). Each node represents the precursor mass of a single metabolite. The color of the nodes indicates the relative abundance of each metabolite between strains based on the MS ion intensities of precursors. The isolated euglenatides are represented by A, B, C, D and E respectively.</p></caption><graphic xlink:href="ANIE-61-0-g008" position="anchor" id="jats-graphic-17"/></fig></sec></sec><sec id="anie202203175-sec-0008"><title>Conclusion</title><p>We demonstrate that even a species like <italic toggle="yes">Euglena gracilis</italic>, subject to scientific study for centuries, harbors unusual and novel secondary metabolites. Ultimately, our successful unmasking of the euglenatides relied on the traditional &#x0201c;one strain, many compounds (OSMAC)&#x0201d; approach of altering fermentation conditions.<xref rid="anie202203175-bib-0039" ref-type="bibr">
+<sup>[39]</sup>
+</xref> Specifically, culture in minimal media with glutamic acid as the sole nitrogen source served to activate a normally quiescent biosynthetic pathway. The resulting euglenatides contain L&#x02010; and D&#x02010;asparagine, as well as (<italic toggle="yes">R</italic>)&#x02010;&#x003b2;&#x02010;aminoisobutyric acid, a rare constituent in peptide natural products. In addition, the euglenatides are the first peptide natural products disclosed to incorporate 4,5&#x02010;dihydroxynorvaline, 4,5&#x02010;dihdroxynorleucine and the novel C20 polyketide derived &#x003b2;&#x02010;amino acid graciline with a conjugated triene and two oxygenated stereocenters in the side chain. Interestingly, the <italic toggle="yes">E.&#x02005;sanguinea</italic> metabolite euglenophycin (Figure&#x02005;<xref rid="anie202203175-fig-0001" ref-type="fig">1</xref>) also contains 20 carbons, and it is plausible that it shares a common C20 polyunsaturated fatty acid precursor with the euglenatides.</p><p>Euglenatides exhibited significant antiproliferative activity against <italic toggle="yes">Candida</italic> and <italic toggle="yes">Aspergillus</italic>, the two major pathogenic fungal genera, and a panel of human cancer cells. By molecular network analysis, we detected over 40 euglenatide&#x02010;like metabolites in three <italic toggle="yes">Euglena</italic> species, implying a widespread occurrence within the genus. The euglenatides share a structural similarity to the nemamides, the only known metazoan natural product of NRPS&#x02010;PKS origin and inhibited the growth of both producing organisms <italic toggle="yes">E.&#x02005;gracilis</italic> and <italic toggle="yes">C.&#x02005;elegans</italic>. The astonishing structural congruence between protist and animal kingdom secondary metabolites is unique in chemical ecology. The ability to harvest multimg quantities of euglenatides from <italic toggle="yes">E.&#x02005;gracilis</italic> will expedite further research into the biological ramifications of these cyclic peptides.</p></sec><sec sec-type="COI-statement" id="anie202203175-sec-0010"><title>Conflict of interest</title><p>The authors declare no conflict of interest.</p></sec><sec id="anie202203175-sec-0011"><label>1</label></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material position="float" content-type="local-data"><p>As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer reviewed and may be re&#x02010;organized for online delivery, but are not copy&#x02010;edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.</p></supplementary-material><supplementary-material position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ANIE-61-0-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="anie202203175-sec-0009"><title>Acknowledgements</title><p>This work was funded through a scholarship to MA from Imam Abdulrahman Bin Faisal University, Saudi Arabia. We are incredibly grateful to Dr Armin Bauer (Sanofi&#x02010;Aventis, Germany) for the kind gift of Boc&#x02010;L&#x02010;<italic toggle="yes">anti</italic>&#x02010;4,5&#x02010;dihydroxynorvaline(4&#x02010;TBDMS)&#x02010;OEt. We thank Dr Mercedes de la Cruz and Dr Caridad D&#x000ed;az (Fundaci&#x000f3;n MEDINA, Spain) for their assistance with the antimicrobial assays.</p></ack><sec sec-type="data-availability" id="anie202203175-sec-0000"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list><ref id="anie202203175-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="anie202203175-cit-0001">
+<string-name>
+<given-names>F.</given-names>
+<surname>Ntie-Kang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Svozil</surname>
+</string-name>, <source>Phys. Sci. Rev.</source>
+<year>2020</year>, <volume>5</volume>, <elocation-id>20180121</elocation-id>.</mixed-citation></ref><ref id="anie202203175-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="anie202203175-cit-0002">
+<string-name>
+<given-names>A. S.</given-names>
+<surname>Abdel-Razek</surname>
+</string-name>, <string-name>
+<given-names>M. E.</given-names>
+<surname>El-Naggar</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Allam</surname>
+</string-name>, <string-name>
+<given-names>O. M.</given-names>
+<surname>Morsy</surname>
+</string-name>, <string-name>
+<given-names>S. I.</given-names>
+<surname>Othman</surname>
+</string-name>, <source>Processes</source>
+<year>2020</year>, <volume>8</volume>, <fpage>470</fpage>.</mixed-citation></ref><ref id="anie202203175-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="anie202203175-cit-0003">
+<string-name>
+<given-names>D. J.</given-names>
+<surname>Newman</surname>
+</string-name>, <string-name>
+<given-names>G. M.</given-names>
+<surname>Cragg</surname>
+</string-name>, <source>J. Nat. Prod.</source>
+<year>2020</year>, <volume>83</volume>, <fpage>770</fpage>&#x02013;<lpage>803</lpage>.<pub-id pub-id-type="pmid">32162523</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="anie202203175-cit-0004">
+<string-name>
+<given-names>L. C.</given-names>
+<surname>Vitorino</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Bessa</surname>
+</string-name>, <source>Diversity</source>
+<year>2018</year>, <volume>10</volume>, <fpage>46</fpage>.</mixed-citation></ref><ref id="anie202203175-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="anie202203175-cit-0005">
+<string-name>
+<given-names>W. H.</given-names>
+<surname>Lewis</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Tahon</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Geesink</surname>
+</string-name>, <string-name>
+<given-names>D. Z.</given-names>
+<surname>Sousa</surname>
+</string-name>, <string-name>
+<given-names>T. J. G.</given-names>
+<surname>Ettema</surname>
+</string-name>, <source>Nat. Rev. Microbiol.</source>
+<year>2021</year>, <volume>19</volume>, <fpage>225</fpage>&#x02013;<lpage>240</lpage>.<pub-id pub-id-type="pmid">33093661</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="anie202203175-cit-0006">
+<string-name>
+<given-names>P. N.</given-names>
+<surname>Tran</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>Yen</surname>
+</string-name>, <string-name>
+<given-names>C. Y.</given-names>
+<surname>Chiang</surname>
+</string-name>, <string-name>
+<given-names>H. C.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>P. Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Appl. Microbiol. Biotechnol.</source>
+<year>2019</year>, <volume>103</volume>, <fpage>3277</fpage>&#x02013;<lpage>3287</lpage>.<pub-id pub-id-type="pmid">30859257</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="anie202203175-cit-0007">
+<string-name>
+<given-names>H. A.</given-names>
+<surname>Tomm</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ucciferri</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Ross</surname>
+</string-name>, <source>J. Ind. Microbiol. Biotechnol.</source>
+<year>2019</year>, <volume>46</volume>, <fpage>1381</fpage>&#x02013;<lpage>1400</lpage>.<pub-id pub-id-type="pmid">31177350</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="anie202203175-cit-0008">
+<string-name>
+<given-names>B. C.</given-names>
+<surname>Covington</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>Seyedsayamdost</surname>
+</string-name>, <source>Annu. Rev. Biochem.</source>
+<year>2021</year>, <volume>90</volume>, <fpage>763</fpage>&#x02013;<lpage>788</lpage>.<pub-id pub-id-type="pmid">33848426</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="anie202203175-cit-0009">
+<string-name>
+<given-names>K.</given-names>
+<surname>Suzuki</surname>
+</string-name>, <source>Adv. Exp. Med. Biol.</source>
+<year>2017</year>, <volume>979</volume>, <fpage>285</fpage>&#x02013;<lpage>293</lpage>.<pub-id pub-id-type="pmid">28429327</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="anie202203175-cit-0010">
+<string-name>
+<given-names>A.</given-names>
+<surname>Gissibl</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Care</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Nevalainen</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Sunna</surname>
+</string-name>, <source>Front. Bioeng. Biotechnol.</source>
+<year>2019</year>, <volume>7</volume>, <fpage>108</fpage>.<pub-id pub-id-type="pmid">31157220</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="anie202203175-cit-0011">
+<string-name>
+<given-names>S. E.</given-names>
+<surname>Mandeville</surname>
+</string-name>, <string-name>
+<given-names>H. L.</given-names>
+<surname>Crespi</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Katz</surname>
+</string-name>, <source>Science</source>
+<year>1964</year>, <volume>146</volume>, <fpage>769</fpage>&#x02013;<lpage>770</lpage>.<pub-id pub-id-type="pmid">14197561</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="anie202203175-cit-0012">
+<string-name>
+<given-names>D.</given-names>
+<surname>H&#x000e4;der</surname>
+</string-name>, <source>Front. Plant Sci.</source>
+<year>2020</year>, <volume>10</volume>, <fpage>1621</fpage>.<pub-id pub-id-type="pmid">31969888</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="anie202203175-cit-0013">
+<string-name>
+<given-names>M.</given-names>
+<surname>B&#x000f6;hme</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Pfleiderer</surname>
+</string-name>, <string-name>
+<given-names>E. F.</given-names>
+<surname>Elstner</surname>
+</string-name>, <string-name>
+<given-names>W. J.</given-names>
+<surname>Richter</surname>
+</string-name>, <source>Angew. Chem. Int. Ed. Engl.</source>
+<year>1980</year>, <volume>19</volume>, <fpage>473</fpage>&#x02013;<lpage>474</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="anie202203175-cit-0014">
+<source>Angew. Chem.</source>
+<year>1980</year>, <volume>92</volume>, <fpage>474</fpage>&#x02013;<lpage>475</lpage>.</mixed-citation></ref><ref id="anie202203175-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="anie202203175-cit-0015">
+<string-name>
+<given-names>S.</given-names>
+<surname>Sasso</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Pohnert</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Lohr</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Mittag</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hertweck</surname>
+</string-name>, <source>FEMS Microbiol. Rev.</source>
+<year>2012</year>, <volume>36</volume>, <fpage>761</fpage>&#x02013;<lpage>785</lpage>.<pub-id pub-id-type="pmid">22091538</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="anie202203175-cit-0016">
+<string-name>
+<given-names>P. V.</given-names>
+<surname>Zimba</surname>
+</string-name>, <string-name>
+<given-names>P. D.</given-names>
+<surname>Moeller</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Beauchesne</surname>
+</string-name>, <string-name>
+<given-names>H. E.</given-names>
+<surname>Lane</surname>
+</string-name>, <string-name>
+<given-names>R. E.</given-names>
+<surname>Triemer</surname>
+</string-name>, <source>Toxicon</source>
+<year>2010</year>, <volume>55</volume>, <fpage>100</fpage>&#x02013;<lpage>104</lpage>.<pub-id pub-id-type="pmid">19615398</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="anie202203175-cit-0017">
+<string-name>
+<given-names>P. V.</given-names>
+<surname>Zimba</surname>
+</string-name>, <string-name>
+<given-names>I.-S.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Gutierrez</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Bennett</surname>
+</string-name>, <string-name>
+<given-names>R. E.</given-names>
+<surname>Triemer</surname>
+</string-name>, <source>Harmful Algae</source>
+<year>2017</year>, <volume>63</volume>, <fpage>79</fpage>&#x02013;<lpage>84</lpage>.<pub-id pub-id-type="pmid">28366403</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="anie202203175-cit-0018">
+<string-name>
+<given-names>E. C.</given-names>
+<surname>O'Neill</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Trick</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Hill</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Rejzek</surname>
+</string-name>, <string-name>
+<given-names>R. G.</given-names>
+<surname>Dusi</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Hamilton</surname>
+</string-name>, <string-name>
+<given-names>P. V.</given-names>
+<surname>Zimba</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Henrissat</surname>
+</string-name>, <string-name>
+<given-names>R. A.</given-names>
+<surname>Field</surname>
+</string-name>, <source>Mol. BioSyst.</source>
+<year>2015</year>, <volume>11</volume>, <fpage>2808</fpage>&#x02013;<lpage>2820</lpage>.<pub-id pub-id-type="pmid">26289754</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="anie202203175-cit-0019">
+<string-name>
+<given-names>T. E.</given-names>
+<surname>Ebenezer</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zoltner</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Burrell</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Nenarokova</surname>
+</string-name>, <string-name>
+<given-names>A. M. G.</given-names>
+<surname>Nov&#x000e1;k Vanclov&#x000e1;</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Prasad</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Soukal</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Santana-Molina</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>O'Neill</surname>
+</string-name>, <string-name>
+<given-names>N. N.</given-names>
+<surname>Nankissoor</surname>
+</string-name>, et&#x02005;al., <source>BMC Biol.</source>
+<year>2019</year>, <volume>17</volume>, <fpage>11</fpage>.<pub-id pub-id-type="pmid">30732613</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="anie202203175-cit-0020">
+<string-name>
+<given-names>R. D.</given-names>
+<surname>S&#x000fc;ssmuth</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Mainz</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>
+<year>2017</year>, <volume>56</volume>, <fpage>3770</fpage>&#x02013;<lpage>3821</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="anie202203175-cit-0021">
+<source>Angew. Chem.</source>
+<year>2017</year>, <volume>129</volume>, <fpage>3824</fpage>&#x02013;<lpage>3878</lpage>.</mixed-citation></ref><ref id="anie202203175-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="anie202203175-cit-0022">
+<string-name>
+<given-names>A.</given-names>
+<surname>Nivina</surname>
+</string-name>, <string-name>
+<given-names>K. P.</given-names>
+<surname>Yuet</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Hsu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Khosla</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2019</year>, <volume>119</volume>, <fpage>12524</fpage>&#x02013;<lpage>12547</lpage>.<pub-id pub-id-type="pmid">31838842</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="anie202203175-cit-0023">
+<string-name>
+<given-names>M.</given-names>
+<surname>Aldholmi</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Wilkinson</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Ganesan</surname>
+</string-name>, <source>J. Antibiot.</source>
+<year>2020</year>, <volume>73</volume>, <fpage>410</fpage>&#x02013;<lpage>413</lpage>.</mixed-citation></ref><ref id="anie202203175-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="anie202203175-cit-0024">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Oda</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Nakano</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kitaoka</surname>
+</string-name>, <source>J. Gen. Microbiol.</source>
+<year>1982</year>, <volume>128</volume>, <fpage>853</fpage>&#x02013;<lpage>858</lpage>.</mixed-citation></ref><ref id="anie202203175-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="anie202203175-cit-0025">
+<string-name>
+<given-names>K. A.</given-names>
+<surname>Mart&#x000ed;nez</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Lauritano</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Druka</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Romano</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Grohmann</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Jaspars</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Mart&#x000ed;n</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>D&#x000ed;az</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Cautain</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>de la Cruz</surname>
+</string-name>, et&#x02005;al., <source>Mar. Drugs</source>
+<year>2019</year>, <volume>17</volume>, <fpage>385</fpage>.</mixed-citation></ref><ref id="anie202203175-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="anie202203175-cit-0026">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Guillou</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Robin</surname>
+</string-name>, <source>J. Biol. Chem.</source>
+<year>1973</year>, <volume>248</volume>, <fpage>5668</fpage>&#x02013;<lpage>5672</lpage>.<pub-id pub-id-type="pmid">4723908</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="anie202203175-cit-0027">
+<string-name>
+<given-names>T.</given-names>
+<surname>Sugawara</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Tanaka</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Tanaka</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Nagai</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Suzuki</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Suzuki</surname>
+</string-name>, <source>J. Antibiot.</source>
+<year>1998</year>, <volume>51</volume>, <fpage>435</fpage>&#x02013;<lpage>438</lpage>.</mixed-citation></ref><ref id="anie202203175-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="anie202203175-cit-0028">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Shiono</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Tsuchinari</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Shimanuki</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Miyajima</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Murayama</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Koseki</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Laatsch</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Funakoshi</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Takanami</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Suzuki</surname>
+</string-name>, <source>J. Antibiot.</source>
+<year>2007</year>, <volume>60</volume>, <fpage>309</fpage>&#x02013;<lpage>316</lpage>.</mixed-citation></ref><ref id="anie202203175-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="anie202203175-cit-0029">
+<string-name>
+<given-names>K.</given-names>
+<surname>Isono</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Asahi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Suzuki</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>1969</year>, <volume>91</volume>, <fpage>7490</fpage>&#x02013;<lpage>7505</lpage>.<pub-id pub-id-type="pmid">5358618</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="anie202203175-cit-0030">
+<string-name>
+<given-names>L.</given-names>
+<surname>Brandi</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Lazzarini</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Cavaletti</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Abbondi</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Corti</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Ciciliato</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Gastaldo</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Marazzi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Feroggio</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Fabbretti</surname>
+</string-name>, et&#x02005;al., <source>Biochemistry</source>
+<year>2006</year>, <volume>45</volume>, <fpage>3692</fpage>&#x02013;<lpage>3702</lpage>.<pub-id pub-id-type="pmid">16533052</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="anie202203175-cit-0031">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Shou</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Long</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>J. K.</given-names>
+<surname>Nunnery</surname>
+</string-name>, <string-name>
+<given-names>D. H.</given-names>
+<surname>Powell</surname>
+</string-name>, <string-name>
+<given-names>R. A.</given-names>
+<surname>Butcher</surname>
+</string-name>, <source>Nat. Chem. Biol.</source>
+<year>2016</year>, <volume>12</volume>, <fpage>770</fpage>&#x02013;<lpage>772</lpage>.<pub-id pub-id-type="pmid">27501395</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="anie202203175-cit-0032">
+<string-name>
+<given-names>S.</given-names>
+<surname>Sethi</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Martens</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Bhushan</surname>
+</string-name>, <source>Biomed. Chromatogr.</source>
+<year>2021</year>, <volume>35</volume>, <elocation-id>e4990</elocation-id>.<pub-id pub-id-type="pmid">32959901</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="anie202203175-cit-0033">
+<string-name>
+<given-names>H.</given-names>
+<surname>Vemula</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kitase</surname>
+</string-name>, <string-name>
+<given-names>N. J.</given-names>
+<surname>Ayon</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Bonewald</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Gutheil</surname>
+</string-name>, <source>Anal. Biochem.</source>
+<year>2017</year>, <volume>516</volume>, <fpage>75</fpage>&#x02013;<lpage>85</lpage>.<pub-id pub-id-type="pmid">27771391</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="anie202203175-cit-0034">
+<string-name>
+<given-names>J.</given-names>
+<surname>Stautemas</surname>
+</string-name>, <string-name>
+<given-names>A. B. P.</given-names>
+<surname>Van Kuilenburg</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Stroomer</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Vaz</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Blancquaert</surname>
+</string-name>, <string-name>
+<given-names>F. B. D.</given-names>
+<surname>Lefevere</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Everaert</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Derave</surname>
+</string-name>, <source>Front. Plant Physiol.</source>
+<year>2019</year>, <volume>10</volume>, <fpage>1240</fpage>.</mixed-citation></ref><ref id="anie202203175-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="anie202203175-cit-0035">
+<string-name>
+<given-names>C.</given-names>
+<surname>Gu&#x000e9;rard-H&#x000e9;laine</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Heuson</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ndiaye</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Gourbeyre</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Lemaire</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>H&#x000e9;laine</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Charmantray</surname>
+</string-name>, <string-name>
+<given-names>J.-L.</given-names>
+<surname>Petit</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Salanoubat</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>De Berardinis</surname>
+</string-name>, et&#x02005;al., <source>Chem. Commun.</source>
+<year>2017</year>, <volume>53</volume>, <fpage>5465</fpage>&#x02013;<lpage>5468</lpage>.</mixed-citation></ref><ref id="anie202203175-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="anie202203175-cit-0036">
+<string-name>
+<given-names>G.</given-names>
+<surname>J&#x000fc;rjens</surname>
+</string-name>, <string-name>
+<given-names>S. M. M.</given-names>
+<surname>Schuler</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kurz</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Petit</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Couturier</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Jeannot</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name>
+<given-names>R. C.</given-names>
+<surname>Wende</surname>
+</string-name>, <string-name>
+<given-names>P. E.</given-names>
+<surname>Hammann</surname>
+</string-name>, <string-name>
+<given-names>D. N.</given-names>
+<surname>Wilson</surname>
+</string-name>, et&#x02005;al., <source>Angew. Chem. Int. Ed.</source>
+<year>2018</year>, <volume>57</volume>, <fpage>12157</fpage>&#x02013;<lpage>12161</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="anie202203175-cit-0037">
+<source>Angew. Chem.</source>
+<year>2018</year>, <volume>130</volume>, <fpage>12334</fpage>&#x02013;<lpage>12338</lpage>.</mixed-citation></ref><ref id="anie202203175-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="anie202203175-cit-0038">
+<string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Bullard</surname>
+</string-name>, <source>Sci. Rep.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>29315</fpage>.<pub-id pub-id-type="pmid">27389069</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="anie202203175-cit-0039">
+<string-name>
+<given-names>K. H.</given-names>
+<surname>Almabruk</surname>
+</string-name>, <string-name>
+<given-names>L. K.</given-names>
+<surname>Dinh</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Philmus</surname>
+</string-name>, <source>ACS Chem. Biol.</source>
+<year>2018</year>, <volume>13</volume>, <fpage>1426</fpage>&#x02013;<lpage>1437</lpage>.<pub-id pub-id-type="pmid">29763292</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="anie202203175-cit-0040">
+<string-name>
+<given-names>A. T.</given-names>
+<surname>Aron</surname>
+</string-name>, <string-name>
+<given-names>E. C.</given-names>
+<surname>Gentry</surname>
+</string-name>, <string-name>
+<given-names>K. L.</given-names>
+<surname>McPhail</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nothias</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Nothias-Esposito</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Bouslimani</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Petras</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Gauglitz</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Sikora</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Vargas</surname>
+</string-name>, et&#x02005;al., <source>Nat. Protoc.</source>
+<year>2020</year>, <volume>15</volume>, <fpage>1954</fpage>&#x02013;<lpage>1991</lpage>.<pub-id pub-id-type="pmid">32405051</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="anie202203175-cit-0041">
+<string-name>
+<given-names>L.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>M. T.</given-names>
+<surname>Gordon</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>K. B.</given-names>
+<surname>Basso</surname>
+</string-name>, <string-name>
+<given-names>R. A.</given-names>
+<surname>Butcher</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2021</year>, <volume>12</volume>, <fpage>4912</fpage>.<pub-id pub-id-type="pmid">34389721</pub-id></mixed-citation></ref><ref id="anie202203175-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="anie202203175-cit-0042">
+<string-name>
+<given-names>H. B.</given-names>
+<surname>Bode</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Bethe</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>H&#x000f6;fs</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Zeeck</surname>
+</string-name>, <source>ChemBioChem</source>
+<year>2002</year>, <volume>3</volume>, <fpage>619</fpage>.<pub-id pub-id-type="pmid">12324995</pub-id></mixed-citation></ref></ref-list></back></article>

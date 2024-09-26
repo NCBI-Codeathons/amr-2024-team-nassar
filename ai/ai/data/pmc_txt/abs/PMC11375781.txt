@@ -1,0 +1,18 @@
+ Berberine bridge
+enzyme-like oxidases are often involved in natural
+product biosynthesis and are seen as essential enzymes for the generation
+of intricate pharmacophores. These oxidases have the ability to transfer
+a hydride atom to the FAD cofactor, which enables complex substrate
+modifications and rearrangements including (intramolecular) cyclizations,
+carbon–carbon bond formations, and nucleophilic additions.
+Despite the diverse range of activities, the mechanistic details of
+these reactions often remain incompletely understood. In this Review,
+we delve into the complexity that BBE-like oxidases from bacteria,
+fungal, and plant origins exhibit by providing an overview of the
+shared catalytic features and emphasizing the different reactivities.
+We propose four generalized modes of action by which BBE-like oxidases
+enable the synthesis of natural products, ranging from the classic
+alcohol oxidation reactions to less common amine and amide oxidation
+reactions. Exploring the mechanisms utilized by nature to produce
+its vast array of natural products is a subject of considerable interest
+and can lead to the discovery of unique biochemical activities.

@@ -1,0 +1,1 @@
+Here we report the draft genome sequence of Streptomyces toyocaensis strain NRRL 15009 which is the producer of the glycopeptide antibiotic A47934. The genome sequence is predicted to harbor a total of 26 secondary metabolite biosynthetic gene clusters including the A47934 cluster.
