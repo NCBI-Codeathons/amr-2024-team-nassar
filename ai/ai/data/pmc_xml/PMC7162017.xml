@@ -1,0 +1,1036 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?covid-19-tdm?><front><journal-meta><journal-id journal-id-type="nlm-ta">Chembiochem</journal-id><journal-id journal-id-type="iso-abbrev">Chembiochem</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1439-7633</journal-id><journal-id journal-id-type="publisher-id">CBIC</journal-id><journal-title-group><journal-title>Chembiochem</journal-title></journal-title-group><issn pub-type="ppub">1439-4227</issn><issn pub-type="epub">1439-7633</issn><publisher><publisher-name>WILEY&#x02010;VCH Verlag</publisher-name><publisher-loc>Weinheim</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7162017</article-id><article-id pub-id-type="pmid">16511823</article-id><article-id pub-id-type="doi">10.1002/cbic.200500425</article-id><article-id pub-id-type="publisher-id">CBIC200500425</article-id><article-categories><subj-group subj-group-type="overline"><subject>Full Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Deciphering the Biosynthetic Codes for the Potent Anti&#x02010;SARS&#x02010;CoV Cyclodepsipeptide Valinomycin in <italic toggle="yes">Streptomyces tsusimaensis</italic> ATCC 15141</article-title></title-group><contrib-group><contrib id="au1" contrib-type="author"><name><surname>Cheng</surname><given-names>Yi&#x02010;Qiang</given-names></name><degrees>Prof. Dr.</degrees><address><email>ycheng@uwm.edu</email></address><xref rid="aa" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="aa">
+<label>
+<sup>1</sup>
+</label>Department of Biological Sciences, Biotechnology Program, University of Wisconsin&#x02013;Milwaukee, Milwaukee, WI 53211, USA, Fax: (+1)&#x02009;414&#x02010;229&#x02010;3926</aff><pub-date pub-type="epub"><day>01</day><month>3</month><year>2006</year></pub-date><pub-date pub-type="ppub"><day>06</day><month>3</month><year>2006</year></pub-date><pub-date pub-type="pmc-release"><day>01</day><month>3</month><year>2006</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>7</volume><issue seq="15">3</issue><issue-id pub-id-type="doi">10.1002/cbic.v7:3</issue-id><fpage>471</fpage><lpage>477</lpage><history>
+<date date-type="received"><day>14</day><month>10</month><year>2005</year></date>
+</history><permissions><copyright-statement content-type="article-copyright">Copyright &#x000a9; 2006 WILEY&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA, Weinheim</copyright-statement><license><license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CBIC-7-471.pdf"/><abstract><title>Abstract</title><p>Valinomycin was recently reported to be the most potent agent against severe acute respiratory&#x02010;syndrome coronavirus (SARS&#x02010;CoV) in infected Vero E6 cells. Aimed at generating analogues by metabolic engineering, the valinomycin biosynthetic gene cluster has been cloned from <italic toggle="yes">Streptomyces tsusimaensis</italic> ATCC 15141. Targeted disruption of a nonribosomal peptide synthetase (NRPS) gene abolishes valinomycin production, which confirms its predicted nonribosomal&#x02010;peptide origin. Sequence analysis of the NRPS system reveals four distinctive modules, two of which contain unusual domain organizations that are presumably involved in the generation of biosynthetic precursors <sc>d</sc>&#x02010;<italic toggle="yes">&#x003b1;</italic>&#x02010;hydroxyisovaleric acid and <sc>l</sc>&#x02010;lactic acid. The respective adenylation domains in these two modules contain novel substrate&#x02010;specificity&#x02010;conferring codes that might specify for a class of hydroxyl acids for the biosynthesis of the depsipeptide natural products.</p></abstract><abstract abstract-type="graphical"><p>
+<bold>Valinomycin biosynthesis.</bold> Valinomycin is a symmetric cyclodepsipeptide produced by <italic toggle="yes">Streptomyces</italic> species (see scheme). Its biosynthetic gene cluster reveals unusual nonribosomal peptide synthetase domains that contain novel substrate specificity and confer codes that might specify for a class of hydroxyl acids.<boxed-text position="anchor" content-type="graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CBIC-7-471-g002.jpg" position="anchor" id="nlm-graphic-1"><permissions><copyright-holder>WILEY-VCH</copyright-holder></permissions></graphic></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="kwd1">antiviral agents</kwd><kwd id="kwd2">biosynthesis</kwd><kwd id="kwd3">natural products</kwd><kwd id="kwd4">nonribosomal peptide synthetase</kwd><kwd id="kwd5">valinomycin</kwd></kwd-group><counts><fig-count count="5"/><table-count count="1"/><ref-count count="58"/><page-count count="7"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 6, 2006</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.8.0 mode:remove_FC converted:15.04.2020</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Severe acute respiratory syndrome (SARS) was the first pandemic disease of the twenty&#x02010;first century, which caused significant morbidity, mortality, and economic loss worldwide.<xref rid="bib1" ref-type="bibr">1</xref> The causal agent, a new coronavirus (CoV), is believed to be of animal origin.<xref rid="bib2" ref-type="bibr">2</xref>&#x02013;<xref rid="bib6" ref-type="bibr">6</xref> SARS&#x02010;CoV has a large RNA genome that mutates rapidly.<xref rid="bib7" ref-type="bibr">7</xref>,&#x02009;<xref rid="bib8" ref-type="bibr">8</xref> The possibility of a SARS resurgence warrants the need for anti&#x02010;SARS&#x02010;CoV therapeutics.<xref rid="bib9" ref-type="bibr">9</xref>,&#x02009;<xref rid="bib10" ref-type="bibr">10</xref> Great efforts have been devoted to the development of effective vaccines and antiviral drugs against SARS&#x02010;CoV.<xref rid="bib11" ref-type="bibr">11</xref>&#x02013;<xref rid="bib13" ref-type="bibr">13</xref> In one study, a cell&#x02010;based assay was employed to screen a large chemical library and 50 compounds were identified to have anti&#x02010;SARS&#x02010;CoV activities.<xref rid="bib14" ref-type="bibr">14</xref> Among those compounds, valinomycin (VLM, C<sub>54</sub>H<sub>90</sub>N<sub>6</sub>O<sub>18</sub>, MW=1111.5; Scheme <xref rid="sch1" ref-type="fig">1</xref>), a natural product produced by several <italic toggle="yes">Streptomyces</italic> isolates,<xref rid="bib15" ref-type="bibr">15</xref>&#x02013;<xref rid="bib19" ref-type="bibr">19</xref> demonstrated the highest potency against SARS&#x02010;CoV in infected Vero E6 cells with an EC<sub>50</sub>=0.85 &#x003bc;<sc>m</sc>.<xref rid="bib14" ref-type="bibr">14</xref>
+</p><fig position="float" fig-type="Scheme" id="sch1"><label>Scheme 1</label><caption><p>Chemical structures and the producing strains of valinomycin and related symmetric cyclodepsipeptides. Curved arrows indicate the repetition of basic biosynthetic units. <sc>d</sc>&#x02010;Hiv=<sc>d</sc>&#x02010;&#x003b1;&#x02010;hydroxyisovaleric acid; <sc>d</sc>&#x02010;Hmp=<sc>d</sc>&#x02010;&#x003b1;&#x02010;hydroxy&#x02010;4&#x02010;methylpentanoic acid; <sc>l</sc>&#x02010;Lac=<sc>l</sc>&#x02010;lactic acid; <sc>l</sc>&#x02010;MeLeu=<sc>l</sc>&#x02010;<italic toggle="yes">N</italic>&#x02010;methyl&#x02010;leucine; <sc>d</sc>&#x02010;Pla=<sc>d</sc>&#x02010;phenyl&#x02010;lactic acid.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CBIC-7-471-g003" position="anchor" id="nlm-graphic-3"><permissions><copyright-holder>WILEY-VCH</copyright-holder></permissions></graphic></fig><p>VLM&#x02019;s mode of anti&#x02010;SARS&#x02010;CoV action is not yet known, but its antiviral activity is just one of its many inhibitory effects. Previous studies have revealed VLM&#x02019;s antifungal,<xref rid="bib20" ref-type="bibr">20</xref> insecticidal&#x02010;nematocidal,<xref rid="bib21" ref-type="bibr">21</xref> and antibacterial activities (moderately against <italic toggle="yes">Mycobacterium tuberculosis</italic> in vitro).<xref rid="bib22" ref-type="bibr">22</xref> It also displays apoptosis&#x02010;inducing activity in mammalian cell types, inhibition of human NK cell function,<xref rid="bib23" ref-type="bibr">23</xref> and antitumor activities.<xref rid="bib18" ref-type="bibr">18</xref>,&#x02009;<xref rid="bib24" ref-type="bibr">24</xref> Unfortunately, the cytotoxicity of VLM has so far prevented its clinical use but structural analogues of VLM could provide an alternative.</p><p>VLM has a cyclododecadepsipeptide structure that contains a three&#x02010;repeating sequence of a tetradepsipeptide basic unit, <sc>d</sc>&#x02010;&#x003b1;&#x02010;hydroxyisovaleryl&#x02010;<sc>d</sc>&#x02010;valyl&#x02010;<sc>l</sc>&#x02010;lactyl&#x02010;<sc>l</sc>&#x02010;valyl, to form a symmetric 36&#x02010;membered ring molecule.<xref rid="bib25" ref-type="bibr">25</xref>&#x02013;<xref rid="bib27" ref-type="bibr">27</xref> Feeding experiments have identified <sc>d</sc>&#x02010;&#x003b1;&#x02010;hydroxyisovaleric acid (<sc>d</sc>&#x02010;Hiv), <sc>l</sc>&#x02010;lactic acid (<sc>l</sc>&#x02010;Lac) and <sc>l</sc>&#x02010;valine (<sc>l</sc>&#x02010;Val) as the biosynthetic precursors in VLM biosynthesis. VLM forms an ionophore that specifically modulates potassium ion transport across biological membranes.<xref rid="bib28" ref-type="bibr">28</xref>,&#x02009;<xref rid="bib29" ref-type="bibr">29</xref> Many peptide antibiotics act as ion channels.<xref rid="bib30" ref-type="bibr">30</xref>
+</p><p>The cyclic peptide structural features of VLM suggest that it is likely biosynthesized by a nonribosomal peptide synthetase (NRPS) system.<xref rid="bib31" ref-type="bibr">31</xref>,&#x02009;<xref rid="bib32" ref-type="bibr">32</xref> A previous genetic study claimed to have identified two genetic loci that appeared to be involved in VLM biosynthesis in <italic toggle="yes">S. levoris</italic> A&#x02010;9,<xref rid="bib19" ref-type="bibr">19</xref> but to date no further results (e.g., gene sequence) have been published or patented. In this study, the gene cluster for VLM biosynthesis (designated as <italic toggle="yes">vlm</italic>) in <italic toggle="yes">S. tsusimaensis</italic> ATCC 15141 has been cloned, sequenced, and partially characterized. Sequence analysis revealed good alignment between modular NRPS organization and the biosynthetic precursor incorporation for VLM biosynthesis. In addition, the molecular basis for nonribosomal peptide intermediate oligomerization mediated by a C&#x02010;terminal iterative type I thioesterase (TE) is discussed. This work sets the stage for generating VLM analogues through metabolic engineering of the VLM biosynthetic pathway and is aimed at acquiring potent, highly specific, and low&#x02010;cytotoxic anti&#x02010;SARS&#x02010;CoV agents and/or other anti&#x02010;infective therapeutics.</p></sec><sec id="sec2"><title>Results and Discussion</title><sec id="sec2-1"><title>Identification of a gene fragment essential for valinomycin biosynthesis in <italic toggle="yes">Streptomyces tsusimaensis</italic> ATCC 15141</title><p>Based on the accumulated knowledge about the biosynthesis of nonribosomal peptide natural products,<xref rid="bib31" ref-type="bibr">31</xref>,&#x02009;<xref rid="bib32" ref-type="bibr">32</xref> particularly of enniatins<xref rid="bib33" ref-type="bibr">33</xref>,&#x02009;<xref rid="bib34" ref-type="bibr">34</xref> and related cyclodepsipeptides<xref rid="bib35" ref-type="bibr">35</xref>&#x02013;<xref rid="bib38" ref-type="bibr">38</xref> (Scheme <xref rid="sch1" ref-type="fig">1</xref>), biosynthesis of VLM by a type B NRPS system<xref rid="bib39" ref-type="bibr">39</xref> was predicted as follows. Such an NRPS system would contain four distinctive modules. Each module would be responsible for the selection, activation, epimerization (when necessary), and incorporation of a precursor (also called building block: <sc>d</sc>&#x02010;Hiv, <sc>l</sc>&#x02010;Val, <sc>l</sc>&#x02010;Lac, or <sc>l</sc>&#x02010;Val) in a linear fashion, to form a tetradepsipeptide basic unit covalently tethered as an ester to the active&#x02010;site serine of the C&#x02010;terminal iterative TE domain. Two additional rounds of basic unit buildup would generate a linear 12&#x02010;building block intermediate stalled on the TE. Subsequently, TE would cleave off the intermediate and catalyze the head&#x02010;to&#x02010;tail cyclization to afford the mature VLM product (Scheme <xref rid="sch2" ref-type="fig">2</xref>). Alternatively, a terminal peptidyl carrier protein&#x02013;condensation (PCP&#x02013;C) didomain might be substituted for the TE for basic unit buildup and cyclization&#x02014;a mechanism seen in the biosynthesis of enniatins.<xref rid="bib39" ref-type="bibr">39</xref> Considering that a typical NRPS module is encoded by an average 4.5 kb DNA, the putative VLM NRPS assembly line would be expected to require approximately 18 kb of DNA. Genes involved in regulation and self&#x02010;resistance would also be anticipated in the putative <italic toggle="yes">vlm</italic> gene cluster.<xref rid="bib40" ref-type="bibr">40</xref> With the prediction of a large <italic toggle="yes">vlm</italic> gene cluster, the &#x0201c;genome&#x02010;scanning&#x0201d; approach<xref rid="bib41" ref-type="bibr">41</xref> was adopted to clone the cluster. The key element of this approach is to sequence a certain number of random genomic clones and to identify candidate gene(s) involved in natural product biosynthesis.</p><fig position="float" fig-type="Scheme" id="sch2"><label>Scheme 2</label><caption><p>Proposed model for the biosynthesis of VLM in <italic toggle="yes">S. tsusimaensis</italic> ATCC 15141. The subprotein organization of VLM1 and VLM2 is dissected into modules and domains sequentially. Domain name abbreviations are defined in the text. TA and DH<sub>2</sub> domains are hypothetical. An alternative model where the terminal TE domain is replaced by a PCP&#x02013;C didomain for intermediate buildup and cyclization is explained in the text but excluded from the scheme for simplicity.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CBIC-7-471-g005" position="anchor" id="nlm-graphic-5"><permissions><copyright-holder>WILEY-VCH</copyright-holder></permissions></graphic></fig><p>A genome sampling library was constructed and subjected to sequencing. Among 175 random genomic sequence tags obtained from 192 reads, one sequence tag, Plate1E10&#x02010;T7 (810 bp), showed significant homology to genes encoding typical NRPSs, such as the TeiC in the teicoplanin biosynthetic gene cluster (accession no. CAG15011) and pristinamycin I synthetase 3 and 4 (accession no. CAA67249). The putative NRPS gene that contains the Plate1E10&#x02010;T7 tag was therefore designated as &#x0201c;<italic toggle="yes">St&#x02010;nrps</italic>&#x0201d;.</p><p>To test whether this candidate <italic toggle="yes">St&#x02010;nrps</italic> gene is essential for VLM biosynthesis, mutants were created by targeted gene disruption of the <italic toggle="yes">St&#x02010;nrps</italic> gene in <italic toggle="yes">S. tsusimaensis</italic>. Subsequently VLM production in wild type <italic toggle="yes">S. tsusimaensis</italic> and in four independent mutants was analyzed by fermentation, methanol extraction, solid&#x02010;phase fractionation, and finally by liquid chromatography&#x02013;mass spectrometry (LC&#x02013;MS). VLM gives a very weak UV signal at a wavelength of 210 nm because it does not contain a chromophore, but its positive ion [VLM+H]<sup>+</sup> has a strong MS signal of 1112.6 (<italic toggle="yes">m/z</italic>). Wild type <italic toggle="yes">S. tsusimaensis</italic> produced about 0.2 mg&#x02009;mL<sup>&#x02212;1</sup> of VLM under the fermentation conditions tested when calibrated with standard VLM. It was found that disruption of <italic toggle="yes">St&#x02010;nrps</italic> did not affect the vegetative growth or sporulation of <italic toggle="yes">S. tsusimaensis</italic> mutants but completely abolished VLM production (data not shown). This experiment unambiguously confirmed that the <italic toggle="yes">St&#x02010;nrps</italic> gene is essential for VLM biosynthesis in <italic toggle="yes">S. tsusimaensis</italic>.</p></sec><sec id="sec2-2"><title>Cloning, sequencing, and in silico analysis of the VLM biosynthetic gene cluster (<italic toggle="yes">vlm</italic>)</title><p>Plate1E10 insert DNA was labeled and used as a probe to screen an <italic toggle="yes">S. tsusimaensis</italic> cosmid library and three overlapping cosmids that cover the <italic toggle="yes">vlm</italic> gene cluster region (&#x0223c;80 kb) were identified (Figure <xref rid="fig1" ref-type="fig">1</xref>). End sequencing of cosmid DNAs suggested that cosmid 15 might contain the entire <italic toggle="yes">vlm</italic> gene cluster. Sequencing and assembling of a shotgun library constructed with nebulized cosmid 15 DNA generated a contig with a calculated 5.8&#x02010;fold coverage. This contig contained a 39&#x02009;345 bp DNA sequence that included the entire <italic toggle="yes">vlm</italic> gene cluster. Sequence analysis of the contig revealed eighteen open reading frames (ORFs). The overall GC content of this contig is 70.68&#x02009;%; this indicates a typical <italic toggle="yes">Streptomyces</italic> origin.<xref rid="bib42" ref-type="bibr">42</xref> The function of deduced gene products of individual ORFs was assigned based on similarity to known proteins in the database (Table <xref rid="tbl1" ref-type="table">1</xref>). Among the ORFs identified, <italic toggle="yes">vlm</italic>1 and <italic toggle="yes">vlm</italic>2 encode NRPSs that constitute an assembly line for VLM biosynthesis (see later for details); <italic toggle="yes">vlm</italic>1 contains the original sequence tag Plate1E10&#x02010;T7 (equivalent to the 28&#x02009;911&#x02013;29&#x02009;719 bp DNA on the contig).</p><fig position="float" fig-type="Figure" id="fig1"><label>Figure 1</label><caption><p>Genetic map and gene arrangement of the <italic toggle="yes">vlm</italic> biosynthetic gene cluster and flanking regions in <italic toggle="yes">S. tsusimaensis</italic> ATCC 15141. Genes in black (<italic toggle="yes">vlm</italic>1 and <italic toggle="yes">vlm</italic>2) are critical VLM biosynthetic genes, ORFs in gray (ORF11&#x02013;15) are putative genes within the <italic toggle="yes">vlm</italic> gene cluster, and ORFs in white are genes outside of the <italic toggle="yes">vlm</italic> gene cluster. <italic toggle="yes">St&#x02010;nrps</italic> was the original sequence tag identified to be essential for VLM biosynthesis and used as a molecular probe to obtain a series of overlapping cosmids; cosmid 15 was shotgun sequenced.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CBIC-7-471-g001" position="anchor" id="nlm-graphic-7"><permissions><copyright-holder>WILEY-VCH</copyright-holder></permissions></graphic></fig><table-wrap position="float" id="tbl1"><label>Table 1</label><caption><p>The publisher did not receive permission from the copyright owner to include this object in this version of this product. Please refer either to the publisher's own online version of this product or the printed product where one exists.</p></caption></table-wrap><p>The <italic toggle="yes">vlm</italic> gene cluster was predicted to encompass seven ORFs, bordered by ORF11 and <italic toggle="yes">vlm</italic>2, respectively (Figure <xref rid="fig1" ref-type="fig">1</xref>), based on the following observations: 1) downstream of <italic toggle="yes">vlm</italic>2, ORF18 encodes a putative transposase. Many natural product biosynthetic gene clusters have boundaries flanked by transposable elements, which suggests an origin of horizontal gene transfer; 2) upstream of <italic toggle="yes">vlm</italic>1, ORF11/12/13 appear to be cotranscribed. ORF13 encodes a transcriptional regulator containing a helix&#x02010;turn&#x02010;helix motif, which indicates its DNA&#x02010;binding property. Regulatory genes are usually present in biosynthetic gene clusters; 3) ORF15 encodes a discrete type II TE, a component often found in biosynthetic pathways for nonribosomal peptides and polyketides. Type II TEs are believed to have a proof&#x02010;reading function during the cleavage of misprimed thioesters from carrier proteins;<xref rid="bib43" ref-type="bibr">43</xref> 4) ORF9/10 appear to be cotranscribed in an orientation opposite to that of ORF11/12/13; 5) further upstream, ORF8 is a housekeeping gene.</p></sec><sec id="sec2-3"><title>A correlation between the modular organization of the VLM assembly line and structure</title><p>NRPSs encoded by <italic toggle="yes">vlm</italic>1/2 contain sixteen distinctive domains organized into four modules followed by a C&#x02010;terminal iterative TE (Scheme <xref rid="sch2" ref-type="fig">2</xref>). This modular organization is consistent with the biosynthesis of the tetradepsipeptide basic unit <sc>d</sc>&#x02010;&#x003b1;&#x02010;hydroxyisovaleryl&#x02010;<sc>d</sc>&#x02010;valyl&#x02010;<sc>l</sc>&#x02010;lactyl&#x02010;<sc>l</sc>&#x02010;valyl. Module 1 is the initiation module that contains four functional domains, adenylation (A; designated as VLM1A1), hypothetical transaminase (TA), hypothetical dehydrogenase (DH<sub>2</sub>), and PCP. The presence of these two hypothetical domains in module 1 correlates well with a proposed mechanism for the generation of the biosynthetic precursor <sc>d</sc>&#x02010;Hiv (Scheme <xref rid="sch3" ref-type="fig">3</xref>). According to a study of enniatin biosynthesis in <italic toggle="yes">Fusarium sambucinum</italic>, <sc>d</sc>&#x02010;Hiv was postulated to be derived from <sc>l</sc>&#x02010;Val by sequential transamination (catalyzed by an uncharacterized TA) and dehydrogenation (catalyzed by a purified discrete <sc>d</sc>&#x02010;Hiv DH<sub>2</sub>).<xref rid="bib44" ref-type="bibr">44</xref> Generation of precursor <sc>d</sc>&#x02010;Hiv in VLM biosynthesis might follow the same route, catalyzed by discrete TA and DH<sub>2</sub> enzymes yet to be discovered, or by the integral hypothetical TA and DH<sub>2</sub> domains in this module. Module 2 contains four standard NRPS domains: C, A (designated as VLM1A2), PCP, and epimerase (E). Module 3 contains four domains: C, A (designated as VLM2A3), hypothetical DH<sub>2</sub>, and PCP. This hypothetical DH<sub>2</sub> domain is speculated to act as a <sc>l</sc>&#x02010;lactate dehydrogenase to convert pyruvate into <sc>l</sc>&#x02010;Lac which is then acylated onto PCP (Scheme <xref rid="sch3" ref-type="fig">3</xref>).<xref rid="bib44" ref-type="bibr">44</xref> Generation of lactate from pyruvate is a common biochemical reaction in many microorganisms that undergo fermentation. However, dedicated <sc>l</sc>&#x02010;Lac DH<sub>2</sub> has not been characterized from any known natural product biosynthetic pathway. Module 3 is split into two proteins, a phenomenon increasingly found in natural product biosynthetic pathways.<xref rid="bib45" ref-type="bibr">45</xref> Module 4 contains a minimal set of three NRPS domains: C, A (designated as VLM2A4), and PCP.</p><fig position="float" fig-type="Scheme" id="sch3"><label>Scheme 3</label><caption><p>Scheme of generation and incorporation of two precursors in VLM biosynthesis. A) <sc>d</sc>&#x02010;Hiv generation, activation, and peptidyl acylation; B) <sc>l</sc>&#x02010;Lac generation, activation, and peptidyl acylation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CBIC-7-471-g004" position="anchor" id="nlm-graphic-9"><permissions><copyright-holder>WILEY-VCH</copyright-holder></permissions></graphic></fig><p>Collectively, amino acid sequence alignment of four A domains on VLM1/2 revealed that they all contain the ten conserved signature motifs,<xref rid="bib46" ref-type="bibr">46</xref> albeit considerable amino&#x02010;acid substitutions have occurred in VLM1A1 and VLM2A3 (data not shown). Phylogenetic display of the alignment indicates that VLM1A1 and VLM2A3 form a distinctive branch whereas VLM1A2 and VLM2A4 cluster with GrsA_A, which serves as a model A domain with a defined substrate specificity for Phe and a known structure;<xref rid="bib47" ref-type="bibr">47</xref> DhbE, a stand&#x02010;alone A domain which activates the carboxyl acid DBH (2,3&#x02010;dihydroxybenzoic acid) from the bacillibactin biosynthetic pathway,<xref rid="bib48" ref-type="bibr">48</xref> is distantly related to all of them. At substrate specificity level, VLM1A2 and VLM2A4 contain conserved NRPS codes<xref rid="bib49" ref-type="bibr">49</xref>,&#x02009;<xref rid="bib50" ref-type="bibr">50</xref> (DALWLGGTFK and DAFWVGGTFK, respectively) that are predicted to specify for <sc>l</sc>&#x02010;Val. In contrast, extracted NRPS codes from VLM1A1 or VLM2A3 (AALWIADSGK or VVIWIAEQHK, respectively) do not yield any predictable substrate. Remarkably, both VLM1A1 and VLM2A3 have the highly conserved Asp at position 235 (first position in the NRPS codes; numbered by GrsA_A sequence) replaced by an Ala or Val. Similarly, DhbE also has the conserved Asp residue replaced by an Asn. This finding suggests that VLM1A1 and VLM2A3, together with DhbE, might represent a divergent group of A domains that specify for a class of hydroxyl acid substrates other than proteinogenic amino acids or carboxyl acids. In the proposed model for VLM biosynthesis (Scheme <xref rid="sch2" ref-type="fig">2</xref>) module 1 and 3 are responsible for the incorporation of <sc>d</sc>&#x02010;Hiv and <sc>l</sc>&#x02010;Lac, respectively. The A domains in these two modules might have adapted themselves to select and activate hydroxyl acids. The fact that <sc>d</sc>&#x02010;Hiv and <sc>l</sc>&#x02010;Lac were identified by feeding experiments as the biosynthetic precursors for VLM biosynthesis<xref rid="bib25" ref-type="bibr">25</xref>&#x02013;<xref rid="bib27" ref-type="bibr">27</xref> supports the hypothesis that both <sc>d</sc>&#x02010;Hiv and <sc>l</sc>&#x02010;Lac might have been synthesized from the VLM assembly line before being activated by their respective A domains. Additional biochemical experiments are needed to prove the VLM1A1 and VLM2A3 substrate specificities for <sc>d</sc>&#x02010;Hiv and <sc>l</sc>&#x02010;Lac, respectively.</p><p>Immediately following module 4 is a C&#x02010;terminal iterative TE domain (designated as VLM2_TE). Terminal TE domains are known to control the termination, release, and cyclization of growing chains in the biosynthetic process of many nonribosomal peptides and polyketides.<xref rid="bib51" ref-type="bibr">51</xref>,&#x02009;<xref rid="bib52" ref-type="bibr">52</xref> An unsolved mystery regarding the biosynthesis of symmetric cyclo(depsi)peptides is the control of repetition of the basic units. As shown in Scheme <xref rid="sch1" ref-type="fig">1</xref>, VLM contains a three&#x02010;repeating sequence of a tetradepsipeptide basic unit (designated as a 3&#x000d7;4 mode), whereas montanastatin (C<sub>36</sub>H<sub>60</sub>N<sub>4</sub>O<sub>12</sub>, <italic toggle="yes">M</italic>
+<sub>W</sub>=740.9)<xref rid="bib18" ref-type="bibr">18</xref> contains the exact same tetradepsipeptide basic unit that repeats only twice (a 2&#x000d7;4 mode). This observation raises the question of whether VLM and montanastatin are produced by the same biosynthetic pathway with relaxed control of basic unit repetition, or by two independent pathways, each of which has a stringent control of basic&#x02010;unit repetition. A low level of montanastatin was detected by LC&#x02010;MS in the wild&#x02010;type strain of <italic toggle="yes">S. tsusimaensis</italic> but not in the <italic toggle="yes">St&#x02010;nrps</italic>
+<sup>&#x02212;</sup> mutants. This result suggests that montanastatin is likely the shunt product of VLM, produced by the same VLM biosynthetic pathway with a relaxed TE control of basic unit repetition. In comparison to VLM and montanastatin, enniatin A has a 3&#x000d7;2 mode, whereas cereulide and PF1022A have a 3&#x000d7;4 and 2&#x000d7;4 mode, respectively. Not included in Scheme <xref rid="sch1" ref-type="fig">1</xref> are additional known symmetric nonribosomal peptide natural products&#x02014;bacillibactin, enterobactin, and gramicidin S<sup>[39]</sup>&#x02014;which have a 3&#x000d7;2, 3&#x000d7;2, or 2&#x000d7;5 mode, respectively. Iterative TE domains in the pathways for the biosynthesis of these symmetric oligomeric products are believed to hold the basic unit until an appropriate number of units are condensed and then proceed with cleavage and cyclization.<xref rid="bib51" ref-type="bibr">51</xref> However, the exact mechanism of controlling the number of repetitions remains unknown. An amino acid sequence alignment (data not shown) of VLM2_TE with DEBS3_TE (accession no. Q03133), SrfA&#x02010;C_TE (accession no. Q08787), Bs&#x02010;EntF_TE (accession no. P45745), Ec&#x02010;EntF_TE (accession no. P11454), CesB_TE (accession no. AY691650), and GrsB_TE (accession no. P14688) showed that VLM2_TE contains a standard catalytic triad, Ser80/His207/Asp107 (residues numbered corresponding to those of SrfA&#x02010;C_TE) and a conserved substrate&#x02010;binding motif, Gly&#x02010;Xxx&#x02010;Ser&#x02010;Xxx&#x02010;Gly, where Xxx stands for any amino acid.<xref rid="bib53" ref-type="bibr">53</xref> No residues stand out to suggest a correlation between conserved amino acid residues, domain, or motif, and the unique oligomerization function of VLM2_TE and other TEs (Bs&#x02010;EntF_TE, Ec&#x02010;EntF_TE, CesB_TE, and GrsB_TE) that are from the pathways for the biosynthesis of oligomerized natural products VLM, bacillibactin, enterobactin, cereulide, and gramicidin S, respectively. The biochemical mechanism for the control of the number of basic unit repetitions in the biosynthesis of cyclo(depsi)peptides remains of interest for future studies.</p><p>In conclusion, the VLM biosynthetic gene cluster (<italic toggle="yes">vlm</italic>) was cloned from <italic toggle="yes">S. tsusimaensis</italic> ATCC 15141. This <italic toggle="yes">vlm</italic> gene cluster contains two biosynthetic genes encoding type B iterative NRPSs. These NRPSs contribute an assembly line that consists of sixteen distinctive domains organized into four modules; each module is expected to incorporate a biosynthetic precursor to form a tetradepsipeptide basic unit. A terminal TE domain might mediate the oligomerization and cyclization of three&#x02010;repeating sequence of the basic unit to afford the mature VLM product (Scheme <xref rid="sch2" ref-type="fig">2</xref>). The cloning and decoding of VLM biosynthetic machinery offers an opportunity for genetic manipulation of the pathway. Genetic engineering of the VLM biosynthesis pathway serves to complement chemical synthesis to generate novel VLM analogues for screening potent, highly specific, and low cytotoxic anti&#x02010;SARS&#x02010;CoV agents and/or other anti&#x02010;infective therapeutics.</p></sec></sec><sec id="sec3"><title>Experimental Section</title><p>
+<bold>Bacterial strains and culture conditions</bold>: <italic toggle="yes">E. coli</italic> strains DH5&#x003b1;, XL1&#x02010;Blue MR (Stratagene), and S17&#x02010;1<xref rid="bib54" ref-type="bibr">54</xref> were used in this work, according to standard procedures.<xref rid="bib55" ref-type="bibr">55</xref>
+<italic toggle="yes">S. tsusimaensis</italic> ATCC 15141, a VLM producer,<xref rid="bib19" ref-type="bibr">19</xref> was purchased from the American Type Culture Collection. <italic toggle="yes">S. tsusimaensis</italic> was grown at 30&#x02009;&#x000b0;C in tryptic soy broth (TSB) medium supplemented with sucrose (34&#x02009;%) and MgCl<sub>2</sub> (25 m<sc>m</sc>) for mycelia harvesting; on ISP&#x02010;2 agar for sporulation; on modified ISP&#x02010;4 agar supplemented with tryptone (0.1&#x02009;%) and yeast extract (0.05&#x02009;%) for conjugation between <italic toggle="yes">E. coli</italic> S17&#x02010;1 and <italic toggle="yes">S. tsusimaensis</italic>; and in a composite fermentation medium containing Diaion HP&#x02010;20 (5&#x02009;%)<xref rid="bib56" ref-type="bibr">56</xref> for VLM production. TSB, ISP&#x02010;2, and ISP&#x02010;4 media were from Difco Laboratories. <italic toggle="yes">S. tsusimaensis</italic> was found to be sensitive to apramycin (50 &#x003bc;g&#x02009;mL<sup>&#x02212;1</sup>), nalidixic acid (100 &#x003bc;g&#x02009;mL<sup>&#x02212;1</sup>), and thiostrepton (10 &#x003bc;g&#x02009;mL<sup>&#x02212;1</sup>), which suggested that common <italic toggle="yes">Streptomyces</italic> genetic practices<xref rid="bib42" ref-type="bibr">42</xref> could be feasible in this strain.</p><p>
+<bold>DNA manipulations and library construction</bold>: Plasmid DNA extraction and DNA fragment recovery from agarose gels were carried out with commercial kits (Qiagen). DNA digestion, agarose gel electrophoresis, ligation, and transformation were done by standard protocols.<xref rid="bib55" ref-type="bibr">55</xref> Total <italic toggle="yes">S. tsusimaensis</italic> DNA was extracted from mycelia by the Kirby mix procedure.<xref rid="bib42" ref-type="bibr">42</xref> Three genomic DNA libraries were constructed in this work. A genome sampling library<xref rid="bib41" ref-type="bibr">41</xref> was constructed with the 2&#x02013;4 kb fraction of <italic toggle="yes">Mbo</italic>I partially digested total DNA into the <italic toggle="yes">Bam</italic>HI site of pGEM&#x02010;3zf (Promega). A cosmid library was constructed with the 35&#x02013;45 kb fraction of <italic toggle="yes">Mbo</italic>I partially digested total DNA into the <italic toggle="yes">Bam</italic>HI site of SuperCos 1 vector (Stratagene). A shotgun sequencing library was constructed with the 1&#x02013;2 kb fraction of nebulized cosmid 15 DNA into the pCR<sup>&#x000ae;</sup>4Blunt&#x02010;TOPO vector according to manufacturer&#x02019;s instructions (Invitrogen). For library screening and Southern blot analysis, digoxigenin labeling of the Plate1E10 probe DNA, hybridization, and detection were performed according to the manufacturer's protocols (Roche).</p><p>
+<bold>DNA sequencing and sequence analysis</bold>: For the identification of candidate gene fragments encoding NRPSs, two 96&#x02010;well plates (192 samples) of the genome sampling library were submitted for end sequencing with the T7 primer to generate random genomic sequence tags (DNA Sequencing Laboratory, University of Wisconsin&#x02013;Madison, WI, USA). Individual sequencing reads were manually examined and subjected to homology search against GenBank by using the Blastx algorithm.<xref rid="bib57" ref-type="bibr">57</xref> The candidate <italic toggle="yes">St&#x02010;nrps</italic> gene which contained clone Plate1E10, was subjected to additional sequencing by primer walking and mapping. For shotgun sequencing of cosmid 15, eight 96&#x02010;well plates of the shotgun library (768 samples) were submitted for end&#x02010;sequencing with T3 and T7 primers at Rexagen Co. (Seattle, WA, USA). Contig assembling and sequence polishing were performed by the service company. Sequence quality of the contig containing the <italic toggle="yes">vlm</italic> gene cluster was examined by PCR amplification with genomic DNA as template and resequencing of any regions of interest on the contig. ORF prediction, DNA translation, and protein sequence alignment were performed by using the Lasergene Package (DNAStar, Madison, WI).</p><p>
+<bold>Construction of targeted gene disruption mutants of</bold>
+<italic toggle="yes">
+<bold>S. tsusimaensis</bold>
+</italic>
+<bold>and examination of VLM production by using LC&#x02013;MS</bold>: A 2.3 kb <italic toggle="yes">Eco</italic>RI&#x02013;<italic toggle="yes">Pst</italic>I fragment from Plate1E10 was cloned into a suicide conjugative vector pOJ260 (replicative in <italic toggle="yes">E. coli</italic> but not in <italic toggle="yes">Streptomyces</italic>)<xref rid="bib58" ref-type="bibr">58</xref> to make a targeted gene disruption construct pYC02&#x02010;36d. The construct was first transformed into <italic toggle="yes">E. coli</italic> S17&#x02010;1 cells and then mobilized into <italic toggle="yes">S. tsusimaensis</italic> cells by conjugation.<xref rid="bib56" ref-type="bibr">56</xref> Four independent apramycin&#x02010;resistant conjugants were selected and were verified by Southern blot analysis for the correct integration of plasmid DNA into the host chromosome. Wild&#x02010;type <italic toggle="yes">S. tsusimaensis</italic> and the four mutants YC02&#x02010;38a/b/c/d were then grown in the fermentation medium for 6 days at 30&#x02009;&#x000b0;C; their mycelia and the HP&#x02010;20 resin were collected by filtration and the whole mass was lyophilized and extracted twice with two volumes of methanol. Methanol extracts were pooled and a portion was further fractionated by an Oasis<sup>&#x000ae;</sup> HLB Plus SPE cartridge (Waters, Milford, MA, USA). A fraction eluted by methanol (90&#x02009;%) was subjected to LC&#x02013;MS analysis. LC&#x02013;MS spectra were obtained with an Agilent 1000 LC/MSD Trap SL instrument (Agilent, Palo Alto, CA, USA). The eluents used contained formic acid (0.1&#x02009;%) in water (eluent A) or in acetonitrile (eluent B). A 15 min gradient from 10&#x02009;% eluent B to 90&#x02009;% eluent B was achieved in a 2.1&#x000d7;110 mm Zorbax SB&#x02010;AQ column (Agilent) with a flow rate of 0.5 mL&#x02009;min<sup>&#x02212;1</sup>. UV<sub>210&#x02009;nm</sub> LC signal and positive ion MS signal were recorded. The VLM peak appeared at 12.7 min. The VLM standard used in calibration was purchased from Sigma&#x02013;Aldrich.</p><p>
+<bold>Nucleotide sequence accession number</bold>: The nucleotide sequence reported here has been deposited in the GenBank database under accession no. DQ174261.</p></sec></body><back><ack id="sec1-ack-1"><title>Acknowledgements</title><p>The work was supported by funds from the University of Wisconsin&#x02013;Milwaukee. The author thanks Mary Lynne Collins (University of Wisconsin&#x02013;Milwaukee) for providing E. coli S17&#x02010;1 strain, and Gary Girdaukas (University of Wisconsin&#x02013;Madison, School of Pharmacy Analytical Instrumentation Center) for performing LC&#x02013;MS analysis. The author further thanks Mark McBride and Andrea Matter for critical reading of this manuscript and anonymous reviewers for their many suggestions.</p></ack><ref-list><ref id="bib1"><label>1</label><mixed-citation publication-type="journal" id="cit1">
+<string-name>
+<given-names>B. B.</given-names>
+<surname>Finlay</surname>
+</string-name>, <string-name>
+<given-names>R. H.</given-names>
+<surname>See</surname>
+</string-name>, <string-name>
+<given-names>R. C.</given-names>
+<surname>Brunham</surname>
+</string-name>, <source>Nat. Rev. Microbiol.</source>
+<year>2004</year>, <volume>2</volume>, <fpage>602</fpage>&#x02013;<lpage>607</lpage>.<pub-id pub-id-type="pmid">15197395</pub-id></mixed-citation></ref><ref id="bib2"><label>2</label><mixed-citation publication-type="journal" id="cit2">
+<string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Epstein</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Crameri</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>McEachern</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Field</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Daszak</surname>
+</string-name>, <string-name>
+<given-names>B. T.</given-names>
+<surname>Eaton</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Science</source>
+<year>2005</year>, <volume>310</volume>, <fpage>676</fpage>&#x02013;<lpage>679</lpage>.<pub-id pub-id-type="pmid">16195424</pub-id></mixed-citation></ref><ref id="bib3"><label>3</label><mixed-citation publication-type="journal" id="cit3">
+<string-name>
+<given-names>C.</given-names>
+<surname>Drosten</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Preiser</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Gunther</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Schmitz</surname>
+</string-name>, <string-name>
+<given-names>H. W.</given-names>
+<surname>Doerr</surname>
+</string-name>, <source>Trends Mol. Med.</source>
+<year>2003</year>, <volume>9</volume>, <fpage>325</fpage>&#x02013;<lpage>327</lpage>.<pub-id pub-id-type="pmid">12928032</pub-id></mixed-citation></ref><ref id="bib4"><label>4</label><mixed-citation publication-type="journal" id="cit4">
+<string-name>
+<given-names>T. G.</given-names>
+<surname>Ksiazek</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Erdman</surname>
+</string-name>, <string-name>
+<given-names>C. S.</given-names>
+<surname>Goldsmith</surname>
+</string-name>, <string-name>
+<given-names>S. R.</given-names>
+<surname>Zaki</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Peret</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Emery</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tong</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Urbani</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Comer</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name>
+<given-names>P. E.</given-names>
+<surname>Rollin</surname>
+</string-name>, <string-name>
+<given-names>S. F.</given-names>
+<surname>Dowell</surname>
+</string-name>, <string-name>
+<given-names>A. E.</given-names>
+<surname>Ling</surname>
+</string-name>, <string-name>
+<given-names>C. D.</given-names>
+<surname>Humphrey</surname>
+</string-name>, <string-name>
+<given-names>W. J.</given-names>
+<surname>Shieh</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Guarner</surname>
+</string-name>, <string-name>
+<given-names>C. D.</given-names>
+<surname>Paddock</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Rota</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Fields</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>DeRisi</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Cox</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Hughes</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>LeDuc</surname>
+</string-name>, <string-name>
+<given-names>W. J.</given-names>
+<surname>Bellini</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Anderson</surname>
+</string-name>, <source>N. Engl. J. Med.</source>
+<year>2003</year>, <volume>348</volume>, <fpage>1953</fpage>&#x02013;<lpage>1966</lpage>.<pub-id pub-id-type="pmid">12690092</pub-id></mixed-citation></ref><ref id="bib5"><label>5</label><mixed-citation publication-type="journal" id="cit5">
+<string-name>
+<given-names>R. A.</given-names>
+<surname>Fouchier</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kuiken</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Schutten</surname>
+</string-name>, <string-name>
+<given-names>G. van</given-names>
+<surname>Amerongen</surname>
+</string-name>, <string-name>
+<given-names>G. J. van</given-names>
+<surname>Doornum</surname>
+</string-name>, <string-name>
+<given-names>B. G. van den</given-names>
+<surname>Hoogen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Peiris</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Stohr</surname>
+</string-name>, <string-name>
+<given-names>A. D.</given-names>
+<surname>Osterhaus</surname>
+</string-name>, <source>Nature</source>
+<year>2003</year>, <volume>423</volume>, <fpage>240</fpage>.<pub-id pub-id-type="pmid">12748632</pub-id></mixed-citation></ref><ref id="bib6"><label>6</label><mixed-citation publication-type="journal" id="cit6">
+<string-name>
+<given-names>T.</given-names>
+<surname>Kuiken</surname>
+</string-name>, <string-name>
+<given-names>R. A.</given-names>
+<surname>Fouchier</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Schutten</surname>
+</string-name>, <string-name>
+<given-names>G. F.</given-names>
+<surname>Rimmelzwaan</surname>
+</string-name>, <string-name>
+<given-names>G. van</given-names>
+<surname>Amerongen</surname>
+</string-name>, <string-name>
+<given-names>D. van</given-names>
+<surname>Riel</surname>
+</string-name>, <string-name>
+<given-names>J. D.</given-names>
+<surname>Laman</surname>
+</string-name>, <string-name>
+<given-names>T. de</given-names>
+<surname>Jong</surname>
+</string-name>, <string-name>
+<given-names>G. van</given-names>
+<surname>Doornum</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name>
+<given-names>A. E.</given-names>
+<surname>Ling</surname>
+</string-name>, <string-name>
+<given-names>P. K.</given-names>
+<surname>Chan</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Tam</surname>
+</string-name>, <string-name>
+<given-names>M. C.</given-names>
+<surname>Zambon</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Gopal</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Drosten</surname>
+</string-name>, <string-name>
+<given-names>S. van der</given-names>
+<surname>Werf</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Escriou</surname>
+</string-name>, <string-name>
+<given-names>J. C.</given-names>
+<surname>Manuguerra</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Stohr</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Peiris</surname>
+</string-name>, <string-name>
+<given-names>A. D.</given-names>
+<surname>Osterhaus</surname>
+</string-name>, <source>Lancet</source>
+<year>2003</year>, <volume>362</volume>, <fpage>263</fpage>&#x02013;<lpage>270</lpage>.<pub-id pub-id-type="pmid">12892955</pub-id></mixed-citation></ref><ref id="bib7"><label>7</label><mixed-citation publication-type="journal" id="cit7">
+<string-name>
+<given-names>K.</given-names>
+<surname>Stadler</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Masignani</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Eickmann</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Becker</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Abrignani</surname>
+</string-name>, <string-name>
+<given-names>H. D.</given-names>
+<surname>Klenk</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Rappuoli</surname>
+</string-name>, <source>Nat. Rev. Microbiol.</source>
+<year>2003</year>, <volume>1</volume>, <fpage>209</fpage>&#x02013;<lpage>218</lpage>.<pub-id pub-id-type="pmid">15035025</pub-id></mixed-citation></ref><ref id="bib8"><label>8</label><mixed-citation publication-type="journal" id="cit8">
+<string-name>
+<given-names>S. M. E. C.</given-names>
+<surname>Chinese</surname>
+</string-name>, <source>Science</source>
+<year>2004</year>, <volume>303</volume>, <fpage>1666</fpage>&#x02013;<lpage>1669</lpage>.<pub-id pub-id-type="pmid">14752165</pub-id></mixed-citation></ref><ref id="bib9"><label>9</label><mixed-citation publication-type="journal" id="cit9">
+<string-name>
+<given-names>L. A.</given-names>
+<surname>Meyers</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Pourbohloul</surname>
+</string-name>, <string-name>
+<given-names>M. E.</given-names>
+<surname>Newman</surname>
+</string-name>, <string-name>
+<given-names>D. M.</given-names>
+<surname>Skowronski</surname>
+</string-name>, <string-name>
+<given-names>R. C.</given-names>
+<surname>Brunham</surname>
+</string-name>, <source>J. Theor. Biol.</source>
+<year>2005</year>, <volume>232</volume>, <fpage>71</fpage>&#x02013;<lpage>81</lpage>.<pub-id pub-id-type="pmid">15498594</pub-id></mixed-citation></ref><ref id="bib10"><label>10</label><mixed-citation publication-type="journal" id="cit10">
+<string-name>
+<given-names>D. M.</given-names>
+<surname>Skowronski</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Astell</surname>
+</string-name>, <string-name>
+<given-names>R. C.</given-names>
+<surname>Brunham</surname>
+</string-name>, <string-name>
+<given-names>D. E.</given-names>
+<surname>Low</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Petric</surname>
+</string-name>, <string-name>
+<given-names>R. L.</given-names>
+<surname>Roper</surname>
+</string-name>, <string-name>
+<given-names>P. J.</given-names>
+<surname>Talbot</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Tam</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Babiuk</surname>
+</string-name>, <source>Annu. Rev. Med.</source>
+<year>2005</year>, <volume>56</volume>, <fpage>357</fpage>&#x02013;<lpage>381</lpage>.<pub-id pub-id-type="pmid">15660517</pub-id></mixed-citation></ref><ref id="bib11"><label>11</label><mixed-citation publication-type="journal" id="cit11">
+<string-name>
+<given-names>S.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Emerging Infect. Dis.</source>
+<year>2005</year>, <volume>11</volume>, <fpage>1016</fpage>&#x02013;<lpage>1020</lpage>.</mixed-citation></ref><ref id="bib12"><label>12</label><mixed-citation publication-type="journal" id="cit12">
+<string-name>
+<given-names>S.</given-names>
+<surname>Shigeta</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Yamase</surname>
+</string-name>, <source>Antiviral Chem. Chemother.</source>
+<year>2005</year>, <volume>16</volume>, <fpage>23</fpage>&#x02013;<lpage>31</lpage>.</mixed-citation></ref><ref id="bib13"><label>13</label><mixed-citation publication-type="journal" id="cit13">
+<string-name>
+<given-names>G. H.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K. D.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>L. L.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>X. Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Zhu</surname>
+</string-name>, <source>Yaoxue Xuebao</source>
+<year>2004</year>, <volume>39</volume>, <fpage>236</fpage>&#x02013;<lpage>240</lpage>.</mixed-citation></ref><ref id="bib14"><label>14</label><mixed-citation publication-type="journal" id="cit14">
+<string-name>
+<given-names>C. Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J. T.</given-names>
+<surname>Jan</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Kuo</surname>
+</string-name>, <string-name>
+<given-names>H. F.</given-names>
+<surname>Juan</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>H. H.</given-names>
+<surname>Hsu</surname>
+</string-name>, <string-name>
+<given-names>H. C.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Brik</surname>
+</string-name>, <string-name>
+<given-names>F. S.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>R. S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>S. T.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>P. H.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>C. H.</given-names>
+<surname>Wong</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. USA</source>
+<year>2004</year>, <volume>101</volume>, <fpage>10012</fpage>&#x02013;<lpage>10017</lpage>.<pub-id pub-id-type="pmid">15226499</pub-id></mixed-citation></ref><ref id="bib15"><label>15</label><mixed-citation publication-type="journal" id="cit15">
+<string-name>
+<given-names>H.</given-names>
+<surname>Brockmann</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Schmidt&#x02010;Kastner</surname>
+</string-name>, <source>Chem. Ber.</source>
+<year>1955</year>, <volume>88</volume>, <fpage>57</fpage>&#x02013;<lpage>61</lpage>.</mixed-citation></ref><ref id="bib16"><label>16</label><mixed-citation publication-type="journal" id="cit16">
+<string-name>
+<given-names>H.</given-names>
+<surname>Brockmann</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Geeren</surname>
+</string-name>, <source>Justus Liebigs Ann. Chem.</source>
+<year>1957</year>, <volume>603</volume>, <fpage>216</fpage>&#x02013;<lpage>232</lpage>.</mixed-citation></ref><ref id="bib17"><label>17</label><mixed-citation publication-type="journal" id="cit17">
+<string-name>
+<given-names>M. A.</given-names>
+<surname>Andersson</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Mikkola</surname>
+</string-name>, <string-name>
+<given-names>R. M.</given-names>
+<surname>Kroppenstedt</surname>
+</string-name>, <string-name>
+<given-names>F. A.</given-names>
+<surname>Rainey</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Peltola</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Helin</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Sivonen</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Salkinoja&#x02010;Salonen</surname>
+</string-name>, <source>Appl. Environ. Microbiol.</source>
+<year>1998</year>, <volume>64</volume>, <fpage>4767</fpage>&#x02013;<lpage>4773</lpage>.<pub-id pub-id-type="pmid">9835560</pub-id></mixed-citation></ref><ref id="bib18"><label>18</label><mixed-citation publication-type="journal" id="cit18">
+<string-name>
+<given-names>G. R.</given-names>
+<surname>Pettit</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Melody</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Kielty</surname>
+</string-name>, <string-name>
+<given-names>R. K.</given-names>
+<surname>Pettit</surname>
+</string-name>, <string-name>
+<given-names>D. L.</given-names>
+<surname>Herald</surname>
+</string-name>, <string-name>
+<given-names>B. E.</given-names>
+<surname>Tucker</surname>
+</string-name>, <string-name>
+<given-names>L. P.</given-names>
+<surname>Mallavia</surname>
+</string-name>, <string-name>
+<given-names>D. L.</given-names>
+<surname>Doubek</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Schmidt</surname>
+</string-name>, <source>Bioorg. Med. Chem.</source>
+<year>1999</year>, <volume>7</volume>, <fpage>895</fpage>&#x02013;<lpage>899</lpage>.<pub-id pub-id-type="pmid">10400343</pub-id></mixed-citation></ref><ref id="bib19"><label>19</label><mixed-citation publication-type="journal" id="cit19">
+<string-name>
+<given-names>J. B.</given-names>
+<surname>Perkins</surname>
+</string-name>, <string-name>
+<given-names>S. K.</given-names>
+<surname>Guterman</surname>
+</string-name>, <string-name>
+<given-names>C. L.</given-names>
+<surname>Howitt</surname>
+</string-name>, <string-name>
+<given-names>V. E.</given-names>
+<surname>Williams</surname>
+<suffix>II</suffix>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Pero</surname>
+</string-name>, <source>J. Bacteriol.</source>
+<year>1990</year>, <volume>172</volume>, <fpage>3108</fpage>&#x02013;<lpage>3116</lpage>.<pub-id pub-id-type="pmid">2345137</pub-id></mixed-citation></ref><ref id="bib20"><label>20</label><mixed-citation publication-type="miscellaneous" id="cit20">
+<string-name>
+<given-names>H.</given-names>
+<surname>Nishimura</surname>
+</string-name>, U.S. Patent no. 3&#x02009;365&#x02009;363, <year>1968</year>.</mixed-citation></ref><ref id="bib21"><label>21</label><mixed-citation publication-type="miscellaneous" id="cit21">
+<string-name>
+<given-names>E. L.</given-names>
+<surname>Patterson</surname>
+</string-name>, <string-name>
+<given-names>D. P.</given-names>
+<surname>Wright</surname>
+</string-name>, U.S. Patent no. 3&#x02009;520&#x02009;973, <year>1970</year>.</mixed-citation></ref><ref id="bib22"><label>22</label><mixed-citation publication-type="journal" id="cit22">
+<string-name>
+<given-names>W. A.</given-names>
+<surname>Taber</surname>
+</string-name>, <string-name>
+<given-names>L. C.</given-names>
+<surname>Vining</surname>
+</string-name>, <source>Can. J. Microbiol.</source>
+<year>1957</year>, <volume>3</volume>, <fpage>953</fpage>&#x02013;<lpage>965</lpage>.<pub-id pub-id-type="pmid">13489545</pub-id></mixed-citation></ref><ref id="bib23"><label>23</label><mixed-citation publication-type="journal" id="cit23">
+<string-name>
+<given-names>A.</given-names>
+<surname>Paananen</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Jarvinen</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Sareneva</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Salkinoja&#x02010;Salonen</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Timonen</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Holtta</surname>
+</string-name>, <source>Toxicology</source>
+<year>2005</year>, <volume>212</volume>, <fpage>37</fpage>&#x02013;<lpage>45</lpage>.<pub-id pub-id-type="pmid">15876477</pub-id></mixed-citation></ref><ref id="bib24"><label>24</label><mixed-citation publication-type="journal" id="cit24">
+<string-name>
+<given-names>S.</given-names>
+<surname>Kuroda</surname>
+</string-name>, <source>Gan To Kagaku Ryoho</source>
+<year>1984</year>, <volume>11</volume>, <fpage>2625</fpage>&#x02013;<lpage>2632</lpage>.<pub-id pub-id-type="pmid">6508319</pub-id></mixed-citation></ref><ref id="bib25"><label>25</label><mixed-citation publication-type="journal" id="cit25">
+<string-name>
+<given-names>J. C.</given-names>
+<surname>MacDonald</surname>
+</string-name>, <string-name>
+<given-names>G. P.</given-names>
+<surname>Slater</surname>
+</string-name>, <source>Can. J. Biochem.</source>
+<year>1968</year>, <volume>46</volume>, <fpage>573</fpage>&#x02013;<lpage>578</lpage>.<pub-id pub-id-type="pmid">5660414</pub-id></mixed-citation></ref><ref id="bib26"><label>26</label><mixed-citation publication-type="journal" id="cit26">
+<string-name>
+<given-names>H.</given-names>
+<surname>Ristow</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Salnikow</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kleinkauf</surname>
+</string-name>, <source>FEBS Lett.</source>
+<year>1974</year>, <volume>42</volume>, <fpage>127</fpage>&#x02013;<lpage>130</lpage>.<pub-id pub-id-type="pmid">4368457</pub-id></mixed-citation></ref><ref id="bib27"><label>27</label><mixed-citation publication-type="journal" id="cit27">
+<string-name>
+<given-names>T.</given-names>
+<surname>Anke</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Lipmann</surname>
+</string-name>, <source>FEBS Lett.</source>
+<year>1977</year>, <volume>82</volume>, <fpage>337</fpage>&#x02013;<lpage>340</lpage>.<pub-id pub-id-type="pmid">913608</pub-id></mixed-citation></ref><ref id="bib28"><label>28</label><mixed-citation publication-type="journal" id="cit28">
+<string-name>
+<given-names>M. S.</given-names>
+<surname>Frant</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Ross</surname>
+<suffix>Jr.</suffix>
+</string-name>, <source>Science</source>
+<year>1970</year>, <volume>167</volume>, <fpage>987</fpage>&#x02013;<lpage>988</lpage>.<pub-id pub-id-type="pmid">5411177</pub-id></mixed-citation></ref><ref id="bib29"><label>29</label><mixed-citation publication-type="journal" id="cit29">
+<string-name>
+<given-names>B. C.</given-names>
+<surname>Pressman</surname>
+</string-name>, <source>Annu. Rev. Biochem.</source>
+<year>1976</year>, <volume>45</volume>, <fpage>501</fpage>&#x02013;<lpage>530</lpage>.<pub-id pub-id-type="pmid">786156</pub-id></mixed-citation></ref><ref id="bib30"><label>30</label><mixed-citation publication-type="journal" id="cit30">
+<string-name>
+<given-names>B. A.</given-names>
+<surname>Wallace</surname>
+</string-name>, <source>Bioessays</source>
+<year>2000</year>, <volume>22</volume>, <fpage>227</fpage>&#x02013;<lpage>234</lpage>.<pub-id pub-id-type="pmid">10684582</pub-id></mixed-citation></ref><ref id="bib31"><label>31</label><mixed-citation publication-type="journal" id="cit31">
+<string-name>
+<given-names>R.</given-names>
+<surname>Finking</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Marahiel</surname>
+</string-name>, <source>Annu. Rev. Microbiol.</source>
+<year>2004</year>, <volume>58</volume>, <fpage>453</fpage>&#x02013;<lpage>488</lpage>.<pub-id pub-id-type="pmid">15487945</pub-id></mixed-citation></ref><ref id="bib32"><label>32</label><mixed-citation publication-type="journal" id="cit32">
+<string-name>
+<given-names>C. T.</given-names>
+<surname>Walsh</surname>
+</string-name>, <source>Science</source>
+<year>2004</year>, <volume>303</volume>, <fpage>1805</fpage>&#x02013;<lpage>1810</lpage>.<pub-id pub-id-type="pmid">15031493</pub-id></mixed-citation></ref><ref id="bib33"><label>33</label><mixed-citation publication-type="journal" id="cit33">
+<string-name>
+<given-names>A.</given-names>
+<surname>Haese</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Schubert</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Herrmann</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zocher</surname>
+</string-name>, <source>Mol. Microbiol.</source>
+<year>1993</year>, <volume>7</volume>, <fpage>905</fpage>&#x02013;<lpage>914</lpage>.<pub-id pub-id-type="pmid">8483420</pub-id></mixed-citation></ref><ref id="bib34"><label>34</label><mixed-citation publication-type="journal" id="cit34">
+<string-name>
+<given-names>R.</given-names>
+<surname>Pieper</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Haese</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Schroder</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zocher</surname>
+</string-name>, <source>Eur. J. Biochem.</source>
+<year>1995</year>, <volume>230</volume>, <fpage>119</fpage>&#x02013;<lpage>126</lpage>.<pub-id pub-id-type="pmid">7601090</pub-id></mixed-citation></ref><ref id="bib35"><label>35</label><mixed-citation publication-type="journal" id="cit35">
+<string-name>
+<given-names>W.</given-names>
+<surname>Weckwerth</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Miyamoto</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Iinuma</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Krause</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Glinski</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Storm</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Bonse</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kleinkauf</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zocher</surname>
+</string-name>, <source>J. Biol. Chem.</source>
+<year>2000</year>, <volume>275</volume>, <fpage>17909</fpage>&#x02013;<lpage>17915</lpage>.<pub-id pub-id-type="pmid">10751395</pub-id></mixed-citation></ref><ref id="bib36"><label>36</label><mixed-citation publication-type="journal" id="cit36">
+<string-name>
+<given-names>P. F.</given-names>
+<surname>Horwood</surname>
+</string-name>, <string-name>
+<given-names>G. W.</given-names>
+<surname>Burgess</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Oakey</surname>
+</string-name>, <source>FEMS Microbiol. Lett.</source>
+<year>2004</year>, <volume>236</volume>, <fpage>319</fpage>&#x02013;<lpage>324</lpage>.<pub-id pub-id-type="pmid">15251214</pub-id></mixed-citation></ref><ref id="bib37"><label>37</label><mixed-citation publication-type="journal" id="cit37">
+<string-name>
+<given-names>M.</given-names>
+<surname>Toh</surname>
+</string-name>, <string-name>
+<given-names>M. C.</given-names>
+<surname>Moffitt</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Henrichsen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Raftery</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Barrow</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Cox</surname>
+</string-name>, <string-name>
+<given-names>C. P.</given-names>
+<surname>Marquis</surname>
+</string-name>, <string-name>
+<given-names>B. A.</given-names>
+<surname>Neilan</surname>
+</string-name>, <source>J. Appl. Microbiol.</source>
+<year>2004</year>, <volume>97</volume>, <fpage>992</fpage>&#x02013;<lpage>1000</lpage>.<pub-id pub-id-type="pmid">15479414</pub-id></mixed-citation></ref><ref id="bib38"><label>38</label><mixed-citation publication-type="journal" id="cit38">
+<string-name>
+<given-names>M.</given-names>
+<surname>Ehling&#x02010;Schulz</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Vukov</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Schulz</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Shaheen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Andersson</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Martlbauer</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Scherer</surname>
+</string-name>, <source>Appl. Environ. Microbiol.</source>
+<year>2005</year>, <volume>71</volume>, <fpage>105</fpage>&#x02013;<lpage>113</lpage>.<pub-id pub-id-type="pmid">15640177</pub-id></mixed-citation></ref><ref id="bib39"><label>39</label><mixed-citation publication-type="journal" id="cit39">
+<string-name>
+<given-names>H. D.</given-names>
+<surname>Mootz</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Schwarzer</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Marahiel</surname>
+</string-name>, <source>ChemBioChem</source>
+<year>2002</year>, <volume>3</volume>, <fpage>490</fpage>&#x02013;<lpage>504</lpage>.<pub-id pub-id-type="pmid">12325005</pub-id></mixed-citation></ref><ref id="bib40"><label>40</label><mixed-citation publication-type="journal" id="cit40">
+<string-name>
+<given-names>M. F.</given-names>
+<surname>Martin</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Liras</surname>
+</string-name>, <source>Annu. Rev. Microbiol.</source>
+<year>1989</year>, <volume>43</volume>, <fpage>173</fpage>&#x02013;<lpage>206</lpage>.<pub-id pub-id-type="pmid">2679353</pub-id></mixed-citation></ref><ref id="bib41"><label>41</label><mixed-citation publication-type="journal" id="cit41">
+<string-name>
+<given-names>E.</given-names>
+<surname>Zazopoulos</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Staffa</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>B. O.</given-names>
+<surname>Bachmann</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Nonaka</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ahlert</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Thorson</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>C. M.</given-names>
+<surname>Farnet</surname>
+</string-name>, <source>Nat. Biotechnol.</source>
+<year>2003</year>, <volume>21</volume>, <fpage>187</fpage>&#x02013;<lpage>190</lpage>.<pub-id pub-id-type="pmid">12536216</pub-id></mixed-citation></ref><ref id="bib42"><label>42</label><mixed-citation publication-type="book" id="cit42">
+<string-name>
+<given-names>T.</given-names>
+<surname>Kieser</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>Bibb</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>Buttner</surname>
+</string-name>, <string-name>
+<given-names>K. F.</given-names>
+<surname>Chater</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Hopwood</surname>
+</string-name>, <source>Practical Streptomyces Genetics</source>, <publisher-name>John Innes Foundation</publisher-name>, <publisher-loc>Norwich, England</publisher-loc>, <year>2000</year>.</mixed-citation></ref><ref id="bib43"><label>43</label><mixed-citation publication-type="journal" id="cit43">
+<string-name>
+<given-names>M. L.</given-names>
+<surname>Heathcote</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Staunton</surname>
+</string-name>, <string-name>
+<given-names>P. F.</given-names>
+<surname>Leadlay</surname>
+</string-name>, <source>Chem. Biol.</source>
+<year>2001</year>, <volume>8</volume>, <fpage>207</fpage>&#x02013;<lpage>220</lpage>.<pub-id pub-id-type="pmid">11251294</pub-id></mixed-citation></ref><ref id="bib44"><label>44</label><mixed-citation publication-type="journal" id="cit44">
+<string-name>
+<given-names>C.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Gorisch</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kleinkauf</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zocher</surname>
+</string-name>, <source>J. Biol. Chem.</source>
+<year>1992</year>, <volume>267</volume>, <fpage>11741</fpage>&#x02013;<lpage>11744</lpage>.<pub-id pub-id-type="pmid">1601849</pub-id></mixed-citation></ref><ref id="bib45"><label>45</label><mixed-citation publication-type="journal" id="cit45">
+<string-name>
+<given-names>S. C.</given-names>
+<surname>Wenzel</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Muller</surname>
+</string-name>, <source>Curr. Opin. Chem. Biol.</source>
+<year>2005</year>, <volume>9</volume>, <fpage>447</fpage>&#x02013;<lpage>458</lpage>.<pub-id pub-id-type="pmid">16107321</pub-id></mixed-citation></ref><ref id="bib46"><label>46</label><mixed-citation publication-type="journal" id="cit46">
+<string-name>
+<given-names>M. A.</given-names>
+<surname>Marahiel</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Stachelhaus</surname>
+</string-name>, <string-name>
+<given-names>H. D.</given-names>
+<surname>Mootz</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>1997</year>, <volume>97</volume>, <fpage>2651</fpage>&#x02013;<lpage>2674</lpage>.<pub-id pub-id-type="pmid">11851476</pub-id></mixed-citation></ref><ref id="bib47"><label>47</label><mixed-citation publication-type="journal" id="cit47">
+<string-name>
+<given-names>E.</given-names>
+<surname>Conti</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Stachelhaus</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Marahiel</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Brick</surname>
+</string-name>, <source>EMBO. J.</source>
+<year>1997</year>, <volume>16</volume>, <fpage>4174</fpage>&#x02013;<lpage>4183</lpage>.<pub-id pub-id-type="pmid">9250661</pub-id></mixed-citation></ref><ref id="bib48"><label>48</label><mixed-citation publication-type="journal" id="cit48">
+<string-name>
+<given-names>J. J.</given-names>
+<surname>May</surname>
+</string-name>, <string-name>
+<given-names>T. M.</given-names>
+<surname>Wendrich</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Marahiel</surname>
+</string-name>, <source>J. Biol. Chem.</source>
+<year>2001</year>, <volume>276</volume>, <fpage>7209</fpage>&#x02013;<lpage>7217</lpage>.<pub-id pub-id-type="pmid">11112781</pub-id></mixed-citation></ref><ref id="bib49"><label>49</label><mixed-citation publication-type="journal" id="cit49">
+<string-name>
+<given-names>T.</given-names>
+<surname>Stachelhaus</surname>
+</string-name>, <string-name>
+<given-names>H. D.</given-names>
+<surname>Mootz</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Marahiel</surname>
+</string-name>, <source>Chem. Biol.</source>
+<year>1999</year>, <volume>6</volume>, <fpage>493</fpage>&#x02013;<lpage>505</lpage>.<pub-id pub-id-type="pmid">10421756</pub-id></mixed-citation></ref><ref id="bib50"><label>50</label><mixed-citation publication-type="journal" id="cit50">
+<string-name>
+<given-names>G. L.</given-names>
+<surname>Challis</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ravel</surname>
+</string-name>, <string-name>
+<given-names>C. A.</given-names>
+<surname>Townsend</surname>
+</string-name>, <source>Chem. Biol.</source>
+<year>2000</year>, <volume>7</volume>, <fpage>211</fpage>&#x02013;<lpage>224</lpage>.<pub-id pub-id-type="pmid">10712928</pub-id></mixed-citation></ref><ref id="bib51"><label>51</label><mixed-citation publication-type="journal" id="cit51">
+<string-name>
+<given-names>T. A.</given-names>
+<surname>Keating</surname>
+</string-name>, <string-name>
+<given-names>D. E.</given-names>
+<surname>Ehmann</surname>
+</string-name>, <string-name>
+<given-names>R. M.</given-names>
+<surname>Kohli</surname>
+</string-name>, <string-name>
+<given-names>C. G.</given-names>
+<surname>Marshall</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Trauger</surname>
+</string-name>, <string-name>
+<given-names>C. T.</given-names>
+<surname>Walsh</surname>
+</string-name>, <source>ChemBioChem</source>
+<year>2001</year>, <volume>2</volume>, <fpage>99</fpage>&#x02013;<lpage>107</lpage>.<pub-id pub-id-type="pmid">11828432</pub-id></mixed-citation></ref><ref id="bib52"><label>52</label><mixed-citation publication-type="journal" id="cit52">
+<string-name>
+<given-names>T. A.</given-names>
+<surname>Keating</surname>
+</string-name>, <string-name>
+<given-names>C. T.</given-names>
+<surname>Walsh</surname>
+</string-name>, <source>Curr. Opin. Chem. Biol.</source>
+<year>1999</year>, <volume>3</volume>, <fpage>598</fpage>&#x02013;<lpage>606</lpage>.<pub-id pub-id-type="pmid">10508662</pub-id></mixed-citation></ref><ref id="bib53"><label>53</label><mixed-citation publication-type="journal" id="cit53">
+<string-name>
+<given-names>S. D.</given-names>
+<surname>Bruner</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>R. M.</given-names>
+<surname>Kohli</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Schwarzer</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Marahiel</surname>
+</string-name>, <string-name>
+<given-names>C. T.</given-names>
+<surname>Walsh</surname>
+</string-name>, <string-name>
+<given-names>M. T.</given-names>
+<surname>Stubbs</surname>
+</string-name>, <source>Structure</source>
+<year>2002</year>, <volume>10</volume>, <fpage>301</fpage>&#x02013;<lpage>310</lpage>.<pub-id pub-id-type="pmid">12005429</pub-id></mixed-citation></ref><ref id="bib54"><label>54</label><mixed-citation publication-type="journal" id="cit54">
+<string-name>
+<given-names>R.</given-names>
+<surname>Simon</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Priefer</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Puehler</surname>
+</string-name>, <source>Biotechnology (N.Y.)</source>
+<year>1983</year>, <volume>1</volume>, <fpage>784</fpage>&#x02013;<lpage>791</lpage>.</mixed-citation></ref><ref id="bib55"><label>55</label><mixed-citation publication-type="book" id="cit55">
+<string-name>
+<given-names>J.</given-names>
+<surname>Sambrook</surname>
+</string-name>, <string-name>
+<given-names>D. W.</given-names>
+<surname>Russell</surname>
+</string-name>, <source>Molecular Cloning: A Laboratory Manual</source>, <edition>3</edition>rd ed., <publisher-name>Cold Spring Harbor Laboratory Press</publisher-name>, <publisher-loc>New York</publisher-loc>, <year>2000</year>.</mixed-citation></ref><ref id="bib56"><label>56</label><mixed-citation publication-type="journal" id="cit56">
+<string-name>
+<given-names>Y. Q.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>G. L.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Shen</surname>
+</string-name>, <source>J. Bacteriol.</source>
+<year>2002</year>, <volume>184</volume>, <fpage>7013</fpage>&#x02013;<lpage>7024</lpage>.<pub-id pub-id-type="pmid">12446651</pub-id></mixed-citation></ref><ref id="bib57"><label>57</label><mixed-citation publication-type="journal" id="cit57">
+<string-name>
+<given-names>S. F.</given-names>
+<surname>Altschul</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Gish</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Miller</surname>
+</string-name>, <string-name>
+<given-names>E. W.</given-names>
+<surname>Myers</surname>
+</string-name>, <string-name>
+<given-names>D. J.</given-names>
+<surname>Lipman</surname>
+</string-name>, <source>J. Mol. Biol.</source>
+<year>1990</year>, <volume>215</volume>, <fpage>403</fpage>&#x02013;<lpage>410</lpage>.<pub-id pub-id-type="pmid">2231712</pub-id></mixed-citation></ref><ref id="bib58"><label>58</label><mixed-citation publication-type="journal" id="cit58">
+<string-name>
+<given-names>M.</given-names>
+<surname>Bierman</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Logan</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>O&#x02019;Brien</surname>
+</string-name>, <string-name>
+<given-names>E. T.</given-names>
+<surname>Seno</surname>
+</string-name>, <string-name>
+<given-names>R. N.</given-names>
+<surname>Rao</surname>
+</string-name>, <string-name>
+<given-names>B. E.</given-names>
+<surname>Schoner</surname>
+</string-name>, <source>Gene</source>
+<year>1992</year>, <volume>116</volume>, <fpage>43</fpage>&#x02013;<lpage>49</lpage>.<pub-id pub-id-type="pmid">1628843</pub-id></mixed-citation></ref></ref-list></back></article>

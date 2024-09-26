@@ -1,0 +1,22 @@
+ Phospho-N-acetylmuramoyl-pentapeptide
+translocase
+(MraYAA) from Aquifex aeolicus is the binding target for the nucleotide antibiotic muraymycin D2
+(MD2). MraYAA in the presence of the MD2 ligand has been
+crystallized and released, while the interactions between the ligand
+and active-site residues remain less quantitatively and qualitatively
+defined. We characterized theoretically the key residues involved
+in noncovalent interactions with MD2 in the MraYAA active
+site. We applied the quantum theory of atoms in molecules and natural
+bond orbital analyses based on the density functional theory method
+on the solved crystal structure of MraY with the MD2 to quantitatively
+estimate the intermolecular interactions. The obtained results revealed
+the presence of multiple hydrogen bonds in the investigated active
+site with strength ranging from van der Waals to covalent limits.
+Lys70, Asp193, Gly194, Asp196, Gly264, Ala321, Gln305, and His325
+are key active-site residues interacting with MD2. Conventional and
+unconventional hydrogen bonds in addition with charge–dipole
+and dipole–dipole interactions contribute significantly to
+stabilize the MD2 binding to the MraYAA active site. It
+was also found that water molecules inside the active site have substantial
+effects on its structure stability through hydrogen-bonding interactions
+with MD2 and the interacting residues.

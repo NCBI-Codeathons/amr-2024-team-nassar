@@ -1,0 +1,1008 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.3 20210610//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1-3.dtd?><?SourceDTD.Version 1.3?><?ConverterInfo.XSLTName jats2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancers (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Cancers (Basel)</journal-id><journal-id journal-id-type="publisher-id">cancers</journal-id><journal-title-group><journal-title>Cancers</journal-title></journal-title-group><issn pub-type="epub">2072-6694</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11083444</article-id><article-id pub-id-type="doi">10.3390/cancers16091786</article-id><article-id pub-id-type="publisher-id">cancers-16-01786</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Phytochemical Modulation of Ion Channels in Oncologic Symptomatology and Treatment</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7166-1899</contrib-id><name><surname>Rao</surname><given-names>Rohan</given-names></name><xref rid="af1-cancers-16-01786" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Mohammed</surname><given-names>Caroline</given-names></name><xref rid="af2-cancers-16-01786" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5504-2449</contrib-id><name><surname>Alschuler</surname><given-names>Lise</given-names></name><xref rid="af3-cancers-16-01786" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Pomeranz Krummel</surname><given-names>Daniel A.</given-names></name><xref rid="af4-cancers-16-01786" ref-type="aff">4</xref><xref rid="af5-cancers-16-01786" ref-type="aff">5</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4577-1397</contrib-id><name><surname>Sengupta</surname><given-names>Soma</given-names></name><xref rid="af2-cancers-16-01786" ref-type="aff">2</xref><xref rid="af4-cancers-16-01786" ref-type="aff">4</xref><xref rid="af5-cancers-16-01786" ref-type="aff">5</xref><xref rid="c1-cancers-16-01786" ref-type="corresp">*</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Beyer</surname><given-names>Eric C.</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-cancers-16-01786"><label>1</label>Department of Neurology &#x00026; Rehabilitation Medicine, University of Cincinnati College of Medicine, Cincinnati, OH 45267, USA</aff><aff id="af2-cancers-16-01786"><label>2</label>Department of Neurology, University of North Carolina School of Medicine, Chapel Hill, NC 27599, USA</aff><aff id="af3-cancers-16-01786"><label>3</label>Andrew Weil Center for Integrative Medicine, University of Arizona College of Medicine, Tucson, AZ 85719, USA</aff><aff id="af4-cancers-16-01786"><label>4</label>Department of Neurosurgery, University of North Carolina School of Medicine, Chapel Hill, NC 27599, USA</aff><aff id="af5-cancers-16-01786"><label>5</label>Lineberger Comprehensive Cancer Center, University of North Carolina School of Medicine, Chapel Hill, NC 27599, USA</aff><author-notes><corresp id="c1-cancers-16-01786"><label>*</label>Correspondence: <email>ssengup@email.unc.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2024</year></pub-date><volume>16</volume><issue>9</issue><elocation-id>1786</elocation-id><history><date date-type="received"><day>29</day><month>3</month><year>2024</year></date><date date-type="rev-recd"><day>24</day><month>4</month><year>2024</year></date><date date-type="accepted"><day>04</day><month>5</month><year>2024</year></date></history><permissions><copyright-statement>&#x000a9; 2024 by the authors.</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><sec><title>Simple Summary</title><p>Cancer is a leading cause of death worldwide. The costs involved in cancer diagnosis and treatment are extraordinary. Important steps that can be taken that would reduce costs include earlier cancer diagnosis for which significant headway is being made through biomarker identification in bodily fluids and imaging. Other important steps will be to identify treatment approaches that do not &#x02018;break the bank&#x02019; and affect a patient&#x02019;s wellbeing. Herein, we aim to highlight the potential of phytochemicals as a cost-effective approach to aid in the treatment of cancer. We focus on phytochemicals that target ion channels, as molecules that mediate critical communication of a cell with its environment. Ultimately, we posit that phytochemicals targeting ion channels can be employed to aid cancer treatment.</p></sec><sec><title>Abstract</title><p>Modern chemotherapies offer a broad approach to cancer treatment but eliminate both cancer and non-cancer cells indiscriminately and, thus, are associated with a host of side effects. Advances in precision oncology have brought about new targeted therapeutics, albeit mostly limited to a subset of patients with an actionable mutation. They too come with side effects and, ultimately, &#x02018;self-resistance&#x02019; to the treatment. There is recent interest in the modulation of ion channels, transmembrane proteins that regulate the flow of electrically charged molecules in and out of cells, as an approach to aid treatment of cancer. Phytochemicals have been shown to act on ion channels with high specificity regardless of the tumor&#x02019;s genetic profile. This paper explores the use of phytochemicals in cancer symptom management and treatment.</p></sec></abstract><kwd-group><kwd>phytochemicals</kwd><kwd>oncology</kwd><kwd>ion channels</kwd><kwd>voltage-gated ion channels</kwd><kwd>ligand-gated ion channels</kwd><kwd>sodium channel</kwd><kwd>potassium channel</kwd></kwd-group><funding-group><award-group><funding-source>Lineberger Comprehensive Cancer Center</funding-source></award-group><award-group><funding-source>Department of Neurosurgery, UNC at Chapel Hill</funding-source></award-group><funding-statement>American Brain Tumor Association (S.S., D.A.P.K. and C.M.), support from the Lineberger Comprehensive Cancer Center and the Department of Neurosurgery, UNC at Chapel Hill.</funding-statement></funding-group></article-meta></front><body><sec sec-type="intro" id="sec1-cancers-16-01786"><title>1. Introduction</title><p>Plants have a fundamental role in the health and wellbeing of our lives. Importantly, they can also be utilized for their medicinal potential and are increasingly viewed as &#x02018;medicine&#x02019;, albeit of the &#x02018;alternative&#x02019; variety. Humans have creatively employed plants as herbal medicine going back thousands of years. One of the oldest medical records, dated to 1500 B.C., is the Papyrus Ebers [<xref rid="B1-cancers-16-01786" ref-type="bibr">1</xref>], which describes the usage of over 800 plants to treat a variety of ailments. Traditional Chinese medicine was first documented around 200 A.D. in The Divine Farmer&#x02019;s Materia Medica, which describes the benefits and drawbacks of 365 different plants [<xref rid="B1-cancers-16-01786" ref-type="bibr">1</xref>]. Through trial and error, these communities established routine protocols for the treatment of a variety of disorders by employing plants. Today, many of these same plants continue to be employed as remedies. What is loosely termed &#x02018;Eastern medicine&#x02019; focuses primarily on a holistic approach to an individual&#x02019;s illness while using natural medications. There are many potential positives to this approach. Foremost, when used appropriately, high-quality natural remedies generally produce limited side effects and are widely available at a relatively low cost [<xref rid="B2-cancers-16-01786" ref-type="bibr">2</xref>]. Western medicine focuses more heavily on the scientific method and increasingly employs designer drugs binding with nanomolar affinity to validated, molecular targets [<xref rid="B3-cancers-16-01786" ref-type="bibr">3</xref>]. Drugs are created with the intent of treating pathology and/or symptoms. They work by targeting specific cellular processes that contribute to an individual&#x02019;s pathology. Subsequent modifications focus on increasing bioavailability and reducing off-target effects. The process of synthesizing drugs is the foundation of Western medicine.</p><p>However, the basis of modern Western medicine can trace its origins to phytochemicals. For instance, the natural opioids&#x02014;morphine, codeine, and heroin&#x02014;all share the same &#x02018;parent plant&#x02019; but have undergone different manipulations. They come from the plant <italic toggle="yes">Papaver somniferum</italic>, also known as opium poppy. The plant&#x02019;s usage can be dated back to the Sumerian population, who referred to it as the &#x02018;joy plant&#x02019;. People later began using opium for pain management, sedation, and disease treatment. It was centuries later that scientists realized the plant&#x02019;s addictive qualities and toxicity. In the 1800s, scientists extracted morphine from the opium poppy and then further modified morphine into both heroin and codeine [<xref rid="B4-cancers-16-01786" ref-type="bibr">4</xref>]. Both morphine and codeine are still used as anesthetics and for pain management. Another well-known use of phytochemicals in Western medicine is the derivation of penicillin from the fungus <italic toggle="yes">Penicillium notatum</italic> by Alexander Fleming in 1929. Of salience to this paper, phytochemicals further gained popular and commercial appeal in Western medicine for their initial use as chemotherapeutics. For example, the breast cancer drug paclitaxel was derived from the bark of <italic toggle="yes">Taxus brevifolia</italic> in 1962 [<xref rid="B5-cancers-16-01786" ref-type="bibr">5</xref>]. Paclitaxel functions as a microtubule inhibitor, thereby disrupting cancer cell mitosis. The Vinca alkaloids, vincristine and vinblastine, furthered the use of phytochemicals in chemotherapy by inhibiting cancer cell proliferation in a similar mechanism to paclitaxel [<xref rid="B6-cancers-16-01786" ref-type="bibr">6</xref>,<xref rid="B7-cancers-16-01786" ref-type="bibr">7</xref>]. </p><p>Although both approaches to medicine have their individual benefits, they also have their own drawbacks. Western medicine, although evidence-based, can use data from under-powered clinical trials and has a pharmaceutical bias. In addition, many therapeutics can cause side effects that are poorly tolerated [<xref rid="B3-cancers-16-01786" ref-type="bibr">3</xref>]. The natural remedies of Eastern, or traditional, medicine can exert health benefits; however, if they are combined inappropriately, used in excess of safe dosages, adulterated with toxic compounds or used for conditions or individuals for which indications are lacking, they can lead to patient harm [<xref rid="B3-cancers-16-01786" ref-type="bibr">3</xref>]. Due to the drawbacks in both approaches, it can be difficult to reconcile the two approaches or, for people who practice one of the approaches, to understand and agree with the other approach. Nonetheless, there is the opportunity to combine the approaches by utilizing naturally occurring compounds from nature to enhance the effects of medications, thereby improving the treatment of a variety of diseases, specifically cancer. </p><p>Cancer is one of the leading causes of death worldwide. Although current conventional treatments are generally effective in controlling certain cancer subtypes, they can also have significant drawbacks. For instance, chemotherapy is associated with lasting debilitating side effects, such as neuropathy, hair loss, loss of appetite, fatigue, pain, and immunosuppression [<xref rid="B8-cancers-16-01786" ref-type="bibr">8</xref>]. Another major issue with these treatments is financial toxicity [<xref rid="B9-cancers-16-01786" ref-type="bibr">9</xref>]. There may be opportunities for the addition of natural medications to aid in the treatment of cancers. Specifically, there are compounds, or phytochemicals, found in food, herbs, and plants that exert a variety of benefits. Several phytochemicals can aid in nausea and vomiting, neuropathic pain from chemotherapy, anxiety, and dyssomnias. There is also evidence that they may help enhance the efficacy of treatments and function as cancer prophylactics [<xref rid="B10-cancers-16-01786" ref-type="bibr">10</xref>,<xref rid="B11-cancers-16-01786" ref-type="bibr">11</xref>,<xref rid="B12-cancers-16-01786" ref-type="bibr">12</xref>,<xref rid="B13-cancers-16-01786" ref-type="bibr">13</xref>,<xref rid="B14-cancers-16-01786" ref-type="bibr">14</xref>]. Using phytochemicals to treat patients most similarly resembles practices in Eastern medicine. However, combining Western and Eastern approaches could result in more positive prognoses and make undergoing conventional treatment more bearable for patients. This review reports on the potential for a variety of phytochemicals to increase patients&#x02019; quality of life during and after treatment, as well as augment conventional treatment effects.</p></sec><sec id="sec2-cancers-16-01786"><title>2. Ion Channels and Cancer </title><p>Ion channels span the cell membrane of excitable cells to regulate the flux of electrically charged molecules. Ion channels are commonly classified based on what elicits their activity: ligands, voltage, or mechanical stress. Ion channels are regulated to maintain the functionality of cells, and their malfunction can result in (i.e., channelopathies) cancer. One possible effect of an unregulated ion channel is an imbalance of ions within a cell. This, in turn, may confer an electric potential that assists in the formation of a tumor and/or metastasis [<xref rid="B15-cancers-16-01786" ref-type="bibr">15</xref>,<xref rid="B16-cancers-16-01786" ref-type="bibr">16</xref>]. Conversely, a sustained change in electric potential has also been shown to elicit an anti-tumor response [<xref rid="B17-cancers-16-01786" ref-type="bibr">17</xref>,<xref rid="B18-cancers-16-01786" ref-type="bibr">18</xref>,<xref rid="B19-cancers-16-01786" ref-type="bibr">19</xref>]. </p><p>Ligand-gated ion channels (LGICs), or ionotropic receptors, allow for the passage of different ions following the binding of neurotransmitters. These ions include Ca<sup>2+</sup>, Cl<sup>&#x02212;</sup>, K<sup>+</sup>, and Na<sup>+</sup>. LGICs are further divided into three families: purinoreceptors, Cys-loop receptors, and ionotropic glutamate receptors [<xref rid="B16-cancers-16-01786" ref-type="bibr">16</xref>]. Purinoreceptors&#x02019; signaling molecule is adenosine 5&#x02032;-trisphosphate (ATP) [<xref rid="B20-cancers-16-01786" ref-type="bibr">20</xref>]. Due to ATP&#x02019;s role in cell proliferation, when these receptors experience dysregulation they can have detrimental effects on the functionality of cells [<xref rid="B16-cancers-16-01786" ref-type="bibr">16</xref>]. A subclass within the purinoreceptors, P2XRs are upregulated in various cancer types which can lead to a significant proliferation of cancer cells, increase cancers&#x02019; metastatic potential, and inactivate T-cells [<xref rid="B16-cancers-16-01786" ref-type="bibr">16</xref>,<xref rid="B21-cancers-16-01786" ref-type="bibr">21</xref>]. The Cys-loop receptors are named after the disulfide bridge contained in their extracellular domain. The Type-A GABA receptor (GABA<sub>A</sub>R), a prominent member of this subclass, is associated with cancer due to its possible role in cell proliferation [<xref rid="B16-cancers-16-01786" ref-type="bibr">16</xref>]. Since these channels play a large role in both the formation and symptoms of tumors, targeting them in cancer treatment could have multifaceted benefits for the patient [<xref rid="B16-cancers-16-01786" ref-type="bibr">16</xref>].</p><p>Voltage-gated ion channels open following a change in electric potential across the cell membrane. These channels may be selectively permeable to Ca<sup>2+</sup>, Cl<sup>&#x02212;</sup>, K<sup>+</sup>, and Na<sup>+</sup> ions. Alternatively, some voltage-gated ion channels non-selectively allow ions to pass. It has been discovered that irregular expression of the voltage-gated sodium channels (VGSCs) can be found within various tumor types [<xref rid="B22-cancers-16-01786" ref-type="bibr">22</xref>]. In particular, the increase in intracellular Na<sup>+</sup> by the &#x003b1; subunit of VGSCs is thought to increase solid tumor proliferation [<xref rid="B23-cancers-16-01786" ref-type="bibr">23</xref>]. Similarly, increased expression of the voltage-gated potassium channel, Kv10.1, has been associated with faster tumor growth and increased aggressiveness compared to control tumors in animal models [<xref rid="B24-cancers-16-01786" ref-type="bibr">24</xref>,<xref rid="B25-cancers-16-01786" ref-type="bibr">25</xref>]. This finding was extended to human cell lines where inhibition of Kv10.1 slowed tumor growth [<xref rid="B26-cancers-16-01786" ref-type="bibr">26</xref>]. Finally, voltage-gated Ca<sup>2+</sup> channels have also been implicated in the proliferation of several tumor subtypes [<xref rid="B27-cancers-16-01786" ref-type="bibr">27</xref>]. Most notably, the activation of membrane androgen receptors in human breast cancer cell lines led to an influx of Ca<sup>2+</sup> through the Ca<sup>2+</sup> channel Orai1 which was important for rapid androgen effects [<xref rid="B28-cancers-16-01786" ref-type="bibr">28</xref>]. Given the key regulatory role that plasma membrane ion signaling has on intracellular kinase signaling, autophagy and apoptosis, these ion fluxes can promote tumors and their aggressiveness by increasing proliferation, migration, decreasing adhesion, inhibiting apoptosis, and altering various other cell signaling pathways [<xref rid="B29-cancers-16-01786" ref-type="bibr">29</xref>,<xref rid="B30-cancers-16-01786" ref-type="bibr">30</xref>,<xref rid="B31-cancers-16-01786" ref-type="bibr">31</xref>,<xref rid="B32-cancers-16-01786" ref-type="bibr">32</xref>]. Targeting these channels for the treatment of cancer could also help diminish the aggression and side effects of tumors. </p><p>Lastly, mechanically-gated ion channels are responsible for cells&#x02019; ability to transform mechanical stimuli, like a change in pressure or touch, into electrical or chemical stimuli [<xref rid="B33-cancers-16-01786" ref-type="bibr">33</xref>]. These ion channels also have subgroupings including the PIEZO and the OSCA/TMEM63 subtypes [<xref rid="B33-cancers-16-01786" ref-type="bibr">33</xref>]. Although these channels have been discovered, there is little known about their pathways and how they function at a molecular level. Therefore, this review will not discuss these channels further. </p><p>Ion channel dysregulation plays a causal role in cancer and affects an individual&#x02019;s symptoms [<xref rid="B15-cancers-16-01786" ref-type="bibr">15</xref>,<xref rid="B16-cancers-16-01786" ref-type="bibr">16</xref>]. Certain phytochemicals can operate as inhibitors or activators of these ion channels, thereby counteracting the channels&#x02019; pro-tumorigenic effects [<xref rid="B34-cancers-16-01786" ref-type="bibr">34</xref>]. The usage of phytochemicals could also address a variety of cancer toxicities, such as medication toxicity and financial toxicity, as natural compounds are generally well tolerated and more accessible.</p></sec><sec id="sec3-cancers-16-01786"><title>3. Phytochemicals in Cancer Treatment</title><p>Given ion channels&#x02019; significant role in cancer pathophysiology, as outlined above, the next area of research involves identifying putative phytochemicals to selectively target ion channels to disrupt tumor growth and secondarily control symptoms. Phytochemicals are compounds derived from plants that have been shown to aid in nausea and vomiting, neuropathic pain from chemotherapy, anxiety, dyssomnias, enhance treatment effects and can function as cancer prophylactics [<xref rid="B10-cancers-16-01786" ref-type="bibr">10</xref>,<xref rid="B12-cancers-16-01786" ref-type="bibr">12</xref>]. Adding these compounds to treatment protocols could result in more positive prognoses and make undergoing treatment more bearable, both physically and mentally. This review will now turn its attention to new developments in research on phytochemicals directly targeting ion channels to disrupt cancer pathways. Phytochemicals mainly alter ligand-gated and voltage-gated ion channels. </p><sec id="sec3dot1-cancers-16-01786"><title>3.1. Anion Channel Modulators</title><p>Picrotoxin, derived from the seeds of the fishberry shrub <italic toggle="yes">Anamirta cocculus</italic>, is a potent antagonist of GABA<sub>A</sub>Rs (<xref rid="cancers-16-01786-f001" ref-type="fig">Figure 1</xref>). As such, it prevents the flux of chloride anions through GABA<sub>A</sub>Rs and thus acts as a stimulant with the potential to induce tonic-clonic seizures (<xref rid="cancers-16-01786-t001" ref-type="table">Table 1</xref>) [<xref rid="B35-cancers-16-01786" ref-type="bibr">35</xref>]. It was listed in the <italic toggle="yes">Merck Index</italic> as early as the 1970s as a barbiturate overdose antidote [<xref rid="B36-cancers-16-01786" ref-type="bibr">36</xref>,<xref rid="B37-cancers-16-01786" ref-type="bibr">37</xref>]. Regarding anti-tumor activity, it is thought to act as an immunomodulator. Current trends in cancer immunotherapy focus on the inherent tumor-suppressive effects of cancers by providing PDL-1 inhibition or CTLA4 antagonism. Picrotoxin has been shown to inhibit a mouse model of colorectal cancer growth by enhancing the cytotoxic effects of tumor-infiltrating CD8+ T-cells via the antagonism of GABA<sub>A</sub>Rs [<xref rid="B38-cancers-16-01786" ref-type="bibr">38</xref>,<xref rid="B39-cancers-16-01786" ref-type="bibr">39</xref>,<xref rid="B40-cancers-16-01786" ref-type="bibr">40</xref>]. The hypothesis is that the secretion of GABA promotes an immune-tolerant state permissive of tumor growth. Picrotoxin has also been studied as an anti-tumor agent in human prostate cancer cell lines [<xref rid="B41-cancers-16-01786" ref-type="bibr">41</xref>,<xref rid="B42-cancers-16-01786" ref-type="bibr">42</xref>,<xref rid="B43-cancers-16-01786" ref-type="bibr">43</xref>]. Wu et al. identified that GABAergic signaling mediated EGFR-Src pathway activation and that administration of picrotoxin inhibited prostate cancer growth through inhibition of this pathway [<xref rid="B42-cancers-16-01786" ref-type="bibr">42</xref>]. Picrotoxin has also been studied in pancreatic cancer. To understand its mechanism in this tumor subtype, it is important to note that GABA can have an excitatory mechanism by promoting an influx of calcium or efflux of chloride. This &#x02018;GABA switch&#x02019; has been well studied in the developing brain. Takehara et al. revealed that in pancreatic cancer cells, the activation of GABA<sub>A</sub>Rs leads to calcium influx and activation of pro-tumorigenic intracellular pathways such as the MAPK/ERK pathway [<xref rid="B44-cancers-16-01786" ref-type="bibr">44</xref>,<xref rid="B45-cancers-16-01786" ref-type="bibr">45</xref>]. Administration of picrotoxin inhibited this GABA-mediated MAPK/ERK activation. Moreover, in human melanocyte/keratinocyte cocultures, administration of picrotoxin (100 &#x000b5;mol/L) inhibited intercellular GABA signaling and decreased keratinocyte &#x0201c;switching&#x0201d; to a pro-tumorigenic phenotype [<xref rid="B46-cancers-16-01786" ref-type="bibr">46</xref>].</p><p>Similar to picrotoxin, bicuculline is an alkaloid GABA antagonist derived from the plant <italic toggle="yes">Dicentra cucullaria</italic> [<xref rid="B44-cancers-16-01786" ref-type="bibr">44</xref>,<xref rid="B49-cancers-16-01786" ref-type="bibr">49</xref>]. Its mechanism of action was first elucidated in the 1970s in the spinal cord of cats under anesthesia [<xref rid="B50-cancers-16-01786" ref-type="bibr">50</xref>,<xref rid="B51-cancers-16-01786" ref-type="bibr">51</xref>]. Bicuculline, like picrotoxin, can be used clinically as a barbiturate reversal agent with the potential to induce tonic-clonic seizures in vivo [<xref rid="B51-cancers-16-01786" ref-type="bibr">51</xref>]. In vitro, bicuculine inhibited the proliferation of human pancreatic cancer cells through antagonism of the EGFR-Src pathway detailed above [<xref rid="B44-cancers-16-01786" ref-type="bibr">44</xref>]. Unlike picrotoxin, bicuculline has not been extensively studied in relation to tumor immunosuppression which could serve as a future direction for study. The multifactorial mechanism of action could potentially make bicuculline, picrotoxin, and other GABA<sub>A</sub>R antagonists potent anti-cancer agents. Conversely, this lack of specificity makes picrotoxin a potent epileptogenic at high doses [<xref rid="B52-cancers-16-01786" ref-type="bibr">52</xref>]. Future directions to allow for GABA<sub>A</sub>R antagonists to be safely used in cancer will be to prevent off-target effects as well as penetration to the CNS where they are so potent. Alternatively, modulating the function of the receptor may offer a successful approach. For example, the synthetic GABA<sub>A</sub>R-positive allosteric modulator, QHii066, is highly specific and has been shown to impair tumor cell viability alone as well as sensitize medulloblastoma subtypes, melanoma, and lung adenocarcinoma to radiation [<xref rid="B53-cancers-16-01786" ref-type="bibr">53</xref>,<xref rid="B54-cancers-16-01786" ref-type="bibr">54</xref>,<xref rid="B55-cancers-16-01786" ref-type="bibr">55</xref>,<xref rid="B56-cancers-16-01786" ref-type="bibr">56</xref>,<xref rid="B57-cancers-16-01786" ref-type="bibr">57</xref>,<xref rid="B58-cancers-16-01786" ref-type="bibr">58</xref>]. </p></sec><sec id="sec3dot2-cancers-16-01786"><title>3.2. Cation Channel Modulators</title><fig position="anchor" id="cancers-16-01786-f002"><label>Figure 2</label><caption><p>Structures of select cation channel-modulating phytochemicals. Molecular structures provided by NIH PubChem and RCSB PDB [<xref rid="B59-cancers-16-01786" ref-type="bibr">59</xref>,<xref rid="B60-cancers-16-01786" ref-type="bibr">60</xref>,<xref rid="B61-cancers-16-01786" ref-type="bibr">61</xref>,<xref rid="B62-cancers-16-01786" ref-type="bibr">62</xref>,<xref rid="B63-cancers-16-01786" ref-type="bibr">63</xref>,<xref rid="B64-cancers-16-01786" ref-type="bibr">64</xref>,<xref rid="B65-cancers-16-01786" ref-type="bibr">65</xref>]. Shown is the pepper plant from which capsaicin is derived.</p></caption><graphic xlink:href="cancers-16-01786-g002" position="float"/></fig><p>Betulinic acid is a pentacyclic triterpene derived from a variety of plants such as birch, eucalyptus, and plane trees (<xref rid="cancers-16-01786-f002" ref-type="fig">Figure 2</xref>) [<xref rid="B66-cancers-16-01786" ref-type="bibr">66</xref>]. It is most readily isolated from white birch (<italic toggle="yes">Betula pubescens</italic>) where its extraction rate is maximized at 2&#x02013;3% [<xref rid="B66-cancers-16-01786" ref-type="bibr">66</xref>,<xref rid="B67-cancers-16-01786" ref-type="bibr">67</xref>]. White birch, and thus betulinic acid, has been documented in Native American folk medicine [<xref rid="B68-cancers-16-01786" ref-type="bibr">68</xref>]. Betulinic acid has been shown to antagonize N- and T-type calcium channels [<xref rid="B69-cancers-16-01786" ref-type="bibr">69</xref>,<xref rid="B70-cancers-16-01786" ref-type="bibr">70</xref>]. It has been shown to be effective against many types of cancers in vitro, including GI, pancreatic, myeloid leukemia, and melanoma [<xref rid="B71-cancers-16-01786" ref-type="bibr">71</xref>,<xref rid="B72-cancers-16-01786" ref-type="bibr">72</xref>]. It is thought to induce a pro-apoptotic state in cancer cells through mitochondrial depolarization [<xref rid="B73-cancers-16-01786" ref-type="bibr">73</xref>]. However, further research is needed on whether the antagonism of calcium channels is the mechanism by which betulinic acid induces the mitochondrial (intrinsic) apoptosis pathway [<xref rid="B72-cancers-16-01786" ref-type="bibr">72</xref>]. </p><p>Cannabidiol (CBD) is the main constituent of the plant <italic toggle="yes">Cannabis sativa</italic> [<xref rid="B74-cancers-16-01786" ref-type="bibr">74</xref>]. CBD is favored in clinical practice as it avoids the potentially toxigenic and psychogenic effects of tetrahydrocannabinol (THC). Its analgesic, anxiolytic, and antiemetic effects are well documented. It is anecdotally used as an appetite stimulant especially for cancer patients undergoing systemic chemotherapy though the data to support this usage are limited [<xref rid="B75-cancers-16-01786" ref-type="bibr">75</xref>]. Regarding its antitumor effects, CBD has been shown to alter multiple intracellular pathways. For example, in a mouse model of breast cancer, CBD induces endoplasmic reticulum stress to induce apoptosis, though this is not an ion channel-mediated anti-cancer approach [<xref rid="B76-cancers-16-01786" ref-type="bibr">76</xref>]. CBD binds to the CB1 and CB2 receptors which are G-protein-coupled receptors found on neurons [<xref rid="B77-cancers-16-01786" ref-type="bibr">77</xref>]. However, CBD also has off-target effects on transient receptor potential vallinoid (TRPV) receptors which function as non-selective cation channels in the plasma membrane to regulate calcium release intracellularly (<xref rid="cancers-16-01786-f003" ref-type="fig">Figure 3</xref>) [<xref rid="B74-cancers-16-01786" ref-type="bibr">74</xref>,<xref rid="B78-cancers-16-01786" ref-type="bibr">78</xref>]. Resulting from its effect on ion channels, CBD-mediated dysregulation of cytoplasmic calcium can lead to increased production of reactive oxygen species, apoptosis, and ER stress [<xref rid="B79-cancers-16-01786" ref-type="bibr">79</xref>]. In breast cancer cell lines, TRPV activation by CBD led to increased intracellular calcium concentrations and the formation of reactive oxygen species, inducing apoptosis [<xref rid="B80-cancers-16-01786" ref-type="bibr">80</xref>]. In chronic myeloid leukemia, activation of TRPV via CBD inhibited proliferation and cell cycle progression in vitro [<xref rid="B81-cancers-16-01786" ref-type="bibr">81</xref>]. CBD treatment of human cervical cancer cells reduced cancer invasion as quantified by the Matrigel invasion assays [<xref rid="B82-cancers-16-01786" ref-type="bibr">82</xref>]. The proposed mechanism in this study is that TRPV activation by CBD led to upregulation of tissue inhibitor of matrix metalloproteinases-1 (TIMP-1) and subsequent decreased invasiveness [<xref rid="B82-cancers-16-01786" ref-type="bibr">82</xref>]. This finding was reversed by antagonism of TRPV and siRNA silencing of TIMP-1 which provides further support for this mechanism. CBD will also be described further below in its more well known role in modulating cancer symptomatology. </p><p>Margatoxin (MgTX) is a 39 residue (4.2 kDa) peptide isolated from <italic toggle="yes">Centruroides margaritatus</italic> [<xref rid="B83-cancers-16-01786" ref-type="bibr">83</xref>]. Although not a traditional phytochemical as it is not plant-derived, MgTX is derived from a &#x02018;natural&#x02019; source and acts on ion channels, making it pertinent to this review. MgTX inhibits ion channel subtype Kv1.3 [<xref rid="B84-cancers-16-01786" ref-type="bibr">84</xref>]. This channel subtype has been thought to be overexpressed in several cancer subtypes [<xref rid="B85-cancers-16-01786" ref-type="bibr">85</xref>]. It is thought that Kv1.3 induces cancer pathogenesis by regulating cell cycle progression through upregulating the expression of cyclin or down-regulating cyclin-dependent kinase inhibitors [<xref rid="B86-cancers-16-01786" ref-type="bibr">86</xref>]. Jang et al. xenografted A549 cells (a human lung adenocarcinoma cell line) onto nude mice. Subsequent Kv1.3 inhibition by MgTX led to a significant decrease in tumor volume by increasing p21 levels and decreasing Cdk4 and cyclin D3 [<xref rid="B87-cancers-16-01786" ref-type="bibr">87</xref>,<xref rid="B88-cancers-16-01786" ref-type="bibr">88</xref>]. This suggests the antitumorigenic mechanism of MgTX is through cell cycle inhibition. Jang et al. furthered the prior work by Fraser et al. which studied the effects of MgTX on an in vitro rat prostatic cancer cell line [<xref rid="B89-cancers-16-01786" ref-type="bibr">89</xref>]. The conclusion was that MgTX reduced the prostate cancer cell line proliferation in a dose-dependent manner. The novelty of Jang et al.&#x02019;s study was that it was an in vivo study using a xenograft model. </p><p>Tetrodotoxin (TTX) is a guanidium compound produced by bacteria in puffer fish and other marine animals [<xref rid="B90-cancers-16-01786" ref-type="bibr">90</xref>,<xref rid="B91-cancers-16-01786" ref-type="bibr">91</xref>]. Like MgTx, we include TTX given its derivation from a &#x02018;natural&#x02019;, albeit not plant, source. TTX antagonizes voltage-gated sodium channels (Na<sub>V</sub>) isoforms [<xref rid="B92-cancers-16-01786" ref-type="bibr">92</xref>]. Na<sub>V</sub> is thought to play a role in cancer metastasis via the upregulation of the EGFR signaling pathway particularly in human non-small cell lung cancer [<xref rid="B59-cancers-16-01786" ref-type="bibr">59</xref>]. Furthermore, the upregulation of sodium channel subtype Na<sub>V</sub>1.7 has been shown to be associated with the metastatic potential of prostate cancer in vitro and in vivo [<xref rid="B93-cancers-16-01786" ref-type="bibr">93</xref>]. Similarly, subtypes Na<sub>V</sub>1.1 and Na<sub>V</sub>1.6 have been implicated in colorectal cancer lymph node metastasis [<xref rid="B94-cancers-16-01786" ref-type="bibr">94</xref>]. In cervical cancer, Na<sub>V</sub>1.6 has been shown to be upregulated. Given the above data showing upregulation of voltage-gated sodium channel subtypes modulating cancer metastasis, it has been a logical next step to look for inhibitors of this process. Hernandez-Plata et al. blocked VGSC of cervical cancer cells in vitro with TTX and confirmed channel blockade via electrophysiology [<xref rid="B95-cancers-16-01786" ref-type="bibr">95</xref>]. While TTX treatment did not impact proliferation, it did significantly reduce invasiveness. In a non-small cell lung cancer cell line, TTX administration reduced cell invasion by up to 50% [<xref rid="B96-cancers-16-01786" ref-type="bibr">96</xref>]. Few in vivo studies have analyzed TTX. In Ehrlich ascites carcinoma-bearing mice, treatment with TTX led to a significant decrease in tumor weight and a significant increase in survival compared to control [<xref rid="B97-cancers-16-01786" ref-type="bibr">97</xref>]. Furthermore, this study used doxorubicin as a positive control group which also emphasized the improved side effect profile of TTX. </p><p>Capsaicin is the primary ingredient in chili peppers and functions as a TRPV1 agonist [<xref rid="B98-cancers-16-01786" ref-type="bibr">98</xref>]. As mentioned previously, TRPV1 is a non-selective cation channel mediating the intracellular flow of calcium ions [<xref rid="B98-cancers-16-01786" ref-type="bibr">98</xref>]. In SUM149PT cells, a model of triple-negative breast cancer, stimulation of TRPV1 by capsaicin led to a significant increase in intracellular calcium [<xref rid="B99-cancers-16-01786" ref-type="bibr">99</xref>]. Subsequently, activation of TRPV1 by capsaicin caused inhibition of cancer cell growth by inducing apoptosis and necrosis. Similarly, in 5637 cells modeling urothelial cancer, TRPV1-expressing cells treated with capsaicin led to a capsaicin-mediated intracellular calcium increase with subsequent growth inhibition, apoptosis, and migration inhibition [<xref rid="B100-cancers-16-01786" ref-type="bibr">100</xref>]. Prostate carcinoma (PC-3, Du 145, LNCaP) cell lines transfected with TRPV1 cDNA and subsequently treated with low-dose capsaicin caused mitochondrial calcium accumulation and apoptosis [<xref rid="B101-cancers-16-01786" ref-type="bibr">101</xref>]. Finally, activation of TRPV1 channels in papillary thyroid cancer BCPAP cells by capsaicin inhibited the metastasis of this cell line through the downregulation of epithelial&#x02013;mesenchymal transition transcription factors [<xref rid="B102-cancers-16-01786" ref-type="bibr">102</xref>]. However, this paper did not completely connect the increase in intracellular ion flow with the downregulation of the transcription factors. Capsaicin also appears to have a multitude of non-TRPV1 targets providing it multiple, independent pathways to inhibit tumor growth [<xref rid="B103-cancers-16-01786" ref-type="bibr">103</xref>,<xref rid="B104-cancers-16-01786" ref-type="bibr">104</xref>,<xref rid="B105-cancers-16-01786" ref-type="bibr">105</xref>].
+<table-wrap position="anchor" id="cancers-16-01786-t001"><object-id pub-id-type="pii">cancers-16-01786-t001_Table 1</object-id><label>Table 1</label><caption><p>Select phytochemicals that modulate ion channels for tumor treatment and symptom management.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Chemical</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Mechanism</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Cancer Subtype(s)</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Citations</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">Picrotoxin</td><td align="center" valign="middle" rowspan="1" colspan="1">GABA antagonist; Immunomodulator; EGFR-Src pathway inhibition; MAPK/ERK inhibitor</td><td align="center" valign="middle" rowspan="1" colspan="1">Prostate, colorectal, pancreatic cancers, and melanoma</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B42-cancers-16-01786" ref-type="bibr">42</xref>,<xref rid="B43-cancers-16-01786" ref-type="bibr">43</xref>,<xref rid="B44-cancers-16-01786" ref-type="bibr">44</xref>,<xref rid="B49-cancers-16-01786" ref-type="bibr">49</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Bicuculline</td><td align="center" valign="middle" rowspan="1" colspan="1">GABA antagonist; EGFR-Src pathway inhibition</td><td align="center" valign="middle" rowspan="1" colspan="1">Pancreatic cancer</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B44-cancers-16-01786" ref-type="bibr">44</xref>,<xref rid="B51-cancers-16-01786" ref-type="bibr">51</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Betulinic acid</td><td align="center" valign="middle" rowspan="1" colspan="1">Inhibition of N- and T-type Ca<sup>2+</sup> channels; modulation of intracellular mitochondrial apoptotic pathways</td><td align="center" valign="middle" rowspan="1" colspan="1">Gastrointestinal and pancreatic cancers, myeloid leukemia</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B71-cancers-16-01786" ref-type="bibr">71</xref>,<xref rid="B72-cancers-16-01786" ref-type="bibr">72</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Cannabidiol</td><td align="center" valign="middle" rowspan="1" colspan="1">TRPV agonist; intracellular calcium disruption</td><td align="center" valign="middle" rowspan="1" colspan="1">Chronic myelogenous leukemia, breast, cervical, and lung cancers</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B79-cancers-16-01786" ref-type="bibr">79</xref>,<xref rid="B80-cancers-16-01786" ref-type="bibr">80</xref>,<xref rid="B81-cancers-16-01786" ref-type="bibr">81</xref>,<xref rid="B82-cancers-16-01786" ref-type="bibr">82</xref>,<xref rid="B106-cancers-16-01786" ref-type="bibr">106</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Margatoxin</td><td align="center" valign="middle" rowspan="1" colspan="1">Kv1.3 potassium channel inhibitor; cell cycle regulation</td><td align="center" valign="middle" rowspan="1" colspan="1">Lung adenocarcinoma</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B87-cancers-16-01786" ref-type="bibr">87</xref>,<xref rid="B89-cancers-16-01786" ref-type="bibr">89</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Tetrodotoxin</td><td align="center" valign="middle" rowspan="1" colspan="1">
+Na<sub>V</sub> inhibitor; modulating cancer metastatic potential
+</td><td align="center" valign="middle" rowspan="1" colspan="1">Non-small cell lung, colorectal, and prostate cancers</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B95-cancers-16-01786" ref-type="bibr">95</xref>,<xref rid="B96-cancers-16-01786" ref-type="bibr">96</xref>,<xref rid="B97-cancers-16-01786" ref-type="bibr">97</xref>]</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+Capsaicin
+</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TRPV1 agonist; intracellular calcium disruption</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Triple-negative breast, urothelial, prostate, papillary thyroid cancers</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B99-cancers-16-01786" ref-type="bibr">99</xref>,<xref rid="B100-cancers-16-01786" ref-type="bibr">100</xref>,<xref rid="B101-cancers-16-01786" ref-type="bibr">101</xref>,<xref rid="B107-cancers-16-01786" ref-type="bibr">107</xref>]</td></tr></tbody></table></table-wrap></p></sec></sec><sec id="sec4-cancers-16-01786"><title>4. Phytochemicals Modulating Cancer Symptomatology </title><p>One of the most common and aggravating symptoms of cancer is cancer-related pain (CRP). Up to 70% of cancer patients have CRP either directly related to tumor burden or associated with treatment side effects [<xref rid="B108-cancers-16-01786" ref-type="bibr">108</xref>]. Regarding the second mechanism, many chemotherapeutics have a side effect of neuropathy which can result in neuropathic pain if allowed to become chronic (<xref rid="cancers-16-01786-t002" ref-type="table">Table 2</xref>). </p><p>One of the suspected mechanisms driving nociception is that the release of ATP from apoptotic cells leads to the activation of P2X receptors on adjacent cells. Given that P2X receptors are excitatory and calcium-permeable, they help maintain nociceptive signals [<xref rid="B109-cancers-16-01786" ref-type="bibr">109</xref>]. Resveratrol is a natural polyphenol found in peanuts, mulberries, grapes, and red wine [<xref rid="B110-cancers-16-01786" ref-type="bibr">110</xref>,<xref rid="B111-cancers-16-01786" ref-type="bibr">111</xref>]. Resveratrol has also been shown to increase the thermal and mechanical hypersensitivity threshold in a rat HIV model of chronic neuropathic pain through the downregulation of P2X receptors [<xref rid="B109-cancers-16-01786" ref-type="bibr">109</xref>,<xref rid="B110-cancers-16-01786" ref-type="bibr">110</xref>]. Another potential mechanism of action of resveratrol is through sodium ion modulation. Jia et al. showed that resveratrol decreased Nav1.7 expression and subsequently decreased neuropathic pain in a rat model of chronic constriction injury [<xref rid="B112-cancers-16-01786" ref-type="bibr">112</xref>]. In human cells, resveratrol has been shown to suppress pancreatic cancer cell proliferation by inactivation of AKT-GSK3&#x003b2; and ERK1/2 signaling [<xref rid="B6-cancers-16-01786" ref-type="bibr">6</xref>,<xref rid="B113-cancers-16-01786" ref-type="bibr">113</xref>]. Similarly, there is preliminary evidence that resveratrol induces calcium influx in human mesothelioma cell lines, providing another possible mechanism of resveratrol&#x02019;s anti-cancer properties [<xref rid="B114-cancers-16-01786" ref-type="bibr">114</xref>]. However, the poor bioavailability of resveratrol limits its use [<xref rid="B6-cancers-16-01786" ref-type="bibr">6</xref>,<xref rid="B115-cancers-16-01786" ref-type="bibr">115</xref>]. Regardless, resveratrol serves as a potent phytochemical in cancer treatment as it theoretically inhibits cancer proliferation and serves to manage nociception via LGIC regulation.</p><p>Similarly, puerarin, isolated from <italic toggle="yes">Radix puerariae</italic>, decreases the expression of P2X3 receptors in the dorsal root ganglion in rats [<xref rid="B116-cancers-16-01786" ref-type="bibr">116</xref>]. This in turn leads to decreased thermal and mechanical hypersensitivity. While this study did not directly study a cancer animal model, it provided useful preliminary information on the analgesic effects of puerarin. Another possible mechanism for puerarin regulating pain is through the inhibition of voltage-gated sodium channels in the dorsal root ganglia (DRG). Zhang et al. treated Sprague-Dawley rats with paclitaxel to create an animal model of chemotherapy-induced neuropathic pain [<xref rid="B117-cancers-16-01786" ref-type="bibr">117</xref>]. Subsequent application of puerarin reduced excitability and blocked VGSC in rat DRGs [<xref rid="B117-cancers-16-01786" ref-type="bibr">117</xref>]. This in turn led to decreased pain perception in rats as quantified by a series of behavioral tests. Interestingly, puerarin had a stronger blocking effect on the TTX-resistant Nav1.8 channel than TTX, which suggests that puerarin may have a use in pain resistant to TTX. Puerarin also modulates other chemotherapeutic side effects through non-ion channel mechanisms [<xref rid="B118-cancers-16-01786" ref-type="bibr">118</xref>]. For example, 5-fluorauracil (5-FU) associated intestinal mucositis has been shown to be improved through JAK inhibition after puerarin administration [<xref rid="B119-cancers-16-01786" ref-type="bibr">119</xref>].</p><p>CBD has become a popular adjuvant treatment in cancer patients for symptoms such as nausea, vomiting, anxiety, decreased appetite, and pain management [<xref rid="B120-cancers-16-01786" ref-type="bibr">120</xref>]. CBD modulates some of these symptoms through CB1 and CB2 receptors which are GPCRs and thus outside the scope of this paper. As such, we will focus on the anxiolytic and analgesic effects of CBD as these are thought to be mediated by TRPV ion channels as described above [<xref rid="B80-cancers-16-01786" ref-type="bibr">80</xref>,<xref rid="B81-cancers-16-01786" ref-type="bibr">81</xref>,<xref rid="B121-cancers-16-01786" ref-type="bibr">121</xref>]. Campos et al. treated Wistar rats with CBD directed at the dorsolateral periaqueductal gray (dlPAG) via cannula [<xref rid="B122-cancers-16-01786" ref-type="bibr">122</xref>]. The dlPAG is a midbrain structure thought to be involved in the control of anxiety. Administration of high doses of CBD to the dlPAG and subsequent TRPV1 activation led to increased maze exploration which is a rat behavioral model used to assess anxiety. CBD is also well known for its analgesic effects which has enabled it to be an adjunctive treatment for cancer-associated pain [<xref rid="B123-cancers-16-01786" ref-type="bibr">123</xref>,<xref rid="B124-cancers-16-01786" ref-type="bibr">124</xref>]. This anti-hyperalgesia effect is thought to be modulated by activation of the TRPV1 receptor, as the hyperalgesia effect is reversed when CBD is administered with the selective TRPV1 antagonist capsazepine [<xref rid="B121-cancers-16-01786" ref-type="bibr">121</xref>,<xref rid="B123-cancers-16-01786" ref-type="bibr">123</xref>,<xref rid="B124-cancers-16-01786" ref-type="bibr">124</xref>].</p><p>In addition to its anti-cancer effects, TTX has a potent role in ameliorating cancer-associated pain [<xref rid="B91-cancers-16-01786" ref-type="bibr">91</xref>]. As mentioned previously, TTX antagonizes VGSC. Prior research has shown that VGSC subtype Na<sub>V</sub>1.3 is massively upregulated in peripheral nerves following nerve injury in a patient model of neuropathic pain [<xref rid="B125-cancers-16-01786" ref-type="bibr">125</xref>,<xref rid="B126-cancers-16-01786" ref-type="bibr">126</xref>]. The VGSC subtype Na<sub>V</sub>1.7 has been shown to be significantly upregulated in human DRG neurons in cultures treated with paclitaxel to mimic neuropathic pain [<xref rid="B127-cancers-16-01786" ref-type="bibr">127</xref>]. Given reported VGSC upregulation in pain models, it seems intuitive to turn to TTX as a treatment. However, the research in cancer chemotherapy-induced neuropathic pain is somewhat contradictory. Intraperitoneal administration of TTX did not attenuate pain induced by vincristine treatment [<xref rid="B128-cancers-16-01786" ref-type="bibr">128</xref>]. In contrast, Alvarez and Levine found that intramuscular administration of TTX significantly reduced neuropathic pain in a rat model of oxaliplatin-induced neuropathic pain [<xref rid="B129-cancers-16-01786" ref-type="bibr">129</xref>]. Nieto et al. similarly found that subcutaneous TTX at doses of 3&#x02013;6 &#x000b5;g/kg attenuated cold and mechanical allodynia in a mouse model of neuropathic pain induced by paclitaxel without toxicity or motor incoordination [<xref rid="B130-cancers-16-01786" ref-type="bibr">130</xref>]. The variation in TTX-mediated attenuation of allodynia in the three previous studies could possibly be attributed to varied mechanisms by which the three chemotherapies induce neuropathic pain.</p><p>Like picrotoxin and bicuculline, TTX is known for its potentially toxic effects on humans, even at low doses. TTX&#x02019;s safety profile has been preliminarily supported in humans by Hagan et al. on patients with cancer-related pain refractory to opiates and other analgesics [<xref rid="B131-cancers-16-01786" ref-type="bibr">131</xref>,<xref rid="B132-cancers-16-01786" ref-type="bibr">132</xref>,<xref rid="B133-cancers-16-01786" ref-type="bibr">133</xref>]. In total, 30 &#x000b5;g TTX was given subcutaneously twice daily for four days with ~50% of patients having a significant decrease in pain intensity and no evidence of severe cumulative toxicity or tolerance [<xref rid="B131-cancers-16-01786" ref-type="bibr">131</xref>]. Similarly, Goldlust et al. gave patients with chemotherapy-induced neuropathic pain subcutaneous TTX in dosages ranging from 15 to 60 &#x000b5;g daily for 4 consecutive days [<xref rid="B134-cancers-16-01786" ref-type="bibr">134</xref>]. Cumulative responder analysis showed a significant decrease from placebo in the 30 &#x000b5;g BID group, improvement in secondary quality of life metrics, and minimal toxicity. This suggests that the therapeutic dose of TTX is less than the toxic dose in humans with short-term administration [<xref rid="B135-cancers-16-01786" ref-type="bibr">135</xref>].
+<table-wrap position="anchor" id="cancers-16-01786-t002"><object-id pub-id-type="pii">cancers-16-01786-t002_Table 2</object-id><label>Table 2</label><caption><p>Examples of phytochemicals that modulate ion channels for symptom management.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Chemical</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Mechanism</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Symptom(s)</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Citation(s)</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">Resveratrol</td><td align="center" valign="middle" rowspan="1" colspan="1">P2X receptor inhibitor, sodium channel agonist</td><td align="center" valign="middle" rowspan="1" colspan="1">Pain management</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B42-cancers-16-01786" ref-type="bibr">42</xref>,<xref rid="B111-cancers-16-01786" ref-type="bibr">111</xref>,<xref rid="B112-cancers-16-01786" ref-type="bibr">112</xref>,<xref rid="B114-cancers-16-01786" ref-type="bibr">114</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Puerarin</td><td align="center" valign="middle" rowspan="1" colspan="1">Decreased P2X receptor expression; Na<sub>V</sub> inhibitor; EGFR-Src pathway inhibition</td><td align="center" valign="middle" rowspan="1" colspan="1">Chemotherapy-induced neuropathic pain</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B116-cancers-16-01786" ref-type="bibr">116</xref>,<xref rid="B117-cancers-16-01786" ref-type="bibr">117</xref>,<xref rid="B118-cancers-16-01786" ref-type="bibr">118</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Cannabidiol</td><td align="center" valign="middle" rowspan="1" colspan="1">TRPV activation; intracellular calcium disruption</td><td align="center" valign="middle" rowspan="1" colspan="1">Pain management, anxiolytic</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B79-cancers-16-01786" ref-type="bibr">79</xref>,<xref rid="B80-cancers-16-01786" ref-type="bibr">80</xref>,<xref rid="B121-cancers-16-01786" ref-type="bibr">121</xref>,<xref rid="B122-cancers-16-01786" ref-type="bibr">122</xref>,<xref rid="B123-cancers-16-01786" ref-type="bibr">123</xref>,<xref rid="B124-cancers-16-01786" ref-type="bibr">124</xref>]</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Tetrodotoxin</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+Na<sub>V</sub> inhibitor
+</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pain management</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B91-cancers-16-01786" ref-type="bibr">91</xref>,<xref rid="B129-cancers-16-01786" ref-type="bibr">129</xref>,<xref rid="B130-cancers-16-01786" ref-type="bibr">130</xref>,<xref rid="B131-cancers-16-01786" ref-type="bibr">131</xref>,<xref rid="B132-cancers-16-01786" ref-type="bibr">132</xref>,<xref rid="B133-cancers-16-01786" ref-type="bibr">133</xref>,<xref rid="B134-cancers-16-01786" ref-type="bibr">134</xref>,<xref rid="B135-cancers-16-01786" ref-type="bibr">135</xref>]</td></tr></tbody></table></table-wrap></p></sec><sec sec-type="conclusions" id="sec5-cancers-16-01786"><title>5. Conclusions and Future Directions</title><p>In this review we have highlighted phytochemicals that modulate ion channel function and alter intracellular concentrations of anions and cations, thereby modifying cancer invasiveness, proliferation, and migration. We have detailed several mechanisms by which phytochemical-mediated modulation of ion channels may not only directly impact cancer treatment but also symptom management. Modern chemotherapies offer a broad approach to cancer treatment but, unfortunately, are associated with a host of side effects including neuropathy, pancytopenia, nausea, and fatigue. Positively, the advent of precision oncology, or the molecular profiling of tumors for target identification, has reduced the occurrence of off-target effects and some associated side effects [<xref rid="B136-cancers-16-01786" ref-type="bibr">136</xref>]. While targeting of ion channels to modulate intracellular ion concentrations is also anticipated to progress. Certainly, phytochemicals can serve as a natural approach by targeting these ion channels. A significant challenge, however, is demonstrating the efficacy of phytochemicals, which would be needed to perform phase I clinical trials to determine the safety profiling. There is great potential value in these trials as several phytochemicals have simultaneous anti-tumorigenic and symptom control mechanisms. A logical approach moving forward would be to integrate a phytochemical(s) as a therapeutic &#x02018;add-on&#x02019;. Careful thought must be applied to the design of such trials to maximize their potential use. A few of the phytochemicals discussed above may have prophylactic potential to prevent tumor metastasis. For example, tetrodotoxin (TTX) blockage of VGSC led to decreased invasiveness of non-small cell lung cancer in vitro [<xref rid="B96-cancers-16-01786" ref-type="bibr">96</xref>]. Therefore, treatment with TTX may need to occur prophylactically rather than therapeutically for it to have its most significant effect. </p><p>An additional concern with phytochemicals is the unknown side effect profile given limited clinical trial data. For example, the CBD-induced generation of ROS via TRPV1 activation could affect both non-tumor and tumor cells equally at anti-neoplastic doses. Indeed, this has been observed with potential antineoplastic plant extracts showing promise at doses that generate antineoplastic effects in man but may have intolerable toxicity due to their non-selectivity (i.e., laetrile, graviola, artemisinin) [<xref rid="B137-cancers-16-01786" ref-type="bibr">137</xref>,<xref rid="B138-cancers-16-01786" ref-type="bibr">138</xref>,<xref rid="B139-cancers-16-01786" ref-type="bibr">139</xref>]. Another example, picrotoxin has shown anti-cancer effects; however, there is a high potential for epileptic side effects at possible therapeutically impactful dosages. Research in animal models showed an average dose of 3&#x02013;10 mg/kg of picrotoxin delivered intraperitoneally was sufficient to induce seizures [<xref rid="B52-cancers-16-01786" ref-type="bibr">52</xref>]. In such cases, the risks may outweigh the clinical benefits. However, clinical trials involving TTX have shown that therapeutic doses are associated with minimal side effects such as oral paresthesia and oral hypoesthesia [<xref rid="B131-cancers-16-01786" ref-type="bibr">131</xref>,<xref rid="B132-cancers-16-01786" ref-type="bibr">132</xref>,<xref rid="B133-cancers-16-01786" ref-type="bibr">133</xref>,<xref rid="B134-cancers-16-01786" ref-type="bibr">134</xref>]. Given the many reports of the potential benefits of phytochemicals to cancer treatment, progress may be made in moving them to the clinic not &#x02018;as is&#x02019; but by searching for similar chemical compounds amongst our vast knowledge base that may be more specific. For example, employing an in silico approach to use the backbone of phytochemicals to search established drug libraries to screen for anti-cancer candidates. Similarly, the identification of new active compounds may be expedited by employing NMR spectroscopy on unfractionated phytochemical compounds followed by comparison to molecular networking platforms [<xref rid="B117-cancers-16-01786" ref-type="bibr">117</xref>,<xref rid="B118-cancers-16-01786" ref-type="bibr">118</xref>]. </p><p>Much of Western medicine is based on plant-derived chemicals and the earliest chemotherapies are also plant-derived [<xref rid="B4-cancers-16-01786" ref-type="bibr">4</xref>,<xref rid="B5-cancers-16-01786" ref-type="bibr">5</xref>,<xref rid="B6-cancers-16-01786" ref-type="bibr">6</xref>,<xref rid="B7-cancers-16-01786" ref-type="bibr">7</xref>]. However, there has been a significant slowing in phytochemical drug discovery for several reasons, including difficulty extracting high volumes of active ingredients, structural rigidity of phytochemicals, and difficulty gaining intellectual property over naturally-occurring chemicals [<xref rid="B140-cancers-16-01786" ref-type="bibr">140</xref>]. Returning to phytochemicals for more specific modulation of ion channels is a promising field in oncology. </p></sec></body><back><ack><title>Acknowledgments</title><p>Figures made with <uri>BioRender.com</uri>.</p></ack><fn-group><fn><p><bold>Disclaimer/Publisher&#x02019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p></fn></fn-group><notes><title>Author Contributions</title><p>Conceptualization, L.A., D.A.P.K. and S.S.; writing&#x02014;original draft preparation, R.R. and C.M.; writing&#x02014;review and editing, R.R., C.M., L.A., D.A.P.K. and S.S. All authors have read and agreed to the published version of the manuscript. </p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-cancers-16-01786"><label>1.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>F.-S.</given-names></name>
+<name><surname>Weng</surname><given-names>J.-K.</given-names></name>
+</person-group><article-title>Demystifying Traditional Herbal Medicine with Modern Approach</article-title><source>Nat. Plants</source><year>2017</year><volume>3</volume><fpage>17109</fpage><pub-id pub-id-type="doi">10.1038/nplants.2017.109</pub-id><pub-id pub-id-type="pmid">28758992</pub-id>
+</element-citation></ref><ref id="B2-cancers-16-01786"><label>2.</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Al-Worafi</surname><given-names>Y.M.</given-names></name>
+</person-group><article-title>Chapter 14&#x02014;Herbal Medicines Safety Issues</article-title><source>Drug Safety in Developing Countries</source><person-group person-group-type="editor">
+<name><surname>Al-Worafi</surname><given-names>Y.</given-names></name>
+</person-group><publisher-name>Academic Press</publisher-name><publisher-loc>Cambridge, MA, USA</publisher-loc><year>2020</year><fpage>163</fpage><lpage>178</lpage><isbn>978-0-12-819837-7</isbn></element-citation></ref><ref id="B3-cancers-16-01786"><label>3.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>M.</given-names></name>
+<name><surname>Moalin</surname><given-names>M.</given-names></name>
+<name><surname>Haenen</surname><given-names>G.R.M.M.</given-names></name>
+</person-group><article-title>Connecting West and East</article-title><source>Int. J. Mol. Sci.</source><year>2019</year><volume>20</volume><elocation-id>2333</elocation-id><pub-id pub-id-type="doi">10.3390/ijms20092333</pub-id><?supplied-pmid 31083489?><pub-id pub-id-type="pmid">31083489</pub-id>
+</element-citation></ref><ref id="B4-cancers-16-01786"><label>4.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dias</surname><given-names>D.A.</given-names></name>
+<name><surname>Urban</surname><given-names>S.</given-names></name>
+<name><surname>Roessner</surname><given-names>U.</given-names></name>
+</person-group><article-title>A Historical Overview of Natural Products in Drug Discovery</article-title><source>Metabolites</source><year>2012</year><volume>2</volume><fpage>303</fpage><lpage>336</lpage><pub-id pub-id-type="doi">10.3390/metabo2020303</pub-id><?supplied-pmid 24957513?><pub-id pub-id-type="pmid">24957513</pub-id>
+</element-citation></ref><ref id="B5-cancers-16-01786"><label>5.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cragg</surname><given-names>G.M.</given-names></name>
+</person-group><article-title>Paclitaxel (Taxol): A Success Story with Valuable Lessons for Natural Product Drug Discovery and Development</article-title><source>Med. Res. Rev.</source><year>1998</year><volume>18</volume><fpage>315</fpage><lpage>331</lpage><pub-id pub-id-type="doi">10.1002/(sici)1098-1128(199809)18:5&#x0003c;315::aid-med3&#x0003e;3.0.co;2-w</pub-id><pub-id pub-id-type="pmid">9735872</pub-id>
+</element-citation></ref><ref id="B6-cancers-16-01786"><label>6.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dehelean</surname><given-names>C.A.</given-names></name>
+<name><surname>Marcovici</surname><given-names>I.</given-names></name>
+<name><surname>Soica</surname><given-names>C.</given-names></name>
+<name><surname>Mioc</surname><given-names>M.</given-names></name>
+<name><surname>Coricovac</surname><given-names>D.</given-names></name>
+<name><surname>Iurciuc</surname><given-names>S.</given-names></name>
+<name><surname>Cretu</surname><given-names>O.M.</given-names></name>
+<name><surname>Pinzaru</surname><given-names>I.</given-names></name>
+</person-group><article-title>Plant-Derived Anticancer Compounds as New Perspectives in Drug Discovery and Alternative Therapy</article-title><source>Molecules</source><year>2021</year><volume>26</volume><elocation-id>1109</elocation-id><pub-id pub-id-type="doi">10.3390/molecules26041109</pub-id><?supplied-pmid 33669817?><pub-id pub-id-type="pmid">33669817</pub-id>
+</element-citation></ref><ref id="B7-cancers-16-01786"><label>7.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Newman</surname><given-names>D.J.</given-names></name>
+<name><surname>Cragg</surname><given-names>G.M.</given-names></name>
+</person-group><article-title>Natural Products as Sources of New Drugs over the Nearly Four Decades from 01/1981 to 09/2019</article-title><source>J. Nat. Prod.</source><year>2020</year><volume>83</volume><fpage>770</fpage><lpage>803</lpage><pub-id pub-id-type="doi">10.1021/acs.jnatprod.9b01285</pub-id><?supplied-pmid 32162523?><pub-id pub-id-type="pmid">32162523</pub-id>
+</element-citation></ref><ref id="B8-cancers-16-01786"><label>8.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mols</surname><given-names>F.</given-names></name>
+<name><surname>Beijers</surname><given-names>T.</given-names></name>
+<name><surname>Vreugdenhil</surname><given-names>G.</given-names></name>
+<name><surname>van de Poll-Franse</surname><given-names>L.</given-names></name>
+</person-group><article-title>Chemotherapy-Induced Peripheral Neuropathy and Its Association with Quality of Life: A Systematic Review</article-title><source>Support. Care Cancer</source><year>2014</year><volume>22</volume><fpage>2261</fpage><lpage>2269</lpage><pub-id pub-id-type="doi">10.1007/s00520-014-2255-7</pub-id><pub-id pub-id-type="pmid">24789421</pub-id>
+</element-citation></ref><ref id="B9-cancers-16-01786"><label>9.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nayak</surname><given-names>M.G.</given-names></name>
+<name><surname>George</surname><given-names>A.</given-names></name>
+<name><surname>Vidyasagar</surname><given-names>M.</given-names></name>
+<name><surname>Mathew</surname><given-names>S.</given-names></name>
+<name><surname>Nayak</surname><given-names>S.</given-names></name>
+<name><surname>Nayak</surname><given-names>B.S.</given-names></name>
+<name><surname>Shashidhara</surname><given-names>Y.</given-names></name>
+<name><surname>Kamath</surname><given-names>A.</given-names></name>
+</person-group><article-title>Quality of Life among Cancer Patients</article-title><source>Indian. J. Palliat. Care</source><year>2017</year><volume>23</volume><fpage>445</fpage><lpage>450</lpage><pub-id pub-id-type="doi">10.4103/IJPC.IJPC_82_17</pub-id><pub-id pub-id-type="pmid">29123353</pub-id>
+</element-citation></ref><ref id="B10-cancers-16-01786"><label>10.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Goel</surname><given-names>Y.</given-names></name>
+<name><surname>Fouda</surname><given-names>R.</given-names></name>
+<name><surname>Gupta</surname><given-names>K.</given-names></name>
+</person-group><article-title>Endoplasmic Reticulum Stress in Chemotherapy-Induced Peripheral Neuropathy: Emerging Role of Phytochemicals</article-title><source>Antioxidants</source><year>2022</year><volume>11</volume><elocation-id>265</elocation-id><pub-id pub-id-type="doi">10.3390/antiox11020265</pub-id><pub-id pub-id-type="pmid">35204148</pub-id>
+</element-citation></ref><ref id="B11-cancers-16-01786"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Singh</surname><given-names>J.</given-names></name>
+<name><surname>Luqman</surname><given-names>S.</given-names></name>
+<name><surname>Meena</surname><given-names>A.</given-names></name>
+</person-group><article-title>Emerging Role of Phytochemicals in Targeting Predictive, Prognostic, and Diagnostic Biomarkers of Lung Cancer</article-title><source>Food Chem. Toxicol.</source><year>2020</year><volume>144</volume><fpage>111592</fpage><pub-id pub-id-type="doi">10.1016/j.fct.2020.111592</pub-id><pub-id pub-id-type="pmid">32702507</pub-id>
+</element-citation></ref><ref id="B12-cancers-16-01786"><label>12.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mao</surname><given-names>Q.-Q.</given-names></name>
+<name><surname>Xu</surname><given-names>X.-Y.</given-names></name>
+<name><surname>Shang</surname><given-names>A.</given-names></name>
+<name><surname>Gan</surname><given-names>R.-Y.</given-names></name>
+<name><surname>Wu</surname><given-names>D.-T.</given-names></name>
+<name><surname>Atanasov</surname><given-names>A.G.</given-names></name>
+<name><surname>Li</surname><given-names>H.-B.</given-names></name>
+</person-group><article-title>Phytochemicals for the Prevention and Treatment of Gastric Cancer: Effects and Mechanisms</article-title><source>Int. J. Mol. Sci.</source><year>2020</year><volume>21</volume><elocation-id>570</elocation-id><pub-id pub-id-type="doi">10.3390/ijms21020570</pub-id><?supplied-pmid 31963129?><pub-id pub-id-type="pmid">31963129</pub-id>
+</element-citation></ref><ref id="B13-cancers-16-01786"><label>13.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tinoush</surname><given-names>B.</given-names></name>
+<name><surname>Shirdel</surname><given-names>I.</given-names></name>
+<name><surname>Wink</surname><given-names>M.</given-names></name>
+</person-group><article-title>Phytochemicals: Potential Lead Molecules for MDR Reversal</article-title><source>Front. Pharmacol.</source><year>2020</year><volume>11</volume><fpage>832</fpage><pub-id pub-id-type="doi">10.3389/fphar.2020.00832</pub-id><?supplied-pmid 32636741?><pub-id pub-id-type="pmid">32636741</pub-id>
+</element-citation></ref><ref id="B14-cancers-16-01786"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Choudhari</surname><given-names>A.S.</given-names></name>
+<name><surname>Mandave</surname><given-names>P.C.</given-names></name>
+<name><surname>Deshpande</surname><given-names>M.</given-names></name>
+<name><surname>Ranjekar</surname><given-names>P.</given-names></name>
+<name><surname>Prakash</surname><given-names>O.</given-names></name>
+</person-group><article-title>Phytochemicals in Cancer Treatment: From Preclinical Studies to Clinical Practice</article-title><source>Front. Pharmacol.</source><year>2019</year><volume>10</volume><fpage>1614</fpage><pub-id pub-id-type="doi">10.3389/fphar.2019.01614</pub-id><?supplied-pmid 32116665?><pub-id pub-id-type="pmid">32116665</pub-id>
+</element-citation></ref><ref id="B15-cancers-16-01786"><label>15.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>J.J.</given-names></name>
+<name><surname>Huang</surname><given-names>X.</given-names></name>
+</person-group><article-title>Ion Channels in Cancer: Orchestrators of Electrical Signaling and Cellular Crosstalk</article-title><source>Rev. Physiol. Biochem. Pharmacol.</source><year>2022</year><volume>183</volume><fpage>103</fpage><lpage>133</lpage><pub-id pub-id-type="doi">10.1007/112_2020_48</pub-id><?supplied-pmid 32894333?><pub-id pub-id-type="pmid">32894333</pub-id>
+</element-citation></ref><ref id="B16-cancers-16-01786"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rao</surname><given-names>R.</given-names></name>
+<name><surname>Shah</surname><given-names>S.</given-names></name>
+<name><surname>Bhattacharya</surname><given-names>D.</given-names></name>
+<name><surname>Toukam</surname><given-names>D.K.</given-names></name>
+<name><surname>C&#x000e1;ceres</surname><given-names>R.</given-names></name>
+<name><surname>Pomeranz Krummel</surname><given-names>D.A.</given-names></name>
+<name><surname>Sengupta</surname><given-names>S.</given-names></name>
+</person-group><article-title>Ligand-Gated Ion Channels as Targets for Treatment and Management of Cancers</article-title><source>Front. Physiol.</source><year>2022</year><volume>13</volume><fpage>839437</fpage><pub-id pub-id-type="doi">10.3389/fphys.2022.839437</pub-id><?supplied-pmid 35350689?><pub-id pub-id-type="pmid">35350689</pub-id>
+</element-citation></ref><ref id="B17-cancers-16-01786"><label>17.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>M.</given-names></name>
+<name><surname>Brackenbury</surname><given-names>W.J.</given-names></name>
+</person-group><article-title>Membrane Potential and Cancer Progression</article-title><source>Front. Physiol.</source><year>2013</year><volume>4</volume><fpage>185</fpage><pub-id pub-id-type="doi">10.3389/fphys.2013.00185</pub-id><?supplied-pmid 23882223?><pub-id pub-id-type="pmid">23882223</pub-id>
+</element-citation></ref><ref id="B18-cancers-16-01786"><label>18.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Quicke</surname><given-names>P.</given-names></name>
+<name><surname>Sun</surname><given-names>Y.</given-names></name>
+<name><surname>Arias-Garcia</surname><given-names>M.</given-names></name>
+<name><surname>Beykou</surname><given-names>M.</given-names></name>
+<name><surname>Acker</surname><given-names>C.D.</given-names></name>
+<name><surname>Djamgoz</surname><given-names>M.B.A.</given-names></name>
+<name><surname>Bakal</surname><given-names>C.</given-names></name>
+<name><surname>Foust</surname><given-names>A.J.</given-names></name>
+</person-group><article-title>Voltage Imaging Reveals the Dynamic Electrical Signatures of Human Breast Cancer Cells</article-title><source>Commun. Biol.</source><year>2022</year><volume>5</volume><elocation-id>1178</elocation-id><pub-id pub-id-type="doi">10.1038/s42003-022-04077-2</pub-id><?supplied-pmid 36369329?><pub-id pub-id-type="pmid">36369329</pub-id>
+</element-citation></ref><ref id="B19-cancers-16-01786"><label>19.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>H.</given-names></name>
+</person-group><article-title>Depolarization or Hyperpolarization: Emerging Role of Altered Bioelectricity in Breast Cancer Metastasis</article-title><source>EBioMedicine</source><year>2022</year><volume>76</volume><elocation-id>103853</elocation-id><pub-id pub-id-type="doi">10.1016/j.ebiom.2022.103853</pub-id><pub-id pub-id-type="pmid">35104786</pub-id>
+</element-citation></ref><ref id="B20-cancers-16-01786"><label>20.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bonora</surname><given-names>M.</given-names></name>
+<name><surname>Patergnani</surname><given-names>S.</given-names></name>
+<name><surname>Rimessi</surname><given-names>A.</given-names></name>
+<name><surname>De Marchi</surname><given-names>E.</given-names></name>
+<name><surname>Suski</surname><given-names>J.M.</given-names></name>
+<name><surname>Bononi</surname><given-names>A.</given-names></name>
+<name><surname>Giorgi</surname><given-names>C.</given-names></name>
+<name><surname>Marchi</surname><given-names>S.</given-names></name>
+<name><surname>Missiroli</surname><given-names>S.</given-names></name>
+<name><surname>Poletti</surname><given-names>F.</given-names></name>
+<etal/>
+</person-group><article-title>ATP Synthesis and Storage</article-title><source>Purinergic Signal</source><year>2012</year><volume>8</volume><fpage>343</fpage><lpage>357</lpage><pub-id pub-id-type="doi">10.1007/s11302-012-9305-8</pub-id><pub-id pub-id-type="pmid">22528680</pub-id>
+</element-citation></ref><ref id="B21-cancers-16-01786"><label>21.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Schenk</surname><given-names>U.</given-names></name>
+<name><surname>Westendorf</surname><given-names>A.M.</given-names></name>
+<name><surname>Radaelli</surname><given-names>E.</given-names></name>
+<name><surname>Casati</surname><given-names>A.</given-names></name>
+<name><surname>Ferro</surname><given-names>M.</given-names></name>
+<name><surname>Fumagalli</surname><given-names>M.</given-names></name>
+<name><surname>Verderio</surname><given-names>C.</given-names></name>
+<name><surname>Buer</surname><given-names>J.</given-names></name>
+<name><surname>Scanziani</surname><given-names>E.</given-names></name>
+<name><surname>Grassi</surname><given-names>F.</given-names></name>
+</person-group><article-title>Purinergic Control of T Cell Activation by ATP Released through Pannexin-1 Hemichannels</article-title><source>Sci. Signal.</source><year>2008</year><volume>1</volume><fpage>ra6</fpage><pub-id pub-id-type="doi">10.1126/scisignal.1160583</pub-id><pub-id pub-id-type="pmid">18827222</pub-id>
+</element-citation></ref><ref id="B22-cancers-16-01786"><label>22.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bian</surname><given-names>Y.</given-names></name>
+<name><surname>Tuo</surname><given-names>J.</given-names></name>
+<name><surname>He</surname><given-names>L.</given-names></name>
+<name><surname>Li</surname><given-names>W.</given-names></name>
+<name><surname>Li</surname><given-names>S.</given-names></name>
+<name><surname>Chu</surname><given-names>H.</given-names></name>
+<name><surname>Zhao</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Voltage-Gated Sodium Channels in Cancer and Their Specific Inhibitors</article-title><source>Pathol. Res. Pract.</source><year>2023</year><volume>251</volume><fpage>154909</fpage><pub-id pub-id-type="doi">10.1016/j.prp.2023.154909</pub-id><?supplied-pmid 37939447?><pub-id pub-id-type="pmid">37939447</pub-id>
+</element-citation></ref><ref id="B23-cancers-16-01786"><label>23.</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Malcolm</surname><given-names>J.R.</given-names></name>
+<name><surname>Sajjaboontawee</surname><given-names>N.</given-names></name>
+<name><surname>Yerlikaya</surname><given-names>S.</given-names></name>
+<name><surname>Plunkett-Jones</surname><given-names>C.</given-names></name>
+<name><surname>Boxall</surname><given-names>P.J.</given-names></name>
+<name><surname>Brackenbury</surname><given-names>W.J.</given-names></name>
+</person-group><article-title>Chapter Four&#x02014;Voltage-Gated Sodium Channels, Sodium Transport and Progression of Solid Tumours</article-title><source>Current Topics in Membranes</source><person-group person-group-type="editor">
+<name><surname>Gentile</surname><given-names>S.</given-names></name>
+</person-group><comment>Ion Channels in Cancer</comment><publisher-name>Academic Press</publisher-name><publisher-loc>Cambridge, MA, USA</publisher-loc><year>2023</year><volume>Volume 92</volume><fpage>71</fpage><lpage>98</lpage></element-citation></ref><ref id="B24-cancers-16-01786"><label>24.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pardo</surname><given-names>L.A.</given-names></name>
+</person-group><article-title>Voltage-Gated Potassium Channels Beyond the Action Potential</article-title><source>Bioelectricity</source><year>2022</year><volume>4</volume><fpage>117</fpage><lpage>125</lpage><pub-id pub-id-type="doi">10.1089/bioe.2022.0014</pub-id><?supplied-pmid 37124580?><pub-id pub-id-type="pmid">37124580</pub-id>
+</element-citation></ref><ref id="B25-cancers-16-01786"><label>25.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pardo</surname><given-names>L.A.</given-names></name>
+<name><surname>del Camino</surname><given-names>D.</given-names></name>
+<name><surname>S&#x000e1;nchez</surname><given-names>A.</given-names></name>
+<name><surname>Alves</surname><given-names>F.</given-names></name>
+<name><surname>Br&#x000fc;ggemann</surname><given-names>A.</given-names></name>
+<name><surname>Beckh</surname><given-names>S.</given-names></name>
+<name><surname>St&#x000fc;hmer</surname><given-names>W.</given-names></name>
+</person-group><article-title>Oncogenic Potential of EAG K(+) Channels</article-title><source>EMBO J.</source><year>1999</year><volume>18</volume><fpage>5540</fpage><lpage>5547</lpage><pub-id pub-id-type="doi">10.1093/emboj/18.20.5540</pub-id><?supplied-pmid 10523298?><pub-id pub-id-type="pmid">10523298</pub-id>
+</element-citation></ref><ref id="B26-cancers-16-01786"><label>26.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Weber</surname><given-names>C.</given-names></name>
+<name><surname>de Queiroz</surname><given-names>F.M.</given-names></name>
+<name><surname>Downie</surname><given-names>B.R.</given-names></name>
+<name><surname>Suckow</surname><given-names>A.</given-names></name>
+<name><surname>St&#x000fc;hmer</surname><given-names>W.</given-names></name>
+<name><surname>Pardo</surname><given-names>L.A.</given-names></name>
+</person-group><article-title>Silencing the Activity and Proliferative Properties of the Human EagI Potassium Channel by RNA Interference</article-title><source>J. Biol. Chem.</source><year>2006</year><volume>281</volume><fpage>13030</fpage><lpage>13037</lpage><pub-id pub-id-type="doi">10.1074/jbc.M600883200</pub-id><?supplied-pmid 16537547?><pub-id pub-id-type="pmid">16537547</pub-id>
+</element-citation></ref><ref id="B27-cancers-16-01786"><label>27.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lang</surname><given-names>F.</given-names></name>
+<name><surname>Hoffmann</surname><given-names>E.K.</given-names></name>
+</person-group><article-title>Role of Ion Transport in Control of Apoptotic Cell Death</article-title><source>Compr. Physiol.</source><year>2012</year><volume>2</volume><fpage>2037</fpage><lpage>2061</lpage><pub-id pub-id-type="doi">10.1002/cphy.c110046</pub-id><?supplied-pmid 23723032?><pub-id pub-id-type="pmid">23723032</pub-id>
+</element-citation></ref><ref id="B28-cancers-16-01786"><label>28.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>G.</given-names></name>
+<name><surname>Honisch</surname><given-names>S.</given-names></name>
+<name><surname>Liu</surname><given-names>G.</given-names></name>
+<name><surname>Schmidt</surname><given-names>S.</given-names></name>
+<name><surname>Alkahtani</surname><given-names>S.</given-names></name>
+<name><surname>AlKahtane</surname><given-names>A.A.</given-names></name>
+<name><surname>Stournaras</surname><given-names>C.</given-names></name>
+<name><surname>Lang</surname><given-names>F.</given-names></name>
+</person-group><article-title>Up-Regulation of Orai1 Expression and Store Operated Ca<sup>2+</sup> Entry Following Activation of Membrane Androgen Receptors in MCF-7 Breast Tumor Cells</article-title><source>BMC Cancer</source><year>2015</year><volume>15</volume><elocation-id>995</elocation-id><pub-id pub-id-type="doi">10.1186/s12885-015-2014-2</pub-id><?supplied-pmid 26690689?><pub-id pub-id-type="pmid">26690689</pub-id>
+</element-citation></ref><ref id="B29-cancers-16-01786"><label>29.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rhana</surname><given-names>P.</given-names></name>
+<name><surname>Trivelato</surname><given-names>R.R.</given-names></name>
+<name><surname>Beir&#x000e3;o</surname><given-names>P.S.L.</given-names></name>
+<name><surname>Cruz</surname><given-names>J.S.</given-names></name>
+<name><surname>Rodrigues</surname><given-names>A.L.P.</given-names></name>
+</person-group><article-title>Is There a Role for Voltage-Gated Na+ Channels in the Aggressiveness of Breast Cancer?</article-title><source>Braz. J. Med. Biol. Res.</source><year>2017</year><volume>50</volume><elocation-id>e6011</elocation-id><pub-id pub-id-type="doi">10.1590/1414-431X20176011</pub-id><pub-id pub-id-type="pmid">28591378</pub-id>
+</element-citation></ref><ref id="B30-cancers-16-01786"><label>30.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bhargava</surname><given-names>A.</given-names></name>
+<name><surname>Saha</surname><given-names>S.</given-names></name>
+</person-group><article-title>T-Type Voltage Gated Calcium Channels: A Target in Breast Cancer?</article-title><source>Breast Cancer Res. Treat.</source><year>2019</year><volume>173</volume><fpage>11</fpage><lpage>21</lpage><pub-id pub-id-type="doi">10.1007/s10549-018-4970-0</pub-id><?supplied-pmid 30242580?><pub-id pub-id-type="pmid">30242580</pub-id>
+</element-citation></ref><ref id="B31-cancers-16-01786"><label>31.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Teisseyre</surname><given-names>A.</given-names></name>
+<name><surname>G&#x00105;siorowska</surname><given-names>J.</given-names></name>
+<name><surname>Michalak</surname><given-names>K.</given-names></name>
+</person-group><article-title>Voltage-Gated Potassium Channels Kv1.3--Potentially New Molecular Target in Cancer Diagnostics and Therapy</article-title><source>Adv. Clin. Exp. Med.</source><year>2015</year><volume>24</volume><fpage>517</fpage><lpage>524</lpage><pub-id pub-id-type="doi">10.17219/acem/22339</pub-id><pub-id pub-id-type="pmid">26467143</pub-id>
+</element-citation></ref><ref id="B32-cancers-16-01786"><label>32.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Romito</surname><given-names>O.</given-names></name>
+<name><surname>Gu&#x000e9;guinou</surname><given-names>M.</given-names></name>
+<name><surname>Raoul</surname><given-names>W.</given-names></name>
+<name><surname>Champion</surname><given-names>O.</given-names></name>
+<name><surname>Robert</surname><given-names>A.</given-names></name>
+<name><surname>Trebak</surname><given-names>M.</given-names></name>
+<name><surname>Goupille</surname><given-names>C.</given-names></name>
+<name><surname>Potier-Cartereau</surname><given-names>M.</given-names></name>
+</person-group><article-title>Calcium Signaling: A Therapeutic Target to Overcome Resistance to Therapies in Cancer</article-title><source>Cell Calcium</source><year>2022</year><volume>108</volume><fpage>102673</fpage><pub-id pub-id-type="doi">10.1016/j.ceca.2022.102673</pub-id><pub-id pub-id-type="pmid">36410063</pub-id>
+</element-citation></ref><ref id="B33-cancers-16-01786"><label>33.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kefauver</surname><given-names>J.M.</given-names></name>
+<name><surname>Ward</surname><given-names>A.B.</given-names></name>
+<name><surname>Patapoutian</surname><given-names>A.</given-names></name>
+</person-group><article-title>Discoveries in Structure and Physiology of Mechanically Activated Ion Channels</article-title><source>Nature</source><year>2020</year><volume>587</volume><fpage>567</fpage><lpage>576</lpage><pub-id pub-id-type="doi">10.1038/s41586-020-2933-1</pub-id><?supplied-pmid 33239794?><pub-id pub-id-type="pmid">33239794</pub-id>
+</element-citation></ref><ref id="B34-cancers-16-01786"><label>34.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Premkumar</surname><given-names>L.S.</given-names></name>
+</person-group><article-title>Transient Receptor Potential Channels as Targets for Phytochemicals</article-title><source>ACS Chem. Neurosci.</source><year>2014</year><volume>5</volume><fpage>1117</fpage><lpage>1130</lpage><pub-id pub-id-type="doi">10.1021/cn500094a</pub-id><pub-id pub-id-type="pmid">24926802</pub-id>
+</element-citation></ref><ref id="B35-cancers-16-01786"><label>35.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Levy</surname><given-names>R.A.</given-names></name>
+<name><surname>Anderson</surname><given-names>E.G.</given-names></name>
+</person-group><article-title>The Effect of the GABA Antagonists Bicuculline and Picrotoxin on Primary Afferent Terminal Excitability</article-title><source>Brain Res.</source><year>1972</year><volume>43</volume><fpage>171</fpage><lpage>180</lpage><pub-id pub-id-type="doi">10.1016/0006-8993(72)90282-x</pub-id><?supplied-pmid 4340463?><pub-id pub-id-type="pmid">4340463</pub-id>
+</element-citation></ref><ref id="B36-cancers-16-01786"><label>36.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bause</surname><given-names>G.S.</given-names></name>
+</person-group><article-title>From Fish Poison to Merck Picrotoxin</article-title><source>Anesthesiology</source><year>2013</year><volume>118</volume><fpage>1263</fpage><pub-id pub-id-type="doi">10.1097/ALN.0b013e31829a0b4b</pub-id><?supplied-pmid 23695089?><pub-id pub-id-type="pmid">23695089</pub-id>
+</element-citation></ref><ref id="B37-cancers-16-01786"><label>37.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Olsen</surname><given-names>R.W.</given-names></name>
+</person-group><article-title>Picrotoxin-like Channel Blockers of GABAA Receptors</article-title><source>Proc. Natl. Acad. Sci. USA</source><year>2006</year><volume>103</volume><fpage>6081</fpage><lpage>6082</lpage><pub-id pub-id-type="doi">10.1073/pnas.0601121103</pub-id><?supplied-pmid 16606858?><pub-id pub-id-type="pmid">16606858</pub-id>
+</element-citation></ref><ref id="B38-cancers-16-01786"><label>38.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Y.</given-names></name>
+<name><surname>Ren</surname><given-names>L.</given-names></name>
+<name><surname>Li</surname><given-names>W.</given-names></name>
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+<name><surname>Zhang</surname><given-names>S.</given-names></name>
+<name><surname>Ge</surname><given-names>B.</given-names></name>
+<name><surname>Yang</surname><given-names>H.</given-names></name>
+<name><surname>Du</surname><given-names>G.</given-names></name>
+<name><surname>Tang</surname><given-names>B.</given-names></name>
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+<etal/>
+</person-group><article-title>GABAergic Signaling as a Potential Therapeutic Target in Cancers</article-title><source>Biomed. Pharmacother.</source><year>2023</year><volume>161</volume><elocation-id>114410</elocation-id><pub-id pub-id-type="doi">10.1016/j.biopha.2023.114410</pub-id><?supplied-pmid 36812710?><pub-id pub-id-type="pmid">36812710</pub-id>
+</element-citation></ref><ref id="B39-cancers-16-01786"><label>39.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>B.</given-names></name>
+<name><surname>Vogelzang</surname><given-names>A.</given-names></name>
+<name><surname>Miyajima</surname><given-names>M.</given-names></name>
+<name><surname>Sugiura</surname><given-names>Y.</given-names></name>
+<name><surname>Wu</surname><given-names>Y.</given-names></name>
+<name><surname>Chamoto</surname><given-names>K.</given-names></name>
+<name><surname>Nakano</surname><given-names>R.</given-names></name>
+<name><surname>Hatae</surname><given-names>R.</given-names></name>
+<name><surname>Menzies</surname><given-names>R.J.</given-names></name>
+<name><surname>Sonomura</surname><given-names>K.</given-names></name>
+<etal/>
+</person-group><article-title>B Cell-Derived GABA Elicits IL-10+ Macrophages to Limit Anti-Tumour Immunity</article-title><source>Nature</source><year>2021</year><volume>599</volume><fpage>471</fpage><lpage>476</lpage><pub-id pub-id-type="doi">10.1038/s41586-021-04082-1</pub-id><?supplied-pmid 34732892?><pub-id pub-id-type="pmid">34732892</pub-id>
+</element-citation></ref><ref id="B40-cancers-16-01786"><label>40.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Battaglin</surname><given-names>F.</given-names></name>
+<name><surname>Jayachandran</surname><given-names>P.</given-names></name>
+<name><surname>Strelez</surname><given-names>C.</given-names></name>
+<name><surname>Lenz</surname><given-names>A.</given-names></name>
+<name><surname>Algaze</surname><given-names>S.</given-names></name>
+<name><surname>Soni</surname><given-names>S.</given-names></name>
+<name><surname>Lo</surname><given-names>J.H.</given-names></name>
+<name><surname>Yang</surname><given-names>Y.</given-names></name>
+<name><surname>Millstein</surname><given-names>J.</given-names></name>
+<name><surname>Zhang</surname><given-names>W.</given-names></name>
+<etal/>
+</person-group><article-title>Neurotransmitter Signaling: A New Frontier in Colorectal Cancer Biology and Treatment</article-title><source>Oncogene</source><year>2022</year><volume>41</volume><fpage>4769</fpage><lpage>4778</lpage><pub-id pub-id-type="doi">10.1038/s41388-022-02479-4</pub-id><?supplied-pmid 36182970?><pub-id pub-id-type="pmid">36182970</pub-id>
+</element-citation></ref><ref id="B41-cancers-16-01786"><label>41.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>D.</given-names></name>
+<name><surname>Alexander</surname><given-names>P.B.</given-names></name>
+<name><surname>Li</surname><given-names>Q.-J.</given-names></name>
+<name><surname>Wang</surname><given-names>X.-F.</given-names></name>
+</person-group><article-title>GABAergic Signaling beyond Synapses: An Emerging Target for Cancer Therapy</article-title><source>Trends Cell Biol.</source><year>2023</year><volume>33</volume><fpage>403</fpage><lpage>412</lpage><pub-id pub-id-type="doi">10.1016/j.tcb.2022.08.004</pub-id><pub-id pub-id-type="pmid">36114091</pub-id>
+</element-citation></ref><ref id="B42-cancers-16-01786"><label>42.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>W.</given-names></name>
+<name><surname>Yang</surname><given-names>Q.</given-names></name>
+<name><surname>Fung</surname><given-names>K.-M.</given-names></name>
+<name><surname>Humphreys</surname><given-names>M.R.</given-names></name>
+<name><surname>Brame</surname><given-names>L.S.</given-names></name>
+<name><surname>Cao</surname><given-names>A.</given-names></name>
+<name><surname>Fang</surname><given-names>Y.-T.</given-names></name>
+<name><surname>Shih</surname><given-names>P.-T.</given-names></name>
+<name><surname>Kropp</surname><given-names>B.P.</given-names></name>
+<name><surname>Lin</surname><given-names>H.-K.</given-names></name>
+</person-group><article-title>Linking &#x003b3;-Aminobutyric Acid A Receptor to Epidermal Growth Factor Receptor Pathways Activation in Human Prostate Cancer</article-title><source>Mol. Cell Endocrinol.</source><year>2014</year><volume>383</volume><fpage>69</fpage><lpage>79</lpage><pub-id pub-id-type="doi">10.1016/j.mce.2013.11.017</pub-id><pub-id pub-id-type="pmid">24296312</pub-id>
+</element-citation></ref><ref id="B43-cancers-16-01786"><label>43.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xia</surname><given-names>D.</given-names></name>
+<name><surname>Lai</surname><given-names>D.V.</given-names></name>
+<name><surname>Wu</surname><given-names>W.</given-names></name>
+<name><surname>Webb</surname><given-names>Z.D.</given-names></name>
+<name><surname>Yang</surname><given-names>Q.</given-names></name>
+<name><surname>Zhao</surname><given-names>L.</given-names></name>
+<name><surname>Yu</surname><given-names>Z.</given-names></name>
+<name><surname>Thorpe</surname><given-names>J.E.</given-names></name>
+<name><surname>Disch</surname><given-names>B.C.</given-names></name>
+<name><surname>Ihnat</surname><given-names>M.A.</given-names></name>
+<etal/>
+</person-group><article-title>Transition from Androgenic to Neurosteroidal Action of 5&#x003b1;-Androstane-3&#x003b1;, 17&#x003b2;-Diol through the Type A &#x003b3;-Aminobutyric Acid Receptor in Prostate Cancer Progression</article-title><source>J. Steroid Biochem. Mol. Biol.</source><year>2018</year><volume>178</volume><fpage>89</fpage><lpage>98</lpage><pub-id pub-id-type="doi">10.1016/j.jsbmb.2017.11.006</pub-id><?supplied-pmid 29155210?><pub-id pub-id-type="pmid">29155210</pub-id>
+</element-citation></ref><ref id="B44-cancers-16-01786"><label>44.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Takehara</surname><given-names>A.</given-names></name>
+<name><surname>Hosokawa</surname><given-names>M.</given-names></name>
+<name><surname>Eguchi</surname><given-names>H.</given-names></name>
+<name><surname>Ohigashi</surname><given-names>H.</given-names></name>
+<name><surname>Ishikawa</surname><given-names>O.</given-names></name>
+<name><surname>Nakamura</surname><given-names>Y.</given-names></name>
+<name><surname>Nakagawa</surname><given-names>H.</given-names></name>
+</person-group><article-title>Gamma-Aminobutyric Acid (GABA) Stimulates Pancreatic Cancer Growth through Overexpressing GABAA Receptor Pi Subunit</article-title><source>Cancer Res.</source><year>2007</year><volume>67</volume><fpage>9704</fpage><lpage>9712</lpage><pub-id pub-id-type="doi">10.1158/0008-5472.CAN-07-2099</pub-id><?supplied-pmid 17942900?><pub-id pub-id-type="pmid">17942900</pub-id>
+</element-citation></ref><ref id="B45-cancers-16-01786"><label>45.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lattanzi</surname><given-names>D.</given-names></name>
+<name><surname>Di Palma</surname><given-names>M.</given-names></name>
+<name><surname>Cuppini</surname><given-names>R.</given-names></name>
+<name><surname>Ambrogini</surname><given-names>P.</given-names></name>
+</person-group><article-title>GABAergic Input Affects Intracellular Calcium Levels in Developing Granule Cells of Adult Rat Hippocampus</article-title><source>Int. J. Mol. Sci.</source><year>2020</year><volume>21</volume><elocation-id>1715</elocation-id><pub-id pub-id-type="doi">10.3390/ijms21051715</pub-id><?supplied-pmid 32138257?><pub-id pub-id-type="pmid">32138257</pub-id>
+</element-citation></ref><ref id="B46-cancers-16-01786"><label>46.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tagore</surname><given-names>M.</given-names></name>
+<name><surname>Hergenreder</surname><given-names>E.</given-names></name>
+<name><surname>Perlee</surname><given-names>S.C.</given-names></name>
+<name><surname>Cruz</surname><given-names>N.M.</given-names></name>
+<name><surname>Menocal</surname><given-names>L.</given-names></name>
+<name><surname>Suresh</surname><given-names>S.</given-names></name>
+<name><surname>Chan</surname><given-names>E.</given-names></name>
+<name><surname>Baron</surname><given-names>M.</given-names></name>
+<name><surname>Melendez</surname><given-names>S.</given-names></name>
+<name><surname>Dave</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>GABA Regulates Electrical Activity and Tumor Initiation in Melanoma</article-title><source>Cancer Discov.</source><year>2023</year><volume>13</volume><fpage>2270</fpage><lpage>2291</lpage><pub-id pub-id-type="doi">10.1158/2159-8290.CD-23-0389</pub-id><?supplied-pmid 37553760?><pub-id pub-id-type="pmid">37553760</pub-id>
+</element-citation></ref><ref id="B47-cancers-16-01786"><label>47.</label><element-citation publication-type="gov"><article-title>PubChem Bicuculline</article-title><comment>Available online: <ext-link xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/10237" ext-link-type="uri">https://pubchem.ncbi.nlm.nih.gov/compound/10237</ext-link></comment><date-in-citation content-type="access-date" iso-8601-date="2024-03-07">(accessed on 7 March 2024)</date-in-citation></element-citation></ref><ref id="B48-cancers-16-01786"><label>48.</label><element-citation publication-type="gov"><article-title>PubChem Picrotoxinin</article-title><comment>Available online: <ext-link xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/442292" ext-link-type="uri">https://pubchem.ncbi.nlm.nih.gov/compound/442292</ext-link></comment><date-in-citation content-type="access-date" iso-8601-date="2024-03-07">(accessed on 7 March 2024)</date-in-citation></element-citation></ref><ref id="B49-cancers-16-01786"><label>49.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>T.</given-names></name>
+<name><surname>Jiang</surname><given-names>J.</given-names></name>
+<name><surname>Tang</surname><given-names>Y.</given-names></name>
+<name><surname>Liang</surname><given-names>X.</given-names></name>
+</person-group><article-title>Insights into the Leveraging of GABAergic Signaling in Cancer Therapy</article-title><source>Cancer Med.</source><year>2023</year><volume>12</volume><fpage>14498</fpage><lpage>14510</lpage><pub-id pub-id-type="doi">10.1002/cam4.6102</pub-id><?supplied-pmid 37199392?><pub-id pub-id-type="pmid">37199392</pub-id>
+</element-citation></ref><ref id="B50-cancers-16-01786"><label>50.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Curtis</surname><given-names>D.R.</given-names></name>
+<name><surname>Duggan</surname><given-names>A.W.</given-names></name>
+<name><surname>Felix</surname><given-names>D.</given-names></name>
+<name><surname>Johnston</surname><given-names>G.A.</given-names></name>
+</person-group><article-title>GABA, Bicuculline and Central Inhibition</article-title><source>Nature</source><year>1970</year><volume>226</volume><fpage>1222</fpage><lpage>1224</lpage><pub-id pub-id-type="doi">10.1038/2261222a0</pub-id><?supplied-pmid 4393081?><pub-id pub-id-type="pmid">4393081</pub-id>
+</element-citation></ref><ref id="B51-cancers-16-01786"><label>51.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mares</surname><given-names>P.</given-names></name>
+<name><surname>Chino</surname><given-names>M.</given-names></name>
+<name><surname>Kubov&#x000e1;</surname><given-names>H.</given-names></name>
+<name><surname>Mathern</surname><given-names>P.</given-names></name>
+<name><surname>Velik&#x000fd;</surname><given-names>M.</given-names></name>
+</person-group><article-title>Convulsant Action of Systemically Administered Glutamate and Bicuculline Methiodide in Immature Rats</article-title><source>Epilepsy Res.</source><year>2000</year><volume>42</volume><fpage>183</fpage><lpage>189</lpage><pub-id pub-id-type="doi">10.1016/s0920-1211(00)00179-0</pub-id><?supplied-pmid 11074190?><pub-id pub-id-type="pmid">11074190</pub-id>
+</element-citation></ref><ref id="B52-cancers-16-01786"><label>52.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pressly</surname><given-names>B.</given-names></name>
+<name><surname>Vasylieva</surname><given-names>N.</given-names></name>
+<name><surname>Barnych</surname><given-names>B.</given-names></name>
+<name><surname>Singh</surname><given-names>V.</given-names></name>
+<name><surname>Singh</surname><given-names>L.</given-names></name>
+<name><surname>Bruun</surname><given-names>D.A.</given-names></name>
+<name><surname>Hwang</surname><given-names>S.H.</given-names></name>
+<name><surname>Chen</surname><given-names>Y.-J.</given-names></name>
+<name><surname>Fettinger</surname><given-names>J.C.</given-names></name>
+<name><surname>Johnnides</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>Comparison of the Toxicokinetics of the Convulsants Picrotoxinin and Tetramethylenedisulfotetramine (TETS) in Mice</article-title><source>Arch. Toxicol.</source><year>2020</year><volume>94</volume><fpage>1995</fpage><lpage>2007</lpage><pub-id pub-id-type="doi">10.1007/s00204-020-02728-z</pub-id><?supplied-pmid 32239239?><pub-id pub-id-type="pmid">32239239</pub-id>
+</element-citation></ref><ref id="B53-cancers-16-01786"><label>53.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bhattacharya</surname><given-names>D.</given-names></name>
+<name><surname>Gawali</surname><given-names>V.S.</given-names></name>
+<name><surname>Kallay</surname><given-names>L.</given-names></name>
+<name><surname>Toukam</surname><given-names>D.K.</given-names></name>
+<name><surname>Koehler</surname><given-names>A.</given-names></name>
+<name><surname>Stambrook</surname><given-names>P.</given-names></name>
+<name><surname>Krummel</surname><given-names>D.P.</given-names></name>
+<name><surname>Sengupta</surname><given-names>S.</given-names></name>
+</person-group><article-title>Therapeutically Leveraging GABAA Receptors in Cancer</article-title><source>Exp. Biol. Med.</source><year>2021</year><volume>246</volume><fpage>2128</fpage><lpage>2135</lpage><pub-id pub-id-type="doi">10.1177/15353702211032549</pub-id></element-citation></ref><ref id="B54-cancers-16-01786"><label>54.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sengupta</surname><given-names>S.</given-names></name>
+<name><surname>Weeraratne</surname><given-names>S.D.</given-names></name>
+<name><surname>Sun</surname><given-names>H.</given-names></name>
+<name><surname>Phallen</surname><given-names>J.</given-names></name>
+<name><surname>Rallapalli</surname><given-names>S.K.</given-names></name>
+<name><surname>Teider</surname><given-names>N.</given-names></name>
+<name><surname>Kosaras</surname><given-names>B.</given-names></name>
+<name><surname>Amani</surname><given-names>V.</given-names></name>
+<name><surname>Pierre-Francois</surname><given-names>J.</given-names></name>
+<name><surname>Tang</surname><given-names>Y.</given-names></name>
+<etal/>
+</person-group><article-title>A5-GABAA Receptors Negatively Regulate MYC-Amplified Medulloblastoma Growth</article-title><source>Acta Neuropathol.</source><year>2014</year><volume>127</volume><fpage>593</fpage><lpage>603</lpage><pub-id pub-id-type="doi">10.1007/s00401-013-1205-7</pub-id><pub-id pub-id-type="pmid">24196163</pub-id>
+</element-citation></ref><ref id="B55-cancers-16-01786"><label>55.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kallay</surname><given-names>L.</given-names></name>
+<name><surname>Keskin</surname><given-names>H.</given-names></name>
+<name><surname>Ross</surname><given-names>A.</given-names></name>
+<name><surname>Rupji</surname><given-names>M.</given-names></name>
+<name><surname>Moody</surname><given-names>O.A.</given-names></name>
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+<name><surname>Li</surname><given-names>G.</given-names></name>
+<name><surname>Ahmed</surname><given-names>T.</given-names></name>
+<name><surname>Rashid</surname><given-names>F.</given-names></name>
+<name><surname>Stephen</surname><given-names>M.R.</given-names></name>
+<etal/>
+</person-group><article-title>Modulating Native GABAA Receptors in Medulloblastoma with Positive Allosteric Benzodiazepine-Derivatives Induces Cell Death</article-title><source>J. Neurooncol.</source><year>2019</year><volume>142</volume><fpage>411</fpage><lpage>422</lpage><pub-id pub-id-type="doi">10.1007/s11060-019-03115-0</pub-id><?supplied-pmid 30725256?><pub-id pub-id-type="pmid">30725256</pub-id>
+</element-citation></ref><ref id="B56-cancers-16-01786"><label>56.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jonas</surname><given-names>O.</given-names></name>
+<name><surname>Calligaris</surname><given-names>D.</given-names></name>
+<name><surname>Methuku</surname><given-names>K.R.</given-names></name>
+<name><surname>Poe</surname><given-names>M.M.</given-names></name>
+<name><surname>Francois</surname><given-names>J.P.</given-names></name>
+<name><surname>Tranghese</surname><given-names>F.</given-names></name>
+<name><surname>Changelian</surname><given-names>A.</given-names></name>
+<name><surname>Sieghart</surname><given-names>W.</given-names></name>
+<name><surname>Ernst</surname><given-names>M.</given-names></name>
+<name><surname>Pomeranz Krummel</surname><given-names>D.A.</given-names></name>
+<etal/>
+</person-group><article-title>First In Vivo Testing of Compounds Targeting Group 3 Medulloblastomas Using an Implantable Microdevice as a New Paradigm for Drug Development</article-title><source>J. Biomed. Nanotechnol.</source><year>2016</year><volume>12</volume><fpage>1297</fpage><lpage>1302</lpage><pub-id pub-id-type="doi">10.1166/jbn.2016.2262</pub-id><?supplied-pmid 27319222?><pub-id pub-id-type="pmid">27319222</pub-id>
+</element-citation></ref><ref id="B57-cancers-16-01786"><label>57.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pomeranz Krummel</surname><given-names>D.A.</given-names></name>
+<name><surname>Nasti</surname><given-names>T.H.</given-names></name>
+<name><surname>Kaluzova</surname><given-names>M.</given-names></name>
+<name><surname>Kallay</surname><given-names>L.</given-names></name>
+<name><surname>Bhattacharya</surname><given-names>D.</given-names></name>
+<name><surname>Melms</surname><given-names>J.C.</given-names></name>
+<name><surname>Izar</surname><given-names>B.</given-names></name>
+<name><surname>Xu</surname><given-names>M.</given-names></name>
+<name><surname>Burnham</surname><given-names>A.</given-names></name>
+<name><surname>Ahmed</surname><given-names>T.</given-names></name>
+<etal/>
+</person-group><article-title>Melanoma Cell Intrinsic GABAA Receptor Enhancement Potentiates Radiation and Immune Checkpoint Inhibitor Response by Promoting Direct and T Cell-Mediated Antitumor Activity</article-title><source>Int. J. Radiat. Oncol. Biol. Phys.</source><year>2021</year><volume>109</volume><fpage>1040</fpage><lpage>1053</lpage><pub-id pub-id-type="doi">10.1016/j.ijrobp.2020.10.025</pub-id><?supplied-pmid 33289666?><pub-id pub-id-type="pmid">33289666</pub-id>
+</element-citation></ref><ref id="B58-cancers-16-01786"><label>58.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bhattacharya</surname><given-names>D.</given-names></name>
+<name><surname>Barille</surname><given-names>R.</given-names></name>
+<name><surname>Toukam</surname><given-names>D.K.</given-names></name>
+<name><surname>Gawali</surname><given-names>V.S.</given-names></name>
+<name><surname>Kallay</surname><given-names>L.</given-names></name>
+<name><surname>Ahmed</surname><given-names>T.</given-names></name>
+<name><surname>Brown</surname><given-names>H.</given-names></name>
+<name><surname>Rezvanian</surname><given-names>S.</given-names></name>
+<name><surname>Karve</surname><given-names>A.</given-names></name>
+<name><surname>Desai</surname><given-names>P.B.</given-names></name>
+<etal/>
+</person-group><article-title>GABA(A) Receptor Activation Drives GABARAP-Nix Mediated Autophagy to Radiation-Sensitize Primary and Brain-Metastatic Lung Adenocarcinoma Tumors</article-title><source>bioRxiv</source><year>2023</year><elocation-id>preprint</elocation-id><pub-id pub-id-type="doi">10.1101/2023.11.29.569295</pub-id><?supplied-pmid 38076805?><pub-id pub-id-type="pmid">38076805</pub-id>
+</element-citation></ref><ref id="B59-cancers-16-01786"><label>59.</label><element-citation publication-type="gov"><article-title>PubChem Betulinic Acid</article-title><comment>Available online: <ext-link xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/64971" ext-link-type="uri">https://pubchem.ncbi.nlm.nih.gov/compound/64971</ext-link></comment><date-in-citation content-type="access-date" iso-8601-date="2024-03-19">(accessed on 19 March 2024)</date-in-citation></element-citation></ref><ref id="B60-cancers-16-01786"><label>60.</label><element-citation publication-type="gov"><article-title>PubChem Cannabidiol</article-title><comment>Available online: <ext-link xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/644019" ext-link-type="uri">https://pubchem.ncbi.nlm.nih.gov/compound/644019</ext-link></comment><date-in-citation content-type="access-date" iso-8601-date="2024-03-19">(accessed on 19 March 2024)</date-in-citation></element-citation></ref><ref id="B61-cancers-16-01786"><label>61.</label><element-citation publication-type="gov"><article-title>PubChem Tetrodotoxin</article-title><comment>Available online: <ext-link xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/11174599" ext-link-type="uri">https://pubchem.ncbi.nlm.nih.gov/compound/11174599</ext-link></comment><date-in-citation content-type="access-date" iso-8601-date="2024-03-19">(accessed on 19 March 2024)</date-in-citation></element-citation></ref><ref id="B62-cancers-16-01786"><label>62.</label><element-citation publication-type="gov"><article-title>PubChem Capsaicin</article-title><comment>Available online: <ext-link xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/1548943" ext-link-type="uri">https://pubchem.ncbi.nlm.nih.gov/compound/1548943</ext-link></comment><date-in-citation content-type="access-date" iso-8601-date="2024-03-19">(accessed on 19 March 2024)</date-in-citation></element-citation></ref><ref id="B63-cancers-16-01786"><label>63.</label><element-citation publication-type="gov"><article-title>PubChem Margatoxin</article-title><comment>Available online: <ext-link xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/121596045" ext-link-type="uri">https://pubchem.ncbi.nlm.nih.gov/compound/121596045</ext-link></comment><date-in-citation content-type="access-date" iso-8601-date="2024-03-19">(accessed on 19 March 2024)</date-in-citation></element-citation></ref><ref id="B64-cancers-16-01786"><label>64.</label><element-citation publication-type="webpage"><person-group person-group-type="author">
+<name><surname>Bank</surname><given-names>R.P.D.</given-names></name>
+</person-group><article-title>RCSB PDB&#x02014;1MTX: Determination of the Three-Dimensional Structure of Margatoxin BY 1H, 13C, 15N TRIPLE-Resonance Nuclear Magnetic Resonance Spectroscopy</article-title><comment>Available online: <ext-link xlink:href="https://www.rcsb.org/structure/1mtx" ext-link-type="uri">https://www.rcsb.org/structure/1mtx</ext-link></comment><date-in-citation content-type="access-date" iso-8601-date="2024-03-26">(accessed on 26 March 2024)</date-in-citation></element-citation></ref><ref id="B65-cancers-16-01786"><label>65.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Johnson</surname><given-names>B.A.</given-names></name>
+<name><surname>Stevens</surname><given-names>S.P.</given-names></name>
+<name><surname>Williamson</surname><given-names>J.M.</given-names></name>
+</person-group><article-title>Determination of the Three-Dimensional Structure of Margatoxin by 1H, 13C, 15N Triple-Resonance Nuclear Magnetic Resonance Spectroscopy</article-title><source>Biochemistry</source><year>1994</year><volume>33</volume><fpage>15061</fpage><lpage>15070</lpage><pub-id pub-id-type="doi">10.1021/bi00254a015</pub-id><?supplied-pmid 7999764?><pub-id pub-id-type="pmid">7999764</pub-id>
+</element-citation></ref><ref id="B66-cancers-16-01786"><label>66.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lou</surname><given-names>H.</given-names></name>
+<name><surname>Li</surname><given-names>H.</given-names></name>
+<name><surname>Zhang</surname><given-names>S.</given-names></name>
+<name><surname>Lu</surname><given-names>H.</given-names></name>
+<name><surname>Chen</surname><given-names>Q.</given-names></name>
+</person-group><article-title>A Review on Preparation of Betulinic Acid and Its Biological Activities</article-title><source>Molecules</source><year>2021</year><volume>26</volume><elocation-id>5583</elocation-id><pub-id pub-id-type="doi">10.3390/molecules26185583</pub-id><?supplied-pmid 34577056?><pub-id pub-id-type="pmid">34577056</pub-id>
+</element-citation></ref><ref id="B67-cancers-16-01786"><label>67.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>W.</given-names></name>
+<name><surname>Li</surname><given-names>X.</given-names></name>
+<name><surname>Dong</surname><given-names>S.</given-names></name>
+<name><surname>Zhou</surname><given-names>W.</given-names></name>
+</person-group><article-title>Betulinic Acid in the Treatment of Tumour Diseases: Application and Research Progress</article-title><source>Biomed. Pharmacother.</source><year>2021</year><volume>142</volume><elocation-id>111990</elocation-id><pub-id pub-id-type="doi">10.1016/j.biopha.2021.111990</pub-id><?supplied-pmid 34388528?><pub-id pub-id-type="pmid">34388528</pub-id>
+</element-citation></ref><ref id="B68-cancers-16-01786"><label>68.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fulda</surname><given-names>S.</given-names></name>
+</person-group><article-title>Betulinic Acid for Cancer Treatment and Prevention</article-title><source>Int. J. Mol. Sci.</source><year>2008</year><volume>9</volume><fpage>1096</fpage><lpage>1107</lpage><pub-id pub-id-type="doi">10.3390/ijms9061096</pub-id><pub-id pub-id-type="pmid">19325847</pub-id>
+</element-citation></ref><ref id="B69-cancers-16-01786"><label>69.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>M.</given-names></name>
+<name><surname>Lau</surname><given-names>P.M.</given-names></name>
+<name><surname>Kong</surname><given-names>S.K.</given-names></name>
+</person-group><article-title>Mitochondrial Toxin Betulinic Acid Induces in Vitro Eryptosis in Human Red Blood Cells through Membrane Permeabilization</article-title><source>Arch. Toxicol.</source><year>2014</year><volume>88</volume><fpage>755</fpage><lpage>768</lpage><pub-id pub-id-type="doi">10.1007/s00204-013-1162-x</pub-id><pub-id pub-id-type="pmid">24241250</pub-id>
+</element-citation></ref><ref id="B70-cancers-16-01786"><label>70.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bellampalli</surname><given-names>S.S.</given-names></name>
+<name><surname>Ji</surname><given-names>Y.</given-names></name>
+<name><surname>Moutal</surname><given-names>A.</given-names></name>
+<name><surname>Cai</surname><given-names>S.</given-names></name>
+<name><surname>Kithsiri Wijeratne</surname><given-names>E.M.</given-names></name>
+<name><surname>Gandini</surname><given-names>M.A.</given-names></name>
+<name><surname>Yu</surname><given-names>J.</given-names></name>
+<name><surname>Chefdeville</surname><given-names>A.</given-names></name>
+<name><surname>Dorame</surname><given-names>A.</given-names></name>
+<name><surname>Chew</surname><given-names>L.A.</given-names></name>
+<etal/>
+</person-group><article-title>Betulinic Acid, Derived from the Desert Lavender Hyptis Emoryi, Attenuates Paclitaxel-, HIV-, and Nerve Injury-Associated Peripheral Sensory Neuropathy via Block of N- and T-Type Calcium Channels</article-title><source>Pain</source><year>2019</year><volume>160</volume><fpage>117</fpage><lpage>135</lpage><pub-id pub-id-type="doi">10.1097/j.pain.0000000000001385</pub-id><pub-id pub-id-type="pmid">30169422</pub-id>
+</element-citation></ref><ref id="B71-cancers-16-01786"><label>71.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Seca</surname><given-names>A.M.L.</given-names></name>
+<name><surname>Pinto</surname><given-names>D.C.G.A.</given-names></name>
+</person-group><article-title>Plant Secondary Metabolites as Anticancer Agents: Successes in Clinical Trials and Therapeutic Application</article-title><source>Int. J. Mol. Sci.</source><year>2018</year><volume>19</volume><elocation-id>263</elocation-id><pub-id pub-id-type="doi">10.3390/ijms19010263</pub-id><?supplied-pmid 29337925?><pub-id pub-id-type="pmid">29337925</pub-id>
+</element-citation></ref><ref id="B72-cancers-16-01786"><label>72.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Szabo</surname><given-names>I.</given-names></name>
+<name><surname>Zoratti</surname><given-names>M.</given-names></name>
+<name><surname>Biasutto</surname><given-names>L.</given-names></name>
+</person-group><article-title>Targeting Mitochondrial Ion Channels for Cancer Therapy</article-title><source>Redox Biol.</source><year>2020</year><volume>42</volume><elocation-id>101846</elocation-id><pub-id pub-id-type="doi">10.1016/j.redox.2020.101846</pub-id><?supplied-pmid 33419703?><pub-id pub-id-type="pmid">33419703</pub-id>
+</element-citation></ref><ref id="B73-cancers-16-01786"><label>73.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Potze</surname><given-names>L.</given-names></name>
+<name><surname>Mullauer</surname><given-names>F.B.</given-names></name>
+<name><surname>Colak</surname><given-names>S.</given-names></name>
+<name><surname>Kessler</surname><given-names>J.H.</given-names></name>
+<name><surname>Medema</surname><given-names>J.P.</given-names></name>
+</person-group><article-title>Betulinic Acid-Induced Mitochondria-Dependent Cell Death Is Counterbalanced by an Autophagic Salvage Response</article-title><source>Cell Death Dis.</source><year>2014</year><volume>5</volume><fpage>e1169</fpage><pub-id pub-id-type="doi">10.1038/cddis.2014.139</pub-id><?supplied-pmid 24722294?><pub-id pub-id-type="pmid">24722294</pub-id>
+</element-citation></ref><ref id="B74-cancers-16-01786"><label>74.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>O&#x02019;Brien</surname><given-names>K.</given-names></name>
+</person-group><article-title>Cannabidiol (CBD) in Cancer Management</article-title><source>Cancers</source><year>2022</year><volume>14</volume><elocation-id>885</elocation-id><pub-id pub-id-type="doi">10.3390/cancers14040885</pub-id><?supplied-pmid 35205633?><pub-id pub-id-type="pmid">35205633</pub-id>
+</element-citation></ref><ref id="B75-cancers-16-01786"><label>75.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Razmovski-Naumovski</surname><given-names>V.</given-names></name>
+<name><surname>Luckett</surname><given-names>T.</given-names></name>
+<name><surname>Amgarth-Duff</surname><given-names>I.</given-names></name>
+<name><surname>Agar</surname><given-names>M.R.</given-names></name>
+</person-group><article-title>Efficacy of Medicinal Cannabis for Appetite-Related Symptoms in People with Cancer: A Systematic Review</article-title><source>Palliat. Med.</source><year>2022</year><volume>36</volume><fpage>912</fpage><lpage>927</lpage><pub-id pub-id-type="doi">10.1177/02692163221083437</pub-id><?supplied-pmid 35360989?><pub-id pub-id-type="pmid">35360989</pub-id>
+</element-citation></ref><ref id="B76-cancers-16-01786"><label>76.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shrivastava</surname><given-names>A.</given-names></name>
+<name><surname>Kuzontkoski</surname><given-names>P.M.</given-names></name>
+<name><surname>Groopman</surname><given-names>J.E.</given-names></name>
+<name><surname>Prasad</surname><given-names>A.</given-names></name>
+</person-group><article-title>Cannabidiol Induces Programmed Cell Death in Breast Cancer Cells by Coordinating the Cross-Talk between Apoptosis and Autophagy</article-title><source>Mol. Cancer Ther.</source><year>2011</year><volume>10</volume><fpage>1161</fpage><lpage>1172</lpage><pub-id pub-id-type="doi">10.1158/1535-7163.MCT-10-1100</pub-id><pub-id pub-id-type="pmid">21566064</pub-id>
+</element-citation></ref><ref id="B77-cancers-16-01786"><label>77.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Howlett</surname><given-names>A.C.</given-names></name>
+<name><surname>Blume</surname><given-names>L.C.</given-names></name>
+<name><surname>Dalton</surname><given-names>G.D.</given-names></name>
+</person-group><article-title>CB1 Cannabinoid Receptors and Their Associated Proteins</article-title><source>Curr. Med. Chem.</source><year>2010</year><volume>17</volume><fpage>1382</fpage><lpage>1393</lpage><pub-id pub-id-type="doi">10.2174/092986710790980023</pub-id><?supplied-pmid 20166926?><pub-id pub-id-type="pmid">20166926</pub-id>
+</element-citation></ref><ref id="B78-cancers-16-01786"><label>78.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Koivisto</surname><given-names>A.-P.</given-names></name>
+<name><surname>Belvisi</surname><given-names>M.G.</given-names></name>
+<name><surname>Gaudet</surname><given-names>R.</given-names></name>
+<name><surname>Szallasi</surname><given-names>A.</given-names></name>
+</person-group><article-title>Advances in TRP Channel Drug Discovery: From Target Validation to Clinical Studies</article-title><source>Nat. Rev. Drug Discov.</source><year>2022</year><volume>21</volume><fpage>41</fpage><lpage>59</lpage><pub-id pub-id-type="doi">10.1038/s41573-021-00268-4</pub-id><pub-id pub-id-type="pmid">34526696</pub-id>
+</element-citation></ref><ref id="B79-cancers-16-01786"><label>79.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Seltzer</surname><given-names>E.S.</given-names></name>
+<name><surname>Watters</surname><given-names>A.K.</given-names></name>
+<name><surname>MacKenzie</surname><given-names>D.</given-names></name>
+<name><surname>Granat</surname><given-names>L.M.</given-names></name>
+<name><surname>Zhang</surname><given-names>D.</given-names></name>
+</person-group><article-title>Cannabidiol (CBD) as a Promising Anti-Cancer Drug</article-title><source>Cancers</source><year>2020</year><volume>12</volume><elocation-id>3203</elocation-id><pub-id pub-id-type="doi">10.3390/cancers12113203</pub-id><pub-id pub-id-type="pmid">33143283</pub-id>
+</element-citation></ref><ref id="B80-cancers-16-01786"><label>80.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>de la Harpe</surname><given-names>A.</given-names></name>
+<name><surname>Beukes</surname><given-names>N.</given-names></name>
+<name><surname>Frost</surname><given-names>C.L.</given-names></name>
+</person-group><article-title>CBD Activation of TRPV1 Induces Oxidative Signaling and Subsequent ER Stress in Breast Cancer Cell Lines</article-title><source>Biotechnol. Appl. Biochem.</source><year>2022</year><volume>69</volume><fpage>420</fpage><lpage>430</lpage><pub-id pub-id-type="doi">10.1002/bab.2119</pub-id><pub-id pub-id-type="pmid">33604949</pub-id>
+</element-citation></ref><ref id="B81-cancers-16-01786"><label>81.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Maggi</surname><given-names>F.</given-names></name>
+<name><surname>Morelli</surname><given-names>M.B.</given-names></name>
+<name><surname>Tomassoni</surname><given-names>D.</given-names></name>
+<name><surname>Marinelli</surname><given-names>O.</given-names></name>
+<name><surname>Aguzzi</surname><given-names>C.</given-names></name>
+<name><surname>Zeppa</surname><given-names>L.</given-names></name>
+<name><surname>Nabissi</surname><given-names>M.</given-names></name>
+<name><surname>Santoni</surname><given-names>G.</given-names></name>
+<name><surname>Amantini</surname><given-names>C.</given-names></name>
+</person-group><article-title>The Effects of Cannabidiol via TRPV2 Channel in Chronic Myeloid Leukemia Cells and Its Combination with Imatinib</article-title><source>Cancer Sci.</source><year>2022</year><volume>113</volume><fpage>1235</fpage><lpage>1249</lpage><pub-id pub-id-type="doi">10.1111/cas.15257</pub-id><?supplied-pmid 34971020?><pub-id pub-id-type="pmid">34971020</pub-id>
+</element-citation></ref><ref id="B82-cancers-16-01786"><label>82.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ramer</surname><given-names>R.</given-names></name>
+<name><surname>Merkord</surname><given-names>J.</given-names></name>
+<name><surname>Rohde</surname><given-names>H.</given-names></name>
+<name><surname>Hinz</surname><given-names>B.</given-names></name>
+</person-group><article-title>Cannabidiol Inhibits Cancer Cell Invasion via Upregulation of Tissue Inhibitor of Matrix Metalloproteinases-1</article-title><source>Biochem. Pharmacol.</source><year>2010</year><volume>79</volume><fpage>955</fpage><lpage>966</lpage><pub-id pub-id-type="doi">10.1016/j.bcp.2009.11.007</pub-id><?supplied-pmid 19914218?><pub-id pub-id-type="pmid">19914218</pub-id>
+</element-citation></ref><ref id="B83-cancers-16-01786"><label>83.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>D&#x000ed;az-Garc&#x000ed;a</surname><given-names>A.</given-names></name>
+<name><surname>Varela</surname><given-names>D.</given-names></name>
+</person-group><article-title>Voltage-Gated K<sup>+</sup>/Na<sup>+</sup> Channels and Scorpion Venom Toxins in Cancer</article-title><source>Front. Pharmacol.</source><year>2020</year><volume>11</volume><fpage>913</fpage><pub-id pub-id-type="doi">10.3389/fphar.2020.00913</pub-id><?supplied-pmid 32655396?><pub-id pub-id-type="pmid">32655396</pub-id>
+</element-citation></ref><ref id="B84-cancers-16-01786"><label>84.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Due&#x000f1;as-Cuellar</surname><given-names>R.A.</given-names></name>
+<name><surname>Santana</surname><given-names>C.J.C.</given-names></name>
+<name><surname>Magalh&#x000e3;es</surname><given-names>A.C.M.</given-names></name>
+<name><surname>Pires</surname><given-names>O.R.</given-names></name>
+<name><surname>Fontes</surname><given-names>W.</given-names></name>
+<name><surname>Castro</surname><given-names>M.S.</given-names></name>
+</person-group><article-title>Scorpion Toxins and Ion Channels: Potential Applications in Cancer Therapy</article-title><source>Toxins</source><year>2020</year><volume>12</volume><elocation-id>326</elocation-id><pub-id pub-id-type="doi">10.3390/toxins12050326</pub-id><?supplied-pmid 32429050?><pub-id pub-id-type="pmid">32429050</pub-id>
+</element-citation></ref><ref id="B85-cancers-16-01786"><label>85.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Abdul</surname><given-names>M.</given-names></name>
+<name><surname>Santo</surname><given-names>A.</given-names></name>
+<name><surname>Hoosein</surname><given-names>N.</given-names></name>
+</person-group><article-title>Activity of Potassium Channel-Blockers in Breast Cancer</article-title><source>Anticancer. Res.</source><year>2003</year><volume>23</volume><fpage>3347</fpage><lpage>3351</lpage><?supplied-pmid 12926074?><pub-id pub-id-type="pmid">12926074</pub-id>
+</element-citation></ref><ref id="B86-cancers-16-01786"><label>86.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ghiani</surname><given-names>C.A.</given-names></name>
+<name><surname>Yuan</surname><given-names>X.</given-names></name>
+<name><surname>Eisen</surname><given-names>A.M.</given-names></name>
+<name><surname>Knutson</surname><given-names>P.L.</given-names></name>
+<name><surname>DePinho</surname><given-names>R.A.</given-names></name>
+<name><surname>McBain</surname><given-names>C.J.</given-names></name>
+<name><surname>Gallo</surname><given-names>V.</given-names></name>
+</person-group><article-title>Voltage-Activated K+ Channels and Membrane Depolarization Regulate Accumulation of the Cyclin-Dependent Kinase Inhibitors p27Kip1 and p21CIP1 in Glial Progenitor Cells</article-title><source>J. Neurosci.</source><year>1999</year><volume>19</volume><fpage>5380</fpage><lpage>5392</lpage><pub-id pub-id-type="doi">10.1523/JNEUROSCI.19-13-05380.1999</pub-id><?supplied-pmid 10377348?><pub-id pub-id-type="pmid">10377348</pub-id>
+</element-citation></ref><ref id="B87-cancers-16-01786"><label>87.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jang</surname><given-names>S.H.</given-names></name>
+<name><surname>Choi</surname><given-names>S.Y.</given-names></name>
+<name><surname>Ryu</surname><given-names>P.D.</given-names></name>
+<name><surname>Lee</surname><given-names>S.Y.</given-names></name>
+</person-group><article-title>Anti-Proliferative Effect of Kv1.3 Blockers in A549 Human Lung Adenocarcinoma in Vitro and in Vivo</article-title><source>Eur. J. Pharmacol.</source><year>2011</year><volume>651</volume><fpage>26</fpage><lpage>32</lpage><pub-id pub-id-type="doi">10.1016/j.ejphar.2010.10.066</pub-id><?supplied-pmid 21087602?><pub-id pub-id-type="pmid">21087602</pub-id>
+</element-citation></ref><ref id="B88-cancers-16-01786"><label>88.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Capitani</surname><given-names>C.</given-names></name>
+<name><surname>Chioccioli Altadonna</surname><given-names>G.</given-names></name>
+<name><surname>Santillo</surname><given-names>M.</given-names></name>
+<name><surname>Lastraioli</surname><given-names>E.</given-names></name>
+</person-group><article-title>Ion Channels in Lung Cancer: Biological and Clinical Relevance</article-title><source>Front. Pharmacol.</source><year>2023</year><volume>14</volume><fpage>1283623</fpage><pub-id pub-id-type="doi">10.3389/fphar.2023.1283623</pub-id><?supplied-pmid 37942486?><pub-id pub-id-type="pmid">37942486</pub-id>
+</element-citation></ref><ref id="B89-cancers-16-01786"><label>89.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fraser</surname><given-names>S.P.</given-names></name>
+<name><surname>Grimes</surname><given-names>J.A.</given-names></name>
+<name><surname>Djamgoz</surname><given-names>M.B.A.</given-names></name>
+</person-group><article-title>Effects of Voltage-Gated Ion Channel Modulators on Rat Prostatic Cancer Cell Proliferation: Comparison of Strongly and Weakly Metastatic Cell Lines</article-title><source>Prostate</source><year>2000</year><volume>44</volume><fpage>61</fpage><lpage>76</lpage><pub-id pub-id-type="doi">10.1002/1097-0045(20000615)44:1&#x0003c;61::AID-PROS9&#x0003e;3.0.CO;2-3</pub-id><pub-id pub-id-type="pmid">10861759</pub-id>
+</element-citation></ref><ref id="B90-cancers-16-01786"><label>90.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>R.</given-names></name>
+<name><surname>Chung</surname><given-names>S.-H.</given-names></name>
+</person-group><article-title>Mechanism of Tetrodotoxin Block and Resistance in Sodium Channels</article-title><source>Biochem. Biophys. Res. Commun.</source><year>2014</year><volume>446</volume><fpage>370</fpage><lpage>374</lpage><pub-id pub-id-type="doi">10.1016/j.bbrc.2014.02.115</pub-id><pub-id pub-id-type="pmid">24607901</pub-id>
+</element-citation></ref><ref id="B91-cancers-16-01786"><label>91.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gonz&#x000e1;lez-Cano</surname><given-names>R.</given-names></name>
+<name><surname>Ruiz-Cantero</surname><given-names>M.C.</given-names></name>
+<name><surname>Santos-Caballero</surname><given-names>M.</given-names></name>
+<name><surname>G&#x000f3;mez-Navas</surname><given-names>C.</given-names></name>
+<name><surname>Tejada</surname><given-names>M.&#x000c1;.</given-names></name>
+<name><surname>Nieto</surname><given-names>F.R.</given-names></name>
+</person-group><article-title>Tetrodotoxin, a Potential Drug for Neuropathic and Cancer Pain Relief?</article-title><source>Toxins</source><year>2021</year><volume>13</volume><elocation-id>483</elocation-id><pub-id pub-id-type="doi">10.3390/toxins13070483</pub-id><?supplied-pmid 34357955?><pub-id pub-id-type="pmid">34357955</pub-id>
+</element-citation></ref><ref id="B92-cancers-16-01786"><label>92.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bucciarelli</surname><given-names>G.M.</given-names></name>
+<name><surname>Lechner</surname><given-names>M.</given-names></name>
+<name><surname>Fontes</surname><given-names>A.</given-names></name>
+<name><surname>Kats</surname><given-names>L.B.</given-names></name>
+<name><surname>Eisthen</surname><given-names>H.L.</given-names></name>
+<name><surname>Shaffer</surname><given-names>H.B.</given-names></name>
+</person-group><article-title>From Poison to Promise: The Evolution of Tetrodotoxin and Its Potential as a Therapeutic</article-title><source>Toxins</source><year>2021</year><volume>13</volume><elocation-id>517</elocation-id><pub-id pub-id-type="doi">10.3390/toxins13080517</pub-id><?supplied-pmid 34437388?><pub-id pub-id-type="pmid">34437388</pub-id>
+</element-citation></ref><ref id="B93-cancers-16-01786"><label>93.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Diss</surname><given-names>J.K.J.</given-names></name>
+<name><surname>Stewart</surname><given-names>D.</given-names></name>
+<name><surname>Pani</surname><given-names>F.</given-names></name>
+<name><surname>Foster</surname><given-names>C.S.</given-names></name>
+<name><surname>Walker</surname><given-names>M.M.</given-names></name>
+<name><surname>Patel</surname><given-names>A.</given-names></name>
+<name><surname>Djamgoz</surname><given-names>M.B.A.</given-names></name>
+</person-group><article-title>A Potential Novel Marker for Human Prostate Cancer: Voltage-Gated Sodium Channel Expression in Vivo</article-title><source>Prostate Cancer Prostatic Dis.</source><year>2005</year><volume>8</volume><fpage>266</fpage><lpage>273</lpage><pub-id pub-id-type="doi">10.1038/sj.pcan.4500796</pub-id><?supplied-pmid 16088330?><pub-id pub-id-type="pmid">16088330</pub-id>
+</element-citation></ref><ref id="B94-cancers-16-01786"><label>94.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>S.</given-names></name>
+<name><surname>Lv</surname><given-names>Y.</given-names></name>
+<name><surname>Xu</surname><given-names>J.</given-names></name>
+<name><surname>Mao</surname><given-names>X.</given-names></name>
+<name><surname>Chen</surname><given-names>Z.</given-names></name>
+<name><surname>Lu</surname><given-names>W.</given-names></name>
+</person-group><article-title>Over-Expression of Nav1.6 Channels Is Associated with Lymph Node Metastases in Colorectal Cancer</article-title><source>World J. Surg. Oncol.</source><year>2019</year><volume>17</volume><fpage>175</fpage><pub-id pub-id-type="doi">10.1186/s12957-019-1715-4</pub-id><?supplied-pmid 31672162?><pub-id pub-id-type="pmid">31672162</pub-id>
+</element-citation></ref><ref id="B95-cancers-16-01786"><label>95.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hernandez-Plata</surname><given-names>E.</given-names></name>
+<name><surname>Ortiz</surname><given-names>C.S.</given-names></name>
+<name><surname>Marquina-Castillo</surname><given-names>B.</given-names></name>
+<name><surname>Medina-Martinez</surname><given-names>I.</given-names></name>
+<name><surname>Alfaro</surname><given-names>A.</given-names></name>
+<name><surname>Berumen</surname><given-names>J.</given-names></name>
+<name><surname>Rivera</surname><given-names>M.</given-names></name>
+<name><surname>Gomora</surname><given-names>J.C.</given-names></name>
+</person-group><article-title>Overexpression of NaV1.6 Channels Is Associated with the Invasion Capacity of Human Cervical Cancer</article-title><source>Int. J. Cancer</source><year>2012</year><volume>130</volume><fpage>2013</fpage><lpage>2023</lpage><pub-id pub-id-type="doi">10.1002/ijc.26210</pub-id><?supplied-pmid 21630263?><pub-id pub-id-type="pmid">21630263</pub-id>
+</element-citation></ref><ref id="B96-cancers-16-01786"><label>96.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Campbell</surname><given-names>T.M.</given-names></name>
+<name><surname>Main</surname><given-names>M.J.</given-names></name>
+<name><surname>Fitzgerald</surname><given-names>E.M.</given-names></name>
+</person-group><article-title>Functional Expression of the Voltage-Gated Na<sup>+</sup>-Channel Nav1.7 Is Necessary for EGF-Mediated Invasion in Human Non-Small Cell Lung Cancer Cells</article-title><source>J. Cell Sci.</source><year>2013</year><volume>126</volume><fpage>4939</fpage><lpage>4949</lpage><pub-id pub-id-type="doi">10.1242/jcs.130013</pub-id><?supplied-pmid 23986482?><pub-id pub-id-type="pmid">23986482</pub-id>
+</element-citation></ref><ref id="B97-cancers-16-01786"><label>97.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>El-Dayem</surname><given-names>S.M.A.</given-names></name>
+<name><surname>Fouda</surname><given-names>F.M.</given-names></name>
+<name><surname>Ali</surname><given-names>E.H.A.</given-names></name>
+<name><surname>Motelp</surname><given-names>B.A.A.E.</given-names></name>
+</person-group><article-title>The Antitumor Effects of Tetrodotoxin and/or Doxorubicin on Ehrlich Ascites Carcinoma-Bearing Female Mice</article-title><source>Toxicol. Ind. Health</source><year>2013</year><volume>29</volume><fpage>404</fpage><lpage>417</lpage><pub-id pub-id-type="doi">10.1177/0748233711434955</pub-id><pub-id pub-id-type="pmid">22317827</pub-id>
+</element-citation></ref><ref id="B98-cancers-16-01786"><label>98.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bujak</surname><given-names>J.K.</given-names></name>
+<name><surname>Kosmala</surname><given-names>D.</given-names></name>
+<name><surname>Szopa</surname><given-names>I.M.</given-names></name>
+<name><surname>Majchrzak</surname><given-names>K.</given-names></name>
+<name><surname>Bednarczyk</surname><given-names>P.</given-names></name>
+</person-group><article-title>Inflammation, Cancer and Immunity&#x02014;Implication of TRPV1 Channel</article-title><source>Front. Oncol.</source><year>2019</year><volume>9</volume><fpage>1087</fpage><pub-id pub-id-type="doi">10.3389/fonc.2019.01087</pub-id><pub-id pub-id-type="pmid">31681615</pub-id>
+</element-citation></ref><ref id="B99-cancers-16-01786"><label>99.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Weber</surname><given-names>L.V.</given-names></name>
+<name><surname>Al-Refae</surname><given-names>K.</given-names></name>
+<name><surname>W&#x000f6;lk</surname><given-names>G.</given-names></name>
+<name><surname>Bonatz</surname><given-names>G.</given-names></name>
+<name><surname>Altm&#x000fc;ller</surname><given-names>J.</given-names></name>
+<name><surname>Becker</surname><given-names>C.</given-names></name>
+<name><surname>Gisselmann</surname><given-names>G.</given-names></name>
+<name><surname>Hatt</surname><given-names>H.</given-names></name>
+</person-group><article-title>Expression and Functionality of TRPV1 in Breast Cancer Cells</article-title><source>Breast Cancer Targets Ther.</source><year>2016</year><volume>8</volume><fpage>243</fpage><lpage>252</lpage><pub-id pub-id-type="doi">10.2147/BCTT.S121610</pub-id></element-citation></ref><ref id="B100-cancers-16-01786"><label>100.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Caprodossi</surname><given-names>S.</given-names></name>
+<name><surname>Amantini</surname><given-names>C.</given-names></name>
+<name><surname>Nabissi</surname><given-names>M.</given-names></name>
+<name><surname>Morelli</surname><given-names>M.B.</given-names></name>
+<name><surname>Farfariello</surname><given-names>V.</given-names></name>
+<name><surname>Santoni</surname><given-names>M.</given-names></name>
+<name><surname>Gismondi</surname><given-names>A.</given-names></name>
+<name><surname>Santoni</surname><given-names>G.</given-names></name>
+</person-group><article-title>Capsaicin Promotes a More Aggressive Gene Expression Phenotype and Invasiveness in Null-TRPV1 Urothelial Cancer Cells</article-title><source>Carcinogenesis</source><year>2011</year><volume>32</volume><fpage>686</fpage><lpage>694</lpage><pub-id pub-id-type="doi">10.1093/carcin/bgr025</pub-id><pub-id pub-id-type="pmid">21310942</pub-id>
+</element-citation></ref><ref id="B101-cancers-16-01786"><label>101.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pecze</surname><given-names>L.</given-names></name>
+<name><surname>J&#x000f3;svay</surname><given-names>K.</given-names></name>
+<name><surname>Blum</surname><given-names>W.</given-names></name>
+<name><surname>Petrovics</surname><given-names>G.</given-names></name>
+<name><surname>Vizler</surname><given-names>C.</given-names></name>
+<name><surname>Ol&#x000e1;h</surname><given-names>Z.</given-names></name>
+<name><surname>Schwaller</surname><given-names>B.</given-names></name>
+</person-group><article-title>Activation of Endogenous TRPV1 Fails to Induce Overstimulation-Based Cytotoxicity in Breast and Prostate Cancer Cells but Not in Pain-Sensing Neurons</article-title><source>Biochim. Biophys. Acta</source><year>2016</year><volume>1863</volume><fpage>2054</fpage><lpage>2064</lpage><pub-id pub-id-type="doi">10.1016/j.bbamcr.2016.05.007</pub-id><?supplied-pmid 27180305?><pub-id pub-id-type="pmid">27180305</pub-id>
+</element-citation></ref><ref id="B102-cancers-16-01786"><label>102.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>S.</given-names></name>
+<name><surname>Zhang</surname><given-names>L.</given-names></name>
+<name><surname>Cheng</surname><given-names>X.</given-names></name>
+<name><surname>Yu</surname><given-names>H.</given-names></name>
+<name><surname>Bao</surname><given-names>J.</given-names></name>
+<name><surname>Lu</surname><given-names>R.</given-names></name>
+</person-group><article-title>Capsaicin Inhibits the Metastasis of Human Papillary Thyroid Carcinoma BCPAP Cells through the Modulation of the TRPV1 Channel</article-title><source>Food Funct.</source><year>2018</year><volume>9</volume><fpage>344</fpage><lpage>354</lpage><pub-id pub-id-type="doi">10.1039/c7fo01295k</pub-id><?supplied-pmid 29185571?><pub-id pub-id-type="pmid">29185571</pub-id>
+</element-citation></ref><ref id="B103-cancers-16-01786"><label>103.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pramanik</surname><given-names>K.C.</given-names></name>
+<name><surname>Fofaria</surname><given-names>N.M.</given-names></name>
+<name><surname>Gupta</surname><given-names>P.</given-names></name>
+<name><surname>Ranjan</surname><given-names>A.</given-names></name>
+<name><surname>Kim</surname><given-names>S.-H.</given-names></name>
+<name><surname>Srivastava</surname><given-names>S.K.</given-names></name>
+</person-group><article-title>Inhibition of &#x003b2;-Catenin Signaling Suppresses Pancreatic Tumor Growth by Disrupting Nuclear &#x003b2;-Catenin/TCF-1 Complex: Critical Role of STAT-3</article-title><source>Oncotarget</source><year>2015</year><volume>6</volume><fpage>11561</fpage><lpage>11574</lpage><pub-id pub-id-type="doi">10.18632/oncotarget.3427</pub-id><?supplied-pmid 25869100?><pub-id pub-id-type="pmid">25869100</pub-id>
+</element-citation></ref><ref id="B104-cancers-16-01786"><label>104.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hwang</surname><given-names>M.K.</given-names></name>
+<name><surname>Bode</surname><given-names>A.M.</given-names></name>
+<name><surname>Byun</surname><given-names>S.</given-names></name>
+<name><surname>Song</surname><given-names>N.R.</given-names></name>
+<name><surname>Lee</surname><given-names>H.J.</given-names></name>
+<name><surname>Lee</surname><given-names>K.W.</given-names></name>
+<name><surname>Dong</surname><given-names>Z.</given-names></name>
+</person-group><article-title>Cocarcinogenic Effect of Capsaicin Involves Activation of EGFR Signaling but Not TRPV1</article-title><source>Cancer Res.</source><year>2010</year><volume>70</volume><fpage>6859</fpage><lpage>6869</lpage><pub-id pub-id-type="doi">10.1158/0008-5472.CAN-09-4393</pub-id><?supplied-pmid 20660715?><pub-id pub-id-type="pmid">20660715</pub-id>
+</element-citation></ref><ref id="B105-cancers-16-01786"><label>105.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bao</surname><given-names>Z.</given-names></name>
+<name><surname>Dai</surname><given-names>X.</given-names></name>
+<name><surname>Wang</surname><given-names>P.</given-names></name>
+<name><surname>Tao</surname><given-names>Y.</given-names></name>
+<name><surname>Chai</surname><given-names>D.</given-names></name>
+</person-group><article-title>Capsaicin Induces Cytotoxicity in Human Osteosarcoma MG63 Cells through TRPV1-Dependent and -Independent Pathways</article-title><source>Cell Cycle</source><year>2019</year><volume>18</volume><fpage>1379</fpage><lpage>1392</lpage><pub-id pub-id-type="doi">10.1080/15384101.2019.1618119</pub-id><?supplied-pmid 31095448?><pub-id pub-id-type="pmid">31095448</pub-id>
+</element-citation></ref><ref id="B106-cancers-16-01786"><label>106.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Green</surname><given-names>R.</given-names></name>
+<name><surname>Khalil</surname><given-names>R.</given-names></name>
+<name><surname>Mohapatra</surname><given-names>S.S.</given-names></name>
+<name><surname>Mohapatra</surname><given-names>S.</given-names></name>
+</person-group><article-title>Role of Cannabidiol for Improvement of the Quality of Life in Cancer Patients: Potential and Challenges</article-title><source>Int. J. Mol. Sci.</source><year>2022</year><volume>23</volume><elocation-id>12956</elocation-id><pub-id pub-id-type="doi">10.3390/ijms232112956</pub-id><?supplied-pmid 36361743?><pub-id pub-id-type="pmid">36361743</pub-id>
+</element-citation></ref><ref id="B107-cancers-16-01786"><label>107.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Caterina</surname><given-names>M.J.</given-names></name>
+<name><surname>Schumacher</surname><given-names>M.A.</given-names></name>
+<name><surname>Tominaga</surname><given-names>M.</given-names></name>
+<name><surname>Rosen</surname><given-names>T.A.</given-names></name>
+<name><surname>Levine</surname><given-names>J.D.</given-names></name>
+<name><surname>Julius</surname><given-names>D.</given-names></name>
+</person-group><article-title>The Capsaicin Receptor: A Heat-Activated Ion Channel in the Pain Pathway</article-title><source>Nature</source><year>1997</year><volume>389</volume><fpage>816</fpage><lpage>824</lpage><pub-id pub-id-type="doi">10.1038/39807</pub-id><?supplied-pmid 9349813?><pub-id pub-id-type="pmid">9349813</pub-id>
+</element-citation></ref><ref id="B108-cancers-16-01786"><label>108.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Portenoy</surname><given-names>R.K.</given-names></name>
+<name><surname>Ahmed</surname><given-names>E.</given-names></name>
+</person-group><article-title>Cancer Pain Syndromes</article-title><source>Hematol. Clin. N. Am.</source><year>2018</year><volume>32</volume><fpage>371</fpage><lpage>386</lpage><pub-id pub-id-type="doi">10.1016/j.hoc.2018.01.002</pub-id></element-citation></ref><ref id="B109-cancers-16-01786"><label>109.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Goyal</surname><given-names>S.</given-names></name>
+<name><surname>Goyal</surname><given-names>S.</given-names></name>
+<name><surname>Goins</surname><given-names>A.E.</given-names></name>
+<name><surname>Alles</surname><given-names>S.R.A.</given-names></name>
+</person-group><article-title>Plant-Derived Natural Products Targeting Ion Channels for Pain</article-title><source>Neurobiol. Pain.</source><year>2023</year><volume>13</volume><elocation-id>100128</elocation-id><pub-id pub-id-type="doi">10.1016/j.ynpai.2023.100128</pub-id><pub-id pub-id-type="pmid">37151956</pub-id>
+</element-citation></ref><ref id="B110-cancers-16-01786"><label>110.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>B.</given-names></name>
+<name><surname>Ma</surname><given-names>Y.</given-names></name>
+<name><surname>Yi</surname><given-names>Z.</given-names></name>
+<name><surname>Liu</surname><given-names>S.</given-names></name>
+<name><surname>Rao</surname><given-names>S.</given-names></name>
+<name><surname>Zou</surname><given-names>L.</given-names></name>
+<name><surname>Wang</surname><given-names>S.</given-names></name>
+<name><surname>Xue</surname><given-names>Y.</given-names></name>
+<name><surname>Jia</surname><given-names>T.</given-names></name>
+<name><surname>Zhao</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>Resveratrol-Decreased Hyperalgesia Mediated by the P2X7 Receptor in Gp120-Treated Rats</article-title><source>Mol. Pain.</source><year>2017</year><volume>13</volume><fpage>1744806917707667</fpage><pub-id pub-id-type="doi">10.1177/1744806917707667</pub-id><pub-id pub-id-type="pmid">28554250</pub-id>
+</element-citation></ref><ref id="B111-cancers-16-01786"><label>111.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ko</surname><given-names>J.-H.</given-names></name>
+<name><surname>Sethi</surname><given-names>G.</given-names></name>
+<name><surname>Um</surname><given-names>J.-Y.</given-names></name>
+<name><surname>Shanmugam</surname><given-names>M.K.</given-names></name>
+<name><surname>Arfuso</surname><given-names>F.</given-names></name>
+<name><surname>Kumar</surname><given-names>A.P.</given-names></name>
+<name><surname>Bishayee</surname><given-names>A.</given-names></name>
+<name><surname>Ahn</surname><given-names>K.S.</given-names></name>
+</person-group><article-title>The Role of Resveratrol in Cancer Therapy</article-title><source>Int. J. Mol. Sci.</source><year>2017</year><volume>18</volume><elocation-id>2589</elocation-id><pub-id pub-id-type="doi">10.3390/ijms18122589</pub-id><?supplied-pmid 29194365?><pub-id pub-id-type="pmid">29194365</pub-id>
+</element-citation></ref><ref id="B112-cancers-16-01786"><label>112.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jia</surname><given-names>Q.</given-names></name>
+<name><surname>Dong</surname><given-names>W.</given-names></name>
+<name><surname>Zhang</surname><given-names>L.</given-names></name>
+<name><surname>Yang</surname><given-names>X.</given-names></name>
+</person-group><article-title>Activating Sirt1 by Resveratrol Suppresses Nav1.7 Expression in DRG through miR-182 and Alleviates Neuropathic Pain in Rats</article-title><source>Channels</source><year>2020</year><volume>14</volume><fpage>69</fpage><lpage>78</lpage><pub-id pub-id-type="doi">10.1080/19336950.2020.1732003</pub-id><?supplied-pmid 32089065?><pub-id pub-id-type="pmid">32089065</pub-id>
+</element-citation></ref><ref id="B113-cancers-16-01786"><label>113.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kato</surname><given-names>A.</given-names></name>
+<name><surname>Naiki-Ito</surname><given-names>A.</given-names></name>
+<name><surname>Nakazawa</surname><given-names>T.</given-names></name>
+<name><surname>Hayashi</surname><given-names>K.</given-names></name>
+<name><surname>Naitoh</surname><given-names>I.</given-names></name>
+<name><surname>Miyabe</surname><given-names>K.</given-names></name>
+<name><surname>Shimizu</surname><given-names>S.</given-names></name>
+<name><surname>Kondo</surname><given-names>H.</given-names></name>
+<name><surname>Nishi</surname><given-names>Y.</given-names></name>
+<name><surname>Yoshida</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>Chemopreventive Effect of Resveratrol and Apocynin on Pancreatic Carcinogenesis via Modulation of Nuclear Phosphorylated GSK3&#x003b2; and ERK1/2</article-title><source>Oncotarget</source><year>2015</year><volume>6</volume><fpage>42963</fpage><lpage>42975</lpage><pub-id pub-id-type="doi">10.18632/oncotarget.5981</pub-id><?supplied-pmid 26556864?><pub-id pub-id-type="pmid">26556864</pub-id>
+</element-citation></ref><ref id="B114-cancers-16-01786"><label>114.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Marchetti</surname><given-names>C.</given-names></name>
+<name><surname>Ribulla</surname><given-names>S.</given-names></name>
+<name><surname>Magnelli</surname><given-names>V.</given-names></name>
+<name><surname>Patrone</surname><given-names>M.</given-names></name>
+<name><surname>Burlando</surname><given-names>B.</given-names></name>
+</person-group><article-title>Resveratrol Induces Intracellular Ca(2+) Rise via T-Type Ca(2+) Channels in a Mesothelioma Cell Line</article-title><source>Life Sci.</source><year>2016</year><volume>148</volume><fpage>125</fpage><lpage>131</lpage><pub-id pub-id-type="doi">10.1016/j.lfs.2016.01.048</pub-id><?supplied-pmid 26845536?><pub-id pub-id-type="pmid">26845536</pub-id>
+</element-citation></ref><ref id="B115-cancers-16-01786"><label>115.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kotecha</surname><given-names>R.</given-names></name>
+<name><surname>Takami</surname><given-names>A.</given-names></name>
+<name><surname>Espinoza</surname><given-names>J.L.</given-names></name>
+</person-group><article-title>Dietary Phytochemicals and Cancer Chemoprevention: A Review of the Clinical Evidence</article-title><source>Oncotarget</source><year>2016</year><volume>7</volume><fpage>52517</fpage><lpage>52529</lpage><pub-id pub-id-type="doi">10.18632/oncotarget.9593</pub-id><?supplied-pmid 27232756?><pub-id pub-id-type="pmid">27232756</pub-id>
+</element-citation></ref><ref id="B116-cancers-16-01786"><label>116.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>C.</given-names></name>
+<name><surname>Xu</surname><given-names>W.</given-names></name>
+<name><surname>Xu</surname><given-names>H.</given-names></name>
+<name><surname>Xiong</surname><given-names>W.</given-names></name>
+<name><surname>Gao</surname><given-names>Y.</given-names></name>
+<name><surname>Li</surname><given-names>G.</given-names></name>
+<name><surname>Liu</surname><given-names>S.</given-names></name>
+<name><surname>Xie</surname><given-names>J.</given-names></name>
+<name><surname>Tu</surname><given-names>G.</given-names></name>
+<name><surname>Peng</surname><given-names>H.</given-names></name>
+<etal/>
+</person-group><article-title>Role of Puerarin in the Signalling of Neuropathic Pain Mediated by P2X3 Receptor of Dorsal Root Ganglion Neurons</article-title><source>Brain Res. Bull.</source><year>2012</year><volume>87</volume><fpage>37</fpage><lpage>43</lpage><pub-id pub-id-type="doi">10.1016/j.brainresbull.2011.10.007</pub-id><?supplied-pmid 22044944?><pub-id pub-id-type="pmid">22044944</pub-id>
+</element-citation></ref><ref id="B117-cancers-16-01786"><label>117.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X.-L.</given-names></name>
+<name><surname>Cao</surname><given-names>X.-Y.</given-names></name>
+<name><surname>Lai</surname><given-names>R.-C.</given-names></name>
+<name><surname>Xie</surname><given-names>M.-X.</given-names></name>
+<name><surname>Zeng</surname><given-names>W.-A.</given-names></name>
+</person-group><article-title>Puerarin Relieves Paclitaxel-Induced Neuropathic Pain: The Role of Nav1.8 &#x00392;1 Subunit of Sensory Neurons</article-title><source>Front. Pharmacol.</source><year>2019</year><volume>9</volume><fpage>1510</fpage><pub-id pub-id-type="doi">10.3389/fphar.2018.01510</pub-id><?supplied-pmid 30666203?><pub-id pub-id-type="pmid">30666203</pub-id>
+</element-citation></ref><ref id="B118-cancers-16-01786"><label>118.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>J.</given-names></name>
+<name><surname>Luo</surname><given-names>D.</given-names></name>
+<name><surname>Liang</surname><given-names>Z.</given-names></name>
+<name><surname>Lao</surname><given-names>L.</given-names></name>
+<name><surname>Rong</surname><given-names>J.</given-names></name>
+</person-group><article-title>Plant Natural Product Puerarin Ameliorates Depressive Behaviors and Chronic Pain in Mice with Spared Nerve Injury (SNI)</article-title><source>Mol. Neurobiol.</source><year>2017</year><volume>54</volume><fpage>2801</fpage><lpage>2812</lpage><pub-id pub-id-type="doi">10.1007/s12035-016-9870-x</pub-id><?supplied-pmid 27013468?><pub-id pub-id-type="pmid">27013468</pub-id>
+</element-citation></ref><ref id="B119-cancers-16-01786"><label>119.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>L.</given-names></name>
+<name><surname>Song</surname><given-names>B.</given-names></name>
+<name><surname>Hu</surname><given-names>Y.</given-names></name>
+<name><surname>Chen</surname><given-names>J.</given-names></name>
+<name><surname>Zhang</surname><given-names>S.</given-names></name>
+<name><surname>Chen</surname><given-names>D.</given-names></name>
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><article-title>Puerarin Ameliorates 5-Fluorouracil-Induced Intestinal Mucositis in Mice by Inhibiting JAKs</article-title><source>J. Pharmacol. Exp. Ther.</source><year>2021</year><volume>379</volume><fpage>147</fpage><lpage>155</lpage><pub-id pub-id-type="doi">10.1124/jpet.121.000677</pub-id><pub-id pub-id-type="pmid">34400527</pub-id>
+</element-citation></ref><ref id="B120-cancers-16-01786"><label>120.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Brasky</surname><given-names>T.M.</given-names></name>
+<name><surname>Newton</surname><given-names>A.M.</given-names></name>
+<name><surname>Conroy</surname><given-names>S.</given-names></name>
+<name><surname>Adib</surname><given-names>A.</given-names></name>
+<name><surname>Adley</surname><given-names>N.C.</given-names></name>
+<name><surname>Strassels</surname><given-names>S.A.</given-names></name>
+<name><surname>Hays</surname><given-names>J.L.</given-names></name>
+<name><surname>Cooper</surname><given-names>Z.D.</given-names></name>
+<name><surname>Wagener</surname><given-names>T.L.</given-names></name>
+<name><surname>Stevens</surname><given-names>E.</given-names></name>
+<etal/>
+</person-group><article-title>Marijuana and Cannabidiol Use Prevalence and Symptom Management Among Patients with Cancer</article-title><source>Cancer Res. Commun.</source><year>2023</year><volume>3</volume><fpage>1917</fpage><lpage>1926</lpage><pub-id pub-id-type="doi">10.1158/2767-9764.CRC-23-0233</pub-id><pub-id pub-id-type="pmid">37772996</pub-id>
+</element-citation></ref><ref id="B121-cancers-16-01786"><label>121.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Etemad</surname><given-names>L.</given-names></name>
+<name><surname>Karimi</surname><given-names>G.</given-names></name>
+<name><surname>Alavi</surname><given-names>M.S.</given-names></name>
+<name><surname>Roohbakhsh</surname><given-names>A.</given-names></name>
+</person-group><article-title>Pharmacological Effects of Cannabidiol by Transient Receptor Potential Channels</article-title><source>Life Sci.</source><year>2022</year><volume>300</volume><fpage>120582</fpage><pub-id pub-id-type="doi">10.1016/j.lfs.2022.120582</pub-id><?supplied-pmid 35483477?><pub-id pub-id-type="pmid">35483477</pub-id>
+</element-citation></ref><ref id="B122-cancers-16-01786"><label>122.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Campos</surname><given-names>A.C.</given-names></name>
+<name><surname>Guimar&#x000e3;es</surname><given-names>F.S.</given-names></name>
+</person-group><article-title>Evidence for a Potential Role for TRPV1 Receptors in the Dorsolateral Periaqueductal Gray in the Attenuation of the Anxiolytic Effects of Cannabinoids</article-title><source>Progress. Neuro-Psychopharmacol. Biol. Psychiatry</source><year>2009</year><volume>33</volume><fpage>1517</fpage><lpage>1521</lpage><pub-id pub-id-type="doi">10.1016/j.pnpbp.2009.08.017</pub-id></element-citation></ref><ref id="B123-cancers-16-01786"><label>123.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Heider</surname><given-names>C.G.</given-names></name>
+<name><surname>Itenberg</surname><given-names>S.A.</given-names></name>
+<name><surname>Rao</surname><given-names>J.</given-names></name>
+<name><surname>Ma</surname><given-names>H.</given-names></name>
+<name><surname>Wu</surname><given-names>X.</given-names></name>
+</person-group><article-title>Mechanisms of Cannabidiol (CBD) in Cancer Treatment: A Review</article-title><source>Biology</source><year>2022</year><volume>11</volume><elocation-id>817</elocation-id><pub-id pub-id-type="doi">10.3390/biology11060817</pub-id><pub-id pub-id-type="pmid">35741337</pub-id>
+</element-citation></ref><ref id="B124-cancers-16-01786"><label>124.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Costa</surname><given-names>B.</given-names></name>
+<name><surname>Giagnoni</surname><given-names>G.</given-names></name>
+<name><surname>Franke</surname><given-names>C.</given-names></name>
+<name><surname>Trovato</surname><given-names>A.E.</given-names></name>
+<name><surname>Colleoni</surname><given-names>M.</given-names></name>
+</person-group><article-title>Vanilloid TRPV1 Receptor Mediates the Antihyperalgesic Effect of the Nonpsychoactive Cannabinoid, Cannabidiol, in a Rat Model of Acute Inflammation</article-title><source>Br. J. Pharmacol.</source><year>2004</year><volume>143</volume><fpage>247</fpage><lpage>250</lpage><pub-id pub-id-type="doi">10.1038/sj.bjp.0705920</pub-id><?supplied-pmid 15313881?><pub-id pub-id-type="pmid">15313881</pub-id>
+</element-citation></ref><ref id="B125-cancers-16-01786"><label>125.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Black</surname><given-names>J.A.</given-names></name>
+<name><surname>Nikolajsen</surname><given-names>L.</given-names></name>
+<name><surname>Kroner</surname><given-names>K.</given-names></name>
+<name><surname>Jensen</surname><given-names>T.S.</given-names></name>
+<name><surname>Waxman</surname><given-names>S.G.</given-names></name>
+</person-group><article-title>Multiple Sodium Channel Isoforms and Mitogen-Activated Protein Kinases Are Present in Painful Human Neuromas</article-title><source>Ann. Neurol.</source><year>2008</year><volume>64</volume><fpage>644</fpage><lpage>653</lpage><pub-id pub-id-type="doi">10.1002/ana.21527</pub-id><pub-id pub-id-type="pmid">19107992</pub-id>
+</element-citation></ref><ref id="B126-cancers-16-01786"><label>126.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Coward</surname><given-names>K.</given-names></name>
+<name><surname>Aitken</surname><given-names>A.</given-names></name>
+<name><surname>Powell</surname><given-names>A.</given-names></name>
+<name><surname>Plumpton</surname><given-names>C.</given-names></name>
+<name><surname>Birch</surname><given-names>R.</given-names></name>
+<name><surname>Tate</surname><given-names>S.</given-names></name>
+<name><surname>Bountra</surname><given-names>C.</given-names></name>
+<name><surname>Anand</surname><given-names>P.</given-names></name>
+</person-group><article-title>Plasticity of TTX-Sensitive Sodium Channels PN1 and Brain III in Injured Human Nerves</article-title><source>Neuroreport</source><year>2001</year><volume>12</volume><fpage>495</fpage><lpage>500</lpage><pub-id pub-id-type="doi">10.1097/00001756-200103050-00014</pub-id><?supplied-pmid 11234752?><pub-id pub-id-type="pmid">11234752</pub-id>
+</element-citation></ref><ref id="B127-cancers-16-01786"><label>127.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chang</surname><given-names>W.</given-names></name>
+<name><surname>Berta</surname><given-names>T.</given-names></name>
+<name><surname>Kim</surname><given-names>Y.H.</given-names></name>
+<name><surname>Lee</surname><given-names>S.</given-names></name>
+<name><surname>Lee</surname><given-names>S.-Y.</given-names></name>
+<name><surname>Ji</surname><given-names>R.-R.</given-names></name>
+</person-group><article-title>Expression and Role of Voltage-Gated Sodium Channels in Human Dorsal Root Ganglion Neurons with Special Focus on Nav1.7, Species Differences, and Regulation by Paclitaxel</article-title><source>Neurosci. Bull.</source><year>2018</year><volume>34</volume><fpage>4</fpage><lpage>12</lpage><pub-id pub-id-type="doi">10.1007/s12264-017-0132-3</pub-id><pub-id pub-id-type="pmid">28424991</pub-id>
+</element-citation></ref><ref id="B128-cancers-16-01786"><label>128.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nozaki-Taguchi</surname><given-names>N.</given-names></name>
+<name><surname>Chaplan</surname><given-names>S.R.</given-names></name>
+<name><surname>Higuera</surname><given-names>E.S.</given-names></name>
+<name><surname>Ajakwe</surname><given-names>R.C.</given-names></name>
+<name><surname>Yaksh</surname><given-names>T.L.</given-names></name>
+</person-group><article-title>Vincristine-Induced Allodynia in the Rat</article-title><source>Pain</source><year>2001</year><volume>93</volume><fpage>69</fpage><lpage>76</lpage><pub-id pub-id-type="doi">10.1016/S0304-3959(01)00294-9</pub-id><pub-id pub-id-type="pmid">11406340</pub-id>
+</element-citation></ref><ref id="B129-cancers-16-01786"><label>129.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alvarez</surname><given-names>P.</given-names></name>
+<name><surname>Levine</surname><given-names>J.D.</given-names></name>
+</person-group><article-title>Antihyperalgesic Effect of Tetrodotoxin in Rat Models of Persistent Muscle Pain</article-title><source>Neuroscience</source><year>2015</year><volume>311</volume><fpage>499</fpage><lpage>507</lpage><pub-id pub-id-type="doi">10.1016/j.neuroscience.2015.10.059</pub-id><?supplied-pmid 26548414?><pub-id pub-id-type="pmid">26548414</pub-id>
+</element-citation></ref><ref id="B130-cancers-16-01786"><label>130.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nieto</surname><given-names>F.R.</given-names></name>
+<name><surname>Entrena</surname><given-names>J.M.</given-names></name>
+<name><surname>Cend&#x000e1;n</surname><given-names>C.M.</given-names></name>
+<name><surname>Del Pozo</surname><given-names>E.</given-names></name>
+<name><surname>Vela</surname><given-names>J.M.</given-names></name>
+<name><surname>Baeyens</surname><given-names>J.M.</given-names></name>
+</person-group><article-title>Tetrodotoxin Inhibits the Development and Expression of Neuropathic Pain Induced by Paclitaxel in Mice</article-title><source>Pain</source><year>2008</year><volume>137</volume><fpage>520</fpage><lpage>531</lpage><pub-id pub-id-type="doi">10.1016/j.pain.2007.10.012</pub-id><pub-id pub-id-type="pmid">18037242</pub-id>
+</element-citation></ref><ref id="B131-cancers-16-01786"><label>131.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hagen</surname><given-names>N.</given-names></name>
+<name><surname>Lapointe</surname><given-names>B.</given-names></name>
+<name><surname>Ong-Lam</surname><given-names>M.</given-names></name>
+<name><surname>Dubuc</surname><given-names>B.</given-names></name>
+<name><surname>Walde</surname><given-names>D.</given-names></name>
+<name><surname>Gagnon</surname><given-names>B.</given-names></name>
+<name><surname>Love</surname><given-names>R.</given-names></name>
+<name><surname>Goel</surname><given-names>R.</given-names></name>
+<name><surname>Hawley</surname><given-names>P.</given-names></name>
+<name><surname>Ngoc</surname><given-names>A.H.</given-names></name>
+<etal/>
+</person-group><article-title>A Multicentre Open-Label Safety and Efficacy Study of Tetrodotoxin for Cancer Pain</article-title><source>Curr. Oncol.</source><year>2011</year><volume>18</volume><fpage>109</fpage><lpage>116</lpage><pub-id pub-id-type="doi">10.3747/co.v18i3.732</pub-id><?supplied-pmid 21655148?><pub-id pub-id-type="pmid">21655156</pub-id>
+</element-citation></ref><ref id="B132-cancers-16-01786"><label>132.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hagen</surname><given-names>N.A.</given-names></name>
+<name><surname>Fisher</surname><given-names>K.M.</given-names></name>
+<name><surname>Lapointe</surname><given-names>B.</given-names></name>
+<name><surname>du Souich</surname><given-names>P.</given-names></name>
+<name><surname>Chary</surname><given-names>S.</given-names></name>
+<name><surname>Moulin</surname><given-names>D.</given-names></name>
+<name><surname>Sellers</surname><given-names>E.</given-names></name>
+<name><surname>Ngoc</surname><given-names>A.H.</given-names></name>
+</person-group><article-title>An Open-Label, Multi-Dose Efficacy and Safety Study of Intramuscular Tetrodotoxin in Patients with Severe Cancer-Related Pain</article-title><source>J. Pain. Symptom Manag.</source><year>2007</year><volume>34</volume><fpage>171</fpage><lpage>182</lpage><pub-id pub-id-type="doi">10.1016/j.jpainsymman.2006.11.008</pub-id><?supplied-pmid 17662911?><pub-id pub-id-type="pmid">17662911</pub-id>
+</element-citation></ref><ref id="B133-cancers-16-01786"><label>133.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hagen</surname><given-names>N.A.</given-names></name>
+<name><surname>Cantin</surname><given-names>L.</given-names></name>
+<name><surname>Constant</surname><given-names>J.</given-names></name>
+<name><surname>Haller</surname><given-names>T.</given-names></name>
+<name><surname>Blaise</surname><given-names>G.</given-names></name>
+<name><surname>Ong-Lam</surname><given-names>M.</given-names></name>
+<name><surname>du Souich</surname><given-names>P.</given-names></name>
+<name><surname>Korz</surname><given-names>W.</given-names></name>
+<name><surname>Lapointe</surname><given-names>B.</given-names></name>
+</person-group><article-title>Tetrodotoxin for Moderate to Severe Cancer-Related Pain: A Multicentre, Randomized, Double-Blind, Placebo-Controlled, Parallel-Design Trial</article-title><source>Pain. Res. Manag.</source><year>2017</year><volume>2017</volume><fpage>7212713</fpage><pub-id pub-id-type="doi">10.1155/2017/7212713</pub-id><?supplied-pmid 28555092?><pub-id pub-id-type="pmid">28555092</pub-id>
+</element-citation></ref><ref id="B134-cancers-16-01786"><label>134.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Goldlust</surname><given-names>S.A.</given-names></name>
+<name><surname>Kavoosi</surname><given-names>M.</given-names></name>
+<name><surname>Nezzer</surname><given-names>J.</given-names></name>
+<name><surname>Kavoosi</surname><given-names>M.</given-names></name>
+<name><surname>Korz</surname><given-names>W.</given-names></name>
+<name><surname>Deck</surname><given-names>K.</given-names></name>
+</person-group><article-title>Tetrodotoxin for Chemotherapy-Induced Neuropathic Pain: A Randomized, Double-Blind, Placebo-Controlled, Parallel-Dose Finding Trial</article-title><source>Toxins</source><year>2021</year><volume>13</volume><elocation-id>235</elocation-id><pub-id pub-id-type="doi">10.3390/toxins13040235</pub-id><?supplied-pmid 33805908?><pub-id pub-id-type="pmid">33805908</pub-id>
+</element-citation></ref><ref id="B135-cancers-16-01786"><label>135.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huerta</surname><given-names>M.&#x000c1;.</given-names></name>
+<name><surname>de la Nava</surname><given-names>J.</given-names></name>
+<name><surname>Artacho-Cord&#x000f3;n</surname><given-names>A.</given-names></name>
+<name><surname>Nieto</surname><given-names>F.R.</given-names></name>
+</person-group><article-title>Efficacy and Security of Tetrodotoxin in the Treatment of Cancer-Related Pain: Systematic Review and Meta-Analysis</article-title><source>Mar. Drugs</source><year>2023</year><volume>21</volume><elocation-id>316</elocation-id><pub-id pub-id-type="doi">10.3390/md21050316</pub-id><?supplied-pmid 37233510?><pub-id pub-id-type="pmid">37233510</pub-id>
+</element-citation></ref><ref id="B136-cancers-16-01786"><label>136.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Schwartzberg</surname><given-names>L.</given-names></name>
+<name><surname>Kim</surname><given-names>E.S.</given-names></name>
+<name><surname>Liu</surname><given-names>D.</given-names></name>
+<name><surname>Schrag</surname><given-names>D.</given-names></name>
+</person-group><article-title>Precision Oncology: Who, How, What, When, and When Not?</article-title><source>Am. Soc. Clin. Oncol. Educ. Book.</source><year>2017</year><volume>37</volume><fpage>160</fpage><lpage>169</lpage><pub-id pub-id-type="doi">10.1200/EDBK_174176</pub-id><?supplied-pmid 28561651?><pub-id pub-id-type="pmid">28561651</pub-id>
+</element-citation></ref><ref id="B137-cancers-16-01786"><label>137.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Qazi</surname><given-names>A.K.</given-names></name>
+<name><surname>Siddiqui</surname><given-names>J.A.</given-names></name>
+<name><surname>Jahan</surname><given-names>R.</given-names></name>
+<name><surname>Chaudhary</surname><given-names>S.</given-names></name>
+<name><surname>Walker</surname><given-names>L.A.</given-names></name>
+<name><surname>Sayed</surname><given-names>Z.</given-names></name>
+<name><surname>Jones</surname><given-names>D.T.</given-names></name>
+<name><surname>Batra</surname><given-names>S.K.</given-names></name>
+<name><surname>Macha</surname><given-names>M.A.</given-names></name>
+</person-group><article-title>Emerging Therapeutic Potential of Graviola and Its Constituents in Cancers</article-title><source>Carcinogenesis</source><year>2018</year><volume>39</volume><fpage>522</fpage><lpage>533</lpage><pub-id pub-id-type="doi">10.1093/carcin/bgy024</pub-id><pub-id pub-id-type="pmid">29462271</pub-id>
+</element-citation></ref><ref id="B138-cancers-16-01786"><label>138.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Moertel</surname><given-names>C.G.</given-names></name>
+<name><surname>Fleming</surname><given-names>T.R.</given-names></name>
+<name><surname>Rubin</surname><given-names>J.</given-names></name>
+<name><surname>Kvols</surname><given-names>L.K.</given-names></name>
+<name><surname>Sarna</surname><given-names>G.</given-names></name>
+<name><surname>Koch</surname><given-names>R.</given-names></name>
+<name><surname>Currie</surname><given-names>V.E.</given-names></name>
+<name><surname>Young</surname><given-names>C.W.</given-names></name>
+<name><surname>Jones</surname><given-names>S.E.</given-names></name>
+<name><surname>Davignon</surname><given-names>J.P.</given-names></name>
+</person-group><article-title>A Clinical Trial of Amygdalin (Laetrile) in the Treatment of Human Cancer</article-title><source>N. Engl. J. Med.</source><year>1982</year><volume>306</volume><fpage>201</fpage><lpage>206</lpage><pub-id pub-id-type="doi">10.1056/NEJM198201283060403</pub-id><pub-id pub-id-type="pmid">7033783</pub-id>
+</element-citation></ref><ref id="B139-cancers-16-01786"><label>139.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Crespo-Ortiz</surname><given-names>M.P.</given-names></name>
+<name><surname>Wei</surname><given-names>M.Q.</given-names></name>
+</person-group><article-title>Antitumor Activity of Artemisinin and Its Derivatives: From a Well-Known Antimalarial Agent to a Potential Anticancer Drug</article-title><source>J. Biomed. Biotechnol.</source><year>2012</year><volume>2012</volume><elocation-id>247597</elocation-id><pub-id pub-id-type="doi">10.1155/2012/247597</pub-id><pub-id pub-id-type="pmid">22174561</pub-id>
+</element-citation></ref><ref id="B140-cancers-16-01786"><label>140.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Atanasov</surname><given-names>A.G.</given-names></name>
+<name><surname>Zotchev</surname><given-names>S.B.</given-names></name>
+<name><surname>Dirsch</surname><given-names>V.M.</given-names></name>
+<name><surname>Supuran</surname><given-names>C.T.</given-names></name>
+</person-group><article-title>Natural Products in Drug Discovery: Advances and Opportunities</article-title><source>Nat. Rev. Drug Discov.</source><year>2021</year><volume>20</volume><fpage>200</fpage><lpage>216</lpage><pub-id pub-id-type="doi">10.1038/s41573-020-00114-z</pub-id><pub-id pub-id-type="pmid">33510482</pub-id>
+</element-citation></ref></ref-list></back><floats-group><fig position="float" id="cancers-16-01786-f001"><label>Figure 1</label><caption><p>Structures of two classic anion channel-modulating phytochemicals. Molecular structures of picrotoxin and bicuculline provided by NIH PubChem [<xref rid="B47-cancers-16-01786" ref-type="bibr">47</xref>,<xref rid="B48-cancers-16-01786" ref-type="bibr">48</xref>].</p></caption><graphic xlink:href="cancers-16-01786-g001" position="float"/></fig><fig position="float" id="cancers-16-01786-f003"><label>Figure 3</label><caption><p>Example of how modulation of an ion channel can impact cancer treatment and symptom management. Cannabidiol (CBD) binds to the TRPV receptor, eliciting an influx of calcium cations. This in turn leads to intracellular downstream effects, both in cancer cells and somatosensory cells. The mechanism by which TRPV activation inhibits cancer pathogenesis appears to vary by tumor subtype. OCT-4, Octamer-binding transcription factor 4; PU.1, Purine-rich binding transcription factor; ROS, reactive oxygen species; TIMP-1, Tissue inhibitor matrix metalloproteinase 1; dIPAG, dorsolateral periaqueductal gray.</p></caption><graphic xlink:href="cancers-16-01786-g003" position="float"/></fig></floats-group></article>

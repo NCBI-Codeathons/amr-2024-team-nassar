@@ -1,0 +1,1009 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="mbt214246" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Microb Biotechnol</journal-id><journal-id journal-id-type="iso-abbrev">Microb Biotechnol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1751-7915</journal-id><journal-id journal-id-type="publisher-id">MBT2</journal-id><journal-title-group><journal-title>Microbial Biotechnology</journal-title></journal-title-group><issn pub-type="epub">1751-7915</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">10128143</article-id><article-id pub-id-type="pmid">36998231</article-id><article-id pub-id-type="doi">10.1111/1751-7915.14246</article-id><article-id pub-id-type="publisher-id">MBT214246</article-id><article-id pub-id-type="other">MICROBIO-2022-555-RA.R1</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Regular Issue</subject></subj-group></article-categories><title-group><article-title>Bursts in biosynthetic gene cluster transcription are accompanied by surges of natural compound production in the myxobacterium <italic toggle="no">Sorangium</italic> sp.</article-title><alt-title alt-title-type="right-running-head">Time&#x02010;resolved transcriptome of <italic toggle="yes">Sorangium</italic>
+</alt-title><alt-title alt-title-type="left-running-head">Boldt et al.</alt-title></title-group><contrib-group><contrib id="mbt214246-cr-0001" contrib-type="author"><name><surname>Boldt</surname><given-names>Judith</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4598-634X</contrib-id><xref rid="mbt214246-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mbt214246-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="mbt214246-cr-0002" contrib-type="author"><name><surname>Luko&#x00161;evi&#x0010d;i&#x0016b;t&#x00117;</surname><given-names>Laima</given-names></name><xref rid="mbt214246-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="mbt214246-cr-0003" contrib-type="author"><name><surname>Fu</surname><given-names>Chengzhang</given-names></name><xref rid="mbt214246-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="mbt214246-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="mbt214246-cr-0004" contrib-type="author"><name><surname>Steglich</surname><given-names>Matthias</given-names></name><xref rid="mbt214246-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mbt214246-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="mbt214246-cr-0005" contrib-type="author"><name><surname>Bunk</surname><given-names>Boyke</given-names></name><xref rid="mbt214246-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="mbt214246-cr-0006" contrib-type="author"><name><surname>Junker</surname><given-names>Vera</given-names></name><xref rid="mbt214246-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="mbt214246-cr-0007" contrib-type="author"><name><surname>Gollasch</surname><given-names>Aileen</given-names></name><xref rid="mbt214246-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="mbt214246-cr-0008" contrib-type="author"><name><surname>Trunkwalter</surname><given-names>Birte</given-names></name><xref rid="mbt214246-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="mbt214246-cr-0009" contrib-type="author"><name><surname>Mohr</surname><given-names>Kathrin I.</given-names></name><xref rid="mbt214246-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="mbt214246-cr-0010" contrib-type="author"><name><surname>Beckstette</surname><given-names>Michael</given-names></name><xref rid="mbt214246-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="mbt214246-cr-0011" contrib-type="author"><name><surname>Wink</surname><given-names>Joachim</given-names></name><xref rid="mbt214246-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="mbt214246-cr-0012" contrib-type="author"><name><surname>Overmann</surname><given-names>J&#x000f6;rg</given-names></name><xref rid="mbt214246-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mbt214246-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="mbt214246-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="mbt214246-cr-0013" contrib-type="author"><name><surname>M&#x000fc;ller</surname><given-names>Rolf</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1042-5665</contrib-id><xref rid="mbt214246-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="mbt214246-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="mbt214246-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="mbt214246-cr-0014" contrib-type="author" corresp="yes"><name><surname>N&#x000fc;bel</surname><given-names>Ulrich</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3131-1656</contrib-id><xref rid="mbt214246-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mbt214246-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="mbt214246-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><address><email>uln14@dsmz.de</email></address></contrib></contrib-group><aff id="mbt214246-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>Leibniz&#x02010;Institute DSMZ &#x02013; German Collection of Microorganisms and Cell Cultures</institution>
+<city>Braunschweig</city>
+<country country="DE">Germany</country>
+</aff><aff id="mbt214246-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">German Center for Infection Research (DZIF)</named-content>
+<institution>Partner Site Braunschweig&#x02010;Hannover</institution>
+<city>Braunschweig</city>
+<country country="DE">Germany</country>
+</aff><aff id="mbt214246-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Helmholtz Institute for Pharmaceutical Research Saarland</named-content>
+<institution>Helmholtz Centre for Infection Research</institution>
+<city>Saarbr&#x000fc;cken</city>
+<country country="DE">Germany</country>
+</aff><aff id="mbt214246-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pharmacy</named-content>
+<institution>Saarland University</institution>
+<city>Saarbr&#x000fc;cken</city>
+<country country="DE">Germany</country>
+</aff><aff id="mbt214246-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Hannover Medical School</institution>
+<city>Hannover</city>
+<country country="DE">Germany</country>
+</aff><aff id="mbt214246-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<institution>Helmholtz Centre for Infection Research</institution>
+<city>Braunschweig</city>
+<country country="DE">Germany</country>
+</aff><aff id="mbt214246-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Bielefeld Institute for Bioinformatics Infrastructure (BIBI)</named-content>
+<institution>Bielefeld University</institution>
+<city>Bielefeld</city>
+<country country="DE">Germany</country>
+</aff><aff id="mbt214246-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Braunschweig Integrated Center of Systems Biology (BRICS)</named-content>
+<institution>Technical University</institution>
+<city>Braunschweig</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Ulrich N&#x000fc;bel, Leibniz&#x02010;Institute DSMZ &#x02013; German Collection of Microorganisms and Cell Cultures, Braunschweig, Germany.<break/>
+Email: <email>uln14@dsmz.de</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>3</month><year>2023</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2023</year></pub-date><volume>16</volume><issue seq="160">5</issue><issue-id pub-id-type="doi">10.1111/mbt2.v16.5</issue-id><issue-title>Thematic Issue: Microbial synthesis of metal nanoparticles and nanomaterials: Opportunities and obstacles</issue-title><fpage>1054</fpage><lpage>1068</lpage><history>
+<date date-type="rev-recd"><day>02</day><month>3</month><year>2023</year></date>
+<date date-type="received"><day>12</day><month>12</month><year>2022</year></date>
+<date date-type="accepted"><day>05</day><month>3</month><year>2023</year></date>
+</history><permissions><!--&#x000a9; 2023 John Wiley & Sons Ltd and Society for Applied Microbiology--><copyright-statement content-type="article-copyright">&#x000a9; 2023 The Authors. <italic toggle="yes">Microbial Biotechnology</italic> published by Applied Microbiology International and John Wiley &#x00026; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:MBT2-16-1054.pdf"/><abstract><title>Abstract</title><p>A better understanding of the genetic regulation of the biosynthesis of microbial compounds could accelerate the discovery of new biologically active molecules and facilitate their production. To this end, we have investigated the time course of genome&#x02010;wide transcription in the myxobacterium <italic toggle="no">Sorangium</italic> sp. So ce836 in relation to its production of natural compounds. Time&#x02010;resolved RNA sequencing revealed that core biosynthesis genes from 48 biosynthetic gene clusters (BGCs; 92% of all BGCs encoded in the genome) were actively transcribed at specific time points in a batch culture. The majority (80%) of polyketide synthase and non&#x02010;ribosomal peptide synthetase genes displayed distinct peaks of transcription during exponential bacterial growth. Strikingly, these bursts in BGC transcriptional activity were associated with surges in the net production rates of known natural compounds, indicating that their biosynthesis was critically regulated at the transcriptional level. In contrast, BGC read counts from single time points had limited predictive value about biosynthetic activity, since transcription levels varied &#x0003e;100&#x02010;fold among BGCs with detected natural products. Taken together, our time&#x02010;course data provide unique insights into the dynamics of natural compound biosynthesis and its regulation in a wild&#x02010;type myxobacterium, challenging the commonly cited notion of preferential BGC expression under nutrient&#x02010;limited conditions. The close association observed between BGC transcription and compound production warrants additional efforts to develop genetic engineering tools for boosting compound yields from myxobacterial producer strains.</p></abstract><abstract abstract-type="graphical"><p>We have investigated the time course of genome&#x02010;wide transcription in the myxobacterium <italic toggle="no">Sorangium</italic> sp. So ce836 in relation to its production of natural compounds.The majority (80%) of polyketide synthase and non&#x02010;ribosomal peptide synthetase genes displayed distinct peaks of transcription during exponential bacterial growth. Strikingly, these bursts in BGC transcriptional activity were associated with surges in the net production rates of known natural compounds, indicating that their biosynthesis was critically regulated at the transcriptional level, and challenging the commonly cited notion of preferential BGC expression under nutrient&#x02010;limited conditions.<boxed-text position="anchor" content-type="graphic" id="mbt214246-blkfxd-0001"><graphic xlink:href="MBT2-16-1054-g007.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>German Center for Infection Research (DZIF)
+</institution><institution-id institution-id-type="doi">10.13039/100009139</institution-id></institution-wrap></funding-source><award-id>TTU&#x02010;09.720</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="15"/><word-count count="10364"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.7 mode:remove_FC converted:25.04.2023</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="MBT214246-cit-2001">
+<string-name>
+<surname>Boldt</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Luko&#x00161;evi&#x0010d;i&#x0016b;t&#x00117;</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Steglich</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bunk</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Junker</surname>, <given-names>V.</given-names>
+</string-name> et al. (<year>2023</year>) <article-title>Bursts in biosynthetic gene cluster transcription are accompanied by surges of natural compound production in the myxobacterium <italic toggle="no">Sorangium</italic> sp.</article-title>. <source>Microbial Biotechnology</source>, <volume>16</volume>, <fpage>1054</fpage>&#x02013;<lpage>1068</lpage>. Available from: <pub-id pub-id-type="doi">10.1111/1751-7915.14246</pub-id>
+</mixed-citation>
+</p></notes></front><body id="mbt214246-body-0001"><sec id="mbt214246-sec-0001"><title>INTRODUCTION</title><p>Natural products are important sources of biologically active molecules for the discovery of novel drugs (Newman &#x00026; Cragg,&#x000a0;<xref rid="mbt214246-bib-0049" ref-type="bibr">2020</xref>). In particular, the majority (71%) of small&#x02010;molecule antibiotics approved for clinical use since the 1980s are derived from natural products (Newman &#x00026; Cragg,&#x000a0;<xref rid="mbt214246-bib-0049" ref-type="bibr">2020</xref>). Two&#x02010;thirds of all naturally derived antibiotic compounds originate from actinobacteria (Barka et al.,&#x000a0;<xref rid="mbt214246-bib-0007" ref-type="bibr">2016</xref>), and consequently, their physiology and molecular biology have been studied intensely for several decades (van der Heul et al.,&#x000a0;<xref rid="mbt214246-bib-0072" ref-type="bibr">2018</xref>). In recent years, tremendous bacterial genome data deposited in public databases revealed that many bacteria from other phyla also have great potential for the synthesis of natural products (Gavriilidou et al.,&#x000a0;<xref rid="mbt214246-bib-0018" ref-type="bibr">2022</xref>). One of these groups of organisms are myxobacteria, which produce diverse natural products with unique structural features and bioactivities (Herrmann et al.,&#x000a0;<xref rid="mbt214246-bib-0022" ref-type="bibr">2017</xref>). Among the myxobacteria, the most prolific source of biomedically useful metabolites is as yet the genus <italic toggle="yes">Sorangium</italic> (Gerth et al.,&#x000a0;<xref rid="mbt214246-bib-0019" ref-type="bibr">2003</xref>; Hoffmann et al.,&#x000a0;<xref rid="mbt214246-bib-0023" ref-type="bibr">2018</xref>), which comprises at least eight distinct species (Mohr et al.,&#x000a0;<xref rid="mbt214246-bib-0043" ref-type="bibr">2018</xref>). Natural products from <italic toggle="yes">Sorangium</italic> spp. include for example, the antitumor compound epothilone (Altmann et al.,&#x000a0;<xref rid="mbt214246-bib-0002" ref-type="bibr">2009</xref>), the antibacterial and anti&#x02010;biofilm compound carolacton (Jansen et al.,&#x000a0;<xref rid="mbt214246-bib-0027" ref-type="bibr">2010</xref>), and the antifungal compound icumazole (Barbier et al.,&#x000a0;<xref rid="mbt214246-bib-0006" ref-type="bibr">2012</xref>).</p><p>Even though natural compounds display enormous structural diversity, they originate from limited classes of biosynthetic pathways with common features, providing the basis for their classification into polyketides (PKs), non&#x02010;ribosomal peptides (NRPs), ribosomally synthesized and post&#x02010;translationally modified peptides (RiPPs), terpenoids and few others. The genes involved in a specific biosynthesis pathway are commonly arranged at adjacent positions on the bacterial producer's chromosome, in so&#x02010;called biosynthetic gene clusters (BGCs) (Fischbach &#x00026; Walsh,&#x000a0;<xref rid="mbt214246-bib-0015" ref-type="bibr">2006</xref>). The bioinformatic detection of BGCs in DNA sequence data with the software tool antiSMASH uses a rule&#x02010;based approach and relies on the identification of core biosynthetic genes, for example, those encoding PK synthases or NRP synthetases, based on their conserved modular structures (Blin et al.,&#x000a0;<xref rid="mbt214246-bib-0008" ref-type="bibr">2021</xref>). Accessory genes surrounding the core biosynthetic genes within a predicted BGC region are annotated as additional biosynthetic, regulatory, or transport&#x02010;related genes, respectively, relying on secondary metabolite clusters of orthologous groups of proteins (smCOGs) (Medema et al.,&#x000a0;<xref rid="mbt214246-bib-0042" ref-type="bibr">2011</xref>). Co&#x02010;localized genes that do not fall into any of these categories are classified as &#x02018;other genes&#x02019;.</p><p>Systematic analyses of previously described natural products suggested the existence of large natural reservoirs of structural novelty still awaiting discovery (Gregory et al.,&#x000a0;<xref rid="mbt214246-bib-0021" ref-type="bibr">2019</xref>; Pye et al.,&#x000a0;<xref rid="mbt214246-bib-0056" ref-type="bibr">2017</xref>). This insight has been corroborated by genomic analyses of microbial producer strains, which have repeatedly documented the genetic potential for compound biosynthesis to vastly exceed the diversity of natural products detected in laboratory cultures (Aigle et al.,&#x000a0;<xref rid="mbt214246-bib-0001" ref-type="bibr">2014</xref>; Baltz,&#x000a0;<xref rid="mbt214246-bib-0005" ref-type="bibr">2017</xref>; Jones et al.,&#x000a0;<xref rid="mbt214246-bib-0028" ref-type="bibr">2016</xref>). The majority of BGCs could not be matched to any detected product, and have thus frequently been interpreted as &#x02018;silent&#x02019;, that is not being expressed under standard laboratory conditions (Hoskisson &#x00026; Seipke,&#x000a0;<xref rid="mbt214246-bib-0024" ref-type="bibr">2020</xref>; Okada &#x00026; Seyedsayamdost,&#x000a0;<xref rid="mbt214246-bib-0051" ref-type="bibr">2017</xref>). Indeed, in actinobacteria the production of several PKs and NRPs has been demonstrated to require triggering by specific external cues (van der Heul et al.,&#x000a0;<xref rid="mbt214246-bib-0072" ref-type="bibr">2018</xref>). Notably, the depletion of phosphate (Mart&#x000ed;n,&#x000a0;<xref rid="mbt214246-bib-0040" ref-type="bibr">2004</xref>; Thomas et al.,&#x000a0;<xref rid="mbt214246-bib-0069" ref-type="bibr">2012</xref>), nitrogen (Voelker &#x00026; Altaba,&#x000a0;<xref rid="mbt214246-bib-0074" ref-type="bibr">2001</xref>), or carbon sources (S&#x000e1;nchez et al.,&#x000a0;<xref rid="mbt214246-bib-0059" ref-type="bibr">2010</xref>), among other stress factors, was identified to stimulate the biosynthesis of antibiotics and other &#x02018;secondary metabolites&#x02019; (van Wezel &#x00026; McDowall,&#x000a0;<xref rid="mbt214246-bib-0073" ref-type="bibr">2011</xref>; Wohlleben et al.,&#x000a0;<xref rid="mbt214246-bib-0077" ref-type="bibr">2017</xref>). In <italic toggle="yes">Streptomyces</italic> spp., the transcriptional activity of genes encoding enzymes for synthesizing natural compounds was mostly observed at later stages of batch cultivation, after nutrients had been depleted, whereas it was repressed during exponential bacterial growth (Nieselt et al.,&#x000a0;<xref rid="mbt214246-bib-0050" ref-type="bibr">2010</xref>; Zhu et al.,&#x000a0;<xref rid="mbt214246-bib-0082" ref-type="bibr">2019</xref>). It is not clear, however, to what extent a generalization of this observation from actinobacteria is justified for other microorganisms, since, for example, myxobacteria produce several natural compounds preferably during growth in nutrient&#x02010;rich media (Gerth et al.,&#x000a0;<xref rid="mbt214246-bib-0020" ref-type="bibr">1982</xref>; Kegler et al.,&#x000a0;<xref rid="mbt214246-bib-0031" ref-type="bibr">2006</xref>; Kunze et al.,&#x000a0;<xref rid="mbt214246-bib-0033" ref-type="bibr">1984</xref>; Rachid et al.,&#x000a0;<xref rid="mbt214246-bib-0057" ref-type="bibr">2007</xref>).</p><p>Investigations into the cellular regulation of BGC activities could facilitate control over the production of novel bioactive compounds, either by targeted molecular manipulation (Mungan et al.,&#x000a0;<xref rid="mbt214246-bib-0046" ref-type="bibr">2022</xref>; van der Heul et al.,&#x000a0;<xref rid="mbt214246-bib-0072" ref-type="bibr">2018</xref>) or by providing suitable extracellular cues (Okada &#x00026; Seyedsayamdost,&#x000a0;<xref rid="mbt214246-bib-0051" ref-type="bibr">2017</xref>). Transcriptional activities of BGCs and their regulation have been studied in <italic toggle="yes">Streptomyces</italic> (Hwang et al.,&#x000a0;<xref rid="mbt214246-bib-0026" ref-type="bibr">2019</xref>; Nieselt et al.,&#x000a0;<xref rid="mbt214246-bib-0050" ref-type="bibr">2010</xref>; Zhu et al.,&#x000a0;<xref rid="mbt214246-bib-0082" ref-type="bibr">2019</xref>) and related actinobacteria (Tocchetti et al.,&#x000a0;<xref rid="mbt214246-bib-0070" ref-type="bibr">2015</xref>), and in a few other model organisms (Neubacher et al.,&#x000a0;<xref rid="mbt214246-bib-0048" ref-type="bibr">2020</xref>; Wu et al.,&#x000a0;<xref rid="mbt214246-bib-0078" ref-type="bibr">2020</xref>). Insights into genetic regulatory circuits of natural compound synthesis in myxobacteria are more limited at present. Most previous transcriptomic studies on myxobacteria were driven by an interest in the genetic regulation of their multicellular developmental programme (McLoon et al.,&#x000a0;<xref rid="mbt214246-bib-0041" ref-type="bibr">2021</xref>; M&#x000fc;ller et al.,&#x000a0;<xref rid="mbt214246-bib-0045" ref-type="bibr">2010</xref>; Mu&#x000f1;oz&#x02010;Dorado et al.,&#x000a0;<xref rid="mbt214246-bib-0047" ref-type="bibr">2019</xref>; Sharma et al.,&#x000a0;<xref rid="mbt214246-bib-0065" ref-type="bibr">2021</xref>) or changes during co&#x02010;operative predation on other bacteria (Livingstone et al.,&#x000a0;<xref rid="mbt214246-bib-0037" ref-type="bibr">2018</xref>), focusing on the model species <italic toggle="yes">Myxococcus xanthus</italic>. In agreement with the triggering events for antibiotic production in actinobacteria, the transcription of genes related to the biosynthesis of some polyketides and terpenoids in agar plate cultures of <italic toggle="yes">M.&#x000a0;xanthus</italic> was shown to be enhanced after UV irradiation, presumably as part of a cellular SOS response (Sheng et al.,&#x000a0;<xref rid="mbt214246-bib-0066" ref-type="bibr">2021</xref>). In contrast, an early study on <italic toggle="yes">Sorangium</italic> sp. So ce56 that applied quantitative reverse&#x02010;transcription PCR demonstrated that three core biosynthesis genes in the BGC for the macrocyclic compound chivosazol were maximally transcribed during exponential growth of the bacterium, coinciding with the production of chivosazoles (Kegler et al.,&#x000a0;<xref rid="mbt214246-bib-0031" ref-type="bibr">2006</xref>). In follow&#x02010;up studies, Rachid et al.&#x000a0;(<xref rid="mbt214246-bib-0057" ref-type="bibr">2007</xref>, <xref rid="mbt214246-bib-0058" ref-type="bibr">2009</xref>) showed that transcription of the chivosazol BGC was under the control of the pleiotropic, positive regulator ChiR and the ammonia&#x02010;responsive, negative regulator NtcA. Furthermore, these authors succeeded in increasing chivosazol production by overexpressing <italic toggle="yes">chiR</italic> or inactivating the <italic toggle="yes">ntcA</italic> gene in the natural producer strain. Enhanced transcription of the BGC encoding epothilone biosynthesis in <italic toggle="yes">Sorangium</italic> sp. was achieved by co&#x02010;cultivation with other <italic toggle="yes">Sorangium</italic> spp. strains (Li et al.,&#x000a0;<xref rid="mbt214246-bib-0036" ref-type="bibr">2013</xref>) and by targeted molecular manipulation of the BGC promoter (Ye et al.,&#x000a0;<xref rid="mbt214246-bib-0080" ref-type="bibr">2019</xref>). In both these reports, enhanced transcription of BGC genes was directly associated with increased epothilone production yields (Li et al.,&#x000a0;<xref rid="mbt214246-bib-0036" ref-type="bibr">2013</xref>; Ye et al.,&#x000a0;<xref rid="mbt214246-bib-0080" ref-type="bibr">2019</xref>). Activation of silent biosynthetic gene clusters in myxobacteria was achieved by manipulation of the endogenous promotor sequences resulting in the identification of completely novel natural products (Panter et al.,&#x000a0;<xref rid="mbt214246-bib-0053" ref-type="bibr">2018</xref>). These examples demonstrate that a more thorough understanding of BGC expression and its genetic regulation will improve our abilities to control natural compound biosynthesis, to induce novel BGCs, or increase compound production yields.</p></sec><sec id="mbt214246-sec-0002"><title>EXPERIMENTAL PROCEDURES</title><sec id="mbt214246-sec-0003"><title>Liquid cultures of So ce836</title><p>Pre&#x02010;cultures of <italic toggle="yes">Sorangium</italic> sp. So ce836 were grown in CYH&#x02010;medium (1.5&#x000a0;g/L casitone, 1.5&#x000a0;g/L yeast extract, 1&#x000a0;g/L soy flour, 1&#x000a0;g/L glucose, 4&#x000a0;g/L starch, 1&#x000a0;g/L CaCl<sub>2</sub>&#x000b7;H<sub>2</sub>O, 0.5&#x000a0;g/L MgSO<sub>4</sub>&#x000b7;7H<sub>2</sub>O, 11.9&#x000a0;g/L HEPES (50&#x02009;mM), 4&#x000a0;mg/L Fe&#x02010;EDTA, pH&#x000a0;7.4) for 4&#x02009;days at 28&#x000b0;C with shaking at 160&#x02009;rpm. Subsequently, 90&#x02009;mL H&#x02010;medium (2&#x000a0;g/L soy flour, 2&#x000a0;g/L glucose, 8&#x000a0;g/L starch, 2&#x000a0;g/L yeast extract, 1&#x000a0;g/L CaCl<sub>2</sub>&#x000b7;H<sub>2</sub>O, 1&#x000a0;g/L MgSO<sub>4</sub>&#x000b7;7H<sub>2</sub>O, 11.9&#x000a0;g/L HEPES (50&#x02009;mM), 8&#x000a0;mg/L Fe&#x02010;EDTA, pH&#x000a0;7.4) (Hoffmann et al.,&#x000a0;<xref rid="mbt214246-bib-0023" ref-type="bibr">2018</xref>) were inoculated with 10&#x000a0;mL of pre&#x02010;culture, with five replicates for each growth period (0, 4, 7, 11, 14, and 21&#x02009;days). Culture flasks were incubated at 28&#x000b0;C with shaking until the corresponding growth time was reached. The cultures were then homogenized with a MICCRA MiniBatch D&#x02010;9 homogenizer (full power, 30&#x02013;40&#x02009;s), equipped with a MICCRA PICO DS&#x02010;8&#x02010;P dispersing tool (MICCRA GmbH).</p></sec><sec id="mbt214246-sec-0004"><title>Cell counting</title><p>Hundred microlitres of homogenized culture were mixed with 900&#x02009;&#x003bc;L of 4% formaldehyde (Sigma&#x02010;Aldrich) and stored at 4&#x000b0;C. Fifty microlitres of the formaldehyde&#x02010;fixed cells were added to 1&#x000a0;mL of PBS (Carl Roth) and 450&#x02009;&#x003bc;L of methanol and incubated for 15&#x02009;min in an ultrasonic bath at 35&#x000b0;C. Five hundred microlitres of this solution were added to 10&#x000a0;mL of sterile filtered PBS, stained with 2&#x000a0;&#x003bc;L SYBR Green (Lonza), incubated for 10&#x000a0;min at room temperature, and filtered on a black polycarbonate filter (Merck Millipore). Twenty&#x02010;five microlitres of 0.25% DABCO&#x02010;glycerol&#x02010;solution (Sigma&#x02010;Aldrich) were added, the filter was covered with covering glass, and the cells counted under a fluorescent microscope (Zeiss, 1000&#x000d7;, GFP&#x02010;filter). For each sample (six time points with five biological replicates each), cells were counted in 10 microscopic fields (technical replicates).</p></sec><sec id="mbt214246-sec-0005"><title>
+<styled-content style="fixed-case" toggle="no">RNA</styled-content> extraction</title><p>Immediately after removal of 100&#x02009;&#x003bc;L of homogenized culture for cell counting, the cells in the remainder of the culture were pelleted by centrifugation for 5&#x000a0;min at 11,000&#x02009;rpm. The supernatant was retained for metabolite extraction (see below). Four to five inoculation loops of cells were taken from the pellet, added to 2&#x000a0;mL RNA<italic toggle="yes">later</italic> (Ambion) solution, and stored at 4&#x000b0;C. The remaining pellet was remixed with the supernatant for metabolite extraction (see below). RNA was extracted with the RNeasy Mini kit (Qiagen). After removal of residual DNA with DNase <italic toggle="yes">Turbo</italic> (Ambion), RNA was precipitated with three volumes of 100% ethanol at &#x02212;20&#x000b0;C, redissolved in RNase&#x02010;free water and quantified by using the Qubit RNA HS Assay kit and a Qubit 3.0 fluorometer (Thermo Fisher Scientific). The quality of extracted RNA was analysed by electrophoresis on a <italic toggle="yes">Bioanalyzer 2100</italic> instrument equipped with a <italic toggle="yes">6000 Pico Chip</italic> (Agilent); samples used for further analysis had RNA integrity numbers &#x02265;6.9 (median&#x000a0;=&#x000a0;8.9), indicating their high RNA quality (Schroeder et al.,&#x000a0;<xref rid="mbt214246-bib-0062" ref-type="bibr">2006</xref>). Ribosomal RNA was depleted by applying the <italic toggle="yes">Ribo&#x02010;off</italic> kit (Absource) and the quality and quantity of resulting RNA was assessed by another electrophoresis run on a <italic toggle="yes">Bioanalyzer 2100</italic> instrument (Agilent) and photometrically on a Nanodrop 2000 (Thermo Fisher Scientific).</p></sec><sec id="mbt214246-sec-0006"><title>Metabolite extraction</title><p>XAD 16 (Amberlite) was washed with H<sub>2</sub>O, acetone, and methanol to remove polymers and was then stored in H<sub>2</sub>O. For each culture, a gauze bag with 2% (v/v) of XAD 16 was made and added to the supernatant and the rest of the cell pellet. After incubation at 4&#x000b0;C overnight, the gauze bag was removed and rinsed with deionized water. The cells were pelleted by centrifugation of 5&#x000a0;min at 16,600 x <italic toggle="yes">g</italic> and the supernatant removed. Cell pellet and the XAD bag were incubated together for 1&#x000a0;h in 100&#x02009;mL acetone. Cells and XAD were removed by filtration through paper, the acetone solution collected, and subsequently vaporized with a rotary evaporator (Heidolph Laborota 4003 control, heat sink at 15&#x000b0;C, water bath at 40&#x000b0;C). The remaining residue was dissolved in 1&#x000a0;mL methanol, the solution was centrifuged for 10&#x000a0;min at 16,600 x <italic toggle="yes">g</italic>, and the supernatant was used for LC/MS analyses.</p></sec><sec id="mbt214246-sec-0007"><title>
+<styled-content style="fixed-case" toggle="no">LC</styled-content>/<styled-content style="fixed-case" toggle="no">MS</styled-content> analysis</title><p>For HPLC/MS analyses, 50&#x02009;&#x003bc;L of methanol supernatant (see above) was mixed with 50&#x02009;&#x003bc;L of pure methanol. The HPLC measurements were performed using an Agilent 1260 series with DAD detector (Agilent Technologies) and a XBridge BEH C18, 130&#x02009;&#x000c5;, 3.5&#x000a0;&#x003bc;m, 2.1&#x02009;mm&#x02009;&#x000d7;&#x02009;100&#x02009;mm column (Waters). For compound separation we used a linear gradient from (A) H<sub>2</sub>O&#x02009;+&#x000a0;5% acetonitrile&#x02009;+&#x000a0;5&#x02009;mM ammonium acetate&#x02009;+&#x000a0;0.004% acetic acid to (B) acetonitrile&#x02009;+&#x000a0;5% H<sub>2</sub>O&#x02009;+&#x000a0;5&#x02009;mM ammonium acetate 0.004% acetic acid at a flow rate of 0.3&#x000a0;mL/min at 40&#x000b0;C. The gradient was initiated with 90% A and 10% B, increasing to 100% B within 30&#x02009;min, followed by 100% B for 10&#x000a0;min, and a reequilibration to 90% A and 10% B. UV spectra were created with a range of 200&#x02013;600&#x02009;nm. Mass spectra were obtained with a maXis UHR&#x02010;TOF&#x02010;MS (Bruker Daltonics) on an ACQUITY UPLC BEH C18, 130&#x02009;&#x000c5;, 1.7&#x000a0;&#x003bc;m, 2.1&#x02009;mm&#x02009;&#x000d7;&#x02009;50&#x02009;mm column (Waters) with an ACQUITY UPLC BEH C18 VanGuard, 130&#x02009;&#x000c5;, 1.7&#x000a0;&#x003bc;m, 2.1&#x02009;mm&#x02009;&#x000d7;&#x02009;5&#x02009;mm pre&#x02010;column (Waters). The gradient was set from (A) 0.1% formic acid water solution to (B) 0.1% formic acid acetonitrile solution at a flow rate of 0.6&#x000a0;mL/min. The gradient was established with 95% A and 5% B for 0.5&#x000a0;min, increasing solvent B to 100% within 19.5&#x000a0;min, and followed by 100% B for 10&#x000a0;min at a temperature of 40&#x000b0;C.</p><p>We identified compounds by comparison of molecular weight, retention time, and UV spectrum (where available) to known natural compounds from an in&#x02010;house database. In order to estimate the relative concentration of product per mL sample, we used either the area under the UV peak (where available) or the mass peak at the corresponding retention time and adjusted it by the dilution factor from sample preparation.</p><p>For calculating the net cellular production rate for icumazole A and epothilone A, we first used monotone piecewise cubic interpolation (scipy.interpolate.pchip) on the median concentrations of product per mL (arbitrary units/mL) over time. The derivative at each time point (i.e. the slope of the interpolation curve) indicated the net production rate per day. Through division by the concentration of bacterial cells, we obtained the net cellular production rate.</p></sec><sec id="mbt214246-sec-0008"><title>Library preparation and <styled-content style="fixed-case" toggle="no">RNA</styled-content> sequencing</title><p>Libraries for RNA sequencing were prepared by applying the TruSeq Stranded mRNA kit (Illumina) according to the manufacturer's protocol, and sequenced on a NextSeq 550 instrument (Illumina) by using mid&#x02010;output flow cells with 300&#x02009;cycles.</p></sec><sec id="mbt214246-sec-0009"><title>Genome sequencing</title><p>A complete genome sequence was generated combining SMRT long&#x02010;read sequencing (Pacific Biosciences) and Illumina short&#x02010;read sequencing (Illumina) as described in detail previously (Steglich et al.,&#x000a0;<xref rid="mbt214246-bib-0067" ref-type="bibr">2018</xref>).</p></sec><sec id="mbt214246-sec-0010"><title>Genome assembly, annotation, and <styled-content style="fixed-case" toggle="no">BGC</styled-content> prediction</title><p>From PacBio <italic toggle="yes">RSII</italic> long&#x02010;read sequencing the genome of So ce836 (GenBank accession: CP102233) was assembled using the Hierarchical Genome Assembly Process 3 Protocol (HGAP3; Chin et al.,&#x000a0;<xref rid="mbt214246-bib-0012" ref-type="bibr">2013</xref>) included in SMRTPortal 2.3.0. Illumina short&#x02010;read sequences were preprocessed with fastp (version 0.20.1; Chen et al.,&#x000a0;<xref rid="mbt214246-bib-0011" ref-type="bibr">2018</xref>). Error&#x02010;correction was performed by a mapping of Illumina short reads onto the finished genome using Burrows&#x02010;Wheeler Alignment bwa 0.6.2 in paired&#x02010;end (sample) mode and default settings (Li &#x00026; Durbin,&#x000a0;<xref rid="mbt214246-bib-0035" ref-type="bibr">2009</xref>) with subsequent variant and consensus calling using VarScan 2.3.6 (Koboldt et al.,&#x000a0;<xref rid="mbt214246-bib-0032" ref-type="bibr">2012</xref>). The final genome annotation was achieved with Prokka 1.14.6 (Seemann,&#x000a0;<xref rid="mbt214246-bib-0064" ref-type="bibr">2014</xref>). For the prediction of BGC regions, we used antiSMASH version 6.1.1 (Blin et al.,&#x000a0;<xref rid="mbt214246-bib-0008" ref-type="bibr">2021</xref>).</p></sec><sec id="mbt214246-sec-0011"><title>Differential gene expression analysis</title><p>The raw reads were preprocessed with fastp (version 0.20.1; Chen et al.,&#x000a0;<xref rid="mbt214246-bib-0011" ref-type="bibr">2018</xref>) and mapped to the reference genome (GenBank accession: CP102233) using BWA&#x02010;MEM (version 0.7.12; Li,&#x000a0;<xref rid="mbt214246-bib-0034" ref-type="bibr">2013</xref>) and SAMtools (version 0.1.19; Danecek et al.,&#x000a0;<xref rid="mbt214246-bib-0013" ref-type="bibr">2021</xref>). The number of reads mapping to a gene were counted with HTSeq&#x02010;count with mode union and stranded reverse option (version 0.13.5; Anders et al.,&#x000a0;<xref rid="mbt214246-bib-0004" ref-type="bibr">2015</xref>). The analysis of genes differentially expressed over the time&#x02010;course experiment was based on DESeq2 (version 1.32.0; Love et al.,&#x000a0;<xref rid="mbt214246-bib-0038" ref-type="bibr">2014</xref>). For further analyses, we used the normalized read counts generated by DESeq2. The independent filtering method of DESeq2 filtered out 177 (2%) of the 10,611 genes due to the mean of normalized read counts &#x0003c;0.024 (threshold determined for our dataset). For the remaining 10,484 genes, we used DESeq2's likelihood ratio test to identify the significantly differentially expressed genes.</p><p>In order to compare transcription patterns of genes with different absolute transcription levels, we used the <italic toggle="yes">z</italic>&#x02010;score normalization (in the manuscript referred to as deviation from mean transcription) on the mean over the biological replicates of each gene. In short, the <italic toggle="yes">z</italic>&#x02010;score indicates the standard deviation from the mean transcription.</p><p>We used the <italic toggle="yes">k</italic>&#x02010;means clustering from python (scipy.cluster.vq.kmeans2 with <italic toggle="yes">k</italic>&#x000a0;=&#x000a0;5, minit&#x000a0;=&#x000a0;&#x02018;++&#x02019;, seed&#x000a0;=&#x000a0;0), to group the differentially expressed genes by their deviation from mean transcription (<italic toggle="yes">z</italic>&#x02010;scores) over the growth times.</p><p>To calculate the significance (<italic toggle="yes">p</italic>&#x02010;values below 0.05) of BGC core genes among the transcription groups, we performed an over&#x02010;/under&#x02010;representation analysis based on the hypergeometric distribution. This distribution estimates the probability of a certain number of successes (e.g. 260 differentially expressed NRP&#x02010;/PK&#x02010;related genes) among a certain number of draws (e.g. 307 NRP&#x02010;/PK&#x02010;related genes) from a population (e.g. 10,611 genes) with a fixed number of successful objects (e.g. 8311 differentially expressed genes). In order to account for multiple testing (for the five transcription groups), we used the Benjamini/Hochberg method as implemented by the python method statsmodels.stats.multitest.fdrcorrection (<italic toggle="yes">&#x003b1;</italic>&#x000a0;=&#x000a0;0.05) to obtain adjusted <italic toggle="yes">p</italic>&#x02010;values (Table&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S2</xref>).</p></sec><sec id="mbt214246-sec-0012"><title>Functional analysis</title><p>The Clusters of Orthologous Groups of proteins (COGs) database (Galperin et al.,&#x000a0;<xref rid="mbt214246-bib-0017" ref-type="bibr">2015</xref>) provides a classification of proteins by their function. On its highest level, it groups proteins into 26 different categories (Table&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S4</xref>). We obtained the COG categories for all predicted genes in So ce836 with the eggNOG&#x02010;mapper (version 2.1.9; Cantalapiedra et al.,&#x000a0;<xref rid="mbt214246-bib-0010" ref-type="bibr">2021</xref>; Huerta&#x02010;Cepas et al.,&#x000a0;<xref rid="mbt214246-bib-0025" ref-type="bibr">2019</xref>). We performed an over&#x02010;/under&#x02010;representation analysis to calculate the significance of the distribution of COG categories over transcription groups. The over&#x02010;/under&#x02010;representation analysis is based on the hypergeometric distribution with multiple testing correction for the COG categories (Benjamini/Hochberg method from python tool statsmodels.stats.multitest.fdrcorrection; <italic toggle="yes">&#x003b1;</italic>&#x000a0;=&#x000a0;0.05; excluding COGs with less than 30 or more than 500 annotated genes).</p></sec></sec><sec sec-type="results" id="mbt214246-sec-0013"><title>RESULTS</title><sec id="mbt214246-sec-0014"><title>Genome sequence revealed biosynthetic potential of <italic toggle="no">Sorangium</italic> sp. So ce836</title><p>The So ce836 genome (GenBank accession: CP102233) has a size of 14,555,308&#x02009;bp and encodes 10,611 genes, including 10,570 protein&#x02010;coding sequences. Analysis with the bioinformatic tool antiSMASH (version 6.1.1) (Blin et al.,&#x000a0;<xref rid="mbt214246-bib-0008" ref-type="bibr">2021</xref>) predicted a total of 45 BGC regions. Our detailed analysis of the BGC regions showed that four of these likely constituted several BGCs (see below), resulting in a total of 52 BGCs. Among these BGCs, only six showed close similarity (i.e. above 60% amino acid similarity) to BGCs with known natural products reported in the MIBiG database (Table&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S1</xref>) (Kautsar et al.,&#x000a0;<xref rid="mbt214246-bib-0030" ref-type="bibr">2019</xref>). Thirty BGCs encoded the syntheses of NRPs, PKs, or hybrids of these (Table&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S1</xref>). Predicted BGCs encompassed a total of 414 genes, comprising 4% of all protein&#x02010;coding sequences in So ce836, and 307 of these (74%; 81 core biosynthetic, 131 additional biosynthetic, 42 transport&#x02010;related, 53 regulatory) were associated with the production of NRPs and PKs. The antiSMASH output labelled different types of genes with different colours, which we also utilize throughout this manuscript (&#x02018;core biosynthetic&#x02019; in dark red, &#x02018;additional biosynthetic&#x02019; in coral, &#x02018;transport&#x02010;related&#x02019; in blue, and &#x02018;regulatory&#x02019; in green).</p></sec><sec id="mbt214246-sec-0015"><title>
+<styled-content style="fixed-case" toggle="no">RNA</styled-content> sequencing identified temporal transcription patterns in a batch culture</title><p>In a batch liquid culture incubated at 28&#x000b0;C with vigorous shaking, So ce836 grew with a minimum doubling time of 2.3&#x02009;days (Figure&#x000a0;<xref rid="mbt214246-fig-0001" ref-type="fig">1</xref>). The exponential growth phase lasted from day 1 to 8, followed by a stationary phase and a death phase (Figure&#x000a0;<xref rid="mbt214246-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="FIGURE" id="mbt214246-fig-0001"><label>FIGURE 1</label><caption><p>Growth curve of So ce836. The blue curve shows the growth of So ce836 over six time points (logistic curve <mml:math id="jats-math-1" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:mi>y</mml:mi><mml:mo>=</mml:mo><mml:mi>L</mml:mi><mml:mo>/</mml:mo><mml:mfenced close=")" open="("><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msup><mml:mi mathvariant="normal">e</mml:mi><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mi>k</mml:mi><mml:mfenced close=")" open="("><mml:mrow><mml:mi>x</mml:mi><mml:mo>&#x02212;</mml:mo><mml:mi>x</mml:mi><mml:mn>0</mml:mn></mml:mrow></mml:mfenced></mml:mrow></mml:msup></mml:mrow></mml:mfenced><mml:mo>+</mml:mo><mml:mi>b</mml:mi></mml:mrow></mml:mrow></mml:math>, with <mml:math id="jats-math-2" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:mi>L</mml:mi><mml:mo>=</mml:mo><mml:mn>5.434</mml:mn><mml:mo>,</mml:mo><mml:mi>k</mml:mi><mml:mo>=</mml:mo><mml:mn>0.347</mml:mn><mml:mo>,</mml:mo><mml:mi>x</mml:mi><mml:mn>0</mml:mn><mml:mo>=</mml:mo><mml:mn>4.225</mml:mn><mml:mo>,</mml:mo><mml:mi>b</mml:mi><mml:mo>=</mml:mo><mml:mn>26.083</mml:mn></mml:mrow></mml:mrow></mml:math>). The exponential phase (days 1&#x02013;8) is indicated by the pink area and black dashed line. Each data point represents mean cell counts per mL on a logarithmic scale (five biological replicates per growth time with 10 technical replicates each). Error bars indicate the relative standard error of the mean.</p></caption><graphic xlink:href="MBT2-16-1054-g006" position="anchor" id="jats-graphic-3"/></fig><p>We analysed the time course of genome&#x02010;wide transcription in the So ce836 cultures by sequencing RNA from samples collected at five different time points: days 4, 7, 11, 14, and 21. These time points were selected on the basis of preliminary experiments to represent the phases of a full growth cycle. The transcription of 8311 genes (78% of all genes) varied significantly over the time&#x02010;course experiment, as indicated by a likelihood ratio test. These are referred to as &#x02018;differentially expressed&#x02019; genes in the following text. In contrast, the transcription levels of 20% of all genes did not vary significantly between time points, and an additional 2% of genes were excluded from further analyses due to low read counts. To compare time courses of transcription between differentially expressed genes, we analysed deviations from the genes' mean transcription levels at five time points. We found that the timing of transcription varied widely, and <italic toggle="yes">k</italic>&#x02010;means clustering of these temporal patterns into five transcription groups clearly associated with maximal transcription at the different growth times (Figure&#x000a0;<xref rid="mbt214246-fig-0002" ref-type="fig">2</xref>) (initially, a hierarchical clustering approach had justified the grouping into five groups; not shown). Genes in transcription group 1 (2435 genes, 29% of differentially expressed genes) showed a tendency for maximal transcription on day 4, that is during early exponential growth (Figure&#x000a0;<xref rid="mbt214246-fig-0002" ref-type="fig">2</xref>). A majority of genes in transcription group 2 (1670 genes, 20%) were maximally transcribed on day 7 of the experiment, that is also during exponential growth (Figure&#x000a0;<xref rid="mbt214246-fig-0002" ref-type="fig">2</xref>). In contrast, transcription group 3 (1876 genes, 23%) contained genes that were strongly transcribed at the beginning of the stationary phase (day 11), and the transcription of genes in groups 4 (1100 genes, 13%) and 5 (1230 genes, 15%) peaked on days 14 and 21, respectively (Figure&#x000a0;<xref rid="mbt214246-fig-0002" ref-type="fig">2</xref>). Hence, in summary, transcription groups 1 and 2 mainly contained genes (totalling 39% of all genes) that reached their maximum transcription during exponential growth, whereas most genes in the other three transcription groups (3, 4, and 5; 40% of all genes) were maximally transcribed in later growth phases (Figure&#x000a0;<xref rid="mbt214246-fig-0002" ref-type="fig">2</xref>).</p><fig position="float" fig-type="FIGURE" id="mbt214246-fig-0002"><label>FIGURE 2</label><caption><p>Temporal transcription patterns of 8311 differentially expressed genes in the So ce836 genome. The deviation from mean transcription (<italic toggle="yes">z</italic>&#x02010;scores) is plotted over growth time. A deviation value of 0 indicates that a gene is transcribed at its mean level calculated over all time points. A value of 2 indicates that transcription levels deviate from the mean by two standard deviations. The genes were grouped using <italic toggle="yes">k</italic>&#x02010;means clustering with a group size of five. The mean transcription of individual genes over time&#x02010;point replicates is plotted in grey and median values for the whole transcription group are plotted in blue with error bars indicating first and third quartiles. The pink&#x02010;shaded area indicates the exponential growth phase.</p></caption><graphic xlink:href="MBT2-16-1054-g004" position="anchor" id="jats-graphic-5"/></fig></sec><sec id="mbt214246-sec-0016"><title>Analysis of temporal transcription supported the identification of individual <styled-content style="fixed-case" toggle="no">BGCs</styled-content>
+</title><p>Core biosynthetic genes within specific BGC regions commonly followed similar temporal transcription patterns (Figure&#x000a0;<xref rid="mbt214246-fig-0003" ref-type="fig">3</xref>, Figure&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S1</xref>), likely due to their organization in single, co&#x02010;transcribed operons (Fischbach &#x00026; Walsh,&#x000a0;<xref rid="mbt214246-bib-0015" ref-type="bibr">2006</xref>). However, a few BGC regions predicted by antiSMASH exhibited deviating transcription of their core genes over time, including BGC regions 7, 20, 25, and 41 (Figure&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S2</xref>). Closer inspection showed that each of these regions likely constituted several BGCs (Figure&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S3</xref>), since their BGC core genes were spatially separated or located on different DNA strands. Consequently, we split BGC region 7 into two subregions (7_1 and 7_2), corresponding to antiSMASH&#x02010;predicted core genes involved in the biosynthesis of resorcinol and a phenazine compound, respectively (Table&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S1</xref>). Similarly, BGC region 20 was split into three subregions (20_1 &#x02010; 20_3) and region 41 was split into two (41_1, 41_2). BGC subregion 41_1 was predicted to encode the biosynthesis of a redox&#x02010;cofactor and the other subregions are likely involved in the production of NRPs or NRP/PK&#x02010;hybrids (Table&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S1</xref>). We assigned genes other than core biosynthetic genes within overlapping regions to both BGC subregions (Figure&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S3</xref>).</p><fig position="float" fig-type="FIGURE" id="mbt214246-fig-0003"><label>FIGURE 3</label><caption><p>Temporal transcription of core biosynthetic genes of NRP&#x02010; and PK&#x02010;related BGCs. The deviation from mean transcription (<italic toggle="yes">z</italic>&#x02010;score) is plotted over growth time for each BGC associated with the production of NRPs, PKs, or their hybrids. Numbers in brackets indicate the number of differentially expressed core genes and the total number of core genes in the BGC, respectively. Each curve represents the time&#x02010;course of transcription of one core biosynthetic gene. Data points indicate the means over replicates at a time point and error bars represent the adjusted standard deviations. Differentially transcribed genes are represented in dark red, genes without a significant difference in transcription over the time&#x02010;course experiment in grey. The last panel shows the temporal transcription of 44 genes encoding ribosomal proteins for comparison. Pink shading indicates the exponential growth phase.</p></caption><graphic xlink:href="MBT2-16-1054-g005" position="anchor" id="jats-graphic-7"/></fig><p>Temporal transcription patterns did not always coincide with BGC boundaries, however. Region 25 included four spatially separated groups of BGC core genes (Figure&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S4</xref>), three of which encoded thioesterase at the C&#x02010;terminal ends of their last core gene, suggesting independent biosynthetic pathways within this region (Schwarzer &#x00026; Marahiel,&#x000a0;<xref rid="mbt214246-bib-0063" ref-type="bibr">2001</xref>). Subregion 25_3 represents the previously described epothilone BGC with a 100% protein similarity to MIBiG entries (BGC0000989&#x02013;BGC0000991; Julien et al.,&#x000a0;<xref rid="mbt214246-bib-0029" ref-type="bibr">2000</xref>; Moln&#x000e1;r et al.,&#x000a0;<xref rid="mbt214246-bib-0044" ref-type="bibr">2000</xref>; Tang et al.,&#x000a0;<xref rid="mbt214246-bib-0068" ref-type="bibr">2000</xref>; Zhu et al.,&#x000a0;<xref rid="mbt214246-bib-0081" ref-type="bibr">2013</xref>). Moreover, we indeed detected epothilone A production by So ce836 via LC/MS analysis (Figure&#x000a0;<xref rid="mbt214246-fig-0004" ref-type="fig">4B</xref>). Subregion 25_4 shares 62% similarity and an identical gene order with the glidopeptin BGC (MIBiG entry BGC0001608; Wang et al.,&#x000a0;<xref rid="mbt214246-bib-0075" ref-type="bibr">2018</xref>). While the separation of region 25 into several BGCs is therefore justified, temporal transcription patterns were largely identical for three of the four subregions (Figure&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S2</xref>).</p><fig position="float" fig-type="FIGURE" id="mbt214246-fig-0004"><label>FIGURE 4</label><caption><p>Net production rates of icumazole A (A) and epothilone A (B), and transcription of core genes in the underlying BGCs. The images above the plots show the chemical structures of icumazole A (left, PubChem CID 101557675; <ext-link xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/Icumazole-A" ext-link-type="uri">https://pubchem.ncbi.nlm.nih.gov/compound/Icumazole&#x02010;A</ext-link>) and epothilone A (PubChem CID 448799; <ext-link xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/Epothilone-A" ext-link-type="uri">https://pubchem.ncbi.nlm.nih.gov/compound/Epothilone&#x02010;A</ext-link>). The upper panels (blue) represent the relative concentration of natural products as obtained from LC/MS analyses (HPLC based UV light at 304&#x02009;nm, 15.27&#x02009;min retention time for icumazole A; LC/MS mass peaks at 494.2571&#x02009;m/z, 9.05&#x02009;min retention time for epothilone A). Boxplots over five replicates per time point are shown. The curves were generated by monotone piecewise cubic interpolation over median concentrations. The second panels (green) show the net compound production rate per myxobacterial cell, based on the slope of the compound concentration per mL (blue curve) at a certain time point normalized by the mean cell count per mL at that time point. Error bars indicate propagated errors. The lower panels (red) represent the deviation from mean transcription (<italic toggle="yes">z</italic>&#x02010;scores) of core biosynthetic genes in the icumazole and epothilone BGCs, respectively (see also regions 19 and 25_3 in Figure&#x000a0;<xref rid="mbt214246-fig-0003" ref-type="fig">3</xref>). The zero&#x02010;line marks the mean transcription of a gene over all time points. Pink shading indicates the exponential growth phase.</p></caption><graphic xlink:href="MBT2-16-1054-g001" position="anchor" id="jats-graphic-9"/></fig></sec><sec id="mbt214246-sec-0017"><title>The transcription of most core genes for <styled-content style="fixed-case" toggle="no">NRP</styled-content> and <styled-content style="fixed-case" toggle="no">PK</styled-content> biosyntheses peaked during exponential growth</title><p>Among 307 genes from BGCs for NRP and PK production, 260 (85%) were differentially expressed over our time&#x02010;course experiment. This is a significant over&#x02010;representation compared to the number of differentially expressed genes among all genes (<italic toggle="yes">p</italic>&#x02010;value&#x000a0;=&#x000a0;2.82e&#x02010;3 based on the hypergeometric distribution). A particularly large proportion of core biosynthetic genes (93%, 75 out of 81 core genes) were differentially expressed (<italic toggle="yes">p</italic>&#x02010;value&#x000a0;=&#x000a0;4.88e&#x02010;4).</p><p>The majority of differentially expressed core genes from BGCs for PK and NRP syntheses were maximally transcribed on day 7 (60%) or day 4 (20%) (Figures&#x000a0;<xref rid="mbt214246-fig-0003" ref-type="fig">3</xref> and <xref rid="mbt214246-fig-0005" ref-type="fig">5</xref>). Accordingly, 17 (23%) of the 75 differentially expressed core genes belonged to transcription group 1, and 44 (59%) to transcription group 2. This means a statistically significant over&#x02010;representation of core genes among the two groups, which both displayed a strong tendency for maximum transcription in the exponential growth phase (Figure&#x000a0;<xref rid="mbt214246-fig-0002" ref-type="fig">2</xref>, Table&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S2</xref>). Transport&#x02010;related genes and additional biosynthetic genes within BGCs often showed similar temporal trends of transcription as the core genes (Figures&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S5</xref> and <xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S6</xref>). In contrast, transcription of regulatory genes from these BGCs exhibited deviating temporal patterns (Figure&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S7</xref>). Of note, however, the smCOG&#x02010;based prediction of these accessory genes is less reliable than the rule&#x02010;based identification of core biosynthetic genes (Medema et al.,&#x000a0;<xref rid="mbt214246-bib-0042" ref-type="bibr">2011</xref>). Therefore, we focused on the latter for our further analyses.</p><fig position="float" fig-type="FIGURE" id="mbt214246-fig-0005"><label>FIGURE 5</label><caption><p>Temporal distribution of maximal gene transcription of BGC core genes associated with NRP&#x02010; and PK&#x02010;production. Out of 81 core genes from NRP&#x02010; and PK&#x02010;related BGCs, 75 were differentially expressed in our experiment. This figure shows for each time point how many of the differentially expressed core genes were maximally transcribed at that time. Pink shading indicates the exponential growth phase.</p></caption><graphic xlink:href="MBT2-16-1054-g002" position="anchor" id="jats-graphic-11"/></fig><p>For comparison, we plotted the temporal transcription of forty&#x02010;four genes encoding ribosomal proteins (Figure&#x000a0;<xref rid="mbt214246-fig-0003" ref-type="fig">3</xref>, Table&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S3</xref>). The transcription activity of most ribosomal protein genes also peaked during the exponential growth phase, but their temporal patterns nevertheless differed markedly from BGC core genes by showing additional transcription maxima on days 14 and 21 (Figure&#x000a0;<xref rid="mbt214246-fig-0003" ref-type="fig">3</xref>, Figure&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S8</xref>).</p></sec><sec id="mbt214246-sec-0018"><title>Other <styled-content style="fixed-case" toggle="no">BGC</styled-content> classes displayed more variable transcriptional patterns</title><p>The So ce836 genome encodes 13 BGCs for potential RiPPs, six for terpenes, and one each for phosphonate, resorcinol, and phenazine compounds (Table&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S1</xref>). The core genes of these BGC classes showed more diverse temporal transcription patterns compared to NRP&#x02010; and PK&#x02010;related BGCs (Figures&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S1</xref>, <xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S9</xref> and <xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S10</xref>). From the 21 core genes of RiPP&#x02010;related BGCs, 15 were significantly differentially expressed and eight of these (53%) reached their maximal transcription level in the exponential phase (days 4 and 7) (Figure&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S1</xref>). The BGCs associated with the production of terpenes contain six core genes (Figure&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S9</xref>), only two of which were maximally transcribed in the exponential phase, whereas two reached their maximal transcription level in the death phase (at day 21). The resorcinol&#x02010; and phenazine&#x02010;related BGCs are localized close to each other on the genome, but yet their temporal expression differed strongly, indicating different mechanisms of transcriptional regulation (Figure&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S10</xref>). So ce836 was also predicted to produce a phosphonate, encoded by BGC region 38. The corresponding core gene was most strongly expressed in the early exponential phase (day 4) and in the death phase (day 21).</p></sec><sec id="mbt214246-sec-0019"><title>
+<styled-content style="fixed-case" toggle="no">BGC</styled-content> core gene expression was correlated with metabolite net production rates</title><p>Strain So ce836 produced large amounts of the natural compound icumazole A. The concentration of icumazole A, as measured by HPLC based on its absorption of UV light (304&#x02009;nm, 15.27&#x02009;min retention time), was maximal on day 11 and decreased thereafter, suggesting the compound was catabolized by the bacterium or otherwise degraded (Figure&#x000a0;<xref rid="mbt214246-fig-0004" ref-type="fig">4A</xref>, blue curve). We determined the net compound production rate (arbitrary units) at each time point by assessing the slope of the concentration curve and then related it to the concentration of bacterial cells in the culture at the same time point (as shown in Figure&#x000a0;<xref rid="mbt214246-fig-0001" ref-type="fig">1</xref>) to estimate the net compound production rate per cell. As a result, we found that the net icumazole A production rate per myxobacterial cell peaked on day 7, that is during exponential growth (Figure&#x000a0;<xref rid="mbt214246-fig-0004" ref-type="fig">4A</xref>, green curve). Strikingly, this net cellular icumazole A production rate correlated strongly with the transcriptional pattern of the 10 core genes from the icumazole BGC (<italic toggle="yes">r</italic>&#x000a0;=&#x000a0;0.88; Xie et al.,&#x000a0;<xref rid="mbt214246-bib-0079" ref-type="bibr">2022</xref>), since the maximum deviation from mean transcription was also reached on day 7 (Figure&#x000a0;<xref rid="mbt214246-fig-0004" ref-type="fig">4A</xref>, red curves).</p><p>At the same time, we also detected epothilones in the metabolome of So ce836. Epothilone A was only weakly detectable by UV absorption (250&#x02009;nm, 9.05&#x02009;min retention time) at most time points, and since quantification of epothilone A by UV absorption and mass spectroscopy gave similar results for days 4&#x02013;14 (Figure&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S11</xref>), we relied on LC/MS mass peaks (494.2571&#x02009;m/z, 9.05&#x02009;min retention time) to estimate the relative concentration of epothilone A. Similar to icumazole A, the concentration of epothilone A in the growth medium was highest in the stationary phase (Figure&#x000a0;<xref rid="mbt214246-fig-0004" ref-type="fig">4B</xref>, blue curve). Again, the net cellular production rate of epothilone A was maximal on day 7, and it correlated with the time course of transcription of epothilone BGC core genes (<italic toggle="yes">r</italic>&#x000a0;=&#x000a0;0.78) (Figure&#x000a0;<xref rid="mbt214246-fig-0004" ref-type="fig">4B</xref>, green and red curves).</p><p>Taken together, we observed that bursts of BGC core gene transcription were accompanied by distinct surges in net production rates per cell for the two known compounds icumazole A and epothilone A. Even though temporal dynamics of normalized BGC core gene transcription and compound production rates were highly similar for these compounds (Figure&#x000a0;<xref rid="mbt214246-fig-0004" ref-type="fig">4</xref>), absolute transcription levels of the core genes (i.e. sequencing read counts per kilobase) differed more than 100&#x02010;fold between associated BGCs (Table&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S1</xref>, Figure&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S8</xref>). Notably at maximum transcription on day 7, the median number of normalized sequencing read counts mapped to the icumazole BGC core genes was 428 per kilobase (1732&#x02013;12,799 reads per gene), and for the epothilone BGC was only 3 per kilobase (13&#x02013;55 reads per gene) (Figure&#x000a0;<xref rid="mbt214246-fig-0006" ref-type="fig">6</xref>, Figure&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S8</xref>). And on day 4, when almost no icumazole A net production was detectable, the median number of sequencing reads mapped to icumazole BGC core genes was at its minimum of 15 per kilobase (55&#x02013;399 reads per gene), but yet this number was larger than the maximal transcription level of the epothilone BGC core genes (Figure&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S8</xref>). The transcript levels of other BGCs were intermediate between those of epothilone and icumazole BGCs, except for four BGCs with slightly lower read counts than the epothilone BGC and five BGCs that had even higher read counts per kilobase than the icumazole BGC, although we were unable to detect their (as yet unknown) natural products (Figure&#x000a0;<xref rid="mbt214246-fig-0006" ref-type="fig">6</xref>, Table&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S1</xref>).</p><fig position="float" fig-type="FIGURE" id="mbt214246-fig-0006"><label>FIGURE 6</label><caption><p>Distribution of BGC read counts on their day of maximal transcription. For each BGC core gene the mean read counts per kilobase after DESeq2 normalization was calculated over all replicates on the day of maximal BGC transcription. Plotted here is the median over all core genes in a BGC. Each type of BGC is represented in a different colour. The &#x02018;other BGC types&#x02019; include resorcinol&#x02010;, phenazine&#x02010;, and phosphonate&#x02010;producing BGCs. Please note that the first two bins and the last one do not have the same range as the other bins. With maximally three reads per kilobase, the epothilone BGC is located in the left most bin. In contrast, the icumazole BGC had maximally 428 reads per kilobase.</p></caption><graphic xlink:href="MBT2-16-1054-g003" position="anchor" id="jats-graphic-13"/></fig><p>While the net cellular production rates of both icumazole A and epothilone A were maximal during exponential growth, the highest relative concentrations of the compounds were reached in later growth phases (Figure&#x000a0;<xref rid="mbt214246-fig-0004" ref-type="fig">4</xref>). This might be due to the accumulation of compounds over time and the large, metabolite&#x02010;producing biomass available in the batch culture towards the end of the experiment.</p></sec><sec id="mbt214246-sec-0020"><title>
+<styled-content style="fixed-case" toggle="no">COG</styled-content> categorization relates transcription groups to cellular functions</title><p>To assess the temporal transcription in a genome&#x02010;wide context with respect to cellular function, we classified the proteins encoded in the So ce836 genome into Clusters of Orthologous Groups (COG; Table&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S4</xref>) (Galperin et al.,&#x000a0;<xref rid="mbt214246-bib-0017" ref-type="bibr">2015</xref>). Out of 8311 differentially expressed genes, we could associate 6081 (73%) to COG categories using the eggNOG&#x02010;mapper (Cantalapiedra et al.,&#x000a0;<xref rid="mbt214246-bib-0010" ref-type="bibr">2021</xref>). We then performed an over&#x02010;/under&#x02010;representation analysis of COG categories within each of the five transcription groups (Table&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S5</xref>). Among genes in transcription group 1 (maximally transcribed on day 4, i.e. during early exponential growth), COG categories <italic toggle="yes">E</italic> (&#x02018;Amino acid transport and metabolism&#x02019;), <italic toggle="yes">M</italic> (&#x02018;Cell wall/membrane/envelope biogenesis&#x02019;) and <italic toggle="yes">F</italic> (&#x02018;Nucleotide transport and metabolism&#x02019;) were significantly over&#x02010;represented compared to their distribution among all annotated and differentially expressed genes in So ce836 (for adjusted <italic toggle="yes">p</italic>&#x02010;values based on the hypergeometric distribution with subsequent multiple testing correction, see Table&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S5</xref>). In transcription group 2 (maximally transcribed on day 7), categories <italic toggle="yes">P</italic> (&#x02018;Inorganic ion transport and metabolism&#x02019;), <italic toggle="yes">J</italic> (&#x02018;Translation, ribosomal structure and biogenesis&#x02019;), <italic toggle="yes">H</italic> (&#x02018;Coenzyme transport and metabolism&#x02019;), and <italic toggle="yes">Q</italic> (&#x02018;Secondary metabolites biosynthesis, transport and catabolism&#x02019;) were significantly over&#x02010;represented. Hence, the distribution of genes classified to COG category <italic toggle="yes">Q</italic> (&#x02018;Secondary metabolites biosynthesis, transport and catabolism&#x02019;) confirmed our previous notion of BGC transcription mostly during exponential bacterial growth. In contrast, in transcription group 3 (maximally transcribed on day 11, i.e. during the early stationary phase), COG categories <italic toggle="yes">J</italic>, <italic toggle="yes">P</italic>, and <italic toggle="yes">E</italic> were significantly under&#x02010;represented, whereas category <italic toggle="yes">O</italic> (&#x02018;Posttranslational modification, protein turnover, chaperones&#x02019;) was over&#x02010;represented (although the latter was not statistically significant after correction for multiple testing; Table&#x000a0;<xref rid="mbt214246-supitem-0001" ref-type="supplementary-material">S5</xref>). In transcription group 5 (maximally transcribed on day 21), category <italic toggle="yes">G</italic> (&#x02018;Carbohydrate transport and metabolism&#x02019;) was over&#x02010;represented.</p></sec></sec><sec sec-type="discussion" id="mbt214246-sec-0021"><title>DISCUSSION</title><p>Our data show that the transcription of BGCs in <italic toggle="yes">Sorangium</italic> sp. is determined by bacterial growth. In a batch culture, the transcription level of most BGC core genes (PKSs and NRPSs in particular) was maximal during exponential growth, when the cellular metabolism was simultaneously engaged in the synthesis of cell wall components, proteins and nucleic acids, and in trans&#x02010;membrane transport activities (as indicated by the functional analysis of genome&#x02010;wide transcription patterns). As soon as bacterial growth ceased and the culture reached the stationary phase, BGC transcription quickly levelled off. Strikingly, transcriptional bursting of BGC core genes appeared to directly determine the net synthesis rates of the NRP/PK&#x02010;hybrids epothilone A and icumazole A. Such a correlation between natural compound synthesis and BGC transcription explains the success of previous attempts to boost compound production by increasing the level of transcription (Peng et al.,&#x000a0;<xref rid="mbt214246-bib-0054" ref-type="bibr">2018</xref>; Rachid et al.,&#x000a0;<xref rid="mbt214246-bib-0057" ref-type="bibr">2007</xref>, <xref rid="mbt214246-bib-0058" ref-type="bibr">2009</xref>; Ye et al.,&#x000a0;<xref rid="mbt214246-bib-0080" ref-type="bibr">2019</xref>). This result also suggests that biosynthesis proteins may get degraded (Tr&#x000f6;tschel et al.,&#x000a0;<xref rid="mbt214246-bib-0071" ref-type="bibr">2013</xref>) or their activities downregulated during later growth stages, which coincides with the observation of increased transcriptional activities of genes involved with protein modification and turnover in the early stationary phase. The close association between BGC transcription and compound production observed here for a wild&#x02010;type <italic toggle="yes">Sorangium</italic> strain warrants efforts towards developing improved genetic engineering tools for this organism, since the molecular manipulation of transcriptional regulation may be a viable strategy for improving compound yields.</p><p>Of note, absolute transcription levels varied widely between BGCs, including those for epothilone and icumazole. It is currently unknown which level of BGC transcription may be required for natural compound production. Our results indicate that the transcription level may vary over several orders of magnitude among active BGCs, even within a single genome, suggesting it may be difficult to find any universal threshold for transcription above which the production of detectable amounts of natural compounds could reliably be predicted (Mungan et al.,&#x000a0;<xref rid="mbt214246-bib-0046" ref-type="bibr">2022</xref>). Our data also show that BGC read counts at single time points may provide limited information about compound synthesis. Rather, time course data were required to resolve the transcriptional bursts that were accompanied by increased rates of compound production in <italic toggle="yes">Sorangium</italic> sp.</p><p>One limitation of our analysis is that it relied on measurements of net production rates of compounds from the bulk of the bacterial culture, whereas we could not directly assess the underlying synthesis rates within bacterial cells. Decay of icumazole A clearly dominated over its synthesis during the late stages of the batch culture, but it is unknown whether the compound was equally unstable while the bacteria were growing or whether it was actively degraded. Hence, the measured net production rates likely resulted from both synthesis and concomitant degradation, adding complexity to understanding their genetic regulation. Arguably however, the net production rate is the most relevant measure for biotechnology.</p><p>Core biosynthesis genes from 48 BGCs (out of 52 BGCs in total) in <italic toggle="yes">Sorangium</italic> sp. So ce836 were differentially expressed over our time&#x02010;course experiment, that is their transcription levels varied significantly over time. Moreover, this was true for all core genes of the majority of BGCs, and their temporal transcription patterns were largely synchronous within BGCs. These results indicate that the majority of BGCs in the genome were transcriptionally active, even though we had applied only a single cultivation condition. This observation contradicts the assumption of widespread transcriptional silence of BGCs in laboratory cultures (Okada &#x00026; Seyedsayamdost,&#x000a0;<xref rid="mbt214246-bib-0051" ref-type="bibr">2017</xref>). Similarly, an earlier investigation applying microarray and proteome analyses had demonstrated that the majority of BGCs in an <italic toggle="yes">M.&#x000a0;xanthus</italic> culture were expressed (Bode et al.,&#x000a0;<xref rid="mbt214246-bib-0009" ref-type="bibr">2009</xref>; Schley et al.,&#x000a0;<xref rid="mbt214246-bib-0060" ref-type="bibr">2006</xref>), and hence, this may be a common pattern in myxobacteria. Note, however, that our present study provides rich insights into genome&#x02010;wide temporal patterns of gene activity that were not resolved previously on the basis of microarray hybridization or quantitative PCR (Bode et al.,&#x000a0;<xref rid="mbt214246-bib-0009" ref-type="bibr">2009</xref>). Generally, the temporal dynamics of BGC transcription, translation, and natural compound assembly in bacteria are poorly understood (Machado et al.,&#x000a0;<xref rid="mbt214246-bib-0039" ref-type="bibr">2017</xref>). Following the transcription of BGC genes, the synthesis of natural compounds may be regulated at the translational or posttranslational levels, or limited by the supply of building blocks, cofactors, or energy (Wenzel &#x00026; M&#x000fc;ller,&#x000a0;<xref rid="mbt214246-bib-0076" ref-type="bibr">2009</xref>).</p><p>It must also be taken into consideration that an observed discrepancy between the genomic endowment with biosynthetic genes and the yield of natural compounds may be caused by limitations of the techniques for metabolite extraction and analysis (Amos et al.,&#x000a0;<xref rid="mbt214246-bib-0003" ref-type="bibr">2017</xref>; Panter et al.,&#x000a0;<xref rid="mbt214246-bib-0052" ref-type="bibr">2021</xref>). Due to the inherent complexity of metabolome data, it is generally challenging to discover unknown natural compounds and associate them with their BGCs (Panter et al.,&#x000a0;<xref rid="mbt214246-bib-0052" ref-type="bibr">2021</xref>). However, if the net cellular production of natural compounds is correlated with BGC transcription also in other cases similar to epothilone and icumazole, we suggest that temporal transcriptome patterns may provide useful criteria for filtering of time&#x02010;resolved metabolome data.</p><p>Our observation of high natural compound production rates in growing myxobacterial cells challenges the frequently cited notion of preferred BGC expression during late bacterial growth phases, which is based on observations on <italic toggle="yes">Streptomyces</italic> spp. and other actinobacteria (van der Heul et al.,&#x000a0;<xref rid="mbt214246-bib-0072" ref-type="bibr">2018</xref>; van Wezel &#x00026; McDowall,&#x000a0;<xref rid="mbt214246-bib-0073" ref-type="bibr">2011</xref>; Wohlleben et al.,&#x000a0;<xref rid="mbt214246-bib-0077" ref-type="bibr">2017</xref>). It suggests that adjusted batch runtimes, product retention approaches, or even continuous fermentation might offer the potential for maximization of biotechnological product yields from myxobacteria (Frykman et al.,&#x000a0;<xref rid="mbt214246-bib-0016" ref-type="bibr">2005</xref>).</p><p>Diverse temporal transcription patterns of BGCs in So ce836 suggested their independent regulation, probably reflecting different roles of associated compounds. Myxobacterial formation of fruiting bodies usually occurs in older cultures and is thought to be triggered by starvation (Mu&#x000f1;oz&#x02010;Dorado et al.,&#x000a0;<xref rid="mbt214246-bib-0047" ref-type="bibr">2019</xref>). Therefore, preferred BGC transcription during maximum bacterial growth seemed to restrict any direct roles of associated natural compounds in fruiting body formation, even though our experiments with agitated liquid cultures were not ideal to investigate this process. Generally, the physiological and ecological roles of microbial natural compounds are very little understood (Phillips et al.,&#x000a0;<xref rid="mbt214246-bib-0055" ref-type="bibr">2022</xref>; Schmidt et al.,&#x000a0;<xref rid="mbt214246-bib-0061" ref-type="bibr">2019</xref>), and time&#x02010;resolved investigations of their biosynthesis and its regulation may provide valuable insights into associations of these molecules with the producer's cellular processes or interactions with other organisms.</p><p>To our knowledge, our study for the first time relates the temporal dynamics of BGC expression to patterns of genome&#x02010;wide transcription in any myxobacterium. A more detailed understanding of the diversity of BGC expression and regulation will facilitate the discovery of novel natural compounds, the induction of their synthesis, and the optimization of their large&#x02010;scale production.</p></sec><sec id="mbt214246-sec-0027"><title>AUTHOR CONTRIBUTIONS</title><p>
+<bold>Judith Boldt:</bold> Conceptualization (equal); data curation (lead); formal analysis (lead); investigation (lead); visualization (lead); writing &#x02013; original draft (lead); writing &#x02013; review and editing (supporting). <bold>Laima Luko&#x00161;evi&#x0010d;i&#x0016b;t&#x00117;:</bold> Formal analysis (equal); writing &#x02013; review and editing (supporting). <bold>Chengzhang Fu:</bold> Resources (equal); writing &#x02013; review and editing (supporting). <bold>Matthias Steglich:</bold> Formal analysis (equal); writing &#x02013; review and editing (supporting). <bold>Boyke Bunk:</bold> Formal analysis (equal); writing &#x02013; review and editing (supporting). <bold>Vera Junker:</bold> Formal analysis (equal); writing &#x02013; review and editing (supporting). <bold>Aileen Gollasch:</bold> Formal analysis (equal); methodology (equal); writing &#x02013; review and editing (supporting). <bold>Birte Trunkwalter:</bold> Formal analysis (equal); methodology (equal); writing &#x02013; review and editing (supporting). <bold>Kathrin I. Mohr:</bold> Conceptualization (supporting); writing &#x02013; review and editing (supporting). <bold>Michael Beckstette:</bold> Methodology (equal); writing &#x02013; review and editing (supporting). <bold>Joachim Wink:</bold> Conceptualization (equal); methodology (equal); writing &#x02013; review and editing (supporting). <bold>J&#x000f6;rg Overmann:</bold> Funding acquisition (equal); writing &#x02013; review and editing (supporting). <bold>Rolf M&#x000fc;ller:</bold> Conceptualization (equal); funding acquisition (equal); resources (equal); writing &#x02013; review and editing (supporting). <bold>Ulrich N&#x000fc;bel:</bold> Conceptualization (equal); funding acquisition (equal); investigation (equal); supervision (lead); writing &#x02013; original draft (supporting); writing &#x02013; review and editing (lead).</p></sec><sec id="mbt214246-sec-0025"><title>FUNDING INFORMATION</title><p>This work was partially funded by the German Center for Infection Research (DZIF) grant no: (TTU&#x02010;09.720).</p></sec><sec sec-type="COI-statement" id="mbt214246-sec-0026"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare that they do not have any competing interests.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="mbt214246-supitem-0001" position="float" content-type="local-data"><caption><p>
+Appendix S1
+</p></caption><media xlink:href="MBT2-16-1054-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="mbt214246-sec-0024"><title>ACKNOWLEDGEMENTS</title><p>The authors thank Cathrin Spr&#x000f6;er for genome sequencing and Nicole Heyer and Simone Severitt for excellent technical assistance. Open Access funding enabled and organized by Projekt DEAL.</p></ack><sec sec-type="data-availability" id="mbt214246-sec-0023"><title>DATA AVAILABILITY STATEMENT</title><p>The RNA sequencing data discussed in this publication have been deposited in NCBI's Gene Expression Omnibus (Edgar,&#x000a0;<xref rid="mbt214246-bib-0014" ref-type="bibr">2002</xref>) and are accessible through GEO Series accession number GSE217497 (<ext-link xlink:href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE217497" ext-link-type="uri" specific-use="software is-supplemented-by">https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE217497</ext-link>). The genome sequence of So ce836 is available from GenBank under accession number CP102233.</p></sec><ref-list content-type="cited-references" id="mbt214246-bibl-0001"><title>REFERENCES</title><ref id="mbt214246-bib-0001"><mixed-citation publication-type="journal" id="mbt214246-cit-0001">
+<string-name>
+<surname>Aigle</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Lautru</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Spiteller</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Dickschat</surname>, <given-names>J.S.</given-names>
+</string-name>, <string-name>
+<surname>Challis</surname>, <given-names>G.L.</given-names>
+</string-name>, <string-name>
+<surname>Leblond</surname>, <given-names>P.</given-names>
+</string-name> et al. (<year>2014</year>) <article-title>Genome mining of <italic toggle="yes">Streptomyces ambofaciens</italic>
+</article-title>. <source>Journal of Industrial Microbiology &#x00026; Biotechnology</source>, <volume>41</volume>, <fpage>251</fpage>&#x02013;<lpage>263</lpage>.<pub-id pub-id-type="pmid">24258629</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0002"><mixed-citation publication-type="book" id="mbt214246-cit-0002">
+<string-name>
+<surname>Altmann</surname>, <given-names>K.&#x02010;H.</given-names>
+</string-name>, <string-name>
+<surname>H&#x000f6;fle</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Mulzer</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Prantz</surname>, <given-names>K.</given-names>
+</string-name> (<year>2009</year>) <source>The epothilones: an outstanding family of anti&#x02010;tumor agents</source>. <publisher-loc>Vienna</publisher-loc>: <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="mbt214246-bib-0003"><mixed-citation publication-type="journal" id="mbt214246-cit-0003">
+<string-name>
+<surname>Amos</surname>, <given-names>G.C.A.</given-names>
+</string-name>, <string-name>
+<surname>Awakawa</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Tuttle</surname>, <given-names>R.N.</given-names>
+</string-name>, <string-name>
+<surname>Letzel</surname>, <given-names>A.&#x02010;C.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Kudo</surname>, <given-names>Y.</given-names>
+</string-name> et al. (<year>2017</year>) <article-title>Comparative transcriptomics as a guide to natural product discovery and biosynthetic gene cluster functionality</article-title>. <source>Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>114</volume>, <fpage>E11121</fpage>&#x02013;<lpage>E11130</lpage>.<pub-id pub-id-type="pmid">29229817</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0004"><mixed-citation publication-type="journal" id="mbt214246-cit-0004">
+<string-name>
+<surname>Anders</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Pyl</surname>, <given-names>P.T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Huber</surname>, <given-names>W.</given-names>
+</string-name> (<year>2015</year>) <article-title>HTSeq&#x02013;a python framework to work with high&#x02010;throughput sequencing data</article-title>. <source>Bioinformatics</source>, <volume>31</volume>, <fpage>166</fpage>&#x02013;<lpage>169</lpage>.<pub-id pub-id-type="pmid">25260700</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0005"><mixed-citation publication-type="journal" id="mbt214246-cit-0005">
+<string-name>
+<surname>Baltz</surname>, <given-names>R.H.</given-names>
+</string-name> (<year>2017</year>) <article-title>Gifted microbes for genome mining and natural product discovery</article-title>. <source>Journal of Industrial Microbiology &#x00026; Biotechnology</source>, <volume>44</volume>, <fpage>573</fpage>&#x02013;<lpage>588</lpage>.<pub-id pub-id-type="pmid">27520548</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0006"><mixed-citation publication-type="journal" id="mbt214246-cit-0006">
+<string-name>
+<surname>Barbier</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jansen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Irschik</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Benson</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gerth</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>B&#x000f6;hlendorf</surname>, <given-names>B.</given-names>
+</string-name> et al. (<year>2012</year>) <article-title>Isolation and total synthesis of icumazoles and noricumazoles&#x02010;antifungal antibiotics and cation&#x02010;channel blockers from <italic toggle="yes">Sorangium cellulosum</italic>
+</article-title>. <source>Angewandte Chemie, International Edition</source>, <volume>51</volume>, <fpage>1256</fpage>&#x02013;<lpage>1260</lpage>.<pub-id pub-id-type="pmid">22213143</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0007"><mixed-citation publication-type="journal" id="mbt214246-cit-0007">
+<string-name>
+<surname>Barka</surname>, <given-names>E.A.</given-names>
+</string-name>, <string-name>
+<surname>Vatsa</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Sanchez</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Gaveau&#x02010;Vaillant</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Jacquard</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Klenk</surname>, <given-names>H.&#x02010;P.</given-names>
+</string-name> et al. (<year>2016</year>) <article-title>Taxonomy, physiology, and natural products of actinobacteria</article-title>. <source>Microbiology and Molecular Biology Reviews</source>, <volume>80</volume>, <fpage>1</fpage>&#x02013;<lpage>43</lpage>.<pub-id pub-id-type="pmid">26609051</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0008"><mixed-citation publication-type="journal" id="mbt214246-cit-0008">
+<string-name>
+<surname>Blin</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kloosterman</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Charlop&#x02010;Powers</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>van Wezel</surname>, <given-names>G.P.</given-names>
+</string-name>, <string-name>
+<surname>Medema</surname>, <given-names>M.H.</given-names>
+</string-name> et al. (<year>2021</year>) <article-title>antiSMASH 6.0: improving cluster detection and comparison capabilities</article-title>. <source>Nucleic Acids Research</source>, <volume>49</volume>, <fpage>W29</fpage>&#x02013;<lpage>W35</lpage>.<pub-id pub-id-type="pmid">33978755</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0009"><mixed-citation publication-type="journal" id="mbt214246-cit-0009">
+<string-name>
+<surname>Bode</surname>, <given-names>H.B.</given-names>
+</string-name>, <string-name>
+<surname>Ring</surname>, <given-names>M.W.</given-names>
+</string-name>, <string-name>
+<surname>Schw&#x000e4;r</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Altmeyer</surname>, <given-names>M.O.</given-names>
+</string-name>, <string-name>
+<surname>Kegler</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Jose</surname>, <given-names>I.R.</given-names>
+</string-name> et al. (<year>2009</year>) <article-title>Identification of additional players in the alternative biosynthesis pathway to isovaleryl&#x02010;CoA in the myxobacterium <italic toggle="yes">Myxococcus xanthus</italic>
+</article-title>. <source>ChemBioChem</source>, <volume>10</volume>, <fpage>128</fpage>&#x02013;<lpage>140</lpage>.<pub-id pub-id-type="pmid">18846531</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0010"><mixed-citation publication-type="journal" id="mbt214246-cit-0010">
+<string-name>
+<surname>Cantalapiedra</surname>, <given-names>C.P.</given-names>
+</string-name>, <string-name>
+<surname>Hern&#x000e1;ndez&#x02010;Plaza</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Letunic</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Bork</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Huerta&#x02010;Cepas</surname>, <given-names>J.</given-names>
+</string-name> (<year>2021</year>) <article-title>eggNOG&#x02010;mapper v2: functional annotation, orthology assignments, and domain prediction at the metagenomic scale</article-title>. <source>Molecular Biology and Evolution</source>, <volume>38</volume>, <fpage>5825</fpage>&#x02013;<lpage>5829</lpage>.<pub-id pub-id-type="pmid">34597405</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0011"><mixed-citation publication-type="journal" id="mbt214246-cit-0011">
+<string-name>
+<surname>Chen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gu</surname>, <given-names>J.</given-names>
+</string-name> (<year>2018</year>) <article-title>fastp: an ultra&#x02010;fast all&#x02010;in&#x02010;one FASTQ preprocessor</article-title>. <source>Bioinformatics</source>, <volume>34</volume>, <fpage>i884</fpage>&#x02013;<lpage>i890</lpage>.<pub-id pub-id-type="pmid">30423086</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0012"><mixed-citation publication-type="journal" id="mbt214246-cit-0012">
+<string-name>
+<surname>Chin</surname>, <given-names>C.&#x02010;S.</given-names>
+</string-name>, <string-name>
+<surname>Alexander</surname>, <given-names>D.H.</given-names>
+</string-name>, <string-name>
+<surname>Marks</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Klammer</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Drake</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Heiner</surname>, <given-names>C.</given-names>
+</string-name> et al. (<year>2013</year>) <article-title>Nonhybrid, finished microbial genome assemblies from long&#x02010;read SMRT sequencing data</article-title>. <source>Nature Methods</source>, <volume>10</volume>, <fpage>563</fpage>&#x02013;<lpage>569</lpage>.<pub-id pub-id-type="pmid">23644548</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0013"><mixed-citation publication-type="journal" id="mbt214246-cit-0013">
+<string-name>
+<surname>Danecek</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Bonfield</surname>, <given-names>J.K.</given-names>
+</string-name>, <string-name>
+<surname>Liddle</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Marshall</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ohan</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Pollard</surname>, <given-names>M.O.</given-names>
+</string-name> et al. (<year>2021</year>) <article-title>Twelve years of SAMtools and BCFtools</article-title>. <source>GigaScience</source>, <volume>10</volume>, <elocation-id>giab008</elocation-id>.<pub-id pub-id-type="pmid">33590861</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0014"><mixed-citation publication-type="journal" id="mbt214246-cit-0014">
+<string-name>
+<surname>Edgar</surname>, <given-names>R.</given-names>
+</string-name> (<year>2002</year>) <article-title>Gene Expression Omnibus: NCBI gene expression and hybridization array data repository</article-title>. <source>Nucleic Acids Research</source>, <volume>30</volume>, <fpage>207</fpage>&#x02013;<lpage>210</lpage>.<pub-id pub-id-type="pmid">11752295</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0015"><mixed-citation publication-type="journal" id="mbt214246-cit-0015">
+<string-name>
+<surname>Fischbach</surname>, <given-names>M.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Walsh</surname>, <given-names>C.T.</given-names>
+</string-name> (<year>2006</year>) <article-title>Assembly&#x02010;line enzymology for polyketide and nonribosomal peptide antibiotics: logic, machinery, and mechanisms</article-title>. <source>Chemical Reviews</source>, <volume>106</volume>, <fpage>3468</fpage>&#x02013;<lpage>3496</lpage>.<pub-id pub-id-type="pmid">16895337</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0016"><mixed-citation publication-type="journal" id="mbt214246-cit-0016">
+<string-name>
+<surname>Frykman</surname>, <given-names>S.A.</given-names>
+</string-name>, <string-name>
+<surname>Tsuruta</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Licari</surname>, <given-names>P.J.</given-names>
+</string-name> (<year>2005</year>) <article-title>Assessment of fed&#x02010;batch, semicontinuous, and continuous epothilone D production processes</article-title>. <source>Biotechnology Progress</source>, <volume>21</volume>, <fpage>1102</fpage>&#x02013;<lpage>1108</lpage>.<pub-id pub-id-type="pmid">16080689</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0017"><mixed-citation publication-type="journal" id="mbt214246-cit-0017">
+<string-name>
+<surname>Galperin</surname>, <given-names>M.Y.</given-names>
+</string-name>, <string-name>
+<surname>Makarova</surname>, <given-names>K.S.</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>, <given-names>Y.I.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Koonin</surname>, <given-names>E.V.</given-names>
+</string-name> (<year>2015</year>) <article-title>Expanded microbial genome coverage and improved protein family annotation in the COG database</article-title>. <source>Nucleic Acids Research</source>, <volume>43</volume>, <fpage>D261</fpage>&#x02013;<lpage>D269</lpage>.<pub-id pub-id-type="pmid">25428365</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0018"><mixed-citation publication-type="journal" id="mbt214246-cit-0018">
+<string-name>
+<surname>Gavriilidou</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kautsar</surname>, <given-names>S.A.</given-names>
+</string-name>, <string-name>
+<surname>Zaburannyi</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Krug</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Medema</surname>, <given-names>M.H.</given-names>
+</string-name> et al. (<year>2022</year>) <article-title>Compendium of specialized metabolite biosynthetic diversity encoded in bacterial genomes</article-title>. <source>Nature Microbiology</source>, <volume>7</volume>, <fpage>726</fpage>&#x02013;<lpage>735</lpage>.</mixed-citation></ref><ref id="mbt214246-bib-0019"><mixed-citation publication-type="journal" id="mbt214246-cit-0019">
+<string-name>
+<surname>Gerth</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Pradella</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Perlova</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Beyer</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>R.</given-names>
+</string-name> (<year>2003</year>) <article-title>Myxobacteria: proficient producers of novel natural products with various biological activities&#x02014;past and future biotechnological aspects with the focus on the genus <italic toggle="yes">Sorangium</italic>
+</article-title>. <source>Journal of Biotechnology</source>, <volume>106</volume>, <fpage>233</fpage>&#x02013;<lpage>253</lpage>.<pub-id pub-id-type="pmid">14651865</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0020"><mixed-citation publication-type="journal" id="mbt214246-cit-0020">
+<string-name>
+<surname>Gerth</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Trowitzsch</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Wray</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>H&#x000f6;fle</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Irschik</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Reichenbach</surname>, <given-names>H.</given-names>
+</string-name> (<year>1982</year>) <article-title>Pyrrolnitrin from <italic toggle="yes">Myxococcus fulvus</italic> (<italic toggle="yes">Myxobacterales</italic>)</article-title>. <source>Journal of Antibiotics</source>, <volume>35</volume>, <fpage>1101</fpage>&#x02013;<lpage>1103</lpage>.<pub-id pub-id-type="pmid">6815147</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0021"><mixed-citation publication-type="journal" id="mbt214246-cit-0021">
+<string-name>
+<surname>Gregory</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Salvador</surname>, <given-names>L.A.</given-names>
+</string-name>, <string-name>
+<surname>Akbar</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Adaikpoh</surname>, <given-names>B.I.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Stevens</surname>, <given-names>D.C.</given-names>
+</string-name> (<year>2019</year>) <article-title>Survey of biosynthetic gene clusters from sequenced myxobacteria reveals unexplored biosynthetic potential</article-title>. <source>Microorganisms</source>, <volume>7</volume>, <fpage>181</fpage>.<pub-id pub-id-type="pmid">31238501</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0022"><mixed-citation publication-type="journal" id="mbt214246-cit-0022">
+<string-name>
+<surname>Herrmann</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Fayad</surname>, <given-names>A.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>R.</given-names>
+</string-name> (<year>2017</year>) <article-title>Natural products from myxobacteria: novel metabolites and bioactivities</article-title>. <source>Natural Product Reports</source>, <volume>34</volume>, <fpage>135</fpage>&#x02013;<lpage>160</lpage>.<pub-id pub-id-type="pmid">27907217</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0023"><mixed-citation publication-type="journal" id="mbt214246-cit-0023">
+<string-name>
+<surname>Hoffmann</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Krug</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bozkurt</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Duddela</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Jansen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Garcia</surname>, <given-names>R.</given-names>
+</string-name> et al. (<year>2018</year>) <article-title>Correlating chemical diversity with taxonomic distance for discovery of natural products in myxobacteria</article-title>. <source>Nature Communications</source>, <volume>9</volume>, <elocation-id>803</elocation-id>.</mixed-citation></ref><ref id="mbt214246-bib-0024"><mixed-citation publication-type="journal" id="mbt214246-cit-0024">
+<string-name>
+<surname>Hoskisson</surname>, <given-names>P.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Seipke</surname>, <given-names>R.F.</given-names>
+</string-name> (<year>2020</year>) <article-title>Cryptic or silent? The known unknowns, unknown knowns, and unknown unknowns of secondary metabolism</article-title>. <source>MBio</source>, <volume>11</volume>, <elocation-id>e02642&#x02010;20</elocation-id>.<pub-id pub-id-type="pmid">33082252</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0025"><mixed-citation publication-type="journal" id="mbt214246-cit-0025">
+<string-name>
+<surname>Huerta&#x02010;Cepas</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Szklarczyk</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Heller</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Hern&#x000e1;ndez&#x02010;Plaza</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Forslund</surname>, <given-names>S.K.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>H.</given-names>
+</string-name> et al. (<year>2019</year>) <article-title>eggNOG 5.0: a hierarchical, functionally and phylogenetically annotated orthology resource based on 5090 organisms and 2502 viruses</article-title>. <source>Nucleic Acids Research</source>, <volume>47</volume>, <fpage>D309</fpage>&#x02013;<lpage>D314</lpage>.<pub-id pub-id-type="pmid">30418610</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0026"><mixed-citation publication-type="journal" id="mbt214246-cit-0026">
+<string-name>
+<surname>Hwang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Jeong</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>, <given-names>S.</given-names>
+</string-name> et al. (<year>2019</year>) <article-title>Primary transcriptome and translatome analysis determines transcriptional and translational regulatory elements encoded in the <italic toggle="yes">Streptomyces clavuligerus</italic> genome</article-title>. <source>Nucleic Acids Research</source>, <volume>47</volume>, <fpage>6114</fpage>&#x02013;<lpage>6129</lpage>.<pub-id pub-id-type="pmid">31131406</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0027"><mixed-citation publication-type="journal" id="mbt214246-cit-0027">
+<string-name>
+<surname>Jansen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Irschik</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Huch</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Schummer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Steinmetz</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Bock</surname>, <given-names>M.</given-names>
+</string-name> et al. (<year>2010</year>) <article-title>Carolacton &#x02010; a macrolide ketocarbonic acid that reduces biofilm formation by the caries&#x02010; and endocarditis&#x02010;associated bacterium <italic toggle="yes">Streptococcus mutans</italic>
+</article-title>. <source>European Journal of Organic Chemistry</source>, <volume>2010</volume>, <fpage>1284</fpage>&#x02013;<lpage>1289</lpage>.</mixed-citation></ref><ref id="mbt214246-bib-0028"><mixed-citation publication-type="journal" id="mbt214246-cit-0028">
+<string-name>
+<surname>Jones</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Bull</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Jenner</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Dashti</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>, <given-names>S.</given-names>
+</string-name> et al. (<year>2016</year>) <article-title>Genome mining and characterisation of multiple bioactive compounds from a <italic toggle="yes">Burkholderia gladioli</italic> isolate collection</article-title>. <source>Planta Medica</source>, <volume>81</volume>, <fpage>S1</fpage>&#x02013;<lpage>S381</lpage>.</mixed-citation></ref><ref id="mbt214246-bib-0029"><mixed-citation publication-type="journal" id="mbt214246-cit-0029">
+<string-name>
+<surname>Julien</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ziermann</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Goldman</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Katz</surname>, <given-names>L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Khosla</surname>, <given-names>C.</given-names>
+</string-name> (<year>2000</year>) <article-title>Isolation and characterization of the epothilone biosynthetic gene cluster from <italic toggle="yes">Sorangium cellulosum</italic>
+</article-title>. <source>Gene</source>, <volume>249</volume>, <fpage>153</fpage>&#x02013;<lpage>160</lpage>.<pub-id pub-id-type="pmid">10831849</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0030"><mixed-citation publication-type="journal" id="mbt214246-cit-0030">
+<string-name>
+<surname>Kautsar</surname>, <given-names>S.A.</given-names>
+</string-name>, <string-name>
+<surname>Blin</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Navarro&#x02010;Mu&#x000f1;oz</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Terlouw</surname>, <given-names>B.R.</given-names>
+</string-name>, <string-name>
+<surname>van der Hooft</surname>, <given-names>J.J.J.</given-names>
+</string-name> et al. (<year>2019</year>) <article-title>MIBiG 2.0: a repository for biosynthetic gene clusters of known function</article-title>. <source>Nucleic Acids Research</source>, <volume>48</volume>, <fpage>D454</fpage>&#x02013;<lpage>D458</lpage>.</mixed-citation></ref><ref id="mbt214246-bib-0031"><mixed-citation publication-type="journal" id="mbt214246-cit-0031">
+<string-name>
+<surname>Kegler</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Gerth</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>R.</given-names>
+</string-name> (<year>2006</year>) <article-title>Establishment of a real&#x02010;time PCR protocol for expression studies of secondary metabolite biosynthetic gene clusters in the G/C&#x02010;rich myxobacterium <italic toggle="yes">Sorangium cellulosum</italic> So ce56</article-title>. <source>Journal of Biotechnology</source>, <volume>121</volume>, <fpage>201</fpage>&#x02013;<lpage>212</lpage>.<pub-id pub-id-type="pmid">16324759</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0032"><mixed-citation publication-type="journal" id="mbt214246-cit-0032">
+<string-name>
+<surname>Koboldt</surname>, <given-names>D.C.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Larson</surname>, <given-names>D.E.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>McLellan</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>L.</given-names>
+</string-name> et al. (<year>2012</year>) <article-title>VarScan 2: somatic mutation and copy number alteration discovery in cancer by exome sequencing</article-title>. <source>Genome Research</source>, <volume>22</volume>, <fpage>568</fpage>&#x02013;<lpage>576</lpage>.<pub-id pub-id-type="pmid">22300766</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0033"><mixed-citation publication-type="journal" id="mbt214246-cit-0033">
+<string-name>
+<surname>Kunze</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Kemmer</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>H&#x000f6;fle</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Reichenbach</surname>, <given-names>H.</given-names>
+</string-name> (<year>1984</year>) <article-title>Stigmatellin, a new antibiotic from <italic toggle="yes">Stigmatella aurantiaca</italic> (<italic toggle="yes">Myxobacterales</italic>). I. Production, physico&#x02010;chemical and biological properties</article-title>. <source>Journal of Antibiotics</source>, <volume>37</volume>, <fpage>454</fpage>&#x02013;<lpage>461</lpage>.<pub-id pub-id-type="pmid">6429114</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0034"><mixed-citation publication-type="miscellaneous" id="mbt214246-cit-0034">
+<string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name> (<year>2013</year>) <article-title>Aligning sequence reads, clone sequences and assembly contigs with BWA&#x02010;MEM</article-title>. <italic toggle="yes">arXiv</italic>
+<pub-id pub-id-type="doi">10.48550/arXiv.1303.3997</pub-id>
+</mixed-citation></ref><ref id="mbt214246-bib-0035"><mixed-citation publication-type="journal" id="mbt214246-cit-0035">
+<string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Durbin</surname>, <given-names>R.</given-names>
+</string-name> (<year>2009</year>) <article-title>Fast and accurate short read alignment with Burrows&#x02010;Wheeler transform</article-title>. <source>Bioinformatics</source>, <volume>25</volume>, <fpage>1754</fpage>&#x02013;<lpage>1760</lpage>.<pub-id pub-id-type="pmid">19451168</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0036"><mixed-citation publication-type="journal" id="mbt214246-cit-0036">
+<string-name>
+<surname>Li</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>, <given-names>H.</given-names>
+</string-name> et al. (<year>2013</year>) <article-title>Co&#x02010;cultivation of <italic toggle="yes">Sorangium cellulosum</italic> strains affects cellular growth and biosynthesis of secondary metabolite epothilones</article-title>. <source>FEMS Microbiology Ecology</source>, <volume>85</volume>, <fpage>358</fpage>&#x02013;<lpage>368</lpage>.<pub-id pub-id-type="pmid">23551077</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0037"><mixed-citation publication-type="journal" id="mbt214246-cit-0037">
+<string-name>
+<surname>Livingstone</surname>, <given-names>P.G.</given-names>
+</string-name>, <string-name>
+<surname>Millard</surname>, <given-names>A.D.</given-names>
+</string-name>, <string-name>
+<surname>Swain</surname>, <given-names>M.T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Whitworth</surname>, <given-names>D.E.</given-names>
+</string-name> (<year>2018</year>) <article-title>Transcriptional changes when <italic toggle="yes">Myxococcus xanthus</italic> preys on <italic toggle="yes">Escherichia coli</italic> suggest myxobacterial predators are constitutively toxic but regulate their feeding</article-title>. <source>Microbial Genomics</source>, <volume>4</volume>, <elocation-id>e000152</elocation-id>.<pub-id pub-id-type="pmid">29345219</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0038"><mixed-citation publication-type="journal" id="mbt214246-cit-0038">
+<string-name>
+<surname>Love</surname>, <given-names>M.I.</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>, <given-names>W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Anders</surname>, <given-names>S.</given-names>
+</string-name> (<year>2014</year>) <article-title>Moderated estimation of fold change and dispersion for RNA&#x02010;seq data with DESeq2</article-title>. <source>Genome Biology</source>, <volume>15</volume>, <fpage>550</fpage>.<pub-id pub-id-type="pmid">25516281</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0039"><mixed-citation publication-type="journal" id="mbt214246-cit-0039">
+<string-name>
+<surname>Machado</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Tuttle</surname>, <given-names>R.N.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jensen</surname>, <given-names>P.R.</given-names>
+</string-name> (<year>2017</year>) <article-title>Omics&#x02010;based natural product discovery and the lexicon of genome mining</article-title>. <source>Current Opinion in Microbiology</source>, <volume>39</volume>, <fpage>136</fpage>&#x02013;<lpage>142</lpage>.<pub-id pub-id-type="pmid">29175703</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0040"><mixed-citation publication-type="journal" id="mbt214246-cit-0040">
+<string-name>
+<surname>Mart&#x000ed;n</surname>, <given-names>J.F.</given-names>
+</string-name> (<year>2004</year>) <article-title>Phosphate control of the biosynthesis of antibiotics and other secondary metabolites is mediated by the PhoR&#x02010;PhoP system: an unfinished story</article-title>. <source>Journal of Bacteriology</source>, <volume>186</volume>, <fpage>5197</fpage>&#x02013;<lpage>5201</lpage>.<pub-id pub-id-type="pmid">15292120</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0041"><mixed-citation publication-type="journal" id="mbt214246-cit-0041">
+<string-name>
+<surname>McLoon</surname>, <given-names>A.L.</given-names>
+</string-name>, <string-name>
+<surname>Boeck</surname>, <given-names>M.E.</given-names>
+</string-name>, <string-name>
+<surname>Bruckskotten</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Keyel</surname>, <given-names>A.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>S&#x000f8;gaard&#x02010;Andersen</surname>, <given-names>L.</given-names>
+</string-name> (<year>2021</year>) <article-title>Transcriptomic analysis of the <italic toggle="yes">Myxococcus xanthus</italic> FruA regulon, and comparative developmental transcriptomic analysis of two fruiting body forming species, <italic toggle="yes">Myxococcus xanthus</italic> and <italic toggle="yes">Myxococcus stipitatus</italic>
+</article-title>. <source>BMC Genomics</source>, <volume>22</volume>, <fpage>784</fpage>.<pub-id pub-id-type="pmid">34724903</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0042"><mixed-citation publication-type="journal" id="mbt214246-cit-0042">
+<string-name>
+<surname>Medema</surname>, <given-names>M.H.</given-names>
+</string-name>, <string-name>
+<surname>Blin</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Cimermancic</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>de Jager</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Zakrzewski</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Fischbach</surname>, <given-names>M.A.</given-names>
+</string-name> et al. (<year>2011</year>) <article-title>antiSMASH: rapid identification, annotation and analysis of secondary metabolite biosynthesis gene clusters in bacterial and fungal genome sequences</article-title>. <source>Nucleic Acids Research</source>, <volume>39</volume>, <fpage>W339</fpage>&#x02013;<lpage>W346</lpage>.<pub-id pub-id-type="pmid">21672958</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0043"><mixed-citation publication-type="journal" id="mbt214246-cit-0043">
+<string-name>
+<surname>Mohr</surname>, <given-names>K.I.</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>N&#x000fc;bel</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Szafra&#x00144;ska</surname>, <given-names>A.K.</given-names>
+</string-name>, <string-name>
+<surname>Steglich</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hennessen</surname>, <given-names>F.</given-names>
+</string-name> et al. (<year>2018</year>) <article-title>A polyphasic approach leads to seven new species of the cellulose&#x02010;decomposing genus <italic toggle="yes">Sorangium</italic>, <italic toggle="yes">Sorangium ambruticinum</italic> sp nov, <italic toggle="yes">Sorangium arenae</italic> sp nov, <italic toggle="yes">Sorangium bulgaricum</italic> sp nov, <italic toggle="yes">Sorangium dawidii</italic> sp nov, <italic toggle="yes">Sorangium kenyense</italic> sp nov, <italic toggle="yes">Sorangium orientale</italic> sp nov and <italic toggle="yes">Sorangium reichenbachii</italic> sp nov</article-title>. <source>International Journal of Systematic and Evolutionary Microbiology</source>, <volume>68</volume>, <fpage>3576</fpage>&#x02013;<lpage>3586</lpage>.<pub-id pub-id-type="pmid">30234476</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0044"><mixed-citation publication-type="journal" id="mbt214246-cit-0044">
+<string-name>
+<surname>Moln&#x000e1;r</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Schupp</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ono</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zirkle</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Milnamow</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nowak&#x02010;Thompson</surname>, <given-names>B.</given-names>
+</string-name> et al. (<year>2000</year>) <article-title>The biosynthetic gene cluster for the microtubule&#x02010;stabilizing agents epothilones A and B from <italic toggle="yes">Sorangium cellulosum</italic> So ce90</article-title>. <source>Chemistry &#x00026; Biology</source>, <volume>7</volume>, <fpage>97</fpage>&#x02013;<lpage>109</lpage>.<pub-id pub-id-type="pmid">10662695</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0045"><mixed-citation publication-type="journal" id="mbt214246-cit-0045">
+<string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>F.&#x02010;D.</given-names>
+</string-name>, <string-name>
+<surname>Treuner&#x02010;Lange</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Heider</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Huntley</surname>, <given-names>S.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Higgs</surname>, <given-names>P.I.</given-names>
+</string-name> (<year>2010</year>) <article-title>Global transcriptome analysis of spore formation in <italic toggle="yes">Myxococcus xanthus</italic> reveals a locus necessary for cell differentiation</article-title>. <source>BMC Genomics</source>, <volume>11</volume>, <fpage>264</fpage>.<pub-id pub-id-type="pmid">20420673</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0046"><mixed-citation publication-type="journal" id="mbt214246-cit-0046">
+<string-name>
+<surname>Mungan</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Harbig</surname>, <given-names>T.A.</given-names>
+</string-name>, <string-name>
+<surname>Perez</surname>, <given-names>N.H.</given-names>
+</string-name>, <string-name>
+<surname>Edenhart</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Stegmann</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Nieselt</surname>, <given-names>K.</given-names>
+</string-name> et al. (<year>2022</year>) <article-title>Secondary metabolite transcriptomic pipeline (SeMa&#x02010;Trap), an expression&#x02010;based exploration tool for increased secondary metabolite production in bacteria</article-title>. <source>Nucleic Acids Research</source>, <volume>50</volume>, <fpage>W682</fpage>&#x02013;<lpage>W689</lpage>.<pub-id pub-id-type="pmid">35580059</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0047"><mixed-citation publication-type="journal" id="mbt214246-cit-0047">
+<string-name>
+<surname>Mu&#x000f1;oz&#x02010;Dorado</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Moraleda&#x02010;Mu&#x000f1;oz</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Marcos&#x02010;Torres</surname>, <given-names>F.J.</given-names>
+</string-name>, <string-name>
+<surname>Contreras&#x02010;Moreno</surname>, <given-names>F.J.</given-names>
+</string-name>, <string-name>
+<surname>Martin&#x02010;Cuadrado</surname>, <given-names>A.B.</given-names>
+</string-name>, <string-name>
+<surname>Schrader</surname>, <given-names>J.M.</given-names>
+</string-name> et al. (<year>2019</year>) <article-title>Transcriptome dynamics of the <italic toggle="yes">Myxococcus xanthus</italic> multicellular developmental program</article-title>. <source>eLife</source>, <volume>8</volume>, <elocation-id>e50374</elocation-id>.<pub-id pub-id-type="pmid">31609203</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0048"><mixed-citation publication-type="journal" id="mbt214246-cit-0048">
+<string-name>
+<surname>Neubacher</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Tobias</surname>, <given-names>N.J.</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Glatter</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Pidot</surname>, <given-names>S.J.</given-names>
+</string-name> et al. (<year>2020</year>) <article-title>Symbiosis, virulence and natural&#x02010;product biosynthesis in entomopathogenic bacteria are regulated by a small RNA</article-title>. <source>Nature Microbiology</source>, <volume>5</volume>, <fpage>1481</fpage>&#x02013;<lpage>1489</lpage>.</mixed-citation></ref><ref id="mbt214246-bib-0049"><mixed-citation publication-type="journal" id="mbt214246-cit-0049">
+<string-name>
+<surname>Newman</surname>, <given-names>D.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Cragg</surname>, <given-names>G.M.</given-names>
+</string-name> (<year>2020</year>) <article-title>Natural products as sources of new drugs over the nearly four decades from 01/1981 to 09/2019</article-title>. <source>Journal of Natural Products</source>, <volume>83</volume>, <fpage>770</fpage>&#x02013;<lpage>803</lpage>.<pub-id pub-id-type="pmid">32162523</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0050"><mixed-citation publication-type="journal" id="mbt214246-cit-0050">
+<string-name>
+<surname>Nieselt</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Battke</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Herbig</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bruheim</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Wentzel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Jakobsen</surname>, <given-names>&#x000d8;.M.</given-names>
+</string-name> et al. (<year>2010</year>) <article-title>The dynamic architecture of the metabolic switch in <italic toggle="yes">Streptomyces coelicolor</italic>
+</article-title>. <source>BMC Genomics</source>, <volume>11</volume>, <fpage>10</fpage>.<pub-id pub-id-type="pmid">20053288</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0051"><mixed-citation publication-type="journal" id="mbt214246-cit-0051">
+<string-name>
+<surname>Okada</surname>, <given-names>B.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Seyedsayamdost</surname>, <given-names>M.R.</given-names>
+</string-name> (<year>2017</year>) <article-title>Antibiotic dialogues: induction of silent biosynthetic gene clusters by exogenous small molecules</article-title>. <source>FEMS Microbiology Reviews</source>, <volume>41</volume>, <fpage>19</fpage>&#x02013;<lpage>33</lpage>.<pub-id pub-id-type="pmid">27576366</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0052"><mixed-citation publication-type="journal" id="mbt214246-cit-0052">
+<string-name>
+<surname>Panter</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Bader</surname>, <given-names>C.D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>R.</given-names>
+</string-name> (<year>2021</year>) <article-title>Synergizing the potential of bacterial genomics and metabolomics to find novel antibiotics</article-title>. <source>Chemical Science</source>, <volume>12</volume>, <fpage>5994</fpage>&#x02013;<lpage>6010</lpage>.<pub-id pub-id-type="pmid">33995996</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0053"><mixed-citation publication-type="journal" id="mbt214246-cit-0053">
+<string-name>
+<surname>Panter</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Krug</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Baumann</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>R.</given-names>
+</string-name> (<year>2018</year>) <article-title>Self&#x02010;resistance guided genome mining uncovers new topoisomerase inhibitors from myxobacteria</article-title>. <source>Chemical Science</source>, <volume>9</volume>, <fpage>4898</fpage>&#x02013;<lpage>4908</lpage>.<pub-id pub-id-type="pmid">29910943</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0054"><mixed-citation publication-type="journal" id="mbt214246-cit-0054">
+<string-name>
+<surname>Peng</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Yue</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>X.</given-names>
+</string-name> et al. (<year>2018</year>) <article-title>CRISPR/dCas9&#x02010;mediated transcriptional improvement of the biosynthetic gene cluster for the epothilone production in <italic toggle="yes">Myxococcus xanthus</italic>
+</article-title>. <source>Microbial Cell Factories</source>, <volume>17</volume>, <fpage>15</fpage>.<pub-id pub-id-type="pmid">29378572</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0055"><mixed-citation publication-type="journal" id="mbt214246-cit-0055">
+<string-name>
+<surname>Phillips</surname>, <given-names>K.E.</given-names>
+</string-name>, <string-name>
+<surname>Akbar</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Stevens</surname>, <given-names>D.C.</given-names>
+</string-name> (<year>2022</year>) <article-title>Concepts and conjectures concerning predatory performance of myxobacteria</article-title>. <source>Frontiers in Microbiology</source>, <volume>13</volume>, <elocation-id>1031346</elocation-id>.<pub-id pub-id-type="pmid">36246230</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0056"><mixed-citation publication-type="journal" id="mbt214246-cit-0056">
+<string-name>
+<surname>Pye</surname>, <given-names>C.R.</given-names>
+</string-name>, <string-name>
+<surname>Bertin</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Lokey</surname>, <given-names>R.S.</given-names>
+</string-name>, <string-name>
+<surname>Gerwick</surname>, <given-names>W.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Linington</surname>, <given-names>R.G.</given-names>
+</string-name> (<year>2017</year>) <article-title>Retrospective analysis of natural products provides insights for future discovery trends</article-title>. <source>Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>114</volume>, <fpage>5601</fpage>&#x02013;<lpage>5606</lpage>.<pub-id pub-id-type="pmid">28461474</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0057"><mixed-citation publication-type="journal" id="mbt214246-cit-0057">
+<string-name>
+<surname>Rachid</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gerth</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kochems</surname>, <given-names>I.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>R.</given-names>
+</string-name> (<year>2007</year>) <article-title>Deciphering regulatory mechanisms for secondary metabolite production in the myxobacterium <italic toggle="yes">Sorangium cellulosum</italic> So ce56: regulation of secondary metabolites</article-title>. <source>Molecular Microbiology</source>, <volume>63</volume>, <fpage>1783</fpage>&#x02013;<lpage>1796</lpage>.<pub-id pub-id-type="pmid">17367395</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0058"><mixed-citation publication-type="journal" id="mbt214246-cit-0058">
+<string-name>
+<surname>Rachid</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gerth</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>R.</given-names>
+</string-name> (<year>2009</year>) <article-title>NtcA&#x02014;A negative regulator of secondary metabolite biosynthesis in <italic toggle="yes">Sorangium cellulosum</italic>
+</article-title>. <source>Journal of Biotechnology</source>, <volume>140</volume>, <fpage>135</fpage>&#x02013;<lpage>142</lpage>.<pub-id pub-id-type="pmid">19041909</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0059"><mixed-citation publication-type="journal" id="mbt214246-cit-0059">
+<string-name>
+<surname>S&#x000e1;nchez</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ch&#x000e1;vez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Forero</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Garc&#x000ed;a&#x02010;Huante</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Romero</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>S&#x000e1;nchez</surname>, <given-names>M.</given-names>
+</string-name> et al. (<year>2010</year>) <article-title>Carbon source regulation of antibiotic production</article-title>. <source>Journal of Antibiotics</source>, <volume>63</volume>, <fpage>442</fpage>&#x02013;<lpage>459</lpage>.<pub-id pub-id-type="pmid">20664603</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0060"><mixed-citation publication-type="journal" id="mbt214246-cit-0060">
+<string-name>
+<surname>Schley</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Altmeyer</surname>, <given-names>M.O.</given-names>
+</string-name>, <string-name>
+<surname>Swart</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Huber</surname>, <given-names>C.G.</given-names>
+</string-name> (<year>2006</year>) <article-title>Proteome analysis of <italic toggle="yes">Myxococcus xanthus</italic> by off&#x02010;line two&#x02010;dimensional chromatographic separation using monolithic poly&#x02010;(styrene&#x02010;divinylbenzene) columns combined with ion&#x02010;trap tandem mass spectrometry</article-title>. <source>Journal of Proteome Research</source>, <volume>5</volume>, <fpage>2760</fpage>&#x02013;<lpage>2768</lpage>.<pub-id pub-id-type="pmid">17022647</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0061"><mixed-citation publication-type="journal" id="mbt214246-cit-0061">
+<string-name>
+<surname>Schmidt</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ulanova</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wick</surname>, <given-names>L.Y.</given-names>
+</string-name>, <string-name>
+<surname>Bode</surname>, <given-names>H.B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Garbeva</surname>, <given-names>P.</given-names>
+</string-name> (<year>2019</year>) <article-title>Microbe&#x02010;driven chemical ecology: past, present and future</article-title>. <source>The ISME Journal</source>, <volume>13</volume>, <fpage>2656</fpage>&#x02013;<lpage>2663</lpage>.<pub-id pub-id-type="pmid">31289346</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0062"><mixed-citation publication-type="journal" id="mbt214246-cit-0062">
+<string-name>
+<surname>Schroeder</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Mueller</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Stocker</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Salowsky</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Leiber</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gassmann</surname>, <given-names>M.</given-names>
+</string-name> et al. (<year>2006</year>) <article-title>The RIN: an RNA integrity number for assigning integrity values to RNA measurements</article-title>. <source>BMC Molecular Biology</source>, <volume>7</volume>, <fpage>3</fpage>.<pub-id pub-id-type="pmid">16448564</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0063"><mixed-citation publication-type="journal" id="mbt214246-cit-0063">
+<string-name>
+<surname>Schwarzer</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Marahiel</surname>, <given-names>M.A.</given-names>
+</string-name> (<year>2001</year>) <article-title>Multimodular biocatalysts for natural product assembly</article-title>. <source>Naturwissenschaften</source>, <volume>88</volume>, <fpage>93</fpage>&#x02013;<lpage>101</lpage>.<pub-id pub-id-type="pmid">11402845</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0064"><mixed-citation publication-type="journal" id="mbt214246-cit-0064">
+<string-name>
+<surname>Seemann</surname>, <given-names>T.</given-names>
+</string-name> (<year>2014</year>) <article-title>Prokka: rapid prokaryotic genome annotation</article-title>. <source>Bioinformatics</source>, <volume>30</volume>, <fpage>2068</fpage>&#x02013;<lpage>2069</lpage>.<pub-id pub-id-type="pmid">24642063</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0065"><mixed-citation publication-type="journal" id="mbt214246-cit-0065">
+<string-name>
+<surname>Sharma</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>, <given-names>A.I.</given-names>
+</string-name>, <string-name>
+<surname>Smaldone</surname>, <given-names>G.T.</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Long</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Facciotti</surname>, <given-names>M.T.</given-names>
+</string-name> et al. (<year>2021</year>) <article-title>Global gene expression analysis of the <italic toggle="yes">Myxococcus xanthus</italic> developmental time course</article-title>. <source>Genomics</source>, <volume>113</volume>, <fpage>120</fpage>&#x02013;<lpage>134</lpage>.<pub-id pub-id-type="pmid">33276008</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0066"><mixed-citation publication-type="journal" id="mbt214246-cit-0066">
+<string-name>
+<surname>Sheng</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Duan</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2021</year>) <article-title>The regulation of LexA on UV&#x02010;induced SOS response in <italic toggle="yes">Myxococcus xanthus</italic> based on transcriptome analysis</article-title>. <source>Journal of Microbiology and Biotechnology</source>, <volume>31</volume>, <fpage>912</fpage>&#x02013;<lpage>920</lpage>.<pub-id pub-id-type="pmid">34024894</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0067"><mixed-citation publication-type="journal" id="mbt214246-cit-0067">
+<string-name>
+<surname>Steglich</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hofmann</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Helmecke</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sikorski</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Spr&#x000f6;er</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Riedel</surname>, <given-names>T.</given-names>
+</string-name> et al. (<year>2018</year>) <article-title>Convergent loss of ABC transporter genes from <italic toggle="yes">Clostridioides difficile</italic> genomes is associated with impaired tyrosine uptake and p&#x02010;cresol production</article-title>. <source>Frontiers in Microbiology</source>, <volume>9</volume>, <fpage>901</fpage>.<pub-id pub-id-type="pmid">29867812</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0068"><mixed-citation publication-type="journal" id="mbt214246-cit-0068">
+<string-name>
+<surname>Tang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Carney</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Katz</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Khosla</surname>, <given-names>C.</given-names>
+</string-name> et al. (<year>2000</year>) <article-title>Cloning and heterologous expression of the epothilone gene cluster</article-title>. <source>Science</source>, <volume>287</volume>, <fpage>640</fpage>&#x02013;<lpage>642</lpage>.<pub-id pub-id-type="pmid">10649995</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0069"><mixed-citation publication-type="journal" id="mbt214246-cit-0069">
+<string-name>
+<surname>Thomas</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Hodgson</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name>
+<surname>Wentzel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Nieselt</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ellingsen</surname>, <given-names>T.E.</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>, <given-names>J.</given-names>
+</string-name> et al. (<year>2012</year>) <article-title>Metabolic switches and adaptations deduced from the proteomes of <italic toggle="yes">Streptomyces coelicolor</italic> wild type and phoP mutant grown in batch culture</article-title>. <source>Molecular &#x00026; Cellular Proteomics</source>, <volume>11</volume>, <elocation-id>M111.013797</elocation-id>.</mixed-citation></ref><ref id="mbt214246-bib-0070"><mixed-citation publication-type="journal" id="mbt214246-cit-0070">
+<string-name>
+<surname>Tocchetti</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bordoni</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Gallo</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Petiti</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Corti</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Alt</surname>, <given-names>S.</given-names>
+</string-name> et al. (<year>2015</year>) <article-title>A genomic, transcriptomic and proteomic look at the GE2270 producer <italic toggle="yes">Planobispora rosea</italic>, an uncommon <italic toggle="yes">actinomycete</italic>
+</article-title>. <source>PLoS One</source>, <volume>10</volume>, <elocation-id>e0133705</elocation-id>.<pub-id pub-id-type="pmid">26207753</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0071"><mixed-citation publication-type="journal" id="mbt214246-cit-0071">
+<string-name>
+<surname>Tr&#x000f6;tschel</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Albaum</surname>, <given-names>S.P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Poetsch</surname>, <given-names>A.</given-names>
+</string-name> (<year>2013</year>) <article-title>Proteome turnover in bacteria: current status for <italic toggle="yes">Corynebacterium glutamicum</italic> and related bacteria</article-title>. <source>Microbial Biotechnology</source>, <volume>6</volume>, <fpage>708</fpage>&#x02013;<lpage>719</lpage>.<pub-id pub-id-type="pmid">23425033</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0072"><mixed-citation publication-type="journal" id="mbt214246-cit-0072">
+<string-name>
+<surname>van der Heul</surname>, <given-names>H.U.</given-names>
+</string-name>, <string-name>
+<surname>Bilyk</surname>, <given-names>B.L.</given-names>
+</string-name>, <string-name>
+<surname>McDowall</surname>, <given-names>K.J.</given-names>
+</string-name>, <string-name>
+<surname>Seipke</surname>, <given-names>R.F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>van Wezel</surname>, <given-names>G.P.</given-names>
+</string-name> (<year>2018</year>) <article-title>Regulation of antibiotic production in actinobacteria: new perspectives from the post&#x02010;genomic era</article-title>. <source>Natural Product Reports</source>, <volume>35</volume>, <fpage>575</fpage>&#x02013;<lpage>604</lpage>.<pub-id pub-id-type="pmid">29721572</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0073"><mixed-citation publication-type="journal" id="mbt214246-cit-0073">
+<string-name>
+<surname>van Wezel</surname>, <given-names>G.P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>McDowall</surname>, <given-names>K.J.</given-names>
+</string-name> (<year>2011</year>) <article-title>The regulation of the secondary metabolism of <italic toggle="yes">Streptomyces</italic>: new links and experimental advances</article-title>. <source>Natural Product Reports</source>, <volume>28</volume>, <fpage>1311</fpage>&#x02013;<lpage>1333</lpage>.<pub-id pub-id-type="pmid">21611665</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0074"><mixed-citation publication-type="journal" id="mbt214246-cit-0074">
+<string-name>
+<surname>Voelker</surname>, <given-names>F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Altaba</surname>, <given-names>S.</given-names>
+</string-name> (<year>2001</year>) <article-title>Nitrogen source governs the patterns of growth and pristinamycin production in &#x02018;<italic toggle="yes">Streptomyces pristinaespiralis</italic>&#x02019;</article-title>. <source>Microbiology</source>, <volume>147</volume>, <fpage>2447</fpage>&#x02013;<lpage>2459</lpage>.<pub-id pub-id-type="pmid">11535785</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0075"><mixed-citation publication-type="journal" id="mbt214246-cit-0075">
+<string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Jing</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>R.</given-names>
+</string-name> et al. (<year>2018</year>) <article-title>Discovery of recombinases enables genome mining of cryptic biosynthetic gene clusters in <italic toggle="yes">Burkholderiales</italic> species</article-title>. <source>Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>115</volume>, <fpage>E4255</fpage>&#x02013;<lpage>E4263</lpage>.<pub-id pub-id-type="pmid">29666226</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0076"><mixed-citation publication-type="journal" id="mbt214246-cit-0076">
+<string-name>
+<surname>Wenzel</surname>, <given-names>S.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>R.</given-names>
+</string-name> (<year>2009</year>) <article-title>Myxobacteria&#x02014;&#x02018;microbial factories&#x02019; for the production of bioactive secondary metabolites</article-title>. <source>Molecular BioSystems</source>, <volume>5</volume>, <fpage>567</fpage>&#x02013;<lpage>574</lpage>.<pub-id pub-id-type="pmid">19462013</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0077"><mixed-citation publication-type="book" id="mbt214246-cit-0077">
+<string-name>
+<surname>Wohlleben</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Bera</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Mast</surname>, <given-names>Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Stegmann</surname>, <given-names>E.</given-names>
+</string-name> (<year>2017</year>) <part-title>Regulation of secondary metabolites of actinobacteria</part-title>. In: <person-group person-group-type="editor">
+<string-name>
+<surname>Wink</surname>, <given-names>J.</given-names>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<surname>Mohammadipanah</surname>, <given-names>F.</given-names>
+</string-name>
+</person-group> &#x00026; <person-group person-group-type="editor">
+<string-name>
+<surname>Hamedi</surname>, <given-names>J.</given-names>
+</string-name>
+</person-group> (Eds.) <source>Biology and biotechnology of actinobacteria</source>. <publisher-loc>Cham</publisher-loc>: <publisher-name>Springer International Publishing</publisher-name>, pp. <fpage>181</fpage>&#x02013;<lpage>232</lpage>.</mixed-citation></ref><ref id="mbt214246-bib-0078"><mixed-citation publication-type="journal" id="mbt214246-cit-0078">
+<string-name>
+<surname>Wu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name> et al. (<year>2020</year>) <article-title>The (p)ppGpp&#x02010;mediated stringent response regulatory system globally inhibits primary metabolism and activates secondary metabolism in <italic toggle="yes">Pseudomonas protegens</italic> H78</article-title>. <source>Applied Microbiology and Biotechnology</source>, <volume>104</volume>, <fpage>3061</fpage>&#x02013;<lpage>3079</lpage>.<pub-id pub-id-type="pmid">32009198</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0079"><mixed-citation publication-type="miscellaneous" id="mbt214246-cit-0079">
+<string-name>
+<surname>Xie</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Kiefer</surname>, <given-names>A.F.</given-names>
+</string-name>, <string-name>
+<surname>Hirsch</surname>, <given-names>A.K.H.</given-names>
+</string-name>, <string-name>
+<surname>Kalinina</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>R.</given-names>
+</string-name> (<year>2022</year>) <article-title>Insights into the biosynthesis of icumazole unveiling a distinctive family of crotonyl&#x02010;CoA carboxylase/reductase</article-title>. <italic toggle="yes">BioRxiv</italic>
+<pub-id pub-id-type="doi">10.1101/2022.11.22.517467</pub-id>
+</mixed-citation></ref><ref id="mbt214246-bib-0080"><mixed-citation publication-type="journal" id="mbt214246-cit-0080">
+<string-name>
+<surname>Ye</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>S.</given-names>
+</string-name> et al. (<year>2019</year>) <article-title>An easy and efficient strategy for the enhancement of epothilone production mediated by TALE&#x02010;TF and CRISPR/dcas9 systems in <italic toggle="yes">Sorangium cellulosum</italic>
+</article-title>. <source>Frontiers in Bioengineering and Biotechnology</source>, <volume>7</volume>, <fpage>334</fpage>.<pub-id pub-id-type="pmid">32039165</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0081"><mixed-citation publication-type="journal" id="mbt214246-cit-0081">
+<string-name>
+<surname>Zhu</surname>, <given-names>L.&#x02010;P.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z.&#x02010;F.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>S.&#x02010;G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Li</surname>, <given-names>Y.&#x02010;Z.</given-names>
+</string-name> (<year>2013</year>) <article-title>Characteristics and activity analysis of epothilone operon promoters from <italic toggle="yes">Sorangium cellulosum</italic> strains in <italic toggle="yes">Escherichia coli</italic>
+</article-title>. <source>Applied Microbiology and Biotechnology</source>, <volume>97</volume>, <fpage>6857</fpage>&#x02013;<lpage>6866</lpage>.<pub-id pub-id-type="pmid">23549746</pub-id></mixed-citation></ref><ref id="mbt214246-bib-0082"><mixed-citation publication-type="journal" id="mbt214246-cit-0082">
+<string-name>
+<surname>Zhu</surname>, <given-names>X.&#x02010;M.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>X.&#x02010;X.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>R.&#x02010;T.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>H.&#x02010;L.</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>, <given-names>R.&#x02010;S.</given-names>
+</string-name>, <string-name>
+<surname>Bu</surname>, <given-names>X.&#x02010;L.</given-names>
+</string-name> et al. (<year>2019</year>) <article-title>Dynamical modelling of secondary metabolism and metabolic switches in <italic toggle="yes">Streptomyces xiamenensis</italic> 318</article-title>. <source>Royal Society Open Science</source>, <volume>6</volume>, <elocation-id>190418</elocation-id>.<pub-id pub-id-type="pmid">31183155</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,19 @@
+ Lanthipeptides
+are ribosomally synthesized and post-translationally
+modified peptides (RiPPs) that display a wide variety of biological
+activities, from antimicrobial to antiallodynic. Lanthipeptides that
+display antimicrobial activity are called lantibiotics. The post-translational
+modification reactions of lanthipeptides include dehydration of Ser
+and Thr residues to dehydroalanine and dehydrobutyrine, a transformation
+that is carried out in three unique ways in different classes of lanthipeptides.
+In a cyclization process, Cys residues then attack the dehydrated
+residues to generate the lanthionine and methyllanthionine thioether
+cross-linked amino acids from which lanthipeptides derive their name.
+The resulting polycyclic peptides have constrained conformations that
+confer their biological activities. After installation of the characteristic
+thioether cross-links, tailoring enzymes introduce additional post-translational
+modifications that are unique to each lanthipeptide and that fine-tune
+their activities and/or stability. This review focuses on studies
+published over the past decade that have provided much insight into
+the mechanisms of the enzymes that carry out the post-translational
+modifications.

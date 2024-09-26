@@ -1,0 +1,1263 @@
+These authors contributed equally to this work Drug efflux pumps transport antimicrobial agents out of bacteria, thereby reducing the intracellular antimicrobial concentration, which is associated with intrinsic and acquired bacterial resistance to these antimicrobials. As genome analysis has advanced, many drug efflux pump genes have been detected in the genomes of bacterial species. In addition to drug resistance, these pumps are involved in various essential physiological functions, such as bacterial adaptation to hostile environments, toxin and metabolite efflux, biofilm formation and quorum sensing. In Gram-negative bacteria, efflux pumps in the resistance–nodulation–division (RND) superfamily play a clinically important role. In this review, we focus on Gram-negative bacteria, including 
+
+Salmonella enterica
+
+, 
+
+Escherichia coli
+
+ and 
+
+Pseudomonas aeruginosa
+
+, and discuss the role of RND efflux pumps in drug resistance and physiological functions. Introduction Introduction The mechanisms by which bacteria acquire resistance to antimicrobial agents can be classified into four types: inactivation of antimicrobial agents by degradation or chemical modification; antimicrobial resistance (AMR) due to a change in the antimicrobial target, in which the site of antimicrobial action is mutated in the bacteria; drug resistance due to changes in membrane permeability; mechanisms that cause bacteria to become resistant by actively exporting antimicrobials and reducing their intracellular concentrations [1]. The first two mechanisms confer resistance to specific or the same class of antibiotics, while the latter two mechanisms increase resistance to a variety of structurally unrelated antibiotics. In many clinically isolated multidrug-resistant (MDR) bacteria, multiple mechanisms are present in the same strain, causing bacterial resistance to many drugs. Because a single multidrug efflux pump can export many structurally unrelated substrates, the elevated expression of even one pump can cause bacteria to become resistant to many compounds. The mechanisms by which bacteria acquire resistance to antimicrobial agents can be classified into four types: inactivation of antimicrobial agents by degradation or chemical modification; antimicrobial resistance (AMR) due to a change in the antimicrobial target, in which the site of antimicrobial action is mutated in the bacteria; drug resistance due to changes in membrane permeability; mechanisms that cause bacteria to become resistant by actively exporting antimicrobials and reducing their intracellular concentrations [1]. The first two mechanisms confer resistance to specific or the same class of antibiotics, while the latter two mechanisms increase resistance to a variety of structurally unrelated antibiotics. In many clinically isolated multidrug-resistant (MDR) bacteria, multiple mechanisms are present in the same strain, causing bacterial resistance to many drugs. Because a single multidrug efflux pump can export many structurally unrelated substrates, the elevated expression of even one pump can cause bacteria to become resistant to many compounds. Bacterial drug efflux pumps can be classified into the following seven families based on their energy utilization and structural aspects: (1) the major facilitator superfamily (MFS); (2) the resistance–nodulation–division (RND) superfamily; (3) the small multidrug resistance (SMR) family; (4) the ATP-binding cassette (ABC) superfamily; (5) the multidrug and toxic compound extrusion (MATE) family; (6) the proteobacterial antimicrobial compound efflux (PACE) family; and (7) the p-aminobenzoyl-glutamate transporter (AbgT) family [2–6]. Bacterial drug efflux pumps can be classified into the following seven families based on their energy utilization and structural aspects: (1) the major facilitator superfamily (MFS); (2) the resistance–nodulation–division (RND) superfamily; (3) the small multidrug resistance (SMR) family; (4) the ATP-binding cassette (ABC) superfamily; (5) the multidrug and toxic compound extrusion (MATE) family; (6) the proteobacterial antimicrobial compound efflux (PACE) family; and (7) the p-aminobenzoyl-glutamate transporter (AbgT) family [2–6]. Drug efflux pumps, named because of their involvement in bacterial drug resistance, have been conserved across bacterial species since before humans used antimicrobial agents [7, 8]. These efflux pumps may have been necessary to counter competition among heterologous bacteria in the environment with antibiotic-producing microbes [9]. Additionally, drug efflux pumps play a fundamental role in survival in various natural environments, including host environments. In particular, RND-type efflux pumps are of interest because of their many functions: pH tolerance and resistance to toxic natural products, metal ions, bile acids, fatty acids and antimicrobial peptides produced by host cells. These RND-type pumps are coupled to an outer membrane protein (OMP), bridged together by periplasmic adaptor proteins (PAPs). Multidrug efflux pumps are also involved in biofilm formation. As 90 % of naturally occurring bacteria form biofilms, which are involved in causing clinically significant infections in host cells, including in humans, the impact of efflux pumps on biofilm formation and drug resistance is immense. Furthermore, several bacterial species perform intercellular communication through quorum sensing. Although quorum sensing signals (QSSs) accumulate in proportion to cell density, efflux pumps also play an essential role in regulating quorum sensing processes. Drug efflux pumps, named because of their involvement in bacterial drug resistance, have been conserved across bacterial species since before humans used antimicrobial agents [7, 8]. These efflux pumps may have been necessary to counter competition among heterologous bacteria in the environment with antibiotic-producing microbes [9]. Additionally, drug efflux pumps play a fundamental role in survival in various natural environments, including host environments. In particular, RND-type efflux pumps are of interest because of their many functions: pH tolerance and resistance to toxic natural products, metal ions, bile acids, fatty acids and antimicrobial peptides produced by host cells. These RND-type pumps are coupled to an outer membrane protein (OMP), bridged together by periplasmic adaptor proteins (PAPs). Multidrug efflux pumps are also involved in biofilm formation. As 90 % of naturally occurring bacteria form biofilms, which are involved in causing clinically significant infections in host cells, including in humans, the impact of efflux pumps on biofilm formation and drug resistance is immense. Furthermore, several bacterial species perform intercellular communication through quorum sensing. Although quorum sensing signals (QSSs) accumulate in proportion to cell density, efflux pumps also play an essential role in regulating quorum sensing processes. This review summarizes the drug resistance and physiological roles of RND multidrug efflux pumps in 
+
+Salmonella enterica
+
+ (Fig. 1), 
+
+Escherichia coli
+
+ (Fig. 4) and 
+
+Pseudomonas aeruginosa
+
+ (Fig. 5). We focus on these three bacteria because they are clinically important in human coexistence and because the characteristics of their RND multidrug efflux pumps have been studied in more experiments than those of other species. A phylogenetic comparison between all 26 RND-type efflux pumps mentioned in this review can be seen in Fig. 2 and their sequences are in Table S1 (available in the online version of this article). This review summarizes the drug resistance and physiological roles of RND multidrug efflux pumps in 
+
+Salmonella enterica
+
+ (Fig. 1), 
+
+Escherichia coli
+
+ (Fig. 4) and 
+
+Pseudomonas aeruginosa
+
+ (Fig. 5). We focus on these three bacteria because they are clinically important in human coexistence and because the characteristics of their RND multidrug efflux pumps have been studied in more experiments than those of other species. A phylogenetic comparison between all 26 RND-type efflux pumps mentioned in this review can be seen in Fig. 2 and their sequences are in Table S1 (available in the online version of this article). Fig. 1.RND multidrug efflux pumps in 
+
+S. enterica
+
+. Fig. 1.RND multidrug efflux pumps in 
+
+S. enterica
+
+. RND multidrug efflux pumps in 
+
+S. enterica
+
+. RND multidrug efflux pumps in 
+
+S. enterica
+
+. Fig. 2.Phylogenetic tree of 26 RND-type efflux pumps. Phylogenetic clusters are highlighted in different colours. The three main clusters are the MexI/W-family, the TriC/HME and heterotrimeric-like pumps and the homotrimeric pumps. Multiple sequence alignment was performed using Kalign v3 [146], and the tree was made with iTol [147]. HME, heavy metal efflux subfamily; Pa, 
+
+P. aeruginosa
+
+; Ec, 
+
+E. coli
+
+; Sa, 
+
+Salmonella
+
+. Colour protein names: blue, 
+
+P. aeruginosa
+
+; red, 
+
+E. coli
+
+; yellow, 
+
+Salmonella
+
+. Fig. 2.Phylogenetic tree of 26 RND-type efflux pumps. Phylogenetic clusters are highlighted in different colours. The three main clusters are the MexI/W-family, the TriC/HME and heterotrimeric-like pumps and the homotrimeric pumps. Multiple sequence alignment was performed using Kalign v3 [146], and the tree was made with iTol [147]. HME, heavy metal efflux subfamily; Pa, 
+
+P. aeruginosa
+
+; Ec, 
+
+E. coli
+
+; Sa, 
+
+Salmonella
+
+. Colour protein names: blue, 
+
+P. aeruginosa
+
+; red, 
+
+E. coli
+
+; yellow, 
+
+Salmonella
+
+. Phylogenetic tree of 26 RND-type efflux pumps. Phylogenetic clusters are highlighted in different colours. The three main clusters are the MexI/W-family, the TriC/HME and heterotrimeric-like pumps and the homotrimeric pumps. Multiple sequence alignment was performed using Kalign v3 [146], and the tree was made with iTol [147]. HME, heavy metal efflux subfamily; Pa, 
+
+P. aeruginosa
+
+; Ec, 
+
+E. coli
+
+; Sa, 
+
+Salmonella
+
+. Colour protein names: blue, 
+
+P. aeruginosa
+
+; red, 
+
+E. coli
+
+; yellow, 
+
+Salmonella
+
+. Phylogenetic tree of 26 RND-type efflux pumps. Phylogenetic clusters are highlighted in different colours. The three main clusters are the MexI/W-family, the TriC/HME and heterotrimeric-like pumps and the homotrimeric pumps. Multiple sequence alignment was performed using Kalign v3 [146], and the tree was made with iTol [147]. HME, heavy metal efflux subfamily; Pa, 
+
+P. aeruginosa
+
+; Ec, 
+
+E. coli
+
+; Sa, 
+
+Salmonella
+
+. Colour protein names: blue, 
+
+P. aeruginosa
+
+; red, 
+
+E. coli
+
+; yellow, 
+
+Salmonella
+
+. The role of RND multidrug efflux pumps in 
+
+S. enterica The role of RND multidrug efflux pumps in 
+
+S. enterica S. enterica
+
+ is an intracellular pathogen in animals and humans. This bacterium causes diseases ranging from gastroenteritis to life-threatening systemic infections. 
+
+S. enterica
+
+ contains at least 10 functional drug efflux pumps that belong to 4 (super) families: MFS (i.e. EmrAB, MdfA and SmvA), RND (i.e. AcrAB, AcrEF, AcrD, MdsAB and MdtABC), MATE (i.e. MdtK) and ABC (i.e. MacAB). Each efflux pump plays an important role not only in antibiotic efflux but also in physiological functions. Although the role of some efflux pumps has yet to be elucidated, we summarize the broad function of each RND pump in the following sections based on the recent literature (Fig. 1, Table 1). For coupling with the RND efflux pumps, the outer membrane component TolC is expressed from a separate operon in the genome, except for MdsABC, where MdsC is expressed from the same operon with MdsAB (Table S2). S. enterica
+
+ is an intracellular pathogen in animals and humans. This bacterium causes diseases ranging from gastroenteritis to life-threatening systemic infections. 
+
+S. enterica
+
+ contains at least 10 functional drug efflux pumps that belong to 4 (super) families: MFS (i.e. EmrAB, MdfA and SmvA), RND (i.e. AcrAB, AcrEF, AcrD, MdsAB and MdtABC), MATE (i.e. MdtK) and ABC (i.e. MacAB). Each efflux pump plays an important role not only in antibiotic efflux but also in physiological functions. Although the role of some efflux pumps has yet to be elucidated, we summarize the broad function of each RND pump in the following sections based on the recent literature (Fig. 1, Table 1). For coupling with the RND efflux pumps, the outer membrane component TolC is expressed from a separate operon in the genome, except for MdsABC, where MdsC is expressed from the same operon with MdsAB (Table S2). Drug resistance and physiological roles of RND multidrug efflux pumps in S. enterica, E. coli and 
+
+P. aeruginosa Drug resistance and physiological roles of RND multidrug efflux pumps in S. enterica, E. coli and 
+
+P. aeruginosa Efflux pumps Physiological functions Substrates. Efflux pumps Physiological functions Substrates. Efflux pumps Efflux pumps Physiological functions Physiological functions Substrates Substrates S. enterica. S. enterica. S. enterica S. enterica AcrAB–TolC Cell adhesion [15, 24]
+Cell invasion [15, 16, 24, 26]
+Virulence [10, 16, 17, 26]
+Biofilm formation [21]
+Cell metabolism [32–34, 36] ACR, ETBR, CIP, NAL, CHL, TET, NOV, FUS, ATM, CAZ, CTX, ERY, FQ, OXA, MIN, NOR, AMX, CRO, AMP, TRIC, cyclohexane, CLO, NAF, LVX, TMP, R6G, CV, BENZ, DOC, DXR, FAM, RIF, LZD, TRC, CAR, TPP, MB, SDS, TritonX-100, anti-histamine agent, plant alkaloids, anti-depressants, anti-psychotic drugs, anti-protozoal drugs, bile salts, fatty acids, steroid hormones [10, 16, 26, 32, 33, 148–154]. AcrAB–TolC Cell adhesion [15, 24]
+Cell invasion [15, 16, 24, 26]
+Virulence [10, 16, 17, 26]
+Biofilm formation [21]
+Cell metabolism [32–34, 36] ACR, ETBR, CIP, NAL, CHL, TET, NOV, FUS, ATM, CAZ, CTX, ERY, FQ, OXA, MIN, NOR, AMX, CRO, AMP, TRIC, cyclohexane, CLO, NAF, LVX, TMP, R6G, CV, BENZ, DOC, DXR, FAM, RIF, LZD, TRC, CAR, TPP, MB, SDS, TritonX-100, anti-histamine agent, plant alkaloids, anti-depressants, anti-psychotic drugs, anti-protozoal drugs, bile salts, fatty acids, steroid hormones [10, 16, 26, 32, 33, 148–154]. AcrAB–TolC AcrAB–TolC Cell adhesion [15, 24] Cell adhesion [15, 24] Cell invasion [15, 16, 24, 26] Cell invasion [15, 16, 24, 26] Virulence [10, 16, 17, 26] Virulence [10, 16, 17, 26] Biofilm formation [21] Biofilm formation [21] Cell metabolism [32–34, 36] Cell metabolism [32–34, 36] ACR, ETBR, CIP, NAL, CHL, TET, NOV, FUS, ATM, CAZ, CTX, ERY, FQ, OXA, MIN, NOR, AMX, CRO, AMP, TRIC, cyclohexane, CLO, NAF, LVX, TMP, R6G, CV, BENZ, DOC, DXR, FAM, RIF, LZD, TRC, CAR, TPP, MB, SDS, TritonX-100, anti-histamine agent, plant alkaloids, anti-depressants, anti-psychotic drugs, anti-protozoal drugs, bile salts, fatty acids, steroid hormones [10, 16, 26, 32, 33, 148–154] ACR, ETBR, CIP, NAL, CHL, TET, NOV, FUS, ATM, CAZ, CTX, ERY, FQ, OXA, MIN, NOR, AMX, CRO, AMP, TRIC, cyclohexane, CLO, NAF, LVX, TMP, R6G, CV, BENZ, DOC, DXR, FAM, RIF, LZD, TRC, CAR, TPP, MB, SDS, TritonX-100, anti-histamine agent, plant alkaloids, anti-depressants, anti-psychotic drugs, anti-protozoal drugs, bile salts, fatty acids, steroid hormones [10, 16, 26, 32, 33, 148–154] Acr(A)D-TolC Cell adhesion [24]
+Cell invasion [24]
+Swarming motility [38]
+Biofilm formation [21]
+Fitness cost adjustment [38]
+Cell metabolism [38–40] OXA, CLO, NAF, CAR, SB, ATM, SDS, NOV, Cu, Zn, sodium tungstate [37, 39, 40]. Acr(A)D-TolC Cell adhesion [24]
+Cell invasion [24]
+Swarming motility [38]
+Biofilm formation [21]
+Fitness cost adjustment [38]
+Cell metabolism [38–40] OXA, CLO, NAF, CAR, SB, ATM, SDS, NOV, Cu, Zn, sodium tungstate [37, 39, 40]. Acr(A)D-TolC Acr(A)D-TolC Cell adhesion [24] Cell adhesion [24] Cell invasion [24] Cell invasion [24] Swarming motility [38] Swarming motility [38] Biofilm formation [21] Biofilm formation [21] Fitness cost adjustment [38] Fitness cost adjustment [38] Cell metabolism [38–40] Cell metabolism [38–40] OXA, CLO, NAF, CAR, SB, ATM, SDS, NOV, Cu, Zn, sodium tungstate [37, 39, 40] OXA, CLO, NAF, CAR, SB, ATM, SDS, NOV, Cu, Zn, sodium tungstate [37, 39, 40] AcrEF-TolC Cell adhesion [24]
+Cell invasion [24]
+Virulence [10]
+Biofilm formation [21]
+Cell metabolism [42] ERY, NOV, TET, CHL, NAL, NOR, DXR, ACR, CV, ETBR, MB, R6G, TPP, BENZ, SDS, DOC, TRC [10, 152]. AcrEF-TolC Cell adhesion [24]
+Cell invasion [24]
+Virulence [10]
+Biofilm formation [21]
+Cell metabolism [42] ERY, NOV, TET, CHL, NAL, NOR, DXR, ACR, CV, ETBR, MB, R6G, TPP, BENZ, SDS, DOC, TRC [10, 152]. AcrEF-TolC AcrEF-TolC Cell adhesion [24] Cell adhesion [24] Cell invasion [24] Cell invasion [24] Virulence [10] Virulence [10] Biofilm formation [21] Biofilm formation [21] Cell metabolism [42] Cell metabolism [42] ERY, NOV, TET, CHL, NAL, NOR, DXR, ACR, CV, ETBR, MB, R6G, TPP, BENZ, SDS, DOC, TRC [10, 152] ERY, NOV, TET, CHL, NAL, NOR, DXR, ACR, CV, ETBR, MB, R6G, TPP, BENZ, SDS, DOC, TRC [10, 152] MdsAB-MdsC/TolC Cell adhesion [24]
+Cell invasion [24, 44]
+Virulence [10, 44]
+Biofilm formation [21]
+Cell metabolism [45, 46] CV, MB, ACR, R6G, NOV, ETBR, TPP, BENZ, SDS, Au [10, 44, 45]. MdsAB-MdsC/TolC Cell adhesion [24]
+Cell invasion [24, 44]
+Virulence [10, 44]
+Biofilm formation [21]
+Cell metabolism [45, 46] CV, MB, ACR, R6G, NOV, ETBR, TPP, BENZ, SDS, Au [10, 44, 45]. MdsAB-MdsC/TolC MdsAB-MdsC/TolC Cell adhesion [24] Cell adhesion [24] Cell invasion [24, 44] Cell invasion [24, 44] Virulence [10, 44] Virulence [10, 44] Biofilm formation [21] Biofilm formation [21] Cell metabolism [45, 46] Cell metabolism [45, 46] CV, MB, ACR, R6G, NOV, ETBR, TPP, BENZ, SDS, Au [10, 44, 45] CV, MB, ACR, R6G, NOV, ETBR, TPP, BENZ, SDS, Au [10, 44, 45] MdtABC-TolC Cell adhesion [24]
+Cell invasion [24]
+Virulence [10]
+Biofilm formation [21]
+Cell metabolism [39, 40] NOV, SDS, DOC, Cu, Zn, sodium tungstate [10, 39, 40]. MdtABC-TolC Cell adhesion [24]
+Cell invasion [24]
+Virulence [10]
+Biofilm formation [21]
+Cell metabolism [39, 40] NOV, SDS, DOC, Cu, Zn, sodium tungstate [10, 39, 40]. MdtABC-TolC MdtABC-TolC Cell adhesion [24] Cell adhesion [24] Cell invasion [24] Cell invasion [24] Virulence [10] Virulence [10] Biofilm formation [21] Biofilm formation [21] Cell metabolism [39, 40] Cell metabolism [39, 40] NOV, SDS, DOC, Cu, Zn, sodium tungstate [10, 39, 40] NOV, SDS, DOC, Cu, Zn, sodium tungstate [10, 39, 40] E. coli. E. coli. E. coli E. coli AcrAB–TolC Cell proliferation [53, 57]
+Swarming motility [48]
+Biofilm formation [55]
+QSS [54]
+Cell metabolism [59, 68]
+Spontaneous mutation trigger [69] CHL, TET, MIN, ERY, FQ, NAL, NOR, ENO, DXR, CIP, NOV, RIF, TMP, ACR, CV, ETBR, R6G, TPP, BENZ, SDS, DOC, bile salts, fatty acids, steroid hormones [47, 53, 58, 59, 155]. AcrAB–TolC Cell proliferation [53, 57]
+Swarming motility [48]
+Biofilm formation [55]
+QSS [54]
+Cell metabolism [59, 68]
+Spontaneous mutation trigger [69] CHL, TET, MIN, ERY, FQ, NAL, NOR, ENO, DXR, CIP, NOV, RIF, TMP, ACR, CV, ETBR, R6G, TPP, BENZ, SDS, DOC, bile salts, fatty acids, steroid hormones [47, 53, 58, 59, 155]. AcrAB–TolC AcrAB–TolC Cell proliferation [53, 57] Cell proliferation [53, 57] Swarming motility [48] Swarming motility [48] Biofilm formation [55] Biofilm formation [55] QSS [54] QSS [54] Cell metabolism [59, 68] Cell metabolism [59, 68] Spontaneous mutation trigger [69] Spontaneous mutation trigger [69] CHL, TET, MIN, ERY, FQ, NAL, NOR, ENO, DXR, CIP, NOV, RIF, TMP, ACR, CV, ETBR, R6G, TPP, BENZ, SDS, DOC, bile salts, fatty acids, steroid hormones [47, 53, 58, 59, 155] CHL, TET, MIN, ERY, FQ, NAL, NOR, ENO, DXR, CIP, NOV, RIF, TMP, ACR, CV, ETBR, R6G, TPP, BENZ, SDS, DOC, bile salts, fatty acids, steroid hormones [47, 53, 58, 59, 155] Acr(A)D-TolC Biofilm formation [72]
+Cell metabolism [59, 75, 76] Aminoglycosides, a very hydrophilic class of drugs, NOV, SDS, DOC, ATM, CAR, SB, Cu [47, 76, 156]. Acr(A)D-TolC Biofilm formation [72]
+Cell metabolism [59, 75, 76] Aminoglycosides, a very hydrophilic class of drugs, NOV, SDS, DOC, ATM, CAR, SB, Cu [47, 76, 156]. Acr(A)D-TolC Acr(A)D-TolC Biofilm formation [72] Biofilm formation [72] Cell metabolism [59, 75, 76] Cell metabolism [59, 75, 76] Aminoglycosides, a very hydrophilic class of drugs, NOV, SDS, DOC, ATM, CAR, SB, Cu [47, 76, 156] Aminoglycosides, a very hydrophilic class of drugs, NOV, SDS, DOC, ATM, CAR, SB, Cu [47, 76, 156] AcrEF-TolC Cell proliferation [77]
+Biofilm formation [72]
+QSS [78]
+Cell metabolism [79] DOC, ACR, ETBR, R6G, SDS, DOC [47]. AcrEF-TolC Cell proliferation [77]
+Biofilm formation [72]
+QSS [78]
+Cell metabolism [79] DOC, ACR, ETBR, R6G, SDS, DOC [47]. AcrEF-TolC AcrEF-TolC Cell proliferation [77] Cell proliferation [77] Biofilm formation [72] Biofilm formation [72] QSS [78] QSS [78] Cell metabolism [79] Cell metabolism [79] DOC, ACR, ETBR, R6G, SDS, DOC [47] DOC, ACR, ETBR, R6G, SDS, DOC [47] MdtEF-TolC Cell proliferation [80]
+Biofilm formation [72]
+Cell metabolism [75, 79, 82, 84] TPP, ERY, NOV, DOX, CV, ETBR, SDS, DOC, BENZ, R6G, OXA, CLO [47, 84, 85]. MdtEF-TolC Cell proliferation [80]
+Biofilm formation [72]
+Cell metabolism [75, 79, 82, 84] TPP, ERY, NOV, DOX, CV, ETBR, SDS, DOC, BENZ, R6G, OXA, CLO [47, 84, 85]. MdtEF-TolC MdtEF-TolC Cell proliferation [80] Cell proliferation [80] Biofilm formation [72] Biofilm formation [72] Cell metabolism [75, 79, 82, 84] Cell metabolism [75, 79, 82, 84] TPP, ERY, NOV, DOX, CV, ETBR, SDS, DOC, BENZ, R6G, OXA, CLO [47, 84, 85] TPP, ERY, NOV, DOX, CV, ETBR, SDS, DOC, BENZ, R6G, OXA, CLO [47, 84, 85] MdtABC-TolC Biofilm formation [55]
+Cell metabolism [75, 76, 87, 88] NOV, DOC, Zn, flavonoids, sodium tungstate [47, 87, 88]. MdtABC-TolC Biofilm formation [55]
+Cell metabolism [75, 76, 87, 88] NOV, DOC, Zn, flavonoids, sodium tungstate [47, 87, 88]. MdtABC-TolC MdtABC-TolC Biofilm formation [55] Biofilm formation [55] Cell metabolism [75, 76, 87, 88] Cell metabolism [75, 76, 87, 88] NOV, DOC, Zn, flavonoids, sodium tungstate [47, 87, 88] NOV, DOC, Zn, flavonoids, sodium tungstate [47, 87, 88] CusABC Cell metabolism [90, 91] Cu, Zn, Ag [89, 91]. CusABC Cell metabolism [90, 91] Cu, Zn, Ag [89, 91]. CusABC CusABC Cell metabolism [90, 91] Cell metabolism [90, 91] Cu, Zn, Ag [89, 91] Cu, Zn, Ag [89, 91] P. aeruginosa. P. aeruginosa. P. aeruginosa P. aeruginosa MexAB-OprM Cell invasion [106, 107]
+Biofilm formation [119]
+QSS [96, 99, 100, 102, 104]
+Virulence [99, 100, 106]
+Fitness cost adjustment [105] Quinolones, macrolides, TETs, lincomycin, CHL, NOV, sulphonamides, TMP, β-lactams except imipenem [155, 157]. MexAB-OprM Cell invasion [106, 107]
+Biofilm formation [119]
+QSS [96, 99, 100, 102, 104]
+Virulence [99, 100, 106]
+Fitness cost adjustment [105] Quinolones, macrolides, TETs, lincomycin, CHL, NOV, sulphonamides, TMP, β-lactams except imipenem [155, 157]. MexAB-OprM MexAB-OprM Cell invasion [106, 107] Cell invasion [106, 107] Biofilm formation [119] Biofilm formation [119] QSS [96, 99, 100, 102, 104] QSS [96, 99, 100, 102, 104] Virulence [99, 100, 106] Virulence [99, 100, 106] Fitness cost adjustment [105] Fitness cost adjustment [105] Quinolones, macrolides, TETs, lincomycin, CHL, NOV, sulphonamides, TMP, β-lactams except imipenem [155, 157] Quinolones, macrolides, TETs, lincomycin, CHL, NOV, sulphonamides, TMP, β-lactams except imipenem [155, 157] MexCD-OprJ Swarming motility [112]
+Biofilm formation [115, 119]
+QSS [99]
+Virulence [111–114]
+Fitness cost adjustment [105, 112, 115, 117]
+Cell metabolism [116, 118] Quinolones, macrolides, TETs, lincomycin, CHL, NOV, penicillins except CAR and SB, cephems except CAZ, flomoxef, meropenem, S-4661, biocides, dyes, detergents, organic solvents [155, 158]. MexCD-OprJ Swarming motility [112]
+Biofilm formation [115, 119]
+QSS [99]
+Virulence [111–114]
+Fitness cost adjustment [105, 112, 115, 117]
+Cell metabolism [116, 118] Quinolones, macrolides, TETs, lincomycin, CHL, NOV, penicillins except CAR and SB, cephems except CAZ, flomoxef, meropenem, S-4661, biocides, dyes, detergents, organic solvents [155, 158]. MexCD-OprJ MexCD-OprJ Swarming motility [112] Swarming motility [112] Biofilm formation [115, 119] Biofilm formation [115, 119] QSS [99] QSS [99] Virulence [111–114] Virulence [111–114] Fitness cost adjustment [105, 112, 115, 117] Fitness cost adjustment [105, 112, 115, 117] Cell metabolism [116, 118] Cell metabolism [116, 118] Quinolones, macrolides, TETs, lincomycin, CHL, NOV, penicillins except CAR and SB, cephems except CAZ, flomoxef, meropenem, S-4661, biocides, dyes, detergents, organic solvents [155, 158] Quinolones, macrolides, TETs, lincomycin, CHL, NOV, penicillins except CAR and SB, cephems except CAZ, flomoxef, meropenem, S-4661, biocides, dyes, detergents, organic solvents [155, 158] MexEF-OprN Swarming motility [121]
+Biofilm formation [121]
+QSS [97, 120, 121]
+Virulence [97, 111, 120, 121, 123]
+Fitness cost adjustment [105, 122]
+Cell metabolism [127–131] CIP, LVX, EtBR, ACR, CHL, TET, TRI, TMP [159]. MexEF-OprN Swarming motility [121]
+Biofilm formation [121]
+QSS [97, 120, 121]
+Virulence [97, 111, 120, 121, 123]
+Fitness cost adjustment [105, 122]
+Cell metabolism [127–131] CIP, LVX, EtBR, ACR, CHL, TET, TRI, TMP [159]. MexEF-OprN MexEF-OprN Swarming motility [121] Swarming motility [121] Biofilm formation [121] Biofilm formation [121] QSS [97, 120, 121] QSS [97, 120, 121] Virulence [97, 111, 120, 121, 123] Virulence [97, 111, 120, 121, 123] Fitness cost adjustment [105, 122] Fitness cost adjustment [105, 122] Cell metabolism [127–131] Cell metabolism [127–131] CIP, LVX, EtBR, ACR, CHL, TET, TRI, TMP [159] CIP, LVX, EtBR, ACR, CHL, TET, TRI, TMP [159] MexXY-OprM Cell invasion [106]
+Fitness cost adjustment [105]
+Cell metabolism [132, 133, 139] Quinolones, macrolides, TETs, lincomycin, CHL, aminoglycosides, penicillins except CAR, SB, cephems except cefsulodin and ceftazidime, meropenem, S-4661 [155]. MexXY-OprM Cell invasion [106]
+Fitness cost adjustment [105]
+Cell metabolism [132, 133, 139] Quinolones, macrolides, TETs, lincomycin, CHL, aminoglycosides, penicillins except CAR, SB, cephems except cefsulodin and ceftazidime, meropenem, S-4661 [155]. MexXY-OprM MexXY-OprM Cell invasion [106] Cell invasion [106] Fitness cost adjustment [105] Fitness cost adjustment [105] Cell metabolism [132, 133, 139] Cell metabolism [132, 133, 139] Quinolones, macrolides, TETs, lincomycin, CHL, aminoglycosides, penicillins except CAR, SB, cephems except cefsulodin and ceftazidime, meropenem, S-4661 [155] Quinolones, macrolides, TETs, lincomycin, CHL, aminoglycosides, penicillins except CAR, SB, cephems except cefsulodin and ceftazidime, meropenem, S-4661 [155] MexGHI-OpmD Cell proliferation [98, 140, 142, 143]
+Swarming motility [98, 140]
+Biofilm formation [142, 143]
+QSS [98, 140]
+Virulence [98, 140]
+Cell metabolism [118] NOR, ETBR, ACR, R6G [160]. MexGHI-OpmD Cell proliferation [98, 140, 142, 143]
+Swarming motility [98, 140]
+Biofilm formation [142, 143]
+QSS [98, 140]
+Virulence [98, 140]
+Cell metabolism [118] NOR, ETBR, ACR, R6G [160]. MexGHI-OpmD MexGHI-OpmD Cell proliferation [98, 140, 142, 143] Cell proliferation [98, 140, 142, 143] Swarming motility [98, 140] Swarming motility [98, 140] Biofilm formation [142, 143] Biofilm formation [142, 143] QSS [98, 140] QSS [98, 140] Virulence [98, 140] Virulence [98, 140] Cell metabolism [118] Cell metabolism [118] NOR, ETBR, ACR, R6G [160] NOR, ETBR, ACR, R6G [160] CzcABC Cell metabolism [144, 145] Cu, Zn [144, 145]. CzcABC Cell metabolism [144, 145] Cu, Zn [144, 145]. CzcABC CzcABC Cell metabolism [144, 145] Cell metabolism [144, 145] Cu, Zn [144, 145] Cu, Zn [144, 145] MexPQ-OpmE – Macrolides and FQ [161]. MexPQ-OpmE – Macrolides and FQ [161]. MexPQ-OpmE MexPQ-OpmE – – Macrolides and FQ [161] Macrolides and FQ [161] MexVW-OprM – FQ, TET, CHL, ERY, ETBR, ACR [162]. MexVW-OprM – FQ, TET, CHL, ERY, ETBR, ACR [162]. MexVW-OprM MexVW-OprM – – FQ, TET, CHL, ERY, ETBR, ACR [162] FQ, TET, CHL, ERY, ETBR, ACR [162] MexJK-OprM/OpmH – TRC, ERY [163]. MexJK-OprM/OpmH – TRC, ERY [163]. MexJK-OprM/OpmH MexJK-OprM/OpmH – – TRC, ERY [163] TRC, ERY [163] MexMN-OprM – CHL, THI [161]. MexMN-OprM – CHL, THI [161]. MexMN-OprM MexMN-OprM – – CHL, THI [161] CHL, THI [161] TriABC-OpmH – TRC [164]. TriABC-OpmH – TRC [164]. TriABC-OpmH TriABC-OpmH – – TRC [164] TRC [164] MuxABC-OpmB – ATM, NOV, TET, ERY, kitasamycin, rokitamycin [156]. MuxABC-OpmB – ATM, NOV, TET, ERY, kitasamycin, rokitamycin [156]. MuxABC-OpmB MuxABC-OpmB – – ATM, NOV, TET, ERY, kitasamycin, rokitamycin [156] ATM, NOV, TET, ERY, kitasamycin, rokitamycin [156] ACR, acriflavine; Ag, silverAMP, ampicillin; AMX, amoxicillin; ATM, aztreonam; Au, gold; BENZ, benzalkonium chloride; CAR, carbenicillin; CAZ, ceftazidime; CHL, chloramphenicol; CIP, ciprofloxacin; CLO, cloxacillin; CRO, ceftriaxone; CTX, cefoxitin; Cu, copper; CV, crystal violet; DOC, deoxycholic acid; DXR, doxorubicin; ENO, enoxacin; ERY, erythromycin; ETBR, ethidium bromide; FAM, cefamandole; FQ, fluoroquinolone; FUS, fusidic acid; LVX, levofloxacin; LZD, linezolid; MB, methylene blue; MIN, minocycline; NAF, nafcillin; NAL, nalidixic acid; NOR, norfloxacin; NOV, novobiocin; OXA, oxacillin; QSS, quorum sensing signal; R6G, rhodamine 6G; RIF, rifampicin; SB, sulbenicillin; SDS, sodium dodecyl sulfate; TET, tetracycline; TMP, trimethoprim; TPP, tetraphenylphosphonium bromide; TRC, triclosan; Zn, zinc. ACR, acriflavine; Ag, silverAMP, ampicillin; AMX, amoxicillin; ATM, aztreonam; Au, gold; BENZ, benzalkonium chloride; CAR, carbenicillin; CAZ, ceftazidime; CHL, chloramphenicol; CIP, ciprofloxacin; CLO, cloxacillin; CRO, ceftriaxone; CTX, cefoxitin; Cu, copper; CV, crystal violet; DOC, deoxycholic acid; DXR, doxorubicin; ENO, enoxacin; ERY, erythromycin; ETBR, ethidium bromide; FAM, cefamandole; FQ, fluoroquinolone; FUS, fusidic acid; LVX, levofloxacin; LZD, linezolid; MB, methylene blue; MIN, minocycline; NAF, nafcillin; NAL, nalidixic acid; NOR, norfloxacin; NOV, novobiocin; OXA, oxacillin; QSS, quorum sensing signal; R6G, rhodamine 6G; RIF, rifampicin; SB, sulbenicillin; SDS, sodium dodecyl sulfate; TET, tetracycline; TMP, trimethoprim; TPP, tetraphenylphosphonium bromide; TRC, triclosan; Zn, zinc. AcrAB–TolC AcrAB–TolC AcrAB–TolC Introductory explanation Introductory explanation Introductory explanation Introductory explanation Acr(acriflavine, acridine)AB-Tol(tolerance)C is the principal constitutively expressed efflux system in 
+
+S. enterica
+
+ serovar Typhimurium [10]. This efflux system consists of three components: AcrA, AcrB and TolC (Fig. 3). Many homologues of this pump have been identified in other species [11]. AcrA is a periplasmic lipoprotein classified as a membrane fusion protein (MFP, also referred to as periplasmic adaptor protein or PAP) that bridges the outer and inner membrane proteins. AcrA is anchored to the inner membrane via a lipid motif [12]. AcrB is an inner cytoplasmic membrane RND-type efflux pump with 12 membrane-spanning α-helices [13]. TolC, an outer membrane tunnel, belongs to a family of envelope proteins found in all Gram-negative bacteria. TolC is essential for expelling many different compounds [14]. To investigate the physiological role of this pump, many experiments have been performed using genetic modifications that alter gene expression. Acr(acriflavine, acridine)AB-Tol(tolerance)C is the principal constitutively expressed efflux system in 
+
+S. enterica
+
+ serovar Typhimurium [10]. This efflux system consists of three components: AcrA, AcrB and TolC (Fig. 3). Many homologues of this pump have been identified in other species [11]. AcrA is a periplasmic lipoprotein classified as a membrane fusion protein (MFP, also referred to as periplasmic adaptor protein or PAP) that bridges the outer and inner membrane proteins. AcrA is anchored to the inner membrane via a lipid motif [12]. AcrB is an inner cytoplasmic membrane RND-type efflux pump with 12 membrane-spanning α-helices [13]. TolC, an outer membrane tunnel, belongs to a family of envelope proteins found in all Gram-negative bacteria. TolC is essential for expelling many different compounds [14]. To investigate the physiological role of this pump, many experiments have been performed using genetic modifications that alter gene expression. Acr(acriflavine, acridine)AB-Tol(tolerance)C is the principal constitutively expressed efflux system in 
+
+S. enterica
+
+ serovar Typhimurium [10]. This efflux system consists of three components: AcrA, AcrB and TolC (Fig. 3). Many homologues of this pump have been identified in other species [11]. AcrA is a periplasmic lipoprotein classified as a membrane fusion protein (MFP, also referred to as periplasmic adaptor protein or PAP) that bridges the outer and inner membrane proteins. AcrA is anchored to the inner membrane via a lipid motif [12]. AcrB is an inner cytoplasmic membrane RND-type efflux pump with 12 membrane-spanning α-helices [13]. TolC, an outer membrane tunnel, belongs to a family of envelope proteins found in all Gram-negative bacteria. TolC is essential for expelling many different compounds [14]. To investigate the physiological role of this pump, many experiments have been performed using genetic modifications that alter gene expression. Acr(acriflavine, acridine)AB-Tol(tolerance)C is the principal constitutively expressed efflux system in 
+
+S. enterica
+
+ serovar Typhimurium [10]. This efflux system consists of three components: AcrA, AcrB and TolC (Fig. 3). Many homologues of this pump have been identified in other species [11]. AcrA is a periplasmic lipoprotein classified as a membrane fusion protein (MFP, also referred to as periplasmic adaptor protein or PAP) that bridges the outer and inner membrane proteins. AcrA is anchored to the inner membrane via a lipid motif [12]. AcrB is an inner cytoplasmic membrane RND-type efflux pump with 12 membrane-spanning α-helices [13]. TolC, an outer membrane tunnel, belongs to a family of envelope proteins found in all Gram-negative bacteria. TolC is essential for expelling many different compounds [14]. To investigate the physiological role of this pump, many experiments have been performed using genetic modifications that alter gene expression. Fig. 3.CryoEM structure of AcrAB–TolC. AcrAB–TolC is the best-studied RND-PAP-OMP tripartite system. AcrB is depicted as an asymmetrical homotrimer in the inner membrane. In the binding monomer (blue), the four main entrance channels are depicted as CH1, CH2, CH3 and CH4. In the extrusion monomer (red), the exit funnel is depicted in dark red, starting from the distal binding pocket (blue circle), continuing through the PAP-OMP tunnel structure, facilitating extruded molecule to be traversed out of the cells. PDB accession number used: 5O66 [165]. Fig. 3.CryoEM structure of AcrAB–TolC. AcrAB–TolC is the best-studied RND-PAP-OMP tripartite system. AcrB is depicted as an asymmetrical homotrimer in the inner membrane. In the binding monomer (blue), the four main entrance channels are depicted as CH1, CH2, CH3 and CH4. In the extrusion monomer (red), the exit funnel is depicted in dark red, starting from the distal binding pocket (blue circle), continuing through the PAP-OMP tunnel structure, facilitating extruded molecule to be traversed out of the cells. PDB accession number used: 5O66 [165]. Fig. 3.CryoEM structure of AcrAB–TolC. AcrAB–TolC is the best-studied RND-PAP-OMP tripartite system. AcrB is depicted as an asymmetrical homotrimer in the inner membrane. In the binding monomer (blue), the four main entrance channels are depicted as CH1, CH2, CH3 and CH4. In the extrusion monomer (red), the exit funnel is depicted in dark red, starting from the distal binding pocket (blue circle), continuing through the PAP-OMP tunnel structure, facilitating extruded molecule to be traversed out of the cells. PDB accession number used: 5O66 [165]. Fig. 3.CryoEM structure of AcrAB–TolC. AcrAB–TolC is the best-studied RND-PAP-OMP tripartite system. AcrB is depicted as an asymmetrical homotrimer in the inner membrane. In the binding monomer (blue), the four main entrance channels are depicted as CH1, CH2, CH3 and CH4. In the extrusion monomer (red), the exit funnel is depicted in dark red, starting from the distal binding pocket (blue circle), continuing through the PAP-OMP tunnel structure, facilitating extruded molecule to be traversed out of the cells. PDB accession number used: 5O66 [165]. CryoEM structure of AcrAB–TolC. AcrAB–TolC is the best-studied RND-PAP-OMP tripartite system. AcrB is depicted as an asymmetrical homotrimer in the inner membrane. In the binding monomer (blue), the four main entrance channels are depicted as CH1, CH2, CH3 and CH4. In the extrusion monomer (red), the exit funnel is depicted in dark red, starting from the distal binding pocket (blue circle), continuing through the PAP-OMP tunnel structure, facilitating extruded molecule to be traversed out of the cells. PDB accession number used: 5O66 [165]. CryoEM structure of AcrAB–TolC. AcrAB–TolC is the best-studied RND-PAP-OMP tripartite system. AcrB is depicted as an asymmetrical homotrimer in the inner membrane. In the binding monomer (blue), the four main entrance channels are depicted as CH1, CH2, CH3 and CH4. In the extrusion monomer (red), the exit funnel is depicted in dark red, starting from the distal binding pocket (blue circle), continuing through the PAP-OMP tunnel structure, facilitating extruded molecule to be traversed out of the cells. PDB accession number used: 5O66 [165]. CryoEM structure of AcrAB–TolC. AcrAB–TolC is the best-studied RND-PAP-OMP tripartite system. AcrB is depicted as an asymmetrical homotrimer in the inner membrane. In the binding monomer (blue), the four main entrance channels are depicted as CH1, CH2, CH3 and CH4. In the extrusion monomer (red), the exit funnel is depicted in dark red, starting from the distal binding pocket (blue circle), continuing through the PAP-OMP tunnel structure, facilitating extruded molecule to be traversed out of the cells. PDB accession number used: 5O66 [165]. CryoEM structure of AcrAB–TolC. AcrAB–TolC is the best-studied RND-PAP-OMP tripartite system. AcrB is depicted as an asymmetrical homotrimer in the inner membrane. In the binding monomer (blue), the four main entrance channels are depicted as CH1, CH2, CH3 and CH4. In the extrusion monomer (red), the exit funnel is depicted in dark red, starting from the distal binding pocket (blue circle), continuing through the PAP-OMP tunnel structure, facilitating extruded molecule to be traversed out of the cells. PDB accession number used: 5O66 [165]. Cell adhesion and invasion Cell adhesion and invasion Cell adhesion and invasion Cell adhesion and invasion Experiments have been performed where genes encoding components of tripartite efflux pumps, including acrA, acrB and tolC, were directly manipulated (knockout or overexpression). Buckley et al. showed that mutants of the 
+
+S. enterica
+
+ strain SL1344 with deletions of tolC poorly adhered to and poorly invaded human intestinal epithelial cells (hECs) and mouse monocyte-derived macrophages. acrB gene deletion resulted in normal adhesion to hECs, but restricted invasion in hECs and macrophages. In vivo, the infection rates in birds of acrB and tolC mutant SL1344 strains were lower, owing to poor colonization and persistence in the avian gastrointestinal tract [15]. AcrA is also required for cell invasion in human intestinal cells, although its contribution might be less than that of AcrB and TolC [16]. Webber et al. conducted transcriptional analysis and showed that the absence of acrB and tolC caused widespread repression of chemotaxis and motility genes in these mutants, especially with the decreased motility of acrB mutants [17]. Experiments have been performed where genes encoding components of tripartite efflux pumps, including acrA, acrB and tolC, were directly manipulated (knockout or overexpression). Buckley et al. showed that mutants of the 
+
+S. enterica
+
+ strain SL1344 with deletions of tolC poorly adhered to and poorly invaded human intestinal epithelial cells (hECs) and mouse monocyte-derived macrophages. acrB gene deletion resulted in normal adhesion to hECs, but restricted invasion in hECs and macrophages. In vivo, the infection rates in birds of acrB and tolC mutant SL1344 strains were lower, owing to poor colonization and persistence in the avian gastrointestinal tract [15]. AcrA is also required for cell invasion in human intestinal cells, although its contribution might be less than that of AcrB and TolC [16]. Webber et al. conducted transcriptional analysis and showed that the absence of acrB and tolC caused widespread repression of chemotaxis and motility genes in these mutants, especially with the decreased motility of acrB mutants [17]. Experiments have been performed where genes encoding components of tripartite efflux pumps, including acrA, acrB and tolC, were directly manipulated (knockout or overexpression). Buckley et al. showed that mutants of the 
+
+S. enterica
+
+ strain SL1344 with deletions of tolC poorly adhered to and poorly invaded human intestinal epithelial cells (hECs) and mouse monocyte-derived macrophages. acrB gene deletion resulted in normal adhesion to hECs, but restricted invasion in hECs and macrophages. In vivo, the infection rates in birds of acrB and tolC mutant SL1344 strains were lower, owing to poor colonization and persistence in the avian gastrointestinal tract [15]. AcrA is also required for cell invasion in human intestinal cells, although its contribution might be less than that of AcrB and TolC [16]. Webber et al. conducted transcriptional analysis and showed that the absence of acrB and tolC caused widespread repression of chemotaxis and motility genes in these mutants, especially with the decreased motility of acrB mutants [17]. Experiments have been performed where genes encoding components of tripartite efflux pumps, including acrA, acrB and tolC, were directly manipulated (knockout or overexpression). Buckley et al. showed that mutants of the 
+
+S. enterica
+
+ strain SL1344 with deletions of tolC poorly adhered to and poorly invaded human intestinal epithelial cells (hECs) and mouse monocyte-derived macrophages. acrB gene deletion resulted in normal adhesion to hECs, but restricted invasion in hECs and macrophages. In vivo, the infection rates in birds of acrB and tolC mutant SL1344 strains were lower, owing to poor colonization and persistence in the avian gastrointestinal tract [15]. AcrA is also required for cell invasion in human intestinal cells, although its contribution might be less than that of AcrB and TolC [16]. Webber et al. conducted transcriptional analysis and showed that the absence of acrB and tolC caused widespread repression of chemotaxis and motility genes in these mutants, especially with the decreased motility of acrB mutants [17]. Virulence Virulence Virulence Virulence Pathogenicity to host cells is influenced by virulence-related gene expression changes derived from the mutation of genes in the AcrAB–TolC system. During the inactivation of acrB or tolC, Webber et al. [17] also observed decreased gene expression at the transcriptional and protein levels of 
+
+S. enterica
+
+ pathogenicity island (SPI) 1 genes, which are involved in various components of the type III secretion system (T3SS) [18]. Conversely, Virlogeux-Payant et al.demonstrated a lower effect on invasion into hECs and virulence-related factors in an acrB knockout while observing disruptions in the expression of the SPI-1 genes sipA, invF and hilA in the absence of tolC [19]. These results are consistent with in vivo results by the same authors, where these tolC mutants infected chicks, notably in the intestine, and their parents [20]. The authors argued that an explanation for these differences with the outcome of Buckley et al. [15] in adhesion/invasion ability stems from differences between MDR and sensitive strains of 
+
+S. enterica
+
+ serovar Typhimurium. Pathogenicity to host cells is influenced by virulence-related gene expression changes derived from the mutation of genes in the AcrAB–TolC system. During the inactivation of acrB or tolC, Webber et al. [17] also observed decreased gene expression at the transcriptional and protein levels of 
+
+S. enterica
+
+ pathogenicity island (SPI) 1 genes, which are involved in various components of the type III secretion system (T3SS) [18]. Conversely, Virlogeux-Payant et al.demonstrated a lower effect on invasion into hECs and virulence-related factors in an acrB knockout while observing disruptions in the expression of the SPI-1 genes sipA, invF and hilA in the absence of tolC [19]. These results are consistent with in vivo results by the same authors, where these tolC mutants infected chicks, notably in the intestine, and their parents [20]. The authors argued that an explanation for these differences with the outcome of Buckley et al. [15] in adhesion/invasion ability stems from differences between MDR and sensitive strains of 
+
+S. enterica
+
+ serovar Typhimurium. Pathogenicity to host cells is influenced by virulence-related gene expression changes derived from the mutation of genes in the AcrAB–TolC system. During the inactivation of acrB or tolC, Webber et al. [17] also observed decreased gene expression at the transcriptional and protein levels of 
+
+S. enterica
+
+ pathogenicity island (SPI) 1 genes, which are involved in various components of the type III secretion system (T3SS) [18]. Conversely, Virlogeux-Payant et al.demonstrated a lower effect on invasion into hECs and virulence-related factors in an acrB knockout while observing disruptions in the expression of the SPI-1 genes sipA, invF and hilA in the absence of tolC [19]. These results are consistent with in vivo results by the same authors, where these tolC mutants infected chicks, notably in the intestine, and their parents [20]. The authors argued that an explanation for these differences with the outcome of Buckley et al. [15] in adhesion/invasion ability stems from differences between MDR and sensitive strains of 
+
+S. enterica
+
+ serovar Typhimurium. Pathogenicity to host cells is influenced by virulence-related gene expression changes derived from the mutation of genes in the AcrAB–TolC system. During the inactivation of acrB or tolC, Webber et al. [17] also observed decreased gene expression at the transcriptional and protein levels of 
+
+S. enterica
+
+ pathogenicity island (SPI) 1 genes, which are involved in various components of the type III secretion system (T3SS) [18]. Conversely, Virlogeux-Payant et al.demonstrated a lower effect on invasion into hECs and virulence-related factors in an acrB knockout while observing disruptions in the expression of the SPI-1 genes sipA, invF and hilA in the absence of tolC [19]. These results are consistent with in vivo results by the same authors, where these tolC mutants infected chicks, notably in the intestine, and their parents [20]. The authors argued that an explanation for these differences with the outcome of Buckley et al. [15] in adhesion/invasion ability stems from differences between MDR and sensitive strains of 
+
+S. enterica
+
+ serovar Typhimurium. Biofilm formation Biofilm formation Biofilm formation Biofilm formation Biofilm formation causing multidrug resistance has frequently been observed in 
+
+S. enterica
+
+, as well as other bacterial species. Baugh et al. described, using 10 efflux pump (acrB, tolC, acrD, acrEF, mdtABC, mdsABC, emrAB, mdfA, mdtK and macAB) mutant strains in crystal violet (CV) biofilm assays, that an inability to form a competent biofilm resulted from the inactivation of individual multidrug resistance efflux systems of 
+
+S. enterica
+
+ [21]. Moreover, mutants of 
+
+S. enterica
+
+ serovar Typhimurium that lack tolC or acrB, but not acrA, had a compromised ability to form biofilms. One factor causing biofilm failure is the transcriptional repression of curli biosynthesis genes. Curli is a major component of the 
+
+S. enterica
+
+ biofilm extracellular matrix [22]. Conversely, Schlisselberg et al. reported that deletion of acrB alone or with acrA did not affect the ability of 
+
+S. enterica
+
+ serovar Typhimurium to form biofilms on polystyrene in Lysogeny Broth (LB) [23]. The main reason for this discrepancy is unknown, but the different experimental conditions under stressful environments might lead to contradictory findings. Biofilm formation causing multidrug resistance has frequently been observed in 
+
+S. enterica
+
+, as well as other bacterial species. Baugh et al. described, using 10 efflux pump (acrB, tolC, acrD, acrEF, mdtABC, mdsABC, emrAB, mdfA, mdtK and macAB) mutant strains in crystal violet (CV) biofilm assays, that an inability to form a competent biofilm resulted from the inactivation of individual multidrug resistance efflux systems of 
+
+S. enterica
+
+ [21]. Moreover, mutants of 
+
+S. enterica
+
+ serovar Typhimurium that lack tolC or acrB, but not acrA, had a compromised ability to form biofilms. One factor causing biofilm failure is the transcriptional repression of curli biosynthesis genes. Curli is a major component of the 
+
+S. enterica
+
+ biofilm extracellular matrix [22]. Conversely, Schlisselberg et al. reported that deletion of acrB alone or with acrA did not affect the ability of 
+
+S. enterica
+
+ serovar Typhimurium to form biofilms on polystyrene in Lysogeny Broth (LB) [23]. The main reason for this discrepancy is unknown, but the different experimental conditions under stressful environments might lead to contradictory findings. Biofilm formation causing multidrug resistance has frequently been observed in 
+
+S. enterica
+
+, as well as other bacterial species. Baugh et al. described, using 10 efflux pump (acrB, tolC, acrD, acrEF, mdtABC, mdsABC, emrAB, mdfA, mdtK and macAB) mutant strains in crystal violet (CV) biofilm assays, that an inability to form a competent biofilm resulted from the inactivation of individual multidrug resistance efflux systems of 
+
+S. enterica
+
+ [21]. Moreover, mutants of 
+
+S. enterica
+
+ serovar Typhimurium that lack tolC or acrB, but not acrA, had a compromised ability to form biofilms. One factor causing biofilm failure is the transcriptional repression of curli biosynthesis genes. Curli is a major component of the 
+
+S. enterica
+
+ biofilm extracellular matrix [22]. Conversely, Schlisselberg et al. reported that deletion of acrB alone or with acrA did not affect the ability of 
+
+S. enterica
+
+ serovar Typhimurium to form biofilms on polystyrene in Lysogeny Broth (LB) [23]. The main reason for this discrepancy is unknown, but the different experimental conditions under stressful environments might lead to contradictory findings. Biofilm formation causing multidrug resistance has frequently been observed in 
+
+S. enterica
+
+, as well as other bacterial species. Baugh et al. described, using 10 efflux pump (acrB, tolC, acrD, acrEF, mdtABC, mdsABC, emrAB, mdfA, mdtK and macAB) mutant strains in crystal violet (CV) biofilm assays, that an inability to form a competent biofilm resulted from the inactivation of individual multidrug resistance efflux systems of 
+
+S. enterica
+
+ [21]. Moreover, mutants of 
+
+S. enterica
+
+ serovar Typhimurium that lack tolC or acrB, but not acrA, had a compromised ability to form biofilms. One factor causing biofilm failure is the transcriptional repression of curli biosynthesis genes. Curli is a major component of the 
+
+S. enterica
+
+ biofilm extracellular matrix [22]. Conversely, Schlisselberg et al. reported that deletion of acrB alone or with acrA did not affect the ability of 
+
+S. enterica
+
+ serovar Typhimurium to form biofilms on polystyrene in Lysogeny Broth (LB) [23]. The main reason for this discrepancy is unknown, but the different experimental conditions under stressful environments might lead to contradictory findings. Compensatory regulation mechanism Compensatory regulation mechanism Compensatory regulation mechanism Compensatory regulation mechanism Without the acrAB pump, compensatory regulatory mechanisms are activated via other multidrug resistance pumps. The single deletion of acrA or tolC increased the expression of acrB because of the functional redundancy between RND efflux pumps. The deletion of acrAB increased the expression of seven other functional efflux pump genes (acrF, acrD, mdsB, mdtB, macA, emrA and mdfA) and vice versa in a compensatory signalling system. This compensation could be mediated through the coordinated upregulation of ramA and marA, global regulators of 
+
+S. enterica
+
+ pumps [24, 25]. Zhang et al. also indicated that the inactivation of each functional efflux pump gene reduced the adhesion and invasion abilities of 
+
+S. enterica
+
+ serovar Typhimurium into INT407 cells [24]. In contrast to strains lacking the acrB gene, Wang-Kan et al. investigated non-functional mutants of AcrAB–TolC pumps by mutating the single amino acid D408 [26]. The SL1344 acrB D408A mutant had the same native protein expression level of AcrB as the parental strain. However, the D408A mutant reduced the invasion into intestinal epithelial cells and macrophages in vitro and showed a lower survival rate in vivo in mouse and Galleria mellonella models. RNA-seq revealed the downregulation of SPI genes and the upregulation of stress response and flagellar motility genes. Unlike the loss of the AcrB protein, the loss of efflux function did not induce overexpression of other RND efflux pumps. Mutants containing pumps that do not function but are still present should be investigated, since this is likely to depict a more clinically realistic phenotype than gene deletion models. Without the acrAB pump, compensatory regulatory mechanisms are activated via other multidrug resistance pumps. The single deletion of acrA or tolC increased the expression of acrB because of the functional redundancy between RND efflux pumps. The deletion of acrAB increased the expression of seven other functional efflux pump genes (acrF, acrD, mdsB, mdtB, macA, emrA and mdfA) and vice versa in a compensatory signalling system. This compensation could be mediated through the coordinated upregulation of ramA and marA, global regulators of 
+
+S. enterica
+
+ pumps [24, 25]. Zhang et al. also indicated that the inactivation of each functional efflux pump gene reduced the adhesion and invasion abilities of 
+
+S. enterica
+
+ serovar Typhimurium into INT407 cells [24]. In contrast to strains lacking the acrB gene, Wang-Kan et al. investigated non-functional mutants of AcrAB–TolC pumps by mutating the single amino acid D408 [26]. The SL1344 acrB D408A mutant had the same native protein expression level of AcrB as the parental strain. However, the D408A mutant reduced the invasion into intestinal epithelial cells and macrophages in vitro and showed a lower survival rate in vivo in mouse and Galleria mellonella models. RNA-seq revealed the downregulation of SPI genes and the upregulation of stress response and flagellar motility genes. Unlike the loss of the AcrB protein, the loss of efflux function did not induce overexpression of other RND efflux pumps. Mutants containing pumps that do not function but are still present should be investigated, since this is likely to depict a more clinically realistic phenotype than gene deletion models. Without the acrAB pump, compensatory regulatory mechanisms are activated via other multidrug resistance pumps. The single deletion of acrA or tolC increased the expression of acrB because of the functional redundancy between RND efflux pumps. The deletion of acrAB increased the expression of seven other functional efflux pump genes (acrF, acrD, mdsB, mdtB, macA, emrA and mdfA) and vice versa in a compensatory signalling system. This compensation could be mediated through the coordinated upregulation of ramA and marA, global regulators of 
+
+S. enterica
+
+ pumps [24, 25]. Zhang et al. also indicated that the inactivation of each functional efflux pump gene reduced the adhesion and invasion abilities of 
+
+S. enterica
+
+ serovar Typhimurium into INT407 cells [24]. In contrast to strains lacking the acrB gene, Wang-Kan et al. investigated non-functional mutants of AcrAB–TolC pumps by mutating the single amino acid D408 [26]. The SL1344 acrB D408A mutant had the same native protein expression level of AcrB as the parental strain. However, the D408A mutant reduced the invasion into intestinal epithelial cells and macrophages in vitro and showed a lower survival rate in vivo in mouse and Galleria mellonella models. RNA-seq revealed the downregulation of SPI genes and the upregulation of stress response and flagellar motility genes. Unlike the loss of the AcrB protein, the loss of efflux function did not induce overexpression of other RND efflux pumps. Mutants containing pumps that do not function but are still present should be investigated, since this is likely to depict a more clinically realistic phenotype than gene deletion models. Without the acrAB pump, compensatory regulatory mechanisms are activated via other multidrug resistance pumps. The single deletion of acrA or tolC increased the expression of acrB because of the functional redundancy between RND efflux pumps. The deletion of acrAB increased the expression of seven other functional efflux pump genes (acrF, acrD, mdsB, mdtB, macA, emrA and mdfA) and vice versa in a compensatory signalling system. This compensation could be mediated through the coordinated upregulation of ramA and marA, global regulators of 
+
+S. enterica
+
+ pumps [24, 25]. Zhang et al. also indicated that the inactivation of each functional efflux pump gene reduced the adhesion and invasion abilities of 
+
+S. enterica
+
+ serovar Typhimurium into INT407 cells [24]. In contrast to strains lacking the acrB gene, Wang-Kan et al. investigated non-functional mutants of AcrAB–TolC pumps by mutating the single amino acid D408 [26]. The SL1344 acrB D408A mutant had the same native protein expression level of AcrB as the parental strain. However, the D408A mutant reduced the invasion into intestinal epithelial cells and macrophages in vitro and showed a lower survival rate in vivo in mouse and Galleria mellonella models. RNA-seq revealed the downregulation of SPI genes and the upregulation of stress response and flagellar motility genes. Unlike the loss of the AcrB protein, the loss of efflux function did not induce overexpression of other RND efflux pumps. Mutants containing pumps that do not function but are still present should be investigated, since this is likely to depict a more clinically realistic phenotype than gene deletion models. RamA regulatory signalling RamA regulatory signalling RamA regulatory signalling RamA regulatory signalling RamA, which binds directly to the promoter region of acrAB, is the most important regulator of acrAB expression in 
+
+S. enterica
+
+. Bailey et al. indicated that highly overexpressed ramA led to increased expression of acrAB, acrEF and tolC. Decreased expression of multiple SPI-1 genes reduced adhesion to and survival within RAW 264.7 mouse macrophages, and decreased colonization of Caenorhabditis elegans was also seen. However, the inactivation of ramA led to increased expression of SPI-1 genes, reduced the expression of SPI-2 genes, and altered the expression of ribosomal biosynthesis genes and several amino acid biosynthesis pathways. Furthermore, disruption of ramA led to decreased survival within macrophages and attenuation in a BALB/c ByJ mouse model [27]. In another report, ramA expression promoted the development of ciprofloxacin (CIP) resistant mutants of 
+
+S. enterica
+
+ serovar Typhimurium (CVCC541 strain) with the increased expression level of acrAB. In contrast, the inhibition of ramA decreased the appearance of CIP-resistant mutants [28]. RamA, which binds directly to the promoter region of acrAB, is the most important regulator of acrAB expression in 
+
+S. enterica
+
+. Bailey et al. indicated that highly overexpressed ramA led to increased expression of acrAB, acrEF and tolC. Decreased expression of multiple SPI-1 genes reduced adhesion to and survival within RAW 264.7 mouse macrophages, and decreased colonization of Caenorhabditis elegans was also seen. However, the inactivation of ramA led to increased expression of SPI-1 genes, reduced the expression of SPI-2 genes, and altered the expression of ribosomal biosynthesis genes and several amino acid biosynthesis pathways. Furthermore, disruption of ramA led to decreased survival within macrophages and attenuation in a BALB/c ByJ mouse model [27]. In another report, ramA expression promoted the development of ciprofloxacin (CIP) resistant mutants of 
+
+S. enterica
+
+ serovar Typhimurium (CVCC541 strain) with the increased expression level of acrAB. In contrast, the inhibition of ramA decreased the appearance of CIP-resistant mutants [28]. RamA, which binds directly to the promoter region of acrAB, is the most important regulator of acrAB expression in 
+
+S. enterica
+
+. Bailey et al. indicated that highly overexpressed ramA led to increased expression of acrAB, acrEF and tolC. Decreased expression of multiple SPI-1 genes reduced adhesion to and survival within RAW 264.7 mouse macrophages, and decreased colonization of Caenorhabditis elegans was also seen. However, the inactivation of ramA led to increased expression of SPI-1 genes, reduced the expression of SPI-2 genes, and altered the expression of ribosomal biosynthesis genes and several amino acid biosynthesis pathways. Furthermore, disruption of ramA led to decreased survival within macrophages and attenuation in a BALB/c ByJ mouse model [27]. In another report, ramA expression promoted the development of ciprofloxacin (CIP) resistant mutants of 
+
+S. enterica
+
+ serovar Typhimurium (CVCC541 strain) with the increased expression level of acrAB. In contrast, the inhibition of ramA decreased the appearance of CIP-resistant mutants [28]. RamA, which binds directly to the promoter region of acrAB, is the most important regulator of acrAB expression in 
+
+S. enterica
+
+. Bailey et al. indicated that highly overexpressed ramA led to increased expression of acrAB, acrEF and tolC. Decreased expression of multiple SPI-1 genes reduced adhesion to and survival within RAW 264.7 mouse macrophages, and decreased colonization of Caenorhabditis elegans was also seen. However, the inactivation of ramA led to increased expression of SPI-1 genes, reduced the expression of SPI-2 genes, and altered the expression of ribosomal biosynthesis genes and several amino acid biosynthesis pathways. Furthermore, disruption of ramA led to decreased survival within macrophages and attenuation in a BALB/c ByJ mouse model [27]. In another report, ramA expression promoted the development of ciprofloxacin (CIP) resistant mutants of 
+
+S. enterica
+
+ serovar Typhimurium (CVCC541 strain) with the increased expression level of acrAB. In contrast, the inhibition of ramA decreased the appearance of CIP-resistant mutants [28]. RamR regulatory signalling RamR regulatory signalling RamR regulatory signalling RamR regulatory signalling RamR, located upstream of ramA, is a repressor of ramA. Disruption of ramR led to the increased expression of ramA, acrAB and tolC [27]. Giraud et al. investigated the expression levels of acrAB-tolC efflux-related genes and invasion-related genes in fluoroquinolone (FQ) resistant strains bearing natural mutations in the ramRA locus or FQ-susceptible strains, inducing overexpressed or deleted ramR. Unexpectedly, decreased expression of acrAB-tolC efflux-related genes and increased expression of invasion-related genes were observed in an FQ-resistant strain with ramR deletion, whereas the opposite expression patterns were observed in an FQ-susceptible strain with ramR deletion. The genetic background of the strains may influence these results. In contrast, an FQ-resistant strain (DT204 strain 102SA00) complemented with a wild-type ramR gene showed decreased acrAB-tolC expression and enhanced invasion ability as well as increases in hilA, invA and sipA transcript levels [29]. Structured binding to RamR by substrates such as berberine, CV, dequalinium, ethidium bromide (ETBR) and rhodamin 6G, and bile acids such as cholic and chenodeoxycholic acids was identified [30, 31]. RamR, located upstream of ramA, is a repressor of ramA. Disruption of ramR led to the increased expression of ramA, acrAB and tolC [27]. Giraud et al. investigated the expression levels of acrAB-tolC efflux-related genes and invasion-related genes in fluoroquinolone (FQ) resistant strains bearing natural mutations in the ramRA locus or FQ-susceptible strains, inducing overexpressed or deleted ramR. Unexpectedly, decreased expression of acrAB-tolC efflux-related genes and increased expression of invasion-related genes were observed in an FQ-resistant strain with ramR deletion, whereas the opposite expression patterns were observed in an FQ-susceptible strain with ramR deletion. The genetic background of the strains may influence these results. In contrast, an FQ-resistant strain (DT204 strain 102SA00) complemented with a wild-type ramR gene showed decreased acrAB-tolC expression and enhanced invasion ability as well as increases in hilA, invA and sipA transcript levels [29]. Structured binding to RamR by substrates such as berberine, CV, dequalinium, ethidium bromide (ETBR) and rhodamin 6G, and bile acids such as cholic and chenodeoxycholic acids was identified [30, 31]. RamR, located upstream of ramA, is a repressor of ramA. Disruption of ramR led to the increased expression of ramA, acrAB and tolC [27]. Giraud et al. investigated the expression levels of acrAB-tolC efflux-related genes and invasion-related genes in fluoroquinolone (FQ) resistant strains bearing natural mutations in the ramRA locus or FQ-susceptible strains, inducing overexpressed or deleted ramR. Unexpectedly, decreased expression of acrAB-tolC efflux-related genes and increased expression of invasion-related genes were observed in an FQ-resistant strain with ramR deletion, whereas the opposite expression patterns were observed in an FQ-susceptible strain with ramR deletion. The genetic background of the strains may influence these results. In contrast, an FQ-resistant strain (DT204 strain 102SA00) complemented with a wild-type ramR gene showed decreased acrAB-tolC expression and enhanced invasion ability as well as increases in hilA, invA and sipA transcript levels [29]. Structured binding to RamR by substrates such as berberine, CV, dequalinium, ethidium bromide (ETBR) and rhodamin 6G, and bile acids such as cholic and chenodeoxycholic acids was identified [30, 31]. RamR, located upstream of ramA, is a repressor of ramA. Disruption of ramR led to the increased expression of ramA, acrAB and tolC [27]. Giraud et al. investigated the expression levels of acrAB-tolC efflux-related genes and invasion-related genes in fluoroquinolone (FQ) resistant strains bearing natural mutations in the ramRA locus or FQ-susceptible strains, inducing overexpressed or deleted ramR. Unexpectedly, decreased expression of acrAB-tolC efflux-related genes and increased expression of invasion-related genes were observed in an FQ-resistant strain with ramR deletion, whereas the opposite expression patterns were observed in an FQ-susceptible strain with ramR deletion. The genetic background of the strains may influence these results. In contrast, an FQ-resistant strain (DT204 strain 102SA00) complemented with a wild-type ramR gene showed decreased acrAB-tolC expression and enhanced invasion ability as well as increases in hilA, invA and sipA transcript levels [29]. Structured binding to RamR by substrates such as berberine, CV, dequalinium, ethidium bromide (ETBR) and rhodamin 6G, and bile acids such as cholic and chenodeoxycholic acids was identified [30, 31]. Cell metabolism Cell metabolism Cell metabolism Cell metabolism In addition to the role of the AcrAB–TolC pump in drug transport and pathogen virulence, it also plays a role in cell metabolism through the export of host-derived substrates such as bile salts, fatty acids, and steroid hormones to survive within the stressful environment of the host. Bile-mediated activation of acrB and tolC occurred because of the direct binding of bile-activated ramA or bile binding to ramR, inducing the transcriptional derepression of ramA [32, 33]. Indole activates ramA transcription by repressing ramR, and overproduction of ramA causes increased acrAB expression [33, 34]. Additionally, indole represses SPI-1 genes, flagella production and the invasive activity of 
+
+S. enterica
+
+, although this effect is independent of the ramA regulatory signal [35]. Recently, aside from the regulatory signalling of ramRA, carbon storage regulator A (CsrA) has been identified as a regulator of acrAB in the presence of indole [36]. Paraquat, a superoxide generator, induces acrAB expression dependent on soxS but not ramA [34]. In addition to the role of the AcrAB–TolC pump in drug transport and pathogen virulence, it also plays a role in cell metabolism through the export of host-derived substrates such as bile salts, fatty acids, and steroid hormones to survive within the stressful environment of the host. Bile-mediated activation of acrB and tolC occurred because of the direct binding of bile-activated ramA or bile binding to ramR, inducing the transcriptional derepression of ramA [32, 33]. Indole activates ramA transcription by repressing ramR, and overproduction of ramA causes increased acrAB expression [33, 34]. Additionally, indole represses SPI-1 genes, flagella production and the invasive activity of 
+
+S. enterica
+
+, although this effect is independent of the ramA regulatory signal [35]. Recently, aside from the regulatory signalling of ramRA, carbon storage regulator A (CsrA) has been identified as a regulator of acrAB in the presence of indole [36]. Paraquat, a superoxide generator, induces acrAB expression dependent on soxS but not ramA [34]. In addition to the role of the AcrAB–TolC pump in drug transport and pathogen virulence, it also plays a role in cell metabolism through the export of host-derived substrates such as bile salts, fatty acids, and steroid hormones to survive within the stressful environment of the host. Bile-mediated activation of acrB and tolC occurred because of the direct binding of bile-activated ramA or bile binding to ramR, inducing the transcriptional derepression of ramA [32, 33]. Indole activates ramA transcription by repressing ramR, and overproduction of ramA causes increased acrAB expression [33, 34]. Additionally, indole represses SPI-1 genes, flagella production and the invasive activity of 
+
+S. enterica
+
+, although this effect is independent of the ramA regulatory signal [35]. Recently, aside from the regulatory signalling of ramRA, carbon storage regulator A (CsrA) has been identified as a regulator of acrAB in the presence of indole [36]. Paraquat, a superoxide generator, induces acrAB expression dependent on soxS but not ramA [34]. In addition to the role of the AcrAB–TolC pump in drug transport and pathogen virulence, it also plays a role in cell metabolism through the export of host-derived substrates such as bile salts, fatty acids, and steroid hormones to survive within the stressful environment of the host. Bile-mediated activation of acrB and tolC occurred because of the direct binding of bile-activated ramA or bile binding to ramR, inducing the transcriptional derepression of ramA [32, 33]. Indole activates ramA transcription by repressing ramR, and overproduction of ramA causes increased acrAB expression [33, 34]. Additionally, indole represses SPI-1 genes, flagella production and the invasive activity of 
+
+S. enterica
+
+, although this effect is independent of the ramA regulatory signal [35]. Recently, aside from the regulatory signalling of ramRA, carbon storage regulator A (CsrA) has been identified as a regulator of acrAB in the presence of indole [36]. Paraquat, a superoxide generator, induces acrAB expression dependent on soxS but not ramA [34]. Acr(A)D-TolC Acr(A)D-TolC Acr(A)D-TolC To function as an efflux pump, AcrA and TolC are necessary for AcrD and AcrB, although acrA is not located in the same operon as acrD (Table S2) [37]. The AcrD efflux pump is not simply a redundant system with AcrB but also has distinct physiological functions. Inactivation of acrD leads to changes in the expression of genes involved in basic metabolism, virulence and stress responses. The metabolite fumarate is required for switching of the direction of flagellum rotation. The perturbation of fumarate production by acrD deficiency is related to decreased swarming motility [38]. When acrB is deleted, acrD expression increases. We demonstrated that the two-component regulatory system baeSR induced the expression of acrD and mdtABC in response to indole, copper (Cu) and zinc (Zn) in strains lacking acrB. As a result, AcrD contributes to metal resistance in cooperation with MdtABC through the baeSR activation pathway [39]. In another report, there is a functional overlap between MdtA, AcrD and AcrB for resistance to sodium tungstate. The induction of acrD expression cloned in a plasmid into baeR mutation strains rescued cell survival in an environment containing tungstate [40]. To function as an efflux pump, AcrA and TolC are necessary for AcrD and AcrB, although acrA is not located in the same operon as acrD (Table S2) [37]. The AcrD efflux pump is not simply a redundant system with AcrB but also has distinct physiological functions. Inactivation of acrD leads to changes in the expression of genes involved in basic metabolism, virulence and stress responses. The metabolite fumarate is required for switching of the direction of flagellum rotation. The perturbation of fumarate production by acrD deficiency is related to decreased swarming motility [38]. When acrB is deleted, acrD expression increases. We demonstrated that the two-component regulatory system baeSR induced the expression of acrD and mdtABC in response to indole, copper (Cu) and zinc (Zn) in strains lacking acrB. As a result, AcrD contributes to metal resistance in cooperation with MdtABC through the baeSR activation pathway [39]. In another report, there is a functional overlap between MdtA, AcrD and AcrB for resistance to sodium tungstate. The induction of acrD expression cloned in a plasmid into baeR mutation strains rescued cell survival in an environment containing tungstate [40]. To function as an efflux pump, AcrA and TolC are necessary for AcrD and AcrB, although acrA is not located in the same operon as acrD (Table S2) [37]. The AcrD efflux pump is not simply a redundant system with AcrB but also has distinct physiological functions. Inactivation of acrD leads to changes in the expression of genes involved in basic metabolism, virulence and stress responses. The metabolite fumarate is required for switching of the direction of flagellum rotation. The perturbation of fumarate production by acrD deficiency is related to decreased swarming motility [38]. When acrB is deleted, acrD expression increases. We demonstrated that the two-component regulatory system baeSR induced the expression of acrD and mdtABC in response to indole, copper (Cu) and zinc (Zn) in strains lacking acrB. As a result, AcrD contributes to metal resistance in cooperation with MdtABC through the baeSR activation pathway [39]. In another report, there is a functional overlap between MdtA, AcrD and AcrB for resistance to sodium tungstate. The induction of acrD expression cloned in a plasmid into baeR mutation strains rescued cell survival in an environment containing tungstate [40]. AcrEF-TolC AcrEF-TolC AcrEF-TolC The AcrEF efflux pump of 
+
+S. enterica
+
+ serovar Typhimurium shows high sequence similarity to the AcrAB pump [41]. We reported that the histone-like nucleoid structuring protein (H-NS) modulated multidrug resistance through the repression of genes encoding the AcrEF multidrug efflux pump in S.enterica serovar Typhimurium [42]. There is not much information known regarding this pump. The AcrEF efflux pump of 
+
+S. enterica
+
+ serovar Typhimurium shows high sequence similarity to the AcrAB pump [41]. We reported that the histone-like nucleoid structuring protein (H-NS) modulated multidrug resistance through the repression of genes encoding the AcrEF multidrug efflux pump in S.enterica serovar Typhimurium [42]. There is not much information known regarding this pump. The AcrEF efflux pump of 
+
+S. enterica
+
+ serovar Typhimurium shows high sequence similarity to the AcrAB pump [41]. We reported that the histone-like nucleoid structuring protein (H-NS) modulated multidrug resistance through the repression of genes encoding the AcrEF multidrug efflux pump in S.enterica serovar Typhimurium [42]. There is not much information known regarding this pump. MdsAB-MdsC/TolC MdsAB-MdsC/TolC MdsAB-MdsC/TolC S. enterica
+
+-specific Mds(multidrug transporter of 
+
+Salmonella
+
+)AB functions with either MdsC or TolC for drug resistance, whereas other RND transporter systems only require TolC in 
+
+S. enterica
+
+ [43]. 
+
+S. enterica
+
+ infection of macrophages induces the upregulation of mdsABC expression and increases the intracellular bacterial number and host cell death. Strains with mdsABC deletion had decreased survival in infected macrophages. Additionally, overexpression of mdsABC leads to increased secretion of 1-palmitoyl-2-stearoyl-phosphatidylserine, affecting the ability of bacteria to invade and survive in host cells [44]. This pump system confers central resistance to gold (Au) stress and some antimicrobial dyes and oxidative stress-inducing agents [45]. MdsABC can also mediate the drug resistance induced by Au in a GolS-dependent manner in acrAB-deleted strains. In recent work by the same authors, they demonstrated that CpxR/CpxA, a cell envelope stress response system, enhanced the GolS-dependent transcription of mdsABC in the Au resistance mechanism at a neutral pH of 7.0 [46]. Phylogenetically, MdsB seems to be related to 
+
+P. aeruginosa
+
+ MexQ (Fig. 2). S. enterica
+
+-specific Mds(multidrug transporter of 
+
+Salmonella
+
+)AB functions with either MdsC or TolC for drug resistance, whereas other RND transporter systems only require TolC in 
+
+S. enterica
+
+ [43]. 
+
+S. enterica
+
+ infection of macrophages induces the upregulation of mdsABC expression and increases the intracellular bacterial number and host cell death. Strains with mdsABC deletion had decreased survival in infected macrophages. Additionally, overexpression of mdsABC leads to increased secretion of 1-palmitoyl-2-stearoyl-phosphatidylserine, affecting the ability of bacteria to invade and survive in host cells [44]. This pump system confers central resistance to gold (Au) stress and some antimicrobial dyes and oxidative stress-inducing agents [45]. MdsABC can also mediate the drug resistance induced by Au in a GolS-dependent manner in acrAB-deleted strains. In recent work by the same authors, they demonstrated that CpxR/CpxA, a cell envelope stress response system, enhanced the GolS-dependent transcription of mdsABC in the Au resistance mechanism at a neutral pH of 7.0 [46]. Phylogenetically, MdsB seems to be related to 
+
+P. aeruginosa
+
+ MexQ (Fig. 2). S. enterica
+
+-specific Mds(multidrug transporter of 
+
+Salmonella
+
+)AB functions with either MdsC or TolC for drug resistance, whereas other RND transporter systems only require TolC in 
+
+S. enterica
+
+ [43]. 
+
+S. enterica
+
+ infection of macrophages induces the upregulation of mdsABC expression and increases the intracellular bacterial number and host cell death. Strains with mdsABC deletion had decreased survival in infected macrophages. Additionally, overexpression of mdsABC leads to increased secretion of 1-palmitoyl-2-stearoyl-phosphatidylserine, affecting the ability of bacteria to invade and survive in host cells [44]. This pump system confers central resistance to gold (Au) stress and some antimicrobial dyes and oxidative stress-inducing agents [45]. MdsABC can also mediate the drug resistance induced by Au in a GolS-dependent manner in acrAB-deleted strains. In recent work by the same authors, they demonstrated that CpxR/CpxA, a cell envelope stress response system, enhanced the GolS-dependent transcription of mdsABC in the Au resistance mechanism at a neutral pH of 7.0 [46]. Phylogenetically, MdsB seems to be related to 
+
+P. aeruginosa
+
+ MexQ (Fig. 2). MdtABC-TolC MdtABC-TolC MdtABC-TolC Like AcrD, Mdt(multidrug transporter)ABC contributes to metal tolerance through the baeSR activation pathway and to the waste disposal of tungstate from the cell [39, 40]. There is not much information known regarding this pump. Like AcrD, Mdt(multidrug transporter)ABC contributes to metal tolerance through the baeSR activation pathway and to the waste disposal of tungstate from the cell [39, 40]. There is not much information known regarding this pump. Like AcrD, Mdt(multidrug transporter)ABC contributes to metal tolerance through the baeSR activation pathway and to the waste disposal of tungstate from the cell [39, 40]. There is not much information known regarding this pump. The role of RND multidrug efflux pumps in 
+
+E. coli The role of RND multidrug efflux pumps in 
+
+E. coli E. coli
+
+ is a major bacterial species in the environment and has many strains. Most 
+
+E. coli
+
+ are harmless, but some are pathogenic and can cause serious food poisoning to their hosts. Comprehensive expression cloning studies revealed that 20 functional drug efflux pumps are encoded on the 
+
+E. coli
+
+ K-12 chromosome, but most are not expressed under normal conditions [47]. These pumps in 
+
+E. coli
+
+ belong to five families: the MFS, RND, SMR, MATE and ABC (super) families. The following sections provide an overview of the six RND efflux pumps in 
+
+E. coli
+
+ (Fig. 4, Table 1). Many of the RND-type efflux pumps (AcrB, AcrF, AcrD and MdtBC) are phylogenetically closely related to those of 
+
+Salmonella
+
+ (Fig. 2) [7]. The outer membrane tunnel TolC is expressed from a separate operon tolC-ygiABC (Table S2). E. coli
+
+ is a major bacterial species in the environment and has many strains. Most 
+
+E. coli
+
+ are harmless, but some are pathogenic and can cause serious food poisoning to their hosts. Comprehensive expression cloning studies revealed that 20 functional drug efflux pumps are encoded on the 
+
+E. coli
+
+ K-12 chromosome, but most are not expressed under normal conditions [47]. These pumps in 
+
+E. coli
+
+ belong to five families: the MFS, RND, SMR, MATE and ABC (super) families. The following sections provide an overview of the six RND efflux pumps in 
+
+E. coli
+
+ (Fig. 4, Table 1). Many of the RND-type efflux pumps (AcrB, AcrF, AcrD and MdtBC) are phylogenetically closely related to those of 
+
+Salmonella
+
+ (Fig. 2) [7]. The outer membrane tunnel TolC is expressed from a separate operon tolC-ygiABC (Table S2). Fig. 4.RND multidrug efflux pumps in 
+
+E. coli
+
+. Fig. 4.RND multidrug efflux pumps in 
+
+E. coli
+
+. RND multidrug efflux pumps in 
+
+E. coli
+
+. RND multidrug efflux pumps in 
+
+E. coli
+
+. AcrAB–TolC AcrAB–TolC AcrAB–TolC AcrAB–TolC is the main multidrug efflux pump in 
+
+E. coli
+
+ (Fig. 3). A strain lacking acrB had increased bacterial motility in LB medium supplemented with 0.3 % agar, consistent with the upregulation of motility and flagellar biosynthesis genes [48]. This efflux pump (AcrB) is the most studied RND-type efflux pump, of which the first crystal structure was solved in 2002 [49]. In-depth specific reviews can be found in [50–52]. AcrAB–TolC is the main multidrug efflux pump in 
+
+E. coli
+
+ (Fig. 3). A strain lacking acrB had increased bacterial motility in LB medium supplemented with 0.3 % agar, consistent with the upregulation of motility and flagellar biosynthesis genes [48]. This efflux pump (AcrB) is the most studied RND-type efflux pump, of which the first crystal structure was solved in 2002 [49]. In-depth specific reviews can be found in [50–52]. AcrAB–TolC is the main multidrug efflux pump in 
+
+E. coli
+
+ (Fig. 3). A strain lacking acrB had increased bacterial motility in LB medium supplemented with 0.3 % agar, consistent with the upregulation of motility and flagellar biosynthesis genes [48]. This efflux pump (AcrB) is the most studied RND-type efflux pump, of which the first crystal structure was solved in 2002 [49]. In-depth specific reviews can be found in [50–52]. Cell growth and QSS Cell growth and QSS Cell growth and QSS Cell growth and QSS Regarding cell growth, cells lacking acrAB had a delayed entry into the stationary phase with a higher cell density resulting from higher proliferation rates than wild-type strains. Conversely, overproduction of the pump led to a quick entry into the stationary phase with a lower cell density [53]. This might be affected by a QSS exported by AcrAB extracellularly, such as SdiA, which is homologous to the LuxR family of quorum-sensing transcription factors and upregulates acrAB [54]. That study showed that conditioned medium (CM) from cells overexpressing acrAB repressed the cell growth of cultured wild-type cells more than CM from wild-type cells [53]. Additionally, the expression level of RpoS, which is the stationary phase σ factor that controls the expression of multiple genes involved in adaptation and survival in the stationary phase, was upregulated when acrAB was overexpressed and decreased in acrAB-lacking strains. This suggests that the QSS is expelled at a higher level when acrAB is overexpressed and might upregulate RpoS, leading to cells entering the stationary phase with a lower cell density. Regarding cell growth, cells lacking acrAB had a delayed entry into the stationary phase with a higher cell density resulting from higher proliferation rates than wild-type strains. Conversely, overproduction of the pump led to a quick entry into the stationary phase with a lower cell density [53]. This might be affected by a QSS exported by AcrAB extracellularly, such as SdiA, which is homologous to the LuxR family of quorum-sensing transcription factors and upregulates acrAB [54]. That study showed that conditioned medium (CM) from cells overexpressing acrAB repressed the cell growth of cultured wild-type cells more than CM from wild-type cells [53]. Additionally, the expression level of RpoS, which is the stationary phase σ factor that controls the expression of multiple genes involved in adaptation and survival in the stationary phase, was upregulated when acrAB was overexpressed and decreased in acrAB-lacking strains. This suggests that the QSS is expelled at a higher level when acrAB is overexpressed and might upregulate RpoS, leading to cells entering the stationary phase with a lower cell density. Regarding cell growth, cells lacking acrAB had a delayed entry into the stationary phase with a higher cell density resulting from higher proliferation rates than wild-type strains. Conversely, overproduction of the pump led to a quick entry into the stationary phase with a lower cell density [53]. This might be affected by a QSS exported by AcrAB extracellularly, such as SdiA, which is homologous to the LuxR family of quorum-sensing transcription factors and upregulates acrAB [54]. That study showed that conditioned medium (CM) from cells overexpressing acrAB repressed the cell growth of cultured wild-type cells more than CM from wild-type cells [53]. Additionally, the expression level of RpoS, which is the stationary phase σ factor that controls the expression of multiple genes involved in adaptation and survival in the stationary phase, was upregulated when acrAB was overexpressed and decreased in acrAB-lacking strains. This suggests that the QSS is expelled at a higher level when acrAB is overexpressed and might upregulate RpoS, leading to cells entering the stationary phase with a lower cell density. Regarding cell growth, cells lacking acrAB had a delayed entry into the stationary phase with a higher cell density resulting from higher proliferation rates than wild-type strains. Conversely, overproduction of the pump led to a quick entry into the stationary phase with a lower cell density [53]. This might be affected by a QSS exported by AcrAB extracellularly, such as SdiA, which is homologous to the LuxR family of quorum-sensing transcription factors and upregulates acrAB [54]. That study showed that conditioned medium (CM) from cells overexpressing acrAB repressed the cell growth of cultured wild-type cells more than CM from wild-type cells [53]. Additionally, the expression level of RpoS, which is the stationary phase σ factor that controls the expression of multiple genes involved in adaptation and survival in the stationary phase, was upregulated when acrAB was overexpressed and decreased in acrAB-lacking strains. This suggests that the QSS is expelled at a higher level when acrAB is overexpressed and might upregulate RpoS, leading to cells entering the stationary phase with a lower cell density. Biofilm formation Biofilm formation Biofilm formation Biofilm formation We confirmed that a single-deletion mutant of acrB normally produced biofilms in the 
+
+E. coli
+
+ wild-type strain TG1, in which the ability to form biofilms is particularly strong. However, our research showed that when acrB and mdtABC were deleted simultaneously, the cells did not demonstrate significant biofilm formation, despite growth being normal. Intriguingly, double-knockout mutants of acrB and mdtABC showed time-dependent biogenesis effects on biofilm maintenance; they maintained atypical biofilm at 4 h, but the biofilm gradually decreased and ultimately disappeared after 24 h. Thus, signalling factors such as the QSS by AcrB and MdtABC might be necessary to maintain the biofilm [55]. Bay et al. showed other findings that single deletions of acrB, acrE and tolC reduced biofilm growth and antimicrobial resistance, while deletions of other genes (acrD, acrE, emrA, emrB, mdtK, emrE and mdtJ) did not in 
+
+E. coli
+
+ K-12 strain [56]. We confirmed that a single-deletion mutant of acrB normally produced biofilms in the 
+
+E. coli
+
+ wild-type strain TG1, in which the ability to form biofilms is particularly strong. However, our research showed that when acrB and mdtABC were deleted simultaneously, the cells did not demonstrate significant biofilm formation, despite growth being normal. Intriguingly, double-knockout mutants of acrB and mdtABC showed time-dependent biogenesis effects on biofilm maintenance; they maintained atypical biofilm at 4 h, but the biofilm gradually decreased and ultimately disappeared after 24 h. Thus, signalling factors such as the QSS by AcrB and MdtABC might be necessary to maintain the biofilm [55]. Bay et al. showed other findings that single deletions of acrB, acrE and tolC reduced biofilm growth and antimicrobial resistance, while deletions of other genes (acrD, acrE, emrA, emrB, mdtK, emrE and mdtJ) did not in 
+
+E. coli
+
+ K-12 strain [56]. We confirmed that a single-deletion mutant of acrB normally produced biofilms in the 
+
+E. coli
+
+ wild-type strain TG1, in which the ability to form biofilms is particularly strong. However, our research showed that when acrB and mdtABC were deleted simultaneously, the cells did not demonstrate significant biofilm formation, despite growth being normal. Intriguingly, double-knockout mutants of acrB and mdtABC showed time-dependent biogenesis effects on biofilm maintenance; they maintained atypical biofilm at 4 h, but the biofilm gradually decreased and ultimately disappeared after 24 h. Thus, signalling factors such as the QSS by AcrB and MdtABC might be necessary to maintain the biofilm [55]. Bay et al. showed other findings that single deletions of acrB, acrE and tolC reduced biofilm growth and antimicrobial resistance, while deletions of other genes (acrD, acrE, emrA, emrB, mdtK, emrE and mdtJ) did not in 
+
+E. coli
+
+ K-12 strain [56]. We confirmed that a single-deletion mutant of acrB normally produced biofilms in the 
+
+E. coli
+
+ wild-type strain TG1, in which the ability to form biofilms is particularly strong. However, our research showed that when acrB and mdtABC were deleted simultaneously, the cells did not demonstrate significant biofilm formation, despite growth being normal. Intriguingly, double-knockout mutants of acrB and mdtABC showed time-dependent biogenesis effects on biofilm maintenance; they maintained atypical biofilm at 4 h, but the biofilm gradually decreased and ultimately disappeared after 24 h. Thus, signalling factors such as the QSS by AcrB and MdtABC might be necessary to maintain the biofilm [55]. Bay et al. showed other findings that single deletions of acrB, acrE and tolC reduced biofilm growth and antimicrobial resistance, while deletions of other genes (acrD, acrE, emrA, emrB, mdtK, emrE and mdtJ) did not in 
+
+E. coli
+
+ K-12 strain [56]. Contact-dependent growth inhibition Contact-dependent growth inhibition Contact-dependent growth inhibition Contact-dependent growth inhibition In 
+
+E. coli
+
+, AcrB is also involved in contact-dependent growth inhibition (CDI), which enables binding to neighbouring bacterial cells by direct cell-to-cell contact and delivery of protein toxins that inhibit cell growth. In the CDI mechanism, BamA is an outer membrane receptor, and AcrB functions downstream of BamA [57]. In 
+
+E. coli
+
+, AcrB is also involved in contact-dependent growth inhibition (CDI), which enables binding to neighbouring bacterial cells by direct cell-to-cell contact and delivery of protein toxins that inhibit cell growth. In the CDI mechanism, BamA is an outer membrane receptor, and AcrB functions downstream of BamA [57]. In 
+
+E. coli
+
+, AcrB is also involved in contact-dependent growth inhibition (CDI), which enables binding to neighbouring bacterial cells by direct cell-to-cell contact and delivery of protein toxins that inhibit cell growth. In the CDI mechanism, BamA is an outer membrane receptor, and AcrB functions downstream of BamA [57]. In 
+
+E. coli
+
+, AcrB is also involved in contact-dependent growth inhibition (CDI), which enables binding to neighbouring bacterial cells by direct cell-to-cell contact and delivery of protein toxins that inhibit cell growth. In the CDI mechanism, BamA is an outer membrane receptor, and AcrB functions downstream of BamA [57]. Regulatory signalling Regulatory signalling Regulatory signalling Regulatory signalling The AcrAB–TolC pump can efflux many different classes of antibiotics, including chloramphenicol (CHL), tetracycline (TET), minocycline (MIN), erythromycin (ERY), FQ, nalidixic acid (NAL), norfloxacin (NOR), enoxacin (ENO), doxorubicin (DXR), CIP, novobiocin (NOV), rifampicin (RIF), trimethoprim (TMP), acriflavine (ACR), CV, ETBR, rhodamine 6G (R6G), tetraphenylphosphonium bromide (TPP), benzalkonium chloride (BENZ), sodium dodecyl sulfate (SDS) and deoxycholic acid (DOC) [47, 53, 58]. AcrAB–TolC works as an efflux pump for endogenous substrates such as bile salts, fatty acids and steroid hormones [7, 59]. The wide substrate specificity has been attributed to four channels: CH1 (low-molecular-mass drugs, β-lactams, NOV, phenicols), CH2 (high-molecular-mass drugs, macrolides, TETs), CH3 (planar aromatic cations) and CH4 (carboxylated drugs, including fusidic acid and β-lactams) (Fig. 3) [60–62] and the sub-sets of binding amino acids in two binding pockets of AcrB (the proximal binding pocket and the distal binding pocket, separated by a switch-loop) [63–65]. The three proteins of AcrAB–TolC are encoded in two separate operons, acrAB and tolC-ygiAB (Table S2). Major transcriptional regulators of AcrAB–TolC include MarA, SoxS and Rob as global regulators and AcrR as a local regulator [66, 67]. The activation of AcrAB pump by MarA and SoxS works via altering their own expression levels, whereas the upregulation of acrAB by Rob occurs via conformational alterations. The induction of the acrAB operon by bile salts and fatty acids is correlated with the binding of these effectors to pre-existing Rob [68]. As a high-level drug resistance mechanism, the latest literature shows that an increased level of AcrAB–TolC in 
+
+E. coli
+
+ results in spontaneous mutations following advanced DNA mismatch through lowered expression of the repair gene mutS [69]. The AcrAB–TolC pump can efflux many different classes of antibiotics, including chloramphenicol (CHL), tetracycline (TET), minocycline (MIN), erythromycin (ERY), FQ, nalidixic acid (NAL), norfloxacin (NOR), enoxacin (ENO), doxorubicin (DXR), CIP, novobiocin (NOV), rifampicin (RIF), trimethoprim (TMP), acriflavine (ACR), CV, ETBR, rhodamine 6G (R6G), tetraphenylphosphonium bromide (TPP), benzalkonium chloride (BENZ), sodium dodecyl sulfate (SDS) and deoxycholic acid (DOC) [47, 53, 58]. AcrAB–TolC works as an efflux pump for endogenous substrates such as bile salts, fatty acids and steroid hormones [7, 59]. The wide substrate specificity has been attributed to four channels: CH1 (low-molecular-mass drugs, β-lactams, NOV, phenicols), CH2 (high-molecular-mass drugs, macrolides, TETs), CH3 (planar aromatic cations) and CH4 (carboxylated drugs, including fusidic acid and β-lactams) (Fig. 3) [60–62] and the sub-sets of binding amino acids in two binding pockets of AcrB (the proximal binding pocket and the distal binding pocket, separated by a switch-loop) [63–65]. The three proteins of AcrAB–TolC are encoded in two separate operons, acrAB and tolC-ygiAB (Table S2). Major transcriptional regulators of AcrAB–TolC include MarA, SoxS and Rob as global regulators and AcrR as a local regulator [66, 67]. The activation of AcrAB pump by MarA and SoxS works via altering their own expression levels, whereas the upregulation of acrAB by Rob occurs via conformational alterations. The induction of the acrAB operon by bile salts and fatty acids is correlated with the binding of these effectors to pre-existing Rob [68]. As a high-level drug resistance mechanism, the latest literature shows that an increased level of AcrAB–TolC in 
+
+E. coli
+
+ results in spontaneous mutations following advanced DNA mismatch through lowered expression of the repair gene mutS [69]. The AcrAB–TolC pump can efflux many different classes of antibiotics, including chloramphenicol (CHL), tetracycline (TET), minocycline (MIN), erythromycin (ERY), FQ, nalidixic acid (NAL), norfloxacin (NOR), enoxacin (ENO), doxorubicin (DXR), CIP, novobiocin (NOV), rifampicin (RIF), trimethoprim (TMP), acriflavine (ACR), CV, ETBR, rhodamine 6G (R6G), tetraphenylphosphonium bromide (TPP), benzalkonium chloride (BENZ), sodium dodecyl sulfate (SDS) and deoxycholic acid (DOC) [47, 53, 58]. AcrAB–TolC works as an efflux pump for endogenous substrates such as bile salts, fatty acids and steroid hormones [7, 59]. The wide substrate specificity has been attributed to four channels: CH1 (low-molecular-mass drugs, β-lactams, NOV, phenicols), CH2 (high-molecular-mass drugs, macrolides, TETs), CH3 (planar aromatic cations) and CH4 (carboxylated drugs, including fusidic acid and β-lactams) (Fig. 3) [60–62] and the sub-sets of binding amino acids in two binding pockets of AcrB (the proximal binding pocket and the distal binding pocket, separated by a switch-loop) [63–65]. The three proteins of AcrAB–TolC are encoded in two separate operons, acrAB and tolC-ygiAB (Table S2). Major transcriptional regulators of AcrAB–TolC include MarA, SoxS and Rob as global regulators and AcrR as a local regulator [66, 67]. The activation of AcrAB pump by MarA and SoxS works via altering their own expression levels, whereas the upregulation of acrAB by Rob occurs via conformational alterations. The induction of the acrAB operon by bile salts and fatty acids is correlated with the binding of these effectors to pre-existing Rob [68]. As a high-level drug resistance mechanism, the latest literature shows that an increased level of AcrAB–TolC in 
+
+E. coli
+
+ results in spontaneous mutations following advanced DNA mismatch through lowered expression of the repair gene mutS [69]. The AcrAB–TolC pump can efflux many different classes of antibiotics, including chloramphenicol (CHL), tetracycline (TET), minocycline (MIN), erythromycin (ERY), FQ, nalidixic acid (NAL), norfloxacin (NOR), enoxacin (ENO), doxorubicin (DXR), CIP, novobiocin (NOV), rifampicin (RIF), trimethoprim (TMP), acriflavine (ACR), CV, ETBR, rhodamine 6G (R6G), tetraphenylphosphonium bromide (TPP), benzalkonium chloride (BENZ), sodium dodecyl sulfate (SDS) and deoxycholic acid (DOC) [47, 53, 58]. AcrAB–TolC works as an efflux pump for endogenous substrates such as bile salts, fatty acids and steroid hormones [7, 59]. The wide substrate specificity has been attributed to four channels: CH1 (low-molecular-mass drugs, β-lactams, NOV, phenicols), CH2 (high-molecular-mass drugs, macrolides, TETs), CH3 (planar aromatic cations) and CH4 (carboxylated drugs, including fusidic acid and β-lactams) (Fig. 3) [60–62] and the sub-sets of binding amino acids in two binding pockets of AcrB (the proximal binding pocket and the distal binding pocket, separated by a switch-loop) [63–65]. The three proteins of AcrAB–TolC are encoded in two separate operons, acrAB and tolC-ygiAB (Table S2). Major transcriptional regulators of AcrAB–TolC include MarA, SoxS and Rob as global regulators and AcrR as a local regulator [66, 67]. The activation of AcrAB pump by MarA and SoxS works via altering their own expression levels, whereas the upregulation of acrAB by Rob occurs via conformational alterations. The induction of the acrAB operon by bile salts and fatty acids is correlated with the binding of these effectors to pre-existing Rob [68]. As a high-level drug resistance mechanism, the latest literature shows that an increased level of AcrAB–TolC in 
+
+E. coli
+
+ results in spontaneous mutations following advanced DNA mismatch through lowered expression of the repair gene mutS [69]. Physiological function by the tolC gene Physiological function by the tolC gene Physiological function by the tolC gene Physiological function by the tolC gene TolC comprises outer membrane components working with AcrAB, AcrD, AcrEF, MdtEF and MdtABC of RND multidrug efflux pumps in 
+
+E. coli
+
+. TolC export enterobactins, ferric iron chelating compounds, through a two-step process with EntS. Mutant 
+
+E. coli
+
+ strains with the deletion of tolC or entS were growth-deficient and demonstrated insufficient enterobactin export in iron-depleted medium [70]. Evidence linking tolC expression to acidic pH resistance has also been reported. Deininger et al. indicated that for the 
+
+E. coli
+
+ K-12 W3110 strain, TolC was required for normal exponential growth, as well as acid survival (pH 2–7) in the stationary phase under aerobic conditions [71]. TolC comprises outer membrane components working with AcrAB, AcrD, AcrEF, MdtEF and MdtABC of RND multidrug efflux pumps in 
+
+E. coli
+
+. TolC export enterobactins, ferric iron chelating compounds, through a two-step process with EntS. Mutant 
+
+E. coli
+
+ strains with the deletion of tolC or entS were growth-deficient and demonstrated insufficient enterobactin export in iron-depleted medium [70]. Evidence linking tolC expression to acidic pH resistance has also been reported. Deininger et al. indicated that for the 
+
+E. coli
+
+ K-12 W3110 strain, TolC was required for normal exponential growth, as well as acid survival (pH 2–7) in the stationary phase under aerobic conditions [71]. TolC comprises outer membrane components working with AcrAB, AcrD, AcrEF, MdtEF and MdtABC of RND multidrug efflux pumps in 
+
+E. coli
+
+. TolC export enterobactins, ferric iron chelating compounds, through a two-step process with EntS. Mutant 
+
+E. coli
+
+ strains with the deletion of tolC or entS were growth-deficient and demonstrated insufficient enterobactin export in iron-depleted medium [70]. Evidence linking tolC expression to acidic pH resistance has also been reported. Deininger et al. indicated that for the 
+
+E. coli
+
+ K-12 W3110 strain, TolC was required for normal exponential growth, as well as acid survival (pH 2–7) in the stationary phase under aerobic conditions [71]. TolC comprises outer membrane components working with AcrAB, AcrD, AcrEF, MdtEF and MdtABC of RND multidrug efflux pumps in 
+
+E. coli
+
+. TolC export enterobactins, ferric iron chelating compounds, through a two-step process with EntS. Mutant 
+
+E. coli
+
+ strains with the deletion of tolC or entS were growth-deficient and demonstrated insufficient enterobactin export in iron-depleted medium [70]. Evidence linking tolC expression to acidic pH resistance has also been reported. Deininger et al. indicated that for the 
+
+E. coli
+
+ K-12 W3110 strain, TolC was required for normal exponential growth, as well as acid survival (pH 2–7) in the stationary phase under aerobic conditions [71]. Acr(A)D-TolC Acr(A)D-TolC Acr(A)D-TolC Matsumura et al. showed that the deletion of acrD in 
+
+E. coli
+
+ K-12 BW25113 drastically decreased the cells’ biofilm formation ability, as did the deletion of emrD, emrE, emrK, acrE and mdtE [72]. In 
+
+E. coli
+
+, the substrate specificity of AcrD is different from that of AcrB [47]. AcrD is also able to expel monobactams and anionic β-lactams, which AcrB could only weakly, or not at all [73]. Further, AcrD cannot expel macrolide ERY, TET and quinolones, which AcrB can [51]. Additionally, cholic acid and progesterone, endogenous factors that are exported via some pumps, including AcrD, have been identified [59]. A recent study elucidated the cryo-EM structure of AcrD, showing aminoglycoside gentamycin to be bound in the central cavity of the trimer, and it is postulated that aminoglycosides move through the monomer [74], seemingly similar to the entrance and location of CH3 in AcrB [60]. Several studies indicated that acrD is upregulated as well as mdtABC under the two-component systems BaeSR and CpxAR induced by indole, resulting in SDS resistance [75], and under the outer membrane lipoprotein NlpE, activating the CpxAR pathway during envelope stress, resulting in resistance to drugs such as oxacillin (OXA), nafcillin (NAF), aztreonam (ATM), DOC, cloxacillin (CLO), cefamandole (FAM), NOV and kanamycin (KAN), as well as Cu resistance [76]. Matsumura et al. showed that the deletion of acrD in 
+
+E. coli
+
+ K-12 BW25113 drastically decreased the cells’ biofilm formation ability, as did the deletion of emrD, emrE, emrK, acrE and mdtE [72]. In 
+
+E. coli
+
+, the substrate specificity of AcrD is different from that of AcrB [47]. AcrD is also able to expel monobactams and anionic β-lactams, which AcrB could only weakly, or not at all [73]. Further, AcrD cannot expel macrolide ERY, TET and quinolones, which AcrB can [51]. Additionally, cholic acid and progesterone, endogenous factors that are exported via some pumps, including AcrD, have been identified [59]. A recent study elucidated the cryo-EM structure of AcrD, showing aminoglycoside gentamycin to be bound in the central cavity of the trimer, and it is postulated that aminoglycosides move through the monomer [74], seemingly similar to the entrance and location of CH3 in AcrB [60]. Several studies indicated that acrD is upregulated as well as mdtABC under the two-component systems BaeSR and CpxAR induced by indole, resulting in SDS resistance [75], and under the outer membrane lipoprotein NlpE, activating the CpxAR pathway during envelope stress, resulting in resistance to drugs such as oxacillin (OXA), nafcillin (NAF), aztreonam (ATM), DOC, cloxacillin (CLO), cefamandole (FAM), NOV and kanamycin (KAN), as well as Cu resistance [76]. Matsumura et al. showed that the deletion of acrD in 
+
+E. coli
+
+ K-12 BW25113 drastically decreased the cells’ biofilm formation ability, as did the deletion of emrD, emrE, emrK, acrE and mdtE [72]. In 
+
+E. coli
+
+, the substrate specificity of AcrD is different from that of AcrB [47]. AcrD is also able to expel monobactams and anionic β-lactams, which AcrB could only weakly, or not at all [73]. Further, AcrD cannot expel macrolide ERY, TET and quinolones, which AcrB can [51]. Additionally, cholic acid and progesterone, endogenous factors that are exported via some pumps, including AcrD, have been identified [59]. A recent study elucidated the cryo-EM structure of AcrD, showing aminoglycoside gentamycin to be bound in the central cavity of the trimer, and it is postulated that aminoglycosides move through the monomer [74], seemingly similar to the entrance and location of CH3 in AcrB [60]. Several studies indicated that acrD is upregulated as well as mdtABC under the two-component systems BaeSR and CpxAR induced by indole, resulting in SDS resistance [75], and under the outer membrane lipoprotein NlpE, activating the CpxAR pathway during envelope stress, resulting in resistance to drugs such as oxacillin (OXA), nafcillin (NAF), aztreonam (ATM), DOC, cloxacillin (CLO), cefamandole (FAM), NOV and kanamycin (KAN), as well as Cu resistance [76]. AcrEF-TolC AcrEF-TolC AcrEF-TolC AcrF shares a high degree of homology with AcrB (Fig. 2). Lau et al. suggested that acrEF is expressed under normal growth conditions and plays a vital role in the regular maintenance of cell division in coordination with AcrAB. They found that increased expression of acrA in cells lacking acrEF results in a severe cell division defect that results in the formation of highly filamentous cells with abnormal nucleoids. Similar defects were observed in tolC-lacking strains, suggesting that functional AcrEF and TolC produced in the natural physiological state may be required to maintain the typical morphology of 
+
+E. coli
+
+ under the increased production of AcrA [77]. In addition to the AcrAB efflux pump, acrEF expression is dramatically upregulated in cells overproducing the quorum signal receptor SdiA [78]. Our research showed that the inactivation of H-NS, which is involved in bacterial chromosome condensation, increased the expression of acrEF and mdtEF and the occurrence of drug resistance [79]. AcrF shares a high degree of homology with AcrB (Fig. 2). Lau et al. suggested that acrEF is expressed under normal growth conditions and plays a vital role in the regular maintenance of cell division in coordination with AcrAB. They found that increased expression of acrA in cells lacking acrEF results in a severe cell division defect that results in the formation of highly filamentous cells with abnormal nucleoids. Similar defects were observed in tolC-lacking strains, suggesting that functional AcrEF and TolC produced in the natural physiological state may be required to maintain the typical morphology of 
+
+E. coli
+
+ under the increased production of AcrA [77]. In addition to the AcrAB efflux pump, acrEF expression is dramatically upregulated in cells overproducing the quorum signal receptor SdiA [78]. Our research showed that the inactivation of H-NS, which is involved in bacterial chromosome condensation, increased the expression of acrEF and mdtEF and the occurrence of drug resistance [79]. AcrF shares a high degree of homology with AcrB (Fig. 2). Lau et al. suggested that acrEF is expressed under normal growth conditions and plays a vital role in the regular maintenance of cell division in coordination with AcrAB. They found that increased expression of acrA in cells lacking acrEF results in a severe cell division defect that results in the formation of highly filamentous cells with abnormal nucleoids. Similar defects were observed in tolC-lacking strains, suggesting that functional AcrEF and TolC produced in the natural physiological state may be required to maintain the typical morphology of 
+
+E. coli
+
+ under the increased production of AcrA [77]. In addition to the AcrAB efflux pump, acrEF expression is dramatically upregulated in cells overproducing the quorum signal receptor SdiA [78]. Our research showed that the inactivation of H-NS, which is involved in bacterial chromosome condensation, increased the expression of acrEF and mdtEF and the occurrence of drug resistance [79]. MdtEF-TolC MdtEF-TolC MdtEF-TolC The transcriptional expression of mdtEF, but not of other pumps, was enhanced by the stationary phase σ factor RpoS and the RpoS-dependent signalling pathway, Hfq, GadY and GadX, during the stationary phase. This pump’s upregulation maintained the normal cell growth of the 
+
+E. coli
+
+ MC4100 strain during CV treatment [80]. Additionally, indole in 
+
+E. coli
+
+ conferred R6G resistance through the induction of mdtEF gene expression mediated by GadX [75]. Furthermore, we found that the expression of mdtEF was significantly enhanced by the induction of phosphotransferase system sugars such as N-acetyl-d-glucosamine. In this signalling pathway, the cAMP–Crp complex, a catabolite repressor, decreased with the induction of mdtEF expression [81]. Zhang et al. described the importance of upregulated mdtEF under anaerobic conditions, an environmental signature of the mammalian gut, and the anaerobic microhabitat of bacteria in nature. This pump protects from nitrosative damage by expelling nitrosyl indole derivatives out of 
+
+E. coli
+
+ K-12, resulting in normal cell growth under anaerobic conditions [82]. The expression of mdtEF is induced by the two-component system regulator, EvgA, which is an acid resistance regulon [83]. Other research by Masuda et al. described that deletion of mdtEF completely abolished multidrug resistance in an acrB-deletion mutant caused by evgA overexpression, suggesting that MdtEF induced by EvgA functions as a multidrug transporter against ERY, NOV, DOX, CV, ETBR, SDS, DOC, BENZ and R6G [84]. They also showed that evgA overexpression conferred acid resistance to exponentially growing cells. Thus, a regulatory function of MdtEF for acid homeostasis could be inferred. Finally, we found that the small non-coding RNA DsrA significantly increased the expression of mdtE in a random shotgun cloning experiment. DsrA decreases susceptibility to OXA, CLO, ERY, R6G and NOV, mainly via RpoS pathway-mediated upregulation of mdtEF [85]. The transcriptional expression of mdtEF, but not of other pumps, was enhanced by the stationary phase σ factor RpoS and the RpoS-dependent signalling pathway, Hfq, GadY and GadX, during the stationary phase. This pump’s upregulation maintained the normal cell growth of the 
+
+E. coli
+
+ MC4100 strain during CV treatment [80]. Additionally, indole in 
+
+E. coli
+
+ conferred R6G resistance through the induction of mdtEF gene expression mediated by GadX [75]. Furthermore, we found that the expression of mdtEF was significantly enhanced by the induction of phosphotransferase system sugars such as N-acetyl-d-glucosamine. In this signalling pathway, the cAMP–Crp complex, a catabolite repressor, decreased with the induction of mdtEF expression [81]. Zhang et al. described the importance of upregulated mdtEF under anaerobic conditions, an environmental signature of the mammalian gut, and the anaerobic microhabitat of bacteria in nature. This pump protects from nitrosative damage by expelling nitrosyl indole derivatives out of 
+
+E. coli
+
+ K-12, resulting in normal cell growth under anaerobic conditions [82]. The expression of mdtEF is induced by the two-component system regulator, EvgA, which is an acid resistance regulon [83]. Other research by Masuda et al. described that deletion of mdtEF completely abolished multidrug resistance in an acrB-deletion mutant caused by evgA overexpression, suggesting that MdtEF induced by EvgA functions as a multidrug transporter against ERY, NOV, DOX, CV, ETBR, SDS, DOC, BENZ and R6G [84]. They also showed that evgA overexpression conferred acid resistance to exponentially growing cells. Thus, a regulatory function of MdtEF for acid homeostasis could be inferred. Finally, we found that the small non-coding RNA DsrA significantly increased the expression of mdtE in a random shotgun cloning experiment. DsrA decreases susceptibility to OXA, CLO, ERY, R6G and NOV, mainly via RpoS pathway-mediated upregulation of mdtEF [85]. The transcriptional expression of mdtEF, but not of other pumps, was enhanced by the stationary phase σ factor RpoS and the RpoS-dependent signalling pathway, Hfq, GadY and GadX, during the stationary phase. This pump’s upregulation maintained the normal cell growth of the 
+
+E. coli
+
+ MC4100 strain during CV treatment [80]. Additionally, indole in 
+
+E. coli
+
+ conferred R6G resistance through the induction of mdtEF gene expression mediated by GadX [75]. Furthermore, we found that the expression of mdtEF was significantly enhanced by the induction of phosphotransferase system sugars such as N-acetyl-d-glucosamine. In this signalling pathway, the cAMP–Crp complex, a catabolite repressor, decreased with the induction of mdtEF expression [81]. Zhang et al. described the importance of upregulated mdtEF under anaerobic conditions, an environmental signature of the mammalian gut, and the anaerobic microhabitat of bacteria in nature. This pump protects from nitrosative damage by expelling nitrosyl indole derivatives out of 
+
+E. coli
+
+ K-12, resulting in normal cell growth under anaerobic conditions [82]. The expression of mdtEF is induced by the two-component system regulator, EvgA, which is an acid resistance regulon [83]. Other research by Masuda et al. described that deletion of mdtEF completely abolished multidrug resistance in an acrB-deletion mutant caused by evgA overexpression, suggesting that MdtEF induced by EvgA functions as a multidrug transporter against ERY, NOV, DOX, CV, ETBR, SDS, DOC, BENZ and R6G [84]. They also showed that evgA overexpression conferred acid resistance to exponentially growing cells. Thus, a regulatory function of MdtEF for acid homeostasis could be inferred. Finally, we found that the small non-coding RNA DsrA significantly increased the expression of mdtE in a random shotgun cloning experiment. DsrA decreases susceptibility to OXA, CLO, ERY, R6G and NOV, mainly via RpoS pathway-mediated upregulation of mdtEF [85]. MdtABC-TolC MdtABC-TolC MdtABC-TolC We found that the MdtABC system comprises the transmembrane MdtB/MdtC heteromultimer and the MdtA membrane fusion protein. Additionally, the two-component signal transduction system BeaR enables the upregulation of mdtABC [86]. MdtABC is relevant to Zn homeostasis as part of the BaeSR regulatory system, maintaining a low cellular Zn concentration upon exposure to high extracellular Zn. An mdtC-deleted mutant in 
+
+E. coli
+
+ decreased the cell growth rate at a high cell density in the presence of a high Zn concentration. This mutant failed to perform Zn detoxification with a significant increase in the total intracellular Zn concentration after zinc shock [87]. Flavonoids and sodium tungstate have also been reported as natural substrates of the MdtABC efflux pump [88]. We found that the MdtABC system comprises the transmembrane MdtB/MdtC heteromultimer and the MdtA membrane fusion protein. Additionally, the two-component signal transduction system BeaR enables the upregulation of mdtABC [86]. MdtABC is relevant to Zn homeostasis as part of the BaeSR regulatory system, maintaining a low cellular Zn concentration upon exposure to high extracellular Zn. An mdtC-deleted mutant in 
+
+E. coli
+
+ decreased the cell growth rate at a high cell density in the presence of a high Zn concentration. This mutant failed to perform Zn detoxification with a significant increase in the total intracellular Zn concentration after zinc shock [87]. Flavonoids and sodium tungstate have also been reported as natural substrates of the MdtABC efflux pump [88]. We found that the MdtABC system comprises the transmembrane MdtB/MdtC heteromultimer and the MdtA membrane fusion protein. Additionally, the two-component signal transduction system BeaR enables the upregulation of mdtABC [86]. MdtABC is relevant to Zn homeostasis as part of the BaeSR regulatory system, maintaining a low cellular Zn concentration upon exposure to high extracellular Zn. An mdtC-deleted mutant in 
+
+E. coli
+
+ decreased the cell growth rate at a high cell density in the presence of a high Zn concentration. This mutant failed to perform Zn detoxification with a significant increase in the total intracellular Zn concentration after zinc shock [87]. Flavonoids and sodium tungstate have also been reported as natural substrates of the MdtABC efflux pump [88]. CusABC CusABC CusABC Cus(Cu sensor)ABC is an RND-type transporter belonging to the heavy metal efflux (HME) subfamily (Fig. 2) that plays a crucial role in Cu resistance, similar to the function of MdtABC in Zn resistance [89]. This pump transports Cu into the cell by a stepwise shuttle mechanism via a series of methionine pairs [90]. Additionally, this pump exports silver (Ag) [91]. Not much information is known regarding this pump. Cus(Cu sensor)ABC is an RND-type transporter belonging to the heavy metal efflux (HME) subfamily (Fig. 2) that plays a crucial role in Cu resistance, similar to the function of MdtABC in Zn resistance [89]. This pump transports Cu into the cell by a stepwise shuttle mechanism via a series of methionine pairs [90]. Additionally, this pump exports silver (Ag) [91]. Not much information is known regarding this pump. Cus(Cu sensor)ABC is an RND-type transporter belonging to the heavy metal efflux (HME) subfamily (Fig. 2) that plays a crucial role in Cu resistance, similar to the function of MdtABC in Zn resistance [89]. This pump transports Cu into the cell by a stepwise shuttle mechanism via a series of methionine pairs [90]. Additionally, this pump exports silver (Ag) [91]. Not much information is known regarding this pump. The role of RND multidrug efflux pumps in 
+
+P. aeruginosa The role of RND multidrug efflux pumps in 
+
+P. aeruginosa P. aeruginosa
+
+ is an important opportunistic human pathogen that is responsible for life-threatening infections that are difficult to eradicate in immunocompromised patients with AIDS, cystic fibrosis (CF), ventilation-associated pneumonia, chronic urinary tract infections due to catheters, or burn wounds. 
+
+P. aeruginosa
+
+ clinical and experimental strains show high frequencies of mutations (e.g. due to the high exposure to oxidative stress in the lungs of CF patients). The strong capacity of this pathogen severely compromises the treatment of these infections through the complex interplay of intrinsic and mutation-driven acquired resistance. Twelve systems in the RND superfamily capable of secreting antibiotics or antimicrobial products have been functionally described in 
+
+P. aeruginosa
+
+ [92–94]: MexAB-OprM, MexCD-OprJ, MexEF-OprN, MexGHI-OpmD, MexJK-OprM/OpmH, MexMN-OprM, MexPQ-OpmE, MexVW-OprM, MexXY-OprM, CzcABC, TriABC-OpmH and MuxABC-OpmB (Fig. 5, Table 1). Compared to 
+
+Salmonella
+
+ and 
+
+E. coli
+
+, 
+
+P. aeruginosa
+
+’s outer membrane components are typically expressed from the same operon as their corresponding RND-PAP genes, with the exceptions of MexXY, MexMN, MexJK, MexVW and TriABC, where OprM is expressed from the separate mexABoprM operon and OprH from the oprHphoPQ operon (Table S2). P. aeruginosa
+
+ is an important opportunistic human pathogen that is responsible for life-threatening infections that are difficult to eradicate in immunocompromised patients with AIDS, cystic fibrosis (CF), ventilation-associated pneumonia, chronic urinary tract infections due to catheters, or burn wounds. 
+
+P. aeruginosa
+
+ clinical and experimental strains show high frequencies of mutations (e.g. due to the high exposure to oxidative stress in the lungs of CF patients). The strong capacity of this pathogen severely compromises the treatment of these infections through the complex interplay of intrinsic and mutation-driven acquired resistance. Twelve systems in the RND superfamily capable of secreting antibiotics or antimicrobial products have been functionally described in 
+
+P. aeruginosa
+
+ [92–94]: MexAB-OprM, MexCD-OprJ, MexEF-OprN, MexGHI-OpmD, MexJK-OprM/OpmH, MexMN-OprM, MexPQ-OpmE, MexVW-OprM, MexXY-OprM, CzcABC, TriABC-OpmH and MuxABC-OpmB (Fig. 5, Table 1). Compared to 
+
+Salmonella
+
+ and 
+
+E. coli
+
+, 
+
+P. aeruginosa
+
+’s outer membrane components are typically expressed from the same operon as their corresponding RND-PAP genes, with the exceptions of MexXY, MexMN, MexJK, MexVW and TriABC, where OprM is expressed from the separate mexABoprM operon and OprH from the oprHphoPQ operon (Table S2). Fig. 5.RND multidrug efflux pumps in 
+
+P. aeruginosa
+
+. Fig. 5.RND multidrug efflux pumps in 
+
+P. aeruginosa
+
+. RND multidrug efflux pumps in 
+
+P. aeruginosa
+
+. RND multidrug efflux pumps in 
+
+P. aeruginosa
+
+. MexAB-OprM MexAB-OprM MexAB-OprM The operon encoding Mex(multiple efflux)AB-Opr(outer membrane protein)M was found as genes with increased expression in siderophore-deficient mutants that can grow on iron-deficient minimal medium in 1993 by Poole et al. They found that this operon was involved in drug sensitivity as well as in the secretion of the siderophore pyoverdine [95]. Of the multi-efflux pumps in 
+
+P. aeruginosa
+
+, only MexAB-OprM is constitutively expressed in wild-type cells and is a major contributor toward the high basal level of antibiotic resistance. The operon encoding Mex(multiple efflux)AB-Opr(outer membrane protein)M was found as genes with increased expression in siderophore-deficient mutants that can grow on iron-deficient minimal medium in 1993 by Poole et al. They found that this operon was involved in drug sensitivity as well as in the secretion of the siderophore pyoverdine [95]. Of the multi-efflux pumps in 
+
+P. aeruginosa
+
+, only MexAB-OprM is constitutively expressed in wild-type cells and is a major contributor toward the high basal level of antibiotic resistance. The operon encoding Mex(multiple efflux)AB-Opr(outer membrane protein)M was found as genes with increased expression in siderophore-deficient mutants that can grow on iron-deficient minimal medium in 1993 by Poole et al. They found that this operon was involved in drug sensitivity as well as in the secretion of the siderophore pyoverdine [95]. Of the multi-efflux pumps in 
+
+P. aeruginosa
+
+, only MexAB-OprM is constitutively expressed in wild-type cells and is a major contributor toward the high basal level of antibiotic resistance. QSS and virulence QSS and virulence QSS and virulence QSS and virulence QSS is an important factor for cell-to-cell communications in bacteria. 3-oxo-C12-homoserine lactone (3OC12-HSL) can passively diffuse, but the rate is much slower than C4-homoserine lactone (C4-HSL), which is another freely diffusible AHL signal [96]. MexAB and potentially MexCD, MexEF and MexGHI assist the diffusion of the 3OC12-HSL signal from 
+
+P. aeruginosa
+
+ [96–99]. Because QSS communications between bacteria, including 
+
+P. aeruginosa
+
+, control virulence factors and biofilm formation, secreting 3OC12-HSL is a critical function in the physiological role of the MexAB-OprM efflux pump. 
+
+P. aeruginosa
+
+ has two LuxI/LuxR pairs, LasI/LasR and RhlI/RhlR, which catalyze the last step in the synthesis of 3OC12-HSL and C4-HSL, respectively. mexAB-oprM overexpression induced by a nalB mutation compromised the production of 3OC12-HSL, decreased the expression of LasI/LasR-dependent virulence factors, such as pyocyanin, casein protease and elastase, and attenuated virulence in a C. elegans model [99, 100]. Conversely, clinical isolates of 
+
+P. aeruginosa
+
+ strains lacking a functional LasI/LasR system are less virulent in animal infection models, indicating their function as a virulence activator via QSS systems [101]. In mexAB-knockout mutant strains, 3OC12-HSL was not secreted, and LasR was upregulated by the accumulation of 3OC12-HSL inside cells [102]. While the exogenous addition of 3OC12-HSL had little or no effect on mexAB-oprM expression, C4-HSL enhanced mexAB-oprM expression in the stationary phase. The upregulation mechanism was not mediated by MexR, a negative regulator of MexAB-OprM [103]. MexAB-OprM can not only transport 3OC12-HSL but a small set of naturally occurring 3OC-HSLs (with 8–14 carbon acyl tails) and respond to QSS cross-talk from other species of bacteria [104]. QSS is an important factor for cell-to-cell communications in bacteria. 3-oxo-C12-homoserine lactone (3OC12-HSL) can passively diffuse, but the rate is much slower than C4-homoserine lactone (C4-HSL), which is another freely diffusible AHL signal [96]. MexAB and potentially MexCD, MexEF and MexGHI assist the diffusion of the 3OC12-HSL signal from 
+
+P. aeruginosa
+
+ [96–99]. Because QSS communications between bacteria, including 
+
+P. aeruginosa
+
+, control virulence factors and biofilm formation, secreting 3OC12-HSL is a critical function in the physiological role of the MexAB-OprM efflux pump. 
+
+P. aeruginosa
+
+ has two LuxI/LuxR pairs, LasI/LasR and RhlI/RhlR, which catalyze the last step in the synthesis of 3OC12-HSL and C4-HSL, respectively. mexAB-oprM overexpression induced by a nalB mutation compromised the production of 3OC12-HSL, decreased the expression of LasI/LasR-dependent virulence factors, such as pyocyanin, casein protease and elastase, and attenuated virulence in a C. elegans model [99, 100]. Conversely, clinical isolates of 
+
+P. aeruginosa
+
+ strains lacking a functional LasI/LasR system are less virulent in animal infection models, indicating their function as a virulence activator via QSS systems [101]. In mexAB-knockout mutant strains, 3OC12-HSL was not secreted, and LasR was upregulated by the accumulation of 3OC12-HSL inside cells [102]. While the exogenous addition of 3OC12-HSL had little or no effect on mexAB-oprM expression, C4-HSL enhanced mexAB-oprM expression in the stationary phase. The upregulation mechanism was not mediated by MexR, a negative regulator of MexAB-OprM [103]. MexAB-OprM can not only transport 3OC12-HSL but a small set of naturally occurring 3OC-HSLs (with 8–14 carbon acyl tails) and respond to QSS cross-talk from other species of bacteria [104]. QSS is an important factor for cell-to-cell communications in bacteria. 3-oxo-C12-homoserine lactone (3OC12-HSL) can passively diffuse, but the rate is much slower than C4-homoserine lactone (C4-HSL), which is another freely diffusible AHL signal [96]. MexAB and potentially MexCD, MexEF and MexGHI assist the diffusion of the 3OC12-HSL signal from 
+
+P. aeruginosa
+
+ [96–99]. Because QSS communications between bacteria, including 
+
+P. aeruginosa
+
+, control virulence factors and biofilm formation, secreting 3OC12-HSL is a critical function in the physiological role of the MexAB-OprM efflux pump. 
+
+P. aeruginosa
+
+ has two LuxI/LuxR pairs, LasI/LasR and RhlI/RhlR, which catalyze the last step in the synthesis of 3OC12-HSL and C4-HSL, respectively. mexAB-oprM overexpression induced by a nalB mutation compromised the production of 3OC12-HSL, decreased the expression of LasI/LasR-dependent virulence factors, such as pyocyanin, casein protease and elastase, and attenuated virulence in a C. elegans model [99, 100]. Conversely, clinical isolates of 
+
+P. aeruginosa
+
+ strains lacking a functional LasI/LasR system are less virulent in animal infection models, indicating their function as a virulence activator via QSS systems [101]. In mexAB-knockout mutant strains, 3OC12-HSL was not secreted, and LasR was upregulated by the accumulation of 3OC12-HSL inside cells [102]. While the exogenous addition of 3OC12-HSL had little or no effect on mexAB-oprM expression, C4-HSL enhanced mexAB-oprM expression in the stationary phase. The upregulation mechanism was not mediated by MexR, a negative regulator of MexAB-OprM [103]. MexAB-OprM can not only transport 3OC12-HSL but a small set of naturally occurring 3OC-HSLs (with 8–14 carbon acyl tails) and respond to QSS cross-talk from other species of bacteria [104]. QSS is an important factor for cell-to-cell communications in bacteria. 3-oxo-C12-homoserine lactone (3OC12-HSL) can passively diffuse, but the rate is much slower than C4-homoserine lactone (C4-HSL), which is another freely diffusible AHL signal [96]. MexAB and potentially MexCD, MexEF and MexGHI assist the diffusion of the 3OC12-HSL signal from 
+
+P. aeruginosa
+
+ [96–99]. Because QSS communications between bacteria, including 
+
+P. aeruginosa
+
+, control virulence factors and biofilm formation, secreting 3OC12-HSL is a critical function in the physiological role of the MexAB-OprM efflux pump. 
+
+P. aeruginosa
+
+ has two LuxI/LuxR pairs, LasI/LasR and RhlI/RhlR, which catalyze the last step in the synthesis of 3OC12-HSL and C4-HSL, respectively. mexAB-oprM overexpression induced by a nalB mutation compromised the production of 3OC12-HSL, decreased the expression of LasI/LasR-dependent virulence factors, such as pyocyanin, casein protease and elastase, and attenuated virulence in a C. elegans model [99, 100]. Conversely, clinical isolates of 
+
+P. aeruginosa
+
+ strains lacking a functional LasI/LasR system are less virulent in animal infection models, indicating their function as a virulence activator via QSS systems [101]. In mexAB-knockout mutant strains, 3OC12-HSL was not secreted, and LasR was upregulated by the accumulation of 3OC12-HSL inside cells [102]. While the exogenous addition of 3OC12-HSL had little or no effect on mexAB-oprM expression, C4-HSL enhanced mexAB-oprM expression in the stationary phase. The upregulation mechanism was not mediated by MexR, a negative regulator of MexAB-OprM [103]. MexAB-OprM can not only transport 3OC12-HSL but a small set of naturally occurring 3OC-HSLs (with 8–14 carbon acyl tails) and respond to QSS cross-talk from other species of bacteria [104]. Metabolic rewiring Metabolic rewiring Metabolic rewiring Metabolic rewiring To acquire antibiotic resistance, bacteria must pay a fitness cost. Recently, efflux pumps, including not only MexAB-OprM but MexCD-OprJ, MexEF-OprN and MexXY, have been recognized as contributing to the fitness cost management of environmental adaptation using a metabolic rewiring system [105]. Pacheco et al. found that overexpression of these four efflux pumps led to the rewiring of bacterial metabolism to generate an energy that is utilized for avoiding the fitness cost of by the acquisition of resistance due to overexpression of RND efflux pumps. To acquire antibiotic resistance, bacteria must pay a fitness cost. Recently, efflux pumps, including not only MexAB-OprM but MexCD-OprJ, MexEF-OprN and MexXY, have been recognized as contributing to the fitness cost management of environmental adaptation using a metabolic rewiring system [105]. Pacheco et al. found that overexpression of these four efflux pumps led to the rewiring of bacterial metabolism to generate an energy that is utilized for avoiding the fitness cost of by the acquisition of resistance due to overexpression of RND efflux pumps. To acquire antibiotic resistance, bacteria must pay a fitness cost. Recently, efflux pumps, including not only MexAB-OprM but MexCD-OprJ, MexEF-OprN and MexXY, have been recognized as contributing to the fitness cost management of environmental adaptation using a metabolic rewiring system [105]. Pacheco et al. found that overexpression of these four efflux pumps led to the rewiring of bacterial metabolism to generate an energy that is utilized for avoiding the fitness cost of by the acquisition of resistance due to overexpression of RND efflux pumps. To acquire antibiotic resistance, bacteria must pay a fitness cost. Recently, efflux pumps, including not only MexAB-OprM but MexCD-OprJ, MexEF-OprN and MexXY, have been recognized as contributing to the fitness cost management of environmental adaptation using a metabolic rewiring system [105]. Pacheco et al. found that overexpression of these four efflux pumps led to the rewiring of bacterial metabolism to generate an energy that is utilized for avoiding the fitness cost of by the acquisition of resistance due to overexpression of RND efflux pumps. Virulence effect in vivo Virulence effect in vivo Virulence effect in vivo Virulence effect in vivo Hirakata et al. reported that fluctuations in the MexAB expression levels contribute to virulence in a mexAB-oprM-deletion mutant or via inhibition of MexAB in the 
+
+P. aeruginosa
+
+ PAO1 strain, resulting in a significantly decreased capacity to invade or transmigrate across Madin–Darby canine kidney (MDCK) cells [106]. Furthermore, a mexAB-oprM-deletion strain could not kill a septicaemia murine model, in contrast to wild-type cells. Since the invasiveness of the mexAB-oprM-deletion mutant was restored by adding culture supernatant from MDCK cells infected with the wild-type, the authors suggested that 
+
+P. aeruginosa
+
+ exports invasion determinants using theMexAB-OprM system [107]. However, the essential involvement of QSSs such as C4-HSL and 3OC12-HSL was not apparent in additional experiments, so the specific molecule involved in virulence remains unidentified [108]. Hirakata et al. reported that fluctuations in the MexAB expression levels contribute to virulence in a mexAB-oprM-deletion mutant or via inhibition of MexAB in the 
+
+P. aeruginosa
+
+ PAO1 strain, resulting in a significantly decreased capacity to invade or transmigrate across Madin–Darby canine kidney (MDCK) cells [106]. Furthermore, a mexAB-oprM-deletion strain could not kill a septicaemia murine model, in contrast to wild-type cells. Since the invasiveness of the mexAB-oprM-deletion mutant was restored by adding culture supernatant from MDCK cells infected with the wild-type, the authors suggested that 
+
+P. aeruginosa
+
+ exports invasion determinants using theMexAB-OprM system [107]. However, the essential involvement of QSSs such as C4-HSL and 3OC12-HSL was not apparent in additional experiments, so the specific molecule involved in virulence remains unidentified [108]. Hirakata et al. reported that fluctuations in the MexAB expression levels contribute to virulence in a mexAB-oprM-deletion mutant or via inhibition of MexAB in the 
+
+P. aeruginosa
+
+ PAO1 strain, resulting in a significantly decreased capacity to invade or transmigrate across Madin–Darby canine kidney (MDCK) cells [106]. Furthermore, a mexAB-oprM-deletion strain could not kill a septicaemia murine model, in contrast to wild-type cells. Since the invasiveness of the mexAB-oprM-deletion mutant was restored by adding culture supernatant from MDCK cells infected with the wild-type, the authors suggested that 
+
+P. aeruginosa
+
+ exports invasion determinants using theMexAB-OprM system [107]. However, the essential involvement of QSSs such as C4-HSL and 3OC12-HSL was not apparent in additional experiments, so the specific molecule involved in virulence remains unidentified [108]. Hirakata et al. reported that fluctuations in the MexAB expression levels contribute to virulence in a mexAB-oprM-deletion mutant or via inhibition of MexAB in the 
+
+P. aeruginosa
+
+ PAO1 strain, resulting in a significantly decreased capacity to invade or transmigrate across Madin–Darby canine kidney (MDCK) cells [106]. Furthermore, a mexAB-oprM-deletion strain could not kill a septicaemia murine model, in contrast to wild-type cells. Since the invasiveness of the mexAB-oprM-deletion mutant was restored by adding culture supernatant from MDCK cells infected with the wild-type, the authors suggested that 
+
+P. aeruginosa
+
+ exports invasion determinants using theMexAB-OprM system [107]. However, the essential involvement of QSSs such as C4-HSL and 3OC12-HSL was not apparent in additional experiments, so the specific molecule involved in virulence remains unidentified [108]. Biofilm formation Biofilm formation Biofilm formation Biofilm formation P. aeruginosa
+
+ biofilm is intrinsically resistant to antimicrobial chemotherapies, and their formation is required for chronic colonization in human tissue. In the early 2000s, reports showed that overexpression or knockout of mexAB-oprM, mexCD-oprJ, mexEF-oprN and mexXY were uncorrelated with the level of antibiotic resistance in biofilms [109]. The interaction between efflux pumps and biofilm formation has been re-evaluated in the past decade. Liao et al. indicated that biofilm of double-mutant strains of mexAB-oprM and mexEF-oprM were more susceptible to five antibiotics, KAN, NOR, TET, TMP and tobramycin (TOB). Conversely, the overexpression of either efflux pump partly restored resistance in strains lacking brlR, a biofilm-specific MerR-type transcriptional regulator [110]. P. aeruginosa
+
+ biofilm is intrinsically resistant to antimicrobial chemotherapies, and their formation is required for chronic colonization in human tissue. In the early 2000s, reports showed that overexpression or knockout of mexAB-oprM, mexCD-oprJ, mexEF-oprN and mexXY were uncorrelated with the level of antibiotic resistance in biofilms [109]. The interaction between efflux pumps and biofilm formation has been re-evaluated in the past decade. Liao et al. indicated that biofilm of double-mutant strains of mexAB-oprM and mexEF-oprM were more susceptible to five antibiotics, KAN, NOR, TET, TMP and tobramycin (TOB). Conversely, the overexpression of either efflux pump partly restored resistance in strains lacking brlR, a biofilm-specific MerR-type transcriptional regulator [110]. P. aeruginosa
+
+ biofilm is intrinsically resistant to antimicrobial chemotherapies, and their formation is required for chronic colonization in human tissue. In the early 2000s, reports showed that overexpression or knockout of mexAB-oprM, mexCD-oprJ, mexEF-oprN and mexXY were uncorrelated with the level of antibiotic resistance in biofilms [109]. The interaction between efflux pumps and biofilm formation has been re-evaluated in the past decade. Liao et al. indicated that biofilm of double-mutant strains of mexAB-oprM and mexEF-oprM were more susceptible to five antibiotics, KAN, NOR, TET, TMP and tobramycin (TOB). Conversely, the overexpression of either efflux pump partly restored resistance in strains lacking brlR, a biofilm-specific MerR-type transcriptional regulator [110]. P. aeruginosa
+
+ biofilm is intrinsically resistant to antimicrobial chemotherapies, and their formation is required for chronic colonization in human tissue. In the early 2000s, reports showed that overexpression or knockout of mexAB-oprM, mexCD-oprJ, mexEF-oprN and mexXY were uncorrelated with the level of antibiotic resistance in biofilms [109]. The interaction between efflux pumps and biofilm formation has been re-evaluated in the past decade. Liao et al. indicated that biofilm of double-mutant strains of mexAB-oprM and mexEF-oprM were more susceptible to five antibiotics, KAN, NOR, TET, TMP and tobramycin (TOB). Conversely, the overexpression of either efflux pump partly restored resistance in strains lacking brlR, a biofilm-specific MerR-type transcriptional regulator [110]. MexCD-OprJ MexCD-OprJ MexCD-OprJ MexCD-OprJ comprises RND efflux pump MexD, the outer membrane protein OprJ and a periplasmic adaptor protein MexC that bridges the other two components. MexCD-OprJ comprises RND efflux pump MexD, the outer membrane protein OprJ and a periplasmic adaptor protein MexC that bridges the other two components. MexCD-OprJ comprises RND efflux pump MexD, the outer membrane protein OprJ and a periplasmic adaptor protein MexC that bridges the other two components. Virulence Virulence Virulence Virulence The relationship between mexCD-oprJ expression in 
+
+P. aeruginosa
+
+ and its virulence has been examined in several studies. Linares et al. indicated that overexpression of either mexCD-oprJ or mexEF-oprN resulted in the impairment of a T3SS in 
+
+P. aeruginosa
+
+ due to the transcriptional reduction of T3SS genes such as pcrv, exoT and exoS [111]. 
+
+P. aeruginosa
+
+ uses T3SS to carry virulent compounds directly into the cytoplasm of the mammalian host cell. The relationship between mexCD-oprJ expression in 
+
+P. aeruginosa
+
+ and its virulence has been examined in several studies. Linares et al. indicated that overexpression of either mexCD-oprJ or mexEF-oprN resulted in the impairment of a T3SS in 
+
+P. aeruginosa
+
+ due to the transcriptional reduction of T3SS genes such as pcrv, exoT and exoS [111]. 
+
+P. aeruginosa
+
+ uses T3SS to carry virulent compounds directly into the cytoplasm of the mammalian host cell. The relationship between mexCD-oprJ expression in 
+
+P. aeruginosa
+
+ and its virulence has been examined in several studies. Linares et al. indicated that overexpression of either mexCD-oprJ or mexEF-oprN resulted in the impairment of a T3SS in 
+
+P. aeruginosa
+
+ due to the transcriptional reduction of T3SS genes such as pcrv, exoT and exoS [111]. 
+
+P. aeruginosa
+
+ uses T3SS to carry virulent compounds directly into the cytoplasm of the mammalian host cell. The relationship between mexCD-oprJ expression in 
+
+P. aeruginosa
+
+ and its virulence has been examined in several studies. Linares et al. indicated that overexpression of either mexCD-oprJ or mexEF-oprN resulted in the impairment of a T3SS in 
+
+P. aeruginosa
+
+ due to the transcriptional reduction of T3SS genes such as pcrv, exoT and exoS [111]. 
+
+P. aeruginosa
+
+ uses T3SS to carry virulent compounds directly into the cytoplasm of the mammalian host cell. Physiological effect of nfxB mutant Physiological effect of nfxB mutant Physiological effect of nfxB mutant Physiological effect of nfxB mutant Studies have investigated the effects of mexCD overexpression by utilizing a strain with loss-of function mutations in nfxB, encoding a negative regulator of the mexCD-oprJ genes. The nfxB mutant was rapidly out-competed in growth in a mixed culture with wild-type cells during the stationary phase and showed motility impairment (swimming, swarming and twitching), and the reduced production of virulence factors (siderophores, rhamnolipid, secreted protease and pyocyanin) [112]. Intriguingly, Martinez-Ramos et al. demonstrated that C3 opsonization was increased, and infection of mouse lung tissues was attenuated in the nfxB mutant strain of 
+
+P. aeruginosa
+
+, supporting the notion that MexCD-OprJis responsible for the interaction with the mammalian host immune system [113]. nfxB mutants are rarely encountered in clinical samples due to poorly designed screening methodologies. Jeannot et al. only found 4 nfxB mutants (3.6%) in 110 nonreplicated clinical isolates after CIP treatment. These mutants had mexCD-oprJ upregulation and impaired colony size with strain-specific variation in virulence factors [114]. The emergence of nfxB mutants after CIP treatment was recently investigated in real time with an anfxB-GFP tracing experiment under conditions enabling biofilm formation. The results showed that nfxB mutants had an increased biofilm growth ability compared to wild-type cells, probably via the upregulation of mexCD-oprJ in biofilms. Moreover, nfxB mutants emerged de novo in the biofilm during CIP treatment from filamentous cells due to the stress response induced by CIP [115]. Studies have investigated the effects of mexCD overexpression by utilizing a strain with loss-of function mutations in nfxB, encoding a negative regulator of the mexCD-oprJ genes. The nfxB mutant was rapidly out-competed in growth in a mixed culture with wild-type cells during the stationary phase and showed motility impairment (swimming, swarming and twitching), and the reduced production of virulence factors (siderophores, rhamnolipid, secreted protease and pyocyanin) [112]. Intriguingly, Martinez-Ramos et al. demonstrated that C3 opsonization was increased, and infection of mouse lung tissues was attenuated in the nfxB mutant strain of 
+
+P. aeruginosa
+
+, supporting the notion that MexCD-OprJis responsible for the interaction with the mammalian host immune system [113]. nfxB mutants are rarely encountered in clinical samples due to poorly designed screening methodologies. Jeannot et al. only found 4 nfxB mutants (3.6%) in 110 nonreplicated clinical isolates after CIP treatment. These mutants had mexCD-oprJ upregulation and impaired colony size with strain-specific variation in virulence factors [114]. The emergence of nfxB mutants after CIP treatment was recently investigated in real time with an anfxB-GFP tracing experiment under conditions enabling biofilm formation. The results showed that nfxB mutants had an increased biofilm growth ability compared to wild-type cells, probably via the upregulation of mexCD-oprJ in biofilms. Moreover, nfxB mutants emerged de novo in the biofilm during CIP treatment from filamentous cells due to the stress response induced by CIP [115]. Studies have investigated the effects of mexCD overexpression by utilizing a strain with loss-of function mutations in nfxB, encoding a negative regulator of the mexCD-oprJ genes. The nfxB mutant was rapidly out-competed in growth in a mixed culture with wild-type cells during the stationary phase and showed motility impairment (swimming, swarming and twitching), and the reduced production of virulence factors (siderophores, rhamnolipid, secreted protease and pyocyanin) [112]. Intriguingly, Martinez-Ramos et al. demonstrated that C3 opsonization was increased, and infection of mouse lung tissues was attenuated in the nfxB mutant strain of 
+
+P. aeruginosa
+
+, supporting the notion that MexCD-OprJis responsible for the interaction with the mammalian host immune system [113]. nfxB mutants are rarely encountered in clinical samples due to poorly designed screening methodologies. Jeannot et al. only found 4 nfxB mutants (3.6%) in 110 nonreplicated clinical isolates after CIP treatment. These mutants had mexCD-oprJ upregulation and impaired colony size with strain-specific variation in virulence factors [114]. The emergence of nfxB mutants after CIP treatment was recently investigated in real time with an anfxB-GFP tracing experiment under conditions enabling biofilm formation. The results showed that nfxB mutants had an increased biofilm growth ability compared to wild-type cells, probably via the upregulation of mexCD-oprJ in biofilms. Moreover, nfxB mutants emerged de novo in the biofilm during CIP treatment from filamentous cells due to the stress response induced by CIP [115]. Studies have investigated the effects of mexCD overexpression by utilizing a strain with loss-of function mutations in nfxB, encoding a negative regulator of the mexCD-oprJ genes. The nfxB mutant was rapidly out-competed in growth in a mixed culture with wild-type cells during the stationary phase and showed motility impairment (swimming, swarming and twitching), and the reduced production of virulence factors (siderophores, rhamnolipid, secreted protease and pyocyanin) [112]. Intriguingly, Martinez-Ramos et al. demonstrated that C3 opsonization was increased, and infection of mouse lung tissues was attenuated in the nfxB mutant strain of 
+
+P. aeruginosa
+
+, supporting the notion that MexCD-OprJis responsible for the interaction with the mammalian host immune system [113]. nfxB mutants are rarely encountered in clinical samples due to poorly designed screening methodologies. Jeannot et al. only found 4 nfxB mutants (3.6%) in 110 nonreplicated clinical isolates after CIP treatment. These mutants had mexCD-oprJ upregulation and impaired colony size with strain-specific variation in virulence factors [114]. The emergence of nfxB mutants after CIP treatment was recently investigated in real time with an anfxB-GFP tracing experiment under conditions enabling biofilm formation. The results showed that nfxB mutants had an increased biofilm growth ability compared to wild-type cells, probably via the upregulation of mexCD-oprJ in biofilms. Moreover, nfxB mutants emerged de novo in the biofilm during CIP treatment from filamentous cells due to the stress response induced by CIP [115]. Physiological effect of nfxB mutant with mutT/mutY/mutM deletions Physiological effect of nfxB mutant with mutT/mutY/mutM deletions Physiological effect of nfxB mutant with mutT/mutY/mutM deletions Physiological effect of nfxB mutant with mutT/mutY/mutM deletions MexCD-OprJ is expressed from the envelope stress-inducible multidrug efflux operon mexCD-oprJ of 
+
+P. aeruginosa
+
+. Single-inactivation mutants of mutT and mutY, which are DNA repair genes that counter oxidative damage after exposure to polymorphonuclear leukocytes, significantly promoted the expression of mexCD-oprJ after CIP stimulation, leading to bacterial reactive oxygen species (ROS) production, suggesting a mechanism of acquiring antimicrobial resistance [116]. Furthermore, for mutY and mutM double-inactivation mutants, mutations in the regulator nfxB, led to hyperexpression of mexCD-oprJ, and these mutants showed out-competed growth compared to wild-type PAO1 strains. Thus, the hyperexpression of MexCD-OprJ was related to the mechanism of CIP resistance [117]. MexCD-OprJ is expressed from the envelope stress-inducible multidrug efflux operon mexCD-oprJ of 
+
+P. aeruginosa
+
+. Single-inactivation mutants of mutT and mutY, which are DNA repair genes that counter oxidative damage after exposure to polymorphonuclear leukocytes, significantly promoted the expression of mexCD-oprJ after CIP stimulation, leading to bacterial reactive oxygen species (ROS) production, suggesting a mechanism of acquiring antimicrobial resistance [116]. Furthermore, for mutY and mutM double-inactivation mutants, mutations in the regulator nfxB, led to hyperexpression of mexCD-oprJ, and these mutants showed out-competed growth compared to wild-type PAO1 strains. Thus, the hyperexpression of MexCD-OprJ was related to the mechanism of CIP resistance [117]. MexCD-OprJ is expressed from the envelope stress-inducible multidrug efflux operon mexCD-oprJ of 
+
+P. aeruginosa
+
+. Single-inactivation mutants of mutT and mutY, which are DNA repair genes that counter oxidative damage after exposure to polymorphonuclear leukocytes, significantly promoted the expression of mexCD-oprJ after CIP stimulation, leading to bacterial reactive oxygen species (ROS) production, suggesting a mechanism of acquiring antimicrobial resistance [116]. Furthermore, for mutY and mutM double-inactivation mutants, mutations in the regulator nfxB, led to hyperexpression of mexCD-oprJ, and these mutants showed out-competed growth compared to wild-type PAO1 strains. Thus, the hyperexpression of MexCD-OprJ was related to the mechanism of CIP resistance [117]. MexCD-OprJ is expressed from the envelope stress-inducible multidrug efflux operon mexCD-oprJ of 
+
+P. aeruginosa
+
+. Single-inactivation mutants of mutT and mutY, which are DNA repair genes that counter oxidative damage after exposure to polymorphonuclear leukocytes, significantly promoted the expression of mexCD-oprJ after CIP stimulation, leading to bacterial reactive oxygen species (ROS) production, suggesting a mechanism of acquiring antimicrobial resistance [116]. Furthermore, for mutY and mutM double-inactivation mutants, mutations in the regulator nfxB, led to hyperexpression of mexCD-oprJ, and these mutants showed out-competed growth compared to wild-type PAO1 strains. Thus, the hyperexpression of MexCD-OprJ was related to the mechanism of CIP resistance [117]. The effect of immune molecules The effect of immune molecules The effect of immune molecules The effect of immune molecules MexCD-OprJ and MexGHI-OpmD play defensive roles in protection against host defence immune peptides. Strempel et al. indicated that exogenous LL-37, a major human host defence peptide, promoted the expression of mexCD-oprJ and mexGHI-opmD, the production of virulence factors (such as toxic metabolites and proteases), and adaptive resistance against antibiotics such as CIP and gentamicin in 
+
+P. aeruginosa
+
+ strain PAO1 [118]. MexCD-OprJ and MexGHI-OpmD play defensive roles in protection against host defence immune peptides. Strempel et al. indicated that exogenous LL-37, a major human host defence peptide, promoted the expression of mexCD-oprJ and mexGHI-opmD, the production of virulence factors (such as toxic metabolites and proteases), and adaptive resistance against antibiotics such as CIP and gentamicin in 
+
+P. aeruginosa
+
+ strain PAO1 [118]. MexCD-OprJ and MexGHI-OpmD play defensive roles in protection against host defence immune peptides. Strempel et al. indicated that exogenous LL-37, a major human host defence peptide, promoted the expression of mexCD-oprJ and mexGHI-opmD, the production of virulence factors (such as toxic metabolites and proteases), and adaptive resistance against antibiotics such as CIP and gentamicin in 
+
+P. aeruginosa
+
+ strain PAO1 [118]. MexCD-OprJ and MexGHI-OpmD play defensive roles in protection against host defence immune peptides. Strempel et al. indicated that exogenous LL-37, a major human host defence peptide, promoted the expression of mexCD-oprJ and mexGHI-opmD, the production of virulence factors (such as toxic metabolites and proteases), and adaptive resistance against antibiotics such as CIP and gentamicin in 
+
+P. aeruginosa
+
+ strain PAO1 [118]. Azithromycin resistance Azithromycin resistance Azithromycin resistance Azithromycin resistance In addition to CIP treatment, macrolide azithromycin (AZM) is an antibiotic used for treating chronic 
+
+P. aeruginosa
+
+ infections in CF, but CIP resistance is frequently observed. If either mexAB-oprM or mexCD-oprJ is expressed, biofilm formation occurs in the presence of AZM. However, the deletion of both operons halts biofilm formation under the same conditions. This indicates that either of the pumps can confer resistance to AZM during biofilm development [119]. In addition to CIP treatment, macrolide azithromycin (AZM) is an antibiotic used for treating chronic 
+
+P. aeruginosa
+
+ infections in CF, but CIP resistance is frequently observed. If either mexAB-oprM or mexCD-oprJ is expressed, biofilm formation occurs in the presence of AZM. However, the deletion of both operons halts biofilm formation under the same conditions. This indicates that either of the pumps can confer resistance to AZM during biofilm development [119]. In addition to CIP treatment, macrolide azithromycin (AZM) is an antibiotic used for treating chronic 
+
+P. aeruginosa
+
+ infections in CF, but CIP resistance is frequently observed. If either mexAB-oprM or mexCD-oprJ is expressed, biofilm formation occurs in the presence of AZM. However, the deletion of both operons halts biofilm formation under the same conditions. This indicates that either of the pumps can confer resistance to AZM during biofilm development [119]. In addition to CIP treatment, macrolide azithromycin (AZM) is an antibiotic used for treating chronic 
+
+P. aeruginosa
+
+ infections in CF, but CIP resistance is frequently observed. If either mexAB-oprM or mexCD-oprJ is expressed, biofilm formation occurs in the presence of AZM. However, the deletion of both operons halts biofilm formation under the same conditions. This indicates that either of the pumps can confer resistance to AZM during biofilm development [119]. MexEF-OprN MexEF-OprN MexEF-OprN QSSs and virulence of the nfxC mutant QSSs and virulence of the nfxC mutant QSSs and virulence of the nfxC mutant QSSs and virulence of the nfxC mutant MexEF-OprN is overexpressed when its negative regulator nfxC is disrupted. nfxC-deletion strains overexpressing MexEF-OprN produced lower levels of extracellular C4-HSL and virulence factors such as pyocyanin, elastase and rhamnolipids [97]. In addition to QSSs such as C4-HSL and 3OC12-HSL, 3,4-dihydroxy-2-heptylquinoline, known as the 
+
+Pseudomonas
+
+ quinolone signal (PQS), is another QSS molecule. The production of PQS depends on the transcriptional regulators PqsR/PqsA-D/PqsH. 4-hydroxy-2-heptylquinoline (HHQ) is the immediate PQS precursor before final catalysis by PqsH. Olivares et al. demonstrated that the overexpression of the MexEF-OprN delayed the production of PQS. This was probably caused by the extrusion of kynurenine, a PQS and HHQ precursor, through the MexEF-OprN pump. Overexpression of MexEF-OprN also impaired virulence factors such as T3SS and type VI secretion system (T6SS) at the transcriptional level and enhanced the survival of the infected host, C. elegans, in vivo [120]. Additionally, the activation of MexEF-OprN in 
+
+P. aeruginosa
+
+ PA14 strains with mutations in the suppressor mexS also reduced swarming motility, virulence factor pyocyanin production and biofilm formation. In this condition, decreased PQS concentration and increased HHQ were observed in overexpressed mexEF-oprN, suggesting that MexEF-OprN exported HHQ before PQS was synthesized, and the efflux of QSS by MexEF-OprN may be a reason for the reduced virulence [121]. MexEF-OprN is overexpressed when its negative regulator nfxC is disrupted. nfxC-deletion strains overexpressing MexEF-OprN produced lower levels of extracellular C4-HSL and virulence factors such as pyocyanin, elastase and rhamnolipids [97]. In addition to QSSs such as C4-HSL and 3OC12-HSL, 3,4-dihydroxy-2-heptylquinoline, known as the 
+
+Pseudomonas
+
+ quinolone signal (PQS), is another QSS molecule. The production of PQS depends on the transcriptional regulators PqsR/PqsA-D/PqsH. 4-hydroxy-2-heptylquinoline (HHQ) is the immediate PQS precursor before final catalysis by PqsH. Olivares et al. demonstrated that the overexpression of the MexEF-OprN delayed the production of PQS. This was probably caused by the extrusion of kynurenine, a PQS and HHQ precursor, through the MexEF-OprN pump. Overexpression of MexEF-OprN also impaired virulence factors such as T3SS and type VI secretion system (T6SS) at the transcriptional level and enhanced the survival of the infected host, C. elegans, in vivo [120]. Additionally, the activation of MexEF-OprN in 
+
+P. aeruginosa
+
+ PA14 strains with mutations in the suppressor mexS also reduced swarming motility, virulence factor pyocyanin production and biofilm formation. In this condition, decreased PQS concentration and increased HHQ were observed in overexpressed mexEF-oprN, suggesting that MexEF-OprN exported HHQ before PQS was synthesized, and the efflux of QSS by MexEF-OprN may be a reason for the reduced virulence [121]. MexEF-OprN is overexpressed when its negative regulator nfxC is disrupted. nfxC-deletion strains overexpressing MexEF-OprN produced lower levels of extracellular C4-HSL and virulence factors such as pyocyanin, elastase and rhamnolipids [97]. In addition to QSSs such as C4-HSL and 3OC12-HSL, 3,4-dihydroxy-2-heptylquinoline, known as the 
+
+Pseudomonas
+
+ quinolone signal (PQS), is another QSS molecule. The production of PQS depends on the transcriptional regulators PqsR/PqsA-D/PqsH. 4-hydroxy-2-heptylquinoline (HHQ) is the immediate PQS precursor before final catalysis by PqsH. Olivares et al. demonstrated that the overexpression of the MexEF-OprN delayed the production of PQS. This was probably caused by the extrusion of kynurenine, a PQS and HHQ precursor, through the MexEF-OprN pump. Overexpression of MexEF-OprN also impaired virulence factors such as T3SS and type VI secretion system (T6SS) at the transcriptional level and enhanced the survival of the infected host, C. elegans, in vivo [120]. Additionally, the activation of MexEF-OprN in 
+
+P. aeruginosa
+
+ PA14 strains with mutations in the suppressor mexS also reduced swarming motility, virulence factor pyocyanin production and biofilm formation. In this condition, decreased PQS concentration and increased HHQ were observed in overexpressed mexEF-oprN, suggesting that MexEF-OprN exported HHQ before PQS was synthesized, and the efflux of QSS by MexEF-OprN may be a reason for the reduced virulence [121]. MexEF-OprN is overexpressed when its negative regulator nfxC is disrupted. nfxC-deletion strains overexpressing MexEF-OprN produced lower levels of extracellular C4-HSL and virulence factors such as pyocyanin, elastase and rhamnolipids [97]. In addition to QSSs such as C4-HSL and 3OC12-HSL, 3,4-dihydroxy-2-heptylquinoline, known as the 
+
+Pseudomonas
+
+ quinolone signal (PQS), is another QSS molecule. The production of PQS depends on the transcriptional regulators PqsR/PqsA-D/PqsH. 4-hydroxy-2-heptylquinoline (HHQ) is the immediate PQS precursor before final catalysis by PqsH. Olivares et al. demonstrated that the overexpression of the MexEF-OprN delayed the production of PQS. This was probably caused by the extrusion of kynurenine, a PQS and HHQ precursor, through the MexEF-OprN pump. Overexpression of MexEF-OprN also impaired virulence factors such as T3SS and type VI secretion system (T6SS) at the transcriptional level and enhanced the survival of the infected host, C. elegans, in vivo [120]. Additionally, the activation of MexEF-OprN in 
+
+P. aeruginosa
+
+ PA14 strains with mutations in the suppressor mexS also reduced swarming motility, virulence factor pyocyanin production and biofilm formation. In this condition, decreased PQS concentration and increased HHQ were observed in overexpressed mexEF-oprN, suggesting that MexEF-OprN exported HHQ before PQS was synthesized, and the efflux of QSS by MexEF-OprN may be a reason for the reduced virulence [121]. Physiological effect of variation in the regulatory signal Physiological effect of variation in the regulatory signal Physiological effect of variation in the regulatory signal Physiological effect of variation in the regulatory signal mexEF-oprN expression is enhanced by the functional activator protein MexT, a LysR family transcriptional regulator. Recently, Oshri et al. showed that mexT-null mutants inhibited MexEF-OprN activity and enhanced cell growth, although an independent function of MexT was also confirmed separately from the dependent effect of the MexEF-OprN pump [122], consistent with previous reports including the involvement of T3SS [123]. The MexS protein also influences MexEF-OprN efflux activity in interaction with MexT [124]. Upstream signals of MexS/MexT, ParS and ParR were proposed, and both the parS and parR mutants induced a decrease in the MexEF pump and upregulated the virulence factor pyocyanin and enhanced swarming motility [125]. Another negative regulatory factor, AmpR, a member of the LysR family, also regulates non-β-lactam antibiotic resistance by activating the expression of theMexEF-OprN efflux pump. Although the contribution of MexEF-OprN was not determined, ampR-deletion mutants showed enhanced biofilm formation, decreased QSS-regulated acute virulence factors and attenuated virulence in a C. elegans model in parallel with upregulated transcription of mexEF-oprN genes [126]. mexEF-oprN expression is enhanced by the functional activator protein MexT, a LysR family transcriptional regulator. Recently, Oshri et al. showed that mexT-null mutants inhibited MexEF-OprN activity and enhanced cell growth, although an independent function of MexT was also confirmed separately from the dependent effect of the MexEF-OprN pump [122], consistent with previous reports including the involvement of T3SS [123]. The MexS protein also influences MexEF-OprN efflux activity in interaction with MexT [124]. Upstream signals of MexS/MexT, ParS and ParR were proposed, and both the parS and parR mutants induced a decrease in the MexEF pump and upregulated the virulence factor pyocyanin and enhanced swarming motility [125]. Another negative regulatory factor, AmpR, a member of the LysR family, also regulates non-β-lactam antibiotic resistance by activating the expression of theMexEF-OprN efflux pump. Although the contribution of MexEF-OprN was not determined, ampR-deletion mutants showed enhanced biofilm formation, decreased QSS-regulated acute virulence factors and attenuated virulence in a C. elegans model in parallel with upregulated transcription of mexEF-oprN genes [126]. mexEF-oprN expression is enhanced by the functional activator protein MexT, a LysR family transcriptional regulator. Recently, Oshri et al. showed that mexT-null mutants inhibited MexEF-OprN activity and enhanced cell growth, although an independent function of MexT was also confirmed separately from the dependent effect of the MexEF-OprN pump [122], consistent with previous reports including the involvement of T3SS [123]. The MexS protein also influences MexEF-OprN efflux activity in interaction with MexT [124]. Upstream signals of MexS/MexT, ParS and ParR were proposed, and both the parS and parR mutants induced a decrease in the MexEF pump and upregulated the virulence factor pyocyanin and enhanced swarming motility [125]. Another negative regulatory factor, AmpR, a member of the LysR family, also regulates non-β-lactam antibiotic resistance by activating the expression of theMexEF-OprN efflux pump. Although the contribution of MexEF-OprN was not determined, ampR-deletion mutants showed enhanced biofilm formation, decreased QSS-regulated acute virulence factors and attenuated virulence in a C. elegans model in parallel with upregulated transcription of mexEF-oprN genes [126]. mexEF-oprN expression is enhanced by the functional activator protein MexT, a LysR family transcriptional regulator. Recently, Oshri et al. showed that mexT-null mutants inhibited MexEF-OprN activity and enhanced cell growth, although an independent function of MexT was also confirmed separately from the dependent effect of the MexEF-OprN pump [122], consistent with previous reports including the involvement of T3SS [123]. The MexS protein also influences MexEF-OprN efflux activity in interaction with MexT [124]. Upstream signals of MexS/MexT, ParS and ParR were proposed, and both the parS and parR mutants induced a decrease in the MexEF pump and upregulated the virulence factor pyocyanin and enhanced swarming motility [125]. Another negative regulatory factor, AmpR, a member of the LysR family, also regulates non-β-lactam antibiotic resistance by activating the expression of theMexEF-OprN efflux pump. Although the contribution of MexEF-OprN was not determined, ampR-deletion mutants showed enhanced biofilm formation, decreased QSS-regulated acute virulence factors and attenuated virulence in a C. elegans model in parallel with upregulated transcription of mexEF-oprN genes [126]. Stress response Stress response Stress response Stress response MexEF-OprN plays a central role in pathogen response to several stresses, such as electrophilic and metabolic compounds, disulfide, and oxidative and nitrosative stress, affecting intracellular energy homeostasis. Under toxic electrophilic molecule stress (by glyoxal, methylglyoxal and cinnamaldehyde) in PA14 strains, the CmrA pathway, a regulator of the AraC family, is strongly activated. MexEF-OprN is upregulated through MexS and MexT activation, suggesting that a protection system counteracts these stressful agents [127]. MexEF-OprN also offered protection against endogenous metabolic stressors by incubation on a nutrient-rich medium without antibiotics. This protection occurs in a MexT-independent manner, although the mechanism remains unresolved [128]. Disulfide stress induced by diamide reaction with free thiols is a subcategory of oxidative stress causing thiol-disulfide imbalances, leading to stress-inducing redox imbalances because of naturally occurring electrophiles. Fargier et al. reported that MexEF-OprN is induced by MexT in the presence of diamide, which increased susceptibility to disulfide stress in redox control [129]. Under hypoxic conditions, only the MexEF-OprN efflux pump system, but neither MexAB-OprM nor MexCD-OprJ, is upregulated in 
+
+P. aeruginosa
+
+ clinical strains and ATCC27853. Since this condition made these cells resistant to antibiotic drugs, MexEF-OprN was suggested as a strong candidate for mediating this phenotype [130]. MexEF-OprN is likely to be induced by nitrosative stress. mexEF-oprN overexpression has also been observed to be MexT-dependent, by using s-nitrosoglutathione as a source of nitrosative stress without antibiotics [131]. MexEF-OprN plays a central role in pathogen response to several stresses, such as electrophilic and metabolic compounds, disulfide, and oxidative and nitrosative stress, affecting intracellular energy homeostasis. Under toxic electrophilic molecule stress (by glyoxal, methylglyoxal and cinnamaldehyde) in PA14 strains, the CmrA pathway, a regulator of the AraC family, is strongly activated. MexEF-OprN is upregulated through MexS and MexT activation, suggesting that a protection system counteracts these stressful agents [127]. MexEF-OprN also offered protection against endogenous metabolic stressors by incubation on a nutrient-rich medium without antibiotics. This protection occurs in a MexT-independent manner, although the mechanism remains unresolved [128]. Disulfide stress induced by diamide reaction with free thiols is a subcategory of oxidative stress causing thiol-disulfide imbalances, leading to stress-inducing redox imbalances because of naturally occurring electrophiles. Fargier et al. reported that MexEF-OprN is induced by MexT in the presence of diamide, which increased susceptibility to disulfide stress in redox control [129]. Under hypoxic conditions, only the MexEF-OprN efflux pump system, but neither MexAB-OprM nor MexCD-OprJ, is upregulated in 
+
+P. aeruginosa
+
+ clinical strains and ATCC27853. Since this condition made these cells resistant to antibiotic drugs, MexEF-OprN was suggested as a strong candidate for mediating this phenotype [130]. MexEF-OprN is likely to be induced by nitrosative stress. mexEF-oprN overexpression has also been observed to be MexT-dependent, by using s-nitrosoglutathione as a source of nitrosative stress without antibiotics [131]. MexEF-OprN plays a central role in pathogen response to several stresses, such as electrophilic and metabolic compounds, disulfide, and oxidative and nitrosative stress, affecting intracellular energy homeostasis. Under toxic electrophilic molecule stress (by glyoxal, methylglyoxal and cinnamaldehyde) in PA14 strains, the CmrA pathway, a regulator of the AraC family, is strongly activated. MexEF-OprN is upregulated through MexS and MexT activation, suggesting that a protection system counteracts these stressful agents [127]. MexEF-OprN also offered protection against endogenous metabolic stressors by incubation on a nutrient-rich medium without antibiotics. This protection occurs in a MexT-independent manner, although the mechanism remains unresolved [128]. Disulfide stress induced by diamide reaction with free thiols is a subcategory of oxidative stress causing thiol-disulfide imbalances, leading to stress-inducing redox imbalances because of naturally occurring electrophiles. Fargier et al. reported that MexEF-OprN is induced by MexT in the presence of diamide, which increased susceptibility to disulfide stress in redox control [129]. Under hypoxic conditions, only the MexEF-OprN efflux pump system, but neither MexAB-OprM nor MexCD-OprJ, is upregulated in 
+
+P. aeruginosa
+
+ clinical strains and ATCC27853. Since this condition made these cells resistant to antibiotic drugs, MexEF-OprN was suggested as a strong candidate for mediating this phenotype [130]. MexEF-OprN is likely to be induced by nitrosative stress. mexEF-oprN overexpression has also been observed to be MexT-dependent, by using s-nitrosoglutathione as a source of nitrosative stress without antibiotics [131]. MexEF-OprN plays a central role in pathogen response to several stresses, such as electrophilic and metabolic compounds, disulfide, and oxidative and nitrosative stress, affecting intracellular energy homeostasis. Under toxic electrophilic molecule stress (by glyoxal, methylglyoxal and cinnamaldehyde) in PA14 strains, the CmrA pathway, a regulator of the AraC family, is strongly activated. MexEF-OprN is upregulated through MexS and MexT activation, suggesting that a protection system counteracts these stressful agents [127]. MexEF-OprN also offered protection against endogenous metabolic stressors by incubation on a nutrient-rich medium without antibiotics. This protection occurs in a MexT-independent manner, although the mechanism remains unresolved [128]. Disulfide stress induced by diamide reaction with free thiols is a subcategory of oxidative stress causing thiol-disulfide imbalances, leading to stress-inducing redox imbalances because of naturally occurring electrophiles. Fargier et al. reported that MexEF-OprN is induced by MexT in the presence of diamide, which increased susceptibility to disulfide stress in redox control [129]. Under hypoxic conditions, only the MexEF-OprN efflux pump system, but neither MexAB-OprM nor MexCD-OprJ, is upregulated in 
+
+P. aeruginosa
+
+ clinical strains and ATCC27853. Since this condition made these cells resistant to antibiotic drugs, MexEF-OprN was suggested as a strong candidate for mediating this phenotype [130]. MexEF-OprN is likely to be induced by nitrosative stress. mexEF-oprN overexpression has also been observed to be MexT-dependent, by using s-nitrosoglutathione as a source of nitrosative stress without antibiotics [131]. MexXY-OprM MexXY-OprM MexXY-OprM The MexXY-OprM efflux pump complex functions in response to the impairment of ribosome function or protein synthesis, or antibiotics that perturb ribosome function. Either methionyl-tRNAfmetformyltransferase (fmt) mutation or folD mutation upregulated expression of mexXY after impaired cell growth due to the impairment of protein synthesis [132]. Various ribosome inhibitors (e.g. CHL, TET, macrolides and aminoglycosides) induced the expression of mexXY-oprM in a concentration-dependent manner in the 
+
+P. aeruginosa
+
+ PAO1 strain. MexZ-independent MexXY activation in the presence of TET, CHL and spectinomycin was recognized as MexXY was upregulated in a PAO1 mutant with mexZ deficiency [133]. Aside from MexZ and its upstream ArmZ regulatory signal [134], ParRS, AmgRS and SuhB have been reported as candidate regulatory systems for MexXY-OprM during ribosome inhibition by antibiotics [135–138]. MexXY-OprM is also inducible by oxidative stress. Since ROS is present in CF lungs and 
+
+P. aeruginosa
+
+ infection due to chronic inflammation, the significant resistance to aminoglycosides is accelerated by the upregulation of MexXY through ArmZin the presence of high ROS levels [139]. The MexXY-OprM efflux pump complex functions in response to the impairment of ribosome function or protein synthesis, or antibiotics that perturb ribosome function. Either methionyl-tRNAfmetformyltransferase (fmt) mutation or folD mutation upregulated expression of mexXY after impaired cell growth due to the impairment of protein synthesis [132]. Various ribosome inhibitors (e.g. CHL, TET, macrolides and aminoglycosides) induced the expression of mexXY-oprM in a concentration-dependent manner in the 
+
+P. aeruginosa
+
+ PAO1 strain. MexZ-independent MexXY activation in the presence of TET, CHL and spectinomycin was recognized as MexXY was upregulated in a PAO1 mutant with mexZ deficiency [133]. Aside from MexZ and its upstream ArmZ regulatory signal [134], ParRS, AmgRS and SuhB have been reported as candidate regulatory systems for MexXY-OprM during ribosome inhibition by antibiotics [135–138]. MexXY-OprM is also inducible by oxidative stress. Since ROS is present in CF lungs and 
+
+P. aeruginosa
+
+ infection due to chronic inflammation, the significant resistance to aminoglycosides is accelerated by the upregulation of MexXY through ArmZin the presence of high ROS levels [139]. The MexXY-OprM efflux pump complex functions in response to the impairment of ribosome function or protein synthesis, or antibiotics that perturb ribosome function. Either methionyl-tRNAfmetformyltransferase (fmt) mutation or folD mutation upregulated expression of mexXY after impaired cell growth due to the impairment of protein synthesis [132]. Various ribosome inhibitors (e.g. CHL, TET, macrolides and aminoglycosides) induced the expression of mexXY-oprM in a concentration-dependent manner in the 
+
+P. aeruginosa
+
+ PAO1 strain. MexZ-independent MexXY activation in the presence of TET, CHL and spectinomycin was recognized as MexXY was upregulated in a PAO1 mutant with mexZ deficiency [133]. Aside from MexZ and its upstream ArmZ regulatory signal [134], ParRS, AmgRS and SuhB have been reported as candidate regulatory systems for MexXY-OprM during ribosome inhibition by antibiotics [135–138]. MexXY-OprM is also inducible by oxidative stress. Since ROS is present in CF lungs and 
+
+P. aeruginosa
+
+ infection due to chronic inflammation, the significant resistance to aminoglycosides is accelerated by the upregulation of MexXY through ArmZin the presence of high ROS levels [139]. MexGHI-OpmD MexGHI-OpmD MexGHI-OpmD MexGHI-OpmD confers vanadium resistance, QSS homeostasis and virulence production in 
+
+P. aeruginosa
+
+. Adendekerk et al. demonstrated that either mexI or opmD deletion accumulated intracellular QSS factors such as C4-HSL, 3OC12-HSL and PQS. Both single-deletion mutants showed impaired cell growth, swarming motility and production of virulence factors such as elastase, rhamnolipids and pyocyanin. Notably, the attenuation of virulence was confirmed in vivo in rat and plant models infected with these mutants of P. Aeruginosa [98, 140]. Phenazines include phenazine-1-carboxylate (PCA), the intermediate 5-Me-PCA, and pyocyanin (5-N-methyl-1-hydroxyphenazine), which are in the phenazine biosynthetic pathway of redox-cycling antibiotics that affect redox homeostasis. Research by Dietrich et al. demonstrated that mexGHI-opmD expression was promoted by endogenous synthesized 5-Me-PCA and phenazines through the redox-active transcription factor SoxR in the 
+
+P. aeruginosa
+
+ PA14 strain. 5-Me-PCA is required for biofilm morphogenesis with the upregulation of MexGHI, resulting in a more reduced cellular phenazine pool [141–143]. Since MexG was not required for 5-Me-PCA efflux, the function of this protein is unknown [142]. MexGHI-OpmD confers vanadium resistance, QSS homeostasis and virulence production in 
+
+P. aeruginosa
+
+. Adendekerk et al. demonstrated that either mexI or opmD deletion accumulated intracellular QSS factors such as C4-HSL, 3OC12-HSL and PQS. Both single-deletion mutants showed impaired cell growth, swarming motility and production of virulence factors such as elastase, rhamnolipids and pyocyanin. Notably, the attenuation of virulence was confirmed in vivo in rat and plant models infected with these mutants of P. Aeruginosa [98, 140]. Phenazines include phenazine-1-carboxylate (PCA), the intermediate 5-Me-PCA, and pyocyanin (5-N-methyl-1-hydroxyphenazine), which are in the phenazine biosynthetic pathway of redox-cycling antibiotics that affect redox homeostasis. Research by Dietrich et al. demonstrated that mexGHI-opmD expression was promoted by endogenous synthesized 5-Me-PCA and phenazines through the redox-active transcription factor SoxR in the 
+
+P. aeruginosa
+
+ PA14 strain. 5-Me-PCA is required for biofilm morphogenesis with the upregulation of MexGHI, resulting in a more reduced cellular phenazine pool [141–143]. Since MexG was not required for 5-Me-PCA efflux, the function of this protein is unknown [142]. MexGHI-OpmD confers vanadium resistance, QSS homeostasis and virulence production in 
+
+P. aeruginosa
+
+. Adendekerk et al. demonstrated that either mexI or opmD deletion accumulated intracellular QSS factors such as C4-HSL, 3OC12-HSL and PQS. Both single-deletion mutants showed impaired cell growth, swarming motility and production of virulence factors such as elastase, rhamnolipids and pyocyanin. Notably, the attenuation of virulence was confirmed in vivo in rat and plant models infected with these mutants of P. Aeruginosa [98, 140]. Phenazines include phenazine-1-carboxylate (PCA), the intermediate 5-Me-PCA, and pyocyanin (5-N-methyl-1-hydroxyphenazine), which are in the phenazine biosynthetic pathway of redox-cycling antibiotics that affect redox homeostasis. Research by Dietrich et al. demonstrated that mexGHI-opmD expression was promoted by endogenous synthesized 5-Me-PCA and phenazines through the redox-active transcription factor SoxR in the 
+
+P. aeruginosa
+
+ PA14 strain. 5-Me-PCA is required for biofilm morphogenesis with the upregulation of MexGHI, resulting in a more reduced cellular phenazine pool [141–143]. Since MexG was not required for 5-Me-PCA efflux, the function of this protein is unknown [142]. CzcABC CzcABC CzcABC Zn and Cu are required for bacterial growth, but in excess they jeopardize normal survival due to toxicity. The regulation of intracellular heavy metals is achieved via the Czc(cadmium, zinc and cobalt)ABC efflux system. When 
+
+P. aeruginosa
+
+ cells were treated with Zn, the expression of czcABC was upregulated through the activation of the two-component system CzcRS for intrinsic Zn resistance [144]. In the presence of Cu, the transcription of czcABC was enhanced with CzcRS upregulation, leading to resistance to not only Cu but also Zn [145]. Zn and Cu are required for bacterial growth, but in excess they jeopardize normal survival due to toxicity. The regulation of intracellular heavy metals is achieved via the Czc(cadmium, zinc and cobalt)ABC efflux system. When 
+
+P. aeruginosa
+
+ cells were treated with Zn, the expression of czcABC was upregulated through the activation of the two-component system CzcRS for intrinsic Zn resistance [144]. In the presence of Cu, the transcription of czcABC was enhanced with CzcRS upregulation, leading to resistance to not only Cu but also Zn [145]. Zn and Cu are required for bacterial growth, but in excess they jeopardize normal survival due to toxicity. The regulation of intracellular heavy metals is achieved via the Czc(cadmium, zinc and cobalt)ABC efflux system. When 
+
+P. aeruginosa
+
+ cells were treated with Zn, the expression of czcABC was upregulated through the activation of the two-component system CzcRS for intrinsic Zn resistance [144]. In the presence of Cu, the transcription of czcABC was enhanced with CzcRS upregulation, leading to resistance to not only Cu but also Zn [145]. Other efflux pumps Other efflux pumps Other efflux pumps The physiological functions of MexJK-OprM/OpmH, MexMN-OprM, MexPQ-OpmE, MexVW-OprM, Tri(triclosan)ABC-OpmH and MuxABC-OpmB remain unknown. Not much information is known regarding these pumps. The physiological functions of MexJK-OprM/OpmH, MexMN-OprM, MexPQ-OpmE, MexVW-OprM, Tri(triclosan)ABC-OpmH and MuxABC-OpmB remain unknown. Not much information is known regarding these pumps. The physiological functions of MexJK-OprM/OpmH, MexMN-OprM, MexPQ-OpmE, MexVW-OprM, Tri(triclosan)ABC-OpmH and MuxABC-OpmB remain unknown. Not much information is known regarding these pumps. Conclusion and future perspectives Conclusion and future perspectives We reviewed the physiological and drug resistance roles of RND-type drug efflux pump systems in 
+
+S. enterica
+
+, 
+
+E. coli
+
+ and 
+
+P. aeruginosa
+
+. In this review, we categorized how efflux pumps work physiologically in virulence, biofilm formation and cell metabolism. Intriguingly, not only major efflux pumps, such as AcrAB and MexAB, but also other pumps are recognized for their important capacity to help bacteria survive harsh environments in mammalian host cells. However, several factors remain unknown, including the functional role of several types of efflux pumps and the detailed mechanism underlying their physiological roles. In future work, we aim to comprehensively investigate these physiological roles. Additionally, we described the substrates of each efflux pump complex, which is important for the multidrug resistance of Gram-negative pathogens. Since some multidrug efflux pumps contribute to virulence in host cells, drug development to prevent drug resistance and virulence should be further investigated. Although several research groups have attempted to develop efficient efflux pump inhibitors (EPIs), clinically useful inhibitors are not yet available. In the future, we hope EPI candidates inhibiting multidrug efflux pumps come into the market, helping to prevent and cure MDR infections. We reviewed the physiological and drug resistance roles of RND-type drug efflux pump systems in 
+
+S. enterica
+
+, 
+
+E. coli
+
+ and 
+
+P. aeruginosa
+
+. In this review, we categorized how efflux pumps work physiologically in virulence, biofilm formation and cell metabolism. Intriguingly, not only major efflux pumps, such as AcrAB and MexAB, but also other pumps are recognized for their important capacity to help bacteria survive harsh environments in mammalian host cells. However, several factors remain unknown, including the functional role of several types of efflux pumps and the detailed mechanism underlying their physiological roles. In future work, we aim to comprehensively investigate these physiological roles. Additionally, we described the substrates of each efflux pump complex, which is important for the multidrug resistance of Gram-negative pathogens. Since some multidrug efflux pumps contribute to virulence in host cells, drug development to prevent drug resistance and virulence should be further investigated. Although several research groups have attempted to develop efficient efflux pump inhibitors (EPIs), clinically useful inhibitors are not yet available. In the future, we hope EPI candidates inhibiting multidrug efflux pumps come into the market, helping to prevent and cure MDR infections. Supplementary Data Supplementary Data Supplementary material 1 Supplementary material 1 Click here for additional data file. Click here for additional data file. Funding information This work was supported by the Research Program for CORE lab and CORE2-, a lab of the Dynamic Alliance for Open Innovation Bridging Human, Environment and Materials in the Network Joint Research Center for Materials and Devices; the Center of Innovation Program (COI) and Core Research for Evolutional Science and Technology (CREST) from the Japan Science and Technology Agency (JST); Grants-in-Aid, Network Joint Research Center for Materials and Devices, and Dynamic Alliance for Open Innovation Bridging Human, Environment and Materials of the Ministry of Education, Culture, Sports, Science and Technology of Japan (MEXT); Grant-in-Aid for Scientific Research (B) (Kakenhi 17H03983), Challenging Research (Exploratory) (Kakenhi 18K19451, 22K19831) and Grand-in-Aid for Early-Career Scientists (Kakenhi 18K14902, 20K16242) from the Japan Society for the Promotion of Science (JSPS); Takeda Science Foundation; the Nippon Foundation – Osaka University Project for Infectious Disease Prevention; and Japan Agency for Medical Research and Development (AMED). Author contributions K.N. conceived the review. All authors contributed to the drafting of the review and approved the final manuscript. Conflicts of interest The authors declare that there are no conflicts of interest. Abbreviations: ABC, ATP-binding cassette; AbgT, p-aminobenzoyl-glutamate transporter; ACR, acriflavine; AMR, antimicrobial resistance; ATM, aztreonam; AZM, azithromycin; BENZ, benzalkonium chloride; CDI, contact-dependent growth inhibition; CF, cystic fibrosis; CHL, chloramphenicol; CIP, ciprofloxacin; CLO, cloxacillin; CM, conditioned medium; Cu, copper; CV, crystal violet; DOC, deoxycholic acid; DXR, doxorubicin; ENO, enoxacin; EPI, efflux pump inhibitor; ERY, erythromycin; ETBR, ethidium bromide; FAM, cefamandole; FQ, fluoroquinolone; hEC, human intestinal epithelial cell; HHQ, 4-hydroxy-2-heptylquinoline; H-NS, histone-like nucleoid structuring protein; HSL, homoserine lactone; KAN, kanamycin; LB, Lysogeny Broth; MATE, multidrug and toxic compoud extrusion; MDCK, Madin–Darby canine kidney; MDR, multidrug-resistant; MFP, membrane fusion protein; MFS, major facilitator superfamily; MIN, minocycline; NAF, nafcillin; NAL, nalidixic acid; NOR, norfloxacin; NOV, novobiocin; OMP, outer membrane protein; OXA, oxacillin; PACE, proteobacterial antimicrobial compound efflux; PAP, periplasmic adaptor protein; PCA, phenazine-1-carboxylate; PQS, Pseudomonas quinolone signal; QSS, quorum sensing signal; R6G, rhodamine 6G; RIF, rifampicin; RND, resistance–nodulation–division; ROS, reactive oxygen species; SDS, sodium dodecyl sulfate; SMR, small multidrug resistance; SPI, S. enterica pathogenicity island; TET, tetracycline; TMP, trimethoprim; TOB, tobramycin; TPP, tetraphenylphosphonium bromide; T3SS, type III secretion system; T6SS, type VI secretion system; Zn, zinc. Two supplementary tables are available with the online version of this article. References

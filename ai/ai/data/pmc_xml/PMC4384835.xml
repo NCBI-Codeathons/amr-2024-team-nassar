@@ -1,0 +1,771 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d2 20140930//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article" xml:lang="EN"><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Synth Biol</journal-id><journal-id journal-id-type="iso-abbrev">ACS Synth Biol</journal-id><journal-id journal-id-type="publisher-id">sb</journal-id><journal-id journal-id-type="coden">asbcd6</journal-id><journal-title-group><journal-title>ACS Synthetic Biology</journal-title></journal-title-group><issn pub-type="ppub">2161-5063</issn><issn pub-type="epub">2161-5063</issn><publisher><publisher-name>American Chemical
+Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4384835</article-id><article-id pub-id-type="doi">10.1021/sb300092n</article-id><article-categories><subj-group><subject>Review</subject></subj-group></article-categories><title-group><article-title>Opportunities for Synthetic Biology in Antibiotics:
+Expanding Glycopeptide Chemical Diversity</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Thaker</surname><given-names>Maulik
+N.</given-names></name></contrib><contrib contrib-type="author" corresp="yes" id="ath2"><name><surname>Wright</surname><given-names>Gerard D.</given-names></name><xref rid="cor1" ref-type="other">*</xref></contrib><aff id="aff1">M.G. DeGroote
+Institute for
+Infectious Disease Research, Department of Biochemistry and Biomedical
+Sciences, <institution>McMaster University</institution>, Hamilton, ON, L8S 4K1 <country>Canada</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>wrightge@mcmaster.ca</email>.</corresp></author-notes><pub-date pub-type="epub"><day>17</day><month>12</month><year>2012</year></pub-date><pub-date pub-type="ppub"><day>20</day><month>03</month><year>2015</year></pub-date><volume>4</volume><issue>3</issue><fpage>195</fpage><lpage>206</lpage><history><date date-type="received"><day>21</day><month>09</month><year>2012</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2012 American Chemical Society</copyright-statement><copyright-year>2012</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb-2012-00092n_0002" id="ab-tgr1"/></p><p>Synthetic
+biology offers a new path for the exploitation and improvement
+of natural products to address the growing crisis in antibiotic resistance.
+All antibiotics in clinical use are facing eventual obsolesce as a
+result of the evolution and dissemination of resistance mechanisms,
+yet there are few new drug leads forthcoming from the pharmaceutical
+sector. Natural products of microbial origin have proven over the
+past 70 years to be the wellspring of antimicrobial drugs. Harnessing
+synthetic biology thinking and strategies can provide new molecules
+and expand chemical diversity of known antibiotic scaffolds to provide
+much needed new drug leads. The glycopeptide antibiotics offer paradigmatic
+scaffolds suitable for such an approach. We review these strategies
+here using the glycopeptides as an example and demonstrate how synthetic
+biology can expand antibiotic chemical diversity to help address the
+growing resistance crisis.</p></abstract><kwd-group><kwd>antibiotic scaffold</kwd><kwd>tailoring enzymes</kwd><kwd>heterologous
+host</kwd><kwd>synthetic biology</kwd><kwd>glycopeptides</kwd><kwd>resistance</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>sb300092n</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>sb-2012-00092n</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p id="sec1">Antibiotics are among the most
+successful drugs discovered and developed over the past century. The
+first clinically useful antimicrobial compounds were synthetic molecules
+including dyes, organometallic complexes, and structurally simple
+aromatic compounds. The discovery and purification of antibiotics
+(a term first used to describe antimicrobial compounds derived from
+living organisms) such as penicillin, gramicidin, tyrocidine, and
+streptomycin in the late 1930s and early 1940s ushered in what has
+become known as the Golden Age of antibiotics: a decade and a half
+where the products of microbial secondary metabolism were systematically
+screened for antibiotic activity.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> The
+vast majority of chemical scaffolds in current clinical use can be
+traced back to this relatively short period of time. The remarkable
+richness of microbial natural products as sources of antibiotics reflects
+the fact that they are products of evolution, selected over millennia
+for interaction with biological targets. When compared to synthetic
+molecules that are generally the result of experimental campaigns
+based on chemical diversity that is readily accessible in the lab,
+the privileged nature of microbially derived natural products as antibiotics
+becomes clear.</p><p>A hallmark of antibiotic natural products is
+their chemical diversity
+and complexity (Figure <xref rid="fig1" ref-type="fig">1</xref>). This chemical diversity
+is based on the production of chemical scaffolds consisting of peptide,
+polyketide, carbohydrate, alkaloid, or terpene backbones that serve
+as the core structure. These scaffolds are then modified by a variety
+of chemical reactions catalyzed by a broad spectrum of tailoring enzymes
+that are co-produced with the scaffold assembly machinery. Scaffold-tailoring
+reactions include isomerization and racemization, reduction and oxidation
+(including hydroxylation), as well as group transfer such as acylation,
+methylation, glycosylation, sulfation, phosphorylation, and halogenation.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> As a result the end products are often chemically
+complex, stereochemically intricate, and rich in hydrogen bond donors
+and acceptors. For example, the antibiotic erythromycin has 18 chiral
+centers compared to none for the synthetic antibiotic ciprofloxacin.
+Moreover the macrocyclic polyketide scaffold of erythromycin, 6-deoxyerythronolide,
+is further modified by glycosylation by two unusual carbohydrates
+that contribute to bioactivity and bioavailability to complete the
+antibiotic. Nature&#x02019;s ability to generate a large number of
+natural product scaffolds, including the combination of scaffolds
+to produce hybrids, and to tailor them in combinatorial fashion results
+in near limitless bioactive chemical diversity. Nevertheless, despite
+the proven track record of natural products in drug and antibiotic
+discovery, they have largely been abandoned by the pharmaceutical
+sector in favor of large libraries of synthetic molecules.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Chemical diversity
+and complexity of antibiotics in nature. Antibiotics
+derived from microbial sources are rich in chiral centers and hydrogen
+bond donors and acceptors and span an order of magnitude in molecular
+weight.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb-2012-00092n_0001" id="gr1" position="float"/></fig><p>The rich bioactivity of natural
+products is the result of chemical
+diversity that is intrinsically compatible with interaction with proteins,
+nucleic acids, and membranes under physiological conditions and fine-tuned
+by natural selection. It is therefore not surprising then that natural
+products and their derivatives dominate the molecules that find use
+as drugs and drug leads including antibiotics.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> Yet
+despite their success, the drug discovery sector has turned away from
+these molecules over the past two decades in favor of small synthetic
+molecules. As outlined by Li and Vederas,<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> the reasons for the abandonment of natural products by the pharmaceutical
+industry are multifactorial, yet there are two significant reasons
+for the current emphasis on small synthetic molecules over natural
+products. First is the limited number of natural scaffolds discovered
+that have proven suitable for downstream antibiotic development. Second
+are the significant technical challenges in the identification, purification,
+synthesis, and scale up production of natural products for the preparation
+of diverse libraries suitable for screening and lead optimization.
+On the other hand, synthetic and combinatorial chemistry provide tractable
+molecules that, while often lacking in innate bioactivity, can be
+readily modified in the lab by medicinal chemists. Drug discovery
+firms therefore have largely chosen to forego the rich bioactivity
+of natural products, and their associated chemical challenges, in
+favor of the predictable outcomes of synthetic chemistry. The fruits
+of this emphasis on synthetic molecules are evident in the absence
+of new antibiotics brought to market over the past 20 years.</p><p>There is a growing clinical need for new antibiotics that is driven
+by the emergence and prevalence of multidrug resistance.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> As noted by Fischbach and Walsh, our current
+arsenal of broad spectrum antibiotics is dominated by only four major
+scaffolds:<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> cephalosporins, penicillins,
+quinolones, and macrolides, all of which were discovered almost half
+a century ago. Other distinct chemical scaffolds are also important,
+among them glycopeptides, lipopeptides, aminoglycosides, and tetracyclines,
+but these generally have more narrow application than the &#x0201c;big
+four&#x0201d;. The innovation gap in new antibiotic scaffold identification
+over the past 50 years has been obscured by the great success in tailoring
+of existing scaffolds either by the discovery of natural variants
+or by medicinal chemical modification in the lab. The challenges faced
+by antibiotic field are emblematic of a general crisis in the generation
+of new bioactive chemical matter in drug discovery.</p><p>Fortunately,
+new genomic technologies including rapid and low-cost
+DNA sequencing and a growing understanding of the mechanistic details
+of natural product biosynthesis, along with innovation in chemical
+synthesis and analytical methods, can be combined to expand bioactive
+chemical diversity in a fashion that is compatible with high-throughput
+technology and begin to overcome the innovation gap in antibiotic
+discovery. In order to fully exploit the privileged nature of natural
+products in antibiotic drug discovery, what is required is the ability
+to rapidly identify scaffolds, tailor them using a collection of modifying
+enzymes, and rapidly purify the resulting compounds in sufficient
+quantity to generate libraries of molecules suitable for high-throughput
+screening. The rise of synthetic biology offers a tremendous opportunity
+to address these issues. At the same time, medicinal chemical modification
+of natural product scaffolds and <italic>de novo</italic> compound
+synthesis of new natural product-inspired scaffolds will increase
+the value of synthetic libraries in drug discovery.</p><sec id="sec1.1"><title>Synthetic Biology
+and Antibiotics</title><p>Natural products are genetically encoded
+small molecules. They
+represent a rich source of privileged chemical structures that have
+evolved over millennia specifically to interact with biological macromolecules.
+Nevertheless, there remain some significant barriers for the widespread
+integration of natural products in modern high-throughput antibiotic
+discovery including issues of compound availability, purity, and chemical
+complexity. Fortuitously, the renewed interest in natural products
+as drug leads is concurrent with the development of new technologies
+in genomics, bioinformatics, analytical chemistry, and chemical synthesis
+that are enabling a new assessment of the compatibility of natural
+products with modern drug discovery. In particular, synthetic biology
+has the potential to play a leading role in this area and holds real
+promise to help overcome some of the challenges for increased integration
+of natural products in antibiotic drug discovery.</p><p>The genes
+encoding natural products are generally clustered together
+in the genomes of microbes that produce natural products. The low
+cost of DNA sequencing, continuing improvements in predicting natural
+product chemical structures from biosynthetic gene sequences,<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref8">8</xref></sup> and a growing understanding of the molecular details of biosynthetic
+chemistry<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> have dramatically increased
+the number of well-characterized natural product biosynthetic pathways
+in the past 15 years. This work is not limited to cases where a producing
+organism is known and cultivated, and indeed whole biosynthetic pathways
+have been successfully reconstructed from metagenomic libraries bypassing
+the frequent bottleneck of successfully culturing natural product-producing
+microbes.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> Furthermore, there have been
+several examples of gene mutation, deletion, replacement, and introduction
+into natural product producing bacteria that have generated new compounds,
+an approach termed combinatorial biosynthesis.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> This approach was pioneered by Hopwood and colleagues,
+who first genetically manipulated the antibiotic pigment actinorhodin
+in the producing organism <italic>Streptomyces coelicolor</italic>.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> Researchers at Kosan later refined
+the combinatorial biosynthesis approach and demonstrated that systematic
+and rational mutation of an antibiotic biosynthetic pathway could
+generate libraries of novel and predicted compounds and that this
+biosynthetic machinery could be recapitulated in a heterologous host,
+in this case <italic>Escherichia coli</italic>.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup></p><p>What has been lacking in these early efforts to make
+what we now
+would term &#x0201c;synthetic biological strategies&#x0201d; generally
+applicable and compatible with modern drug discovery is a series of
+predictable and unifying rules of assembly and production such that
+&#x0201c;unnatural&#x0201d; natural products can be designed and expressed
+in large quantities with minimal purification steps. Nevertheless,
+the field is now well suited for a coordinated synthetic biology effort
+to increase natural product antibiotic diversity and the preparation
+of large libraries suitable for drug discovery.</p><p>In the vernacular
+of synthetic biology,<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> the genes encoding
+scaffolds (peptides, polyketides, etc.) and various
+tailoring enzymes are <bold>Parts</bold> that can be assembled to
+generate <bold>Devices</bold>, genes assemblies that encode specific
+compounds. These are coexpressed in a <bold>Chassis</bold>, a suitable
+host (bacteria, yeast) for generation of engineered natural products.
+By systematically manipulating <bold>Parts</bold> and <bold>Devices</bold> within an appropriate <bold>Chassis</bold>, the resulting compounds
+can be assembled in a library for drug discovery (Figure <xref rid="fig2" ref-type="fig">2</xref>).</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Representative model for the application of synthetic
+biology to
+expand antibiotic chemical diversity. Various tailoring enzymes and
+backbones (parts) can be assembled in biosynthetic circuits (devices)
+in a versatile host (chasis) to generate novel compounds. Synthetic
+chemistry can expand chemical diversity orthogonally to further increase
+diversity.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb-2012-00092n_0008" id="gr2" position="float"/></fig><p>The increasingly affordable cost
+of DNA synthesis and a growing
+understanding of natural product gene expression as well as biosynthetic
+biochemistry make this approach realistic. Improvements in heterologous
+gene expression and the availability of a growing number of candidates
+for &#x0201c;universal&#x0201d; natural product producers including
+yeast, <italic>E. coli</italic>, <italic>Streptomyces</italic> spp., <italic>Rhodococcus</italic> sp. and <italic>Pseudomonas</italic> sp. are
+serving to build the appropriate hosts.<sup><xref ref-type="bibr" rid="ref15">15</xref>&#x02212;<xref ref-type="bibr" rid="ref18">18</xref></sup> The early success of this concept
+with the macrolide antibiotics<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> and the
+antimalarial compound artemisinin<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> demonstrate
+the promise of synthetic biology approaches in expanding bioactive
+chemical diversity and accessibility of privileged natural product
+structures.</p><p>To fully realize the promise of synthetic biology
+applications
+in natural product biosynthesis requires investment in the following
+areas:</p><p><bold>1. A complete toolkit.</bold> This includes all
+of the tailoring
+enzymes and all of the scaffolds. There has been great progress in
+this area over the past decade. For example, glycosyltransferases,<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref22">22</xref></sup> sulfotransferases,<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup> and acyltransferases<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> have all be used to generate &#x0201c;unnatural&#x0201d;
+natural products. Access to new biological diversity (microbial and
+plant) and understanding of substrate specificity of tailoring enzymes
+and scaffold biochemistry will expand these resources.</p><p><bold>2. Dependable circuit diagrams.</bold> This will require
+improved understanding of the regulation of natural product genes
+to generate efficient biosynthetic circuits suitable for production
+of compounds.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> Recent evidence suggests
+that gene expression is precisely staged during natural product biosynthesis
+with the small molecule products of early gene expression inducing
+the expression of late gene expression such as transporters and resistance
+elements.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> Also essential is an understanding
+of how these pathways draw on host metabolism and what impact this
+has on cell growth.</p><p><bold>3. Robust chassis.</bold> Hosts that
+have been engineered
+to produce a single compound (or family) that can be easily purified
+will greatly improve the recovery of the pure molecules that are important
+for reproducible high-throughput testing. Organisms that are robust
+producers of natural products (e.g., <italic>Streptomyces</italic>) offer advantages of intrinsic metabolism that supports secondary
+metabolite production, while nonproducers such as <italic>E. coli</italic> have been successfully manipulated for natural product production.
+A collection of optimized potential hosts will no doubt be required
+to maximize the production potential of various scaffolds.</p><p>Finally,
+new scaffolds need not be derived from natural products,
+and there remains an important role for synthetic chemistry to expand
+bioactive chemical space suitable for drug discovery. Growing efforts
+to generate libraries of complex synthetic molecules that emulate
+natural product chemical diversity such as diversity-oriented synthesis
+are yielding new chemical matter with novel activity (e.g., ref (<xref ref-type="bibr" rid="ref27">27</xref>)). Furthermore, new chemical
+catalysts with the ability to expand natural product diversity are
+proving robust and useful.<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> Indeed, chemical synthesis
+and synthetic biology strategies to expand bioactive chemical diversity
+are not mutually exclusive and can be complementary (Figure <xref rid="fig2" ref-type="fig">2</xref>). In fact there is a long history of merging synthesis
+and natural product biosynthesis in the form of mutasynthesis, precursor-directed
+biosynthesis, and semisynthetic medicinal chemistry.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> All of these strategies can be brought together to help
+address the antibiotic crisis.</p></sec><sec id="sec1.2"><title>Glycopeptides: A Model
+Platform To Explore Antibiotic Synthetic
+Biology</title><p>Glycopeptide antibiotics (GPAs) offer a useful example
+where we
+and others have initiated efforts to explore the applicability of
+synthetic biology approaches in an effort to expand the chemical diversity
+of a natural product class. GPAs (Figure <xref rid="fig3" ref-type="fig">3</xref>)
+are critically important antibiotics that target Gram-positive bacteria
+by binding to the acyl-<sc>d</sc>-alanyl-<sc>d</sc>-alanine terminus
+of growing peptidoglycan. This interaction physically blocks cell
+wall biosynthetic enzymes, inhibiting cell growth and division. They
+remain essential drugs for the treatment of life-threatening infections
+caused by important human pathogens such as <italic>Staphylococcus
+aureus</italic> and <italic>Enterococc</italic>us sp. The antibiotics
+consist of a heptapeptide scaffold that is matured to the active antibiotic
+via a series of tailoring enzymes that oxidatively catalyze 3&#x02013;4
+intramolecular cyclizations and a variety of modifications including
+glycosylation, halogenation, acylation, etc. (Figure <xref rid="fig4" ref-type="fig">4</xref>). Two distinct peptide scaffolds that include two unusual
+amino acids, 4-hydroxylphenylglycine (Hpg) and 3,5-dihydroxyphenylglycine
+(Dpg), are in current clinical use exemplified by vancomycin (Leu-Bht-Asn-Hpg-Hpg-Bht-Dpg)
+and teicoplanin (Hpg-Tyr-Dpg-Hpg-Hpg-Bht-Dpg). Since the discovery
+of vancomycin in 1953, a large number of GPAs have been isolated.
+These molecules generally retain the canonical heptapeptide cores
+and vary in their accessorization by various functional groups. Nicolaou
+and colleagues have catalogued an exhaustive list of all of the functional
+groups attached at various positions in different GPAs.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> The first reported GPA biosynthetic gene clusters
+revealed a predicted set of nonribosomal peptide synthetase units
+required for assembling the peptide scaffold along with genes encoding
+amino acid and sugar biosynthesis, self-resistance, export, and tailoring
+enzymes.<sup><xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup> This pattern is repeated in all other GPA
+clusters (Figure <xref rid="fig5" ref-type="fig">5</xref>). Here we will focus on
+the molecules with known biosynthetic machinery, which can be utilized
+to assemble novel GPAs using a synthetic biology approach. These include
+the A47934, A40926, teicoplanin, chloroeremomycin, vancomycin, balhimycin,
+VEG, TEG, CA37, CA878, and CA915 GPA biosynthetic clusters along with
+some information from our unpublished work on UK68597, ristocetin,
+and the new GPA pekiskomycin.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>GPAs: a structurally diverse class of bacterially
+produced antibiotics.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb-2012-00092n_0007" id="gr3" position="float"/></fig><fig id="fig4" position="float"><label>Figure 4</label><caption><p>The maturation of GPAs includes a number of distinct enzyme activities
+and chemical modifications. The maturation of teicoplanin is shown
+as an example. In a series of enzymatic steps, the linear heptapeptide
+is cross-linked via the activity of monooxygenases followed by a tandem
+action of scaffold modifying enzymes to create the final teicoplanin
+antibiotic.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb-2012-00092n_0006" id="gr4" position="float"/></fig><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Examples of GPA biosynthetic
+gene clusters. Scaffold biosynthesis
+is encoded by nonribosomal peptide synthetases (orange) producing
+peptides that are cross-linked by P450 monooxygenases (black). Tailoring
+enzyme are encoded by genes for glycosylation (red), halogenation
+(green), sulfation (yellow), methylation (blue), and acylation (pink)
+are shown.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb-2012-00092n_0005" id="gr5" position="float"/></fig><p>Various tailoring enzymes including
+glycosyltransferases, methyltransferases,
+sulfotransferases, halogenases, and acyltransferases decorate the
+heptapeptide scaffolds of GPAs. The modifications resulting from the
+action of these enzymes have been shown or speculated to impart stability,
+increase solubility, affect dimerization constants, limit conformational
+flexibility, avoid degradation, and evade resistance.<sup><xref ref-type="bibr" rid="ref34">34</xref>&#x02212;<xref ref-type="bibr" rid="ref37">37</xref></sup> GPA tailoring modifications can be grouped in two categories: (1)
+primary modifications, where the amino acid components of the GPA
+scaffold are directly modified (Figure <xref rid="fig6" ref-type="fig">6</xref>A),
+and (2) secondary modifications, referring to tailoring of primary
+modifications (Figure <xref rid="fig6" ref-type="fig">6</xref>B). Thus, the presence
+of a primary modification of the amino acid is a prerequisite for
+the action of this latter group of enzymes.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>The diversity of GPA
+modifications offers tremendous opportunity
+for chemical diversification. The GPA heptapeptide backbone is numbered,
+and arcs represent regions of cross-linking. (A) Sites of primary
+modification of the backbone in the form of halogenation, glycosylation,
+methylation, and sulfation. Homologues of the modifying enzymes act
+on one or more different amino acid as indicated. (B) Secondary modifications
+are confined to the Hpg<sub>4</sub> sugar (glucose or GlcNAc) in the
+form of methylation, acylation, or glycosylation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb-2012-00092n_0004" id="gr6" position="float"/></fig><sec id="sec1.3"><title>GPA Primary Modifications</title><sec id="sec1.3.1"><title>Halogenation</title><p>Halogenation by means
+of chlorination
+is the most prevalent modification observed in GPA scaffolds. This
+functionalization is also common among the glycopeptide variants such
+as actinoidin, complestatin, and kistamycin. Chlorination has been
+implicated in imparting rotamer stability to the molecule during the
+assembly stage and also in the intermolecular dimerization of GPAs
+in solution.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> The GPA biosynthetic clusters
+sequenced so far show the presence of either one or two halogenases
+in every cluster (Figure <xref rid="fig5" ref-type="fig">5</xref>). They are implicated
+in the addition of chlorine(s) ranging from one Cl atom per GPA molecule
+in pekiskomycin to four in the case of UK68597. Chemical diversity
+is also achieved by the ability of halogenases to add chlorine to
+different amino acids of the heptapeptide. Tyr (or its &#x003b2;-hydroxy
+version, Bht) at positions 2 and 6 are the most commonly chlorinated
+amino acids as seen in chloroeremomycin, vancomycin, balhimycin, teicoplanin,
+UK68597, and A47934. Both chlorine molecules are added by the same
+halogenase as demonstrated by the deletion of <italic>bhaA</italic>, the sole halogenase in the balhimycin biosynthetic gene cluster,
+resulting in complete absence of Cl from the resulting antibiotic.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> The halogenase in A40926 biosynthetic cluster
+of <italic>Nonomuraea</italic> sp. shows some variation in function
+where it chlorinates Dpg<sub>3</sub> instead of Tyr<sub>2</sub>. Pekiskomycin
+is a monohalogenated GPA where the putative halogenase Pek27 adds
+a chlorine atom on Bht<sub>6</sub>. An additional chlorination on
+Hpg<sub>5</sub> of A47934 is proposed to occur by another halogenase
+present in the cluster, StaK.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> Similarly,
+a second halogenase is present in the UK68597 cluster, which we attribute
+to chlorination of Hpg<sub>1</sub> and Hpg<sub>5</sub>. Thus, the
+use of these enzymes in selected combinations provides enough choices
+to create many backbone variations. Furthermore, degeneracy in reagent
+specificity of these enzymes allows additional leverage in modifications.
+In the balhimycin producer <italic>Amycolatopsis balhimycina</italic>, bromobalhimycin and bromochlorobalhimycin were obtained by simply
+regulating the concentration of bromine and chlorine salts in the
+growth media.<sup><xref ref-type="bibr" rid="ref39">39</xref></sup></p></sec><sec id="sec1.3.2"><title>Sulfation</title><p>Sulfation
+is a relatively uncommon yet very
+interesting modification on GPAs. By loading a sulfate molecule on
+the GPA backbone, the sulfotransferases impart a negative charge to
+the molecule. Until recently the role of this modification in the
+GPAs was not understood, but experiments in our lab show that GPA
+sulfation plays an important role in evading the induction of resistance.<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> Only two naturally occurring sulfated GPAs,
+namely, A47934 and UK68597, have been so far reported. In UK68597
+the sulfation occurs on the free hydroxyl moiety of Dpg<sub>3</sub> that is not involved in the <italic>oxyE</italic> mediated aryl
+cross-linking with Hpg<sub>1</sub>. The sulfotransferase StaL in <italic>Streptomyces toyocaensis</italic> has been shown to decorate Hpg<sub>1</sub> of A47934. This substitution is noteworthy since the modification
+on Hpg<sub>1</sub> is very rare. Additional sulfotransferases have
+been discovered recently from screening of soil metagenomic cosmid
+libraries. Out of four novel sulfotransferase identified, three belong
+to the TEG cluster.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> Enzymes Teg12, Teg13,
+and Teg14 have been shown to modify Dpg<sub>3</sub>, Bht<sub>6</sub>, and Hpg<sub>4</sub>, respectively, on the A47934 backbone. The
+fourth sulfotransferase, identified on a partial GPA cluster of cosmid
+AZ205, is a Bht<sub>6</sub> modifying analogue of Teg13.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> By using these enzymes in different combinations,
+15 modifications of teicoplanin-type GPA with mono-, di-, and trisulfated
+derivatives have been created.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> Interestingly
+all of the sulfotransferases, including those identified from metagenomes,
+belong to the teicoplanin type of GPA.</p><p>StaL was the first GPA
+sulfotransferase to have its 3D structure determined by X-ray crystallography,
+which showed that the protein exists as a dimer and has a dimerization
+motif unique from the other known sulfotransferases.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> The subsequent determination of the structures of two additional
+sulfotransferases, Teg12<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> and Teg14<sup><xref ref-type="bibr" rid="ref44">44</xref></sup> with alternate regiospecificity, suggests that
+these enzymes must have a unique substrate binding pattern in their
+variable regions, to orient the active site toward different parts
+of the heptapeptide scaffold. Recent updates from co-crystallization
+of StaL bound to the substrate (desulfo-A47934) and product of sufate
+donation (3&#x02032;-phosphoadenosine 5&#x02032;-phosphate) have improved
+our understanding of the reaction.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> It
+clearly shows that even though the protein exists as a dimer, only
+one of the active sites can accommodate the GPA backbone in proper
+orientation. Interestingly, StaL also demands a conformational flexibility
+from the canonical cup shape of the heptapeptide core as the enzyme
+can only recognize the more planar conformation observed in desulfo-A47934.
+The information provides a deeper understanding useful in predicting
+the behavior of these group transferases.</p></sec><sec id="sec1.3.3"><title>Methylation</title><p>GPAs
+can be modified by SAM-dependent <italic>N</italic>-methyltransferases
+that cap the amino terminus of Leu<sub>1</sub> of the vancomycin class
+antibiotics. MtfA from the chloroeremomycin
+cluster is a well-studied example representing the group. The crystal
+structure of MtfA reveals that the protein exists as a dimer with
+wing-like extensions and the GPA substrate is proposed to bind in
+the cleft located at the dimer interface.<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> Furthermore, MtfA has some substrate elasticity and can modify the <italic>N</italic>-terminal Hpg<sub>1</sub> of teicoplanin-class antibiotics.
+Other variants of this protein exist; for example, M43A is a vancomycin
+analogue from <italic>Amycolatopsis orientalis</italic>, which differs
+from the parent molecule in trimethylation of Leu<sub>1</sub>.<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> We have recently identified a methyltransferase
+in the pekiskomycin cluster that adds two methyl groups to the amino-terminus
+of the heptapeptide. Ristocetin is decorated by two methyl groups
+at different positions: one is an unusual C-methylation at the <italic>para</italic> position of the phenol ring of Dpg<sub>3</sub>, and
+the other is on the carboxyl group of Dpg<sub>7</sub> forming a methyl
+ester. An orthologuous methyltransferase is also found in the VEG
+cluster obtained from an environmental metagenome study.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> The cosmid when expressed in <italic>S. toyocaensis</italic> conferred methylation of the carboxy terminus of A47934.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> This chemical modification resulted in improvement
+of the MIC of the GPA against <italic>S. aureus</italic> and <italic>Enterococcus faecalis</italic>. This demonstrates that even modest
+alteration to the molecule indeed can increase antibiotic efficacy.
+It is noteworthy that dalbavancin (Zeven), a semisynthetic GPA currently
+in phase III clinical trials, also includes an aliphatic tail at the
+C-terminus of the scaffold heptapeptide.<sup><xref ref-type="bibr" rid="ref48">48</xref></sup></p></sec><sec id="sec1.3.4"><title>Glycosylation</title><p>Sugar derivatization is the most studied
+GPA tailoring mechanism. The spectrum of glycosylation ranges from
+the aglycone antibiotic A47934 to ristocetin, which bears a six-sugared
+scaffold. The addition of carbohydrate has been implicated in imparting
+solubility and structural rigidity, as well as impacting the antibiotic
+activity of GPAs.<sup><xref ref-type="bibr" rid="ref34">34</xref>&#x02212;<xref ref-type="bibr" rid="ref36">36</xref></sup> It is noteworthy that even though the glycosyltransferases
+provide the broadest chemical diversity to the scaffold, they exhibit
+rather modest versatility in their choice for amino acid on the GPA.
+All of the sugar modifying enzymes identified so far act on one of
+amino acids 4, 6, or 7 of the heptapeptide. The phenolic OH of Hpg<sub>4</sub> serves as the &#x0201c;hot seat&#x0201d; for loading sugar
+moieties on GPAs; this reflects its relative availability for modification
+given its spatial separation from the acyl-<sc>d</sc>-alanyl-<sc>d</sc>-alanine binding region of the antibiotic as well as the role that
+sugars at this position play in back-to-back dimerization. The glucosyltransferases
+in the chloroeremomycin (GtfB), vancomycin (GtfE), and balhimycin
+(bGtfB) clusters transfer glucose from the nucleoside diphosphosugar
+(dTDP-<sc>d</sc>-glucose) to the phenolic hydroxyl of Hpg<sub>4</sub>. The crystal structure for GtfB has been solved and provides insights
+into the sugar and aglycone substrate binding sites, creating possibilities
+for remodeling the protein for different sugar or substrate binding.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> The substrate promiscuity of GtfE with variant
+heptapeptide aglycones has been demonstrated. The <italic>in vitro</italic> studies have identified the elasticity of GtfE in recognizing variant
+aglycons and utilizing over 30 natural as well as synthetic sugar
+residues including the aminosugars on vancomycin.<sup><xref ref-type="bibr" rid="ref50">50</xref>&#x02212;<xref ref-type="bibr" rid="ref53">53</xref></sup> The aminosugars present an independent
+platform for further secondary modifications either naturally (e.g.,
+acylation in teicoplanin) or by semisynthetic derivatization (e.g.,
+alkylation in oritavancin) for improved GPA activity. Thus, glycosylation
+serves as an excellent example of the potential of synthetic biology
+in harnessing these enzymes in creating diverse GPA libraries.</p><p>The four-ringed heptapeptide scaffolds of UK68597 and ristocetin
+are also glucosylated at Hpg<sub>4</sub>, whereas teicoplanin (GtfB)
+and A40926 (Dbv9) have a GlcNAc moiety at Hpg<sub>4</sub>. The biosynthetic
+clusters of the latter two, along with ristocetin, also include a
+mannosyltransferase that modifies Dpg<sub>7</sub> with a mannose.
+The most unusual sugars associated with GPAs modify the &#x003b2;-hydroxyl
+of Bht<sub>6</sub>. In teicoplanin biosynthesis modification of the
+position is catalyzed by a glycosyltransferase (Orf1) that attaches
+a GlcNAc moiety. A customized sugar, 4-<italic>epi</italic>-<sc>l</sc>-vancosamine, adorns the Bht<sub>6</sub> in chloroeremomycin. A set
+of five dedicated enzymes are required to mature a putative substrate
+TDP-4-keto-6-deoxyglucose in a series of steps involving C2 deoxygenation
+(EvaA), C3 amination (EvaB), C3 methylation (EvaC), and C5 epimerization
+(EvaD) followed by C4 ketoreduction (EvaE) to form 4-<italic>epi</italic>-vancosamine.<sup><xref ref-type="bibr" rid="ref54">54</xref></sup> An intermediate form of
+this sugar, <sc>l</sc>-dehydrovancosamine, decorates the sixth amino
+acid in balhimycin. This is due to a nonfunctional DvaE (EvaE) in
+the balhimycin cluster required for the final maturation of the sugar.
+Another variant of 4-<italic>epi</italic>-vancosamine, observed in
+the form of ristosamine, is present on the ristocetin Bht<sub>6</sub>. The lack of a C3 methyl group on ristosamine suggests that the
+producer might not have a functional EvaC homologue. A40926 and vancomycin
+molecules are devoid of any sugar at Bht<sub>6</sub>, a key feature
+differentiating them from similar GPAs chloroeremomycin and teicoplanin,
+respectively.</p></sec></sec><sec id="sec1.4"><title>GPA Secondary Modifications</title><p>All
+of the secondary tailoring
+enzymes identified so far act on the sugar linked to Hpg<sub>4</sub> of the backbone. The modifications such as the methyltransferases
+(EvaC, DvaC) and the aminotransferases (EvaB, DvaB) involved in maturation
+of vancosamine and its analogues in vancomycin, chloroeremomycin,
+balhimycin, and ristocetin do not qualify as secondary modifications
+since these modifications occur independently toward maturation of
+the sugar, before it is attached to the GPA backbone. In teicoplanin
+and A40926 the primary sugar GlcNAc undergoes deacetylation mediated
+by Orf2* and Dbv21, respectively.<sup><xref ref-type="bibr" rid="ref55">55</xref></sup> This
+modification paves the way for an acyltransferase to add an acyl chain
+on the glucosamine.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> The acyltransferase
+is promiscuous in recognizing and loading different acyl chains, thereby
+generating many natural variants. Teicoplanin is clinically used as
+a mixture of five molecules with acyl tails of varying lengths (C10&#x02013;C11),
+and four more forms have been identified as related substances produced
+in relatively minor amounts.<sup><xref ref-type="bibr" rid="ref56">56</xref></sup> The lipophilic
+nature of the aliphatic tail has been suggested to impart superior
+pharmacokinetic profile to teicoplanin.</p><p>The crystal structures
+solved for two deacetylases (Orf2* and Dbv21) show a unique capping
+loop involved in substrate binding.<sup><xref ref-type="bibr" rid="ref57">57</xref></sup> Recently
+the crystal structure of Orf2* bound to teicoplanin has also been
+solved, revealing a cavity lined by hydrophobic residues that can
+host the long aliphatic acyl chain.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> Furthermore,
+the enzyme also shows a higher affinity and specificity for long chain
+carbons compared to C2. This explains the role of Orf2*as a deacylase
+shown previously in <italic>in vitro</italic> assays. In A40926 biosynthetic
+pathway sugar oxidation by a hexose oxidase (Dbv29) is an additional
+modification that oxidizes C6 of the <italic>N</italic>-acylglucosaminyl
+substituent to <italic>N</italic>-acylglucuronic acid. The minor change
+serves as a block and safeguards the molecule from any further deacylation
+attack by Dbv21 in A40926, which was observed in teicoplanin. Interestingly,
+during recent structure determination studies of the flavin-containing
+hexose oxidase (Dbv29), Li et al. serendipitously discovered a solvent-exposed
+reaction intermediate that they cleverly used in generating a series
+of teicoplanin analogues with amidated and aminated lipid chains.<sup><xref ref-type="bibr" rid="ref58">58</xref></sup> Some of these derivatives showed excellent activity
+against vancomycin- and teicoplanin-resistant <italic>E. faecalis</italic> strains. This provides yet another example of small chemical modifications
+to the molecule yielding major impact in antibiotic improvement.</p><p>Another common secondary modification is glycosylation, again confined
+only to the primary sugar (invariably a glucose) on Hpg<sub>4</sub>. A vancosamine sugar is added on the hexose of the pseudoaglycone
+vancomycin by GtfD, to form vancomycin. The same modification is also
+observed in UK68597, whereas chloroeremomycin glycosyltransferase
+(GtfC) transfers 4-<italic>epi</italic>-vancosamine on the glucose.
+Ristocetin has a crown of three different sugars attached to the primary
+glucose. Two putative glycosyltransferases attach a rhamnose and a
+mannose to the glucose moiety. A third glycosyltransferase attaches
+an arabinose to the mannose. It is not known if the two sugars are
+assembled before loading on the GPA or act in a stepwise fashion as
+in case of other secondary sugars. The crystal structure of the vancosamyl
+transferase GtfD has been solved.<sup><xref ref-type="bibr" rid="ref59">59</xref></sup> Walsh
+et al. have shown that the enzyme can recognize alternate primary
+sugar substrates attached to Hpg<sub>4</sub> creating several variants
+of the disaccharides including a 4-<italic>epi</italic>-vancosaminyl-4-aminoglucosyl
+moiety on the vancomycin backbone. The availability of two nucleophilic
+amino handles (one on each sugar) creates new opportunity for testing
+addition of functional groups (e.g., acylation) to create semisynthetic
+GPAs with potential better pathogen susceptibility.</p></sec><sec id="sec1.5"><title>GPA Production
+Chassis</title><p>A fundamental requirement for
+successful application of synthetic biology to GPA assembly is the
+need for a robust platform for production. Most of the efforts to
+expand GPA chemical diversity have so far involved <italic>in vitro</italic> or synthetic approaches. These serve as important tools in developing
+good leads but are limited in the ability to be scaled up. Thus it
+is essential to develop a robust chassis on which the new GPA molecules
+can be constructed.</p><p>The concept of a versatile host system has
+evolved gradually over the decades. After the Golden Era of antibiotics,
+when new antibiotics were hard to find and sufficient genetic understanding
+and tools were available, the first foray in the development of &#x0201c;hybrid&#x0201d;
+antibiotics was reported by Hopwood and colleagues.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> The use of combinatorial biosynthesis was rapidly adapted
+to create libraries of unnatural natural products. Methods for heterologous
+transfer of large clusters on multiple cosmids using recombination
+techniques were also evolved. Most of the early work was done using
+the well-characterized model system of <italic>Streptomyces coelicolor</italic> as the host. The constraint with this blue pigment (actinorhodin)
+producer was a very high pigment background that often masked the
+production of new compounds and siphoned off precursor elements necessary
+for expression of heterologous pathways. Alternative strains including <italic>Streptomyces lividans</italic> and <italic>Streptomyces albus</italic> that showed fewer background host secondary metabolites and receptiveness
+for foreign DNA were successfully employed. The CH999 strain of <italic>S. coelicolor</italic>, with most of the actinorhodin cluster removed,
+was among the first designer strains developed as a &#x0201c;clean&#x0201d;
+host dedicated for expression of foreign natural product clusters.
+Several tools and techniques have been evolved or adapted (such as <italic>E. coli-Streptomyces</italic> artificial chromosomes, Transformation
+Associated Recombination, ReDirect technology among others)<sup><xref ref-type="bibr" rid="ref60">60</xref>&#x02212;<xref ref-type="bibr" rid="ref62">62</xref></sup> over the years that benefit the process. During this time, a phenomenal
+accomplishment was achieved when the Khosla group and colleagues at
+Kosan successfully expressed the genes necessary for the biosynthesis
+of the erythromycin polyketide scaffold (6-deoxyerythronolide) from <italic>Saccharopolyspora erythrea</italic> in <italic>E. coli</italic>.
+To achieve this, they reengineered the <italic>E. coli</italic> strain
+and added appropriate promoters to the biosynthetic genes, which could
+be readily identified by the host system. Genes for alternate substrates
+required for building the polyketide, absent in <italic>E. coli</italic>, were also added.<sup><xref ref-type="bibr" rid="ref63">63</xref></sup> Various bacterial
+host systems besides <italic>Streptomyces</italic> and <italic>E.
+coli</italic> such as <italic>Bacillus</italic> sp., <italic>Pseudomonas</italic> sp., <italic>Myxococcus xanthus</italic>, and others have been developed
+over the years.<sup><xref ref-type="bibr" rid="ref64">64</xref></sup> In the post genomics
+era the enormous natural product wealth of the Actinomycetes has been
+unleashed. It has opened the genome-wide view of strains and developed
+patterns that reveal a relatively conserved essential genomic core
+and dispensable arms with natural product pathways. On the basis of
+such information and advances in molecular engineering, improved host
+systems have been developed in recent years, including a genome minimized
+strain of <italic>S. avermitilis</italic> where 1.4 Mb of the dispensable
+genomic region has been removed to develop an efficient and versatile
+host.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> The genome reduction channels metabolic
+resources toward the production of heterologous molecules as was shown
+with streptomycin and cephamycin C overproduction. Similarly the M1154
+strain of <italic>S. coelicolor</italic> has been developed by Bibb&#x02019;s
+group at John Innes Centre, where the four major secondary metabolite
+pathways (<italic>act</italic>, <italic>red</italic>, <italic>cdA</italic>, <italic>cpk</italic>) have been systematically deleted generating
+a host with greater heterologous biosynthetic potential.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> Further, mutations in <italic>rpoB</italic> and <italic>rpsL</italic> genes that stimulate secondary metabolite production
+discovered by the Ochi group<sup><xref ref-type="bibr" rid="ref65">65</xref></sup> have also
+been incorporated in this strain, further improving heterologous expression.
+Another strain of <italic>S. coelicolor</italic> devoid of all of
+the 10 PKS and NRPS biosynthetic pathways in the strain, along with
+900 kb subtelomeric DNA, has also been recently developed offering
+yet more potential biosynthetic capacity as an efficient chassis for
+synthetic biology.<sup><xref ref-type="bibr" rid="ref66">66</xref></sup></p><p>In the current
+scenario, the best available option for development
+of a GPA synthetic biology platform is to build a genomic library
+of a producer using one of the <italic>E. coli-Streptomyces</italic> artificial chromosomes (pPAC-S2, pSTREPTOBAC V, pSBAC).<sup><xref ref-type="bibr" rid="ref67">67</xref></sup> The advantage of using such a system instead
+of a cosmid vector lies in its capacity to carry large &#x0201c;payload&#x0201d;
+(up to 300 kb) enough to accommodate virtually any bacterial natural
+product biosynthetic apparatus in a single clone. Heterologous expression
+of the entire cluster in one of the available Streptomyces hosts should
+offer the opportunity to produce many different scaffolds and variants.
+The resulting system serves as an optimal chassis on which a variety
+of modifications can be designed using the toolbox of the ancillary
+genes. These tailoring enzymes can be sourced by isolating new GPA
+producers or from the environmental metagenomes.</p></sec></sec><sec id="sec2"><title>Conclusions and
+Caveats</title><p>A synthetic biology approach is an ideal strategy
+for expansion
+of the chemical diversity of many natural products. GPA antibiotics
+in particular offer an optimal scaffold for this approach since the
+necessary assembly lines are known and various tailoring enzymes have
+been tested successfully in the manufacture of new derivatives. The
+pioneering work done by the Baltz group at Eli Lilly some 15 years
+ago anticipated this strategy and offers the first proof of principle.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> By expressing the glycosyltransferases from
+the chloroeremomycin producer <italic>Amycolatopsis orientalis</italic> in <italic>S. toyocaensis</italic> they for the first time showed
+production of two hybrid GPAs in the form of glycosylated derivatives
+of A47934. Our subsequent work has helped to decipher the biosynthetic
+pathway of A47934 and has led to better understanding of the structure
+and functioning of the ancillary proteins, especially sulfotransferases.
+Furthermore, the creative exploration of environmental metagenomic
+cosmid megalibraries as a source of novel tailoring enzymes has yielded
+several novel GPA variants. Given the number of scaffolds, tailoring
+enzymes, and the impact that various chemical modifications have on
+antibiotic activity, a synthetic biology strategy can yield libraries
+of GPAs suitable for screens for bioactivity.</p><p>Nevertheless,
+there are some significant challenges to the routine
+application of synthetic biology strategies in expanding natural product
+diversity. Among them are difficulties in heterologous expression
+of biosynthetic gene clusters, competing metabolic pathways that siphon
+off precious precursors, unpredictable substrate specificity and/or
+efficiency of tailoring enzymes, unknown specificity of efflux systems
+to deliver new derivatives out of the cell, and the potential generation
+of toxic compounds unable to be averted by associated resistance mechanisms.
+Some of these difficulties may be insurmountable for some scaffolds;
+however, there is reason to be hopeful that for many complex compounds
+that are practically inaccessible by total synthesis methods synthetic
+biology approaches offer a fresh strategy to explore new chemistry.</p><p>While natural products may have fallen out of favor in modern drug
+and antibiotic discovery, the need for new medicines, the rich bioactivity
+of these molecules, the dramatic advancements in our understanding
+of natural product biosynthesis, and the resulting amenability of
+the field to synthetic biology solutions are poised to relaunch a
+new era in natural product-focused pharmaceuticals.</p></sec></body><back><notes id="NOTES-d2972e791-autogenerated" notes-type="conflict-of-interest"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>Our research on GPA biosynthesis is funded by grants
+from
+the Natural Sciences and Engineering Research Council of Canada, the
+Canadian Institutes of Health Research (CIHR) Grant MT-14981 and by
+a Canada Research Chair (to G.D.W.). We thank Prof. Greg Challis for
+helpful input into Figure 2.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="book" id="cit1"><person-group person-group-type="allauthors"><name><surname>Walsh</surname><given-names>C. T.</given-names></name></person-group> (<year>2003</year>) <source>Antibiotics: Actions, Origins, Resistance</source>, <publisher-name>ASM press</publisher-name>, <publisher-loc>Washington, DC</publisher-loc>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Lamb</surname><given-names>S. S.</given-names></name>; <name><surname>Wright</surname><given-names>G. D.</given-names></name> (<year>2005</year>) <article-title>Accessorizing natural
+products: adding to nature&#x02019;s
+toolbox</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>102</volume>, <fpage>519</fpage>&#x02013;<lpage>520</lpage>.<pub-id pub-id-type="pmid">15647344</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Miller</surname><given-names>S. J.</given-names></name>; <name><surname>Clardy</surname><given-names>J.</given-names></name> (<year>2009</year>) <article-title>Natural products: Beyond
+grind and find</article-title>. <source>Nat. Chem.</source>
+<volume>1</volume>, <fpage>261</fpage>&#x02013;<lpage>263</lpage>.<pub-id pub-id-type="pmid">21378864</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Li</surname><given-names>J. W.</given-names></name>; <name><surname>Vederas</surname><given-names>J. C.</given-names></name> (<year>2009</year>) <article-title>Drug discovery and natural products:
+end of an era
+or an endless frontier?</article-title>. <source>Science</source>
+<volume>325</volume>, <fpage>161</fpage>&#x02013;<lpage>165</lpage>.<pub-id pub-id-type="pmid">19589993</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Wright</surname><given-names>G. D.</given-names></name> (<year>2007</year>) <article-title>The antibiotic
+resistome: the nexus of chemical and genetic diversity</article-title>. <source>Nat. Rev. Microbiol.</source>
+<volume>5</volume>, <fpage>175</fpage>&#x02013;<lpage>186</lpage>.<pub-id pub-id-type="pmid">17277795</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Fischbach</surname><given-names>M. A.</given-names></name>; <name><surname>Walsh</surname><given-names>C. T.</given-names></name> (<year>2009</year>) <article-title>Antibiotics for emerging pathogens</article-title>. <source>Science</source>
+<volume>325</volume>, <fpage>1089</fpage>&#x02013;<lpage>1093</lpage>.<pub-id pub-id-type="pmid">19713519</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>McAlpine</surname><given-names>J. B.</given-names></name>; <name><surname>Bachmann</surname><given-names>B. O.</given-names></name>; <name><surname>Piraee</surname><given-names>M.</given-names></name>; <name><surname>Tremblay</surname><given-names>S.</given-names></name>; <name><surname>Alarco</surname><given-names>A. M.</given-names></name>; <name><surname>Zazopoulos</surname><given-names>E.</given-names></name>; <name><surname>Farnet</surname><given-names>C. M.</given-names></name> (<year>2005</year>) <article-title>Microbial genomics as a guide to
+drug discovery and structural elucidation: ECO-02301, a novel antifungal
+agent, as an example</article-title>. <source>J. Nat. Prod.</source>
+<volume>68</volume>, <fpage>493</fpage>&#x02013;<lpage>496</lpage>.<pub-id pub-id-type="pmid">15844935</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Lautru</surname><given-names>S.</given-names></name>; <name><surname>Deeth</surname><given-names>R. J.</given-names></name>; <name><surname>Bailey</surname><given-names>L. M.</given-names></name>; <name><surname>Challis</surname><given-names>G. L.</given-names></name> (<year>2005</year>) <article-title>Discovery of a new
+peptide natural product by Streptomyces coelicolor genome mining</article-title>. <source>Nat. Chem. Biol.</source>
+<volume>1</volume>, <fpage>265</fpage>&#x02013;<lpage>269</lpage>.<pub-id pub-id-type="pmid">16408055</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Sattely</surname><given-names>E. S.</given-names></name>; <name><surname>Fischbach</surname><given-names>M. A.</given-names></name>; <name><surname>Walsh</surname><given-names>C. T.</given-names></name> (<year>2008</year>) <article-title>Total biosynthesis: <italic>in vitro</italic> reconstitution of polyketide and nonribosomal peptide pathways</article-title>. <source>Nat. Prod. Rep.</source>
+<volume>25</volume>, <fpage>757</fpage>&#x02013;<lpage>793</lpage>.<pub-id pub-id-type="pmid">18663394</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Banik</surname><given-names>J. J.</given-names></name>; <name><surname>Brady</surname><given-names>S. F.</given-names></name> (<year>2008</year>) <article-title>Cloning and characterization of new glycopeptide gene
+clusters found in an environmental DNA megalibrary</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>105</volume>, <fpage>17273</fpage>&#x02013;<lpage>17277</lpage>.<pub-id pub-id-type="pmid">18987322</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Floss</surname><given-names>H. G.</given-names></name> (<year>2006</year>) <article-title>Combinatorial
+biosynthesis-potential and problems</article-title>. <source>J. Biotechnol.</source>
+<volume>124</volume>, <fpage>242</fpage>&#x02013;<lpage>257</lpage>.<pub-id pub-id-type="pmid">16414140</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Hopwood</surname><given-names>D. A.</given-names></name>; <name><surname>Malpartida</surname><given-names>F.</given-names></name>; <name><surname>Kieser</surname><given-names>H. M.</given-names></name>; <name><surname>Ikeda</surname><given-names>H.</given-names></name>; <name><surname>Duncan</surname><given-names>J.</given-names></name>; <name><surname>Fujii</surname><given-names>I.</given-names></name>; <name><surname>Rudd</surname><given-names>B. A.</given-names></name>; <name><surname>Floss</surname><given-names>H. G.</given-names></name>; <name><surname>Omura</surname><given-names>S.</given-names></name> (<year>1985</year>) <article-title>Production
+of 'hybrid' antibiotics by genetic engineering</article-title>. <source>Nature</source>
+<volume>314</volume>, <fpage>642</fpage>&#x02013;<lpage>644</lpage>.<pub-id pub-id-type="pmid">3857464</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>McCarthy</surname><given-names>A. A.</given-names></name> (<year>2002</year>) <article-title>Kosan biosciences.
+Better chemistry through genetics</article-title>. <source>Chem. Biol</source>
+<volume>9</volume>, <fpage>849</fpage>&#x02013;<lpage>850</lpage>.<pub-id pub-id-type="pmid">12204680</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Koide</surname><given-names>T.</given-names></name>; <name><surname>Pang</surname><given-names>W. L.</given-names></name>; <name><surname>Baliga</surname><given-names>N. S.</given-names></name> (<year>2009</year>) <article-title>The role
+of predictive modelling
+in rationally re-engineering biological systems</article-title>. <source>Nat. Rev. Microbiol.</source>
+<volume>7</volume>, <fpage>297</fpage>&#x02013;<lpage>305</lpage>.<pub-id pub-id-type="pmid">19252506</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Komatsu</surname><given-names>M.</given-names></name>; <name><surname>Uchiyama</surname><given-names>T.</given-names></name>; <name><surname>Omura</surname><given-names>S.</given-names></name>; <name><surname>Cane</surname><given-names>D. E.</given-names></name>; <name><surname>Ikeda</surname><given-names>H.</given-names></name> (<year>2010</year>) <article-title>Genome-minimized
+Streptomyces host for the heterologous expression of secondary metabolism</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>107</volume>, <fpage>2646</fpage>&#x02013;<lpage>2651</lpage>.<pub-id pub-id-type="pmid">20133795</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Martinez</surname><given-names>A.</given-names></name>; <name><surname>Kolvek</surname><given-names>S. J.</given-names></name>; <name><surname>Yip</surname><given-names>C. L.</given-names></name>; <name><surname>Hopke</surname><given-names>J.</given-names></name>; <name><surname>Brown</surname><given-names>K. A.</given-names></name>; <name><surname>MacNeil</surname><given-names>I. A.</given-names></name>; <name><surname>Osburne</surname><given-names>M. S.</given-names></name> (<year>2004</year>) <article-title>Genetically modified bacterial strains
+and novel bacterial artificial chromosome shuttle vectors for constructing
+environmental libraries and detecting heterologous natural products
+in multiple expression hosts</article-title>. <source>Appl. Environ.
+Microbiol.</source>
+<volume>70</volume>, <fpage>2452</fpage>&#x02013;<lpage>2463</lpage>.<pub-id pub-id-type="pmid">15066844</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Pfeifer</surname><given-names>B.</given-names></name>; <name><surname>Hu</surname><given-names>Z.</given-names></name>; <name><surname>Licari</surname><given-names>P.</given-names></name>; <name><surname>Khosla</surname><given-names>C.</given-names></name> (<year>2002</year>) <article-title>Process and metabolic strategies
+for improved production of <italic>Escherichia coli</italic>-derived
+6-deoxyerythronolide B</article-title>. <source>Appl. Environ. Microbiol.</source>
+<volume>68</volume>, <fpage>3287</fpage>&#x02013;<lpage>3292</lpage>.<pub-id pub-id-type="pmid">12089005</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Gomez-Escribano</surname><given-names>J. P.</given-names></name>; <name><surname>Bibb</surname><given-names>M. J.</given-names></name> (<year>2011</year>) <article-title>Engineering <italic>Streptomyces coelicolor</italic> for heterologous expression of secondary
+metabolite gene clusters</article-title>. <source>Microb. Biotechnol.</source>
+<volume>4</volume>, <fpage>207</fpage>&#x02013;<lpage>215</lpage>.<pub-id pub-id-type="pmid">21342466</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Lee</surname><given-names>H. Y.</given-names></name>; <name><surname>Khosla</surname><given-names>C.</given-names></name> (<year>2007</year>) <article-title>Bioassay-guided evolution
+of glycosylated macrolide
+antibiotics in <italic>Escherichia coli</italic></article-title>. <source>PLoS Biol.</source>
+<volume>5</volume>, <fpage>e45</fpage>.<pub-id pub-id-type="pmid">17298179</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Ro</surname><given-names>D. K.</given-names></name>; <name><surname>Paradise</surname><given-names>E. M.</given-names></name>; <name><surname>Ouellet</surname><given-names>M.</given-names></name>; <name><surname>Fisher</surname><given-names>K. J.</given-names></name>; <name><surname>Newman</surname><given-names>K. L.</given-names></name>; <name><surname>Ndungu</surname><given-names>J. M.</given-names></name>; <name><surname>Ho</surname><given-names>K. A.</given-names></name>; <name><surname>Eachus</surname><given-names>R. A.</given-names></name>; <name><surname>Ham</surname><given-names>T. S.</given-names></name>; <name><surname>Kirby</surname><given-names>J.</given-names></name>; <name><surname>Chang</surname><given-names>M. C.</given-names></name>; <name><surname>Withers</surname><given-names>S. T.</given-names></name>; <name><surname>Shiba</surname><given-names>Y.</given-names></name>; <name><surname>Sarpong</surname><given-names>R.</given-names></name>; <name><surname>Keasling</surname><given-names>J. D.</given-names></name> (<year>2006</year>) <article-title>Production
+of the antimalarial drug
+precursor artemisinic acid in engineered yeast</article-title>. <source>Nature</source>
+<volume>440</volume>, <fpage>940</fpage>&#x02013;<lpage>943</lpage>.<pub-id pub-id-type="pmid">16612385</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Solenberg</surname><given-names>P. J.</given-names></name>; <name><surname>Matsushima</surname><given-names>P.</given-names></name>; <name><surname>Stack</surname><given-names>D. R.</given-names></name>; <name><surname>Wilkie</surname><given-names>S. C.</given-names></name>; <name><surname>Thompson</surname><given-names>R. C.</given-names></name>; <name><surname>Baltz</surname><given-names>R. H.</given-names></name> (<year>1997</year>) <article-title>Production
+of hybrid glycopeptide antibiotics in vitro
+and in <italic>Streptomyces toyocaensis</italic></article-title>. <source>Chem. Biol.</source>
+<volume>4</volume>, <fpage>195</fpage>&#x02013;<lpage>202</lpage>.<pub-id pub-id-type="pmid">9115410</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Oberthur</surname><given-names>M.</given-names></name>; <name><surname>Leimkuhler</surname><given-names>C.</given-names></name>; <name><surname>Kruger</surname><given-names>R. G.</given-names></name>; <name><surname>Lu</surname><given-names>W.</given-names></name>; <name><surname>Walsh</surname><given-names>C. T.</given-names></name>; <name><surname>Kahne</surname><given-names>D.</given-names></name> (<year>2005</year>) <article-title>A systematic
+investigation of the synthetic utility of glycopeptide
+glycosyltransferases</article-title>. <source>J. Am. Chem. Soc.</source>
+<volume>127</volume>, <fpage>10747</fpage>&#x02013;<lpage>10752</lpage>.<pub-id pub-id-type="pmid">16045364</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Lamb</surname><given-names>S. S.</given-names></name>; <name><surname>Patel</surname><given-names>T.</given-names></name>; <name><surname>Koteva</surname><given-names>K. P.</given-names></name>; <name><surname>Wright</surname><given-names>G. D.</given-names></name> (<year>2006</year>) <article-title>Biosynthesis of
+sulfated glycopeptide antibiotics by using the sulfotransferase StaL</article-title>. <source>Chem. Biol</source>
+<volume>13</volume>, <fpage>171</fpage>&#x02013;<lpage>181</lpage>.<pub-id pub-id-type="pmid">16492565</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Kruger</surname><given-names>R. G.</given-names></name>; <name><surname>Lu</surname><given-names>W.</given-names></name>; <name><surname>Oberthur</surname><given-names>M.</given-names></name>; <name><surname>Tao</surname><given-names>J.</given-names></name>; <name><surname>Kahne</surname><given-names>D.</given-names></name>; <name><surname>Walsh</surname><given-names>C. T.</given-names></name> (<year>2005</year>) <article-title>Tailoring
+of glycopeptide scaffolds by the acyltransferases from the teicoplanin
+and A-40,926 biosynthetic operons</article-title>. <source>Chem. Biol</source>
+<volume>12</volume>, <fpage>131</fpage>&#x02013;<lpage>140</lpage>.<pub-id pub-id-type="pmid">15664522</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Michalodimitrakis</surname><given-names>K.</given-names></name>; <name><surname>Isalan</surname><given-names>M.</given-names></name> (<year>2009</year>) <article-title>Engineering prokaryotic
+gene circuits</article-title>. <source>FEMS Microbiol. Rev.</source>
+<volume>33</volume>, <fpage>27</fpage>&#x02013;<lpage>37</lpage>.<pub-id pub-id-type="pmid">19016883</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Tahlan</surname><given-names>K.</given-names></name>; <name><surname>Ahn</surname><given-names>S. K.</given-names></name>; <name><surname>Sing</surname><given-names>A.</given-names></name>; <name><surname>Bodnaruk</surname><given-names>T. D.</given-names></name>; <name><surname>Willems</surname><given-names>A. R.</given-names></name>; <name><surname>Davidson</surname><given-names>A. R.</given-names></name>; <name><surname>Nodwell</surname><given-names>J. R.</given-names></name> (<year>2007</year>) <article-title>Initiation
+of actinorhodin export
+in <italic>Streptomyces coelicolor</italic></article-title>. <source>Mol. Microbiol.</source>
+<volume>63</volume>, <fpage>951</fpage>&#x02013;<lpage>961</lpage>.<pub-id pub-id-type="pmid">17338074</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Morton</surname><given-names>D.</given-names></name>; <name><surname>Leach</surname><given-names>S.</given-names></name>; <name><surname>Cordier</surname><given-names>C.</given-names></name>; <name><surname>Warriner</surname><given-names>S.</given-names></name>; <name><surname>Nelson</surname><given-names>A.</given-names></name> (<year>2009</year>) <article-title>Synthesis
+of natural-product-like molecules with over eighty distinct scaffolds</article-title>. <source>Angew. Chem.</source>
+<volume>48</volume>, <fpage>104</fpage>&#x02013;<lpage>109</lpage>.<pub-id pub-id-type="pmid">19016294</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Lewis</surname><given-names>C. A.</given-names></name>; <name><surname>Miller</surname><given-names>S. J.</given-names></name> (<year>2006</year>) <article-title>Site-selective derivatization and remodeling of erythromycin
+A by using simple peptide-based chiral catalysts</article-title>. <source>Angew. Chem.</source>
+<volume>45</volume>, <fpage>5616</fpage>&#x02013;<lpage>5619</lpage>.<pub-id pub-id-type="pmid">16858713</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Lewis</surname><given-names>C. A.</given-names></name>; <name><surname>Merkel</surname><given-names>J.</given-names></name>; <name><surname>Miller</surname><given-names>S. J.</given-names></name> (<year>2008</year>) <article-title>Catalytic
+site-selective synthesis
+and evaluation of a series of erythromycin analogs</article-title>. <source>Bioorg. Med. Chem. Lett.</source>
+<volume>18</volume>, <fpage>6007</fpage>&#x02013;<lpage>6011</lpage>.<pub-id pub-id-type="pmid">18819795</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Kennedy</surname><given-names>J.</given-names></name> (<year>2008</year>) <article-title>Mutasynthesis,
+chemobiosynthesis, and back to semi-synthesis: combining synthetic
+chemistry and biosynthetic engineering for diversifying natural products</article-title>. <source>Nat. Prod. Rep.</source>
+<volume>25</volume>, <fpage>25</fpage>&#x02013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">18250896</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Nicolaou</surname><given-names>K. C.</given-names></name>; <name><surname>Boddy</surname><given-names>C. N.</given-names></name>; <name><surname>Brase</surname><given-names>S.</given-names></name>; <name><surname>Winssinger</surname><given-names>N.</given-names></name> (<year>1999</year>) <article-title>Chemistry,
+biology, and medicine of the glycopeptide antibiotics</article-title>. <source>Angew. Chem.</source>
+<volume>38</volume>, <fpage>2096</fpage>&#x02013;<lpage>2152</lpage>.<pub-id pub-id-type="pmid">10425471</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>van
+Wageningen</surname><given-names>A. A.</given-names></name>; <name><surname>Kirkpatrick</surname><given-names>P. N.</given-names></name>; <name><surname>Williams</surname><given-names>D. H.</given-names></name>; <name><surname>Harris</surname><given-names>B. R.</given-names></name>; <name><surname>Kershaw</surname><given-names>J. K.</given-names></name>; <name><surname>Lennard</surname><given-names>N. J.</given-names></name>; <name><surname>Jones</surname><given-names>M.</given-names></name>; <name><surname>Jones</surname><given-names>S. J. M.</given-names></name>; <name><surname>Solenberg</surname><given-names>P. J.</given-names></name> (<year>1998</year>) <article-title>Sequencing and analysis of genes involved in the biosynthesis
+of a vancomycin group antibiotic</article-title>. <source>Chem. Biol.</source>
+<volume>5</volume>, <fpage>155</fpage>&#x02013;<lpage>162</lpage>.<pub-id pub-id-type="pmid">9545426</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Pootoolal</surname><given-names>J.</given-names></name>; <name><surname>Thomas</surname><given-names>M. G.</given-names></name>; <name><surname>Marshall</surname><given-names>C. G.</given-names></name>; <name><surname>Neu</surname><given-names>J. M.</given-names></name>; <name><surname>Hubbard</surname><given-names>B. K.</given-names></name>; <name><surname>Walsh</surname><given-names>C. T.</given-names></name>; <name><surname>Wright</surname><given-names>G. D.</given-names></name> (<year>2002</year>) <article-title>Assembling
+the glycopeptide antibiotic
+scaffold: The biosynthesis of A47934 from <italic>Streptomyces toyocaensis</italic> NRRL15009</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>99</volume>, <fpage>8962</fpage>&#x02013;<lpage>8967</lpage>.<pub-id pub-id-type="pmid">12060705</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Grdadolnik</surname><given-names>S. G.</given-names></name>; <name><surname>Pristovsek</surname><given-names>P.</given-names></name>; <name><surname>Mierke</surname><given-names>D. F.</given-names></name> (<year>1998</year>) <article-title>Vancomycin: conformational consequences
+of the sugar substituent</article-title>. <source>J. Med. Chem.</source>
+<volume>41</volume>, <fpage>2090</fpage>&#x02013;<lpage>2099</lpage>.<pub-id pub-id-type="pmid">9622550</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Kannan</surname><given-names>R.</given-names></name>; <name><surname>Harris</surname><given-names>C. M.</given-names></name>; <name><surname>Harris</surname><given-names>T. M.</given-names></name>; <name><surname>Waltho</surname><given-names>J. P.</given-names></name>; <name><surname>Skelton</surname><given-names>N. J.</given-names></name>; <name><surname>Williams</surname><given-names>D. H.</given-names></name> (<year>1988</year>) <article-title>Function of the
+amino sugar and N-terminal amino acid
+of the antibiotic vancomycin in its complexation with cell wall peptides</article-title>. <source>J. Am. Chem. Soc.</source>
+<volume>110</volume>, <fpage>2946</fpage>&#x02013;<lpage>2953</lpage>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Mackay</surname><given-names>J. P.</given-names></name>; <name><surname>Gerhard</surname><given-names>U.</given-names></name>; <name><surname>Beauregard</surname><given-names>D. A.</given-names></name>; <name><surname>Maplestone</surname><given-names>R. A.</given-names></name>; <name><surname>Williams</surname><given-names>D. H.</given-names></name> (<year>1994</year>) <article-title>Dissection of the contributions toward dimerization
+of glycopeptide antibiotics</article-title>. <source>J. Am. Chem. Soc.</source>
+<volume>116</volume>, <fpage>4573</fpage>&#x02013;<lpage>4580</lpage>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Chan</surname><given-names>H. C.</given-names></name>; <name><surname>Huang</surname><given-names>Y. T.</given-names></name>; <name><surname>Lyu</surname><given-names>S. Y.</given-names></name>; <name><surname>Huang</surname><given-names>C. J.</given-names></name>; <name><surname>Li</surname><given-names>Y. S.</given-names></name>; <name><surname>Liu</surname><given-names>Y. C.</given-names></name>; <name><surname>Chou</surname><given-names>C. C.</given-names></name>; <name><surname>Tsai</surname><given-names>M. D.</given-names></name>; <name><surname>Li</surname><given-names>T. L.</given-names></name> (<year>2011</year>) <article-title>Regioselective
+deacetylation based on teicoplanin-complexed Orf2* crystal structures</article-title>. <source>Mol. Biosyst.</source>
+<volume>7</volume>, <fpage>1224</fpage>&#x02013;<lpage>1231</lpage>.<pub-id pub-id-type="pmid">21267472</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Puk</surname><given-names>O.</given-names></name>; <name><surname>Huber</surname><given-names>P.</given-names></name>; <name><surname>Bischoff</surname><given-names>D.</given-names></name>; <name><surname>Recktenwald</surname><given-names>J.</given-names></name>; <name><surname>Jung</surname><given-names>G.</given-names></name>; <name><surname>Sussmuth</surname><given-names>R. D.</given-names></name>; <name><surname>van Pee</surname><given-names>K. H.</given-names></name>; <name><surname>Wohlleben</surname><given-names>W.</given-names></name>; <name><surname>Pelzer</surname><given-names>S.</given-names></name> (<year>2002</year>) <article-title>Glycopeptide biosynthesis
+in <italic>Amycolatopsis
+mediterranei</italic> DSM5908: function of a halogenase and a haloperoxidase/perhydrolase</article-title>. <source>Chem. Biol</source>
+<volume>9</volume>, <fpage>225</fpage>&#x02013;<lpage>235</lpage>.<pub-id pub-id-type="pmid">11880037</pub-id></mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Bister</surname><given-names>B.</given-names></name>; <name><surname>Bischoff</surname><given-names>D.</given-names></name>; <name><surname>Nicholson</surname><given-names>G. J.</given-names></name>; <name><surname>Stockert</surname><given-names>S.</given-names></name>; <name><surname>Wink</surname><given-names>J.</given-names></name>; <name><surname>Brunati</surname><given-names>C.</given-names></name>; <name><surname>Donadio</surname><given-names>S.</given-names></name>; <name><surname>Pelzer</surname><given-names>S.</given-names></name>; <name><surname>Wohlleben</surname><given-names>W.</given-names></name>; <name><surname>Sussmuth</surname><given-names>R. D.</given-names></name> (<year>2003</year>) <article-title>Bromobalhimycin and chlorobromobalhimycins&#x02014;illuminating
+the potential of halogenases in glycopeptide antibiotic biosyntheses</article-title>. <source>ChemBioChem</source>
+<volume>4</volume>, <fpage>658</fpage>&#x02013;<lpage>662</lpage>.<pub-id pub-id-type="pmid">12851938</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Kalan</surname><given-names>L.</given-names></name>; <name><surname>Perry</surname><given-names>J.</given-names></name>; <name><surname>Koteva</surname><given-names>K.</given-names></name>; <name><surname>Thaker</surname><given-names>M. N.</given-names></name>; <name><surname>Wright</surname><given-names>G.</given-names></name> (<year>2012</year>) <article-title>Glycopeptide
+sulfation evades resistance</article-title>. <source>J. Bacteriol.</source>
+<volume>195</volume>, <fpage>167</fpage>&#x02013;<lpage>171</lpage>.<pub-id pub-id-type="pmid">23104813</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Banik</surname><given-names>J. J.</given-names></name>; <name><surname>Craig</surname><given-names>J. W.</given-names></name>; <name><surname>Calle</surname><given-names>P. Y.</given-names></name>; <name><surname>Brady</surname><given-names>S. F.</given-names></name> (<year>2010</year>) <article-title>Tailoring enzyme-rich
+environmental DNA clones: a source of enzymes for generating libraries
+of unnatural natural products</article-title>. <source>J. Am. Chem.
+Soc.</source>
+<volume>132</volume>, <fpage>15661</fpage>&#x02013;<lpage>15670</lpage>.<pub-id pub-id-type="pmid">20945895</pub-id></mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Shi</surname><given-names>R.</given-names></name>; <name><surname>Lamb</surname><given-names>S. S.</given-names></name>; <name><surname>Bhat</surname><given-names>S.</given-names></name>; <name><surname>Sulea</surname><given-names>T.</given-names></name>; <name><surname>Wright</surname><given-names>G. D.</given-names></name>; <name><surname>Matte</surname><given-names>A.</given-names></name>; <name><surname>Cygler</surname><given-names>M.</given-names></name> (<year>2007</year>) <article-title>Crystal structure
+of StaL, a glycopeptide
+antibiotic sulfotransferase from <italic>Streptomyces toyocaensis</italic></article-title>. <source>J. Biol. Chem.</source>
+<volume>282</volume>, <fpage>13073</fpage>&#x02013;<lpage>13086</lpage>.<pub-id pub-id-type="pmid">17329243</pub-id></mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Bick</surname><given-names>M. J.</given-names></name>; <name><surname>Banik</surname><given-names>J. J.</given-names></name>; <name><surname>Darst</surname><given-names>S. A.</given-names></name>; <name><surname>Brady</surname><given-names>S. F.</given-names></name> (<year>2010</year>) <article-title>Crystal structures
+of the glycopeptide sulfotransferase Teg12 in a complex with the teicoplanin
+aglycone</article-title>. <source>Biochemistry</source>
+<volume>49</volume>, <fpage>4159</fpage>&#x02013;<lpage>4168</lpage>.<pub-id pub-id-type="pmid">20361791</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Bick</surname><given-names>M. J.</given-names></name>; <name><surname>Banik</surname><given-names>J. J.</given-names></name>; <name><surname>Darst</surname><given-names>S. A.</given-names></name>; <name><surname>Brady</surname><given-names>S. F.</given-names></name> (<year>2010</year>) <article-title>The 2.7
+A resolution
+structure of the glycopeptide sulfotransferase Teg14</article-title>. <source>Acta Crystallogr., Sect. D</source>
+<volume>66</volume>, <fpage>1278</fpage>&#x02013;<lpage>1286</lpage>.<pub-id pub-id-type="pmid">21123867</pub-id></mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Shi</surname><given-names>R.</given-names></name>; <name><surname>Munger</surname><given-names>C.</given-names></name>; <name><surname>Kalan</surname><given-names>L.</given-names></name>; <name><surname>Sulea</surname><given-names>T.</given-names></name>; <name><surname>Wright</surname><given-names>G. D.</given-names></name>; <name><surname>Cygler</surname><given-names>M.</given-names></name> (<year>2012</year>) <article-title>Sulfonation of glycopeptide antibiotics by sulfotransferase
+StaL depends on conformational flexibility of aglycone scaffold</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>109</volume>, <fpage>11824</fpage>&#x02013;<lpage>11829</lpage>.<pub-id pub-id-type="pmid">22753479</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Shi</surname><given-names>R.</given-names></name>; <name><surname>Lamb</surname><given-names>S. S.</given-names></name>; <name><surname>Zakeri</surname><given-names>B.</given-names></name>; <name><surname>Proteau</surname><given-names>A.</given-names></name>; <name><surname>Cui</surname><given-names>Q.</given-names></name>; <name><surname>Sulea</surname><given-names>T.</given-names></name>; <name><surname>Matte</surname><given-names>A.</given-names></name>; <name><surname>Wright</surname><given-names>G. D.</given-names></name>; <name><surname>Cygler</surname><given-names>M.</given-names></name> (<year>2009</year>) <article-title>Structure
+and function of the glycopeptide N-methyltransferase MtfA, a tool
+for the biosynthesis of modified glycopeptide antibiotics</article-title>. <source>Chem. Biol.</source>
+<volume>16</volume>, <fpage>401</fpage>&#x02013;<lpage>410</lpage>.<pub-id pub-id-type="pmid">19389626</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Nagarajan</surname><given-names>R.</given-names></name>; <name><surname>Merkel</surname><given-names>K. E.</given-names></name>; <name><surname>Michel</surname><given-names>K. H.</given-names></name>; <name><surname>Higgins</surname><given-names>H. M.</given-names></name>; <name><surname>Hoehn</surname><given-names>M. M.</given-names></name>; <name><surname>Hunt</surname><given-names>A. H.</given-names></name>; <name><surname>Jones</surname><given-names>N. D.</given-names></name>; <name><surname>Occolowitz</surname><given-names>J. L.</given-names></name>; <name><surname>Schabel</surname><given-names>A. A.</given-names></name>; <name><surname>Swartzendruber</surname><given-names>J. K.</given-names></name> (<year>1988</year>) <article-title>M43 antibiotics: methylated vancomycins
+and unrearranged CDP-I analogs</article-title>. <source>J. Am. Chem.
+Soc.</source>
+<volume>110</volume>, <fpage>7896</fpage>&#x02013;<lpage>7897</lpage>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Malabarba</surname><given-names>A.</given-names></name>; <name><surname>Goldstein</surname><given-names>B. P.</given-names></name> (<year>2005</year>) <article-title>Origin,
+structure, and activity in vitro and in vivo
+of dalbavancin</article-title>. <source>J. Antimicrob. Chemother.</source>
+<volume>55</volume>, <fpage>ii15</fpage>&#x02013;<lpage>ii20</lpage>.<pub-id pub-id-type="pmid">15750032</pub-id></mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Mulichak</surname><given-names>A. M.</given-names></name>; <name><surname>Losey</surname><given-names>H. C.</given-names></name>; <name><surname>Walsh</surname><given-names>C. T.</given-names></name>; <name><surname>Garavito</surname><given-names>R. M.</given-names></name> (<year>2001</year>) <article-title>Structure of the
+UDP-glucosyltransferase GtfB that modifies the heptapeptide aglycone
+in the biosynthesis of vancomycin group antibiotics</article-title>. <source>Structure</source>
+<volume>9</volume>, <fpage>547</fpage>&#x02013;<lpage>557</lpage>.<pub-id pub-id-type="pmid">11470430</pub-id></mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Fu</surname><given-names>X.</given-names></name>; <name><surname>Albermann</surname><given-names>C.</given-names></name>; <name><surname>Jiang</surname><given-names>J.</given-names></name>; <name><surname>Liao</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>C.</given-names></name>; <name><surname>Thorson</surname><given-names>J. S.</given-names></name> (<year>2003</year>) <article-title>Antibiotic
+optimization via in vitro glycorandomization</article-title>. <source>Nat. Biotechnol.</source>
+<volume>21</volume>, <fpage>1467</fpage>&#x02013;<lpage>1469</lpage>.<pub-id pub-id-type="pmid">14608364</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Hubbard</surname><given-names>B. K.</given-names></name>; <name><surname>Walsh</surname><given-names>C. T.</given-names></name> (<year>2003</year>) <article-title>Vancomycin assembly: Nature&#x02019;s way</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<volume>42</volume>, <fpage>730</fpage>&#x02013;<lpage>765</lpage>.</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Losey</surname><given-names>H. C.</given-names></name>; <name><surname>Jiang</surname><given-names>J.</given-names></name>; <name><surname>Biggins</surname><given-names>J. B.</given-names></name>; <name><surname>Oberth&#x000fc;r</surname><given-names>M.</given-names></name>; <name><surname>Ye</surname><given-names>X.-Y.</given-names></name>; <name><surname>Dong</surname><given-names>S. D.</given-names></name>; <name><surname>Kahne</surname><given-names>D.</given-names></name>; <name><surname>Thorson</surname><given-names>J. S.</given-names></name>; <name><surname>Walsh</surname><given-names>C. T.</given-names></name> (<year>2002</year>) <article-title>Incorporation of glucose analogs by GtfE and GtfD from
+the vancomycin biosynthetic pathway to generate variant glycopeptides</article-title>. <source>Chem. Biol.</source>
+<volume>9</volume>, <fpage>1305</fpage>&#x02013;<lpage>1314</lpage>.<pub-id pub-id-type="pmid">12498883</pub-id></mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Losey</surname><given-names>H. C.</given-names></name>; <name><surname>Peczuh</surname><given-names>M. W.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Eggert</surname><given-names>U. S.</given-names></name>; <name><surname>Dong</surname><given-names>S. D.</given-names></name>; <name><surname>Pelczer</surname><given-names>I.</given-names></name>; <name><surname>Kahne</surname><given-names>D.</given-names></name>; <name><surname>Walsh</surname><given-names>C. T.</given-names></name> (<year>2001</year>) <article-title>Tandem action of
+glycosyltransferases in the maturation of vancomycin and teicoplanin
+aglycones: Novel glycopeptides</article-title>. <source>Biochemistry</source>
+<volume>40</volume>, <fpage>4745</fpage>&#x02013;<lpage>4755</lpage>.<pub-id pub-id-type="pmid">11294642</pub-id></mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Chen</surname><given-names>H.</given-names></name>; <name><surname>Thomas</surname><given-names>M. G.</given-names></name>; <name><surname>Hubbard</surname><given-names>B. K.</given-names></name>; <name><surname>Losey</surname><given-names>H. C.</given-names></name>; <name><surname>Walsh</surname><given-names>C. T.</given-names></name>; <name><surname>Burkart</surname><given-names>M. D.</given-names></name> (<year>2000</year>) <article-title>Deoxysugars in glycopeptide
+antibiotics: Enzymatic
+synthesis of TDP-l-epivancosamine in chloroeremomycin biosynthesis</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>97</volume>, <fpage>11942</fpage>&#x02013;<lpage>11947</lpage>.<pub-id pub-id-type="pmid">11035791</pub-id></mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Ho</surname><given-names>J.-Y.</given-names></name>; <name><surname>Huang</surname><given-names>Y.-T.</given-names></name>; <name><surname>Wu</surname><given-names>C.-J.</given-names></name>; <name><surname>Li</surname><given-names>Y.-S.</given-names></name>; <name><surname>Tsai</surname><given-names>M.-D.</given-names></name>; <name><surname>Li</surname><given-names>T.-L.</given-names></name> (<year>2006</year>) <article-title>Glycopeptide biosynthesis: Dbv21/Orf2* from dbv/tcp gene clusters
+are N-Ac-Glm teicoplanin pseudoaglycone deacetylases and Orf15 from
+cep gene cluster is a Glc-1-P thymidyltransferase</article-title>. <source>J. Am. Chem. Soc.</source>
+<volume>128</volume>, <fpage>13694</fpage>&#x02013;<lpage>13695</lpage>.<pub-id pub-id-type="pmid">17044690</pub-id></mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Li</surname><given-names>T. L.</given-names></name>; <name><surname>Huang</surname><given-names>F.</given-names></name>; <name><surname>Haydock</surname><given-names>S. F.</given-names></name>; <name><surname>Mironenko</surname><given-names>T.</given-names></name>; <name><surname>Leadlay</surname><given-names>P. F.</given-names></name>; <name><surname>Spencer</surname><given-names>J. B.</given-names></name> (<year>2004</year>) <article-title>Biosynthetic gene cluster of the
+glycopeptide antibiotic teicoplanin: characterization of two glycosyltransferases
+and the key acyltransferase</article-title>. <source>Chem. Biol.</source>
+<volume>11</volume>, <fpage>107</fpage>&#x02013;<lpage>119</lpage>.<pub-id pub-id-type="pmid">15113000</pub-id></mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Zou</surname><given-names>Y.</given-names></name>; <name><surname>Brunzelle</surname><given-names>J. S.</given-names></name>; <name><surname>Nair</surname><given-names>S. K.</given-names></name> (<year>2008</year>) <article-title>Crystal structures of lipoglycopeptide
+antibiotic deacetylases: Implications for the biosynthesis of A40926
+and teicoplanin</article-title>. <source>Chem. Biol.</source>
+<volume>15</volume>, <fpage>533</fpage>&#x02013;<lpage>545</lpage>.<pub-id pub-id-type="pmid">18559264</pub-id></mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name><surname>Liu</surname><given-names>Y.-C.</given-names></name>; <name><surname>Li</surname><given-names>Y.-S.</given-names></name>; <name><surname>Lyu</surname><given-names>S.-Y.</given-names></name>; <name><surname>Hsu</surname><given-names>L.-J.</given-names></name>; <name><surname>Chen</surname><given-names>Y.-H.</given-names></name>; <name><surname>Huang</surname><given-names>Y.-T.</given-names></name>; <name><surname>Chan</surname><given-names>H.-C.</given-names></name>; <name><surname>Huang</surname><given-names>C.-J.</given-names></name>; <name><surname>Chen</surname><given-names>G.-H.</given-names></name>; <name><surname>Chou</surname><given-names>C.-C.</given-names></name>; <name><surname>Tsai</surname><given-names>M.-D.</given-names></name>; <name><surname>Li</surname><given-names>T.-L.</given-names></name> (<year>2011</year>) <article-title>Interception
+of
+teicoplanin oxidation intermediates yields new antimicrobial scaffolds</article-title>. <source>Nat. Chem. Biol.</source>
+<volume>7</volume>, <fpage>304</fpage>&#x02013;<lpage>309</lpage>.<pub-id pub-id-type="pmid">21478878</pub-id></mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name><surname>Mulichak</surname><given-names>A. M.</given-names></name>; <name><surname>Lu</surname><given-names>W.</given-names></name>; <name><surname>Losey</surname><given-names>H. C.</given-names></name>; <name><surname>Walsh</surname><given-names>C. T.</given-names></name>; <name><surname>Garavito</surname><given-names>R. M.</given-names></name> (<year>2004</year>) <article-title>Crystal structure
+of vancosaminyltransferase GtfD from the vancomycin biosynthetic pathway:
+interactions with acceptor and nucleotide ligands</article-title>. <source>Biochemistry</source>
+<volume>43</volume>, <fpage>5170</fpage>&#x02013;<lpage>5180</lpage>.<pub-id pub-id-type="pmid">15122882</pub-id></mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name><surname>Sosio</surname><given-names>M.</given-names></name>; <name><surname>Giusino</surname><given-names>F.</given-names></name>; <name><surname>Cappellano</surname><given-names>C.</given-names></name>; <name><surname>Bossi</surname><given-names>E.</given-names></name>; <name><surname>Puglia</surname><given-names>A. M.</given-names></name>; <name><surname>Donadio</surname><given-names>S.</given-names></name> (<year>2000</year>) <article-title>Artificial chromosomes for antibiotic-producing actinomycetes</article-title>. <source>Nat. Biotechnol.</source>
+<volume>18</volume>, <fpage>343</fpage>&#x02013;<lpage>345</lpage>.<pub-id pub-id-type="pmid">10700154</pub-id></mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="book" id="cit61"><person-group person-group-type="allauthors"><name><surname>Gust</surname><given-names>B.</given-names></name>, <name><surname>Chandra</surname><given-names>G.</given-names></name>, <name><surname>Jakimowicz</surname><given-names>D.</given-names></name>, <name><surname>Yuqing</surname><given-names>T.</given-names></name>, <name><surname>Bruton</surname><given-names>C. J.</given-names></name>, and <name><surname>Chater</surname><given-names>K. F.</given-names></name></person-group> (<year>2004</year>) <article-title>&#x003bb; Red-mediated genetic manipulation of antibiotic-producing
+Streptomyces</article-title>, In <source>Advances in Applied Microbiology</source>, pp <fpage>107</fpage>&#x02013;<lpage>128</lpage>, <publisher-name>Academic Press</publisher-name>, <publisher-loc>New York</publisher-loc>.</mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name><surname>Kim</surname><given-names>J. H.</given-names></name>; <name><surname>Feng</surname><given-names>Z.</given-names></name>; <name><surname>Bauer</surname><given-names>J. D.</given-names></name>; <name><surname>Kallifidas</surname><given-names>D.</given-names></name>; <name><surname>Calle</surname><given-names>P. Y.</given-names></name>; <name><surname>Brady</surname><given-names>S. F.</given-names></name> (<year>2010</year>) <article-title>Cloning large natural
+product gene
+clusters from the environment: piecing environmental DNA gene clusters
+back together with TAR</article-title>. <source>Biopolymers</source>
+<volume>93</volume>, <fpage>833</fpage>&#x02013;<lpage>844</lpage>.<pub-id pub-id-type="pmid">20577994</pub-id></mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name><surname>Pfeifer</surname><given-names>B. A.</given-names></name>; <name><surname>Admiraal</surname><given-names>S. J.</given-names></name>; <name><surname>Gramajo</surname><given-names>H.</given-names></name>; <name><surname>Cane</surname><given-names>D. E.</given-names></name>; <name><surname>Khosla</surname><given-names>C.</given-names></name> (<year>2001</year>) <article-title>Biosynthesis
+of complex polyketides in a metabolically engineered strain of <italic>E. coli</italic></article-title>. <source>Science</source>
+<volume>291</volume>, <fpage>1790</fpage>&#x02013;<lpage>1792</lpage>.<pub-id pub-id-type="pmid">11230695</pub-id></mixed-citation></ref><ref id="ref64"><mixed-citation publication-type="journal" id="cit64"><name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Pfeifer</surname><given-names>B. A.</given-names></name> (<year>2008</year>) <article-title>Bacterial hosts
+for natural product
+production</article-title>. <source>Mol. Pharm.</source>
+<volume>5</volume>, <fpage>212</fpage>&#x02013;<lpage>225</lpage>.<pub-id pub-id-type="pmid">18232637</pub-id></mixed-citation></ref><ref id="ref65"><mixed-citation publication-type="journal" id="cit65"><name><surname>Hosaka</surname><given-names>T.</given-names></name>; <name><surname>Ohnishi-Kameyama</surname><given-names>M.</given-names></name>; <name><surname>Muramatsu</surname><given-names>H.</given-names></name>; <name><surname>Murakami</surname><given-names>K.</given-names></name>; <name><surname>Tsurumi</surname><given-names>Y.</given-names></name>; <name><surname>Kodani</surname><given-names>S.</given-names></name>; <name><surname>Yoshida</surname><given-names>M.</given-names></name>; <name><surname>Fujie</surname><given-names>A.</given-names></name>; <name><surname>Ochi</surname><given-names>K.</given-names></name> (<year>2009</year>) <article-title>Antibacterial
+discovery in actinomycetes strains with mutations in RNA polymerase
+or ribosomal protein S12</article-title>. <source>Nat. Biotechnol.</source>
+<volume>27</volume>, <fpage>462</fpage>&#x02013;<lpage>464</lpage>.<pub-id pub-id-type="pmid">19396160</pub-id></mixed-citation></ref><ref id="ref66"><mixed-citation publication-type="journal" id="cit66"><name><surname>Zhou</surname><given-names>M.</given-names></name>; <name><surname>Jing</surname><given-names>X.</given-names></name>; <name><surname>Xie</surname><given-names>P.</given-names></name>; <name><surname>Chen</surname><given-names>W.</given-names></name>; <name><surname>Wang</surname><given-names>T.</given-names></name>; <name><surname>Xia</surname><given-names>H.</given-names></name>; <name><surname>Qin</surname><given-names>Z.</given-names></name> (<year>2012</year>) <article-title>Sequential
+deletion of all the polyketide synthase
+and nonribosomal peptide synthetase biosynthetic gene clusters and
+a 900-kb subtelomeric sequence of the linear chromosome of <italic>Streptomyces coelicolor</italic></article-title>. <source>FEMS Microbiol.
+Lett.</source>
+<volume>333</volume>, <fpage>169</fpage>&#x02013;<lpage>179</lpage>.<pub-id pub-id-type="pmid">22670631</pub-id></mixed-citation></ref><ref id="ref67"><mixed-citation publication-type="journal" id="cit67"><name><surname>Alduina</surname><given-names>R.</given-names></name>; <name><surname>Gallo</surname><given-names>G.</given-names></name> (<year>2012</year>) <article-title>Artificial chromosomes
+to explore and to exploit biosynthetic capabilities
+of actinomycetes</article-title>. <source>J. Biomed. Biotechnol.</source>
+<volume>2012</volume>, <fpage>462049</fpage>.<pub-id pub-id-type="pmid">22919271</pub-id></mixed-citation></ref></ref-list></back></article>

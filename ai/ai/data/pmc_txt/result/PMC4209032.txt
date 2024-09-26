@@ -1,0 +1,866 @@
+Results Deletion of gliTresults in altered expression of over 200 genes involved in many functions in A. fumigatus As deletion of A. fumigatus gliT renders the strain sensitive to exogenous gliotoxin
+[2, 15], to achieve a better understanding of the self-protection against gliotoxin provided by A. fumigatus gliT, high throughput RNA sequencing analysis was carried out. An average of 9312 transcripts were expressed in A. fumigatus wild-type and ∆gliT (available from the European Nucleotide Archive under accession ERP001382), which is in accordance with other RNA-seq investigations of the A. fumigatus transcriptome
+[18, 22]. A comparison of A. fumigatus wild-type and ∆gliT revealed that the deletion of gliT resulted in the significant (p < 0.05) dysregulated expression of 208 genes, consisting of 175 up-regulated genes while 33 genes were significantly down-regulated (p < 0.05) (Figure 
+1A, Additional file
+1). The differentially regulated genes were classified according to the Functional Catalogue (FunCat)
+[23] and KEGG pathways
+[24] to identify the functions of these genes. Following deletion of gliT, 13 2nd level, 19 3rd level and 12 4th level FunCat categories were over-represented in the up-regulated gene set, compared to 3 2nd level, 10 3rd level and 3 4th level FunCat categories enriched in the down-regulated gene set (Additional file
+2: Tables S1 and S2). Categories over-represented in the up-regulated gene set include; secondary metabolism, transport and detoxification, while genes involved in C-compound and carbohydrate metabolism were enriched in the down-regulated gene set (Figure 
+2). Additionally, 11 KEGG pathways were over-represented in the up-regulated gene set, while genes involved in 13 KEGG pathways were enriched in the down-regulated gene set (Additional file
+2: Tables S3 and S4). Carbohydrate and lipid metabolism were over-represented in the up-regulated gene set, while amino acid metabolism was enriched in the down-regulated gene set. Genes involved in secondary metabolite biosynthesis were enriched in both the up- and down-regulated gene sets.Figure 1
+Overall impact of
+gliT
+loss and gliotoxin on
+A. fumigatus
+gene expression. A. Differentially regulated genes between A. fumigatus ∆gliT methanol control (∆gliT_MeOH) and A. fumigatus wild-type methanol control (wt-MeOH). The rFPKM value (FPKM (∆gliT_MeOH)/FPKM (wt_MeOH) was plotted for each gene. B. Differentially regulated genes between A. fumigatus wild-type methanol control (wt_MeOH) and A. fumigatus wild-type exposed to gliotoxin (wt_GT). The rFPKM value (FPKM (wt_GT)/FPKM (wt_MeOH) was plotted for each gene. C. Differentially regulated genes between A. fumigatus ∆gliT methanol control (∆gliT_MeOH) and A. fumigatus ∆gliT exposed to gliotoxin (∆gliT_GT). The rFPKM value (FPKM (∆gliT_GT)/FPKM (∆gliT_MeOH) was plotted for each gene. The grey shaded areas highlight the significantly (p <0.05) up-regulated (log2 fold-change ≥2) and down-regulated (log2 fold-change ≤2) genes in each set.Figure 2
+Functional classification into FunCat 2
+nd
+level categories of significantly A. up-regulated genes in
+A. fumigatus
+∆
+gliT
+compared to wild-type and B. down-regulated genes in
+A. fumigatus
+∆
+gliT
+compared to wild-type. Figure 1
+Overall impact of
+gliT
+loss and gliotoxin on
+A. fumigatus
+gene expression. A. Differentially regulated genes between A. fumigatus ∆gliT methanol control (∆gliT_MeOH) and A. fumigatus wild-type methanol control (wt-MeOH). The rFPKM value (FPKM (∆gliT_MeOH)/FPKM (wt_MeOH) was plotted for each gene. B. Differentially regulated genes between A. fumigatus wild-type methanol control (wt_MeOH) and A. fumigatus wild-type exposed to gliotoxin (wt_GT). The rFPKM value (FPKM (wt_GT)/FPKM (wt_MeOH) was plotted for each gene. C. Differentially regulated genes between A. fumigatus ∆gliT methanol control (∆gliT_MeOH) and A. fumigatus ∆gliT exposed to gliotoxin (∆gliT_GT). The rFPKM value (FPKM (∆gliT_GT)/FPKM (∆gliT_MeOH) was plotted for each gene. The grey shaded areas highlight the significantly (p <0.05) up-regulated (log2 fold-change ≥2) and down-regulated (log2 fold-change ≤2) genes in each set. Overall impact of
+gliT
+loss and gliotoxin on
+A. fumigatus
+gene expression. A. Differentially regulated genes between A. fumigatus ∆gliT methanol control (∆gliT_MeOH) and A. fumigatus wild-type methanol control (wt-MeOH). The rFPKM value (FPKM (∆gliT_MeOH)/FPKM (wt_MeOH) was plotted for each gene. B. Differentially regulated genes between A. fumigatus wild-type methanol control (wt_MeOH) and A. fumigatus wild-type exposed to gliotoxin (wt_GT). The rFPKM value (FPKM (wt_GT)/FPKM (wt_MeOH) was plotted for each gene. C. Differentially regulated genes between A. fumigatus ∆gliT methanol control (∆gliT_MeOH) and A. fumigatus ∆gliT exposed to gliotoxin (∆gliT_GT). The rFPKM value (FPKM (∆gliT_GT)/FPKM (∆gliT_MeOH) was plotted for each gene. The grey shaded areas highlight the significantly (p <0.05) up-regulated (log2 fold-change ≥2) and down-regulated (log2 fold-change ≤2) genes in each set. Figure 2
+Functional classification into FunCat 2
+nd
+level categories of significantly A. up-regulated genes in
+A. fumigatus
+∆
+gliT
+compared to wild-type and B. down-regulated genes in
+A. fumigatus
+∆
+gliT
+compared to wild-type. Functional classification into FunCat 2
+nd
+level categories of significantly A. up-regulated genes in
+A. fumigatus
+∆
+gliT
+compared to wild-type and B. down-regulated genes in
+A. fumigatus
+∆
+gliT
+compared to wild-type. Gliotoxin exposure alters the regulation of hundreds of genes in both A. fumigatuswild-type and ∆gliT Following A. fumigatus wild-type exposure to exogenous gliotoxin, 164 genes were significantly differentially regulated (p <0.05) compared to control conditions (Figure 
+1B). Of these 164 genes, 101 genes were up-regulated when A. fumigatus wild-type was exposed to gliotoxin, while 63 genes were down-regulated (Additional file
+1). In contrast, when A. fumigatus ∆gliT was exposed to exogenous gliotoxin, 1,700 genes were significantly differentially regulated (p <0.05) (Figure 
+1C), whereby expression of 508 genes was up-regulated in response to gliotoxin exposure and 1192 genes down-regulated (Additional file
+1). Given the large transcriptomic remodelling observed in A. fumigatus ∆gliT following exogenous gliotoxin exposure, cell viability was assessed at 85%. Although a significant decrease (p =0.0019) in the cell viability of A. fumigatus ∆gliT exposed to exogenous gliotoxin, compared with the methanol control (97%) (Additional file
+2: Figure S1), gross cell death was not observed. Functional characterisation of differentially regulated genes in A. fumigatuswild-type and ∆gliTfollowing exogenous gliotoxin exposure In classifying the differentially regulated genes in A. fumigatus wild-type upon exposure to exogenous gliotoxin, 9 2nd level, 17 3rd level and 11 4th level FunCat categories, respectively, were over-represented in the up-regulated gene set compared to 12 2nd level, 17 3rd level and 8 4th level categories in the down-regulated gene set (Additional file
+2: Tables S5 and S6). Comparatively, in A. fumigatus ∆gliT exposed to exogenous gliotoxin, a greater number of FunCat categories were over-represented. Here, 24 2nd level, 23 3rd level and 12 4th level FunCat categories, respectively, were over-represented in the up-regulated gene set compared to 42 2nd level, 84 3rd level and 39 4th level categories in the down-regulated gene set (Additional file
+2: Tables S7 and S8). A. fumigatus wild-type exposure to exogenous gliotoxin results in an over-representation of up-regulated expression of genes involved in secondary metabolism, transport (particularly siderophore-iron transport), detoxification processes and homeostasis processes as well as others (Figure 
+3). Of the down-regulated genes, some of the categories which were enriched included amino acid metabolism, carbohydrate metabolism and complex cofactor/cosubstrate/vitamin binding (Figure 
+3). Loss of gliT in combination with exogenous gliotoxin exposure results in the dysregulation of a large number of processes within the cell. It resulted in an over-representation of up-regulated genes involved in stress response, ribosome biogenesis and translation, and of down-regulated genes involved in metabolism of cysteine, nitrogen, sulphur and selenium metabolism, RNA synthesis, transport (including siderophore-iron transport), homeostasis and cellular import (Figure 
+4).Figure 3
+Functional classification into FunCat 2
+nd
+level categories of significantly A. up-regulated genes in
+A. fumigatus
+wild-type exposed to gliotoxin compared to the MeOH control and B. down-regulated genes in
+A. fumigatus
+wild-type exposed to gliotoxin compared to the MeOH control.
+Figure 4
+Functional classification into FunCat 2
+nd
+level categories of significantly A. up-regulated genes in
+A. fumigatus
+∆
+gliT
+exposed to gliotoxin compared to the MeOH control and B. down-regulated genes in
+A. fumigatus
+∆
+gliT
+exposed to gliotoxin compared to the MeOH control. Figure 3
+Functional classification into FunCat 2
+nd
+level categories of significantly A. up-regulated genes in
+A. fumigatus
+wild-type exposed to gliotoxin compared to the MeOH control and B. down-regulated genes in
+A. fumigatus
+wild-type exposed to gliotoxin compared to the MeOH control. Functional classification into FunCat 2
+nd
+level categories of significantly A. up-regulated genes in
+A. fumigatus
+wild-type exposed to gliotoxin compared to the MeOH control and B. down-regulated genes in
+A. fumigatus
+wild-type exposed to gliotoxin compared to the MeOH control. Figure 4
+Functional classification into FunCat 2
+nd
+level categories of significantly A. up-regulated genes in
+A. fumigatus
+∆
+gliT
+exposed to gliotoxin compared to the MeOH control and B. down-regulated genes in
+A. fumigatus
+∆
+gliT
+exposed to gliotoxin compared to the MeOH control. Functional classification into FunCat 2
+nd
+level categories of significantly A. up-regulated genes in
+A. fumigatus
+∆
+gliT
+exposed to gliotoxin compared to the MeOH control and B. down-regulated genes in
+A. fumigatus
+∆
+gliT
+exposed to gliotoxin compared to the MeOH control. In combination with the identified FunCat categories, 2 KEGG pathways were over-represented in the up-regulated gene set, and 13 KEGG pathways in the down-regulated gene set of A. fumigatus wild-type upon exogenous gliotoxin exposure were over-represented (Additional file
+2: Tables S9 and S10). Pathways involved in xenobiotic biodegradation and metabolism were enriched in the up-regulated gene set, while in the down-regulated gene set, pathways involved in the biosynthesis of secondary metabolites, glycolysis/gluconeogenesis and amino acid metabolism are over-represented. In A. fumigatus ∆gliT exposed to exogenous gliotoxin, 18 KEGG pathways were over-represented in the up-regulated gene set compared to 38 KEGG pathways in the down-regulated gene set (Additional file
+2: Tables S11 and S12). Among the KEGG pathways over-represented in the up-regulated gene set were pathways involved in carbohydrate metabolism, translation and selenoamino acid metabolism. In the down-regulated gene set, some of the pathways over-represented included; biosynthesis of secondary metabolites, starch and sucrose metabolism, and amino acid metabolism. Exogenous gliotoxin causes dysregulation of gliotoxin biosynthesis cluster gene expression in both A. fumigatuswild-type and ∆gliT Close inspection of the 13-gene gliotoxin biosynthesis cluster
+[2, 3], revealed that exogenous gliotoxin caused the dysregulated expression of a number of gliotoxin biosynthetic genes in both A. fumigatus wild-type and ∆gliT (Table 
+1). Upon exposure to exogenous gliotoxin, five out of the 13 genes in the cluster were significantly up-regulated in A. fumigatus wild-type. Expression of A. fumigatus gliZ was up-regulated log2 3.2-fold, gliP log2 6.2 fold, while gliA and gliF were up-regulated log2 10- and log2 6.7-fold, respectively. Expression of gliT, which confers protection against exogenous gliotoxin
+[2, 15], was up-regulated log2 9.2-fold. Increased expression of the remaining genes in the gliotoxin biosynthetic cluster was also observed in A. fumigatus wild-type upon exogenous gliotoxin exposure, however altered expression was not significant.Table 1
+Log
+2
+(fold change) in the expression of the gliotoxin biosynthetic genes in
+A. fumigatus
+wild-type and ∆
+gliT
+exposed to exogenous gliotoxin
+Wild-type_Glio v Wild-type_MeOH∆gliT_Glio v ∆gliT_MeOHGeneGene nameLog2(fold change)q valueLog2(fold change)q valueAFUA_6G09630
+gliZ
+3.1650.0050.4650.525AFUA_6G09640
+gliI
+1.7581.000−0.0311.000AFUA_6G09650
+gliJ
+2.2500.383−2.8161.000AFUA_6G09660
+gliP
+6.2080.0053.4080.0005AFUA_6G09670
+gliC
+5.0230.0654.2230.093AFUA_6G09680
+gliM
+11.7370.7696.9860.024AFUA_6G09690
+gliG
+7.9560.2538.1990.254AFUA_6G09700
+gliK
+7.4170.4452.8440.073AFUA_6G09710
+gliA
+10.0140.0058.5170.0005AFUA_6G09720
+gliN
+4.8070.0532.1060.086AFUA_6G09730
+gliF
+6.7580.0054.7450.0005AFUA_6G09740
+gliT
+9.2480.005--AFUA_6G09745
+gliH
+5.0750.1282.6880.237 Log
+2
+(fold change) in the expression of the gliotoxin biosynthetic genes in
+A. fumigatus
+wild-type and ∆
+gliT
+exposed to exogenous gliotoxin Wild-type_Glio v Wild-type_MeOH ∆gliT_Glio v ∆gliT_MeOH. Gene Gene name Log2(fold change) q value Log2(fold change) q value. AFUA_6G09630 gliZ 3.165 0.005 0.465 0.525. AFUA_6G09640 gliI 1.758 1.000 −0.031 1.000. AFUA_6G09650 gliJ 2.250 0.383 −2.816 1.000. AFUA_6G09660 gliP 6.208 0.005 3.408 0.0005. AFUA_6G09670 gliC 5.023 0.065 4.223 0.093. AFUA_6G09680 gliM 11.737 0.769 6.986 0.024. AFUA_6G09690 gliG 7.956 0.253 8.199 0.254. AFUA_6G09700 gliK 7.417 0.445 2.844 0.073. AFUA_6G09710 gliA 10.014 0.005 8.517 0.0005. AFUA_6G09720 gliN 4.807 0.053 2.106 0.086. AFUA_6G09730 gliF 6.758 0.005 4.745 0.0005. AFUA_6G09740 gliT 9.248 0.005 - -. AFUA_6G09745 gliH 5.075 0.128 2.688 0.237. Upon A. fumigatus ∆gliT exposure to exogenous gliotoxin, dysregulated expression of gliotoxin biosynthetic genes was also observed (Table 
+1). As in A. fumigatus wild-type, gliP, gliA and gliF expression was also up-regulated in ∆gliT upon exogenous gliotoxin addition. A. fumigatus gliP was up-regulated log2 3.4-fold, gliA was up-regulated log2 8.5-fold and A. fumigatus gliF was up-regulated log2 4.7-fold. Additionally, A. fumigatus gliM was up-regulated log2 6.9-fold in A. fumigatus ∆gliT exposed to exogenous gliotoxin, which was not observed in A. fumigatus wild-type upon gliotoxin exposure. Of the remaining gliotoxin biosynthetic genes, while not significant, with the exception of A. fumigatus gliZ and gliI which did not exhibit altered expression, and gliJ which appeared to undergo down-regulated expression, increased expression of the remaining genes was observed in A. fumigatus ∆gliT upon exposure to exogenous gliotoxin. Quantitative real-time PCR (qRT-PCR) analysis of the expression of A. fumigatus gliZ confirmed the up-regulation in A. fumigatus wild-type exposed to exogenous gliotoxin compared to the control, however it also showed increased gliZ expression in ∆gliT in response to gliotoxin (Figure 
+5), which was not observed in the RNA-seq analysis, possibly due to the sensitivities of the different techniques. qRT-PCR analysis of the expression of A. fumigatus gliA in both A. fumigatus wild-type and A. fumigatus ∆gliT in both the absence and presence of exogenous gliotoxin confirmed the up-regulation in response to exogenous gliotoxin (Figure 
+5).Figure 5
+qRT-PCR analysis of
+A. fumigatus gliZ
+(A)
+, gliA
+(B)
+, osc3
+(C),
+ftmA
+(D),
+fma-pks
+(E),
+psoA
+(F),
+laeA
+(G), AFUA_3G13700 (H),
+sidH
+(I) and
+optB
+(J) expression in
+A. fumigatus
+wild-type and
+A. fumigatus
+∆
+gliT
+in the presence and absence of exogenous gliotoxin. Figure 5
+qRT-PCR analysis of
+A. fumigatus gliZ
+(A)
+, gliA
+(B)
+, osc3
+(C),
+ftmA
+(D),
+fma-pks
+(E),
+psoA
+(F),
+laeA
+(G), AFUA_3G13700 (H),
+sidH
+(I) and
+optB
+(J) expression in
+A. fumigatus
+wild-type and
+A. fumigatus
+∆
+gliT
+in the presence and absence of exogenous gliotoxin. qRT-PCR analysis of
+A. fumigatus gliZ
+(A)
+, gliA
+(B)
+, osc3
+(C),
+ftmA
+(D),
+fma-pks
+(E),
+psoA
+(F),
+laeA
+(G), AFUA_3G13700 (H),
+sidH
+(I) and
+optB
+(J) expression in
+A. fumigatus
+wild-type and
+A. fumigatus
+∆
+gliT
+in the presence and absence of exogenous gliotoxin. The impact of gliotoxin on the expression of the gliotoxin biosynthetic genes is in accordance with that observed in other studies using different techniques
+[2, 9]. Moreover, feeding experiments with [13C]-phenylalanine herein confirm, for the first time, that gliotoxin biosynthesis is actually induced by exogenous gliotoxin. A significant increase (p =0.0295) was observed in the amount of [13C]-gliotoxin detectable in the wild-type A. fumigatus Af293 culture supernatants following exogenous gliotoxin addition compared to the methanol control (Figure 
+6).Figure 6
+Gliotoxin biosynthesis is induced with exogenous gliotoxin addition. A. A significant increase (p =0.0295) in the amount of de novo gliotoxin ([13C]-gliotoxin) produced following addition of exogenous gliotoxin was observed compared to the methanol control. B. Time-line of the experimental conditions. Cultures (duplicate) were inoculated at T =0 h. At T =24 h, [13C]-phenylalanine was added along with gliotoxin (5 μg/ml final) or methanol (solvent control). Culture supernatants were collected at T =72 h and organic extraction carried out prior to LC-MS/MS analysis. C. Spectrum showing gliotoxin (m/z 327) and [13C]-gliotoxin (m/z 328) in cultures spiked with the methanol. D. Spectrum showing gliotoxin (m/z 327) and [13C]-gliotoxin (m/z 328) in cultures spiked with exogenous gliotoxin. The black arrows highlight [13C]-gliotoxin, where higher levels are observed in cultures induced by exogenous gliotoxin compared to the methanol control. Figure 6
+Gliotoxin biosynthesis is induced with exogenous gliotoxin addition. A. A significant increase (p =0.0295) in the amount of de novo gliotoxin ([13C]-gliotoxin) produced following addition of exogenous gliotoxin was observed compared to the methanol control. B. Time-line of the experimental conditions. Cultures (duplicate) were inoculated at T =0 h. At T =24 h, [13C]-phenylalanine was added along with gliotoxin (5 μg/ml final) or methanol (solvent control). Culture supernatants were collected at T =72 h and organic extraction carried out prior to LC-MS/MS analysis. C. Spectrum showing gliotoxin (m/z 327) and [13C]-gliotoxin (m/z 328) in cultures spiked with the methanol. D. Spectrum showing gliotoxin (m/z 327) and [13C]-gliotoxin (m/z 328) in cultures spiked with exogenous gliotoxin. The black arrows highlight [13C]-gliotoxin, where higher levels are observed in cultures induced by exogenous gliotoxin compared to the methanol control. Gliotoxin biosynthesis is induced with exogenous gliotoxin addition. A. A significant increase (p =0.0295) in the amount of de novo gliotoxin ([13C]-gliotoxin) produced following addition of exogenous gliotoxin was observed compared to the methanol control. B. Time-line of the experimental conditions. Cultures (duplicate) were inoculated at T =0 h. At T =24 h, [13C]-phenylalanine was added along with gliotoxin (5 μg/ml final) or methanol (solvent control). Culture supernatants were collected at T =72 h and organic extraction carried out prior to LC-MS/MS analysis. C. Spectrum showing gliotoxin (m/z 327) and [13C]-gliotoxin (m/z 328) in cultures spiked with the methanol. D. Spectrum showing gliotoxin (m/z 327) and [13C]-gliotoxin (m/z 328) in cultures spiked with exogenous gliotoxin. The black arrows highlight [13C]-gliotoxin, where higher levels are observed in cultures induced by exogenous gliotoxin compared to the methanol control. Exogenous gliotoxin results in down-regulation of secondary metabolite gene cluster expression in A. fumigatus∆gliT FunCat classification of the altered gene expression in A. fumigatus wild-type and ∆gliT, respectively, revealed an enrichment of genes involved in secondary metabolism upon exogenous gliotoxin exposure. In A. fumigatus wild-type, expression of 16 genes which was up-regulated, and that of 3 genes down-regulated in response to exogenous gliotoxin, were classified by 2nd level of FunCat as being involved in secondary metabolism (Additional file
+2: Tables S5 and S6). A larger number of genes were classified in this category in A. fumigatus ∆gliT in response to exogenous gliotoxin presence, where 22 up-regulated genes and 103 down-regulated genes were observed (Additional file
+2: Tables S7 and S8). A closer inspection of some of the secondary metabolite genes clusters revealed significant alterations in the expression of genes in the helvolic biosynthesis cluster
+[25] and the “supercluster” on chromosome 8 which encodes the biosynthetic pathways of a number of secondary metabolites, including fumitremorgin B, fumagillin and pseurotin A
+[26–29] (Table 
+2).Table 2
+Log
+2
+(fold change) in helvolic acid, fumitremorgin, fumagillin and pseurotin A biosynthetic gene cluster expression in
+A. fumigatus
+wild-type and ∆
+gliT
+exposed to exogenous gliotoxin
+Wild-type_Glio v Wild-type_MeOH∆gliT_Glio v ∆gliT_MeOHGeneGene nameLog2(fold change)q valueLog2(fold change)q value
+Helvolic acid
+AFUA_4G14770
+osc3
+3.2790.005−6.2960.010AFUA_4G14780
+cyp5081A1
+2.4250.076−6.5150.092AFUA_4G14790
+cyp5081B1
+1.9930.228Absenta
+0.0005AFUA_4G14800
+sdr1
+3.2190.049−7.1630.293AFUA_4G14810
+cyp5081D1
+2.6330.200−3.9520.053AFUA_4G14820
+-
+2.7010.057−5.9640.063AFUA_4G14830
+cyp5081C1
+0.4701.000−4.2291.000AFUA_4G14840
+-
+1.5421.000−2.9411.000AFUA_4G14850-0.9600.761−2.7020.021
+Fumitremorgin B
+AFUA_8G00170
+ftmA
+−2.7770.008−6.6490.028AFUA_8G00190
+ftmC
+−1.2780.205−5.6810.0005AFUA_8G00200
+ftmD
+−1.2630.181−5.8700.0005AFUA_8G00210
+ftmPT1
+−1.4560.310−8.8430.092AFUA_8G00220
+ftmE
+−0.6141.000Absenta
+0.0005AFUA_8G00230
+ftmF
+−0.4740.901−10.8670.293AFUA_8G00240
+ftmG
+0.6110.844−6.5190.019AFUA_8G00250
+ftmPT2
+0.5810.844−7.3000.074AFUA_8G00260
+ftmI
+0.0310.997−1.4550.039
+Fumagillin
+AFUA_8G00370
+fma-PKS
+0.3960.946−7.2870.0005AFUA_8G00380
+fma-AT
+0.2640.968−9.3640.074AFUA_8G00390
+-
+0.2200.976−7.9020.0005AFUA_8G00400
+-
+−0.0250.997−8.0940.022AFUA_8G00410
+metAP/fpaII
+−0.1130.987−5.1960.0005AFUA_8G00420
+fapR/fumR
+−0.2840.957−5.8260.0005AFUA_8G00430
+-
+0.2650.969−7.0930.0005AFUA_8G00440
+psoF
+0.0050.998−5.4260.0005AFUA_8G00460
+fpaI
+−0.3010.919−0.2820.633AFUA_8G00470
+fmaE
+−0.1760.968−0.2710.636AFUA_8G00480
+fmaF
+0.4270.919−7.2580.0005AFUA_8G00490
+-
+0.3060.959−5.6490.007AFUA_8G00500
+-
+−0.0470.997−6.7800.002AFUA_8G00510
+fmaG
+0.7930.820−8.1010.0005AFUA_8G00520
+fma-TC/fmaA
+0.5280.904−8.3690.022
+Pseurotin A
+AFUA_8G00530
+psoB
+0.4150.946−7.4500.0005AFUA_8G00540
+psoA/NRPS14
+0.7680.776−5.7920.0005AFUA_8G00550
+psoC
+0.2920.964−7.4130.0005AFUA_8G00560
+psoD
+0.8080.735−6.7780.0005AFUA_8G00570
+-
+−0.2710.965−8.0590.064AFUA_8G00580
+psoE
+0.3060.964−8.2060.008AFUA_8G00590-−0.9820.239−1.4300.009
+aGene expression absent in ∆gliT_Glio. Log
+2
+(fold change) in helvolic acid, fumitremorgin, fumagillin and pseurotin A biosynthetic gene cluster expression in
+A. fumigatus
+wild-type and ∆
+gliT
+exposed to exogenous gliotoxin Wild-type_Glio v Wild-type_MeOH ∆gliT_Glio v ∆gliT_MeOH. Gene Gene name Log2(fold change) q value Log2(fold change) q value. Helvolic acid. AFUA_4G14770 osc3 3.279 0.005 −6.296 0.010. AFUA_4G14780 cyp5081A1 2.425 0.076 −6.515 0.092. AFUA_4G14790 cyp5081B1 1.993 0.228 Absenta 0.0005. AFUA_4G14800 sdr1 3.219 0.049 −7.163 0.293. AFUA_4G14810 cyp5081D1 2.633 0.200 −3.952 0.053. AFUA_4G14820 - 2.701 0.057 −5.964 0.063. AFUA_4G14830 cyp5081C1 0.470 1.000 −4.229 1.000. AFUA_4G14840 - 1.542 1.000 −2.941 1.000. AFUA_4G14850 - 0.960 0.761 −2.702 0.021. Fumitremorgin B. AFUA_8G00170 ftmA −2.777 0.008 −6.649 0.028. AFUA_8G00190 ftmC −1.278 0.205 −5.681 0.0005. AFUA_8G00200 ftmD −1.263 0.181 −5.870 0.0005. AFUA_8G00210 ftmPT1 −1.456 0.310 −8.843 0.092. AFUA_8G00220 ftmE −0.614 1.000 Absenta 0.0005. AFUA_8G00230 ftmF −0.474 0.901 −10.867 0.293. AFUA_8G00240 ftmG 0.611 0.844 −6.519 0.019. AFUA_8G00250 ftmPT2 0.581 0.844 −7.300 0.074. AFUA_8G00260 ftmI 0.031 0.997 −1.455 0.039. Fumagillin. AFUA_8G00370 fma-PKS 0.396 0.946 −7.287 0.0005. AFUA_8G00380 fma-AT 0.264 0.968 −9.364 0.074. AFUA_8G00390 - 0.220 0.976 −7.902 0.0005. AFUA_8G00400 - −0.025 0.997 −8.094 0.022. AFUA_8G00410 metAP/fpaII −0.113 0.987 −5.196 0.0005. AFUA_8G00420 fapR/fumR −0.284 0.957 −5.826 0.0005. AFUA_8G00430 - 0.265 0.969 −7.093 0.0005. AFUA_8G00440 psoF 0.005 0.998 −5.426 0.0005. AFUA_8G00460 fpaI −0.301 0.919 −0.282 0.633. AFUA_8G00470 fmaE −0.176 0.968 −0.271 0.636. AFUA_8G00480 fmaF 0.427 0.919 −7.258 0.0005. AFUA_8G00490 - 0.306 0.959 −5.649 0.007. AFUA_8G00500 - −0.047 0.997 −6.780 0.002. AFUA_8G00510 fmaG 0.793 0.820 −8.101 0.0005. AFUA_8G00520 fma-TC/fmaA 0.528 0.904 −8.369 0.022. Pseurotin A. AFUA_8G00530 psoB 0.415 0.946 −7.450 0.0005. AFUA_8G00540 psoA/NRPS14 0.768 0.776 −5.792 0.0005. AFUA_8G00550 psoC 0.292 0.964 −7.413 0.0005. AFUA_8G00560 psoD 0.808 0.735 −6.778 0.0005. AFUA_8G00570 - −0.271 0.965 −8.059 0.064. AFUA_8G00580 psoE 0.306 0.964 −8.206 0.008. AFUA_8G00590 - −0.982 0.239 −1.430 0.009. aGene expression absent in ∆gliT_Glio. Helvolic acid, a triterpene, is encoded by a 9-gene cluster on chromosome 4
+[25]. In A. fumigatus wild-type, exogenous gliotoxin results in the significant up-regulation of 2 genes, A. fumigatus osc3 (log2 3.28-fold) and sdrI (log2 3.22-fold) (Table 
+2). Conversely, in A. fumigatus ∆gliT exposed to exogenous gliotoxin, osc3 was significantly down-regulated (log2 6.3-fold) along with a predicted O-methyltransferase, AFUA_4G14580, which is significantly down-regulated (log2 2.7-fold) (Table 
+2). In addition to this, expression of cyp5081B1 is completely abrogated in A. fumigatus ∆gliT exposed to exogenous gliotoxin (Table 
+2). qRT-PCR analysis of A. fumigatus osc3 confirmed the observed down-regulation in A. fumigatus ∆gliT and up-regulation of A. fumigatus osc3 in A. fumigatus wild-type exposed to exogenous gliotoxin (Figure 
+5). Of the 69 genes in the “supercluster” on chromosome 8, expression of two genes is significantly down-regulated in A. fumigatus wild-type in response to exogenous gliotoxin (Table 
+2). However, in A. fumigatus ∆gliT, when exposed to exogenous gliotoxin, expression of 26 genes from the “supercluster” was down-regulated (Table 
+2). Closer inspection of the fumitremorgin B biosynthetic genes revealed that expression of the non-ribosomal peptide synthetase (NRPS), A. fumigatus ftmA
+[29], was significantly down-regulated (log2 2.78-fold) in A. fumigatus wild-type in exogenous gliotoxin presence (Table 
+2). While in A. fumigatus ∆gliT, ftmA (log2 6.65-fold), ftmC (log2 5.68-fold), ftmD (log2 5.87-fold), ftmG (log2 6.52-fold) and ftmI (log2 1.45-fold) expression was significantly down-regulated, and ftmE expression was completely inhibited in response to exogenous gliotoxin (Table 
+2). qRT-PCR analysis of A. fumigatus ftmA confirmed decreased expression in both wild-type and ∆gliT following exposure to exogenous gliotoxin (Figure 
+5). Determination of the levels of the fumitremorgins and associated compounds in A. fumigatus wild-type and ∆gliT cultured in secondary metabolite-inducing conditions (96 h in Czpaeks-Dox Broth) revealed significant alterations in the levels of a number of cognate metabolites. Specifically, brevianamide F levels were significantly increased in A. fumigatus ∆gliT compared to wild-type (p =0.0243), while the levels of both tryprostatin A and tryprostatin B were significantly decreased (p =0.008 and p =0.0453) in A. fumigatus ∆gliT compared to wild-type (Figure 
+7). There was no significant difference determined in the level of fumitremorgin C between A. fumigatus wild-type and ∆gliT (Figure 
+7).Figure 7
+Levels of fumagillin, pseurotin A, fumitremorgin C, tryprostatin B and tryprostatin A in
+A. fumigatus
+wild-type and ∆
+gliT
+following 96 h growth under secondary metabolite inducing conditions. Fumagillin (A) and pseurotin A (B) production was significantly reduced in A. fumigatus ∆gliT compared to wild-type (*p =0.0471 and * p =0.0297, respectively). There was no significant difference in fumitremorgin C (C) levels, while brevianamide F (D) levels were significantly increased (* p =0.0243) in ∆gliT compared to wild-type. Tryprostatin B (E) and tryprostatin A (F) levels were significantly reduced in ∆gliT compared to wild-type (* p =0.0453 and ** p =0.008, respectively). Figure 7
+Levels of fumagillin, pseurotin A, fumitremorgin C, tryprostatin B and tryprostatin A in
+A. fumigatus
+wild-type and ∆
+gliT
+following 96 h growth under secondary metabolite inducing conditions. Fumagillin (A) and pseurotin A (B) production was significantly reduced in A. fumigatus ∆gliT compared to wild-type (*p =0.0471 and * p =0.0297, respectively). There was no significant difference in fumitremorgin C (C) levels, while brevianamide F (D) levels were significantly increased (* p =0.0243) in ∆gliT compared to wild-type. Tryprostatin B (E) and tryprostatin A (F) levels were significantly reduced in ∆gliT compared to wild-type (* p =0.0453 and ** p =0.008, respectively). Levels of fumagillin, pseurotin A, fumitremorgin C, tryprostatin B and tryprostatin A in
+A. fumigatus
+wild-type and ∆
+gliT
+following 96 h growth under secondary metabolite inducing conditions. Fumagillin (A) and pseurotin A (B) production was significantly reduced in A. fumigatus ∆gliT compared to wild-type (*p =0.0471 and * p =0.0297, respectively). There was no significant difference in fumitremorgin C (C) levels, while brevianamide F (D) levels were significantly increased (* p =0.0243) in ∆gliT compared to wild-type. Tryprostatin B (E) and tryprostatin A (F) levels were significantly reduced in ∆gliT compared to wild-type (* p =0.0453 and ** p =0.008, respectively). There was no significant dysregulation of the fumagillin biosynthetic genes in A. fumigatus wild-type in exogenous gliotoxin presence. However, when A. fumigatus ∆gliT was exposed to exogenous gliotoxin, expression of 12 fumagillin biosynthetic genes in the cluster was significantly down-regulated (p <0.05) (Table 
+2). Some of the down-regulated genes include a polyketide synthase (PKS) (A. fumigatus fma-PKS)
+[30] and a putative PKS (AFUA_8G00490)
+[27] which were down-regulated log2 7.20- and log2 5.65-fold, respectively, A. fumigatus metAP/fpaII expression was down-regulated log2 5.20-fold and fma-TC/fmaA was down-regulated log2 8.37-fold. The decreased expression of A. fumigatus fma-PKS in A. fumigatus ∆gliT exposed to exogenous gliotoxin was confirmed by qRT-PCR analysis (Figure 
+5). As was the case for fumitremorgin B and fumagillin, none of the pseurotin A biosynthetic genes were differentially regulated in A. fumigatus wild-type in exogenous gliotoxin presence (Table 
+2). However, in A. fumigatus ∆gliT exposed to exogenous gliotoxin, with the exception of AFUA_8G00570, expression of all of the pseurotin A biosynthetic genes was significantly down-regulated (Table 
+2). Expression of AFUA_8G00530 and A. fumigatus psoA/nrps14, the PKS-NRPS hybrid
+[28], were down-regulated log2 7.45- and log2 5.79-fold respectively, while A. fumigatus psoC, psoD and elfB
+[31] expression was down-regulated log2 7.41-, log2 6.78- and log2 8.21-fold respectively. qRT-PCR confirmed the decreased expression of A. fumigatus psoA/nrps14 in A. fumigatus ∆gliT upon exogenous gliotoxin exposure (Figure 
+5). Relevantly, under secondary metabolite inducing growth conditions, production of fumagillin and pseurotin A was significantly reduced (p =0.0471 and p =0.0297, respectively) in A. fumigatus ∆gliT compared to wild-type (Figure 
+7). The methyltransferase, laeA, is a global regulator of secondary metabolism in A. fumigatus, which fully or partially regulates expression of multiple secondary metabolite gene clusters, including those encoding gliotoxin, helvolic acid, pseurotin A, fumagillin and fumitremorgin biosynthesis
+[26, 27, 32, 33]. Although dysregulation of secondary metabolite gene expression in A. fumigatus ∆gliT compared to A. fumigatus was observed after exposure to gliotoxin, laeA expression was not differentially regulated in A. fumigatus wild-type in exogenous gliotoxin presence, but was significantly down-regulated (p =0.015; log21.31-fold) in A. fumigatus ∆gliT under identical conditions. Although significantly down-regulated, it was outside the cut-off of log21.5-fold change. qRT-PCR analysis for A. fumigatus laeA did not show any differential regulation in either A. fumigatus wild-type or A. fumigatus ∆gliT when challenged with exogenous gliotoxin (Figure 
+5). This suggests that laeA expression is not solely responsible for the altered expression of secondary metabolite genes, particularly in A. fumigatus ∆gliT when it is exposed to exogenous gliotoxin. Expression of A. fumigatus gliT in ∆laeA
+[32] exposed to exogenous gliotoxin for 3 h was analysed. A. fumigatus gliT expression increased following exogenous gliotoxin exposure in ∆laeA (Figure 
+8) indicating that loss of laeA does not affect gliT expression in the presence of exogenous gliotoxin. Recently, the global regulatory velvet gene, A. fumigatus veA, has been implicated in secondary metabolite biosynthesis regulation, particularly with respect to gliotoxin
+[20] and fumagillin
+[22]. However, from the data presented here, A. fumigatus veA is not differentially regulated in either A. fumigatus wild-type or A. fumigatus ∆gliT in exogenous gliotoxin presence. A. fumigatus gliT expression in A. fumigatus ∆veA
+[34] was assessed following exposure to exogenous gliotoxin and was increased in ∆veA in the presence of exogenous gliotoxin (Figure 
+8). A. fumigatus gliT expression was higher in the methanol control (Figure 
+8) compared to the other mutants under the same conditions. Expression of A. fumigatus gliT in ∆veA grown in media only was lower than the methanol control (data not shown), suggesting that methanol induced increased gliT expression in A. fumigatus ∆veA. The increased gliT expression in A. fumigatus ∆veA following methanol addition was only observed in this strain, and was not observed in other deletion strains generated in this background (e.g. ∆laeA).Figure 8
+qRT-PCR analysis of
+A. fumigatus gliT
+expression in
+A. fumigatus
+∆
+fmaA
+(A), ∆
+psoA
+(B), ∆
+laeA
+(C), ∆
+fapR
+(D) and ∆
+veA
+(E) exposed to exogenous gliotoxin. Figure 8
+qRT-PCR analysis of
+A. fumigatus gliT
+expression in
+A. fumigatus
+∆
+fmaA
+(A), ∆
+psoA
+(B), ∆
+laeA
+(C), ∆
+fapR
+(D) and ∆
+veA
+(E) exposed to exogenous gliotoxin. qRT-PCR analysis of
+A. fumigatus gliT
+expression in
+A. fumigatus
+∆
+fmaA
+(A), ∆
+psoA
+(B), ∆
+laeA
+(C), ∆
+fapR
+(D) and ∆
+veA
+(E) exposed to exogenous gliotoxin. The expression of A. fumigatus gliT was also investigated in deletion mutants with abrogated fumitremorgin B, fumagillin and pseurotin A production namely, A. fumigatus ∆fapR, ∆fmaA and ∆psoA, respectively
+[27]. As was the case in A. fumigatus laeA, expression of A. fumigatus gliT increased in these mutants following exogenous gliotoxin exposure (Figure 
+8) indicating that loss of production of these metabolites does not affect gliT expression. Siderophore-iron transport and siderophore biosynthesis is affected by exogenous gliotoxin and to a greater extent in A. fumigatus∆gliT Functional classification of the differentially regulated gene set revealed an enrichment of genes involved in siderophore-iron transport in both A. fumigatus wild-type and A. fumigatus ∆gliT when exposed to exogenous gliotoxin. In A. fumigatus wild-type exposed to exogenous gliotoxin, expression of six siderophore-iron transport genes was up-regulated, while in A. fumigatus ∆gliT, expression of two siderophore-iron transport genes was up-regulated and 12 genes are down-regulated (Table 
+3). A. fumigatus sidF was de novo expressed in A. fumigatus wild-type upon exposure to exogenous gliotoxin. Expression of A. fumigatus mirD was up-regulated in both A. fumigatus wild-type (log2 2.57-fold) and A. fumigatus ∆gliT (log2 3.07-fold) in exogenous gliotoxin presence. Interestingly, three genes that were significantly up-regulated in A. fumigatus wild-type exposed to exogenous gliotoxin were significantly down-regulated in A. fumigatus ∆gliT, when challenged with exogenous gliotoxin. A. fumigatus fre7 was significantly up-regulated log2 2.80-fold in A. fumigatus wild-type, but significantly down-regulated log2 2.77-fold in A. fumigatus ∆gliT. AFUA_3G13670 and AFUA_3G13700, significantly up-regulated log2 7.03- and log2 7.62-fold respectively, in A. fumigatus wild-type in exogenous gliotoxin presence, were significantly down-regulated upon exogenous gliotoxin exposure log2 7.06- and log2 7.82-fold in A. fumigatus ∆gliT. Expression of AFUA_3G13700 in both A. fumigatus wild-type and ∆gliT exposed to exogenous gliotoxin, was confirmed by qRT-PCR (Figure 
+5).Table 3
+Log
+2
+(fold change) in siderophore-iron transport gene and siderophore biosynthetic gene expression in
+A. fumigatus
+wild-type and ∆
+gliT
+exposed to exogenous gliotoxin
+Wild-type_Glio v Wild-type_MeOH∆gliT_Glio v ∆gliT_MeOH   GeneGene nameLog2(fold change)q valueLog2(fold change)q value
+Siderophore biosynthesis genes
+AFUA_1G17190
+sidI
+2.3931.0000.8591.000AFUA_1G04450
+sidL
+−0.1560.969−0.1480.798AFUA_1G17200
+sidC
+1.2470.105−0.2320.694AFUA_2G07680
+sidA
+1.0660.1552.1570.0005AFUA_2G08590
+pptA
+0.5340.7380.8540.143AFUA_3G03400
+sidF
+Presenta
+0.0054.9680.227AFUA_3G03410
+sidH
+3.0130.172Presentb
+0.0005AFUA_3G03420
+sidD
+4.6571.0002.8151.000AFUA_3G03650
+sidG
+Presenta
+1.000Presentb
+1.000AFUA_3G03660
+estB
+1.1131.0005.8520.308AFUA_5G11260
+sreA
+−0.7400.510−1.1520.014
+Siderophore-iron transport genes
+AFUA_1G01430-−1.3710.080−2.5610.0005AFUA_1G14340-0.2060.957−3.1970.0005AFUA_1G16040-0.0810.990−2.1150.004AFUA_2G01270-0.0110.997−1.6050.031AFUA_3G01360-0.2510.969−2.7780.045AFUA_3G02670-−1.5060.054−2.5140.0005AFUA_3G03400
+sidF
+Presenta
+0.0054.9680.227AFUA_3G03440
+mirD
+2.5690.0053.0750.0005AFUA_3G13670
+-
+7.0330.005−7.0580.0005AFUA_3G13700
+-
+7.6190.005−7.8240.0005AFUA_4G03940
+fre7
+2.8030.005−2.7650.005AFUA_6G02170-−1.0260.189−3.8200.0005AFUA_6G02820-0.2900.926−2.3960.0005AFUA_6G13750-2.2560.005−0.9980.146AFUA_7G06060
+sit1
+0.9270.3062.7850.0005AFUA_8G06210-Presenta
+1.000Absentc
+0.0005
+a Switched on in ATCC46645_Glio, b switched on in ∆gliT_Glio, cGene expression absent in ∆gliT_Glio. Log
+2
+(fold change) in siderophore-iron transport gene and siderophore biosynthetic gene expression in
+A. fumigatus
+wild-type and ∆
+gliT
+exposed to exogenous gliotoxin Wild-type_Glio v Wild-type_MeOH ∆gliT_Glio v ∆gliT_MeOH. Gene Gene name Log2(fold change) q value Log2(fold change) q value. Siderophore biosynthesis genes. AFUA_1G17190 sidI 2.393 1.000 0.859 1.000. AFUA_1G04450 sidL −0.156 0.969 −0.148 0.798. AFUA_1G17200 sidC 1.247 0.105 −0.232 0.694. AFUA_2G07680 sidA 1.066 0.155 2.157 0.0005. AFUA_2G08590 pptA 0.534 0.738 0.854 0.143. AFUA_3G03400 sidF Presenta 0.005 4.968 0.227. AFUA_3G03410 sidH 3.013 0.172 Presentb 0.0005. AFUA_3G03420 sidD 4.657 1.000 2.815 1.000. AFUA_3G03650 sidG Presenta 1.000 Presentb 1.000. AFUA_3G03660 estB 1.113 1.000 5.852 0.308. AFUA_5G11260 sreA −0.740 0.510 −1.152 0.014. Siderophore-iron transport genes. AFUA_1G01430 - −1.371 0.080 −2.561 0.0005. AFUA_1G14340 - 0.206 0.957 −3.197 0.0005. AFUA_1G16040 - 0.081 0.990 −2.115 0.004. AFUA_2G01270 - 0.011 0.997 −1.605 0.031. AFUA_3G01360 - 0.251 0.969 −2.778 0.045. AFUA_3G02670 - −1.506 0.054 −2.514 0.0005. AFUA_3G03400 sidF Presenta 0.005 4.968 0.227. AFUA_3G03440 mirD 2.569 0.005 3.075 0.0005. AFUA_3G13670 - 7.033 0.005 −7.058 0.0005. AFUA_3G13700 - 7.619 0.005 −7.824 0.0005. AFUA_4G03940 fre7 2.803 0.005 −2.765 0.005. AFUA_6G02170 - −1.026 0.189 −3.820 0.0005. AFUA_6G02820 - 0.290 0.926 −2.396 0.0005. AFUA_6G13750 - 2.256 0.005 −0.998 0.146. AFUA_7G06060 sit1 0.927 0.306 2.785 0.0005. AFUA_8G06210 - Presenta 1.000 Absentc 0.0005. a Switched on in ATCC46645_Glio, b switched on in ∆gliT_Glio, cGene expression absent in ∆gliT_Glio. The observed differential regulation of genes involved in siderophore-iron transport prompted us to review whether expression of siderophore biosynthetic genes
+[35] was affected by exogenous gliotoxin in A. fumigatus wild-type and A. fumigatus ∆gliT. Indeed we have already noted that sidF expression, a transacylase that transfers anhydromevalonyl to hydroxyornithine during extracellular siderophore biosynthesis
+[36], was activated in A. fumigatus wild-type following exogenous gliotoxin exposure. In A. fumigatus ∆gliT, expression of two genes involved in siderophore biosynthesis was differentially regulated in response to exogenous gliotoxin (Table 
+3). A. fumigatus sidH, involved in providing the anhydromevalonyl-CoA moiety for extracellular siderophore biosynthesis
+[37], was de novo expressed while A. fumigatus sidA, which is required for the first step of siderophore biosynthesis
+[38], was significantly up-regulated log2 2.16-fold (p =0.0005). qRT-PCR analysis of the expression of A. fumigatus sidH confirmed the increased expression in A. fumigatus ∆gliT following exogenous gliotoxin exposure (Figure 
+5). Nitrogen metabolism is down-regulated in A. fumigatus∆gliTin response to exogenous gliotoxin In A. fumigatus ∆gliT exposed to exogenous gliotoxin, expression of 55 genes involved in nitrogen metabolism was down-regulated, while expression of 4 genes was up-regulated (Table 
+4). In contrast, 3 genes were up-regulated in A. fumigatus wild-type and 8 genes were down-regulated in response to exogenous gliotoxin (Table 
+4). In A. fumigatus ∆gliT, expression of two genes, cyp5081B1, a putative cytochrome P450 monooxygenase already mentioned in helvolic acid biosynthesis
+[25], and AFUA_6G00412, predicted to have amino acid transmembrane transporter activity
+[39] was completely abrogated in response to exogenous gliotoxin. Expression of A. fumigatus optB and cpsI, which are induced when BSA is the sole nitrogen source
+[40], was down-regulated log2 5.399- and log2 3.98-fold, respectively, in A. fumigatus ∆gliT exposed to exogenous gliotoxin. The decreased expression of A. fumigatus optB in A. fumigatus ∆gliT exposed to exogenous gliotoxin was confirmed by qRT-PCR (Figure 
+5). When utilising complex nitrogen sources, A. fumigatus secretes proteases, and increases expression of amidase, aminotransferase, and amino acid and peptide transporter genes
+[40, 41]. These secreted proteases are regulated by a conserved regulatory factor, prtT
+[40, 41], which is decreased log2 3.66-fold in expression in ∆gliT but unchanged in wild-type following exogenous gliotoxin exposure. Indeed, further examination revealed decreased expression of 14 proteases, 3 amidases and 7 amino acid and peptide transporters in ∆gliT exposed to exogenous gliotoxin, while expression of one amidase, AFUA_5G09140, was increased log2 3.37-fold (Table 
+4). Expression of both nitrate transporters, crnA and nrtB, which are predicted gene pairs
+[42], was significantly down-regulated (log2 2.689- and log2 4.504-fold) in A. fumigatus ∆gliT upon exogenous gliotoxin exposure. Expression of a number of genes with predicted involvement in the oxidation-reduction process was down-regulated in A. fumigatus ∆gliT only following exogenous gliotoxin exposure. Among these genes were nitronate monooxygenases (AFUA_2G17430 and AFUA_4G07940 down-regulated log2 4.444- and log2 2.304-fold) and copper ion binding domain genes (AFUA_1G13440, AFUA_5G01470 and AFUA_5G07360; down-regulated log21.692-, log2 4.125- and log2 3.948-fold, respectively). In A. fumigatus wild-type exposed to exogenous gliotoxin, two predicted carbon-nitrogen ligases, AFUA_4G04160 and AFUA_4G04170, were down-regulated log2 1.926- and log2 2.622-fold, respectively. These carbon-nitrogen ligases are not differentially regulated in A. fumigatus ∆gliT upon exogenous gliotoxin exposure, suggesting that loss of gliT may hinder the down-regulation of these genes in response to gliotoxin.Table 4
+Log
+2
+(fold change) in nitrogen metabolic gene, protease gene, amidase gene and animo acid transporter gene expression in
+A. fumigatus
+wild-type and ∆
+gliT
+exposed to exogenous gliotoxin
+Wild-type_Glio v Wild-type_MeOH∆gliT_Glio v ∆gliT_MeOHGeneGene nameLog2(fold_change)q_valueLog2(fold_change)q_valueAFUA_1G02780
+-
+−2.0050.064−1.8390.004AFUA_1G04160
+-
+−1.7960.015−3.8340.0005AFUA_1G04560
+-
+−0.3640.922−2.1610.0005AFUA_1G11250
+-
+−0.6100.695−3.2250.0005AFUA_1G12850
+crnA
+0.2760.963−2.6890.002AFUA_1G13220
+-
+0.4550.835−3.2090.0005AFUA_1G17470
+nrtB
+−0.0980.990−4.5040.013AFUA_2G02020
+-
+−0.3660.962−4.4030.0005AFUA_2G02250
+-
+−0.5180.895−2.2760.007AFUA_2G03900
+-
+−0.3550.910−3.8940.0005AFUA_2G10520
+uaZ
+−0.7800.834−2.7930.002AFUA_2G10560
+-
+−0.1350.988−4.4500.0005AFUA_2G12900
+-
+−0.8220.556−1.5770.003AFUA_2G15240
+optB
+0.0020.999−5.3990.0005AFUA_2G17430
+-
+−0.6800.736−4.4440.005AFUA_3G07040
+cps1
+−0.1200.984−3.9800.0005AFUA_4G01230
+-
+−0.1490.973−4.1950.0005AFUA_4G03770
+-
+−1.0080.311−2.3290.0005AFUA_4G04160
+-
+−1.9260.033−0.5930.319AFUA_4G04170
+-
+−2.6220.005−0.8200.144AFUA_4G07940
+-
+−0.9430.527−2.3040.008AFUA_4G14790
+cyp5081B1
+1.9930.228Absenta
+0.0005AFUA_5G00710
+-
+0.6050.691−3.0210.0005AFUA_5G01360
+-
+−0.4980.891−3.7010.024AFUA_5G06230
+-
+−1.3550.503−4.9160.0005AFUA_5G07520
+-
+−0.3780.922−2.6540.014AFUA_5G13810
+-
+−0.4230.895−1.7150.029AFUA_5G15050
+-
+−1.5770.362−3.7830.010AFUA_6G00412
+-
+0.9151.000Absenta
+0.0005AFUA_6G01920
+-
+−1.0110.433−1.8870.004AFUA_6G02030
+-
+−0.3130.926−4.1940.0005AFUA_6G02210
+-
+−1.1360.161−3.4750.0005AFUA_6G05020
+-
+−0.8160.339−1.5100.002AFUA_6G08000
+gmdA
+−1.3320.293−2.2520.0005AFUA_6G10210
+-
+−0.6640.708−2.1530.0005AFUA_7G00910
+optH
+−0.1320.986−2.0890.007AFUA_7G01690
+-
+−1.3220.269−1.7530.0005AFUA_7G02070
+nfr1
+−0.4530.839−3.2500.0005AFUA_7G03850
+-
+−1.7760.018−3.6430.0005AFUA_8G00190
+ftmC
+−1.2780.205−5.6810.0005AFUA_8G01570
+-
+−1.1580.561−3.9790.003AFUA_8G01780
+-
+−1.1710.639−2.7580.036AFUA_8G04340
+-
+−0.3080.910−1.5300.001AFUA_8G05220
+-
+0.0480.996−2.9410.0005AFUA_8G06580
+-
+0.1180.988−4.5400.0005AFUA_1G13440
+-
+0.5200.792−1.6920.010AFUA_3G00680
+-
+−4.1220.005−1.9100.0005AFUA_3G14590
+-
+−2.5550.005−2.5180.0005AFUA_4G00630
+-
+−1.0780.246−3.1580.0005AFUA_4G09840
+-
+−1.8150.028−3.2530.0005AFUA_5G01470
+-
+−0.7690.739−4.1250.001AFUA_5G07360
+-
+−1.7680.138−3.9480.0005AFUA_7G04180
+-
+−3.7960.005−0.9130.156AFUA_8G01580
+-
+−1.3240.074−5.5530.0005AFUA_8G06470
+-
+−0.0770.990−4.6630.0005AFUA_5G01450
+-
+−1.2590.122−5.9730.0005AFUA_5G08910
+-
+−1.1620.102−3.4910.0005AFUA_7G06270
+-
+−1.0380.309−2.5810.0005AFUA_1G10820
+-
+0.8460.3111.7300.0005AFUA_2G15590
+-
+1.1730.1302.5590.0005AFUA_3G06540
+met16
+−0.2760.9423.0290.0005AFUA_6G08920
+-
+−0.5700.7162.0190.0005AFUA_4G01440
+-
+2.6550.018−1.6250.251AFUA_5G01662
+-
+2.6260.005−0.0250.974AFUA_7G05500
+gstB
+1.9910.005−1.2280.021AFUA_2G09030
+dppV
+0.4110.814−4.4420.0005AFUA_4G09320
+dppIV
+1.2020.347−6.6950.0005AFUA_3G00650
+lap2
+−0.0650.990−1.6080.008AFUA_2G07500
+pepP
+−0.7900.447−1.9330.0005AFUA_4G03490
+-
+−0.8450.649−2.5460.0005AFUA_2G17330
+-
+−0.5430.707−1.7190.001AFUA_2G01250
+-
+−0.6830.745−1.9890.0005AFUA_6G13540
+cp3
+−0.4740.839−1.5490.008AFUA_6G00310
+cpdS
+−0.7480.531−3.9760.0005AFUA_5G13300
+pep1
+−0.8330.678−4.3570.0005AFUA_3G02970
+gprA
+−0.2280.979−5.1190.0005AFUA_5G01200
+cp6
+−0.6210.834−4.9320.0005AFUA_8G00410
+metAP
+−0.1130.987−5.1960.0005AFUA_5G09140
+-
+−0.4430.9103.3720.002AFUA_5G02990
+-
+−0.8050.512−4.0470.0005AFUA_1G09120
+-
+−0.2720.962−2.9850.002AFUA_8G00800
+-
+0.6410.899−6.7950.0005AFUA_1G12240
+-
+0.3470.964−5.1610.0005AFUA_8G02550
+-
+0.5640.819−8.3050.003AFUA_7G04290
+-
+−0.4640.910−2.3550.0005AFUA_8G05860
+-
+−0.4630.861−2.0990.003
+aGene expression absent in ∆gliT_Glio. Log
+2
+(fold change) in nitrogen metabolic gene, protease gene, amidase gene and animo acid transporter gene expression in
+A. fumigatus
+wild-type and ∆
+gliT
+exposed to exogenous gliotoxin Wild-type_Glio v Wild-type_MeOH ∆gliT_Glio v ∆gliT_MeOH. Gene Gene name Log2(fold_change) q_value Log2(fold_change) q_value. AFUA_1G02780 - −2.005 0.064 −1.839 0.004. AFUA_1G04160 - −1.796 0.015 −3.834 0.0005. AFUA_1G04560 - −0.364 0.922 −2.161 0.0005. AFUA_1G11250 - −0.610 0.695 −3.225 0.0005. AFUA_1G12850 crnA 0.276 0.963 −2.689 0.002. AFUA_1G13220 - 0.455 0.835 −3.209 0.0005. AFUA_1G17470 nrtB −0.098 0.990 −4.504 0.013. AFUA_2G02020 - −0.366 0.962 −4.403 0.0005. AFUA_2G02250 - −0.518 0.895 −2.276 0.007. AFUA_2G03900 - −0.355 0.910 −3.894 0.0005. AFUA_2G10520 uaZ −0.780 0.834 −2.793 0.002. AFUA_2G10560 - −0.135 0.988 −4.450 0.0005. AFUA_2G12900 - −0.822 0.556 −1.577 0.003. AFUA_2G15240 optB 0.002 0.999 −5.399 0.0005. AFUA_2G17430 - −0.680 0.736 −4.444 0.005. AFUA_3G07040 cps1 −0.120 0.984 −3.980 0.0005. AFUA_4G01230 - −0.149 0.973 −4.195 0.0005. AFUA_4G03770 - −1.008 0.311 −2.329 0.0005. AFUA_4G04160 - −1.926 0.033 −0.593 0.319. AFUA_4G04170 - −2.622 0.005 −0.820 0.144. AFUA_4G07940 - −0.943 0.527 −2.304 0.008. AFUA_4G14790 cyp5081B1 1.993 0.228 Absenta 0.0005. AFUA_5G00710 - 0.605 0.691 −3.021 0.0005. AFUA_5G01360 - −0.498 0.891 −3.701 0.024. AFUA_5G06230 - −1.355 0.503 −4.916 0.0005. AFUA_5G07520 - −0.378 0.922 −2.654 0.014. AFUA_5G13810 - −0.423 0.895 −1.715 0.029. AFUA_5G15050 - −1.577 0.362 −3.783 0.010. AFUA_6G00412 - 0.915 1.000 Absenta 0.0005. AFUA_6G01920 - −1.011 0.433 −1.887 0.004. AFUA_6G02030 - −0.313 0.926 −4.194 0.0005. AFUA_6G02210 - −1.136 0.161 −3.475 0.0005. AFUA_6G05020 - −0.816 0.339 −1.510 0.002. AFUA_6G08000 gmdA −1.332 0.293 −2.252 0.0005. AFUA_6G10210 - −0.664 0.708 −2.153 0.0005. AFUA_7G00910 optH −0.132 0.986 −2.089 0.007. AFUA_7G01690 - −1.322 0.269 −1.753 0.0005. AFUA_7G02070 nfr1 −0.453 0.839 −3.250 0.0005. AFUA_7G03850 - −1.776 0.018 −3.643 0.0005. AFUA_8G00190 ftmC −1.278 0.205 −5.681 0.0005. AFUA_8G01570 - −1.158 0.561 −3.979 0.003. AFUA_8G01780 - −1.171 0.639 −2.758 0.036. AFUA_8G04340 - −0.308 0.910 −1.530 0.001. AFUA_8G05220 - 0.048 0.996 −2.941 0.0005. AFUA_8G06580 - 0.118 0.988 −4.540 0.0005. AFUA_1G13440 - 0.520 0.792 −1.692 0.010. AFUA_3G00680 - −4.122 0.005 −1.910 0.0005. AFUA_3G14590 - −2.555 0.005 −2.518 0.0005. AFUA_4G00630 - −1.078 0.246 −3.158 0.0005. AFUA_4G09840 - −1.815 0.028 −3.253 0.0005. AFUA_5G01470 - −0.769 0.739 −4.125 0.001. AFUA_5G07360 - −1.768 0.138 −3.948 0.0005. AFUA_7G04180 - −3.796 0.005 −0.913 0.156. AFUA_8G01580 - −1.324 0.074 −5.553 0.0005. AFUA_8G06470 - −0.077 0.990 −4.663 0.0005. AFUA_5G01450 - −1.259 0.122 −5.973 0.0005. AFUA_5G08910 - −1.162 0.102 −3.491 0.0005. AFUA_7G06270 - −1.038 0.309 −2.581 0.0005. AFUA_1G10820 - 0.846 0.311 1.730 0.0005. AFUA_2G15590 - 1.173 0.130 2.559 0.0005. AFUA_3G06540 met16 −0.276 0.942 3.029 0.0005. AFUA_6G08920 - −0.570 0.716 2.019 0.0005. AFUA_4G01440 - 2.655 0.018 −1.625 0.251. AFUA_5G01662 - 2.626 0.005 −0.025 0.974. AFUA_7G05500 gstB 1.991 0.005 −1.228 0.021. AFUA_2G09030 dppV 0.411 0.814 −4.442 0.0005. AFUA_4G09320 dppIV 1.202 0.347 −6.695 0.0005. AFUA_3G00650 lap2 −0.065 0.990 −1.608 0.008. AFUA_2G07500 pepP −0.790 0.447 −1.933 0.0005. AFUA_4G03490 - −0.845 0.649 −2.546 0.0005. AFUA_2G17330 - −0.543 0.707 −1.719 0.001. AFUA_2G01250 - −0.683 0.745 −1.989 0.0005. AFUA_6G13540 cp3 −0.474 0.839 −1.549 0.008. AFUA_6G00310 cpdS −0.748 0.531 −3.976 0.0005. AFUA_5G13300 pep1 −0.833 0.678 −4.357 0.0005. AFUA_3G02970 gprA −0.228 0.979 −5.119 0.0005. AFUA_5G01200 cp6 −0.621 0.834 −4.932 0.0005. AFUA_8G00410 metAP −0.113 0.987 −5.196 0.0005. AFUA_5G09140 - −0.443 0.910 3.372 0.002. AFUA_5G02990 - −0.805 0.512 −4.047 0.0005. AFUA_1G09120 - −0.272 0.962 −2.985 0.002. AFUA_8G00800 - 0.641 0.899 −6.795 0.0005. AFUA_1G12240 - 0.347 0.964 −5.161 0.0005. AFUA_8G02550 - 0.564 0.819 −8.305 0.003. AFUA_7G04290 - −0.464 0.910 −2.355 0.0005. AFUA_8G05860 - −0.463 0.861 −2.099 0.003. aGene expression absent in ∆gliT_Glio. Exogenous gliotoxin exposure alters gene expression involved in ribosome biogenesis and translation in A. fumigatus∆gliTwhile transcription related genes are down-regulated Dysregulation of ribosome biogenesis and translation was observed in A. fumigatus ∆gliT following exogenous gliotoxin exposure, whereby expression of 20 genes was up-regulated and two genes down-regulated (Table 
+5). Of the 20 genes up-regulated in A. fumigatus ∆gliT in response to exogenous gliotoxin, 7 genes encode 60S ribosomal proteins and two encode 40S ribosomal proteins, all of which are increased log21.5-1.7-fold in expression (Table 
+5). The two genes down-regulated in response to exogenous gliotoxin in A. fumigatus ∆gliT have already been mentioned as secondary metabolite biosynthetic genes. A. fumigatus metAP in the fumagillin biosynthetic gene cluster
+[30] was down-regulated log2 4.340-fold and A. fumigatus elfB in the pseurotin A biosynthetic gene cluster was down-regulated log2 7.265-fold
+[27, 31]. In contrast to A. fumigatus ∆gliT, only two genes involved in ribosome biogenesis and translation were up-regulated in A. fumigatus wild-type exposed to exogenous gliotoxin (Table 
+5). AFUA_5G07340 was up-regulated log2 1.909-fold while AFUA_2G12150 was up-regulated log2 2.417-fold. In addition to the dysregulation of ribosome biogenesis and translation, 44 genes involved in transcription were also down-regulated in A. fumigatus ∆gliT in response to exogenous gliotoxin, compared to 3 down-regulated genes in wild-type exposed to exogenous gliotoxin (Table 
+6). A proteomic investigation of A. fumigatus ∆gliTATCC26933 reflected this alteration in translation whereby 6 proteins were uniquely expressed or increased in abundance and 15 proteins were absent or decreased in abundance when exposed to exogenous gliotoxin (Tables 
+7 and
+8). Loss of GliT negatively impacts expression of genes involved in transcription processes and results in significantly decreased transcription of genes in the presence of exogenous gliotoxin, culminating in disruption of translation.Table 5
+Log
+2
+(fold change) in ribosome biogenesis and translation gene expression in
+A. fumigatus
+wild-type and ∆
+gliT
+exposed to exogenous gliotoxin
+Wild-type_Glio v Wild-type_MeOH∆gliT_Glio v ∆gliT_MeOHGeneGene nameLog2(fold_change)q_valueLog2(fold_change)q_valueAFUA_3G05600
+-
+1.1220.2281.6470.004AFUA_3G06760
+-
+1.2490.0751.7630.001AFUA_5G07340
+-
+1.9090.0120.2680.728AFUA_6G05200
+-
+1.0610.2271.5900.008AFUA_6G13250
+-
+1.2030.1171.6090.003AFUA_8G00410
+metAP
+−0.1130.987−4.3400.001AFUA_8G00580
+elfB
+0.3060.964−7.2650.003AFUA_2G09200
+-
+1.1000.1431.5100.003AFUA_3G07360
+-
+0.4920.7391.5060.004AFUA_1G12890
+-
+1.1910.2121.5950.006AFUA_1G15020
+-
+1.0360.2771.5450.008AFUA_2G10300
+-
+1.3530.0601.5370.004AFUA_2G12150
+-
+2.4170.0050.5610.422AFUA_3G08080
+-
+0.2140.9521.6550.001AFUA_4G07250
+-
+0.5990.5891.5720.002AFUA_4G07730
+-
+1.1900.1631.5920.004AFUA_4G11990
+-
+0.3090.8911.6820.001AFUA_5G05630
+-
+1.2220.1221.6610.002AFUA_5G06430
+-
+0.5590.6491.5010.002AFUA_6G02440
+-
+1.0060.2721.6580.002AFUA_6G02450
+-
+0.7140.4931.5640.003AFUA_6G11260
+-
+1.1050.2321.5320.008AFUA_6G12960
+-
+0.5210.6861.7210.001AFUA_2G10100
+aspf8
+1.2950.1381.5800.007Table 6
+Log
+2
+(fold change) in transcription gene expression in
+A. fumigatus
+wild-type and ∆
+gliT
+exposed to exogenous gliotoxin
+Wild-type_Glio v Wild-type_MeOH∆gliT_Glio v ∆gliT_MeOHGeneGene nameLog2(fold_change)q_valueLog2(fold_change)q_valueAFUA_4G11480
+-
+−0.7660.446−1.5320.003AFUA_6G05160
+azf1
+−1.5410.043−0.2510.753AFUA_6G12150
+-
+0.5020.913−6.2330.001AFUA_7G01340
+-
+0.0820.990−2.9820.001AFUA_4G02930
+-
+0.4500.796−1.9710.001AFUA_3G10120
+-
+−0.8190.488−1.6690.003AFUA_4G10110
+htfA
+0.1050.986−1.5650.012AFUA_1G10080
+zafA
+−0.4340.843−1.5350.001AFUA_1G01240
+-
+−0.5610.770−1.7020.025AFUA_1G14945
+-
+−0.8390.505−1.7540.026AFUA_2G04262
+-
+−1.6440.012−0.7590.171AFUA_2G11180
+flbA
+−0.1260.977−1.5110.003AFUA_3G03330
+-
+−2.1320.021−0.7390.221AFUA_5G03780
+-
+1.2770.320−2.8640.001AFUA_5G09720
+-
+−1.7800.086−1.5860.033AFUA_5G14530
+-
+0.1200.987−2.1660.010AFUA_8G01150
+-
+0.0370.997−3.3450.001AFUA_8G01940
+-
+−1.2480.221−1.8460.027AFUA_8G02720
+-
+−0.0320.997−1.8480.001AFUA_8G04130
+farB1
+−0.4960.798−1.8980.001AFUA_8G06460
+-
+−0.0050.998−1.7410.009AFUA_6G11740
+-
+−0.9190.475−7.1450.004AFUA_2G05180
+-
+−0.3610.891−3.8190.001AFUA_1G16600
+-
+−0.3430.964−4.4810.001AFUA_8G00280
+-
+−0.7200.574−1.8130.007Table 7
+Proteins with increased abundance in, or unique to,
+A. fumigatus
+∆
+gliT
+ATCC26933
+with gliotoxin compared to the methanol control
+Protein IDsLog2(fold increase)
+pvaluePeptidesSequence coverage [%]AFUA_6G06470UniqueN/A658.5AFUA_1G09510UniqueN/A234.5AFUA_4G03140UniqueN/A412.5AFUA_3G145402.2791.52E-02638.3AFUA_1G152701.1352.05E-023343.1AFUA_7G00350*1.1191.49E-02623.2*Gene expression also significantly up-regulated in RNA-seq analysis.Table 8
+Proteins with decreased abundance in, or absent from, ∆
+gliT
+ATCC26933
+with gliotoxin compared to the methanol control
+Protein IDsLog2(fold decrease)
+pvaluePeptidesSequence coverage [%]AFUA_3G00330*UniqueN/A636.2AFUA_5G14000*UniqueN/A761.3AFUA_1G10960UniqueN/A218.2AFUA_8G00540*3.0321.72E-023718.7AFUA_2G152902.7886.36E-04681.6AFUA_8G00440*2.4617.89E-041221.2AFUA_7G064202.4513.18E-031863.5AFUA_8G00550*2.0161.03E-021263.8AFUA_2G04060*1.7995.53E-031258.7AFUA_3G03350*1.6032.31E-035038.6AFUA_5G07170*1.3613.93E-02744.9AFUB_0449101.2341.02E-021661.3AFUA_1G010101.1284.74E-023326.4AFUA_8G055801.0911.12E-021143.2AFUA_6G101201.0722.60E-02946.4*Gene expression also significantly down-regulated in RNA-seq analysis. Log
+2
+(fold change) in ribosome biogenesis and translation gene expression in
+A. fumigatus
+wild-type and ∆
+gliT
+exposed to exogenous gliotoxin Wild-type_Glio v Wild-type_MeOH ∆gliT_Glio v ∆gliT_MeOH. Gene Gene name Log2(fold_change) q_value Log2(fold_change) q_value. AFUA_3G05600 - 1.122 0.228 1.647 0.004. AFUA_3G06760 - 1.249 0.075 1.763 0.001. AFUA_5G07340 - 1.909 0.012 0.268 0.728. AFUA_6G05200 - 1.061 0.227 1.590 0.008. AFUA_6G13250 - 1.203 0.117 1.609 0.003. AFUA_8G00410 metAP −0.113 0.987 −4.340 0.001. AFUA_8G00580 elfB 0.306 0.964 −7.265 0.003. AFUA_2G09200 - 1.100 0.143 1.510 0.003. AFUA_3G07360 - 0.492 0.739 1.506 0.004. AFUA_1G12890 - 1.191 0.212 1.595 0.006. AFUA_1G15020 - 1.036 0.277 1.545 0.008. AFUA_2G10300 - 1.353 0.060 1.537 0.004. AFUA_2G12150 - 2.417 0.005 0.561 0.422. AFUA_3G08080 - 0.214 0.952 1.655 0.001. AFUA_4G07250 - 0.599 0.589 1.572 0.002. AFUA_4G07730 - 1.190 0.163 1.592 0.004. AFUA_4G11990 - 0.309 0.891 1.682 0.001. AFUA_5G05630 - 1.222 0.122 1.661 0.002. AFUA_5G06430 - 0.559 0.649 1.501 0.002. AFUA_6G02440 - 1.006 0.272 1.658 0.002. AFUA_6G02450 - 0.714 0.493 1.564 0.003. AFUA_6G11260 - 1.105 0.232 1.532 0.008. AFUA_6G12960 - 0.521 0.686 1.721 0.001. AFUA_2G10100 aspf8 1.295 0.138 1.580 0.007. Log
+2
+(fold change) in transcription gene expression in
+A. fumigatus
+wild-type and ∆
+gliT
+exposed to exogenous gliotoxin Wild-type_Glio v Wild-type_MeOH ∆gliT_Glio v ∆gliT_MeOH. Gene Gene name Log2(fold_change) q_value Log2(fold_change) q_value. AFUA_4G11480 - −0.766 0.446 −1.532 0.003. AFUA_6G05160 azf1 −1.541 0.043 −0.251 0.753. AFUA_6G12150 - 0.502 0.913 −6.233 0.001. AFUA_7G01340 - 0.082 0.990 −2.982 0.001. AFUA_4G02930 - 0.450 0.796 −1.971 0.001. AFUA_3G10120 - −0.819 0.488 −1.669 0.003. AFUA_4G10110 htfA 0.105 0.986 −1.565 0.012. AFUA_1G10080 zafA −0.434 0.843 −1.535 0.001. AFUA_1G01240 - −0.561 0.770 −1.702 0.025. AFUA_1G14945 - −0.839 0.505 −1.754 0.026. AFUA_2G04262 - −1.644 0.012 −0.759 0.171. AFUA_2G11180 flbA −0.126 0.977 −1.511 0.003. AFUA_3G03330 - −2.132 0.021 −0.739 0.221. AFUA_5G03780 - 1.277 0.320 −2.864 0.001. AFUA_5G09720 - −1.780 0.086 −1.586 0.033. AFUA_5G14530 - 0.120 0.987 −2.166 0.010. AFUA_8G01150 - 0.037 0.997 −3.345 0.001. AFUA_8G01940 - −1.248 0.221 −1.846 0.027. AFUA_8G02720 - −0.032 0.997 −1.848 0.001. AFUA_8G04130 farB1 −0.496 0.798 −1.898 0.001. AFUA_8G06460 - −0.005 0.998 −1.741 0.009. AFUA_6G11740 - −0.919 0.475 −7.145 0.004. AFUA_2G05180 - −0.361 0.891 −3.819 0.001. AFUA_1G16600 - −0.343 0.964 −4.481 0.001. AFUA_8G00280 - −0.720 0.574 −1.813 0.007. Proteins with increased abundance in, or unique to,
+A. fumigatus
+∆
+gliT
+ATCC26933
+with gliotoxin compared to the methanol control Protein IDs Log2(fold increase) pvalue Peptides Sequence coverage [%]. AFUA_6G06470 Unique N/A 6 58.5. AFUA_1G09510 Unique N/A 2 34.5. AFUA_4G03140 Unique N/A 4 12.5. AFUA_3G14540 2.279 1.52E-02 6 38.3. AFUA_1G15270 1.135 2.05E-02 33 43.1. AFUA_7G00350* 1.119 1.49E-02 6 23.2. *Gene expression also significantly up-regulated in RNA-seq analysis. Proteins with decreased abundance in, or absent from, ∆
+gliT
+ATCC26933
+with gliotoxin compared to the methanol control Protein IDs Log2(fold decrease) pvalue Peptides Sequence coverage [%]. AFUA_3G00330* Unique N/A 6 36.2. AFUA_5G14000* Unique N/A 7 61.3. AFUA_1G10960 Unique N/A 2 18.2. AFUA_8G00540* 3.032 1.72E-02 37 18.7. AFUA_2G15290 2.788 6.36E-04 6 81.6. AFUA_8G00440* 2.461 7.89E-04 12 21.2. AFUA_7G06420 2.451 3.18E-03 18 63.5. AFUA_8G00550* 2.016 1.03E-02 12 63.8. AFUA_2G04060* 1.799 5.53E-03 12 58.7. AFUA_3G03350* 1.603 2.31E-03 50 38.6. AFUA_5G07170* 1.361 3.93E-02 7 44.9. AFUB_044910 1.234 1.02E-02 16 61.3. AFUA_1G01010 1.128 4.74E-02 33 26.4. AFUA_8G05580 1.091 1.12E-02 11 43.2. AFUA_6G10120 1.072 2.60E-02 9 46.4. *Gene expression also significantly down-regulated in RNA-seq analysis.

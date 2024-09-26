@@ -1,0 +1,402 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Microbiologyopen</journal-id><journal-id journal-id-type="iso-abbrev">Microbiologyopen</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-8827</journal-id><journal-id journal-id-type="publisher-id">MBO3</journal-id><journal-title-group><journal-title>MicrobiologyOpen</journal-title></journal-title-group><issn pub-type="epub">2045-8827</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4831472</article-id><article-id pub-id-type="pmid">26666990</article-id><article-id pub-id-type="doi">10.1002/mbo3.326</article-id><article-id pub-id-type="publisher-id">MBO3326</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Systematic analysis of the kalimantacin assembly line <styled-content style="fixed-case">NRPS</styled-content> module using an adapted targeted mutagenesis approach</article-title></title-group><contrib-group><contrib id="mbo3326-cr-0001" contrib-type="author"><name><surname>Uytterhoeven</surname><given-names>Birgit</given-names></name><xref ref-type="aff" rid="mbo3326-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mbo3326-cr-0002" contrib-type="author"><name><surname>Appermans</surname><given-names>Kenny</given-names></name><xref ref-type="aff" rid="mbo3326-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mbo3326-curr-0001">
+<sup>4</sup>
+</xref></contrib><contrib id="mbo3326-cr-0003" contrib-type="author"><name><surname>Song</surname><given-names>Lijiang</given-names></name><xref ref-type="aff" rid="mbo3326-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mbo3326-cr-0004" contrib-type="author"><name><surname>Masschelein</surname><given-names>Joleen</given-names></name><xref ref-type="aff" rid="mbo3326-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mbo3326-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mbo3326-cr-0005" contrib-type="author"><name><surname>Lathouwers</surname><given-names>Thomas</given-names></name><xref ref-type="aff" rid="mbo3326-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mbo3326-cr-0006" contrib-type="author"><name><surname>Michiels</surname><given-names>Chris W.</given-names></name><xref ref-type="aff" rid="mbo3326-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="mbo3326-cr-0007" contrib-type="author" corresp="yes"><name><surname>Lavigne</surname><given-names>Rob</given-names></name><xref ref-type="aff" rid="mbo3326-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="mbo3326-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Laboratory of Gene Technology</named-content><institution>KU Leuven</institution><named-content content-type="street">Kasteelpark Arenberg 21 box 2462</named-content><named-content content-type="city">Heverlee</named-content><named-content content-type="post-code">B&#x02010;3001</named-content><country country="BE">Belgium</country></aff><aff id="mbo3326-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Department of Chemistry</named-content><institution>University of Warwick</institution><named-content content-type="street">Gibbet Hill</named-content><named-content content-type="city">Coventry</named-content><named-content content-type="post-code">CV4 7AL</named-content><country country="GB">United Kingdom</country></aff><aff id="mbo3326-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Centre for Food and Microbial Technology</named-content><institution>KU Leuven</institution><named-content content-type="street">Kasteelpark Arenberg 23 box 2457</named-content><named-content content-type="city">Heverlee</named-content><named-content content-type="post-code">B&#x02010;3001</named-content><country country="BE">Belgium</country></aff><aff id="mbo3326-curr-0001"><label><sup>4</sup></label>Present address: <named-content content-type="organisation-division">Kenny Appermans</named-content><institution>Centre for Microbial and Plant genetics</institution><named-content content-type="street">Kasteelpark Arenberg 20, box 2460</named-content><named-content content-type="city">Heverlee</named-content><named-content content-type="post-code">B&#x02010;3001</named-content><country country="BE">Belgium</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Rob Lavigne, Laboratory of Gene Technology, KU Leuven, Kasteelpark Arenberg 21, box 2462, Heverlee, B&#x02010;3001, Belgium. Tel: +32 16 3 79524; Fax: +32 16 3 21965; E&#x02010;mail: <email>rob.lavigne@biw.kuleuven.be</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>12</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2016</year></pub-date><volume>5</volume><issue>2</issue><issue-id pub-id-type="doi">10.1002/mbo3.2016.5.issue-2</issue-id><fpage>279</fpage><lpage>286</lpage><history><date date-type="received"><day>02</day><month>9</month><year>2015</year></date><date date-type="rev-recd"><day>26</day><month>10</month><year>2015</year></date><date date-type="accepted"><day>04</day><month>11</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2016 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. <italic>MicrobiologyOpen</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:MBO3-5-279.pdf"/><abstract id="mbo3326-abs-0001"><title>Abstract</title><p>Kalimantacin is an antimicrobial compound with strong antistaphylococcal activity that is produced by a hybrid <italic>trans</italic>&#x02010;acyltransferase polyketide synthase/nonribosomal peptide synthetase system in <italic>Pseudomonas fluorescens </italic>
+<styled-content style="fixed-case">BCCM</styled-content>_<styled-content style="fixed-case">ID</styled-content>9359. We here present a systematic analysis of the substrate specificity of the glycine&#x02010;incorporating adenylation domain from the kalimantacin biosynthetic assembly line by a targeted mutagenesis approach. The specificity&#x02010;conferring code was adapted for use in <italic>Pseudomonas</italic> and mutated adenylation domain active site sequences were introduced in the kalimantacin gene cluster, using a newly adapted ligation independent cloning method. Antimicrobial activity screens and <styled-content style="fixed-case">LC</styled-content>&#x02010;<styled-content style="fixed-case">MS</styled-content> analyses revealed that the production of the kalimantacin analogues in the mutated strains was abolished. These results support the idea that further insight in the specificity of downstream domains in nonribosomal peptide synthetases and polyketide synthases is required to efficiently engineer these strains <italic>in vivo</italic>.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="mbo3326-kwd-0001">Adenylation domain</kwd><kwd id="mbo3326-kwd-0002">kalimantacin</kwd><kwd id="mbo3326-kwd-0003">ligation independent cloning</kwd><kwd id="mbo3326-kwd-0004">specificity&#x02010;conferring code</kwd></kwd-group><counts><page-count count="8"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>mbo3326</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.8.6 mode:remove_FC converted:09.04.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="mbo3326-cit-1001">
+<italic>MicrobiologyOpen</italic>
+<year>2016</year>; <volume>5</volume>(<issue>2</issue>): <fpage>279</fpage>&#x02013;<lpage>286</lpage>
+</mixed-citation>
+</p></notes></front><body><sec id="mbo3326-sec-0001"><title>Introduction</title><p>Nonribosomal peptides (NRPs) and polyketides (PKs) are two major classes of secondary metabolites with important therapeutic properties, such as antibiotic, antifungal, immunosuppressive, or antitumor activities. They are produced in bacteria and fungi by multimodular enzymatic assembly lines, known as nonribosomal peptide synthetases (NRPSs) and polyketide synthases (PKSs), respectively (Finking and Marahiel <xref rid="mbo3326-bib-0009" ref-type="ref">2004</xref>; Smith and Tsai <xref rid="mbo3326-bib-0019" ref-type="ref">2007</xref>). Due to similarities in their modular organization and biosynthetic strategies, PKSs and NRPSs are able to assemble into hybrid multienzyme complexes (Du et&#x000a0;al. <xref rid="mbo3326-bib-0005" ref-type="ref">2001</xref>). Kalimantacin, an antibiotic produced by <italic>Pseudomonas fluorescens</italic> BCCM_ID9359, is produced by such a hybrid NRPS&#x02010;PKS system and its biosynthetic pathway has been fully elucidated (Fig.&#x000a0;<xref rid="mbo3326-fig-0001" ref-type="fig">1</xref>) (Mattheus et&#x000a0;al. <xref rid="mbo3326-bib-0015" ref-type="ref">2010a</xref>). The kalimantacin enzymatic assembly line is composed of three polypeptides (Bat1, Bat2, and Bat3), harboring 11 <italic>trans</italic>&#x02010;acyltransferase (AT) PKS modules and one NRPS module. The latter incorporates glycine into the PK backbone and is situated in the first module of Bat2 (Bat2mod1). During and after assembly line biosynthesis, kalimantacin is modified by several <italic>trans</italic>&#x02010;acting tailoring enzymes (Fig.&#x000a0;<xref rid="mbo3326-fig-0001" ref-type="fig">1</xref>) (Mattheus et&#x000a0;al. <xref rid="mbo3326-bib-0015" ref-type="ref">2010a</xref>). Kalimantacin exerts strong antagonistic activity against staphylococci (MIC 0.05&#x000a0;<italic>&#x003bc;</italic>g/mL) and has moderate activity against enterobacteria (MIC 1&#x02013;10&#x000a0;<italic>&#x003bc;</italic>g/mL). It acts by inhibiting the trans&#x02010;2&#x02010;enoyl&#x02010; acyl carrier protein (ACP)&#x02010;reductase (FabI), an enzyme responsible for the final step in bacterial fatty acid biosynthesis (Mattheus et&#x000a0;al. <xref rid="mbo3326-bib-0016" ref-type="ref">2010b</xref>).</p><fig fig-type="Figure" xml:lang="en" id="mbo3326-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Biosynthetic pathway and structure of kalimantacin. Biosynthesis of kalimantacin is initiated in the loading module by the <italic>trans</italic>&#x02010;acting acyltransferase BatH, which loads an acetyl&#x02010;CoA unit onto the first <styled-content style="fixed-case">ACP</styled-content>. A second <italic>trans</italic>&#x02010;<styled-content style="fixed-case">AT</styled-content>, BatJ, selectively delivers malonyl&#x02010;CoA to the 11 remaining <styled-content style="fixed-case">PKS</styled-content>&#x02010;modules in the biosynthetic pathway. The <styled-content style="fixed-case">NRPS</styled-content>&#x02010;module in Bat2 incorporates a glycine residue into the growing intermediate. BatA&#x02010;E, BatK, BatF, and BatM perform several on&#x02010; and post&#x02010;<styled-content style="fixed-case">PKS</styled-content> tailoring reactions to produce the final bioactive compound. <styled-content style="fixed-case">KS</styled-content>, ketosynthase; <styled-content style="fixed-case">KR</styled-content>, ketoreductase; <styled-content style="fixed-case">DH</styled-content>, dehydratase; <styled-content style="fixed-case">ACP</styled-content>, acyl carrier protein; <styled-content style="fixed-case">MT</styled-content>, methyltransferase; C, condensation domain; A, adenylation domain; <styled-content style="fixed-case">PCP</styled-content>, peptidyl carrier protein; <styled-content style="fixed-case">TE</styled-content>, thioesterase; <styled-content style="fixed-case">AA</styled-content>, amino acid.</p></caption><graphic id="nlm-graphic-3" xlink:href="MBO3-5-279-g001"/></fig><p>Nonribosomal peptide synthetases (NRPS) modules typically consist of a condensation (C) domain for peptide bond formation, an adenylation (A) domain for selection and activation of the cognate amino acid (AA) building block and a thiolation (T) domain or peptidyl carrier protein (PCP) that covalently tethers the growing intermediate to the enzyme complex (Finking and Marahiel <xref rid="mbo3326-bib-0009" ref-type="ref">2004</xref>). NRPs exhibit a high structural diversity, which is partly determined by the substrate specificity of the A domains (Lautru and Challis <xref rid="mbo3326-bib-0014" ref-type="ref">2004</xref>). Aside from the 22 proteinogenic AA, A domains can additionally introduce nonproteinogenic AAs and <italic>&#x003b1;</italic>&#x02010;hydroxy acids as well as nonsubstituted carboxylic acids. The substrate&#x02010;binding pocket of A domains is lined by 10 AA residues that determine the nature of the AA that is incorporated into the NRP backbone. This specificity&#x02010;conferring code can be bioinformatically extracted and enables the structure prediction of new NRPs based on the genomic arrangement of the corresponding biosynthetic genes (Stachelhaus et&#x000a0;al. <xref rid="mbo3326-bib-0020" ref-type="ref">1999</xref>; Challis et&#x000a0;al. <xref rid="mbo3326-bib-0003" ref-type="ref">2000</xref>; R&#x000f6;ttig et&#x000a0;al. <xref rid="mbo3326-bib-0017" ref-type="ref">2011</xref>). This has already been exploited to rationally alter the specificity of A domains by targeted mutagenesis. So far, only relatively small changes in A domain specificity, for example, Asp to Asn, Glu to Gln, Phe to Tyr, have been achieved in <italic>in vitro</italic> experiments with purified mutant A domains (Stachelhaus et&#x000a0;al. <xref rid="mbo3326-bib-0020" ref-type="ref">1999</xref>; Eppelmann et&#x000a0;al. <xref rid="mbo3326-bib-0008" ref-type="ref">2002</xref>; Stevens et&#x000a0;al. <xref rid="mbo3326-bib-0021" ref-type="ref">2006</xref>). Recently, the Phe&#x02010;incorporating A domain of gramicidin synthetase (GrsA) has been successfully re&#x02010;engineered to introduce azide&#x02010; and alkyne&#x02010;substituted AA (Kries et&#x000a0;al. <xref rid="mbo3326-bib-0013" ref-type="ref">2014</xref>). Attempts to drastically change the substrate specificity have resulted in a decrease in the A domain activity (Chen et&#x000a0;al. <xref rid="mbo3326-bib-0004" ref-type="ref">2009</xref>). <italic>In vivo</italic> efforts to create NRP analogues with variations in AA composition by targeted mutagenesis of A domains appear to be even more challenging (Eppelmann et&#x000a0;al. <xref rid="mbo3326-bib-0008" ref-type="ref">2002</xref>; Uguru et&#x000a0;al. <xref rid="mbo3326-bib-0024" ref-type="ref">2004</xref>; Han et&#x000a0;al. <xref rid="mbo3326-bib-0010" ref-type="ref">2012</xref>; Thirlway et&#x000a0;al. <xref rid="mbo3326-bib-0023" ref-type="ref">2012</xref>). In this study, we attempted to rationally and systematically change the specificity of the glycine&#x02010;incorporating A domain in the NRPS module of the kalimantacin biosynthetic assembly line by using a new targeted mutagenesis approach and a specificity&#x02010;conferring code designed for use in <italic>Pseudomonas</italic>. The functionality and specificity of the mutated A domains were subsequently analyzed by ultrahigh&#x02010;resolution LC&#x02010;MS analysis of culture supernatants.</p></sec><sec id="mbo3326-sec-0002"><title>Experimental Procedures</title><sec id="mbo3326-sec-0003"><title>Bacterial strains and culture conditions</title><p>
+<italic>Pseudomonas fluorescens</italic> BCCM_ID9359 was used for wild&#x02010;type kalimantacin production and was grown in tryptose broth (Merck) or tryptose agar (tryptose broth supplemented with 1.5% w/v agar) at 30&#x000b0;C (Mattheus et&#x000a0;al. <xref rid="mbo3326-bib-0015" ref-type="ref">2010a</xref>). <italic>Escherichia coli</italic> Top10 (Invitrogen<sup>&#x02122;</sup>, Carlsbad, CA) was used for amplification of plasmids and cloning purposes, whereas <italic>E.&#x000a0;coli</italic> S17&#x02010;1 (Simon et&#x000a0;al. <xref rid="mbo3326-bib-0018" ref-type="ref">1983</xref>) was used for conjugational transfer to <italic>P.&#x000a0;fluorescens</italic> BCCM_ID9359. All <italic>E.&#x000a0;coli</italic> strains were grown in lysogeny broth (LB) or LB agar (LB broth with 1.5% w/v agar) at 37&#x000b0;C. Strains used in this study are listed in Table S2.</p></sec><sec id="mbo3326-sec-0004"><title>Construction of adenylation domain mutants</title><p>Plasmids and primers used in this study are listed in Table S2. First 5&#x02032; and 3&#x02032; flanking regions of the adenylation domain active site sequence were amplified with tailed primers introducing restriction sites and these fragments were restricted and ligated into pUC18 using T4 DNA ligase (Thermo scientific) following the manufacturer's protocols. The sequence of this construct was verified as described below. The mutated active site fragments were chemically synthesized at Integrated DNA Technologies (Haasrode, Belgium) and amplified for ligation independent cloning by <italic>pfu</italic> DNA polymerase (Thermo scientific, Waltham, MA).</p><p>The ligation independent cloning method was adapted from Thieme et&#x000a0;al. (<xref rid="mbo3326-bib-0022" ref-type="ref">2011</xref>). First, the pUC18 plasmid with 5&#x02032; and 3&#x02032; fragment was treated with PstI. A mixture of this linearized plasmid, the amplified synthetic DNA fragment, and T4 DNA polymerase was incubated for 5&#x000a0;min at 25&#x000b0;C, immediately followed by transformation of <italic>E.&#x000a0;coli</italic> Top10. The sequence of the resulting plasmids was verified by sequence analysis. The complete 5&#x02032;&#x02013;3&#x02032; construct with adapted adenylation domain sequence was then transferred from pUC18 to suicide plasmid pAKE604 (El&#x02010;Sayed et&#x000a0;al. <xref rid="mbo3326-bib-0007" ref-type="ref">2003</xref>) by regular restriction and ligation and again verified by sequence analysis.</p><p>To easily detect mutated active site introduction, a plasmid containing the 5&#x02032; and 3&#x02032; flanking sequences was constructed, flanking the gentamicin resistance gene. All fragments were amplified by tailed primers introducing restriction sites (as listed in Table S2). After restriction, they were ligated using T4 DNA ligase. The construct was verified by sequence analysis. This construct was introduced in the genome of <italic>P.&#x000a0;fluorescens</italic> BCCM_ID9359 by biparental conjugation with <italic>E.&#x000a0;coli</italic> S17&#x02010;1. Both strains were grown to late exponential phase and mixed on a sterile 0.45&#x000a0;<italic>&#x003bc;</italic>m Millipore filter on tryptose agar. After overnight incubation, the filter was washed with 1&#x000a0;mL 0.9% sodium chloride and plated on tryptose agar supplemented with kanamycin and triclosan to select for vector integration by a first crossover event. Next, colonies were incubated overnight in tryptose broth without any selection to enable vector excision and plated in serial dilutions on tryptose agar with 5% w/v sucrose. Colonies were then checked by replica plating on tryptose agar with gentamicin and tryptose agar with kanamycin. Gentamicin&#x02010;resistant, but kanamycin&#x02010;sensitive clones were verified by PCR with primers external of the 5&#x02032; and 3&#x02032; flanking region and the amplified region was then verified by sequence analysis.</p><p>Finally, to introduce the mutated active site sequence, the gentamicin&#x02010;resistant strain was used for another round of biparental conjugation with the mutated active site constructs in pAKE604 in <italic>E.&#x000a0;coli</italic> S17&#x02010;1. The same strategy was used as described above, selecting at the end for gentamicin&#x02010;sensitive clones. Again, the genome of the strain was verified by PCR with the external primers, followed by sequencing of this PCR product.</p></sec><sec id="mbo3326-sec-0005"><title>Sequence analysis of plasmids and genomic regions</title><p>Plasmids or PCR fragments of genomic regions were used in a Sanger sequencing reaction with Big Dye terminator mix (Applied biosystems, Waltham, MA) and the resulting mixture was purified by ethanol precipitation. Samples were run on an ABI 3130 genetic analyzer (Applied biosystems) and analyzed using Sequencer 4.8 software (GeneCodes Inc, Ann Arbor, MI).</p></sec><sec id="mbo3326-sec-0006"><title>Bioassay of strains and extracts</title><p>After large&#x02010;scale fermentation in 500&#x000a0;mL cultures, kalimantacin and analogues were extracted with chloroform, as described by Mattheus et&#x000a0;al. (<xref rid="mbo3326-bib-0015" ref-type="ref">2010a</xref>). The activity of the extracts was tested by spotting 2&#x000a0;<italic>&#x003bc;</italic>L of the extract on a lawn of <italic>Staphylococcus aureus</italic> ATCC27661 in stationary phase, diluted to an optical density at 600&#x000a0;nm of 0.03. Results were recorded after 12&#x000a0;h of incubation at 37&#x000b0;C. The activity of the mutant strains was evaluated by spotting 2&#x000a0;<italic>&#x003bc;</italic>L of an overnight culture on a similar lawn of <italic>S.&#x000a0;aureus</italic> ATCC27661. Plates were incubated for 48&#x000a0;h at 16&#x000b0;C, followed by 12&#x000a0;h at 37&#x000b0;C.</p></sec><sec id="mbo3326-sec-0007"><title>LC/MS analysis of kalimantacin production</title><p>After 24&#x000a0;h at 16&#x000b0;C, followed by 12&#x000a0;h at 4&#x000b0;C, the pH of 50&#x000a0;mL fermentation cultures was adjusted to pH 10 with formic acid. After centrifugation, 2&#x000a0;<italic>&#x003bc;</italic>L of the supernatant was analyzed directly with LC&#x02010;MS (column: Agilent Zorbax Eclipse RP&#x02010;C18, 100&#x000a0;&#x000d7;&#x000a0;2.1&#x000a0;mm, 1.8&#x000a0;<italic>&#x003bc;</italic>m). A Bruker MaXis Impact Q&#x02010;TOF mass spectrometer coupled with a Dionex 3000RS UHPLC was used. Mobile phases consist of A, water with 0.1% formic acid, and B, acetonitrile with 0.1% formic acid. After the initial 5&#x000a0;min of isocratic run at 5% B, a gradient of 5B&#x02013;100% B in 18&#x000a0;min, then isocratic at 100% B for 5&#x000a0;min was employed with flow rate at 0.2&#x000a0;mL/min; UV was set at 210&#x000a0;nm. The mass spectrometer was operated in electrospray positive mode with a scan range of 50&#x02013;3000&#x000a0;<italic>m/z</italic>. Source conditions are: end plate offset at &#x02212;500&#x000a0;V; capillary at &#x02212;4500&#x000a0;V; nebulizer gas (N2) at 1.4 bar; dry gas (N<sub>2</sub>) at 8&#x000a0;L/min; dry temperature at 180&#x000b0;C. Ion transfer conditions as, ion funnel 1&#x000a0;RF at 200&#x000a0;Vpp; ion funnel 2&#x000a0;RF at 200&#x000a0;Vpp, hexapole RF at 200&#x000a0;Vpp; quadruple ion energy at 5&#x000a0;ev, quadrupole low mass set at 55&#x000a0;<italic>m/z</italic>; collision energy at 5.0&#x000a0;ev; collision RF ramping from 800 to 1500&#x000a0;Vpp; transfer time set from 100 to 155&#x000a0;<italic>&#x003bc;</italic>sec; pre&#x02010;Pulse storage time set at 5&#x000a0;<italic>&#x003bc;</italic>sec. Calibration was done with sodium formate (10&#x000a0;m&#x000a0;mol/L) through a loop injection of 20&#x000a0;<italic>&#x003bc;</italic>L of standard solution at the beginning of each run.</p></sec></sec><sec id="mbo3326-sec-0008"><title>Results</title><sec id="mbo3326-sec-0009"><title>Generation of a <italic>Pseudomonas</italic>&#x02010;specific specificity&#x02010;conferring code</title><p>Research into the specificity&#x02010;conferring code of A domains has revealed that genus&#x02010;specific variations exist at specific positions in the code (Challis et&#x000a0;al. <xref rid="mbo3326-bib-0003" ref-type="ref">2000</xref>), which hint at &#x0201c;wobble&#x02010;like&#x0201d; positions (Stachelhaus et&#x000a0;al. <xref rid="mbo3326-bib-0020" ref-type="ref">1999</xref>). Therefore, we hypothesized that the specificity of mutated A domains can be improved by the use of a genus&#x02010;specific code. A literature wide study was performed, searching for NRPSs with characterized products in <italic>Pseudomonas</italic> spp. and the different specificity&#x02010;conferring codes of the A domains were extracted using NRPSpredictor2 (Table S1) (R&#x000f6;ttig et&#x000a0;al. <xref rid="mbo3326-bib-0017" ref-type="ref">2011</xref>). Since all of these codes were derived from <italic>Pseudomonas</italic> sequences, they were considered <italic>Pseudomonas</italic> specific, or at least compatible. For each position in the specificity&#x02010;conferring code, the most commonly encountered AA was selected and preference was given to AAs present in A domains from NRPSs in <italic>P.&#x000a0;fluorescens</italic> spp. As such, 10 specificity&#x02010;conferring codes were designed with the aim of replacing Gly in the final structure of kalimantacin with 10 alternative AAs, namely Ala, Leu, Val, Ser, Cys, Arg, Asp, Gln, Phe, and Pro, representing different natural AA classes (Table&#x000a0;<xref rid="mbo3326-tbl-0001" ref-type="table-wrap">1</xref>).</p><table-wrap id="mbo3326-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Overview of adapted specificity&#x02010;conferring codes for use in <italic>Pseudomonas</italic>
+<bold>.</bold> AA positions and the corresponding specificity&#x02010;conferring codes of the Phe&#x02010;incorporating A domain in GrsA and the Gly&#x02010;incorporating A domain in Bat2mod1 are illustrated. Codes were predicted by comparative analysis of A domain from different <italic>Pseudomonas</italic> NRPSs</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="2" valign="top" rowspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">AA1</th><th align="left" valign="top" rowspan="1" colspan="1">AA2</th><th align="left" valign="top" rowspan="1" colspan="1">AA3</th><th align="left" valign="top" rowspan="1" colspan="1">AA4</th><th align="left" valign="top" rowspan="1" colspan="1">AA5</th><th align="left" valign="top" rowspan="1" colspan="1">AA6</th><th align="left" valign="top" rowspan="1" colspan="1">AA7</th><th align="left" valign="top" rowspan="1" colspan="1">AA8</th><th align="left" valign="top" rowspan="1" colspan="1">AA9</th><th align="left" valign="top" rowspan="1" colspan="1">AA10</th></tr></thead><tbody><tr><td align="left" colspan="2" rowspan="1"/><td align="left" rowspan="1" colspan="1">235</td><td align="left" rowspan="1" colspan="1">236</td><td align="left" rowspan="1" colspan="1">239</td><td align="left" rowspan="1" colspan="1">278</td><td align="left" rowspan="1" colspan="1">299</td><td align="left" rowspan="1" colspan="1">301</td><td align="left" rowspan="1" colspan="1">322</td><td align="left" rowspan="1" colspan="1">330</td><td align="left" rowspan="1" colspan="1">331</td><td align="left" rowspan="1" colspan="1">517</td></tr><tr><td align="left" rowspan="1" colspan="1">Phe</td><td align="left" rowspan="1" colspan="1">grsA</td><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">W</td><td align="left" rowspan="1" colspan="1">T</td><td align="left" rowspan="1" colspan="1">I</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">I</td><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">K</td></tr><tr><td align="left" rowspan="1" colspan="1">Gly</td><td align="left" rowspan="1" colspan="1">bat2</td><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">I</td><td align="left" rowspan="1" colspan="1">L</td><td align="left" rowspan="1" colspan="1">Q</td><td align="left" rowspan="1" colspan="1">L</td><td align="left" rowspan="1" colspan="1">G</td><td align="left" rowspan="1" colspan="1">L</td><td align="left" rowspan="1" colspan="1">I</td><td align="left" rowspan="1" colspan="1">W</td><td align="left" rowspan="1" colspan="1">K</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">701</td><td align="left" rowspan="1" colspan="1">702</td><td align="left" rowspan="1" colspan="1">705</td><td align="left" rowspan="1" colspan="1">744</td><td align="left" rowspan="1" colspan="1">767</td><td align="left" rowspan="1" colspan="1">769</td><td align="left" rowspan="1" colspan="1">791</td><td align="left" rowspan="1" colspan="1">799</td><td align="left" rowspan="1" colspan="1">800</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">Ala</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">L</td><td align="left" rowspan="1" colspan="1">Y</td><td align="left" rowspan="1" colspan="1">N</td><td align="left" rowspan="1" colspan="1">N</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">L</td><td align="left" rowspan="1" colspan="1">T</td><td align="left" rowspan="1" colspan="1">Y</td><td align="left" rowspan="1" colspan="1">K</td></tr><tr><td align="left" rowspan="1" colspan="1">Leu</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">W</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">L</td><td align="left" rowspan="1" colspan="1">G</td><td align="left" rowspan="1" colspan="1">N</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">K</td></tr><tr><td align="left" rowspan="1" colspan="1">Val</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">L</td><td align="left" rowspan="1" colspan="1">W</td><td align="left" rowspan="1" colspan="1">I</td><td align="left" rowspan="1" colspan="1">G</td><td align="left" rowspan="1" colspan="1">G</td><td align="left" rowspan="1" colspan="1">T</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">K</td></tr><tr><td align="left" rowspan="1" colspan="1">Ser</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">W</td><td align="left" rowspan="1" colspan="1">H</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">S</td><td align="left" rowspan="1" colspan="1">L</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">K</td></tr><tr><td align="left" rowspan="1" colspan="1">Gln</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">W</td><td align="left" rowspan="1" colspan="1">Q</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">G</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">K</td></tr><tr><td align="left" rowspan="1" colspan="1">Cys</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">L</td><td align="left" rowspan="1" colspan="1">Y</td><td align="left" rowspan="1" colspan="1">N</td><td align="left" rowspan="1" colspan="1">L</td><td align="left" rowspan="1" colspan="1">S</td><td align="left" rowspan="1" colspan="1">P</td><td align="left" rowspan="1" colspan="1">I</td><td align="left" rowspan="1" colspan="1">W</td><td align="left" rowspan="1" colspan="1">K</td></tr><tr><td align="left" rowspan="1" colspan="1">Arg</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">G</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">I</td><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">K</td></tr><tr><td align="left" rowspan="1" colspan="1">Phe</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">P</td><td align="left" rowspan="1" colspan="1">I</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">G</td><td align="left" rowspan="1" colspan="1">G</td><td align="left" rowspan="1" colspan="1">T</td><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">K</td></tr><tr><td align="left" rowspan="1" colspan="1">Asp</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">S</td><td align="left" rowspan="1" colspan="1">W</td><td align="left" rowspan="1" colspan="1">K</td><td align="left" rowspan="1" colspan="1">L</td><td align="left" rowspan="1" colspan="1">G</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">K</td></tr><tr><td align="left" rowspan="1" colspan="1">Pro</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">Q</td><td align="left" rowspan="1" colspan="1">Y</td><td align="left" rowspan="1" colspan="1">I</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">H</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">K</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="mbo3326-sec-0010"><title>Ligation independent cloning enables efficient introduction of mutated active site fragments</title><p>To introduce these adapted specificity&#x02010;conferring codes in the A domain of Bat2mod1, the positions of the 10 AAs in Bat2mod1 that comprise the original code were identified by sequence alignments with the archetypic GrsA (Stachelhaus et&#x000a0;al. <xref rid="mbo3326-bib-0020" ref-type="ref">1999</xref>; Challis et&#x000a0;al. <xref rid="mbo3326-bib-0003" ref-type="ref">2000</xref>). Taking into account the codon usage of <italic>Pseudomonas protegens</italic> Pf5, DNA fragments encoding the altered specificity&#x02010;conferring codes were designed. The specificity of these A domains was verified with NRPSpredictor2, using the nearest neighbor method (R&#x000f6;ttig et&#x000a0;al. <xref rid="mbo3326-bib-0017" ref-type="ref">2011</xref>). All codes were predicted to introduce the intended AA with a score of 90%, except for Gln, which would be introduced with a predicted score of 60%. Chemically synthesized gene fragments containing the correct mutations were cloned into a pUC18 (Invitrogen<sup>&#x02122;</sup>) plasmid, containing the two flanking regions (&#x000b1;350 base pairs (bp) and 500&#x000a0;bp) of the mutated active site, using an adapted ligation independent cloning approach. An overlap of 12&#x000a0;bp between the flanking fragments and the synthetic DNA fragment allowed efficient ligation independent cloning, as illustrated in Figure&#x000a0;<xref rid="mbo3326-fig-0002" ref-type="fig">2</xref> (Thieme et&#x000a0;al. <xref rid="mbo3326-bib-0022" ref-type="ref">2011</xref>). Following sequence analysis, the complete fragment, comprising the 5&#x02032; and 3&#x02032; flanking regions and the mutated active site sequence, was transferred to suicide vector pAKE604 (El&#x02010;Sayed et&#x000a0;al. <xref rid="mbo3326-bib-0007" ref-type="ref">2003</xref>) via regular restriction and ligation.</p><fig fig-type="Figure" xml:lang="en" id="mbo3326-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Ligation independent cloning strategy. Flanking regions (350&#x000a0;bp and 500&#x000a0;bp) of the 10 <styled-content style="fixed-case">AA</styled-content> containing active site were amplified from genomic <styled-content style="fixed-case">DNA</styled-content> with tailed primers, introducing restriction sites that enabled restriction and ligation into the <styled-content style="fixed-case">pUC</styled-content>18. After restriction with PstI, a mixture of linear plasmid <styled-content style="fixed-case">DNA</styled-content>, amplified synthetic <styled-content style="fixed-case">DNA</styled-content> fragment and T4 <styled-content style="fixed-case">DNA</styled-content> polymerase was prepared, as proposed by Thieme <italic>et&#x000a0;al</italic>. (<xref rid="mbo3326-bib-0022" ref-type="ref">2011</xref>). The mixture was incubated at 25&#x000b0;C for 5&#x000a0;min, and subsequently used for transformation of <italic>E.&#x000a0;coli</italic> Top10 cells (Invitrogen<sup>&#x02122;</sup>). Correct constructs were obtained with very high efficiencies (80&#x02013;95%).</p></caption><graphic id="nlm-graphic-5" xlink:href="MBO3-5-279-g002"/></fig><p>To facilitate the introduction of the mutated active site sequences in <italic>bat2</italic> in <italic>P.&#x000a0;fluorescens</italic> BCCM_ID9359, the 400&#x000a0;bp genomic fragment, targeted for mutation, was first replaced by a gentamicin resistance cassette via double homologous recombination. Next, the vector carrying the mutated active site and flanking regions was introduced into this gentamicin&#x02010;resistant <italic>P.&#x000a0;fluorescens</italic> mutant via conjugation and a first crossover event, enabling exchange of the resistance cassette with the active site via a second crossover event.</p><p>PCR and sequence analysis of the constructed plasmids revealed a very high efficiency for the ligation&#x02010;independent cloning method (80&#x02013;95%). Recombination of these plasmids and the gentamicin&#x02010;resistant strains, using 5&#x02032; 350&#x000a0;bp and 3&#x02032; 500&#x000a0;bp homologous regions, resulted in one gentamicin&#x02010;sensitive clone out of five tested clones. Sequence analysis of these strains indicated that all gentamicin&#x02010;sensitive strains had incorporated the mutated active site sequence without errors. As a positive control, the WT active site sequence was also reintroduced in the gentamicin&#x02010;resistant strain.</p></sec><sec id="mbo3326-sec-0011"><title>Bioassay and LC&#x02010;MS analyses show the absence of production of kalimantacin analogues</title><p>Bioassays with the mutant strains and the crude extracts of large&#x02010;scale fermentations on a lawn of <italic>S.&#x000a0;aureus</italic> ATCC27661 cells revealed a clear decrease in activity for all of the mutants, comparable to the activity of the <italic>batC</italic> deletion mutant, which no longer produces kalimantacin, and its extract (Mattheus et&#x000a0;al. <xref rid="mbo3326-bib-0015" ref-type="ref">2010a</xref>). The positive control showed WT activity again (Fig.&#x000a0;<xref rid="mbo3326-fig-0003" ref-type="fig">3</xref>). To determine if the decrease in activity is due to low or abolished antibiotic production or to production of an inactive kalimantacin analogue, culture supernatants were analyzed by ultrahigh&#x02010;resolution LC&#x02010;MS. In the supernatant of the WT sample, the <italic>m/z</italic> value corresponding to the WT mass could be easily detected. The noise level was in the 100&#x02013;200 counts range. However, in the supernatant of the mutated strains, no metabolites with <italic>m/z</italic> values corresponding to kalimantacin or kalimantacin analogues with the expected AA substitutions could be detected (Fig. S1, S2).</p><fig fig-type="Figure" xml:lang="en" id="mbo3326-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Bioassay with kalimantacin and analogues. (A). Halo formation by extracts of <italic>Pseudomonas fluorescens </italic>
+<styled-content style="fixed-case">BCCM</styled-content>_<styled-content style="fixed-case">ID</styled-content>9359 wild&#x02010;type and mutant strains. 2&#x000a0;&#x003bc;L of crude extract was spotted on a lawn of <italic>S. aureus </italic>
+<styled-content style="fixed-case">ATCC</styled-content>27661 (<styled-content style="fixed-case">OD</styled-content>
+<sub>600</sub>&#x000a0;=&#x000a0;0.03) and incubated overnight at 37&#x000b0;C. (B). Halo formation by the wild&#x02010;type and engineered strains. 2&#x000a0;&#x003bc;L of an overnight culture was spotted on a lawn of <italic>S.&#x000a0;aureus </italic>
+<styled-content style="fixed-case">ATCC</styled-content>27661 (<styled-content style="fixed-case">OD</styled-content>
+<sub>600</sub>&#x000a0;=&#x000a0;0.03). Incubation at 16&#x000b0;C for 48&#x000a0;h allowed for growth of <italic>P.&#x000a0;fluorescens </italic>
+<styled-content style="fixed-case">BCCM</styled-content>_<styled-content style="fixed-case">ID</styled-content>9359 (and mutant strains) and production of kalimantacin or analogues, followed by incubation at 37&#x000b0;C for 8&#x000a0;h for the growth of the lawn of <italic>S.&#x000a0;aureus</italic>. <styled-content style="fixed-case">WT</styled-content>, wild&#x02010;type strain/extract; <styled-content style="fixed-case">GA</styled-content>, kalimantacin with alanine instead of glycine; <styled-content style="fixed-case">GL</styled-content>, kalimantacin with leucine instead of glycine; <styled-content style="fixed-case">GV</styled-content>, kalimantacin with valine instead of glycine; <styled-content style="fixed-case">GS</styled-content>, kalimantacin with serine instead of glycine; <styled-content style="fixed-case">GC</styled-content>, kalimantacin with cysteine instead of glycine; <styled-content style="fixed-case">GR</styled-content>, kalimantacin with arginine instead of glycine; <styled-content style="fixed-case">GF</styled-content>, kalimantacin with phenylalanine instead of glycine; <styled-content style="fixed-case">GD</styled-content>, kalimantacin with aspartic acid instead of glycine; <styled-content style="fixed-case">GQ</styled-content>, kalimantacin with glutamine instead of glycine; <styled-content style="fixed-case">GG</styled-content>, kalimantacin with glycine after reintroduction of the wild&#x02010;type sequence in the gentamicin&#x02010;resistant strain.</p></caption><graphic id="nlm-graphic-7" xlink:href="MBO3-5-279-g003"/></fig></sec></sec><sec id="mbo3326-sec-0012"><title>Discussion and Conclusion</title><p>As a proof of concept, a <italic>Pseudomonas</italic>&#x02010;specific code was created in this article for A domains. Since, as far as we know, no specificity&#x02010;conferring codes for other genera have been published, it is difficult to compare this code with codes in other genera. However, when comparing the specificity&#x02010;conferring code of the archetypic Phe&#x02010;incorporating module of GrsA (DAWTIAAICK) with the presented code for use in <italic>Pseudomonas</italic> (DAPIMGGTCK), the difference between both codes is remarkable, with six out of 10 AA differing. Two of these six AA, at GrsA positions 301 and 322, are rather small changes, going from two times Ala to two times Gly, thus removing two small neutral groups out of the binding pocket. The other changes seem more drastic, as polar groups change into neutral groups or vice versa. It should be noted that changes do not necessarily imply drastic differences between codes in different genera. If the Pro&#x02010;incorporating sequence is compared to the consensus sequence proposed by Stachelhaus and colleagues, only one of all AA is changed (from Tyr to Leu). As it goes with codon optimization, it is possible that optimizing the specificity&#x02010;conferring code, as is done here for <italic>Pseudomonas,</italic> improves the yield, but does not necessarily mean that a code from another organism does not give any result at all.</p><p>The bioassay of the positive control, showing wild&#x02010;type activity again, proves the robustness of the method presented. Overall, this method is very efficient for the <italic>in gene</italic> replacement of active site sequences. Furthermore, chemical synthesis of the mutated DNA fragments circumvents an elaborate targeted point mutation approach. Therefore, this method is particularly suited for systematic <italic>in vivo</italic> analyses of mutated A domains.</p><p>All bioassays show a residual activity of both mutant strains and extracts, comparable to the <italic>bat</italic>C deletion mutant. Since LC&#x02010;MS analyses show no detectable amounts of kalimantacin and it seems unlikely that all mutants produce the same kalimantacin intermediate as the <italic>bat</italic>C knockout strain, this activity can only be explained by another, unrelated secondary metabolite produced by the <italic>P.&#x000a0;fluorescens</italic> strain, with low but distinguishable activity against <italic>S.&#x000a0;aureus</italic> ATCC27661. Additional bioassays against a collection of gram&#x02010;positive and gram&#x02010;negative strains showed that all mutant strains and the wild&#x02010;type strain have a similar activity against different <italic>Pseudomonas</italic> strains (data not shown), indicating that other antibacterial secondary metabolites are indeed produced by <italic>P.&#x000a0;fluorescens</italic> BCCM_ID9359.</p><p>There are a number of possible reasons why the kalimantacin biosynthetic assembly lines harboring the mutated A domains are no longer functional. First, the <italic>Pseudomonas</italic>&#x02010;specific code might not be sufficiently adapted. However, all the critical conserved AA residues as proposed by Challis and colleagues (Challis et&#x000a0;al. <xref rid="mbo3326-bib-0003" ref-type="ref">2000</xref>) are present in each of the designed specificity&#x02010;conferring codes. <italic>In vitro</italic> analysis of the specificity of the engineered A domains could shed more light on this. Furthermore, working in an <italic>in vivo</italic> system, downstream domains might not accept the alternative biosynthetic intermediates. Indeed, it has recently been shown that ketosynthase (KS) domains in <italic>trans</italic>&#x02010;AT PKSs show specificity to the growing intermediate as well (Jenner et&#x000a0;al. <xref rid="mbo3326-bib-0011" ref-type="ref">2013</xref>). In addition, a recent paper by Kohlhaas and coworkers on the specificity in hybrid <italic>trans</italic>&#x02010;AT PKS/NRPS clusters confirms that the AA&#x02010;accepting KS domains possess a high specificity for NRPS&#x02010;derived intermediates (Kohlhaas et&#x000a0;al. <xref rid="mbo3326-bib-0012" ref-type="ref">2013</xref>). In the kalimantacin cluster, this is expected to be the case for the KS domain of module 2 in Bat2. Engineering the substrate selectivity of this KS domain or replacing it with a KS domain that has an increased substrate tolerance could potentially resolve this issue. Not only the downstream domains could block synthesis, different studies have shown that the acceptor site of the C domain could also possess substrate selectivity (Belshaw et&#x000a0;al. <xref rid="mbo3326-bib-0001" ref-type="ref">1999</xref>; Ehmann et&#x000a0;al. <xref rid="mbo3326-bib-0006" ref-type="ref">2000</xref>). As such, it is possible that the A domain is active, while the C domain is not accepting the alternative building block. This selectivity of the C domain was recently demonstrated by Calcott et&#x000a0;al. (<xref rid="mbo3326-bib-0002" ref-type="ref">2014</xref>) in the pyoverdine synthetase PvdD in <italic>P.&#x000a0;aeruginosa</italic>, and could also explain why the <italic>in vivo</italic> system in the <italic>P.&#x000a0;fluorescens</italic> strain in this study is blocked.</p><p>In this article, we present an efficient method to introduce mutated active site sequences in the biosynthetic gene clusters. However, more insight is needed in the specificity of upstream and downstream domains to rationally engineer A domains in hybrid <italic>trans</italic>&#x02010;AT PKS/NRPS clusters.</p></sec><sec id="mbo3326-sec-0014"><title>Conflict of Interest</title><p>None declared.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Figure S1.</bold> Extracted ion chromatograms of culture supernatants from wild&#x02010;type <italic>P.&#x000a0;fluorescens</italic> BCCM_id9359 and mutants at expected <italic>m/z</italic> values</p><p>
+<bold>Figure S2</bold>. Extracted ion chromatograms at m/z value of WT of culture supernatants from wild&#x02010;type <italic>P.&#x000a0;fluorescens</italic> BCCM_ID9359 and mutants.</p><p>
+<bold>Table S1</bold>. An overview of the specificity&#x02010;conferring codes of A domains from different <italic>Pseudomonas</italic> strains used to create a Pseudomonas&#x02010;specific code.</p><p>
+<bold>Table S2.</bold> Overview of the strains, plasmids and primers used in this study.</p></caption><media xlink:href="MBO3-5-279-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="mbo3326-sec-0013"><title>Acknowledgments</title><p>We thank Pieter Smits for technical assistance in the cloning experiments. This study was performed in the framework of the FWO &#x0201c;BaSe&#x02010;ics&#x0201d; Research community W0.014.12N.</p></ack><ref-list content-type="cited-references" id="mbo3326-bibl-0001"><title>References</title><ref id="mbo3326-bib-0001"><mixed-citation publication-type="journal" id="mbo3326-cit-0001">
+<string-name>
+<surname>Belshaw</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<given-names>C. T.</given-names>
+<surname>Walsh</surname>
+</string-name>, and <string-name>
+<given-names>T.</given-names>
+<surname>Stachelhaus</surname>
+</string-name>. <year>1999</year>
+<article-title>Aminoacyl&#x02010;CoAs as probes of condensation domain selectivity in nonribosomal peptide synthesis</article-title>. <source>Science</source>
+<volume>284</volume>:<fpage>486</fpage>&#x02013;<lpage>489</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1126/science.284.5413.486">10.1126/science.284.5413.486</ext-link>.<pub-id pub-id-type="pmid">10205056</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0002"><mixed-citation publication-type="journal" id="mbo3326-cit-0002">
+<string-name>
+<surname>Calcott</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Owen</surname>
+</string-name>, <string-name>
+<given-names>I. L.</given-names>
+<surname>Lamont</surname>
+</string-name>, and <string-name>
+<given-names>D. F.</given-names>
+<surname>Ackerley</surname>
+</string-name>. <year>2014</year>
+<article-title>Biosynthesis of novel Pyoverdines by domain substitution in a nonribosomal peptide synthetase of Pseudomonas aeruginosa</article-title>. <source>Appl. Environ. Microbiol.</source>
+<volume>80</volume>:<fpage>5723</fpage>&#x02013;<lpage>5731</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1128/AEM.01453-14">10.1128/AEM.01453&#x02010;14</ext-link>.<pub-id pub-id-type="pmid">25015884</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0003"><mixed-citation publication-type="journal" id="mbo3326-cit-0003">
+<string-name>
+<surname>Challis</surname>, <given-names>G. L.</given-names>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ravel</surname>
+</string-name>, and <string-name>
+<given-names>C. A.</given-names>
+<surname>Townsend</surname>
+</string-name>. <year>2000</year>
+<article-title>Predictive, structure&#x02010;based model of amino acid recognition by nonribosomal peptide synthetase adenylation domains</article-title>. <source>Chem. Biol.</source>
+<volume>7</volume>:<fpage>211</fpage>&#x02013;<lpage>224</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1016/S1074-5521(00)00091-0">10.1016/S1074&#x02010;5521(00)00091&#x02010;0</ext-link>.<pub-id pub-id-type="pmid">10712928</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0004"><mixed-citation publication-type="journal" id="mbo3326-cit-0004">
+<string-name>
+<surname>Chen</surname>, <given-names>C.&#x02010;Y.</given-names>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Georgiev</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Anderson</surname>
+</string-name>, and <string-name>
+<given-names>B. R.</given-names>
+<surname>Donald</surname>
+</string-name>. <year>2009</year>
+<article-title>Computational structure&#x02010;based redesign of enzyme activity</article-title>. <source>Proc. Natl Acad. Sci. USA</source>
+<volume>106</volume>:<fpage>3764</fpage>&#x02013;<lpage>3769</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1073/pnas.0900266106">10.1073/pnas.0900266106</ext-link>.<pub-id pub-id-type="pmid">19228942</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0005"><mixed-citation publication-type="journal" id="mbo3326-cit-0005">
+<string-name>
+<surname>Du</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>S&#x000e1;nchez</surname>
+</string-name>, and <string-name>
+<given-names>B.</given-names>
+<surname>Shen</surname>
+</string-name>. <year>2001</year>
+<article-title>Hybrid peptide&#x02010;polyketide natural products: biosynthesis and prospects toward engineering novel molecules</article-title>. <source>Metab. Eng.</source>
+<volume>3</volume>:<fpage>78</fpage>&#x02013;<lpage>95</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1006/mben.2000.0171">10.1006/mben.2000.0171</ext-link>.<pub-id pub-id-type="pmid">11162234</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0006"><mixed-citation publication-type="journal" id="mbo3326-cit-0006">
+<string-name>
+<surname>Ehmann</surname>, <given-names>D. E.</given-names>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Trauger</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Stachelhaus</surname>
+</string-name>, and <string-name>
+<given-names>C. T.</given-names>
+<surname>Walsh</surname>
+</string-name>. <year>2000</year>
+<article-title>Aminoacyl&#x02010;SNACs as small&#x02010;molecule substrates for the condensation domains of nonribosomal peptide synthetases</article-title>. <source>Chem. Biol.</source>
+<volume>7</volume>:<fpage>765</fpage>&#x02013;<lpage>772</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1016/S1074-5521(00)00022-3">10.1016/S1074&#x02010;5521(00)00022&#x02010;3</ext-link>.<pub-id pub-id-type="pmid">11033080</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0007"><mixed-citation publication-type="journal" id="mbo3326-cit-0007">
+<string-name>
+<surname>El&#x02010;Sayed</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Hothersall</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Cooper</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Stephens</surname>
+</string-name>, <string-name>
+<given-names>T. J.</given-names>
+<surname>Simpson</surname>
+</string-name>, and <string-name>
+<given-names>C. M.</given-names>
+<surname>Thomas</surname>
+</string-name>. <year>2003</year>
+<article-title>Characterization of the mupirocin biosynthesis gene cluster from Pseudomonas fluorescens NCIMB 10586</article-title>. <source>Chem. Biol.</source>
+<volume>10</volume>:<fpage>419</fpage>&#x02013;<lpage>430</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1016/S1074-5521(03)00091-7">10.1016/S1074&#x02010;5521(03)00091&#x02010;7</ext-link>.<pub-id pub-id-type="pmid">12770824</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0008"><mixed-citation publication-type="journal" id="mbo3326-cit-0008">
+<string-name>
+<surname>Eppelmann</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Stachelhaus</surname>
+</string-name>, and <string-name>
+<given-names>M. A.</given-names>
+<surname>Marahiel</surname>
+</string-name>. <year>2002</year>
+<article-title>Exploitation of the selectivity&#x02010;conferring code of nonribosomal peptide synthetases for the rational design of novel peptide antibiotics</article-title>. <source>Biochemistry</source>
+<volume>41</volume>:<fpage>9718</fpage>&#x02013;<lpage>9726</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1021/bi0259406">10.1021/bi0259406</ext-link>.<pub-id pub-id-type="pmid">12135394</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0009"><mixed-citation publication-type="journal" id="mbo3326-cit-0009">
+<string-name>
+<surname>Finking</surname>, <given-names>R.</given-names>
+</string-name>, and <string-name>
+<given-names>M. A.</given-names>
+<surname>Marahiel</surname>
+</string-name>. <year>2004</year>
+<article-title>Biosynthesis of nonribosomal peptides</article-title>. <source>Annu. Rev. Microbiol.</source>
+<volume>58</volume>:<fpage>453</fpage>&#x02013;<lpage>488</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1146/annurev.micro.58.030603.123615">10.1146/annurev.micro.58.030603.123615</ext-link>.<pub-id pub-id-type="pmid">15487945</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0010"><mixed-citation publication-type="journal" id="mbo3326-cit-0010">
+<string-name>
+<surname>Han</surname>, <given-names>J. W.</given-names>
+</string-name>, <string-name>
+<given-names>E. Y.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Bang</surname>
+</string-name>, and <string-name>
+<given-names>B. S.</given-names>
+<surname>Kim</surname>
+</string-name>. <year>2012</year>
+<article-title>Site&#x02010;directed modification of the adenylation domain of the fusaricidin nonribosomal peptide synthetase for enhanced production of fusaricidin analogs</article-title>. <source>Biotechnol. Lett.</source>
+<volume>34</volume>:<fpage>1327</fpage>&#x02013;<lpage>1334</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1007/s10529-012-0913-8">10.1007/s10529&#x02010;012&#x02010;0913&#x02010;8</ext-link>.<pub-id pub-id-type="pmid">22450515</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0011"><mixed-citation publication-type="journal" id="mbo3326-cit-0011">
+<string-name>
+<surname>Jenner</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Frank</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Kampa</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Kohlhaas</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>P&#x000f6;plau</surname>
+</string-name>, <string-name>
+<given-names>G. S.</given-names>
+<surname>Briggs</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>
+<article-title>Substrate specificity in ketosynthase domains from trans&#x02010;AT polyketide synthases</article-title>. <source>Angew. Chem. Int. Ed. Engl.</source>
+<volume>52</volume>:<fpage>1143</fpage>&#x02013;<lpage>1147</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1002/anie.201207690">10.1002/anie.201207690</ext-link>.<pub-id pub-id-type="pmid">23212972</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0012"><mixed-citation publication-type="journal" id="mbo3326-cit-0012">
+<string-name>
+<surname>Kohlhaas</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Jenner</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Kampa</surname>
+</string-name>, <string-name>
+<given-names>G. S.</given-names>
+<surname>Briggs</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Afonso</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Piel</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>
+<article-title>Amino acid&#x02010;accepting ketosynthase domain from a trans&#x02010;AT polyketide synthase exhibits high selectivity for predicted intermediate</article-title>. <source>Chem. Sci.</source>
+<volume>4</volume>:<fpage>3212</fpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1039/c3sc50540e">10.1039/c3sc50540e</ext-link>.</mixed-citation></ref><ref id="mbo3326-bib-0013"><mixed-citation publication-type="journal" id="mbo3326-cit-0013">
+<string-name>
+<surname>Kries</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Wachtel</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Pabst</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Wanner</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Niquille</surname>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Hilvert</surname>
+</string-name>. <year>2014</year>
+<article-title>Reprogramming nonribosomal peptide synthetases for &#x0201c;clickable&#x0201d; amino acids</article-title>. <source>Angew. Chem. Int. Ed. Engl.</source>
+<volume>53</volume>:<fpage>10105</fpage>&#x02013;<lpage>10108</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1002/anie.201405281">10.1002/anie.201405281</ext-link>.<pub-id pub-id-type="pmid">25081643</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0014"><mixed-citation publication-type="journal" id="mbo3326-cit-0014">
+<string-name>
+<surname>Lautru</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name>
+<given-names>G. L.</given-names>
+<surname>Challis</surname>
+</string-name>. <year>2004</year>
+<article-title>Substrate recognition by nonribosomal peptide synthetase multi&#x02010;enzymes</article-title>. <source>Microbiology</source>
+<volume>150</volume>:<fpage>1629</fpage>&#x02013;<lpage>1636</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1099/mic.0.26837-0">10.1099/mic.0.26837&#x02010;0</ext-link>.<pub-id pub-id-type="pmid">15184549</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0015"><mixed-citation publication-type="journal" id="mbo3326-cit-0015">
+<string-name>
+<surname>Mattheus</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<given-names>L.&#x02010;J.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Herdewijn</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Landuyt</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Verhaegen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Masschelein</surname>
+</string-name>, et&#x000a0;al. <year>2010a</year>
+<article-title>Isolation and purification of a new kalimantacin/batumin&#x02010;related polyketide antibiotic and elucidation of its biosynthesis gene cluster</article-title>. <source>Chem. Biol.</source>
+<volume>17</volume>:<fpage>149</fpage>&#x02013;<lpage>159</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1016/j.chembiol.2010.01.014">10.1016/j.chembiol.2010.01.014</ext-link>.<pub-id pub-id-type="pmid">20189105</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0016"><mixed-citation publication-type="journal" id="mbo3326-cit-0016">
+<string-name>
+<surname>Mattheus</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Masschelein</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;J.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Herdewijn</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Landuyt</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Volckaert</surname>
+</string-name>, et&#x000a0;al. <year>2010b</year>
+<article-title>The kalimantacin/batumin biosynthesis operon encodes a self&#x02010;resistance isoform of the FabI bacterial target</article-title>. <source>Chem. Biol.</source>
+<volume>17</volume>:<fpage>1067</fpage>&#x02013;<lpage>1071</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1016/j.chembiol.2010.07.015">10.1016/j.chembiol.2010.07.015</ext-link>.<pub-id pub-id-type="pmid">21035728</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0017"><mixed-citation publication-type="journal" id="mbo3326-cit-0017">
+<string-name>
+<surname>R&#x000f6;ttig</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Medema</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Blin</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Rausch</surname>
+</string-name>, and <string-name>
+<given-names>O.</given-names>
+<surname>Kohlbacher</surname>
+</string-name>. <year>2011</year>
+<article-title>NRPSpredictor2&#x02013;a web server for predicting NRPS adenylation domain specificity</article-title>. <source>Nucleic Acids Res.</source>
+<volume>39</volume>:<fpage>W362</fpage>&#x02013;<lpage>W367</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1093/nar/gkr323">10.1093/nar/gkr323</ext-link>.<pub-id pub-id-type="pmid">21558170</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0018"><mixed-citation publication-type="journal" id="mbo3326-cit-0018">
+<string-name>
+<surname>Simon</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Priefer</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>P&#x000fc;hler</surname>
+</string-name>. <year>1983</year>
+<article-title>A broad host range mobilization system for in vivo genetic engineering: transposon mutagenesis in gram negative bacteria</article-title>. <source>Bio/Technology</source>
+<volume>1</volume>:<fpage>784</fpage>&#x02013;<lpage>791</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1038/nbt1183-784">10.1038/nbt1183&#x02010;784</ext-link>.</mixed-citation></ref><ref id="mbo3326-bib-0019"><mixed-citation publication-type="journal" id="mbo3326-cit-0019">
+<string-name>
+<surname>Smith</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name>
+<given-names>S.&#x02010;C.</given-names>
+<surname>Tsai</surname>
+</string-name>. <year>2007</year>
+<article-title>The type I fatty acid and polyketide synthases: a tale of two megasynthases</article-title>. <source>Nat. Prod. Rep.</source>
+<volume>24</volume>:<fpage>1041</fpage>&#x02013;<lpage>1072</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1039/b603600g">10.1039/b603600g</ext-link>.<pub-id pub-id-type="pmid">17898897</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0020"><mixed-citation publication-type="journal" id="mbo3326-cit-0020">
+<string-name>
+<surname>Stachelhaus</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<given-names>H. D.</given-names>
+<surname>Mootz</surname>
+</string-name>, and <string-name>
+<given-names>M. A.</given-names>
+<surname>Marahiel</surname>
+</string-name>. <year>1999</year>
+<article-title>The specificity&#x02010;conferring code of adenylation domains in nonribosomal peptide synthetases</article-title>. <source>Chem. Biol.</source>
+<volume>6</volume>:<fpage>493</fpage>&#x02013;<lpage>505</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1016/S1074-5521(99)80082-9">10.1016/S1074-5521(99)80082&#x02010;9</ext-link>.<pub-id pub-id-type="pmid">10421756</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0021"><mixed-citation publication-type="journal" id="mbo3326-cit-0021">
+<string-name>
+<surname>Stevens</surname>, <given-names>B. W.</given-names>
+</string-name>, <string-name>
+<given-names>R. H.</given-names>
+<surname>Lilien</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Georgiev</surname>
+</string-name>, <string-name>
+<given-names>B. R.</given-names>
+<surname>Donald</surname>
+</string-name>, and <string-name>
+<given-names>A. C.</given-names>
+<surname>Anderson</surname>
+</string-name>. <year>2006</year>
+<article-title>Redesigning the PheA domain of gramicidin synthetase leads to a new understanding of the enzyme's mechanism and selectivity</article-title>. <source>Biochemistry</source>
+<volume>45</volume>:<fpage>15495</fpage>&#x02013;<lpage>15504</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1021/bi061788m">10.1021/bi061788m</ext-link>.<pub-id pub-id-type="pmid">17176071</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0022"><mixed-citation publication-type="journal" id="mbo3326-cit-0022">
+<string-name>
+<surname>Thieme</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Engler</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Kandzia</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Marillonnet</surname>
+</string-name>. <year>2011</year>
+<article-title>Quick and clean cloning: a ligation&#x02010;independent cloning strategy for selective cloning of specific PCR products from non&#x02010;specific mixes</article-title>. <source>PLoS ONE</source>
+<volume>6</volume>:<fpage>e20556</fpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1371/journal.pone.0020556">10.1371/journal.pone.0020556</ext-link>.<pub-id pub-id-type="pmid">21655102</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0023"><mixed-citation publication-type="journal" id="mbo3326-cit-0023">
+<string-name>
+<surname>Thirlway</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Lewis</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Nunns</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Al Nakeeb</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Styles</surname>
+</string-name>, <string-name>
+<given-names>A.&#x02010;W.</given-names>
+<surname>Struck</surname>
+</string-name>, et&#x000a0;al. <year>2012</year>
+<article-title>Introduction of a non&#x02010;natural amino acid into a nonribosomal peptide antibiotic by modification of adenylation domain specificity</article-title>. <source>Angew. Chem. Int. Ed. Engl.</source>
+<volume>51</volume>:<fpage>7181</fpage>&#x02013;<lpage>7184</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1002/anie.201202043">10.1002/anie.201202043</ext-link>.<pub-id pub-id-type="pmid">22711659</pub-id></mixed-citation></ref><ref id="mbo3326-bib-0024"><mixed-citation publication-type="journal" id="mbo3326-cit-0024">
+<string-name>
+<surname>Uguru</surname>, <given-names>G. C.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Milne</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Borg</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Flett</surname>
+</string-name>, <string-name>
+<given-names>C. P.</given-names>
+<surname>Smith</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Micklefield</surname>
+</string-name>. <year>2004</year>
+<article-title>Active&#x02010;site modifications of adenylation domains lead to hydrolysis of upstream nonribosomal peptidyl thioester intermediates</article-title>. <source>J. Am. Chem. Soc.</source>
+<volume>126</volume>:<fpage>5032</fpage>&#x02013;<lpage>5033</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1021/ja048778y">10.1021/ja048778y</ext-link>.<pub-id pub-id-type="pmid">15099062</pub-id></mixed-citation></ref></ref-list></back></article>

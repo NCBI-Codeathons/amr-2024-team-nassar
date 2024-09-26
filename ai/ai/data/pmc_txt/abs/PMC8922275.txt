@@ -1,0 +1,16 @@
+ Natural products
+provide a rich source of potential antimicrobials
+for treating infectious diseases for which drug resistance has emerged.
+Foremost among these diseases is tuberculosis. Assessment of the antimycobacterial
+activity of nargenicin, a natural product that targets the replicative
+DNA polymerase of Staphylococcus aureus, revealed that it is a bactericidal genotoxin that induces a DNA
+damage response in Mycobacterium tuberculosis (Mtb) and inhibits growth by blocking the replicative
+DNA polymerase, DnaE1. Cryo-electron microscopy revealed that binding
+of nargenicin to Mtb DnaE1 requires the DNA substrate
+such that nargenicin is wedged between the terminal base pair and
+the polymerase and occupies the position of both the incoming nucleotide
+and templating base. Comparative analysis across three bacterial species
+suggests that the activity of nargenicin is partly attributable to
+the DNA binding affinity of the replicative polymerase. This work
+has laid the foundation for target-led drug discovery efforts focused
+on Mtb DnaE1.

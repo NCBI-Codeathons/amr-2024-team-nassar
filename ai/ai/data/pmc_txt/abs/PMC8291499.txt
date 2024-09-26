@@ -1,0 +1,19 @@
+ Glycopeptide antibiotics
+(GPAs) are last defense line drugs against
+multidrug-resistant Gram-positive pathogens. Natural GPAs teicoplanin
+and vancomycin, as well as semisynthetic oritavancin, telavancin,
+and dalbavancin, are currently approved for clinical use. Although
+these antibiotics remain efficient, emergence of novel GPA-resistant
+pathogens is a question of time. Therefore, it is important to investigate
+the natural variety of GPAs coming from so-called “rare”
+actinobacteria. Herein we describe a novel GPA producer—Nonomuraea coxensis DSM 45129. Its de novo sequenced and completely assembled genome harbors a biosynthetic
+gene cluster (BGC) similar to the dbv BGC of A40926,
+the natural precursor to dalbavancin. The strain produces a novel
+GPA, which we propose is an A40926 analogue lacking the carboxyl group
+on the N-acylglucosamine moiety. This structural
+difference correlates with the absence of dbv29—coding
+for an enzyme responsible for the oxidation of the N-acylglucosamine moiety. Introduction of dbv29 into N. coxensis led to A40926 production in this strain.
+Finally, we successfully applied dbv3 and dbv4 heterologous transcriptional regulators to trigger
+and improve A50926 production in N. coxensis, making them prospective tools for screening other Nonomuraea spp. for GPA production. Our work highlights
+genus Nonomuraea as a still untapped
+source of novel GPAs.

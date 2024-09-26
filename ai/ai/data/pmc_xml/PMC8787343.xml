@@ -1,0 +1,929 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName nlm2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Front Chem</journal-id><journal-id journal-id-type="iso-abbrev">Front Chem</journal-id><journal-id journal-id-type="publisher-id">Front. Chem.</journal-id><journal-title-group><journal-title>Frontiers in Chemistry</journal-title></journal-title-group><issn pub-type="epub">2296-2646</issn><publisher><publisher-name>Frontiers Media S.A.</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8787343</article-id><article-id pub-id-type="publisher-id">812564</article-id><article-id pub-id-type="doi">10.3389/fchem.2021.812564</article-id><article-categories><subj-group subj-group-type="heading"><subject>Chemistry</subject><subj-group><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Mono-/Bis-Alkenoic Acid Derivatives From an Endophytic Fungus <italic>Scopulariopsis candelabrum</italic> and Their Antifungal Activity</article-title><alt-title alt-title-type="left-running-head">Tang et al.</alt-title><alt-title alt-title-type="right-running-head">Fungal Mono-/Bis-Alkenoic Acid Derivatives</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Tang</surname><given-names>Jun</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/1552348/overview"/></contrib><contrib contrib-type="author"><name><surname>Huang</surname><given-names>Xueshuang</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/1604724/overview"/></contrib><contrib contrib-type="author"><name><surname>Cao</surname><given-names>Ming-Hang</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/1604258/overview"/></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Zhiyan</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/1604231/overview"/></contrib><contrib contrib-type="author"><name><surname>Yu</surname><given-names>Zhiyin</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/1053545/overview"/></contrib><contrib contrib-type="author"><name><surname>Yan</surname><given-names>Yijun</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Huang</surname><given-names>Jian-Ping</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/278026/overview"/></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Li</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="c001" ref-type="corresp">*</xref><uri xlink:href="https://loop.frontiersin.org/people/907806/overview"/></contrib><contrib contrib-type="author"><name><surname>Huang</surname><given-names>Sheng-Xiong</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="c001" ref-type="corresp">*</xref><uri xlink:href="https://loop.frontiersin.org/people/848900/overview"/></contrib></contrib-group><aff id="aff1">
+<sup>1</sup>
+<institution>State Key Laboratory of Phytochemistry and Plant Resources in West China, CAS Center for Excellence in Molecular Plant Sciences, Kunming Institute of Botany, Chinese Academy of Sciences</institution>, <addr-line>Kunming</addr-line>, <country>China</country>
+</aff><aff id="aff2">
+<sup>2</sup>
+<institution>Hunan Provincial Key Laboratory for Synthetic Biology of Traditional Chinese Medicine, Hunan University of Medicine</institution>, <addr-line>Huaihua</addr-line>, <country>China</country>
+</aff><aff id="aff3">
+<sup>3</sup>
+<institution>Savaid Medical School, University of Chinese Academy of Sciences</institution>, <addr-line>Beijing</addr-line>, <country>China</country>
+</aff><aff id="aff4">
+<sup>4</sup>
+<institution>State Key Laboratory of Southwestern Chinese Medicine Resources, Innovative Institute of Chinese Medicine and Pharmacy, Chengdu University of Traditional Chinese Medicine</institution>, <addr-line>Chengdu</addr-line>, <country>China</country>
+</aff><author-notes><fn fn-type="edited-by"><p>
+<bold>Edited by:</bold>
+<ext-link xlink:href="https://loop.frontiersin.org/people/424709/overview" ext-link-type="uri">Naohiko Yoshikai</ext-link>, Tohoku University, Japan</p></fn><fn fn-type="edited-by"><p>
+<bold>Reviewed by:</bold>
+<ext-link xlink:href="https://loop.frontiersin.org/people/407950/overview" ext-link-type="uri">Guangbo Ge</ext-link>, Shanghai University of Traditional Chinese Medicine, China</p><p>
+<ext-link xlink:href="https://loop.frontiersin.org/people/1379501/overview" ext-link-type="uri">Sabrin R. M. Ibrahim</ext-link>, Batterjee Medical College, Saudi Arabia</p></fn><corresp id="c001">*Correspondence: Li Wang, <email>liwangcyy@cdutcm.edu.cn</email>; Sheng-Xiong Huang, <email>sxhuang@mail.kib.ac.cn</email>
+</corresp><fn fn-type="other"><p>This article was submitted to Organic Chemistry, a section of the journal Frontiers in Chemistry</p></fn></author-notes><pub-date pub-type="epub"><day>11</day><month>1</month><year>2022</year></pub-date><pub-date pub-type="collection"><year>2021</year></pub-date><volume>9</volume><elocation-id>812564</elocation-id><history><date date-type="received"><day>10</day><month>11</month><year>2021</year></date><date date-type="accepted"><day>10</day><month>12</month><year>2021</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2022 Tang, Huang, Cao, Wang, Yu, Yan, Huang, Wang and Huang.</copyright-statement><copyright-year>2022</copyright-year><copyright-holder>Tang, Huang, Cao, Wang, Yu, Yan, Huang, Wang and Huang</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p></license></permissions><abstract><p>During a screening for antifungal secondary metabolites, six new mono-/bis-alkenoic acid derivatives (<bold>2</bold>&#x02013;<bold>7</bold>) and one known alkenoic acid derivative (<bold>1</bold>) were isolated from an endophytic fungi <italic>Scopulariopsis candelabrum</italic>. Their chemical structures were identified by <sup>1</sup>H-NMR, <sup>13</sup>C-NMR, 2D NMR, and high-resolution mass spectrometry, as well as comparisons with previously reported literatures. Among them, fusariumesters C&#x02012;F (<bold>2</bold>&#x02013;<bold>5</bold>) are bis-alkenoic acid derivatives dimerized by an ester bond, while acetylfusaridioic acid A (<bold>6</bold>) and fusaridioic acid D (<bold>7</bold>) are alkenoic acid monomers. All the isolates were submitted to an antifungal assay against <italic>Candida albicans</italic> and the corn pathogen <italic>Exserohilum turcicum</italic> using the filter paper agar diffusion method. As a result, only compound <bold>1</bold> decorating with <italic>&#x003b2;</italic>-lactone ring turned out to be active against these two tested fungi. The broth microdilution assay against <italic>Candida albicans</italic> showed the minimum inhibitory concentration (MIC) value of <bold>1</bold> to be 20&#x000a0;<italic>&#x003bc;</italic>g/ml, while the minimum inhibitory concentration value of the positive control (naystatin) was 10&#x000a0;<italic>&#x003bc;</italic>g/ml. And the half maximal inhibitory concentration (IC<sub>50</sub>) value (21.23&#x000a0;<italic>&#x003bc;</italic>g/ml) of <bold>1</bold> against <italic>Exserohilum turcicum</italic> was determined by analyzing its inhibition effect on the mycelial growth, using cycloheximide (IC<sub>50</sub> = 46.70&#x000a0;<italic>&#x003bc;</italic>g/ml) as the positive control.</p></abstract><kwd-group><kwd>Alkenoic acid derivatives</kwd><kwd>polyketides</kwd><kwd>Microascaceae</kwd><kwd><italic>Scopulariopsis candelabrum</italic></kwd><kwd>antifungal activity</kwd><kwd><italic>Candida albicans</italic></kwd></kwd-group></article-meta></front><body><sec id="s1"><title>Introduction</title><p>
+<italic>Candida albicans</italic>, as an opportunistic pathogenic fungus, normally maintain symbiosis with the human body in the skin, oral cavity, and gastrointestinal tract (<xref rid="B22" ref-type="bibr">Mishra and Koh, 2021</xref>). When the body&#x02019;s homeostasis is destroyed, <italic>C. albicans</italic> transforms into pathogenic fungi, causing various fungal diseases from superficial skin infections to life-threatening systemic infections (<xref rid="B26" ref-type="bibr">Pappas et al., 2009</xref>; <xref rid="B12" ref-type="bibr">Hall and Noverr, 2017</xref>). According to statistics, four hundred thousand people are infected with <italic>C, albicans</italic> every year, and 75% of women suffer from vulvovaginal candidiasis at least once in their lives (<xref rid="B9" ref-type="bibr">Fidel et al., 2004</xref>; <xref rid="B42" ref-type="bibr">Yang et al., 2014</xref>; <xref rid="B28" ref-type="bibr">Rajendran et al., 2016</xref>). Even with drug treatment, the fatality rate of invasive <italic>C. albicans</italic> infection is still close to 40% (<xref rid="B19" ref-type="bibr">Lohse et al., 2018</xref>; <xref rid="B39" ref-type="bibr">Whitesell et al., 2019</xref>). Among immunocompromised people such as chemotherapy and organ transplantation, the mortality rate of fungal diseases caused by <italic>C. albicans</italic> is 33&#x02013;50% (<xref rid="B15" ref-type="bibr">Krcmery et al., 2000</xref>; <xref rid="B27" ref-type="bibr">Winston, 1999</xref>; <xref rid="B17" ref-type="bibr">Levesque et al., 2015</xref>). Therefore, infections caused by <italic>C. albicans</italic> are still nonnegligible threats to human health.</p><p>As an antifungal agent, fluconazole is widely used in the treatment of fungal diseases caused by <italic>C. albicans</italic> because of its low price, low toxicity, and high efficiency (<xref rid="B21" ref-type="bibr">Lu et al., 2017</xref>). However, the drug resistance of <italic>C. albicans</italic> caused by the widespread use of fluconazole is becoming an increasingly serious problem, and the discovery for new antifungal drugs has become more and more urgent (<xref rid="B38" ref-type="bibr">Whaley et al., 2016</xref>; <xref rid="B21" ref-type="bibr">Lu et al., 2017</xref>; <xref rid="B20" ref-type="bibr">Lu et al., 2021</xref>). Fungal secondary metabolites, as an important source of antifungal drugs (<xref rid="B2" ref-type="bibr">Baker et al., 2007</xref>; <xref rid="B6" ref-type="bibr">Di Santo, 2010</xref>; <xref rid="B4" ref-type="bibr">Cantrell et al., 2012</xref>; <xref rid="B29" ref-type="bibr">Schueffler and Anke, 2014</xref>), have attracted much more attention from the researchers. In the past 10&#x000a0;years, 25% of antifungal active compounds are derived from fungi (<xref rid="B1" ref-type="bibr">Aldholmi et al., 2019</xref>). Among all the fungal microbial resources, plant endophytic fungi were thought as the valuable resources for the discovery of antifungal agents (<xref rid="B36" ref-type="bibr">Uzma et al., 2018</xref>; <xref rid="B23" ref-type="bibr">Newman and Cragg, 2020</xref>). Recently, a program to discover antifungal constituents from endophytic fungi associated with characteristic food resources of Yunnan Province, China, was conducted in our lab. Accordingly, an antifungal screening of the strain fermentation extracts against <italic>C. albicans</italic> targeted an endophytic fungus from stems of tea trees, <italic>Scopulariopsis candelabrum</italic> KIB-int20. Secondary metabolites reported from the genus <italic>Scopulariopsis</italic> were mainly cyclodepsipeptides (such as scopularides A and B) and some dihydroquinolin-2-one-containing alkaloids (<xref rid="B45" ref-type="bibr">Yu et al., 2008</xref>; <xref rid="B30" ref-type="bibr">Shao et al., 2015</xref>; <xref rid="B8" ref-type="bibr">Elbanna et al., 2019</xref>). In this study, seven mono-/bis-alkenoic acid derivatives (<bold>1&#x02013;7</bold>, <xref rid="F1" ref-type="fig">Figure 1</xref>) were isolated from <italic>S. candelabrum</italic> KIB-int20 during a screening for antifungal secondary metabolites. We herein report the isolation, structure elucidation and antifungal activity of these polyketides.</p><fig position="float" id="F1"><label>FIGURE 1</label><caption><p>Chemical structures of compounds <bold>1</bold>&#x02012;<bold>7</bold>.</p></caption><graphic xlink:href="fchem-09-812564-g001" position="float"/></fig></sec><sec sec-type="materials|methods" id="s2"><title>Materials and Methods</title><sec id="s2-1"><title>General Experimental Procedures</title><p>Optical rotations were measured on an Autopol VI manufactured by Rudolph Research Analytical, Hackettstown, NJ, United States IR spectra were measured on a Nicolet iS10 FT-IR spectrometer (Thermo Fisher Scientific, United States) with KBr disks. NMR spectra were recorded in CDCl<sub>3</sub> (<italic>&#x003b4;</italic>
+<sub>H</sub> 7.26 ppm, <italic>&#x003b4;</italic>
+<sub>C</sub> 77.16&#x000a0;ppm) or DMSO-<italic>d</italic>
+<sub>6</sub> (<italic>&#x003b4;</italic>
+<sub>H</sub> 2.50&#x000a0;ppm, <italic>&#x003b4;</italic>
+<sub>C</sub> 39.52&#x000a0;ppm) using Bruker Avance III 600 or 800&#x000a0;MHz spectrometers (Bruker Corp, Switzerland). HR-ESI-MS analysis were carried out on a Shimadzu UPLC-IT-TOF mass spectrometer (Shimadzu Corp, Japan). Silica gel (100&#x02013;200 mesh and 200&#x02013;300 mesh, Qingdao Marine Chemical Inc, China) and Sephadex LH-20 (18&#x02013;111&#x000a0;<italic>&#x003bc;</italic>m, Pharmacia Biotech Ltd, Sweden) were used for the chromatography column (CC). Precoated silica gel GF<sub>254</sub> plates (0.20&#x02013;0.25&#x000a0;mm in thickness, Qingdao Marine Chemical Inc, China) were used for thin-layer chromatography (TLC) analyses. Semipreparative HPLC was conducted on a Hitachi Chromaster system (Hitachi Ltd, Japan), equipped with a DAD detector and a YMC-Triart C<sub>18</sub> column (250 &#x000d7; 10.0&#x000a0;mm i. d, 5&#x000a0;<italic>&#x003bc;</italic>m), using a flow rate of 3.0&#x000a0;ml/min at a column temperature at 28&#x000b0;C, and 0.1% (v/v) acetic acid was added to each HPLC mobile phase.</p></sec><sec id="s2-2"><title>Strain Isolation and Cultivation</title><p>Strain <italic>S. candelabrum</italic> KIB-int20 was isolated from the stems of tea trees (<italic>Camellia sinensis</italic> (L.) O. Ktze) from Dali, Yunnan Province, China. It was identified as <italic>S. candelabrum</italic> by a combination of ITS sequence and fungal morphological identification. The internal transcribed spaces (ITS) region was amplified and sequenced using the general primers ITS1 (5&#x02032;-TCC&#x0200b;GTA&#x0200b;GGT&#x0200b;GAA&#x0200b;CCT&#x0200b;GCG&#x0200b;G-3&#x02032;) and ITS4 (5&#x02032;-TCC&#x0200b;TCC&#x0200b;GCT&#x0200b;TAT&#x0200b;TGA&#x0200b;TAT&#x0200b;GC-3&#x02032;). The ITS region of the fungus was a 605 bp DNA sequence (GenBank No. OK445701), which showed 99% identity to the ITS sequence of strain <italic>S. candelabrum</italic> (GenBank No. LM652483.1).</p><p>
+<italic>S. candelabrum</italic> KIB-int20 was first inoculated on a PDA (filtrate of boiled fresh potatoes 200&#x000a0;g/L, dextrose 20&#x000a0;g/L, agar 20&#x000a0;g/L) plate for 5 days, and then transferred to several PDA plates for another 7&#x000a0;days culture. About one-sixth of agar blocks with fungi mycelium was inoculated into a tissue culture vessel (370&#x000a0;ml) containing the fermentation medium. For each tissue culture vessel, 20&#x000a0;g cargo rice, 10&#x000a0;g peptone and 12&#x000a0;ml water were added and sterilized at 121&#x000b0;C for 30&#x000a0;min immediately. The inoculated medium was statically cultivated for 1&#x000a0;month in a dark environment at room temperature. Strain <italic>S. candelabrum</italic> KIB-int20 was finally fermented with 5&#x000a0;kg of cargo rice in total.</p></sec><sec id="s2-3"><title>Extraction and Isolation</title><p>The fermentation solid of <italic>S. candelabrum</italic> KIB-int20 was extracted with acetone (10&#x000a0;L&#x000d7;2, d&#x000d7;2) at room temperature. The extracts were concentrated to remove organic solvent. The aqueous residue was then partitioned with EtOAc (2.5&#x000a0;L&#x000d7;4) to obtain an oily crude extract (50&#x000a0;g). The extract was then subjected to silica gel CC eluting with petroleum ether&#x02212;EtOAc (1:0, 10:1, 5:1, 2:1, 1:1, 1:2, 1:5, 1:10 and 0:1, v/v) to give nine fractions (A&#x02212;I). An antifungal screening of each fraction against <italic>C. albicans</italic> was conducted, and fraction D turned out to be active. The main metabolites in each fraction were further analyzed by DAD-HPLC. Main metabolites in fractions D and E shared the same UV absorptions. In this way, fractions D and E were selected for further study. Selected fraction E (petroleum ether&#x02212;EtOAc 1:1) was first separated by Sephadex LH-20 CC (CH<sub>2</sub>Cl<sub>2</sub>&#x02212;CH<sub>3</sub>OH, 1:1), and divide it into six subfractions according to the detection results of thin layer chromatography (10% ethanol sulfate in EtOH was served as chromogenic agent). Further purification of these subfractions by semipreparative DAD-HPLC gave compounds <bold>2</bold> (78% methanol in H<sub>2</sub>O, <italic>t</italic>
+<sub>R</sub> = 19.8&#x000a0;min, 3.5&#x000a0;mg), <bold>3</bold> (78% methanol in H<sub>2</sub>O, <italic>t</italic>
+<sub>R</sub> = 33.0&#x000a0;min, 3.5&#x000a0;mg), <bold>4</bold> (78% methanol in H<sub>2</sub>O, <italic>t</italic>
+<sub>R</sub> = 38.0&#x000a0;min, 6.4&#x000a0;mg), and <bold>5</bold> (78% methanol in H<sub>2</sub>O, <italic>t</italic>
+<sub>R</sub> = 50.0&#x000a0;min, 5.4&#x000a0;mg). Another selected fraction D (petroleum ether&#x02212;EtOAc, 2:1) was sequentially subjected to Sephadex LH-20 CC (CH<sub>2</sub>Cl<sub>2</sub>&#x02212;CH<sub>3</sub>OH, 1:1) and semipreparative DAD-HPLC to afford <bold>1</bold> (65% methanol in H<sub>2</sub>O, <italic>t</italic>
+<sub>R</sub> = 32.5&#x000a0;min, 8.2&#x000a0;mg), <bold>6</bold> (65% methanol in H<sub>2</sub>O, <italic>t</italic>
+<sub>R</sub> = 34&#x000a0;min, 6.9&#x000a0;mg), and <bold>7</bold> (65% methanol in H<sub>2</sub>O, <italic>t</italic>
+<sub>R</sub> = 42.0&#x000a0;min, 4.4&#x000a0;mg).</p><p>Fusariumester C (<bold>2</bold>): colorless oil [&#x003b1;]<sup>19.9</sup>
+<sub>D</sub> 4.5 (<italic>c</italic> 0.2, MeOH) UV (MeOH); &#x003bb;<sub>max</sub> (log &#x003b5;) 196 (3.99), 232 (3.59), 269 (3.93)&#x000a0;nm; IR (KBr) &#x003bd;<sub>max</sub> 3,419, 2,927, 2,856, 1712, 1,620, 1,382, 1,250, 1,176&#x000a0;cm<sup>&#x0208b;1</sup>. HR-ESI-MS: <italic>m/z</italic> 665.3909 [M &#x02012; H]<sup>&#x02012;</sup> (calcd for C<sub>36</sub>H<sub>57</sub>O<sub>11</sub>, 665.3906). <sup>1</sup>H NMR (600&#x000a0;MHz, DMSO-<italic>d</italic>
+<sub>6</sub>) data see <xref rid="T1" ref-type="table">Table 1</xref>, and <sup>13</sup>C NMR (150&#x000a0;MHz, DMSO-<italic>d</italic>
+<sub>6</sub>) data see <xref rid="T2" ref-type="table">Table 2</xref>.</p><table-wrap position="float" id="T1"><label>TABLE 1</label><caption><p>
+<sup>1</sup>H NMR Data of Compounds <bold>2</bold>&#x02013;<bold>7</bold> (<italic>&#x003b4;</italic> in ppm, <italic>J</italic> in Hz).</p></caption><table frame="hsides" rules="groups"><thead valign="top"><tr><th align="left" rowspan="1" colspan="1">No</th><th align="center" rowspan="1" colspan="1">2<xref rid="Tfn2" ref-type="table-fn">
+<italic>
+<sup>b</sup>
+</italic>
+</xref>
+</th><th align="center" rowspan="1" colspan="1">3<xref rid="Tfn2" ref-type="table-fn">
+<italic>
+<sup>b</sup>
+</italic>
+</xref>
+</th><th align="center" rowspan="1" colspan="1">4<xref rid="Tfn3" ref-type="table-fn">
+<italic>
+<sup>c</sup>
+</italic>
+</xref>
+</th><th align="center" rowspan="1" colspan="1">5<xref rid="Tfn2" ref-type="table-fn">
+<italic>
+<sup>b</sup>
+</italic>
+</xref>
+</th><th align="center" rowspan="1" colspan="1">6<xref rid="Tfn2" ref-type="table-fn">
+<italic>
+<sup>b</sup>
+</italic>
+</xref>
+</th><th align="center" rowspan="1" colspan="1">7<xref rid="Tfn4" ref-type="table-fn">
+<italic>
+<sup>d</sup>
+</italic>
+</xref>
+</th></tr></thead><tbody valign="top"><tr><td align="left" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">5.63&#x000a0;s</td><td align="center" rowspan="1" colspan="1">5.60&#x000a0;s</td><td align="center" rowspan="1" colspan="1">5.66&#x000a0;s</td><td align="center" rowspan="1" colspan="1">5.60&#x000a0;s</td><td align="center" rowspan="1" colspan="1">5.59&#x000a0;s</td><td align="center" rowspan="1" colspan="1">5.69&#x000a0;s</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">5.71&#x000a0;s</td><td align="center" rowspan="1" colspan="1">5.71&#x000a0;s</td><td align="center" rowspan="1" colspan="1">5.69&#x000a0;s</td><td align="center" rowspan="1" colspan="1">5.69&#x000a0;s</td><td align="center" rowspan="1" colspan="1">5.71&#x000a0;s</td><td align="center" rowspan="1" colspan="1">5.73&#x000a0;s</td></tr><tr><td align="left" rowspan="1" colspan="1">6a</td><td align="center" rowspan="1" colspan="1">2.02<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">2.03<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">2.06 dd (13.1, 6.0)</td><td align="center" rowspan="1" colspan="1">2.01<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">2.02 dd (13.0, 6.5)</td><td align="center" rowspan="1" colspan="1">2.05 dd (13.2, 6.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">6b</td><td align="center" rowspan="1" colspan="1">1.80<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.82<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.83<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.80<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.82 dd (13.0, 8.0)</td><td align="center" rowspan="1" colspan="1">1.88 dd (13.2, 7.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="center" rowspan="1" colspan="1">1.61<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.61<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.60<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.59<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.62&#x000a0;m</td><td align="center" rowspan="1" colspan="1">1.66&#x000a0;m</td></tr><tr><td align="left" rowspan="1" colspan="1">8a</td><td align="center" rowspan="1" colspan="1">1.23<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.24<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.25<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.05<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.25<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.31<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">8b</td><td align="center" rowspan="1" colspan="1">1.03<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.05<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.07<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">0.98<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.03<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.10<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">9a</td><td align="center" rowspan="1" colspan="1">1.33<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.33<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.30<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.21<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.25<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.34<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">9b</td><td align="center" rowspan="1" colspan="1">1.23<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.23<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.19<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.32<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.34<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.42<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">10a</td><td align="center" rowspan="1" colspan="1">1.32<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.32<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.28<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.22<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.36<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.48<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">10b</td><td align="center" rowspan="1" colspan="1">1.24<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.24<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.17<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.19<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.26<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.37<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">11a</td><td align="center" rowspan="1" colspan="1">1.34<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.29<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.54<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.53<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.35<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.51<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">11b</td><td align="center" rowspan="1" colspan="1">1.25<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.24<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.50<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">1.25<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.47<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">12</td><td align="center" rowspan="1" colspan="1">3.57<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">3.57<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">4.99&#x000a0;m</td><td align="center" rowspan="1" colspan="1">5.03 td (8.3, 3.7)</td><td align="center" rowspan="1" colspan="1">3.63&#x000a0;m</td><td align="center" rowspan="1" colspan="1">3.69&#x000a0;m</td></tr><tr><td align="left" rowspan="1" colspan="1">13</td><td align="center" rowspan="1" colspan="1">2.45<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">2.47 <xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">2.55<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">2.58&#x000a0;m</td><td align="center" rowspan="1" colspan="1">2.57&#x000a0;m</td><td align="center" rowspan="1" colspan="1">2.56&#x000a0;m</td></tr><tr><td align="left" rowspan="1" colspan="1">3-CH<sub>3</sub>
+</td><td align="center" rowspan="1" colspan="1">2.14&#x000a0;s</td><td align="center" rowspan="1" colspan="1">2.14&#x000a0;s</td><td align="center" rowspan="1" colspan="1">2.13&#x000a0;s</td><td align="center" rowspan="1" colspan="1">2.12&#x000a0;s</td><td align="center" rowspan="1" colspan="1">2.14&#x000a0;s</td><td align="center" rowspan="1" colspan="1">2.24&#x000a0;s</td></tr><tr><td align="left" rowspan="1" colspan="1">5-CH<sub>3</sub>
+</td><td align="center" rowspan="1" colspan="1">1.73&#x000a0;s</td><td align="center" rowspan="1" colspan="1">1.73&#x000a0;s</td><td align="center" rowspan="1" colspan="1">1.74&#x000a0;s</td><td align="center" rowspan="1" colspan="1">1.72&#x000a0;s</td><td align="center" rowspan="1" colspan="1">1.74&#x000a0;s</td><td align="center" rowspan="1" colspan="1">1.81&#x000a0;s</td></tr><tr><td align="left" rowspan="1" colspan="1">7-CH<sub>3</sub>
+</td><td align="center" rowspan="1" colspan="1">0.78<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">0.78 d (6.5)</td><td align="center" rowspan="1" colspan="1">0.79 d (6.5)</td><td align="center" rowspan="1" colspan="1">0.77 d (7.0)</td><td align="center" rowspan="1" colspan="1">0.79 d (6.6)</td><td align="center" rowspan="1" colspan="1">0.84 d (6.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">13-CH<sub>2</sub>OR or 13-CH<sub>3</sub>
+</td><td align="center" rowspan="1" colspan="1">4.13<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">4.14&#x000a0;m</td><td align="center" rowspan="1" colspan="1">3.53<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">3.54<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">4.11<xref rid="Tfn1" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.26 d (7.2)</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">4.18 dd (10.6, 5.8)</td><td align="center" rowspan="1" colspan="1">4.29 dd (10.8, 4.7)</td><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">3.48<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">4.15 dd (10.7, 5.3)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">2&#x02032;</td><td align="center" rowspan="1" colspan="1">5.56&#x000a0;s</td><td align="center" rowspan="1" colspan="1">5.56&#x000a0;s</td><td align="center" rowspan="1" colspan="1">5.57&#x000a0;s</td><td align="center" rowspan="1" colspan="1">5.58&#x000a0;s</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">4&#x02032;</td><td align="center" rowspan="1" colspan="1">5.69&#x000a0;s</td><td align="center" rowspan="1" colspan="1">5.69&#x000a0;s</td><td align="center" rowspan="1" colspan="1">5.73&#x000a0;s</td><td align="center" rowspan="1" colspan="1">5.75&#x000a0;s</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">6&#x02032;a</td><td align="center" rowspan="1" colspan="1">2.02<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">2.03<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">2.06 dd (13.1, 6.0)</td><td align="center" rowspan="1" colspan="1">2.01<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">6&#x02032;b</td><td align="center" rowspan="1" colspan="1">1.80<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.82<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.83<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.80<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">7&#x02032;</td><td align="center" rowspan="1" colspan="1">1.61<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.61<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.62<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.59<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">8&#x02032;a</td><td align="center" rowspan="1" colspan="1">1.23<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.24<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.25<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.22<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">8&#x02032;b</td><td align="center" rowspan="1" colspan="1">1.03<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.05<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.07<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.05<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">9&#x02032;a</td><td align="center" rowspan="1" colspan="1">1.33<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.33<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.25<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.21<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">9&#x02032;b</td><td align="center" rowspan="1" colspan="1">1.23<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.23<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.19<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.32<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">10&#x02032;a</td><td align="center" rowspan="1" colspan="1">1.32<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.32<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.39<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.22<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">10&#x02032;b</td><td align="center" rowspan="1" colspan="1">1.24<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.24<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.26<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.19<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">11&#x02032;a</td><td align="center" rowspan="1" colspan="1">1.34<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.38<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.31<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.31<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">11&#x02032;b</td><td align="center" rowspan="1" colspan="1">1.25<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.30<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.26<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.23<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">12&#x02032;</td><td align="center" rowspan="1" colspan="1">3.57<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">3.56<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">3.59<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">3.55<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">13&#x02032;</td><td align="center" rowspan="1" colspan="1">2.44<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">2.39&#x000a0;m</td><td align="center" rowspan="1" colspan="1">2.44&#x000a0;m</td><td align="center" rowspan="1" colspan="1">2.32&#x000a0;m</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">3&#x02032;-CH<sub>3</sub>
+</td><td align="center" rowspan="1" colspan="1">2.12&#x000a0;s</td><td align="center" rowspan="1" colspan="1">2.12&#x000a0;s</td><td align="center" rowspan="1" colspan="1">2.16&#x000a0;s</td><td align="center" rowspan="1" colspan="1">2.17&#x000a0;s</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">5&#x02032;-CH<sub>3</sub>
+</td><td align="center" rowspan="1" colspan="1">1.75&#x000a0;s</td><td align="center" rowspan="1" colspan="1">1.75&#x000a0;s</td><td align="center" rowspan="1" colspan="1">1.76&#x000a0;s</td><td align="center" rowspan="1" colspan="1">1.76&#x000a0;s</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">7&#x02032;-CH<sub>3</sub>
+</td><td align="center" rowspan="1" colspan="1">0.79<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">0.79 d (6.5)</td><td align="center" rowspan="1" colspan="1">0.80 d (6.5)</td><td align="center" rowspan="1" colspan="1">0.78 d (7.0)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">13&#x02032;-CH<sub>2</sub>OH or 13&#x02032;-CH<sub>3</sub>
+</td><td align="center" rowspan="1" colspan="1">3.54<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">0.95 d (7.0)</td><td align="center" rowspan="1" colspan="1">0.99 d (7.0)</td><td align="center" rowspan="1" colspan="1">0.95 d (7.0)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">3.49<xref rid="Tfn1" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Ac-CH<sub>3</sub>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">1.96&#x000a0;s</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="Tfn1"><label>a</label><p>Overlapped signals.</p></fn><fn id="Tfn2"><label>b</label><p>Recorded at 600&#x000a0;MHz, in DMSO-d<sub>6</sub>.</p></fn><fn id="Tfn3"><label>c</label><p>Recorded at 800&#x000a0;MHz, in DMSO-d<sub>6.</sub>
+</p></fn><fn id="Tfn4"><label>d</label><p>Recorded at 600&#x000a0;MHz, in CDCl<sub>3.</sub>
+</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="T2"><label>TABLE 2</label><caption><p>
+<sup>13</sup>C NMR Data of Compounds <bold>2</bold>&#x02013;<bold>7</bold> (<italic>&#x003b4;</italic> in ppm).</p></caption><table frame="hsides" rules="groups"><thead valign="top"><tr><th align="left" rowspan="1" colspan="1">No</th><th align="center" rowspan="1" colspan="1">2<xref rid="Tfn5" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</th><th align="center" rowspan="1" colspan="1">3<xref rid="Tfn5" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</th><th align="center" rowspan="1" colspan="1">4<xref rid="Tfn6" ref-type="table-fn">
+<italic>
+<sup>b</sup>
+</italic>
+</xref>
+</th><th align="center" rowspan="1" colspan="1">5<xref rid="Tfn5" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</th><th align="center" rowspan="1" colspan="1">6<xref rid="Tfn5" ref-type="table-fn">
+<italic>
+<sup>a</sup>
+</italic>
+</xref>
+</th><th align="center" rowspan="1" colspan="1">7<xref rid="Tfn7" ref-type="table-fn">
+<italic>
+<sup>c</sup>
+</italic>
+</xref>
+</th></tr></thead><tbody valign="top"><tr><td align="left" rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">167.8</td><td align="char" char="." rowspan="1" colspan="1">167.9</td><td align="char" char="." rowspan="1" colspan="1">168.4</td><td align="char" char="." rowspan="1" colspan="1">167.8</td><td align="char" char="." rowspan="1" colspan="1">167.7</td><td align="char" char="." rowspan="1" colspan="1">171.9</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">118.6</td><td align="char" char="." rowspan="1" colspan="1">118.6</td><td align="char" char="." rowspan="1" colspan="1">119.4</td><td align="char" char="." rowspan="1" colspan="1">118.6</td><td align="char" char="." rowspan="1" colspan="1">118.3</td><td align="char" char="." rowspan="1" colspan="1">116.4</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">152.6</td><td align="char" char="." rowspan="1" colspan="1">152.6</td><td align="char" char="." rowspan="1" colspan="1">153.0</td><td align="char" char="." rowspan="1" colspan="1">151.9</td><td align="char" char="." rowspan="1" colspan="1">152.4</td><td align="char" char="." rowspan="1" colspan="1">157.5</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">129.3</td><td align="char" char="." rowspan="1" colspan="1">129.3</td><td align="char" char="." rowspan="1" colspan="1">129.8</td><td align="char" char="." rowspan="1" colspan="1">129.2</td><td align="char" char="." rowspan="1" colspan="1">129.2</td><td align="char" char="." rowspan="1" colspan="1">129.4</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">140.8</td><td align="char" char="." rowspan="1" colspan="1">140.5</td><td align="char" char="." rowspan="1" colspan="1">140.6</td><td align="char" char="." rowspan="1" colspan="1">140.5</td><td align="char" char="." rowspan="1" colspan="1">140.7</td><td align="char" char="." rowspan="1" colspan="1">142.5</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="char" char="." rowspan="1" colspan="1">48.6</td><td align="char" char="." rowspan="1" colspan="1">48.5</td><td align="char" char="." rowspan="1" colspan="1">48.9</td><td align="char" char="." rowspan="1" colspan="1">48.3</td><td align="char" char="." rowspan="1" colspan="1">48.5</td><td align="char" char="." rowspan="1" colspan="1">49.1</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="char" char="." rowspan="1" colspan="1">30.3</td><td align="char" char="." rowspan="1" colspan="1">30.2</td><td align="char" char="." rowspan="1" colspan="1">30.6</td><td align="char" char="." rowspan="1" colspan="1">30.0</td><td align="char" char="." rowspan="1" colspan="1">30.1</td><td align="char" char="." rowspan="1" colspan="1">30.8</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="char" char="." rowspan="1" colspan="1">36.4</td><td align="char" char="." rowspan="1" colspan="1">36.3</td><td align="char" char="." rowspan="1" colspan="1">36.8</td><td align="char" char="." rowspan="1" colspan="1">35.6</td><td align="char" char="." rowspan="1" colspan="1">35.9</td><td align="char" char="." rowspan="1" colspan="1">36.4</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="char" char="." rowspan="1" colspan="1">26.4</td><td align="char" char="." rowspan="1" colspan="1">26.4</td><td align="char" char="." rowspan="1" colspan="1">26.3</td><td align="char" char="." rowspan="1" colspan="1">26.4</td><td align="char" char="." rowspan="1" colspan="1">26.1</td><td align="char" char="." rowspan="1" colspan="1">26.8</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="char" char="." rowspan="1" colspan="1">25.3</td><td align="char" char="." rowspan="1" colspan="1">25.2</td><td align="char" char="." rowspan="1" colspan="1">25.0</td><td align="char" char="." rowspan="1" colspan="1">24.8</td><td align="char" char="." rowspan="1" colspan="1">25.4</td><td align="char" char="." rowspan="1" colspan="1">25.6</td></tr><tr><td align="left" rowspan="1" colspan="1">11</td><td align="char" char="." rowspan="1" colspan="1">34.5</td><td align="char" char="." rowspan="1" colspan="1">32.9</td><td align="char" char="." rowspan="1" colspan="1">32.0</td><td align="char" char="." rowspan="1" colspan="1">31.7</td><td align="char" char="." rowspan="1" colspan="1">34.2</td><td align="char" char="." rowspan="1" colspan="1">34.6</td></tr><tr><td align="left" rowspan="1" colspan="1">12</td><td align="char" char="." rowspan="1" colspan="1">68.8</td><td align="char" char="." rowspan="1" colspan="1">69.0</td><td align="char" char="." rowspan="1" colspan="1">71.7</td><td align="char" char="." rowspan="1" colspan="1">70.6</td><td align="char" char="." rowspan="1" colspan="1">68.8</td><td align="char" char="." rowspan="1" colspan="1">73.2</td></tr><tr><td align="left" rowspan="1" colspan="1">13</td><td align="char" char="." rowspan="1" colspan="1">50.9</td><td align="char" char="." rowspan="1" colspan="1">51.7</td><td align="char" char="." rowspan="1" colspan="1">53.3</td><td align="char" char="." rowspan="1" colspan="1">52.7</td><td align="char" char="." rowspan="1" colspan="1">50.9</td><td align="char" char="." rowspan="1" colspan="1">45.1</td></tr><tr><td align="left" rowspan="1" colspan="1">14</td><td align="char" char="." rowspan="1" colspan="1">173.8<xref rid="Tfn8" ref-type="table-fn">
+<italic>
+<sup>d</sup>
+</italic>
+</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">173.9</td><td align="char" char="." rowspan="1" colspan="1">174.3</td><td align="char" char="." rowspan="1" colspan="1">173.7</td><td align="char" char="." rowspan="1" colspan="1">173.2</td><td align="char" char="." rowspan="1" colspan="1">180.7</td></tr><tr><td align="left" rowspan="1" colspan="1">3-CH<sub>3</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">19.1</td><td align="char" char="." rowspan="1" colspan="1">19.1</td><td align="char" char="." rowspan="1" colspan="1">19.5</td><td align="char" char="." rowspan="1" colspan="1">19.1</td><td align="char" char="." rowspan="1" colspan="1">19.1</td><td align="char" char="." rowspan="1" colspan="1">20.0</td></tr><tr><td align="left" rowspan="1" colspan="1">5-CH<sub>3</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">18.1</td><td align="char" char="." rowspan="1" colspan="1">18.1</td><td align="char" char="." rowspan="1" colspan="1">18.5</td><td align="char" char="." rowspan="1" colspan="1">18.1</td><td align="char" char="." rowspan="1" colspan="1">18.1</td><td align="char" char="." rowspan="1" colspan="1">18.6</td></tr><tr><td align="left" rowspan="1" colspan="1">7-CH<sub>3</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">19.2</td><td align="char" char="." rowspan="1" colspan="1">19.3</td><td align="char" char="." rowspan="1" colspan="1">19.7</td><td align="char" char="." rowspan="1" colspan="1">19.3</td><td align="char" char="." rowspan="1" colspan="1">19.3</td><td align="char" char="." rowspan="1" colspan="1">19.6</td></tr><tr><td align="left" rowspan="1" colspan="1">13-CH<sub>2</sub>OR or 13-CH<sub>3</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">62.6</td><td align="char" char="." rowspan="1" colspan="1">62.9</td><td align="char" char="." rowspan="1" colspan="1">60.4</td><td align="char" char="." rowspan="1" colspan="1">59.8</td><td align="char" char="." rowspan="1" colspan="1">62.5</td><td align="char" char="." rowspan="1" colspan="1">14.2</td></tr><tr><td align="left" rowspan="1" colspan="1">1&#x02032;</td><td align="char" char="." rowspan="1" colspan="1">167.7</td><td align="char" char="." rowspan="1" colspan="1">167.7</td><td align="char" char="." rowspan="1" colspan="1">168.2</td><td align="char" char="." rowspan="1" colspan="1">165.7</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">2&#x02032;</td><td align="char" char="." rowspan="1" colspan="1">118.2</td><td align="char" char="." rowspan="1" colspan="1">118.2</td><td align="char" char="." rowspan="1" colspan="1">118.7</td><td align="char" char="." rowspan="1" colspan="1">116.9</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">3&#x02032;</td><td align="char" char="." rowspan="1" colspan="1">152.6</td><td align="char" char="." rowspan="1" colspan="1">152.6</td><td align="char" char="." rowspan="1" colspan="1">153.0</td><td align="char" char="." rowspan="1" colspan="1">154.1</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">4&#x02032;</td><td align="char" char="." rowspan="1" colspan="1">129.2</td><td align="char" char="." rowspan="1" colspan="1">129.2</td><td align="char" char="." rowspan="1" colspan="1">129.6</td><td align="char" char="." rowspan="1" colspan="1">129.0</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">5&#x02032;</td><td align="char" char="." rowspan="1" colspan="1">140.8</td><td align="char" char="." rowspan="1" colspan="1">140.9</td><td align="char" char="." rowspan="1" colspan="1">141.2</td><td align="char" char="." rowspan="1" colspan="1">141.9</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">6&#x02032;</td><td align="char" char="." rowspan="1" colspan="1">48.4</td><td align="char" char="." rowspan="1" colspan="1">48.4</td><td align="char" char="." rowspan="1" colspan="1">48.9</td><td align="char" char="." rowspan="1" colspan="1">48.6</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">7&#x02032;</td><td align="char" char="." rowspan="1" colspan="1">30.3</td><td align="char" char="." rowspan="1" colspan="1">30.3</td><td align="char" char="." rowspan="1" colspan="1">30.8</td><td align="char" char="." rowspan="1" colspan="1">30.3</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">8&#x02032;</td><td align="char" char="." rowspan="1" colspan="1">36.4</td><td align="char" char="." rowspan="1" colspan="1">36.3</td><td align="char" char="." rowspan="1" colspan="1">36.8</td><td align="char" char="." rowspan="1" colspan="1">36.3</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">9&#x02032;</td><td align="char" char="." rowspan="1" colspan="1">26.4</td><td align="char" char="." rowspan="1" colspan="1">26.2</td><td align="char" char="." rowspan="1" colspan="1">26.9</td><td align="char" char="." rowspan="1" colspan="1">25.7</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">10&#x02032;</td><td align="char" char="." rowspan="1" colspan="1">25.5</td><td align="char" char="." rowspan="1" colspan="1">25.4</td><td align="char" char="." rowspan="1" colspan="1">26.0</td><td align="char" char="." rowspan="1" colspan="1">25.4</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">11&#x02032;</td><td align="char" char="." rowspan="1" colspan="1">34.7</td><td align="char" char="." rowspan="1" colspan="1">34.8</td><td align="char" char="." rowspan="1" colspan="1">33.4</td><td align="char" char="." rowspan="1" colspan="1">33.1</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">12&#x02032;</td><td align="char" char="." rowspan="1" colspan="1">68.9</td><td align="char" char="." rowspan="1" colspan="1">71.3</td><td align="char" char="." rowspan="1" colspan="1">71.7</td><td align="char" char="." rowspan="1" colspan="1">71.4</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">13&#x02032;</td><td align="char" char="." rowspan="1" colspan="1">55.2</td><td align="char" char="." rowspan="1" colspan="1">45.9</td><td align="char" char="." rowspan="1" colspan="1">46.8</td><td align="char" char="." rowspan="1" colspan="1">45.9</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">14&#x02032;</td><td align="char" char="." rowspan="1" colspan="1">172.4</td><td align="char" char="." rowspan="1" colspan="1">174.2</td><td align="char" char="." rowspan="1" colspan="1">174.3</td><td align="char" char="." rowspan="1" colspan="1">176.3</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">3&#x02032;-CH<sub>3</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">19.1</td><td align="char" char="." rowspan="1" colspan="1">19.1</td><td align="char" char="." rowspan="1" colspan="1">19.5</td><td align="char" char="." rowspan="1" colspan="1">19.3</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">5&#x02032;-CH<sub>3</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">18.1</td><td align="char" char="." rowspan="1" colspan="1">18.1</td><td align="char" char="." rowspan="1" colspan="1">18.6</td><td align="char" char="." rowspan="1" colspan="1">18.2</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">7&#x02032;-CH<sub>3</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">19.2</td><td align="char" char="." rowspan="1" colspan="1">19.4</td><td align="char" char="." rowspan="1" colspan="1">19.9</td><td align="char" char="." rowspan="1" colspan="1">19.4</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">13&#x02032;-CH<sub>2</sub>OR or 13&#x02032;-CH<sub>3</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">59.4</td><td align="char" char="." rowspan="1" colspan="1">12.2</td><td align="char" char="." rowspan="1" colspan="1">12.8</td><td align="char" char="." rowspan="1" colspan="1">12.6</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Ac-CO</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">170.3</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Ac-CH<sub>3</sub>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">20.7</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="Tfn5"><label>a</label><p>Recorded at 150&#x000a0;MHz, in DMSO-d<sub>6</sub>.</p></fn><fn id="Tfn6"><label>b</label><p>Recorded at 200&#x000a0;MHz, in DMSO-d<sub>6</sub>.</p></fn><fn id="Tfn7"><label>c</label><p>Recorded at 150&#x000a0;MHz, in CDCl<sub>3</sub>.</p></fn><fn id="Tfn8"><label>d</label><p>Signals were not detected in <sup>13</sup>C NMR, but were found in an HMBC spectrum.</p></fn></table-wrap-foot></table-wrap><p>Fusariumester D (<bold>3</bold>): colorless oil [&#x003b1;]<sup>19.9</sup>
+<sub>D</sub> 3.2 (<italic>c</italic> 0.2, MeOH) UV (MeOH); &#x003bb;<sub>max</sub> (log &#x003b5;) 196 (4.07), 232 (3.69), 270 (4.07)&#x000a0;nm; IR (KBr) &#x003bd;<sub>max</sub> 3,659, 3,433, 2,927, 2,857, 2,011, 1,711, 1,621, 1,530, 1,378, 1,343, 1,324, 1,251, 1,176&#x000a0;cm<sup>&#x0208b;1</sup>. HR-ESI-MS: <italic>m/z</italic> 649.3952 [M&#x02012;H]<sup>&#x02012;</sup> (calcd for C<sub>36</sub>H<sub>57</sub>O<sub>10</sub>, 649.3957). <sup>1</sup>H NMR (600&#x000a0;MHz, DMSO-<italic>d</italic>
+<sub>6</sub>) data see <xref rid="T1" ref-type="table">Table 1</xref>, and <sup>13</sup>C NMR (150&#x000a0;MHz, DMSO-<italic>d</italic>
+<sub>6</sub>) data see <xref rid="T2" ref-type="table">Table 2</xref>.</p><p>Fusariumester E (<bold>4</bold>): colorless oil [&#x003b1;]<sup>19.9</sup>
+<sub>D</sub> 1.0 (<italic>c</italic> 0.2, MeOH) UV (MeOH); &#x003bb;<sub>max</sub> (log &#x003b5;) 196 (4.22), 229 (3.86), 269 (4.32)&#x000a0;nm; IR (KBr) &#x003bd;<sub>max</sub> 2,925, 2,854, 2,644, 2,566, 1,687, 1,604, 1,381, 1,325, 1,253, 1,178&#x000a0;cm<sup>&#x0208b;1</sup>. HR-ESI-MS: <italic>m/z</italic> 649.3959 [M&#x02012;H]<sup>&#x02012;</sup> (calcd for C<sub>36</sub>H<sub>57</sub>O<sub>10</sub>, 649.3957). <sup>1</sup>H NMR (800&#x000a0;MHz, DMSO-<italic>d</italic>
+<sub>6</sub>) data see <xref rid="T1" ref-type="table">Table 1</xref>, and <sup>13</sup>C NMR (200&#x000a0;MHz, DMSO-<italic>d</italic>
+<sub>6</sub>) data see <xref rid="T2" ref-type="table">Table 2</xref>.</p><p>Fusariumester F (<bold>5</bold>): colorless oil [&#x003b1;]<sup>19.9</sup>
+<sub>D</sub> &#x02012; 6.0 (<italic>c</italic> 0.2, MeOH) UV (MeOH); &#x003bb;<sub>max</sub> (log &#x003b5;) 196 (4.35), 232 (3.96), 271 (4.38)&#x000a0;nm; IR (KBr) &#x003bd;<sub>max</sub> 3,420, 2,927, 2,857, 2,644, 1,712, 1,619, 1,381, 1,234, 1,150&#x000a0;cm<sup>&#x0208b;1</sup>. HR-ESI-MS: <italic>m/z</italic> 649.3956 [M&#x02012;H]<sup>&#x02012;</sup> (cald for C<sub>36</sub>H<sub>57</sub>O<sub>10</sub>, 649.3957). <sup>1</sup>H NMR (600&#x000a0;MHz, DMSO-<italic>d</italic>
+<sub>6</sub>) data see <xref rid="T1" ref-type="table">Table 1</xref>, and <sup>13</sup>C NMR (150&#x000a0;MHz, DMSO-<italic>d</italic>
+<sub>6</sub>) data see <xref rid="T2" ref-type="table">Table 2</xref>.</p><p>Acetylfusaridioic acid A (<bold>6</bold>): colorless oil [&#x003b1;]<sup>19.9</sup>
+<sub>D</sub> 5.7 (<italic>c</italic> 0.15, MeOH)&#x000a0;UV (MeOH); &#x003bb;<sub>max</sub> (log &#x003b5;) 196 (3.85), 230 (3.48), 270 (3.95)&#x000a0;nm; IR (KBr) &#x003bd;<sub>max</sub> 3,412, 2,928, 2,859, 2,645, 1,740, 1,716, 1,618, 1,382, 1,250, 1,184&#x000a0;cm<sup>&#x0208b;1</sup>. HR-ESI-MS: <italic>m/z</italic> 383.2074 [M&#x02012;H]<sup>&#x02012;</sup> (calcd for C<sub>20</sub>H<sub>31</sub>O<sub>7</sub>, 383.2075). <sup>1</sup>H NMR (600&#x000a0;MHz, DMSO-<italic>d</italic>
+<sub>6</sub>) data see <xref rid="T1" ref-type="table">Table 1</xref>, and <sup>13</sup>C NMR (150&#x000a0;MHz, DMSO-<italic>d</italic>
+<sub>6</sub>) data see <xref rid="T2" ref-type="table">Table 2</xref>.</p><p>Fusaridioic acid D (<bold>7</bold>): colorless oil [&#x003b1;]<sup>19.9</sup>
+<sub>D</sub> 7.2 (<italic>c</italic> 0.2, MeOH)&#x000a0;UV (MeOH); &#x003bb;<sub>max</sub> (log &#x003b5;) 196 (3.66), 230 (3.66), 269 (4.09)&#x000a0;nm; IR (KBr) &#x003bd;<sub>max</sub> 3,400, 2,929, 2,858, 2,640, 2,229, 2,195, 2,179, 2,164, 2,153, 2,113, 2,056, 2,023, 2.011, 1,970, 1,959, 1,692, 1,622, 1,377, 1,324, 1,251, 1,175&#x000a0;cm<sup>&#x0208b;1</sup>. HR-ESI-MS: <italic>m/z</italic> 325.2023 [M&#x02012;H]<sup>&#x02012;</sup> (calcd for C<sub>18</sub>H<sub>29</sub>O<sub>5</sub>, 325.2020). <sup>1</sup>H NMR (600&#x000a0;MHz, CDCl<sub>3</sub>) data see <xref rid="T1" ref-type="table">Table 1</xref>, and <sup>13</sup>C NMR (150&#x000a0;MHz, CDCl<sub>3</sub>) data see <xref rid="T2" ref-type="table">Table 2</xref>.</p></sec><sec id="s2-4"><title>Antifungal Activity Assay</title><p>Rough Antifungal Activity Test: The rough antifungal activity of compounds <bold>1</bold>&#x02212;<bold>7</bold> was measured by the filter paper agar diffusion method (<xref rid="B40" ref-type="bibr">Xu et al., 2015</xref>). 1&#x000a0;ml suspension (1 &#x000d7; 10<sup>5</sup>&#x000a0;CFU cell or spore concentration) of <italic>C. albicans</italic>, or <italic>Exserohilum turcicum</italic>, <italic>Curvularia lunata</italic>, or <italic>Fusarium oxysporum</italic> in 20% glycerin was inoculated in a Petri dish containing PDA medium; autoclaved paper disks (6&#x000a0;mm diameter) were placed around the fungal inoculant on the same Petri dish, and each of the paper disks impregnated with 10&#x000a0;<italic>&#x003bc;</italic>g testing samples, nystatin (positive control) or an equivalent volume of methanol (blank control). Fungal inoculants were cultivated in dark at 30&#x000b0;C for 2&#x000a0;days, and then the size of the inhibition zones was analyzed. Each compound was retested three times.</p><p>Measurement of minimum inhibitory concentration (MIC) Values (<xref rid="B44" ref-type="bibr">Yu et al., 2016</xref>): A single colony of <italic>C. albicans</italic> on the SDA plate (1% peptone, 4% dextrose and 2% agar) was picked and inoculated into 5&#x000a0;ml YPD (1% yeast extract, 2% peptone and 2% dextrose) liquid medium and cultivated at 37&#x000b0;C, 200&#x000a0;r/min for 16&#x000a0;h to reach the logarithmic growth phase. According to the measured growth curve of <italic>C. albicans</italic>, the fungal inoculum was diluted with YPD liquid medium, ensuring the abundance of the strains was 3 &#x000d7; 10<sup>7</sup>&#x000a0;CFU/ml. Compound <bold>1</bold>, nystatin (positive control) and equivalent methanol (blank control) were dispensed in single wells and mixed with diluted fungal inoculum to make the final concentrations of tested compounds were 10, 20, 40, 80, 160 and 320&#x000a0;<italic>&#x003bc;</italic>g/ml in a single well, respectively. After 48&#x000a0;h of shaking culture at 37&#x000b0;C and 200&#x000a0;r/min, the results were determined visually. The MIC was defined as the lowest concentration where there was no visible growth of <italic>C. albicans</italic>. All the experiments were carried out in triplicate.</p><p>Measurement of half maximal inhibitory concentration (IC<sub>50</sub>) Values (<xref rid="B37" ref-type="bibr">Weidenborner et al., 1990</xref>): The IC<sub>50</sub> of compound <bold>1</bold> against <italic>E. turcicum</italic> was evaluated using 48-well culture plates. The conidia used in these experiments were collected from the 7-day-old culture of fungi grown on PDA. The conidia were collected and the suspension was diluted with sterile water and mix 1:1 with PDB (filtrate of boiled fresh potatoes 200&#x000a0;g/L, dextrose 20&#x000a0;g/L) solution for activity test. 1&#x000a0;ml 1/2 PDB spore suspension was added to single wells, and 1, 2, 4, 8, 16 or 32&#x000a0;<italic>&#x003bc;</italic>L compound <bold>1</bold> or cycloheximide (10&#x000a0;mg/ml) was added to make the final concentration is 9.99&#x02013;310.07&#x000a0;<italic>&#x003bc;</italic>g/ml in a single well. After the 48-well plate was cultured at 200&#x000a0;r/min and 30&#x000b0;C for 7&#x000a0;days, the mycelium at each concentration were collected, dried and weighed. The inhibition rates were treated by nonlinear regression analysis of logistic dose&#x02013;respond curves (Graph Pad Prism eight statistic software) to get the IC<sub>50</sub> value.</p></sec></sec><sec sec-type="results|discussion" id="s3"><title>Results and Discussion</title><sec id="s3-1"><title>Structural Elucidation</title><p>A series of chromatographic methods were used for the isolation of monomeric compounds from the strain fermentation extracts, and diverse spectroscopic analyses were used for their structure elucidation. As a result, seven polyketides were isolated and identified, including one known compound, hymeglusin (<bold>1</bold>) (<xref rid="B16" ref-type="bibr">Kumagai et al., 1992</xref>; <xref rid="B34" ref-type="bibr">Tomoda et al., 1988</xref>), four new bis-alkenoic acid derivatives named fusariumesters C&#x02212;F (<bold>2</bold>&#x02013;<bold>5</bold>), and two new alkenoic acid monomers named acetylfusaridioic acid A (<bold>6</bold>) and fusaridioic acid D (<bold>7</bold>). The absolute configuration of hymeglusin (<bold>1</bold>) was previously determined by chemical degradation method and Mosher method (<xref rid="B5" ref-type="bibr">Chiang et al., 1988</xref>). The optical rotation of hymeglusin (<bold>1</bold>) was {[&#x003b1;]<sup>19.4</sup>
+<sub>D</sub> 24.56 (<italic>c</italic> 0.2, CHCl<sub>3</sub>)} in our project, which reported in the literature was [&#x003b1;]<sup>22</sup>
+<sub>D</sub> 10.6 (<italic>c</italic> 0.1, CHCl<sub>3</sub>) (<xref rid="B13" ref-type="bibr">Kanaida et al., 2021</xref>).</p><p>Compound <bold>2</bold> (fusariumester C) was isolated as colorless oil. Its molecular formula was determined to be C<sub>36</sub>H<sub>58</sub>O<sub>11</sub> by HR-ESI-MS analysis (<italic>m/z</italic> 665.3909 [M &#x02012; H]<sup>&#x02012;</sup>, calcd for C<sub>36</sub>H<sub>57</sub>O<sub>11</sub>, 665.3906, <xref rid="s10" ref-type="sec">Supplementary Figure S9</xref>), suggesting eight degrees of unsaturation. The IR spectrum of <bold>2</bold> displayed characteristic adsorptions for carbonyl groups and carbon-carbon double bonds at 1,712 and 1,620&#x000a0;cm<sup>&#x02212;1</sup>, respectively. The <sup>13</sup>C NMR data (<xref rid="T2" ref-type="table">Table 2</xref>) of <bold>2</bold> showed 36 carbon resonances, and all signals appeared in pairs. Moreover, each pair of the signals closely resembled those of fusaridioic acid A (<xref rid="B18" ref-type="bibr">Liu et al., 2018</xref>). Additionally, comparing the molecular weight (666 Da) of <bold>2</bold> with twice that of fusaridioic acid A (342 Da) yielded a difference of 18 Da. Accordingly, <bold>2</bold> was speculated to be an esterified dimer of fusaridioic acid A (<xref rid="B18" ref-type="bibr">Liu et al., 2018</xref>). Further detailed analysis of its NMR data (<xref rid="s10" ref-type="sec">Supplementary Figures S3&#x02013;8</xref>) supported this hypothesis. Based on the literature report (<xref rid="B18" ref-type="bibr">Liu et al., 2018</xref>), two <sup>13</sup>C NMR signals at <italic>&#x003b4;</italic>
+<sub>C</sub> 167.7 and <italic>&#x003b4;</italic>
+<sub>C</sub> 167.8 were obviously assigned as carboxylic acid carbonyls connecting to quaternary olefinic carbons, while signals at <italic>&#x003b4;</italic>
+<sub>C</sub> 173.8 and <italic>&#x003b4;</italic>
+<sub>C</sub> 172.4 were assigned as aliphatic carboxylic acid carbonyl groups or ester carbonyl groups. The methines at <italic>&#x003b4;</italic>
+<sub>C</sub> 68.8 and <italic>&#x003b4;</italic>
+<sub>C</sub> 68.9 were attributed to hydroxy-substituted ones. The two methylenes at <italic>&#x003b4;</italic>
+<sub>C</sub> 62.6 and <italic>&#x003b4;</italic>
+<sub>C</sub> 59.4 were assigned to be oxygen-bearing ones, and the small difference between their chemical shifts may due to the formation of an ester bond for one of these two carbons. The <sup>1</sup>H NMR data (<xref rid="T1" ref-type="table">Table 1</xref> and <xref rid="s10" ref-type="sec">Supplementary Figure S3</xref>) of <bold>2</bold> revealed four olefinic proton signals at <italic>&#x003b4;</italic>
+<sub>H</sub> 5.56, 5.63, 5.71, 5.69. Detailed HMBC correlations associated with these four above-mentioned protons established the presence of two pairs of diene moieties conjugating with terminal carboxyls (the fragments from C-1 to C-6, and from C-1&#x02032; to C-6&#x02032;, <xref rid="F2" ref-type="fig">Figure 2</xref>). The <sup>1</sup>H NMR data of <bold>2</bold> also showed two overlapped doublets (<italic>&#x003b4;</italic>
+<sub>H</sub> 0.78 and 0.79) of methyls in the high field region (<xref rid="s10" ref-type="sec">Supplementary Figure S3</xref>). Starting with these two above-mentioned methyl signals, two similar aliphatic carbon chains [7-Me(C-6)/C-7/C-8/C-9/C-10/C-11/C-12/C-13/13-CH<sub>2</sub>O and 7&#x02032;-Me(C-6&#x02032;)/C-7&#x02032;/C-8&#x02032;/C-9&#x02032;/C-10&#x02032;/C-11&#x02032;/C-12&#x02032;/C-13&#x02032;/13&#x02032;-CH<sub>2</sub>O, <xref rid="F2" ref-type="fig">Figure 2</xref>] were deduced based on a combined analyses of its HSQC and <sup>1</sup>H&#x02013;<sup>1</sup>H COSY spectra. Lastly, the key HMBC correlations from the proton at <italic>&#x003b4;</italic>
+<sub>H</sub> 4.13 (one proton of 13-CH<sub>2</sub>OR) to the carbons of C-12, C-13, C-14 and C-14&#x02032; demonstrated that two molecules of fusaridioic acid A were dimerized via the ester bond built by 13-CH<sub>2</sub>OH and the carboxylic acid group at C-14&#x02032; (<xref rid="F2" ref-type="fig">Figure 2</xref>). Thus, the planar structure of <bold>2</bold> was elucidated.</p><fig position="float" id="F2"><label>FIGURE 2</label><caption><p>Key HMBC, <sup>1</sup>H&#x02013;<sup>1</sup>H COSY and ROESY correlations of compounds <bold>2</bold>&#x02012;<bold>7</bold>.</p></caption><graphic xlink:href="fchem-09-812564-g002" position="float"/></fig><p>The configurations of the four double bonds in <bold>2</bold> were revealed by the analysis of its ROESY spectrum (<xref rid="F2" ref-type="fig">Figure 2</xref> and <xref rid="s10" ref-type="sec">Supplementary Figure S8</xref>). However, the <sup>1</sup>H NMR data of <bold>2</bold> were helpless for the determination of its stereochemistry because of signal overlapping. For the stereochemistry of reported mono-/bis-alkenoic acid derivatives, the configurations of C-7 (7&#x02032;) and C-13 (13&#x02032;) were conserved to be 7<italic>R</italic> (7&#x02032;<italic>R</italic>) and 13<italic>S</italic> (13&#x02032;<italic>S</italic>) (<xref rid="B18" ref-type="bibr">Liu et al., 2018</xref>; <xref rid="B24" ref-type="bibr">Niu et al., 2019</xref>; <xref rid="B33" ref-type="bibr">Tang et al., 2019</xref>), while the configuration of C-12 (12&#x02032;) turned out to be 12 (12&#x02032;) <italic>R</italic> or 12 (12&#x02032;) <italic>S</italic> (<xref rid="B18" ref-type="bibr">Liu et al., 2018</xref>). Recently, it was reported that the configurations of fungal polyketides were conserved in general with few exceptions (<xref rid="B32" ref-type="bibr">Takino et al., 2021</xref>). Therefore, in view of the shared biosynthetic pathway of mono-/bis-alkenoic acid derivatives, as well as previous literature reports (<xref rid="B18" ref-type="bibr">Liu et al., 2018</xref>; <xref rid="B24" ref-type="bibr">Niu et al., 2019</xref>; <xref rid="B33" ref-type="bibr">Tang et al., 2019</xref>), the configurations of C-7 (7&#x02032;) and C-13 (13&#x02032;) in <bold>2</bold> were supposed to be 7<italic>R</italic> (7&#x02032;<italic>R</italic>) and 13<italic>S</italic> (13&#x02032;<italic>S</italic>), respectively. Compared with the <sup>13</sup>C NMR and <sup>1</sup>H NMR chemical shifts of C-12 (12&#x02032;) in the dimers reported in the literature (<xref rid="B18" ref-type="bibr">Liu et al., 2018</xref>, <xref rid="s10" ref-type="sec">Supplementary Table S1</xref>), the absolute configurations of C-12 (12&#x02032;) in compound <bold>2</bold> were determined to be 12<italic>R</italic> (12&#x02032;<italic>R</italic>). In this way, the chemical structure of <bold>2</bold> was identified as shown in <xref rid="F1" ref-type="fig">Figure 1</xref>. Since three similar alkenoic acid dimers were given the trivial names of fusariumesters A<sub>1</sub>, A<sub>2</sub>, and B (<xref rid="B18" ref-type="bibr">Liu et al., 2018</xref>) previously, compound <bold>2</bold> was named as fusariumester C.</p><p>Compound <bold>3</bold> (fusariumester D<bold>)</bold> was isolated as colorless oil. Its molecular formula was confirmed to be C<sub>36</sub>H<sub>58</sub>O<sub>10</sub> by HR-ESI-MS data (<italic>m/z</italic> 649.3952 [M &#x02012; H]<sup>&#x02012;</sup>, calcd for C<sub>36</sub>H<sub>57</sub>O<sub>10</sub>, 649.3957, <xref rid="s10" ref-type="sec">Supplementary Figure S16</xref>), indicating eight degrees of unsaturation. The molecular weight of compound <bold>3</bold> (650&#x000a0;Da) was lower than that of compound <bold>2</bold> (666&#x000a0;Da) with a difference of 16&#x000a0;Da. The <sup>1</sup>H and <sup>13</sup>C NMR spectra of <bold>3</bold> closely resembled those of <bold>2</bold> (<xref rid="T1" ref-type="table">Table 1</xref> and <xref rid="T2" ref-type="table">Table 2</xref>), and the comparison of their <sup>1</sup>H and <sup>13</sup>C NMR data (<xref rid="s10" ref-type="sec">Supplementary Figures S10,11</xref>) indicated a methyl (13&#x02032;-Me) in <bold>3</bold> instead of a hydroxymethyl (13&#x02032;-CH<sub>2</sub>OH) in <bold>2</bold>. This hypothesis was confirmed by HMBC (<xref rid="s10" ref-type="sec">Supplementary Figure S13</xref>) correlations from protons of 13&#x02032;-CH<sub>2</sub>OH to C-12&#x02032;, C-13&#x02032;, and C-14&#x02019; (<xref rid="F2" ref-type="fig">Figure 2</xref>). Analogously, a group of HMBC correlations from the proton at <italic>&#x003b4;</italic>
+<sub>H</sub> 4.14 (one proton of 13-CH<sub>2</sub>OR) to C-12, C-13, C-14, and C-14&#x02032; proved that <bold>3</bold> shared the same esterified dimerization way as <bold>2</bold>.</p><p>Compound <bold>4</bold> (fusariumester E) is a colorless viscous oil. Its molecular formula was determined to be same with that of <bold>3</bold> based on the HR-ESI-MS analysis (<italic>m/z</italic> 649.3959 [M &#x02012; H]<sup>&#x02012;</sup>, calcd for C<sub>36</sub>H<sub>57</sub>O<sub>10</sub>, 649.3957, <xref rid="s10" ref-type="sec">Supplementary Figure S23</xref>). The <sup>1</sup>H and <sup>13</sup>C NMR data of <bold>4</bold> and <bold>3</bold> were highly similar (<xref rid="T1" ref-type="table">Table 1</xref> and <xref rid="T2" ref-type="table">Table 2</xref>). The most striking differences between their <sup>13</sup>C NMR data were that chemical shift of 13-CH<sub>2</sub>OR was upfield shifted from 62.9&#x000a0;ppm in <bold>3</bold> to 60.4&#x000a0;ppm in <bold>4</bold>, and the chemical shift of C-12 was downfield shifted from 69.0&#x000a0;ppm in <bold>3</bold> to 71.7&#x000a0;ppm in <bold>4</bold>. In view of the same molecular formula shared by <bold>3</bold> and <bold>4</bold>, this phenomenon implied that <bold>4</bold> might possess a different dimerization site. Key HMBC correlations from H-12 to C-10, C-11, C-13, C-14 and C-14&#x02032; certified that an ester bond was built in <bold>4</bold> with the carboxylic acid group in one monomer at C-14&#x02032; and the hydroxyl at C-12 in another monomer (<xref rid="F2" ref-type="fig">Figure 2</xref>).</p><p>Compound <bold>5</bold> (fusariumester F) was also isolated as colorless oil. Its molecular formula was speculated to be C<sub>36</sub>H<sub>58</sub>O<sub>10</sub> by HR-ESI-MS analysis (<italic>m/z</italic> 649.3956 [M &#x02012; H]<sup>&#x02012;</sup>, cald for C<sub>36</sub>H<sub>57</sub>O<sub>10</sub>, 649.3957, <xref rid="s10" ref-type="sec">Supplementary Figure S30</xref>). Comparing the <sup>1</sup>H and <sup>13</sup>C NMR data of <bold>5</bold> with those of <bold>2&#x02013;4</bold> (<xref rid="T1" ref-type="table">Table 1</xref> and <xref rid="T2" ref-type="table">Table 2</xref>) predicted <bold>5</bold> also to be a bis-alkenoic acid derivative but decorating with another new esterified dimerization way. A vital HMBC (<xref rid="s10" ref-type="sec">Supplementary Figure S27</xref>) cross peak of H-12/C-1&#x02032; defined that the hydroxyl at C-12 in one monomer and the terminal carboxylic acid at C-1&#x02032; contributed to the dimerized ester bond in <bold>5</bold>.</p><p>Compound <bold>6</bold> (acetylfusaridioic acid A) was isolated as colorless oil. Its elemental composition was determined to be C<sub>20</sub>H<sub>32</sub>O<sub>7</sub> by HR-ESI-MS analysis (<italic>m/z</italic> 383.2074 [M &#x02012; H]<sup>&#x02012;</sup>, calcd for 383.2075 C<sub>20</sub>H<sub>31</sub>O<sub>7</sub>, <xref rid="s10" ref-type="sec">Supplementary Figure S37</xref>), indicating five degrees of unsaturation. Its <sup>1</sup>H NMR and HSQC data distinctly showed two olefinic protons (<italic>&#x003b4;</italic>
+<sub>H</sub> 5.59 and 5.71), two oxygenated <italic>gem</italic>-protons (<italic>&#x003b4;</italic>
+<sub>H</sub> 4.11 and 4.15), and four methyl groups (three singlets at <italic>&#x003b4;</italic>
+<sub>H</sub> 2.14, 1.96, 1.74, and one doublet at <italic>&#x003b4;</italic>
+<sub>H</sub> 0.79). Three down-field shifted carbonyls (<italic>&#x003b4;</italic>
+<sub>C</sub> 173.2, 170.3, 167.7), four olefinic carbons (<italic>&#x003b4;</italic>
+<sub>C</sub> 152.4, 140.7, 129.2, 118.3), one oxygen-bearing methylene (<italic>&#x003b4;</italic>
+<sub>C</sub> 62.5), and four methyl groups (<italic>&#x003b4;</italic>
+<sub>C</sub> 20.7, 19.3, 18.1, 19.1) were observed in the <sup>13</sup>C NMR spectrum of <bold>6</bold>. Examination of its detailed <sup>13</sup>C NMR data with those of fusaridioic acid A (<xref rid="B18" ref-type="bibr">Liu et al., 2018</xref>) suggested that <bold>6</bold> was the product of acetylation at 13-CH<sub>2</sub>OH in fusaridioic acid A. Key HMBC (<xref rid="s10" ref-type="sec">Supplementary Figure S34</xref>) correlations from protons (<italic>&#x003b4;</italic>
+<sub>H</sub> 4.11 and 4.15) of 13-CH<sub>2</sub>O moiety to the carbonyl (<italic>&#x003b4;</italic>
+<sub>C</sub> 170.3) of the acetyl group supported this deduction (<xref rid="F2" ref-type="fig">Figure 2</xref>). Like compound <bold>2</bold>, the configurations of C-7 and C-13 in <bold>6</bold> were supposed to be 7<italic>R</italic> and 13<italic>S</italic> based on a thought of conserved biosynthetic logic. And the C-12 (12&#x02032;) absolute configurations in compounds <bold>3</bold>, <bold>4</bold>, <bold>5</bold>, and <bold>6</bold> were determined to be 12<italic>R</italic> (12&#x02032;<italic>R</italic>), 12<italic>S</italic> (12&#x02032;<italic>R</italic>), 12<italic>S</italic> (12&#x02032;<italic>R</italic>), and 12<italic>R</italic>, respectively, by comparisons of their proton NMR data of H-12 (12&#x02032;) with literature reports (<xref rid="s10" ref-type="sec">Supplementary Table S1</xref>).</p><p>Fusaridioic acid D <bold>(7)</bold> was found to possess the molecular formula C<sub>18</sub>H<sub>30</sub>O<sub>5</sub> from the HR-ESI-MS data (<italic>m/z</italic> 325.2023 [M&#x02012;H]<sup>&#x02012;</sup>, calcd for 325.2020 C<sub>18</sub>H<sub>29</sub>O<sub>5</sub>, <xref rid="s10" ref-type="sec">Supplementary Figure S44</xref>), corresponding to an unsaturation index of four. Detailed analyses of its <sup>1</sup>H and <sup>13</sup>C NMR data (<xref rid="T1" ref-type="table">Table 1</xref> and <xref rid="T2" ref-type="table">Table 2</xref>) revealed that <bold>7</bold> is one of the monomers involved in compound <bold>3</bold>. That&#x02019;s to say the chemical structure of <bold>7</bold> is a dehydroxylation product of fusaridioic acid A (<xref rid="B18" ref-type="bibr">Liu et al., 2018</xref>). This hypothesis was further proved by key HMBC (<xref rid="s10" ref-type="sec">Supplementary Figure S41</xref>) correlations from a methyl (<italic>&#x003b4;</italic>
+<sub>H</sub> 1.26) to C-14, C-13, and C-12 in <bold>7</bold> (<xref rid="F2" ref-type="fig">Figure 2</xref>). By referring to the <sup>13</sup>C NMR and <sup>1</sup>H NMR chemical shifts of known compounds with similar structural units, the absolute configuration of C-12 in compound <bold>7</bold> was determined to be 12<italic>S</italic> (<xref rid="s10" ref-type="sec">Supplementary Tables S1</xref>) (<xref rid="B43" ref-type="bibr">Ying and Hong, 2007</xref>; <xref rid="B3" ref-type="bibr">Bisek et al., 2008</xref>).</p></sec><sec id="s3-2"><title>Evaluation of Antifungal Activity</title><p>The rough antifungal activity of compounds <bold>1&#x02013;7</bold> were measured by the filter paper agar diffusion method (<xref rid="B40" ref-type="bibr">Xu et al., 2015</xref>). Compounds <bold>2&#x02013;7</bold> showed no significant inhibitory activity against <italic>C. albicans</italic>, and only compound <bold>1</bold> could inhibit <italic>C. albicans</italic> (<xref rid="s10" ref-type="sec">Supplementary Figure S49</xref>). The MIC value (20&#x000a0;<italic>&#x003bc;</italic>g/ml) of <bold>1</bold> against <italic>C. albicans</italic> was then determined by broth microdilution techniques (<xref rid="B44" ref-type="bibr">Yu et al., 2016</xref>), using nystatin (MIC = 10&#x000a0;<italic>&#x003bc;</italic>g/ml) as the positive control (<xref rid="s10" ref-type="sec">Supplementary Figure S46</xref>). As the previous references reported the antifungal activity of alkenoic acids against plant pathogens (<xref rid="B18" ref-type="bibr">Liu et al., 2018</xref>; <xref rid="B24" ref-type="bibr">Niu et al., 2019</xref>; <xref rid="B33" ref-type="bibr">Tang et al., 2019</xref>), all the isolates were also submitted to an antifungal assay against three agricultural pathogenic fungi, <italic>Exserohilum turcicum</italic>, <italic>Curvularia lunata</italic>, and <italic>Fusarium oxysporum</italic>. As a result, only compound <bold>1</bold> showed a good inhibitory activity against <italic>E. turcicum</italic>, with an IC<sub>50</sub> value (21.23&#x000a0;<italic>&#x003bc;</italic>g/ml) significantly lower than the positive control, cycloheximide (IC<sub>50</sub> = 46.70&#x000a0;<italic>&#x003bc;</italic>g/ml) (<xref rid="s10" ref-type="sec">Supplementary Figures S47,48</xref>). Except for hymeglusin (<bold>1</bold>), none of the isolated alkenoic acid derivatives could suppress the growth of tested pathogenic fungi. Therefore, it could be concluded that the <italic>&#x003b2;</italic>-lactone ring was a key moiety for the antifungal activity. Just as the previous reports, the antifungal activity of alkenoic acid derivatives is always accompanied by the appearance of the <italic>&#x003b2;</italic>-lactone ring (<xref rid="B18" ref-type="bibr">Liu et al., 2018</xref>; <xref rid="B24" ref-type="bibr">Niu et al., 2019</xref>; <xref rid="B33" ref-type="bibr">Tang et al., 2019</xref>). It was reported that the <italic>&#x003b2;</italic>-lactone ring played a key role in inhibiting fungal HMG-CoA (3-hydroxy-3-methylglutaryl-CoA) synthase activity (<xref rid="B10" ref-type="bibr">Greenspan et al., 1993</xref>; <xref rid="B35" ref-type="bibr">Tomoda et al., 2004</xref>; <xref rid="B31" ref-type="bibr">Skaff et al., 2012</xref>).</p></sec></sec><sec sec-type="conclusions" id="s4"><title>Conclusions</title><p>In recent years, 23 alkenoic acid derivatives were reported in total (<xref rid="s10" ref-type="sec">Supplementary Figure S51</xref>) (<xref rid="B18" ref-type="bibr">Liu et al., 2018</xref>; <xref rid="B24" ref-type="bibr">Niu et al., 2019</xref>; <xref rid="B33" ref-type="bibr">Tang et al., 2019</xref>). Among them, most of the alkenoic acid derivatives are acyclic, and seven of them are decorating with terminal lactone rings, including <italic>&#x003b2;</italic>-lactone (such as fusarilactone A, fusarilactone B, hymeglusin, fusarisolin A, and fusariumester B), <italic>&#x003b3;</italic>-lactone (such as fusarisolin B), and <italic>&#x003b4;</italic>-lactone (such as fusarilactone C). For these reported alkenoic acids, oxidative modifications (carboxylic acids or hydroxyls) often occur at C-1, C-12, Me-13, and C-14. The stereochemistry of acyclic alkenoic acids is usually conserved with 7<italic>R</italic> and 13<italic>S</italic>, while the stereochemistry of C-12 with a hydroxy modification is hybrid with <italic>R</italic> (eg, fusarisolin D, fusaridioic acid A, and fusariumester A<sub>2</sub>) or <italic>S</italic> (eg, fusariumester A<sub>1</sub> and L-660282) configuration. Preliminary biosynthetic study of 1233A (equal to F-244, L-659, 699, or hymeglusin) revealed that alkenoic acids are built via a type I polyketide synthase (PKS) logic (<xref rid="B16" ref-type="bibr">Kumagai et al., 1992</xref>; <xref rid="B14" ref-type="bibr">Kato et al., 2020</xref>). A plausible biosynthetic pathway of compounds <bold>1</bold>&#x02013;<bold>7</bold> was also proposed in our project (<xref rid="s10" ref-type="sec">Supplementary Figure S50</xref>).</p><p>To date, only three examples of dimerized alkenoic acid compounds (fusariumesters A<sub>1</sub>, A<sub>2</sub>, and B) have been reported (<xref rid="B18" ref-type="bibr">Liu et al., 2018</xref>), of which fusariumesters A<sub>1</sub> and A<sub>2</sub> are dimerized by an ester bond formed by the hydroxyl group at C-12 and the carboxyl group at C-14&#x02032;, and fusariumester B is dimerized by an ester bond involving the hydroxyl group at C-12 and the carboxyl group at C-1&#x02032;. In this paper, we reported six new mono-/bis-alkenoic acid derivatives (<bold>2</bold>&#x02013;<bold>7</bold>) and one known alkenoic acid derivative (<bold>1</bold>) from an endophytic fungi <italic>S. candelabrum</italic>. Consistent with previous reports (<xref rid="B11" ref-type="bibr">Greenspan et al., 1987</xref>; <xref rid="B25" ref-type="bibr">Omura et al., 1987</xref>; <xref rid="B34" ref-type="bibr">Tomoda et al., 1988</xref>), the antifungal screening found that hymeglusin (<bold>1</bold>) with a <italic>&#x003b2;</italic>-lactone ring exhibited obvious activity against <italic>C. albicans</italic> (<xref rid="B34" ref-type="bibr">Tomoda et al., 1988</xref>) and <italic>E. turcicum</italic>. In addition, our discovery of these four new dimerized alkenoic acids (fusariumesters C&#x02212;F, <bold>2</bold>&#x02013;<bold>5</bold>) expanded the structure diversity of this family of natural products. These alkenoic acid dimers may be formed via the esterification of the same or different monomers with the aid of one or more esterases (<xref rid="B41" ref-type="bibr">Xu et al., 2020</xref>). It is also possible that the dimerization is initiated by thioesterase catalysis (<xref rid="B7" ref-type="bibr">Du and Lou, 2010</xref>).</p></sec></body><back><sec sec-type="data-availability" id="s5"><title>Data Availability Statement</title><p>All datasets for this study are included in the article/<xref rid="s10" ref-type="sec">Supplementary Material</xref>.</p></sec><sec id="s6"><title>Author Contributions</title><p>JT and XH contributed equally to this work. JT and XH isolated the compounds. JT, XH, and LW identified the chemical structures and prepared the original manuscript. M-HC isolated the strain and performed the strain fermentation. JT and ZW conducted the antifungal assay. YY identified the strain. JT, LW, ZY, J-PH, and S-XH revised the manuscript. S-XH, YY, J-PH, and LW provided financial supports for this project. S-XH designed and supervised the research. All authors approved of the final version of the manuscript.</p></sec><sec id="s7"><title>Funding</title><p>This research was funded by National Natural Science Foundation of China (Nos. 21977100 and 32000239), Yunnan Provincial Science and Technology Department (Nos. 2019FJ007, 2019FA034, and 202101AU070066), and Biological Resources Program of Chinese Academy of Sciences (No.KFJ-BRP-009).</p></sec><sec sec-type="COI-statement" id="s8"><title>Conflict of Interest</title><p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p></sec><sec sec-type="disclaimer" id="s9"><title>Publisher&#x02019;s Note</title><p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p></sec><sec id="s10"><title>Supplementary Material</title><p>The Supplementary Material for this article can be found online at: <ext-link xlink:href="https://www.frontiersin.org/articles/10.3389/fchem.2021.812564/full#supplementary-material" ext-link-type="uri">https://www.frontiersin.org/articles/10.3389/fchem.2021.812564/full#supplementary-material</ext-link>
+</p><supplementary-material id="SM1" position="float" content-type="local-data"><media xlink:href="DataSheet1.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec><ref-list><title>References</title><ref id="B1"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aldholmi</surname><given-names>M.</given-names></name><name><surname>Marchand</surname><given-names>P.</given-names></name><name><surname>Ourliac-Garnier</surname><given-names>I.</given-names></name><name><surname>Le Pape</surname><given-names>P.</given-names></name><name><surname>Ganesan</surname><given-names>A.</given-names></name></person-group> (<year>2019</year>). <article-title>A Decade of Antifungal Leads from Natural Products: 2010-2019</article-title>. <source>Pharmaceuticals</source>
+<volume>12</volume>, <fpage>182</fpage>. <pub-id pub-id-type="doi">10.3390/ph12040182</pub-id>
+</mixed-citation></ref><ref id="B2"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baker</surname><given-names>D. D.</given-names></name><name><surname>Chu</surname><given-names>M.</given-names></name><name><surname>Oza</surname><given-names>U.</given-names></name><name><surname>Rajgarhia</surname><given-names>V.</given-names></name></person-group> (<year>2007</year>). <article-title>The Value of Natural Products to Future Pharmaceutical Discovery</article-title>. <source>Nat. Prod. Rep.</source>
+<volume>24</volume>, <fpage>1225</fpage>&#x02013;<lpage>1244</lpage>. <pub-id pub-id-type="doi">10.1039/b602241n</pub-id>
+<pub-id pub-id-type="pmid">18033577</pub-id></mixed-citation></ref><ref id="B3"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bisek</surname><given-names>N.</given-names></name><name><surname>Wetzel</surname><given-names>S.</given-names></name><name><surname>Arndt</surname><given-names>H.-D.</given-names></name><name><surname>Waldmann</surname><given-names>H.</given-names></name></person-group> (<year>2008</year>). <article-title>Synthesis and Conformational Analysis of Stevastelin C3 Analogues and Their Activity against the Dual-specific Vaccina H1-Related Phosphatase</article-title>. <source>Chem. Eur. J.</source>
+<volume>14</volume>, <fpage>8847</fpage>&#x02013;<lpage>8860</lpage>. <pub-id pub-id-type="doi">10.1002/chem.200800692</pub-id>
+<pub-id pub-id-type="pmid">18767075</pub-id></mixed-citation></ref><ref id="B4"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cantrell</surname><given-names>C. L.</given-names></name><name><surname>Dayan</surname><given-names>F. E.</given-names></name><name><surname>Duke</surname><given-names>S. O.</given-names></name></person-group> (<year>2012</year>). <article-title>Natural Products as Sources for New Pesticides</article-title>. <source>J. Nat. Prod.</source>
+<volume>75</volume>, <fpage>1231</fpage>&#x02013;<lpage>1242</lpage>. <pub-id pub-id-type="doi">10.1021/np300024u</pub-id>
+<pub-id pub-id-type="pmid">22616957</pub-id></mixed-citation></ref><ref id="B5"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chiang</surname><given-names>Y. C. P.</given-names></name><name><surname>Chang</surname><given-names>M. N.</given-names></name><name><surname>Yang</surname><given-names>S. S.</given-names></name><name><surname>Chabala</surname><given-names>J. C.</given-names></name><name><surname>Heck</surname><given-names>J. V.</given-names></name></person-group> (<year>1988</year>). <article-title>Absolute Configuration of L659,699, a Novel Inhibitor of Cholesterol Biosynthesis</article-title>. <source>J. Org. Chem.</source>
+<volume>53</volume>, <fpage>4599</fpage>&#x02013;<lpage>4603</lpage>. <pub-id pub-id-type="doi">10.1021/Jo00254a042</pub-id>
+</mixed-citation></ref><ref id="B6"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Di Santo</surname><given-names>R.</given-names></name></person-group> (<year>2010</year>). <article-title>Natural Products as Antifungal Agents against Clinically Relevant Pathogens</article-title>. <source>Nat. Prod. Rep.</source>
+<volume>27</volume>, <fpage>1084</fpage>&#x02013;<lpage>1098</lpage>. <pub-id pub-id-type="doi">10.1039/b914961a</pub-id>
+<pub-id pub-id-type="pmid">20485730</pub-id></mixed-citation></ref><ref id="B7"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Du</surname><given-names>L.</given-names></name><name><surname>Lou</surname><given-names>L.</given-names></name></person-group> (<year>2010</year>). <article-title>PKS and NRPS Release Mechanisms</article-title>. <source>Nat. Prod. Rep.</source>
+<volume>27</volume>, <fpage>255</fpage>&#x02013;<lpage>278</lpage>. <pub-id pub-id-type="doi">10.1039/b912037h</pub-id>
+<pub-id pub-id-type="pmid">20111804</pub-id></mixed-citation></ref><ref id="B8"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Elbanna</surname><given-names>A. H.</given-names></name><name><surname>Khalil</surname><given-names>Z. G.</given-names></name><name><surname>Bernhardt</surname><given-names>P. V.</given-names></name><name><surname>Capon</surname><given-names>R. J.</given-names></name></person-group> (<year>2019</year>). <article-title>Scopularides Revisited: Molecular Networking Guided Exploration of Lipodepsipeptides in Australian marine Fish Gastrointestinal Tract-Derived Fungi</article-title>. <source>Mar. Drugs</source>
+<volume>17</volume>, <fpage>475</fpage>. <pub-id pub-id-type="doi">10.3390/md17080475</pub-id>
+</mixed-citation></ref><ref id="B9"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fidel</surname><given-names>P. L.</given-names><suffix>Jr.</suffix></name><name><surname>Barousse</surname><given-names>M.</given-names></name><name><surname>Espinosa</surname><given-names>T.</given-names></name><name><surname>Ficarra</surname><given-names>M.</given-names></name><name><surname>Sturtevant</surname><given-names>J.</given-names></name><name><surname>Martin</surname><given-names>D. H.</given-names></name><etal/></person-group> (<year>2004</year>). <article-title>An Intravaginal Live Candida challenge in Humans Leads to New Hypotheses for the Immunopathogenesis of Vulvovaginal Candidiasis</article-title>. <source>Infect. Immun.</source>
+<volume>72</volume>, <fpage>2939</fpage>&#x02013;<lpage>2946</lpage>. <pub-id pub-id-type="doi">10.1128/IAI.72.5.2939-2946.2004</pub-id>
+<pub-id pub-id-type="pmid">15102806</pub-id></mixed-citation></ref><ref id="B10"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Greenspan</surname><given-names>M. D.</given-names></name><name><surname>Bull</surname><given-names>H. G.</given-names></name><name><surname>Yudkovitz</surname><given-names>J. B.</given-names></name><name><surname>Hanf</surname><given-names>D. P.</given-names></name><name><surname>Alberts</surname><given-names>A. W.</given-names></name></person-group> (<year>1993</year>). <article-title>Inhibition of 3-Hydroxy-3-Methylglutaryl-CoA Synthase and Cholesterol Biosynthesis by &#x003b2;-lactone Inhibitors and Binding of These Inhibitors to the Enzyme</article-title>. <source>Biochem. J.</source>
+<volume>289</volume>, <fpage>889</fpage>&#x02013;<lpage>895</lpage>. <pub-id pub-id-type="doi">10.1042/Bj2890889</pub-id>
+<pub-id pub-id-type="pmid">8094614</pub-id></mixed-citation></ref><ref id="B11"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Greenspan</surname><given-names>M. D.</given-names></name><name><surname>Yudkovitz</surname><given-names>J. B.</given-names></name><name><surname>Lo</surname><given-names>C. Y.</given-names></name><name><surname>Chen</surname><given-names>J. S.</given-names></name><name><surname>Alberts</surname><given-names>A. W.</given-names></name><name><surname>Hunt</surname><given-names>V. M.</given-names></name><etal/></person-group> (<year>1987</year>). <article-title>Inhibition of Hydroxymethylglutaryl-Coenzyme A Synthase by L-659,699</article-title>. <source>Proc. Natl. Acad. Sci.</source>
+<volume>84</volume>, <fpage>7488</fpage>&#x02013;<lpage>7492</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.84.21.7488</pub-id>
+<pub-id pub-id-type="pmid">2890166</pub-id></mixed-citation></ref><ref id="B12"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hall</surname><given-names>R. A.</given-names></name><name><surname>Noverr</surname><given-names>M. C.</given-names></name></person-group> (<year>2017</year>). <article-title>Fungal Interactions with the Human Host: Exploring the Spectrum of Symbiosis</article-title>. <source>Curr. Opin. Microbiol.</source>
+<volume>40</volume>, <fpage>58</fpage>&#x02013;<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1016/j.mib.2017.10.020</pub-id>
+<pub-id pub-id-type="pmid">29132066</pub-id></mixed-citation></ref><ref id="B13"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kanaida</surname><given-names>M.</given-names></name><name><surname>Kimishima</surname><given-names>A.</given-names></name><name><surname>Eguchi</surname><given-names>S.</given-names></name><name><surname>Iwatsuki</surname><given-names>M.</given-names></name><name><surname>Watanabe</surname><given-names>Y.</given-names></name><name><surname>Honsho</surname><given-names>M.</given-names></name><etal/></person-group> (<year>2021</year>). <article-title>Total Syntheses and Chemical Biology Studies of Hymeglusin and Fusarilactone A, Novel Circumventors of &#x003b2;&#x02010;Lactam Drug Resistance in Methicillin&#x02010;Resistant <italic>Staphylococcus aureus</italic>
+</article-title>. <source>Chemmedchem</source>
+<volume>16</volume>, <fpage>2106</fpage>&#x02013;<lpage>2111</lpage>. <pub-id pub-id-type="doi">10.1002/cmdc.202100219</pub-id>
+<pub-id pub-id-type="pmid">33783142</pub-id></mixed-citation></ref><ref id="B14"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kato</surname><given-names>S.</given-names></name><name><surname>Motoyama</surname><given-names>T.</given-names></name><name><surname>Uramoto</surname><given-names>M.</given-names></name><name><surname>Nogawa</surname><given-names>T.</given-names></name><name><surname>Kamakura</surname><given-names>T.</given-names></name><name><surname>Osada</surname><given-names>H.</given-names></name></person-group> (<year>2020</year>). <article-title>Induction of Secondary Metabolite Production by Hygromycin B and Identification of the 1233A Biosynthetic Gene Cluster with a Self-Resistance Gene</article-title>. <source>J. Antibiot.</source>
+<volume>73</volume>, <fpage>475</fpage>&#x02013;<lpage>479</lpage>. <pub-id pub-id-type="doi">10.1038/s41429-020-0295-4</pub-id>
+</mixed-citation></ref><ref id="B15"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kr&#x0010d;m&#x000e9;ry</surname><given-names>V.</given-names></name><name><surname>Fri&#x0010d;</surname><given-names>M.</given-names></name><name><surname>Pisar&#x0010d;ikov&#x000e1;</surname><given-names>M.</given-names></name><name><surname>Huttov&#x000e1;</surname><given-names>M.</given-names></name><name><surname>Filka</surname><given-names>J.</given-names></name><name><surname>Kralinsk&#x000fd;</surname><given-names>K.</given-names></name><etal/></person-group> (<year>2000</year>). <article-title>Fungemia in Neonates: Report of 80 Cases from Seven University Hospitals</article-title>. <source>Pediatrics</source>
+<volume>105</volume>, <fpage>913</fpage>&#x02013;<lpage>915</lpage>. <pub-id pub-id-type="doi">10.1542/peds.105.4.913</pub-id>
+<pub-id pub-id-type="pmid">10819665</pub-id></mixed-citation></ref><ref id="B16"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kumagai</surname><given-names>H.</given-names></name><name><surname>Tomoda</surname><given-names>H.</given-names></name><name><surname>Omura</surname><given-names>S.</given-names></name></person-group> (<year>1992</year>). <article-title>Biosynthesis of Antibiotic 1233A (F-244) and Preparation of (<sup>14</sup>C) 1233A</article-title>. <source>J. Antibiot.</source>
+<volume>45</volume>, <fpage>563</fpage>&#x02013;<lpage>567</lpage>. <pub-id pub-id-type="doi">10.7164/antibiotics.45.563</pub-id>
+</mixed-citation></ref><ref id="B17"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Levesque</surname><given-names>E.</given-names></name><name><surname>Paugam-Burtz</surname><given-names>C.</given-names></name><name><surname>Saliba</surname><given-names>F.</given-names></name><name><surname>Khoy-Ear</surname><given-names>L.</given-names></name><name><surname>Merle</surname><given-names>J.-C.</given-names></name><name><surname>Jung</surname><given-names>B.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>Fungal Complications after Candida preservation Fluid Contamination in Liver Transplant Recipients</article-title>. <source>Transpl. Int.</source>
+<volume>28</volume>, <fpage>1308</fpage>&#x02013;<lpage>1316</lpage>. <pub-id pub-id-type="doi">10.1111/tri.12633</pub-id>
+<pub-id pub-id-type="pmid">26147662</pub-id></mixed-citation></ref><ref id="B18"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>S.-Z.</given-names></name><name><surname>Yan</surname><given-names>X.</given-names></name><name><surname>Tang</surname><given-names>X.-X.</given-names></name><name><surname>Lin</surname><given-names>J.-G.</given-names></name><name><surname>Qiu</surname><given-names>Y.-K.</given-names></name></person-group> (<year>2018</year>). <article-title>New Bis-Alkenoic Acid Derivatives from a marine-derived Fungus <italic>Fusarium Solani</italic> H915</article-title>. <source>Mar. Drugs</source>
+<volume>16</volume>, <fpage>483</fpage>. <pub-id pub-id-type="doi">10.3390/md16120483</pub-id>
+</mixed-citation></ref><ref id="B19"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lohse</surname><given-names>M. B.</given-names></name><name><surname>Gulati</surname><given-names>M.</given-names></name><name><surname>Johnson</surname><given-names>A. D.</given-names></name><name><surname>Nobile</surname><given-names>C. J.</given-names></name></person-group> (<year>2018</year>). <article-title>Development and Regulation of Single- and Multi-Species <italic>Candida Albicans</italic> Biofilms</article-title>. <source>Nat. Rev. Microbiol.</source>
+<volume>16</volume>, <fpage>19</fpage>&#x02013;<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1038/nrmicro.2017.107</pub-id>
+<pub-id pub-id-type="pmid">29062072</pub-id></mixed-citation></ref><ref id="B20"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lu</surname><given-names>H.</given-names></name><name><surname>Shrivastava</surname><given-names>M.</given-names></name><name><surname>Whiteway</surname><given-names>M.</given-names></name><name><surname>Jiang</surname><given-names>Y.</given-names></name></person-group> (<year>2021</year>). <article-title>
+<italic>Candida Albicans</italic> Targets that Potentially Synergize with Fluconazole</article-title>. <source>Crit. Rev. Microbiol.</source>
+<volume>47</volume>, <fpage>323</fpage>&#x02013;<lpage>337</lpage>. <pub-id pub-id-type="doi">10.1080/1040841X.2021.1884641</pub-id>
+<pub-id pub-id-type="pmid">33587857</pub-id></mixed-citation></ref><ref id="B21"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lu</surname><given-names>M.</given-names></name><name><surname>Li</surname><given-names>T.</given-names></name><name><surname>Wan</surname><given-names>J.</given-names></name><name><surname>Li</surname><given-names>X.</given-names></name><name><surname>Yuan</surname><given-names>L.</given-names></name><name><surname>Sun</surname><given-names>S.</given-names></name></person-group> (<year>2017</year>). <article-title>Antifungal Effects of Phytocompounds on <italic>Candida</italic> Species Alone and in Combination with Fluconazole</article-title>. <source>Int. J. Antimicrob. Agents</source>
+<volume>49</volume>, <fpage>125</fpage>&#x02013;<lpage>136</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijantimicag.2016.10.021</pub-id>
+<pub-id pub-id-type="pmid">28040409</pub-id></mixed-citation></ref><ref id="B22"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mishra</surname><given-names>A. A.</given-names></name><name><surname>Koh</surname><given-names>A. Y.</given-names></name></person-group> (<year>2021</year>). <article-title>The Microbial and Host Factors that Govern Candida Gastrointestinal Colonization and Dissemination</article-title>. <source>Curr. Opin. Microbiol.</source>
+<volume>63</volume>, <fpage>29</fpage>&#x02013;<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1016/j.mib.2021.05.012</pub-id>
+<pub-id pub-id-type="pmid">34111679</pub-id></mixed-citation></ref><ref id="B23"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Newman</surname><given-names>D. J.</given-names></name><name><surname>Cragg</surname><given-names>G. M.</given-names></name></person-group> (<year>2020</year>). <article-title>Plant Endophytes and Epiphytes: Burgeoning Sources of Known and "unknown" Cytotoxic and Antibiotic Agents?</article-title>
+<source>Planta Med.</source>
+<volume>86</volume>, <fpage>891</fpage>&#x02013;<lpage>905</lpage>. <pub-id pub-id-type="doi">10.1055/a-1095-1111</pub-id>
+<pub-id pub-id-type="pmid">32023633</pub-id></mixed-citation></ref><ref id="B24"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Niu</surname><given-names>S.</given-names></name><name><surname>Tang</surname><given-names>X.-X.</given-names></name><name><surname>Fan</surname><given-names>Z.</given-names></name><name><surname>Xia</surname><given-names>J.-M.</given-names></name><name><surname>Xie</surname><given-names>C.-L.</given-names></name><name><surname>Yang</surname><given-names>X.-W.</given-names></name></person-group> (<year>2019</year>). <article-title>Fusarisolins A-E, Polyketides from the marine-derived Fungus <italic>Fusarium Solani</italic> H918</article-title>. <source>Mar. Drugs</source>
+<volume>17</volume>, <fpage>125</fpage>. <pub-id pub-id-type="doi">10.3390/md17020125</pub-id>
+</mixed-citation></ref><ref id="B25"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Omura</surname><given-names>S.</given-names></name><name><surname>Tomoda</surname><given-names>H.</given-names></name><name><surname>Kumagai</surname><given-names>H.</given-names></name><name><surname>Greenspan</surname><given-names>M. D.</given-names></name><name><surname>Yodkovitz</surname><given-names>J. B.</given-names></name><name><surname>Chen</surname><given-names>J. S.</given-names></name><etal/></person-group> (<year>1987</year>). <article-title>Potent Inhibitory Effect of Antibiotic 1233A on Cholesterol Biosynthesis Which Specifically Blocs 3-Hydroxy-3-Methylglutaryl Coenzyme A Synthase</article-title>. <source>J. Antibiot.</source>
+<volume>40</volume>, <fpage>1356</fpage>&#x02013;<lpage>1357</lpage>. <pub-id pub-id-type="doi">10.7164/antibiotics.40.1356</pub-id>
+</mixed-citation></ref><ref id="B26"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pappas</surname><given-names>P. G.</given-names></name><name><surname>Kauffman</surname><given-names>C. A.</given-names></name><name><surname>Andes</surname><given-names>D.</given-names></name><name><surname>Benjamin</surname><given-names>D. K.</given-names><suffix>Jr.</suffix></name><name><surname>Calandra</surname><given-names>T. F.</given-names></name><name><surname>Edwards</surname><given-names>J. E.</given-names><suffix>Jr.</suffix></name><etal/></person-group> (<year>2009</year>). <article-title>Clinical Practice Guidelines for the Management Candidiasis: 2009 Update by the Infectious Diseases Society of America</article-title>. <source>Clin. Infect. Dis.</source>
+<volume>48</volume>, <fpage>503</fpage>&#x02013;<lpage>535</lpage>. <pub-id pub-id-type="doi">10.1086/596757</pub-id>
+<pub-id pub-id-type="pmid">19191635</pub-id></mixed-citation></ref><ref id="B28"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rajendran</surname><given-names>R.</given-names></name><name><surname>Sherry</surname><given-names>L.</given-names></name><name><surname>Nile</surname><given-names>C. J.</given-names></name><name><surname>Sherriff</surname><given-names>A.</given-names></name><name><surname>Johnson</surname><given-names>E. M.</given-names></name><name><surname>Hanson</surname><given-names>M. F.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>Biofilm Formation Is a Risk Factor for Mortality in Patients with <italic>Candida albicans</italic> Bloodstream infection-Scotland, 2012-2013</article-title>. <source>Clin. Microbiol. Infect.</source>
+<volume>22</volume>, <fpage>87</fpage>&#x02013;<lpage>93</lpage>. <pub-id pub-id-type="doi">10.1016/j.cmi.2015.09.018</pub-id>
+<pub-id pub-id-type="pmid">26432192</pub-id></mixed-citation></ref><ref id="B29"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schueffler</surname><given-names>A.</given-names></name><name><surname>Anke</surname><given-names>T.</given-names></name></person-group> (<year>2014</year>). <article-title>Fungal Natural Products in Research and Development</article-title>. <source>Nat. Prod. Rep.</source>
+<volume>31</volume>, <fpage>1425</fpage>&#x02013;<lpage>1448</lpage>. <pub-id pub-id-type="doi">10.1039/c4np00060a</pub-id>
+<pub-id pub-id-type="pmid">25122538</pub-id></mixed-citation></ref><ref id="B30"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shao</surname><given-names>C.-L.</given-names></name><name><surname>Xu</surname><given-names>R.-F.</given-names></name><name><surname>Wang</surname><given-names>C.-Y.</given-names></name><name><surname>Qian</surname><given-names>P.-Y.</given-names></name><name><surname>Wang</surname><given-names>K.-L.</given-names></name><name><surname>Wei</surname><given-names>M.-Y.</given-names></name></person-group> (<year>2015</year>). <article-title>Potent Antifouling marine Dihydroquinolin-2(1H)-One-Containing Alkaloids from the Gorgonian Coral-Derived Fungus <italic>Scopulariopsis </italic>sp</article-title>. <source>Mar. Biotechnol.</source>
+<volume>17</volume>, <fpage>408</fpage>&#x02013;<lpage>415</lpage>. <pub-id pub-id-type="doi">10.1007/s10126-015-9628-x</pub-id>
+</mixed-citation></ref><ref id="B31"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Skaff</surname><given-names>D. A.</given-names></name><name><surname>Ramyar</surname><given-names>K. X.</given-names></name><name><surname>Mcwhorter</surname><given-names>W. J.</given-names></name><name><surname>Barta</surname><given-names>M. L.</given-names></name><name><surname>Geisbrecht</surname><given-names>B. V.</given-names></name><name><surname>Miziorko</surname><given-names>H. M.</given-names></name></person-group> (<year>2012</year>). <article-title>Biochemical and Structural Basis for Inhibition of enterococcus Faecalis Hydroxymethylglutaryl-CoA Synthase, Mvas, by Hymeglusin</article-title>. <source>Biochemistry</source>
+<volume>51</volume>, <fpage>4713</fpage>&#x02013;<lpage>4722</lpage>. <pub-id pub-id-type="doi">10.1021/bi300037k</pub-id>
+<pub-id pub-id-type="pmid">22510038</pub-id></mixed-citation></ref><ref id="B32"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takino</surname><given-names>J.</given-names></name><name><surname>Kotani</surname><given-names>A.</given-names></name><name><surname>Ozaki</surname><given-names>T.</given-names></name><name><surname>Peng</surname><given-names>W.</given-names></name><name><surname>Yu</surname><given-names>J.</given-names></name><name><surname>Guo</surname><given-names>Y.</given-names></name><etal/></person-group> (<year>2021</year>). <article-title>Biochemistry&#x02010;Guided Prediction of the Absolute Configuration of Fungal Reduced Polyketides</article-title>. <source>Angew. Chem. Int. Ed.</source>
+<volume>60</volume>, <fpage>23403</fpage>&#x02013;<lpage>23411</lpage>. <pub-id pub-id-type="doi">10.1002/anie.202110658</pub-id>
+</mixed-citation></ref><ref id="B33"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tang</surname><given-names>X.-X.</given-names></name><name><surname>Yan</surname><given-names>X.</given-names></name><name><surname>Fu</surname><given-names>W.-H.</given-names></name><name><surname>Yi</surname><given-names>L.-Q.</given-names></name><name><surname>Tang</surname><given-names>B.-W.</given-names></name><name><surname>Yu</surname><given-names>L.-B.</given-names></name><etal/></person-group> (<year>2019</year>). <article-title>New &#x003b2;-Lactone with Tea Pathogenic Fungus Inhibitory Effect from Marine-Derived Fungus MCCC3A00957</article-title>. <source>J. Agric. Food Chem.</source>
+<volume>67</volume>, <fpage>2877</fpage>&#x02013;<lpage>2885</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jafc.9b00228</pub-id>
+<pub-id pub-id-type="pmid">30785752</pub-id></mixed-citation></ref><ref id="B34"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tomoda</surname><given-names>H.</given-names></name><name><surname>Kumagai</surname><given-names>H.</given-names></name><name><surname>Takahashi</surname><given-names>Y.</given-names></name><name><surname>Tanaka</surname><given-names>Y.</given-names></name><name><surname>Iwai</surname><given-names>Y.</given-names></name><name><surname>Omura</surname><given-names>S.</given-names></name></person-group> (<year>1988</year>). <article-title>F-244(1233A), a Specific Inhibitor of 3-Hydroxy-3-Methylglutaryl Coenzyme A Synthase. Taxonomy of Producing Strain, Fermentation, Isolation and Biological Properties</article-title>. <source>J. Antibiot.</source>
+<volume>41</volume>, <fpage>247</fpage>&#x02013;<lpage>249</lpage>. <pub-id pub-id-type="doi">10.7164/antibiotics.41.247</pub-id>
+</mixed-citation></ref><ref id="B35"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tomoda</surname><given-names>H.</given-names></name><name><surname>Ohbayashi</surname><given-names>N.</given-names></name><name><surname>Morikawa</surname><given-names>Y.</given-names></name><name><surname>Kumagai</surname><given-names>H.</given-names></name><name><surname>&#x0014c;mura</surname><given-names>S.</given-names></name></person-group> (<year>2004</year>). <article-title>Binding Site for Fungal &#x003b2;-lactone Hymeglusin on Cytosolic 3-Hydroxy-3-Methylglutaryl Coenzyme A Synthase</article-title>. <source>Biochim. Biophys. Acta (Bba) - Mol. Cel Biol. Lipids</source>
+<volume>1636</volume>, <fpage>22</fpage>&#x02013;<lpage>28</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbalip.2003.11.005</pub-id>
+</mixed-citation></ref><ref id="B36"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Uzma</surname><given-names>F.</given-names></name><name><surname>Mohan</surname><given-names>C. D.</given-names></name><name><surname>Hashem</surname><given-names>A.</given-names></name><name><surname>Konappa</surname><given-names>N. M.</given-names></name><name><surname>Rangappa</surname><given-names>S.</given-names></name><name><surname>Kamath</surname><given-names>P. V.</given-names></name><etal/></person-group> (<year>2018</year>). <article-title>Endophytic Fungi-Alternative Sources of Cytotoxic Compounds: a Review</article-title>. <source>Front. Pharmacol.</source>
+<volume>9</volume>, <fpage>309</fpage>. <pub-id pub-id-type="doi">10.3389/fphar.2018.00309</pub-id>
+<pub-id pub-id-type="pmid">29755344</pub-id></mixed-citation></ref><ref id="B37"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weidenb&#x000f6;rner</surname><given-names>M.</given-names></name><name><surname>Hindorf</surname><given-names>H.</given-names></name><name><surname>Jha</surname><given-names>H. C.</given-names></name><name><surname>Tsotsonos</surname><given-names>P.</given-names></name></person-group> (<year>1990</year>). <article-title>Antifungal Activity of Flavonoids against Storage Fungi of the Genus <italic>Aspergillus</italic>
+</article-title>. <source>Phytochemistry</source>
+<volume>29</volume>, <fpage>1103</fpage>&#x02013;<lpage>1105</lpage>. <pub-id pub-id-type="doi">10.1016/0031-9422(90)85412-9</pub-id>
+</mixed-citation></ref><ref id="B38"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Whaley</surname><given-names>S. G.</given-names></name><name><surname>Berkow</surname><given-names>E. L.</given-names></name><name><surname>Rybak</surname><given-names>J. M.</given-names></name><name><surname>Nishimoto</surname><given-names>A. T.</given-names></name><name><surname>Barker</surname><given-names>K. S.</given-names></name><name><surname>Rogers</surname><given-names>P. D.</given-names></name></person-group> (<year>2016</year>). <article-title>Azole Antifungal Resistance in <italic>Candida albicans</italic> and Emerging Non-albicans <italic>Candida</italic> Species</article-title>. <source>Front. Microbiol.</source>
+<volume>7</volume>, <fpage>2173</fpage>. <pub-id pub-id-type="doi">10.3389/fmicb.2016.02173</pub-id>
+<pub-id pub-id-type="pmid">28127295</pub-id></mixed-citation></ref><ref id="B39"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Whitesell</surname><given-names>L.</given-names></name><name><surname>Robbins</surname><given-names>N.</given-names></name><name><surname>Huang</surname><given-names>D. S.</given-names></name><name><surname>Mclellan</surname><given-names>C. A.</given-names></name><name><surname>Shekhar-Guturja</surname><given-names>T.</given-names></name><name><surname>Leblanc</surname><given-names>E. V.</given-names></name><etal/></person-group> (<year>2019</year>). <article-title>Structural Basis for Species-Selective Targeting of Hsp90 in a Pathogenic Fungus</article-title>. <source>Nat. Commun.</source>
+<volume>10</volume>, <fpage>402</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-018-08248-w</pub-id>
+<pub-id pub-id-type="pmid">30679438</pub-id></mixed-citation></ref><ref id="B27"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Winston</surname><given-names>D. J.</given-names></name><name><surname>Pakrasi</surname><given-names>A.</given-names></name><name><surname>Busuttil</surname><given-names>R. W.</given-names></name></person-group> (<year>1999</year>). <article-title>Prophylactic fluconazole in liver transplant recipients. A randomized, double-blind, placebo-controlled trial</article-title>. <source>Ann. Intern. Med.</source>
+<volume>131</volume>, <fpage>729</fpage>&#x02013;<lpage>737</lpage>. <pub-id pub-id-type="doi">10.7326/0003-4819-131-10-199911160-00003</pub-id>
+<pub-id pub-id-type="pmid">10577295</pub-id></mixed-citation></ref><ref id="B40"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xu</surname><given-names>L.</given-names></name><name><surname>Wu</surname><given-names>P.</given-names></name><name><surname>Wright</surname><given-names>S. J.</given-names></name><name><surname>Du</surname><given-names>L.</given-names></name><name><surname>Wei</surname><given-names>X.</given-names></name></person-group> (<year>2015</year>). <article-title>Bioactive Polycyclic Tetramate Macrolactams from Lysobacter Enzymogenes and Their Absolute Configurations by Theoretical ECD Calculations</article-title>. <source>J. Nat. Prod.</source>
+<volume>78</volume>, <fpage>1841</fpage>&#x02013;<lpage>1847</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jnatprod.5b00099</pub-id>
+<pub-id pub-id-type="pmid">26200218</pub-id></mixed-citation></ref><ref id="B41"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xu</surname><given-names>Y.</given-names></name><name><surname>Minhazul</surname><given-names>K. A. H. M.</given-names></name><name><surname>Li</surname><given-names>X.</given-names></name></person-group> (<year>2020</year>). <article-title>The Occurrence, Enzymatic Production, and Application of Ethyl Butanoate, an Important Flavor Constituent</article-title>. <source>Flavour Fragr J.</source>
+<volume>35</volume>, <fpage>601</fpage>&#x02013;<lpage>615</lpage>. <pub-id pub-id-type="doi">10.1002/ffj.3613</pub-id>
+</mixed-citation></ref><ref id="B42"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>Z.-T.</given-names></name><name><surname>Wu</surname><given-names>L.</given-names></name><name><surname>Liu</surname><given-names>X.-Y.</given-names></name><name><surname>Zhou</surname><given-names>M.</given-names></name><name><surname>Li</surname><given-names>J.</given-names></name><name><surname>Wu</surname><given-names>J.-Y.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>Epidemiology, Species Distribution and Outcome of Nosocomial <italic>Candida</italic> spp.Bloodstream Infection in Shanghai</article-title>. <source>BMC Infect. Dis.</source>
+<volume>14</volume>, <fpage>241</fpage>. <pub-id pub-id-type="doi">10.1186/1471-2334-14-241</pub-id>
+<pub-id pub-id-type="pmid">24886130</pub-id></mixed-citation></ref><ref id="B43"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ying</surname><given-names>Y.</given-names></name><name><surname>Hong</surname><given-names>J.</given-names></name></person-group> (<year>2007</year>). <article-title>Synthesis of Brasilibactin A and Confirmation of Absolute Configuration of &#x003b2;-hydroxy Acid Fragment</article-title>. <source>Tetrahedron Lett.</source>
+<volume>48</volume>, <fpage>8104</fpage>&#x02013;<lpage>8107</lpage>. <pub-id pub-id-type="doi">10.1016/j.tetlet.2007.09.112</pub-id>
+</mixed-citation></ref><ref id="B44"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yu</surname><given-names>Q.</given-names></name><name><surname>Ravu</surname><given-names>R. R.</given-names></name><name><surname>Jacob</surname><given-names>M. R.</given-names></name><name><surname>Khan</surname><given-names>S. I.</given-names></name><name><surname>Agarwal</surname><given-names>A. K.</given-names></name><name><surname>Yu</surname><given-names>B.-Y.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>Synthesis of Natural Acylphloroglucinol-Based Antifungal Compounds against <italic>Cryptococcus</italic> Species</article-title>. <source>J. Nat. Prod.</source>
+<volume>79</volume>, <fpage>2195</fpage>&#x02013;<lpage>2201</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jnatprod.6b00224</pub-id>
+<pub-id pub-id-type="pmid">27584935</pub-id></mixed-citation></ref><ref id="B45"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yu</surname><given-names>Z.</given-names></name><name><surname>Lang</surname><given-names>G.</given-names></name><name><surname>Kajahn</surname><given-names>I.</given-names></name><name><surname>Schmaljohann</surname><given-names>R.</given-names></name><name><surname>Imhoff</surname><given-names>J. F.</given-names></name></person-group> (<year>2008</year>). <article-title>Scopularides A and B, Cyclodepsipeptides from a marine Sponge-Derived Fungus, <italic>Scopulariopsis Brevicaulis</italic>
+</article-title>. <source>J. Nat. Prod.</source>
+<volume>71</volume>, <fpage>1052</fpage>&#x02013;<lpage>1054</lpage>. <pub-id pub-id-type="doi">10.1021/np070580e</pub-id>
+<pub-id pub-id-type="pmid">18412398</pub-id></mixed-citation></ref></ref-list></back></article>
