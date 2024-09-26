@@ -1,0 +1,1214 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="anie202206168" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Angew Chem Int Ed Engl</journal-id><journal-id journal-id-type="iso-abbrev">Angew Chem Int Ed Engl</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1521-3773</journal-id><journal-id journal-id-type="publisher-id">ANIE</journal-id><journal-title-group><journal-title>Angewandte Chemie (International Ed. in English)</journal-title></journal-title-group><issn pub-type="ppub">1433-7851</issn><issn pub-type="epub">1521-3773</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">9545259</article-id><article-id pub-id-type="pmid">35852818</article-id><article-id pub-id-type="doi">10.1002/anie.202206168</article-id><article-id pub-id-type="publisher-id">ANIE202206168</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject><subj-group subj-group-type="heading"><subject>Antibiotics</subject></subj-group></subj-group></article-categories><title-group><article-title>A Specialized Polythioamide&#x02010;Binding Protein Confers Antibiotic Self&#x02010;Resistance in Anaerobic Bacteria</article-title></title-group><contrib-group><contrib id="anie202206168-cr-0001" contrib-type="author"><name><surname>Gude</surname><given-names>Finn</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-8038-5937</contrib-id><xref rid="anie202206168-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="anie202206168-cr-0002" contrib-type="author"><name><surname>Molloy</surname><given-names>Evelyn M.</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-8822-7207</contrib-id><xref rid="anie202206168-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="anie202206168-cr-0003" contrib-type="author"><name><surname>Horch</surname><given-names>Therese</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-3705-9423</contrib-id><xref rid="anie202206168-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="anie202206168-cr-0004" contrib-type="author"><name><surname>Dell</surname><given-names>Maria</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-2718-2409</contrib-id><xref rid="anie202206168-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="anie202206168-cr-0005" contrib-type="author"><name><surname>Dunbar</surname><given-names>Kyle L.</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-7410-5169</contrib-id><xref rid="anie202206168-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="anie202206168-cr-0006" contrib-type="author"><name><surname>Krabbe</surname><given-names>Jana</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-3510-8276</contrib-id><xref rid="anie202206168-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="anie202206168-cr-0007" contrib-type="author" corresp="yes"><name><surname>Groll</surname><given-names>Michael</given-names><prefix>Prof.&#x02005;Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-1660-340X</contrib-id><xref rid="anie202206168-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>michael.groll@tum.de</email></address></contrib><contrib id="anie202206168-cr-0008" contrib-type="author" corresp="yes"><name><surname>Hertweck</surname><given-names>Christian</given-names><prefix>Prof.&#x02005;Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-0367-337X</contrib-id><xref rid="anie202206168-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="anie202206168-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>christian.hertweck@leibniz-hki.de</email></address></contrib></contrib-group><aff id="anie202206168-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Research Unit Biomolecular Chemistry</named-content>
+<named-content content-type="organisation-division">Leibniz Institute for Natural Product Research and Infection Biology</named-content>
+<institution>Hans Kn&#x000f6;ll Institute</institution>
+<named-content content-type="street">Adolf-Reichwein-Stra&#x000df;e 23</named-content>
+<postal-code>07745</postal-code>
+<city>Jena</city>
+<country country="DE">Germany</country>
+</aff><aff id="anie202206168-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Center for Protein Assemblies</named-content>
+<institution>Technical University of Munich</institution>
+<named-content content-type="street">Ernst-Otto-Fischer-Stra&#x000df;e 8</named-content>
+<postal-code>85747</postal-code>
+<city>Garching</city>
+<country country="DE">Germany</country>
+</aff><aff id="anie202206168-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Biological Sciences</named-content>
+<institution>Friedrich Schiller University Jena</institution>
+<postal-code>07743</postal-code>
+<city>Jena</city>
+<country country="DE">Germany</country>
+</aff><pub-date pub-type="epub"><day>03</day><month>8</month><year>2022</year></pub-date><pub-date pub-type="ppub"><day>12</day><month>9</month><year>2022</year></pub-date><volume>61</volume><issue seq="3120">37</issue><issue-id pub-id-type="doi">10.1002/anie.v61.37</issue-id><elocation-id>e202206168</elocation-id><history>
+<date date-type="received"><day>27</day><month>4</month><year>2022</year></date>
+</history><permissions><!--&#x000a9; 2022 Wiley&#x02010;VCH GmbH--><copyright-statement content-type="article-copyright">&#x000a9; 2022 The Authors. Angewandte Chemie International Edition published by Wiley-VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ANIE-61-0.pdf"/><abstract><title>Abstract</title><p>Understanding antibiotic resistance mechanisms is central to the development of anti&#x02010;infective therapies and genomics&#x02010;based drug discovery. Yet, many knowledge gaps remain regarding the resistance strategies employed against novel types of antibiotics from less&#x02010;explored producers such as anaerobic bacteria, among them the Clostridia. Through the use of genome editing and functional assays, we found that CtaZ confers self&#x02010;resistance against the copper chelator and gyrase inhibitor closthioamide (CTA) in <italic toggle="yes">Ruminiclostridium cellulolyticum</italic>. Bioinformatics, biochemical analyses, and X&#x02010;ray crystallography revealed CtaZ as a founding member of a new group of GyrI&#x02010;like proteins. CtaZ is unique in binding a polythioamide scaffold in a ligand&#x02010;optimized hydrophobic pocket, thereby confining CTA. By genome mining using CtaZ as a handle, we discovered previously overlooked homologs encoded by diverse members of the phylum Firmicutes, including many pathogens. In addition to characterizing both a new role for a GyrI&#x02010;like domain in self&#x02010;resistance and unprecedented thioamide binding, this work aids in uncovering related drug&#x02010;resistance mechanisms.</p></abstract><abstract abstract-type="graphical"><p>A central contributor to the self&#x02010;resistance of an anaerobic antibiotic producer is identified. CtaZ, a new member of the GyrI&#x02010;like superfamily, confines the gyrase inhibitor closthioamide in a ligand&#x02010;optimized pocket. Genome mining uncovered CtaZ homologs encoded in the genomes of diverse bacteria, including numerous pathogens.<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="ANIE-61-0-g007.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="anie202206168-kwd-0001">Antibiotics</kwd><kwd id="anie202206168-kwd-0002">Natural Products</kwd><kwd id="anie202206168-kwd-0003">Nonribosomal Peptide</kwd><kwd id="anie202206168-kwd-0004">Resistance</kwd><kwd id="anie202206168-kwd-0005">Thioamide</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Deutsche Forschungsgemeinschaft
+</institution><institution-id institution-id-type="doi">10.13039/501100001659</institution-id></institution-wrap></funding-source><award-id>Excellence Cluster Balance of the Microverse, Leibniz Award</award-id><award-id>SFB 1309 - Chemical Biology of Epigenetic Modifications, project number 325871075</award-id><award-id>Leibniz Award</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><ref-count count="69"/><page-count count="9"/><word-count count="0"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 12, 2022</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.0 mode:remove_FC converted:07.10.2022</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="self-citation" id="anie202206168-self">F. Gude, E. M. Molloy, T. Horch, M. Dell, K. L. Dunbar, J. Krabbe, M. Groll, C. Hertweck, <italic toggle="yes">Angew. Chem. Int. Ed.</italic>
+<bold>2022</bold>, <italic toggle="yes">61</italic>, e202206168; <italic toggle="yes">Angew. Chem.</italic>
+<bold>2022</bold>, <italic toggle="yes">134</italic>, e202206168.</mixed-citation>
+</p></notes></front><body><sec id="anie202206168-sec-0001"><title>Introduction</title><p>Most natural environments harbor a remarkably complex collection of microorganisms,<xref rid="anie202206168-bib-0001" ref-type="bibr">
+<sup>[1]</sup>
+</xref> where bacteria must compete with their neighbors for space and resources.<xref rid="anie202206168-bib-0002" ref-type="bibr">
+<sup>[2]</sup>
+</xref> One way in which bacteria do this is by producing antibiotic natural products to inhibit susceptible competitors.<xref rid="anie202206168-bib-0005" ref-type="bibr">
+<sup>[3]</sup>
+</xref> Antibiotic&#x02010;producing bacteria require a means of protection against suicide caused by the toxic effects of the antibiotic, which is most often mediated by self&#x02010;resistance genes.<xref rid="anie202206168-bib-0006" ref-type="bibr">
+<sup>[4]</sup>
+</xref> The self&#x02010;resistance strategies employed by antibiotic&#x02010;producing bacteria include export and reduced influx of antibiotics, target modification, sequestration, and enzymatic inactivation,[<xref rid="anie202206168-bib-0008" ref-type="bibr">
+<sup>4b</sup>
+</xref>, <xref rid="anie202206168-bib-0009" ref-type="bibr">
+<sup>5</sup>
+</xref>] which are mirrored in the counter&#x02010;measures used by target organisms to defend themselves. This co&#x02010;evolution of resistance can occur spontaneously, for example by alteration of the antibiotic target through mutation, or by horizontal transfer of resistance genes from other bacterial species.<xref rid="anie202206168-bib-0009" ref-type="bibr">
+<sup>[5]</sup>
+</xref> Unlike natural ecosystems where microbes produce low concentrations of multiple antibiotics, humans tend to deploy large concentrations of single antibiotics in medical and agricultural settings.<xref rid="anie202206168-bib-0010" ref-type="bibr">
+<sup>[6]</sup>
+</xref> Unfortunately, the accompanying promotion of antimicrobial resistance (AMR) inevitably goes on to limit the health and economic benefits of antibiotic use.</p><p>Still, antibiotics are our most important weapon to fight infectious diseases, with the vast majority in clinical use being either microbial natural products or their derivatives.<xref rid="anie202206168-bib-0013" ref-type="bibr">
+<sup>[7]</sup>
+</xref> While AMR has been an ongoing problem since the first clinical use of antibiotics, the rise in the number and diversity of resistant pathogens, including multidrug&#x02010;resistant strains, is raising world&#x02010;wide concern.<xref rid="anie202206168-bib-0014" ref-type="bibr">
+<sup>[8]</sup>
+</xref> In the majority of cases, the origins of the genetic determinants of clinical resistance can be traced to the self&#x02010;protection mechanisms of antibiotic producers in natural environments.<xref rid="anie202206168-bib-0017" ref-type="bibr">
+<sup>[9]</sup>
+</xref>
+</p><p>The GyrI&#x02010;like protein superfamily is of particular interest from the perspective of AMR since the conserved fold is functionally malleable, being capable of mediating various (self&#x02010;)resistance strategies by differing modes of action.<xref rid="anie202206168-bib-0021" ref-type="bibr">
+<sup>[10]</sup>
+</xref> GyrI, the founding member of the superfamily, protects <italic toggle="yes">Escherichia coli</italic> against exogenously produced microcin&#x02005;B17 by inhibiting DNA gyrase, which is the cellular target of the bacteriocin.<xref rid="anie202206168-bib-0025" ref-type="bibr">
+<sup>[11]</sup>
+</xref> Furthermore, one subgroup contains enzymes that inactivate cyclopropyl antibiotics by hydrolysis, with two of these enzymes involved in the self&#x02010;resistance of their producers.<xref rid="anie202206168-bib-0024" ref-type="bibr">
+<sup>[10c]</sup>
+</xref> Lastly, the transcriptional regulator BmrR from <italic toggle="yes">Bacillus subtilis</italic> binds diverse toxic compounds with its GyrI&#x02010;like domain and subsequently activates the expression of efflux pumps to confer multidrug resistance (MDR).<xref rid="anie202206168-bib-0028" ref-type="bibr">
+<sup>[12]</sup>
+</xref>
+</p><p>There is a pressing need for continued characterization of the molecular underpinnings of (self&#x02010;)resistance mechanisms since this understanding will both guide the prudent use of antibiotics to minimize the emergence of clinically problematic AMR, as well as aid in the development of effective antibiotics capable of circumventing AMR.<xref rid="anie202206168-bib-0032" ref-type="bibr">
+<sup>[13]</sup>
+</xref> To this end, producers of unusual antibiotics could inform on novel self&#x02010;resistance strategies. For instance, <italic toggle="yes">Ruminiclostridium cellulolyticum</italic> DSM 5812 is a soil anaerobe that produces closthioamide (CTA, Figure&#x02005;<xref rid="anie202206168-fig-0001" ref-type="fig">1</xref>A), an antibiotic with a unique polythioamidated structure and mode of action.<xref rid="anie202206168-bib-0033" ref-type="bibr">
+<sup>[14]</sup>
+</xref> CTA is a potent DNA gyrase inhibitor that is active against a number of clinically relevant pathogens, such as methicillin&#x02010;resistant <italic toggle="yes">Staphylococcus aureus</italic>, vancomycin&#x02010;resistant enterococci and <italic toggle="yes">Neisseria gonorrhea</italic>.[<xref rid="anie202206168-bib-0034" ref-type="bibr">
+<sup>14a</sup>
+</xref>, <xref rid="anie202206168-bib-0037" ref-type="bibr">
+<sup>15</sup>
+</xref>] CTA has copper&#x02010;complexing properties<xref rid="anie202206168-bib-0038" ref-type="bibr">
+<sup>[16]</sup>
+</xref> and is a promising drug candidate because bacteria that are resistant to other DNA gyrase inhibitors, such as ciprofloxacin, remain susceptible to CTA.[<xref rid="anie202206168-bib-0036" ref-type="bibr">
+<sup>14c</sup>
+</xref>, <xref rid="anie202206168-bib-0037" ref-type="bibr">
+<sup>15</sup>
+</xref>] Although the biosynthetic pathway to CTA has been completely deciphered,<xref rid="anie202206168-bib-0039" ref-type="bibr">
+<sup>[17]</sup>
+</xref> the manner in which the producer is protected from self&#x02010;intoxication remains a mystery.
+</p><fig position="float" fig-type="Figure" id="anie202206168-fig-0001"><label>Figure 1</label><caption><p>Adjacent to the closthioamide (CTA) biosynthetic gene cluster is a gene (<italic toggle="yes">ctaZ</italic>) encoding a GyrI&#x02010;like protein. A)&#x02005;Structure of CTA. B)&#x02005;CTA biosynthetic gene cluster. C)&#x02005;Neighbor&#x02010;joining phylogenetic tree of GyrI&#x02010;like domains from multidrug resistance and self&#x02010;resistance proteins, and CtaZ homologs (1000 bootstrap replicates). Red triangles mark proteins encoded in biosynthetic gene clusters. For a more detailed phylogenetic tree, see Figure&#x02005;S1 and Figure&#x02005;S2 for the sequence alignment used to generate this tree.</p></caption><graphic xlink:href="ANIE-61-0-g002" position="anchor" id="jats-graphic-3"/></fig><p>Here, we report the identification of a GyrI&#x02010;like protein (CtaZ) as a central contributor to the self&#x02010;resistance of <italic toggle="yes">R.&#x000a0;cellulolyticum</italic> to CTA, provide insight into thioamide binding in a ligand&#x02010;optimized hydrophobic pocket, and demonstrate the prevalence of CtaZ homologs, including among many pathogenic Firmicutes.</p></sec><sec id="anie202206168-sec-0002"><title>Results and Discussion</title><p>Since genes coding for self&#x02010;resistance factors are often located in the vicinity of antibiotic biosynthetic gene clusters (BGCs),<xref rid="anie202206168-bib-0007" ref-type="bibr">
+<sup>[4a]</sup>
+</xref> we examined the flanking genes of the CTA BGC of <italic toggle="yes">R. cellulolyticum</italic> with the goal of identifying possible self&#x02010;resistance genes (Figure&#x02005;<xref rid="anie202206168-fig-0001" ref-type="fig">1</xref>B). The gene Ccel_3263 (referred to hereafter as <italic toggle="yes">ctaZ</italic>) is encoded upstream of the CTA BGC and is annotated in the GenBank database as encoding a &#x0201c;transcription activator effector binding protein&#x0201d;.<xref rid="anie202206168-bib-0044" ref-type="bibr">
+<sup>[18]</sup>
+</xref> Our in silico analysis of the protein product of <italic toggle="yes">ctaZ</italic> using BLASTp<xref rid="anie202206168-bib-0045" ref-type="bibr">
+<sup>[19]</sup>
+</xref> and HHpred<xref rid="anie202206168-bib-0046" ref-type="bibr">
+<sup>[20]</sup>
+</xref> indicated that CtaZ belongs to the GyrI&#x02010;like protein superfamily (PF06445). This finding drew our attention given that GyrI&#x02010;like domains occur in several proteins involved in MDR<xref rid="anie202206168-bib-0023" ref-type="bibr">
+<sup>[10b]</sup>
+</xref> or self&#x02010;resistance of antibiotic producers.<xref rid="anie202206168-bib-0024" ref-type="bibr">
+<sup>[10c]</sup>
+</xref> In fact, the only GyrI&#x02010;like proteins characterized to date that are encoded in the proximity of BGCs, C10R6 and YtkR7, have been implicated in self&#x02010;resistance to the cognate antibiotics.<xref rid="anie202206168-bib-0024" ref-type="bibr">
+<sup>[10c]</sup>
+</xref> In view of the co&#x02010;occurrence of a gene encoding a GyrI homolog (CtaZ) with the CTA BGC, we deemed CtaZ as a promising candidate for the elusive self&#x02010;resistance factor.</p><p>Proteins possessing GyrI&#x02010;like domains engage in varied cellular functions, such as DNA gyrase inhibition (GyrI),[<xref rid="anie202206168-bib-0027" ref-type="bibr">
+<sup>11b</sup>
+</xref>, <xref rid="anie202206168-bib-0047" ref-type="bibr">
+<sup>21</sup>
+</xref>] transcriptional regulation (BmrR and Rob)<xref rid="anie202206168-bib-0048" ref-type="bibr">
+<sup>[22]</sup>
+</xref> and hydrolysis of antibiotics (Lin2189, C10R6, YtkR7).<xref rid="anie202206168-bib-0024" ref-type="bibr">
+<sup>[10c]</sup>
+</xref> We conducted a phylogenetic analysis to contextualize CtaZ to the characterized members of the GyrI&#x02010;like superfamily. Homologs of CtaZ, GyrI, BmrR, Rob and the three hydrolases Lin2189, C10R6, YtkR7 were retrieved by BLASTp to construct a neighbor&#x02010;joining phylogenetic tree (Figure&#x02005;<xref rid="anie202206168-fig-0001" ref-type="fig">1</xref>C and Figure&#x02005;S1). The phylogenetic analysis reveals that CtaZ and its homologs branch separately from the other GyrI&#x02010;like superfamily members, including the clade containing the self&#x02010;resistance&#x02010;mediating hydrolases (C10R6, YtkR7). The localization of CtaZ to a distinct clade led us speculate that, if indeed CtaZ bestows CTA resistance on <italic toggle="yes">R. cellulolyticum</italic>, it likely does so by way of a different cellular function.</p><p>In order to investigate whether CtaZ acts as a self&#x02010;resistance protein, we sought to inactivate the corresponding gene in <italic toggle="yes">R.&#x000a0;cellulolyticum</italic>. The CTA susceptibility of the resulting mutant strain could then be tested to verify whether CtaZ contributes to the CTA tolerance of <italic toggle="yes">R.&#x000a0;cellulolyticum. R. cellulolyticum</italic> &#x00394;<italic toggle="yes">ctaZ</italic> was generated by targeting <italic toggle="yes">ctaZ</italic> for incorporation of an in&#x02010;frame nonsense mutation by CRISPR&#x02010;nCas9 genome editing and verifying by restriction analysis (Figure&#x02005;<xref rid="anie202206168-fig-0002" ref-type="fig">2</xref>A and Figure&#x02005;S3). We noted that the growth of <italic toggle="yes">R. cellulolyticum</italic> &#x00394;<italic toggle="yes">ctaZ</italic> was impaired compared to the wild type only under conditions known to induce CTA production (Figure&#x02005;<xref rid="anie202206168-fig-0002" ref-type="fig">2</xref>B),<xref rid="anie202206168-bib-0040" ref-type="bibr">
+<sup>[17a]</sup>
+</xref> presumably due to endogenous CTA production in the absence of CtaZ. We circumvented this issue by inactivating <italic toggle="yes">ctaZ</italic> in <italic toggle="yes">R. cellulolyticum</italic> &#x00394;<italic toggle="yes">ctaA</italic>, a mutant devoid of production of CTA and all congeners,<xref rid="anie202206168-bib-0040" ref-type="bibr">
+<sup>[17a]</sup>
+</xref> thereby generating <italic toggle="yes">R. cellulolyticum</italic> &#x00394;<italic toggle="yes">ctaA</italic> &#x00394;<italic toggle="yes">ctaZ</italic> (Figure&#x02005;<xref rid="anie202206168-fig-0002" ref-type="fig">2</xref>A and Figure&#x02005;S3). Notably, growth of the double mutant was not inhibited under CTA induction conditions (Figure&#x02005;<xref rid="anie202206168-fig-0002" ref-type="fig">2</xref>B).
+</p><fig position="float" fig-type="Figure" id="anie202206168-fig-0002"><label>Figure 2</label><caption><p>CtaZ contributes to the self&#x02010;resistance of <italic toggle="yes">R.&#x000a0;cellulolyticum</italic> to CTA. A)&#x02005;Scheme depicting the CRISPR&#x02010;nCas9 strategy used to incorporate an in&#x02010;frame nonsense mutation in <italic toggle="yes">ctaZ</italic> (Ccel_3263) of <italic toggle="yes">R</italic>.&#x000a0;<italic toggle="yes">cellulolyticum</italic> and <italic toggle="yes">R. cellulolyticum</italic> &#x00394;<italic toggle="yes">ctaA</italic> to generate the null mutants <italic toggle="yes">R</italic>.&#x000a0;<italic toggle="yes">cellulolyticum</italic> &#x00394;<italic toggle="yes">ctaZ</italic> and <italic toggle="yes">R. cellulolyticum</italic> &#x00394;<italic toggle="yes">ctaA</italic> &#x00394;<italic toggle="yes">ctaZ</italic>, respectively. The simultaneous introduction of an <italic toggle="yes">Eco</italic>RV recognition site enabled successful genome&#x02010;editing to be detected by restriction digest of PCR products of the relevant region of <italic toggle="yes">ctaZ</italic>. B)&#x02005;Photos of cultures under CTA induction conditions demonstrate reduced growth of <italic toggle="yes">R.&#x000a0;cellulolyticum</italic> &#x00394;<italic toggle="yes">ctaZ</italic> compared to <italic toggle="yes">R.&#x000a0;cellulolyticum</italic> wild type and <italic toggle="yes">R.&#x000a0;cellulolyticum</italic> &#x00394;<italic toggle="yes">ctaA</italic> &#x00394;<italic toggle="yes">ctaZ</italic>. Black and white contrast in the background of the cultures is used to visualize differences in optical density. C)&#x02005;Left: Examples of the inhibition zones observed in lawns of the listed <italic toggle="yes">R.&#x000a0;cellulolyticum</italic> strains in an agar diffusion assay using 40&#x02005;&#x003bc;M CTA. Dashed outlines show the zone borders. Red strikethroughs indicate inactivated genes. Right: Graphical representation of the minimum inhibitory concentrations (MICs) of CTA measured by agar diffusion method against the listed <italic toggle="yes">R.&#x000a0;cellulolyticum</italic> strains. The MICs presented are averages determined from the analysis of three biological replicates (Figure&#x02005;S4), each consisting of two technical replicates, with error bars indicating &#x000b1;SD (see Table&#x02005;S6 for data summary).</p></caption><graphic xlink:href="ANIE-61-0-g004" position="anchor" id="jats-graphic-5"/></fig><p>We proceeded to assess the effect of CtaZ deficiency on CTA susceptibility by in vivo <italic toggle="yes">trans</italic>&#x02010;complementation experiments. We transformed <italic toggle="yes">R. cellulolyticum</italic> &#x00394;<italic toggle="yes">ctaA</italic> &#x00394;<italic toggle="yes">ctaZ</italic> with pMTL&#x02010;<italic toggle="yes">ctaZ</italic>, an expression vector in which <italic toggle="yes">ctaZ</italic> is under the control of a constitutive promoter, and both <italic toggle="yes">R. cellulolyticum</italic> &#x00394;<italic toggle="yes">ctaA</italic> and <italic toggle="yes">R. cellulolyticum</italic> &#x00394;<italic toggle="yes">ctaA</italic> &#x00394;<italic toggle="yes">ctaZ</italic> were transformed with the relevant empty vector (pMTL&#x000d8;) as controls. The susceptibility of the three stains to exogenous CTA was determined by the agar diffusion method (Figure&#x02005;<xref rid="anie202206168-fig-0002" ref-type="fig">2</xref>C).<xref rid="anie202206168-bib-0051" ref-type="bibr">
+<sup>[23]</sup>
+</xref> Briefly, CTA solutions of differing concentrations were applied to paper discs on the surface of agar plates seeded with the test strains. CTA diffusion into the medium suppressed growth in the vicinity of the discs, resulting in measurable zones that increased in size with increasing CTA concentration. Minimum inhibitory concentration (MIC) values were calculated by analyzing the inhibition data using the dissipative model of antibiotic diffusion (Figure&#x02005;S4).<xref rid="anie202206168-bib-0052" ref-type="bibr">
+<sup>[24]</sup>
+</xref> We found that the double mutant (<italic toggle="yes">R. cellulolyticum</italic> &#x00394;<italic toggle="yes">ctaA</italic> &#x00394;<italic toggle="yes">ctaZ</italic> pMTL&#x000d8;) is 35&#x02010;fold more sensitive to CTA than <italic toggle="yes">R. cellulolyticum</italic> &#x00394;<italic toggle="yes">ctaA</italic> pMTL&#x000d8; (Figure&#x02005;<xref rid="anie202206168-fig-0002" ref-type="fig">2</xref>C). This CTA&#x02010;sensitive phenotype could be partially complemented by the provision of a plasmid&#x02010;borne copy of <italic toggle="yes">ctaZ</italic>, as shown by the intermediate MIC of <italic toggle="yes">R.&#x000a0;cellulolyticum</italic> &#x00394;<italic toggle="yes">ctaA</italic> &#x00394;<italic toggle="yes">ctaZ</italic> pMTL&#x02010;<italic toggle="yes">ctaZ</italic> (Figure&#x02005;<xref rid="anie202206168-fig-0002" ref-type="fig">2</xref>C). The incomplete restoration of CTA resistance by <italic toggle="yes">trans</italic> expression of <italic toggle="yes">ctaZ</italic> can conceivably be explained by i) insufficient <italic toggle="yes">ctaZ</italic> expression, for example due to inadequate plasmid copy number or a weaker promoter compared to that in the CTA BGC, and/or ii) the separation of <italic toggle="yes">ctaZ</italic> from native control disrupting the tightly regulated timing of expression typically observed for self&#x02010;resistance genes.<xref rid="anie202206168-bib-0006" ref-type="bibr">
+<sup>[4]</sup>
+</xref> Nevertheless, the sensitivity of the <italic toggle="yes">ctaZ</italic>&#x02010;deficient strain to CTA and its phenotypic complementation supports the proposal that <italic toggle="yes">R.&#x000a0;cellulolyticum</italic> employs the GyrI&#x02010;like protein CtaZ in self&#x02010;resistance to CTA.</p><p>In light of our characterization of CtaZ as a self&#x02010;resistance&#x02010;conferring GyrI&#x02010;like protein, we were curious as to how CtaZ endows <italic toggle="yes">R. cellulolyticum</italic> with CTA resistance. The other known self&#x02010;resistance&#x02010;conferring GyrI&#x02010;like proteins, YtkR7 and C10R6, inactivate the products of their cognate BGCs by hydrolysis.<xref rid="anie202206168-bib-0024" ref-type="bibr">
+<sup>[10c]</sup>
+</xref> We reasoned that a sequence comparison with these enzymes could shed light on the manner of self&#x02010;resistance imparted by CtaZ. Therefore, we created a sequence alignment and ascertained that CtaZ lacks the active site glutamate essential for hydrolytic activity of YtkR7 and C10R6 (M99, Figure&#x02005;<xref rid="anie202206168-fig-0003" ref-type="fig">3</xref>A).<xref rid="anie202206168-bib-0024" ref-type="bibr">
+<sup>[10c]</sup>
+</xref> Additionally, we recognized that another glutamate residue (E123), which is assumed to be crucial for binding of diverse ligands in GyrI&#x02010;like proteins,[<xref rid="anie202206168-bib-0022" ref-type="bibr">
+<sup>10a</sup>
+</xref>, <xref rid="anie202206168-bib-0053" ref-type="bibr">
+<sup>25</sup>
+</xref>] is conserved in CtaZ. This bioinformatic analysis indicates that CtaZ potentially binds CTA, but it likely does not hydrolyze the antibiotic.
+</p><fig position="float" fig-type="Figure" id="anie202206168-fig-0003"><label>Figure 3</label><caption><p>CtaZ does not hydrolyze but putatively binds CTA. A)&#x02005;Sequence alignment of CtaZ and the hydrolases YtkR7 and C10R6. Icons highlight residues important for hydrolysis (Pac&#x02010;Man) and small molecule binding (spheres). B)&#x02005;HPLC profiles of CtaZ&#x02010;CTA modification assays after 24&#x02005;h incubation; red strikethrough indicates heat&#x02010;inactivated protein. C)&#x02005;Left: HPLC profiles of CtaZ&#x02010;CTA binding assays. Binding assays were performed in aqueous solution, synthetic CTA standard was dissolved in methanol. Right: LC&#x02010;HRMS profiles of CtaZ&#x02010;CTA binding assays. Traces correspond to the extracted ion chromatogram of the [<italic toggle="yes">M</italic>+H]<sup>+</sup> ionic species for CTA (695.1453) and are displayed with <italic toggle="yes">m</italic>/<italic toggle="yes">z</italic> values &#x000b1;5&#x02005;ppm from the calculated exact mass. See Figure&#x02005;S6 for an illustration of the influence of filtration during sample preparation.</p></caption><graphic xlink:href="ANIE-61-0-g006" position="anchor" id="jats-graphic-7"/></fig><p>We subsequently evaluated whether CtaZ acts as a CTA hydrolase by testing if CtaZ could modify CTA in vitro. To this end, we heterologously produced CtaZ in <italic toggle="yes">E. coli</italic> and purified the recombinant protein by Ni<sup>2+</sup> affinity and size exclusion chromatography (Figure&#x02005;S5). After incubation of CTA with CtaZ, high&#x02010;performance liquid chromatography (HPLC) analysis of the assays indicated that CTA was neither modified nor degraded under the conditions tested (Figure&#x02005;<xref rid="anie202206168-fig-0003" ref-type="fig">3</xref>B). This implies that in not hydrolyzing CTA, CtaZ has a different mode of action from that of YtkR7 and C10R6, in accordance with both the phylogenetic analysis (Figure&#x02005;<xref rid="anie202206168-fig-0001" ref-type="fig">1</xref>C) and the sequence alignment (Figure&#x02005;<xref rid="anie202206168-fig-0003" ref-type="fig">3</xref>A).</p><p>To address the question of whether CtaZ binds CTA, we turned to standard binding experiments such as isothermal titration calorimetry (ITC) and fluorescence quenching. Because the UV absorption spectra of CtaZ and CTA overlap, quenching of the intrinsic fluorescence of CtaZ was not a suitable method for testing CtaZ&#x02010;CTA binding. Additionally, due to the markedly poor solubility of CTA in aqueous solutions (2&#x02005;&#x003bc;M),<xref rid="anie202206168-bib-0038" ref-type="bibr">
+<sup>[16]</sup>
+</xref> it was not possible to robustly perform ITC experiments.</p><p>We instead developed an alternative approach based on liquid chromatography high&#x02010;resolution mass spectrometry (LC&#x02010;HRMS) to test for binding. Specifically, we prepared samples by incubating CtaZ and CTA individually and in combination in an aqueous buffer. However, we noted precipitation in the sample containing CTA alone, presumably due to saturation of the solution with CTA, while none was observed in that containing both CTA and CtaZ. Upon filtration and subsequent LC&#x02010;HRMS analysis, CTA was not detectable in the absence of CtaZ. In contrast, the presence of CtaZ apparently allowed CTA to pass the filter (Figure&#x02005;<xref rid="anie202206168-fig-0003" ref-type="fig">3</xref>C and Figure&#x02005;S6). We interpret this outcome to mean that CtaZ binds CTA, although the putative CtaZ&#x02010;CTA complex is not discernable because it is disrupted in the process of HPLC separation.</p><p>Bolstered by the results of the in silico and in vitro experiments, we aimed to interrogate the proposed binding interaction by elucidating the protein structure of CtaZ alone and in the presence of its candidate ligand CTA. Therefore, we purified CtaZ to homogeneity, crystallized it and solved its structure by single&#x02010;wavelength anomalous diffraction techniques to 2.0&#x02005;&#x000c5; resolution (Protein Data Bank (PDB) ID: 7ZHE; Figure&#x02005;S7A). We found that CtaZ is monomeric and, despite sharing sequence identities of less than 20&#x02009;% with known members of the GyrI&#x02010;like superfamily, it adopts the characteristic GyrI&#x02010;like tertiary structure.[<xref rid="anie202206168-bib-0022" ref-type="bibr">
+<sup>10a</sup>
+</xref>, <xref rid="anie202206168-bib-0023" ref-type="bibr">
+<sup>10b</sup>
+</xref>] We identified the transcriptional regulator EcmrR as the closest homolog in the PDB by a protein structure comparison search (PDB ID: 6WL5, Z&#x02010;score: 17.4, sequence identity: 19&#x02009;%, root&#x02010;mean&#x02010;square deviation (RMSD): 2.3&#x02005;&#x000c5; for 144 residues; Figure&#x02005;S7B).<xref rid="anie202206168-bib-0054" ref-type="bibr">
+<sup>[26]</sup>
+</xref> CtaZ displays a pseudo&#x02010;symmetrical duplicate of the sheet&#x02010;helix&#x02010;sheet&#x02010;sheet (SHS2) motif. This SHS2&#x02010;twin is arranged as a cupped hand that forms a groove&#x02010;like pocket, which is mostly composed of non&#x02010;polar residues and has putatively evolved for binding of hydrophobic small molecules.<xref rid="anie202206168-bib-0023" ref-type="bibr">
+<sup>[10b]</sup>
+</xref> Thus, it seems that this pocket of CtaZ could provide an ideal site for binding the hydrophobic compound CTA.</p><p>Upon crystallizing CtaZ with its potential ligand, CTA, we successfully obtained a structure of CtaZ:CTA at 1.65&#x02005;&#x000c5; resolution (PDB ID: 7ZHD, Figure&#x02005;<xref rid="anie202206168-fig-0004" ref-type="fig">4</xref>A). The complex structure not only confirms that CtaZ binds CTA, but allows us to evaluate key residues in CtaZ involved in CTA binding as well as the conformational changes induced by ligand binding. We found that CTA adopts an elongated conformation to occupy a pronounced groove (40&#x02005;&#x000c5; in length and 4&#x02005;&#x000c5; in width; Figure&#x02005;<xref rid="anie202206168-fig-0004" ref-type="fig">4</xref>B) in the hydrophobic pocket of CtaZ, which we recognized in the CtaZ(apo) structure as likely capable of accommodating CTA. A comparative analysis of the structures of CtaZ(apo) and CtaZ:CTA provided a snapshot of the dynamics of CtaZ binding to CTA. Substantial structural rearrangements occur in four defined regions of CtaZ after ligand binding (Figure&#x02005;<xref rid="anie202206168-fig-0004" ref-type="fig">4</xref>C). Secondary structure elements of regions I (residues 19&#x02013;32) and II (residues 51&#x02013;61) are displaced by up to 4&#x02005;&#x000c5; to wrap around CTA. Side chains in the neighboring region III (residues 94&#x02013;100) are shifted by 4&#x02005;&#x000c5; to facilitate the formation of a defined binding cavity. The most striking conformational changes induced by CTA&#x02010;binding take place in the C&#x02010;terminal region IV (residues 128&#x02013;140) of CtaZ. Compared to CtaZ(apo), side chains of region IV are displaced up to 6&#x02005;&#x000c5; in the CtaZ:CTA complex. Additionally, a loop that is disordered in CtaZ(apo) is rigidified in CtaZ:CTA as if to grasp one of the terminal <italic toggle="yes">p</italic>&#x02010;hydroxybenzoic acid (PHBA) moieties of the ligand.
+</p><fig position="float" fig-type="Figure" id="anie202206168-fig-0004"><label>Figure 4</label><caption><p>CTA is bound in a hydrophobic pocket of CtaZ. A)&#x02005;Ribbon diagram of CtaZ with its natural ligand CTA (carbon atoms in green; PDB ID: 7ZHD). B)&#x02005;Surface cross section of the CtaZ:CTA&#x02010;complex with colors indicating negative and positive electrostatic potentials. C)&#x02005;Structural superposition of the CtaZ:CTA complex (violet coils) and CtaZ(apo) (black, PDB ID: 7ZHE). Dots indicate a disordered loop region in CtaZ(apo). Conformational changes occur in four defined CtaZ&#x02010;regions upon ligand binding: I (residues 19&#x02013;32), II (residues 51&#x02013;61), III (residues 94&#x02013;100) and IV (residues 128&#x02013;140). D)&#x02005;Close&#x02010;up view of the CtaZ ligand binding site with depicted side chains engaged in binding. The 2F<sub>O</sub>&#x02010;F<sub>C</sub> electron density map (grey mesh, contoured to 1.0 &#x003c3;) and the anomalous sulfur signal (cyan mesh, contoured to 5.0 &#x003c3;) are displayed for CTA. Residues involved in ligand stabilization by &#x003c0;&#x02010;stacking and H&#x02010;bonding (grey) and hydrophobic interactions (black) are highlighted. E)&#x02005;X&#x02010;ray structure of Cu<sub>2</sub>(<italic toggle="yes">t</italic>Bu)<sub>2</sub>CTA (Cu<sup>I</sup> in brown spheres, CSD ID DIQPAW).<xref rid="anie202206168-bib-0038" ref-type="bibr">
+<sup>[16]</sup>
+</xref>
+</p></caption><graphic xlink:href="ANIE-61-0-g003" position="anchor" id="jats-graphic-9"/></fig><p>Although the linear conformation of the ligand in the binding pocket is energetically unfavorable, CTA is stabilized by extensive protein interactions due to its hydrophobic nature. Surprisingly, despite the symmetric architecture of CTA and its six thioamide repeats, all interactions with monomeric CtaZ are unique. The aliphatic &#x003b2;&#x02010;alanine scaffold is buried in a narrow channel that minimizes ligand mobility. Furthermore, the terminal aromatic residues of CTA act as anchors: one PHBA undergoes strong &#x003c0;&#x02013;&#x003c0; stacking with F35 whereas its counterpart is H&#x02010;bonded to E107 and stabilized by Y103, F121 and F146 (Figure&#x02005;<xref rid="anie202206168-fig-0004" ref-type="fig">4</xref>D). A special feature of the CtaZ:CTA structure is the unique coordination pattern of the polythiocarbonyl scaffold. There is a defined specificity pocket for each thioamide group, which is mainly formed by methionine and aromatic side chains. The nitrogen atoms of CTA form polar interactions with residues of CtaZ including S28 and E123, and the carbonyl oxygen of P129. Notably, the previously mentioned glutamate residue (E123), thought to be essential for small molecule binding (Figure&#x02005;<xref rid="anie202206168-fig-0003" ref-type="fig">3</xref>A), contributes to the binding of CTA.</p><p>In compiling and interpreting this comprehensive structural information on the CtaZ&#x02010;CTA interaction, we recognized two remarkable details in the CtaZ:CTA structure: i)&#x000a0;The location of CTA in the binding pocket of CtaZ differs from previously reported structures of small molecules bound to GyrI&#x02010;like domains. For the MDR transcriptional regulators BmrR<xref rid="anie202206168-bib-0057" ref-type="bibr">
+<sup>[27]</sup>
+</xref> and EcmrR<xref rid="anie202206168-bib-0055" ref-type="bibr">
+<sup>[26a]</sup>
+</xref> and the hydrolase Lin2189,<xref rid="anie202206168-bib-0024" ref-type="bibr">
+<sup>[10c]</sup>
+</xref> ligands are bound to one of three discrete binding sites distributed along the binding pocket (Figure&#x02005;S8), whereas CTA spans nearly the entire length of the binding groove with a contact area of 1034&#x02005;&#x000c5;<sup>2</sup> (Figure&#x02005;<xref rid="anie202206168-fig-0004" ref-type="fig">4</xref>B). Therefore, the binding mode invoked by CtaZ to capture its ligand differs from that of other GyrI&#x02010;like proteins. ii) CTA orientates lengthwise and rotated within the CtaZ binding groove, which is drastically different from the observed helical conformation of a CTA surrogate in complex with Cu<sup>I</sup> (Figure&#x02005;<xref rid="anie202206168-fig-0004" ref-type="fig">4</xref>E).<xref rid="anie202206168-bib-0038" ref-type="bibr">
+<sup>[16]</sup>
+</xref> From these contrasting conformations, we assume that CTA cannot complex Cu<sup>I</sup> while bound to CtaZ. In conclusion, the collected crystal structures not only confirm that CtaZ is a binding protein of CTA, but also reveal a novel binding mode between a self&#x02010;resistance&#x02010;mediating GyrI&#x02010;like protein and its natural ligand.</p><p>Inspired by our designation of CtaZ as a self&#x02010;resistance&#x02010;conferring binding protein, we aimed to gain insight into the distribution of similar proteins in the GyrI&#x02010;like superfamily. To obtain an overview of the superfamily, we generated a sequence similarity network (SSN) based on members of the GyrI&#x02010;like protein superfamily (PF06445; 39345 sequences) and homologs of CtaZ (Figure&#x02005;<xref rid="anie202206168-fig-0005" ref-type="fig">5</xref>A and Figure&#x02005;S9).<xref rid="anie202206168-bib-0058" ref-type="bibr">
+<sup>[28]</sup>
+</xref> We used UniProt<xref rid="anie202206168-bib-0061" ref-type="bibr">
+<sup>[29]</sup>
+</xref> to construct the SSN because it is a resource for well&#x02010;annotated and classified protein sequences and is integrated with the EFI&#x02010;EST web tool. Collapsing proteins with &#x02265;50&#x02009;% sequence identity over 80&#x02009;% of the sequence length into a single node resulted in a network composed of 4318 nodes. The superfamily clusters into 91 groups containing at least three nodes (covering 2773 nodes), with the remaining 1545 nodes being organized as pairs or singles. The hydrolase proteins cluster together in a large group, whereas the inhibitory (GyrI) and binding proteins (BmrR, Rob), including CtaZ, form separate individual groups. The groups reflect the diversity of cellular functions performed by members of the GyrI&#x02010;like protein superfamily, which until now has comprised transcriptional regulation,[<xref rid="anie202206168-bib-0030" ref-type="bibr">
+<sup>12b</sup>
+</xref>, <xref rid="anie202206168-bib-0062" ref-type="bibr">
+<sup>30</sup>
+</xref>] hydrolysis<xref rid="anie202206168-bib-0024" ref-type="bibr">
+<sup>[10c]</sup>
+</xref> and gyrase inhibition.<xref rid="anie202206168-bib-0047" ref-type="bibr">
+<sup>[21]</sup>
+</xref> CtaZ and its homologs form a group of previously undescribed proteins in the superfamily, alongside numerous uncharacterized groups (Figure&#x02005;S9). Overall, the SSN illustrates that the GyrI&#x02010;like superfamily is far more complex than previously appreciated. Similar functional complexity is observed in other large and diverse protein families with a conserved structural motif but various cellular activities, such as the AAA+ protein family.<xref rid="anie202206168-bib-0063" ref-type="bibr">
+<sup>[31]</sup>
+</xref> Therefore, with the identification of the CtaZ group we contribute to a better understanding of the cellular functions performed by members of the GyrI&#x02010;like protein superfamily and lay the foundation for deciphering the cryptic functions of the remaining uncharacterized groups.
+</p><fig position="float" fig-type="Figure" id="anie202206168-fig-0005"><label>Figure 5</label><caption><p>Homologs of CtaZ form a group in the GyrI&#x02010;like protein superfamily and homologous genes are part of a putative resistance gene cassette. A)&#x02005;Sequence similarity network for CtaZ homologs and the GyrI&#x02010;like protein superfamily (PF06445; proteins that share &#x02265;50&#x02009;% sequence identity over 80&#x02009;% of the sequence length are conflated; alignment score 40); only clusters containing members with characterized cellular functions are depicted (for full network see Figure&#x02005;S9). Nodes are colored based on a known resistance or self&#x02010;resistance (encoded in biosynthetic gene clusters (BGCs)) function. Node outline color indicates the protein domain architecture, while the node shape corresponds to protein activity. Node labels correspond to a representative protein and are colored based on the phylum of the organism harboring the GyrI&#x02010;like gene. B)&#x02005;Representative genetic loci that encode a CtaZ homolog (selected based on similarity to the CTA BGC or locus diversity). The CTA BGC (top) is shown for reference. Putative BGCs (middle) are separated by a dashed line from genetic loci not resembling BGCs (bottom). The putative resistance gene cassette is surrounded by a dashed box in each case.</p></caption><graphic xlink:href="ANIE-61-0-g001" position="anchor" id="jats-graphic-11"/></fig><p>In addition to assessing the distribution of CtaZ homologs within the GyrI&#x02010;like superfamily, we were interested in whether CtaZ homologs are used for self&#x02010;resistance by other potential antibiotic producers. Therefore, we mined the genomic neighborhoods of <italic toggle="yes">ctaZ</italic> homologs for biosynthetic genes. To this end, BLASTp was used to identify 200 homologs of CtaZ in GenBank<xref rid="anie202206168-bib-0044" ref-type="bibr">
+<sup>[18]</sup>
+</xref> sharing minimum 44&#x02009;% sequence identity. We chose the GenBank database instead of UniProt because it contains a larger number of sequences and therefore provides a more accurate picture of the available data. Notably, we found that approximately one third of the CtaZ homologs are encoded in pathogenic members of the phylum Firmicutes. We next surveyed the genomic neighborhood surrounding the <italic toggle="yes">ctaZ</italic> homolog for genes encoding enzymes involved in secondary metabolite biosynthesis. The local genomic neighborhoods are highly diverse, with 2&#x02009;% of the <italic toggle="yes">ctaZ</italic> homologs found in loci similar to the CTA BGC (Figure&#x02005;<xref rid="anie202206168-fig-0005" ref-type="fig">5</xref>B and Table&#x02005;S8). Surprisingly, most CtaZ homologs are encoded in loci that do not resemble typical BGCs. Therefore, it seems that CtaZ homologs are not commonly used in self&#x02010;resistance. Interestingly, we noticed that in 96&#x02009;% of the cases the <italic toggle="yes">ctaZ</italic> homolog is co&#x02010;localized with an upstream regulator and two downstream transporter genes, resembling a gene cassette (Figure&#x02005;<xref rid="anie202206168-fig-0005" ref-type="fig">5</xref>B and Table&#x02005;S8). Export processes of cytotoxic molecules are commonly induced by transcriptional regulators and facilitated by transporters.<xref rid="anie202206168-bib-0064" ref-type="bibr">
+<sup>[32]</sup>
+</xref> Since genes encoding these types of proteins co&#x02010;occur with <italic toggle="yes">ctaZ</italic> homologs in the vast majority of cases, we inferred that they may represent a functional unit responsible for protection against toxic molecules. Taken together, our findings on CtaZ expand the current picture of the cellular functions mediated by members of the GyrI&#x02010;like superfamily to include antibiotic binding. In addition, our results on a putative resistance gene cassette may indicate that these genes are involved in (self&#x02010;)resistance to thioamide&#x02010;possessing antibiotics, including in pathogenic bacteria.</p></sec><sec id="anie202206168-sec-0003"><title>Conclusion</title><p>In summary, we have characterized CtaZ as a self&#x02010;resistance factor from <italic toggle="yes">R. cellulolyticum</italic> to the polythioamide antibiotic CTA. We demonstrated that CtaZ is a binding protein of CTA and establish it as the founding member of a new group in the GyrI&#x02010;like protein superfamily. We observed a different conformation of CTA in complex with CtaZ compared to a CTA surrogate bound to Cu<sup>I</sup> (Figure&#x02005;<xref rid="anie202206168-fig-0004" ref-type="fig">4</xref>A and Figure&#x02005;<xref rid="anie202206168-fig-0004" ref-type="fig">4</xref>E), intimating that CTA cannot complex Cu<sup>I</sup> while bound to CtaZ. The complex structure suggests that CtaZ&#x02010;bound CTA, in addition to being shielded from the intracellular copper pool, is prevented from interfering with the DNA gyrase of <italic toggle="yes">R. cellulolyticum</italic>. This work sets the basis for deciphering the molecular details of the CtaZ&#x02010;mediated self&#x02010;resistance mechanism and its regulation in the CTA producer <italic toggle="yes">R. cellulolyticum</italic>.</p><p>In light of our findings regarding the function of CtaZ, our current understanding of the role of GyrI&#x02010;like proteins in AMR can be updated: i) The GyrI&#x02010;like fold is crucial for binding of small molecules not only as part of multidomain transcriptional regulators (Rob and BmrR),[<xref rid="anie202206168-bib-0031" ref-type="bibr">
+<sup>12c</sup>
+</xref>, <xref rid="anie202206168-bib-0050" ref-type="bibr">
+<sup>22b</sup>
+</xref>] which have an additional DNA&#x02010;binding domain, but also in single domain proteins. ii) GyrI&#x02010;like single domain proteins provide resistance not only by hydrolysis (YtkR7, C10R6)<xref rid="anie202206168-bib-0024" ref-type="bibr">
+<sup>[10c]</sup>
+</xref> or gyrase inhibition (GyrI),<xref rid="anie202206168-bib-0047" ref-type="bibr">
+<sup>[21]</sup>
+</xref> but also by small molecule binding (Figure&#x02005;<xref rid="anie202206168-fig-0006" ref-type="fig">6</xref>). The GyrI&#x02010;like fold is structurally distinct from that of other important multidrug&#x02010;binding domains within the AlbA and QacR classes.[<xref rid="anie202206168-bib-0066" ref-type="bibr">
+<sup>32b</sup>
+</xref>, <xref rid="anie202206168-bib-0067" ref-type="bibr">
+<sup>33</sup>
+</xref>] Therefore, the detailed structural information on the CtaZ&#x02010;CTA interaction contributes to a better understanding of the molecular factors that determine drug recognition by binding proteins.
+</p><fig position="float" fig-type="Figure" id="anie202206168-fig-0006"><label>Figure 6</label><caption><p>Overview of resistance strategies mediated by members of the GyrI&#x02010;like protein superfamily. Proteins are colored according to Figure&#x02005;<xref rid="anie202206168-fig-0001" ref-type="fig">1</xref>C. A)&#x02005;Inhibition of DNA gyrase by GyrI prevents the drug&#x02010;induced formation of lethal DNA double&#x02010;strand breaks. B)&#x02005;Members of the cyclopropanoid cyclopropyl hydrolase (CCH) group of GyrI&#x02010;like proteins, such as YtkR7 and C10R6, inactivate drugs by hydrolysis. C)&#x02005;Drug binding to the GyrI&#x02010;like domain of multidomain transcriptional regulators, such as BmrR and Rob, induces the transcription of genes encoding multidrug efflux pumps. D)&#x02005;The CTA binding protein CtaZ confers self&#x02010;resistance to the antibiotic producer <italic toggle="yes">R. cellulolyticum</italic>.</p></caption><graphic xlink:href="ANIE-61-0-g005" position="anchor" id="jats-graphic-13"/></fig><p>The requirement for self&#x02010;resistance in antibiotic producers provides a fertile ground for the evolution of AMR in non&#x02010;producers due to the selective pressure exerted by microbial competition. Mobilization of these resistance genes to pathogenic bacteria is prompted by widespread antibiotic use.[<xref rid="anie202206168-bib-0018" ref-type="bibr">
+<sup>9a</sup>
+</xref>, <xref rid="anie202206168-bib-0020" ref-type="bibr">
+<sup>9c</sup>
+</xref>] Our bioinformatic survey uncovered numerous CtaZ homologs, thereby illuminating uncharted territory of the antibiotic resistome, which encompasses all antibiotic resistance genes in microorganisms.<xref rid="anie202206168-bib-0020" ref-type="bibr">
+<sup>[9c]</sup>
+</xref> It is essential that such antibiotic (self&#x02010;)resistance genes of potential clinical significance are subject to biochemical characterization and bioinformatic surveying, in addition to monitoring emerging AMR.</p><p>This knowledge is critical to develop resistance management plans for both established antibiotics and new lead compounds. Given the undeniable connection between environmental and clinical resistance, we should perhaps be mindful that the newly identified CtaZ homologs and associated putative resistance gene cassette could potentially facilitate the transfer of AMR. In conclusion, our results not only address the mystery of self&#x02010;resistance to CTA, but also serve as a starting point for the characterization of previously undetected resistance proteins.</p></sec><sec sec-type="COI-statement" id="anie202206168-sec-0005"><title>Conflict of interest</title><p>The authors declare no conflict of interest.</p></sec><sec id="anie202206168-sec-0006"><label>1</label></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material position="float" content-type="local-data"><p>As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer reviewed and may be re&#x02010;organized for online delivery, but are not copy&#x02010;edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.</p></supplementary-material><supplementary-material position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ANIE-61-0-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="anie202206168-sec-0004"><title>Acknowledgements</title><p>CTA was provided by Florian Kloss. We thank Andrea Perner for MS measurements. We thank Ingrid Richter for helpful discussions on the phylogeny and Philipp Stephan and Hajo Kries for attempts to characterize the CtaZ&#x02010;CTA interaction by ITC. We are grateful to the staff of the beamline X06SA at the Paul&#x02010;Scherrer&#x02010;Institute, Swiss Light Source, Villigen, Switzerland for assistance during data collection. We gratefully acknowledge financial support by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation), Cluster of Excellence &#x0201c;Balance of the Microverse&#x0201d; and Leibniz Award (to C.H.). In addition, financial support by the DFG, SFB 1309, project C01 (to M.G.) and the European Community&#x02032;s Seventh Framework Program (FP7/2007&#x02013;2013) under BioStruct&#x02010;X (grant agreement no. 283570) is acknowledged. Open access funding enabled and organized by Projekt DEAL. Open Access funding enabled and organized by Projekt DEAL.</p></ack><sec sec-type="data-availability" id="anie202206168-sec-0000"><title>Data Availability Statement</title><p>The data that support the findings of this study are available in the Supporting Information of this article.</p></sec><ref-list><ref id="anie202206168-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="anie202206168-cit-0001">
+<string-name>
+<given-names>L. R.</given-names>
+<surname>Thompson</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Sanders</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>McDonald</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Amir</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ladau</surname>
+</string-name>, <string-name>
+<given-names>K. J.</given-names>
+<surname>Locey</surname>
+</string-name>, <string-name>
+<given-names>R. J.</given-names>
+<surname>Prill</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Tripathi</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Gibbons</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ackermann</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Navas-Molina</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Janssen</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Kopylova</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>V&#x000e1;zquez-Baeza</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gonz&#x000e1;lez</surname>
+</string-name>, <string-name>
+<given-names>J. T.</given-names>
+<surname>Morton</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mirarab</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zech Xu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>M. F.</given-names>
+<surname>Haroon</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kanbar</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Jin Song</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kosciolek</surname>
+</string-name>, <string-name>
+<given-names>N. A.</given-names>
+<surname>Bokulich</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lefler</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Brislawn</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Humphrey</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Owens</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Hampton-Marcell</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Berg-Lyons</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>McKenzie</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Fierer</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Fuhrman</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Clauset</surname>
+</string-name>, <string-name>
+<given-names>R. L.</given-names>
+<surname>Stevens</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Shade</surname>
+</string-name>, <string-name>
+<given-names>K. S.</given-names>
+<surname>Pollard</surname>
+</string-name>, <string-name>
+<given-names>K. D.</given-names>
+<surname>Goodwin</surname>
+</string-name>, <string-name>
+<given-names>J. K.</given-names>
+<surname>Jansson</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Gilbert</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Knight</surname>
+</string-name>, <article-title>&#x02018;The Earth Microbiome Project Consortium&#x02019;</article-title>, <source>Nature</source>
+<year>2017</year>, <volume>551</volume>, <fpage>457</fpage>&#x02013;<lpage>463</lpage>.<pub-id pub-id-type="pmid">29088705</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0002"><label>2</label><mixed-citation publication-type="miscellaneous" id="anie202206168-cit-0002">&#x000a0;</mixed-citation></ref><ref id="anie202206168-bib-0003"><label>2a</label><mixed-citation publication-type="journal" id="anie202206168-cit-0003">
+<string-name>
+<given-names>K.</given-names>
+<surname>Faust</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Raes</surname>
+</string-name>, <source>Nat. Rev. Microbiol.</source>
+<year>2012</year>, <volume>10</volume>, <fpage>538</fpage>&#x02013;<lpage>550</lpage>;<pub-id pub-id-type="pmid">22796884</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0004"><label>2b</label><mixed-citation publication-type="journal" id="anie202206168-cit-0004">
+<string-name>
+<given-names>M. E.</given-names>
+<surname>Hibbing</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Fuqua</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>Parsek</surname>
+</string-name>, <string-name>
+<given-names>S. B.</given-names>
+<surname>Peterson</surname>
+</string-name>, <source>Nat. Rev. Microbiol.</source>
+<year>2010</year>, <volume>8</volume>, <fpage>15</fpage>&#x02013;<lpage>25</lpage>.<pub-id pub-id-type="pmid">19946288</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0005"><label>3</label><mixed-citation publication-type="journal" id="anie202206168-cit-0005">
+<string-name>
+<given-names>M. M.</given-names>
+<surname>Mullis</surname>
+</string-name>, <string-name>
+<given-names>I. M.</given-names>
+<surname>Rambo</surname>
+</string-name>, <string-name>
+<given-names>B. J.</given-names>
+<surname>Baker</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Kiel Reese</surname>
+</string-name>, <source>Front. Microbiol.</source>
+<year>2019</year>, <volume>10</volume>, <fpage>2518</fpage>.<pub-id pub-id-type="pmid">31803148</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0006"><label>4</label><mixed-citation publication-type="miscellaneous" id="anie202206168-cit-0006">&#x000a0;</mixed-citation></ref><ref id="anie202206168-bib-0007"><label>4a</label><mixed-citation publication-type="journal" id="anie202206168-cit-0007">
+<string-name>
+<given-names>S.</given-names>
+<surname>Mak</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Nodwell</surname>
+</string-name>, <source>Mol. Microbiol.</source>
+<year>2014</year>, <volume>93</volume>, <fpage>391</fpage>&#x02013;<lpage>402</lpage>;<pub-id pub-id-type="pmid">24964724</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0008"><label>4b</label><mixed-citation publication-type="journal" id="anie202206168-cit-0008">
+<string-name>
+<given-names>K. H.</given-names>
+<surname>Almabruk</surname>
+</string-name>, <string-name>
+<given-names>L. K.</given-names>
+<surname>Dinh</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Philmus</surname>
+</string-name>, <source>ACS Chem. Biol.</source>
+<year>2018</year>, <volume>13</volume>, <fpage>1426</fpage>&#x02013;<lpage>1437</lpage>.<pub-id pub-id-type="pmid">29763292</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0009"><label>5</label><mixed-citation publication-type="journal" id="anie202206168-cit-0009">
+<string-name>
+<given-names>J. M. A.</given-names>
+<surname>Blair</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Webber</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Baylay</surname>
+</string-name>, <string-name>
+<given-names>D. O.</given-names>
+<surname>Ogbolu</surname>
+</string-name>, <string-name>
+<given-names>L. J. V.</given-names>
+<surname>Piddock</surname>
+</string-name>, <source>Nat. Rev. Microbiol.</source>
+<year>2015</year>, <volume>13</volume>, <fpage>42</fpage>&#x02013;<lpage>51</lpage>.<pub-id pub-id-type="pmid">25435309</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0010"><label>6</label><mixed-citation publication-type="miscellaneous" id="anie202206168-cit-0010">&#x000a0;</mixed-citation></ref><ref id="anie202206168-bib-0011"><label>6a</label><mixed-citation publication-type="journal" id="anie202206168-cit-0011">
+<string-name>
+<given-names>S. R.</given-names>
+<surname>Palumbi</surname>
+</string-name>, <source>Science</source>
+<year>2001</year>, <volume>293</volume>, <fpage>1786</fpage>&#x02013;<lpage>1790</lpage>;<pub-id pub-id-type="pmid">11546863</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0012"><label>6b</label><mixed-citation publication-type="journal" id="anie202206168-cit-0012">
+<string-name>
+<given-names>E. Y.</given-names>
+<surname>Klein</surname>
+</string-name>, <string-name>
+<given-names>T. P.</given-names>
+<surname>Van Boeckel</surname>
+</string-name>, <string-name>
+<given-names>E. M.</given-names>
+<surname>Martinez</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Pant</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Gandra</surname>
+</string-name>, <string-name>
+<given-names>S. A.</given-names>
+<surname>Levin</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Goossens</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Laxminarayan</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. USA</source>
+<year>2018</year>, <volume>115</volume>, <fpage>E3463</fpage>&#x02013;<lpage>E3470</lpage>.<pub-id pub-id-type="pmid">29581252</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0013"><label>7</label><mixed-citation publication-type="journal" id="anie202206168-cit-0013">
+<string-name>
+<given-names>D. J.</given-names>
+<surname>Newman</surname>
+</string-name>, <string-name>
+<given-names>G. M.</given-names>
+<surname>Cragg</surname>
+</string-name>, <source>J. Nat. Prod.</source>
+<year>2020</year>, <volume>83</volume>, <fpage>770</fpage>&#x02013;<lpage>803</lpage>.<pub-id pub-id-type="pmid">32162523</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0014"><label>8</label><mixed-citation publication-type="miscellaneous" id="anie202206168-cit-0014">&#x000a0;</mixed-citation></ref><ref id="anie202206168-bib-0015"><label>8a</label><mixed-citation publication-type="journal" id="anie202206168-cit-0015">
+<string-name>
+<given-names>S. B.</given-names>
+<surname>Levy</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Marshall</surname>
+</string-name>, <source>Nat. Med.</source>
+<year>2004</year>, <volume>10</volume>, <fpage>S122</fpage>&#x02013;<lpage>S129</lpage>;<pub-id pub-id-type="pmid">15577930</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0016"><label>8b</label><mixed-citation publication-type="journal" id="anie202206168-cit-0016">
+<string-name>
+<given-names>D. M.</given-names>
+<surname>Livermore</surname>
+</string-name>, <source>Clin. Microbiol. Infect.</source>
+<year>2004</year>, <volume>10</volume>, <fpage>1</fpage>&#x02013;<lpage>9</lpage>.</mixed-citation></ref><ref id="anie202206168-bib-0017"><label>9</label><mixed-citation publication-type="miscellaneous" id="anie202206168-cit-0017">&#x000a0;</mixed-citation></ref><ref id="anie202206168-bib-0018"><label>9a</label><mixed-citation publication-type="journal" id="anie202206168-cit-0018">
+<string-name>
+<given-names>T. A.</given-names>
+<surname>Wencewicz</surname>
+</string-name>, <source>J. Mol. Biol.</source>
+<year>2019</year>, <volume>431</volume>, <fpage>3370</fpage>&#x02013;<lpage>3399</lpage>;<pub-id pub-id-type="pmid">31288031</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0019"><label>9b</label><mixed-citation publication-type="journal" id="anie202206168-cit-0019">
+<string-name>
+<given-names>V. M.</given-names>
+<surname>D'Costa</surname>
+</string-name>, <string-name>
+<given-names>C. E.</given-names>
+<surname>King</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Kalan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Morar</surname>
+</string-name>, <string-name>
+<given-names>W. W. L.</given-names>
+<surname>Sung</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Schwarz</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Froese</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zazula</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Calmels</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Debruyne</surname>
+</string-name>, <string-name>
+<given-names>G. B.</given-names>
+<surname>Golding</surname>
+</string-name>, <string-name>
+<given-names>H. N.</given-names>
+<surname>Poinar</surname>
+</string-name>, <string-name>
+<given-names>G. D.</given-names>
+<surname>Wright</surname>
+</string-name>, <source>Nature</source>
+<year>2011</year>, <volume>477</volume>, <fpage>457</fpage>&#x02013;<lpage>461</lpage>;<pub-id pub-id-type="pmid">21881561</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0020"><label>9c</label><mixed-citation publication-type="journal" id="anie202206168-cit-0020">
+<string-name>
+<given-names>G. D.</given-names>
+<surname>Wright</surname>
+</string-name>, <source>Nat. Rev. Microbiol.</source>
+<year>2007</year>, <volume>5</volume>, <fpage>175</fpage>&#x02013;<lpage>186</lpage>.<pub-id pub-id-type="pmid">17277795</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0021"><label>10</label><mixed-citation publication-type="miscellaneous" id="anie202206168-cit-0021">&#x000a0;</mixed-citation></ref><ref id="anie202206168-bib-0022"><label>10a</label><mixed-citation publication-type="journal" id="anie202206168-cit-0022">
+<string-name>
+<given-names>V.</given-names>
+<surname>Anantharaman</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Aravind</surname>
+</string-name>, <source>Proteins Struct. Funct. Bioinf.</source>
+<year>2004</year>, <volume>56</volume>, <fpage>795</fpage>&#x02013;<lpage>807</lpage>;</mixed-citation></ref><ref id="anie202206168-bib-0023"><label>10b</label><mixed-citation publication-type="journal" id="anie202206168-cit-0023">
+<string-name>
+<given-names>A.</given-names>
+<surname>Moreno</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Froehlig</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Bachas</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Gunio</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Alexander</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Vanya</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wade</surname>
+</string-name>, <source>Biochemistry</source>
+<year>2016</year>, <volume>55</volume>, <fpage>4850</fpage>&#x02013;<lpage>4863</lpage>;<pub-id pub-id-type="pmid">27505298</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0024"><label>10c</label><mixed-citation publication-type="journal" id="anie202206168-cit-0024">
+<string-name>
+<given-names>H.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>H. C. S.</given-names>
+<surname>Chan</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>W.-B.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Igarashi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>G.-L.</given-names>
+<surname>Tang</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2017</year>, <volume>8</volume>, <fpage>1485</fpage>.<pub-id pub-id-type="pmid">29133784</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0025"><label>11</label><mixed-citation publication-type="miscellaneous" id="anie202206168-cit-0025">&#x000a0;</mixed-citation></ref><ref id="anie202206168-bib-0026"><label>11a</label><mixed-citation publication-type="journal" id="anie202206168-cit-0026">
+<string-name>
+<given-names>M. R.</given-names>
+<surname>Baquero</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Bouzon</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Varea</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Moreno</surname>
+</string-name>, <source>Mol. Microbiol.</source>
+<year>1995</year>, <volume>18</volume>, <fpage>301</fpage>&#x02013;<lpage>311</lpage>;<pub-id pub-id-type="pmid">8709849</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0027"><label>11b</label><mixed-citation publication-type="journal" id="anie202206168-cit-0027">
+<string-name>
+<given-names>A.</given-names>
+<surname>Nakanishi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Imajoh-Ohmi</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Hanaoka</surname>
+</string-name>, <source>J. Biol. Chem.</source>
+<year>2002</year>, <volume>277</volume>, <fpage>8949</fpage>&#x02013;<lpage>8954</lpage>.<pub-id pub-id-type="pmid">11777918</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0028"><label>12</label><mixed-citation publication-type="miscellaneous" id="anie202206168-cit-0028">&#x000a0;</mixed-citation></ref><ref id="anie202206168-bib-0029"><label>12a</label><mixed-citation publication-type="journal" id="anie202206168-cit-0029">
+<string-name>
+<given-names>M.</given-names>
+<surname>Ahmed</surname>
+</string-name>, <string-name>
+<given-names>C. M.</given-names>
+<surname>Borsch</surname>
+</string-name>, <string-name>
+<given-names>S. S.</given-names>
+<surname>Taylor</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>V&#x000e1;zquez-Laslop</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Neyfakh</surname>
+</string-name>, <source>J. Biol. Chem.</source>
+<year>1994</year>, <volume>269</volume>, <fpage>28506</fpage>&#x02013;<lpage>28513</lpage>;<pub-id pub-id-type="pmid">7961792</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0030"><label>12b</label><mixed-citation publication-type="journal" id="anie202206168-cit-0030">
+<string-name>
+<given-names>E. E.</given-names>
+<surname>Heldwein</surname>
+</string-name>, <string-name>
+<given-names>R. G.</given-names>
+<surname>Brennan</surname>
+</string-name>, <source>Nature</source>
+<year>2001</year>, <volume>409</volume>, <fpage>378</fpage>&#x02013;<lpage>382</lpage>;<pub-id pub-id-type="pmid">11201751</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0031"><label>12c</label><mixed-citation publication-type="journal" id="anie202206168-cit-0031">
+<string-name>
+<given-names>C.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Philips</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>You</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>T. V.</given-names>
+<surname>O'Halloran</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>6284</fpage>.<pub-id pub-id-type="pmid">33293519</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0032"><label>13</label><mixed-citation publication-type="journal" id="anie202206168-cit-0032">
+<string-name>
+<given-names>T. S.</given-names>
+<surname>Crofts</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Gasparrini</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Dantas</surname>
+</string-name>, <source>Nat. Rev. Microbiol.</source>
+<year>2017</year>, <volume>15</volume>, <fpage>422</fpage>&#x02013;<lpage>434</lpage>.<pub-id pub-id-type="pmid">28392565</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0033"><label>14</label><mixed-citation publication-type="miscellaneous" id="anie202206168-cit-0033">&#x000a0;</mixed-citation></ref><ref id="anie202206168-bib-0034"><label>14a</label><mixed-citation publication-type="journal" id="anie202206168-cit-0034">
+<string-name>
+<given-names>T.</given-names>
+<surname>Lincke</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Behnken</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Ishida</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Roth</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hertweck</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>
+<year>2010</year>, <volume>49</volume>, <fpage>2011</fpage>&#x02013;<lpage>2013</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="anie202206168-cit-0035">
+<source>Angew. Chem.</source>
+<year>2010</year>, <volume>122</volume>, <fpage>2055</fpage>&#x02013;<lpage>2057</lpage>;</mixed-citation></ref><ref id="anie202206168-bib-0035"><label>14b</label><mixed-citation publication-type="journal" id="anie202206168-cit-0036">
+<string-name>
+<given-names>F.</given-names>
+<surname>Kloss</surname>
+</string-name>, <string-name>
+<given-names>A. I.</given-names>
+<surname>Chiriac</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hertweck</surname>
+</string-name>, <source>Chem. Eur. J.</source>
+<year>2014</year>, <volume>20</volume>, <fpage>15451</fpage>&#x02013;<lpage>15458</lpage>;<pub-id pub-id-type="pmid">25284750</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0036"><label>14c</label><mixed-citation publication-type="journal" id="anie202206168-cit-0037">
+<string-name>
+<given-names>A. I.</given-names>
+<surname>Chiriac</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Kloss</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kr&#x000e4;mer</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Vuong</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hertweck</surname>
+</string-name>, <string-name>
+<given-names>H.-G.</given-names>
+<surname>Sahl</surname>
+</string-name>, <source>J. Antimicrob. Chemother.</source>
+<year>2015</year>, <volume>70</volume>, <fpage>2576</fpage>&#x02013;<lpage>2588</lpage>.<pub-id pub-id-type="pmid">26174721</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0037"><label>15</label><mixed-citation publication-type="journal" id="anie202206168-cit-0038">
+<string-name>
+<given-names>V. F.</given-names>
+<surname>Miari</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Solanki</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hleba</surname>
+</string-name>, <string-name>
+<given-names>R. A.</given-names>
+<surname>Stabler</surname>
+</string-name>, <string-name>
+<given-names>J. T.</given-names>
+<surname>Heap</surname>
+</string-name>, <source>Antimicrob. Agents Chemother.</source>
+<year>2017</year>, <volume>61</volume>, <elocation-id>e00929</elocation-id>-<lpage>17</lpage>.<pub-id pub-id-type="pmid">28784667</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0038"><label>16</label><mixed-citation publication-type="journal" id="anie202206168-cit-0039">
+<string-name>
+<given-names>F.</given-names>
+<surname>Kloss</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Pidot</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Goerls</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Friedrich</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hertweck</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>
+<year>2013</year>, <volume>52</volume>, <fpage>10745</fpage>&#x02013;<lpage>10748</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="anie202206168-cit-0040">
+<source>Angew. Chem.</source>
+<year>2013</year>, <volume>125</volume>, <fpage>10945</fpage>&#x02013;<lpage>10948</lpage>.</mixed-citation></ref><ref id="anie202206168-bib-0039"><label>17</label><mixed-citation publication-type="miscellaneous" id="anie202206168-cit-0041">&#x000a0;</mixed-citation></ref><ref id="anie202206168-bib-0040"><label>17a</label><mixed-citation publication-type="journal" id="anie202206168-cit-0042">
+<string-name>
+<given-names>K. L.</given-names>
+<surname>Dunbar</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>B&#x000fc;ttner</surname>
+</string-name>, <string-name>
+<given-names>E. M.</given-names>
+<surname>Molloy</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Dell</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kumpfm&#x000fc;ller</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hertweck</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>
+<year>2018</year>, <volume>57</volume>, <fpage>14080</fpage>&#x02013;<lpage>14084</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="anie202206168-cit-0043">
+<source>Angew. Chem.</source>
+<year>2018</year>, <volume>130</volume>, <fpage>14276</fpage>&#x02013;<lpage>14280</lpage>;</mixed-citation></ref><ref id="anie202206168-bib-0041"><label>17b</label><mixed-citation publication-type="journal" id="anie202206168-cit-0044">
+<string-name>
+<given-names>K. L.</given-names>
+<surname>Dunbar</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Dell</surname>
+</string-name>, <string-name>
+<given-names>E. M.</given-names>
+<surname>Molloy</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Kloss</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hertweck</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>
+<year>2019</year>, <volume>58</volume>, <fpage>13014</fpage>&#x02013;<lpage>13018</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="anie202206168-cit-0045">
+<source>Angew. Chem.</source>
+<year>2019</year>, <volume>131</volume>, <fpage>13148</fpage>&#x02013;<lpage>13152</lpage>;</mixed-citation></ref><ref id="anie202206168-bib-0042"><label>17c</label><mixed-citation publication-type="journal" id="anie202206168-cit-0046">
+<string-name>
+<given-names>K. L.</given-names>
+<surname>Dunbar</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Dell</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Gude</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hertweck</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. USA</source>
+<year>2020</year>, <volume>117</volume>, <fpage>8850</fpage>&#x02013;<lpage>8858</lpage>;<pub-id pub-id-type="pmid">32265283</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0043"><label>17d</label><mixed-citation publication-type="journal" id="anie202206168-cit-0047">
+<string-name>
+<given-names>K. L.</given-names>
+<surname>Dunbar</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Dell</surname>
+</string-name>, <string-name>
+<given-names>E. M.</given-names>
+<surname>Molloy</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>B&#x000fc;ttner</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kumpfm&#x000fc;ller</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hertweck</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>
+<year>2021</year>, <volume>60</volume>, <fpage>4104</fpage>&#x02013;<lpage>4109</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="anie202206168-cit-0048">
+<source>Angew. Chem.</source>
+<year>2021</year>, <volume>133</volume>, <fpage>4150</fpage>&#x02013;<lpage>4155</lpage>.</mixed-citation></ref><ref id="anie202206168-bib-0044"><label>18</label><mixed-citation publication-type="journal" id="anie202206168-cit-0049">
+<string-name>
+<given-names>K.</given-names>
+<surname>Clark</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Karsch-Mizrachi</surname>
+</string-name>, <string-name>
+<given-names>D. J.</given-names>
+<surname>Lipman</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ostell</surname>
+</string-name>, <string-name>
+<given-names>E. W.</given-names>
+<surname>Sayers</surname>
+</string-name>, <source>Nucleic Acids Res.</source>
+<year>2016</year>, <volume>44</volume>, <fpage>D67</fpage>&#x02013;<lpage>D72</lpage>.<pub-id pub-id-type="pmid">26590407</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0045"><label>19</label><mixed-citation publication-type="journal" id="anie202206168-cit-0050">
+<string-name>
+<given-names>G. M.</given-names>
+<surname>Boratyn</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Sch&#x000e4;ffer</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Agarwala</surname>
+</string-name>, <string-name>
+<given-names>S. F.</given-names>
+<surname>Altschul</surname>
+</string-name>, <string-name>
+<given-names>D. J.</given-names>
+<surname>Lipman</surname>
+</string-name>, <string-name>
+<given-names>T. L.</given-names>
+<surname>Madden</surname>
+</string-name>, <source>Biol. Direct</source>
+<year>2012</year>, <volume>7</volume>, <fpage>12</fpage>.<pub-id pub-id-type="pmid">22510480</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0046"><label>20</label><mixed-citation publication-type="journal" id="anie202206168-cit-0051">
+<string-name>
+<given-names>F.</given-names>
+<surname>Gabler</surname>
+</string-name>, <string-name>
+<given-names>S.-Z.</given-names>
+<surname>Nam</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Till</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Mirdita</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Steinegger</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>S&#x000f6;ding</surname>
+</string-name>, <string-name>
+<given-names>A. N.</given-names>
+<surname>Lupas</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Alva</surname>
+</string-name>, <source>Curr. Protoc. Bioinf.</source>
+<year>2020</year>, <volume>72</volume>, <elocation-id>e108</elocation-id>.</mixed-citation></ref><ref id="anie202206168-bib-0047"><label>21</label><mixed-citation publication-type="journal" id="anie202206168-cit-0052">
+<string-name>
+<given-names>M.</given-names>
+<surname>Chatterji</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Nagaraja</surname>
+</string-name>, <source>EMBO Rep.</source>
+<year>2002</year>, <volume>3</volume>, <fpage>261</fpage>&#x02013;<lpage>267</lpage>.<pub-id pub-id-type="pmid">11850398</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0048"><label>22</label><mixed-citation publication-type="miscellaneous" id="anie202206168-cit-0053">&#x000a0;</mixed-citation></ref><ref id="anie202206168-bib-0049"><label>22a</label><mixed-citation publication-type="journal" id="anie202206168-cit-0054">
+<string-name>
+<given-names>E. E.</given-names>
+<surname>Zheleznova</surname>
+</string-name>, <string-name>
+<given-names>P. N.</given-names>
+<surname>Markham</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Neyfakh</surname>
+</string-name>, <string-name>
+<given-names>R. G.</given-names>
+<surname>Brennan</surname>
+</string-name>, <source>Cell</source>
+<year>1999</year>, <volume>96</volume>, <fpage>353</fpage>&#x02013;<lpage>362</lpage>;<pub-id pub-id-type="pmid">10025401</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0050"><label>22b</label><mixed-citation publication-type="journal" id="anie202206168-cit-0055">
+<string-name>
+<given-names>H. J.</given-names>
+<surname>Kwon</surname>
+</string-name>, <string-name>
+<given-names>M. H. J.</given-names>
+<surname>Bennik</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Demple</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Ellenberger</surname>
+</string-name>, <source>Nat. Struct. Biol.</source>
+<year>2000</year>, <volume>7</volume>, <fpage>424</fpage>&#x02013;<lpage>430</lpage>.<pub-id pub-id-type="pmid">10802742</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0051"><label>23</label><mixed-citation publication-type="journal" id="anie202206168-cit-0056">
+<string-name>
+<given-names>E. P.</given-names>
+<surname>Abraham</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Chain</surname>
+</string-name>, <string-name>
+<given-names>C. M.</given-names>
+<surname>Fletcher</surname>
+</string-name>, <string-name>
+<given-names>A. D.</given-names>
+<surname>Gardner</surname>
+</string-name>, <string-name>
+<given-names>N. G.</given-names>
+<surname>Heatley</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Jennings</surname>
+</string-name>, <string-name>
+<given-names>H. W.</given-names>
+<surname>Florey</surname>
+</string-name>, <source>Lancet</source>
+<year>1941</year>, <volume>238</volume>, <fpage>177</fpage>&#x02013;<lpage>189</lpage>.</mixed-citation></ref><ref id="anie202206168-bib-0052"><label>24</label><mixed-citation publication-type="journal" id="anie202206168-cit-0057">
+<string-name>
+<given-names>B.</given-names>
+<surname>Bonev</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Hooper</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Parisot</surname>
+</string-name>, <source>J. Antimicrob. Chemother.</source>
+<year>2008</year>, <volume>61</volume>, <fpage>1295</fpage>&#x02013;<lpage>1301</lpage>.<pub-id pub-id-type="pmid">18339637</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0053"><label>25</label><mixed-citation publication-type="journal" id="anie202206168-cit-0058">
+<string-name>
+<given-names>S.</given-names>
+<surname>Bachas</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Eginton</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Gunio</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wade</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. USA</source>
+<year>2011</year>, <volume>108</volume>, <fpage>11046</fpage>&#x02013;<lpage>11051</lpage>.<pub-id pub-id-type="pmid">21690368</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0054"><label>26</label><mixed-citation publication-type="miscellaneous" id="anie202206168-cit-0059">&#x000a0;</mixed-citation></ref><ref id="anie202206168-bib-0055"><label>26a</label><mixed-citation publication-type="journal" id="anie202206168-cit-0060">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>D. G.</given-names>
+<surname>Schatz</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2021</year>, <volume>12</volume>, <fpage>2702</fpage>;<pub-id pub-id-type="pmid">33976201</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0056"><label>26b</label><mixed-citation publication-type="journal" id="anie202206168-cit-0061">
+<string-name>
+<given-names>L.</given-names>
+<surname>Holm</surname>
+</string-name>, <source>Methods Mol. Biol.</source>
+<year>2020</year>, <volume>2112</volume>, <fpage>29</fpage>&#x02013;<lpage>42</lpage>.<pub-id pub-id-type="pmid">32006276</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0057"><label>27</label><mixed-citation publication-type="journal" id="anie202206168-cit-0062">
+<string-name>
+<given-names>K. J.</given-names>
+<surname>Newberry</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Huffman</surname>
+</string-name>, <string-name>
+<given-names>M. C.</given-names>
+<surname>Miller</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Vazquez-Laslop</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Neyfakh</surname>
+</string-name>, <string-name>
+<given-names>R. G.</given-names>
+<surname>Brennan</surname>
+</string-name>, <source>J. Biol. Chem.</source>
+<year>2008</year>, <volume>283</volume>, <fpage>26795</fpage>&#x02013;<lpage>26804</lpage>.<pub-id pub-id-type="pmid">18658145</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0058"><label>28</label><mixed-citation publication-type="miscellaneous" id="anie202206168-cit-0063">&#x000a0;</mixed-citation></ref><ref id="anie202206168-bib-0059"><label>28a</label><mixed-citation publication-type="journal" id="anie202206168-cit-0064">
+<string-name>
+<given-names>J. A.</given-names>
+<surname>Gerlt</surname>
+</string-name>, <string-name>
+<given-names>J. T.</given-names>
+<surname>Bouvier</surname>
+</string-name>, <string-name>
+<given-names>D. B.</given-names>
+<surname>Davidson</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Imker</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Sadkhin</surname>
+</string-name>, <string-name>
+<given-names>D. R.</given-names>
+<surname>Slater</surname>
+</string-name>, <string-name>
+<given-names>K. L.</given-names>
+<surname>Whalen</surname>
+</string-name>, <source>Biochim. Biophys. Acta, Proteins Proteomics</source>
+<year>2015</year>, <volume>1854</volume>, <fpage>1019</fpage>&#x02013;<lpage>1037</lpage>;</mixed-citation></ref><ref id="anie202206168-bib-0060"><label>28b</label><mixed-citation publication-type="journal" id="anie202206168-cit-0065">
+<string-name>
+<given-names>R.</given-names>
+<surname>Zallot</surname>
+</string-name>, <string-name>
+<given-names>N. O.</given-names>
+<surname>Oberg</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Gerlt</surname>
+</string-name>, <source>Curr. Opin. Chem. Biol.</source>
+<year>2018</year>, <volume>47</volume>, <fpage>77</fpage>&#x02013;<lpage>85</lpage>.<pub-id pub-id-type="pmid">30268904</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0061"><label>29</label><mixed-citation publication-type="journal" id="anie202206168-cit-0066">UniProt Consortium, <source>Nucleic Acids Res.</source>
+<year>2019</year>, <volume>47</volume>, <fpage>D506</fpage>&#x02013;<lpage>D515</lpage>.<pub-id pub-id-type="pmid">30395287</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0062"><label>30</label><mixed-citation publication-type="journal" id="anie202206168-cit-0067">
+<string-name>
+<given-names>E. Y.</given-names>
+<surname>Rosenberg</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Bertenthal</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Nilles</surname>
+</string-name>, <string-name>
+<given-names>K. P.</given-names>
+<surname>Bertrand</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Nikaido</surname>
+</string-name>, <source>Mol. Microbiol.</source>
+<year>2003</year>, <volume>48</volume>, <fpage>1609</fpage>&#x02013;<lpage>1619</lpage>.<pub-id pub-id-type="pmid">12791142</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0063"><label>31</label><mixed-citation publication-type="journal" id="anie202206168-cit-0068">
+<string-name>
+<given-names>J.</given-names>
+<surname>Snider</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Thibault</surname>
+</string-name>, <string-name>
+<given-names>W. A.</given-names>
+<surname>Houry</surname>
+</string-name>, <source>Genome Biol.</source>
+<year>2008</year>, <volume>9</volume>, <fpage>216</fpage>.<pub-id pub-id-type="pmid">18466635</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0064"><label>32</label><mixed-citation publication-type="miscellaneous" id="anie202206168-cit-0069">&#x000a0;</mixed-citation></ref><ref id="anie202206168-bib-0065"><label>32a</label><mixed-citation publication-type="journal" id="anie202206168-cit-0070">
+<string-name>
+<given-names>J. F.</given-names>
+<surname>Mart&#x000ed;n</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Casqueiro</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Liras</surname>
+</string-name>, <source>Curr. Opin. Microbiol.</source>
+<year>2005</year>, <volume>8</volume>, <fpage>282</fpage>&#x02013;<lpage>293</lpage>;<pub-id pub-id-type="pmid">15939351</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0066"><label>32b</label><mixed-citation publication-type="journal" id="anie202206168-cit-0071">
+<string-name>
+<given-names>M. A.</given-names>
+<surname>Schumacher</surname>
+</string-name>, <string-name>
+<given-names>M. C.</given-names>
+<surname>Miller</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Grkovic</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Brown</surname>
+</string-name>, <string-name>
+<given-names>R. A.</given-names>
+<surname>Skurray</surname>
+</string-name>, <string-name>
+<given-names>R. G.</given-names>
+<surname>Brennan</surname>
+</string-name>, <source>Science</source>
+<year>2001</year>, <volume>294</volume>, <fpage>2158</fpage>&#x02013;<lpage>2163</lpage>.<pub-id pub-id-type="pmid">11739955</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0067"><label>33</label><mixed-citation publication-type="miscellaneous" id="anie202206168-cit-0072">&#x000a0;</mixed-citation></ref><ref id="anie202206168-bib-0068"><label>33a</label><mixed-citation publication-type="journal" id="anie202206168-cit-0073">
+<string-name>
+<given-names>L.</given-names>
+<surname>Rostock</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Driller</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Gr&#x000e4;tz</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kerwat</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>von Eckardstein</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Petras</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kunert</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Alings</surname>
+</string-name>, <string-name>
+<given-names>F.-J.</given-names>
+<surname>Schmitt</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Friedrich</surname>
+</string-name>, <string-name>
+<given-names>M. C.</given-names>
+<surname>Wahl</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Loll</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Mainz</surname>
+</string-name>, <string-name>
+<given-names>R. D.</given-names>
+<surname>S&#x000fc;ssmuth</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2018</year>, <volume>9</volume>, <fpage>3095</fpage>;<pub-id pub-id-type="pmid">30082794</pub-id></mixed-citation></ref><ref id="anie202206168-bib-0069"><label>33b</label><mixed-citation publication-type="journal" id="anie202206168-cit-0074">
+<string-name>
+<given-names>A.</given-names>
+<surname>Sikandar</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Cirnski</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Testolin</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Volz</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Br&#x000f6;nstrup</surname>
+</string-name>, <string-name>
+<given-names>O. V.</given-names>
+<surname>Kalinina</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>M&#x000fc;ller</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Koehnke</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2018</year>, <volume>140</volume>, <fpage>16641</fpage>&#x02013;<lpage>16649</lpage>.<pub-id pub-id-type="pmid">30422653</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,7 @@
+The actinomycetes are Gram-positive bacteria belonging to the order 
+Actinomycetales
+ within the phylum 
+Actinobacteria
+. They include members with significant economic and medical importance, for example filamentous actinomycetes such as 
+Streptomyces
+ species, which have a propensity to produce a plethora of bioactive secondary metabolites and form symbioses with higher organisms, such as plants and insects. Studying these bacteria is challenging, but also fascinating and very rewarding. As a Microbiology Society initiative, members of the actinomycete research community have been developing a Wikipedia-style resource, called ActinoBase, the purpose of which is to aid in the study of these filamentous bacteria. This review will highlight 10 publications from 2019 that have been of special interest to the ActinoBase community, covering 4 major components of actinomycete research: (i) development and regulation; (ii) specialized metabolites; (iii) ecology and host interactions; and (iv) technology and methodology.

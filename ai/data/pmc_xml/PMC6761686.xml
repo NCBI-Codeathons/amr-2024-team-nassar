@@ -1,0 +1,517 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6761686</article-id><article-id pub-id-type="pmid">31572841</article-id><article-id pub-id-type="doi">10.1021/acsomega.9b01461</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Development of a Robust and Quantitative High-Throughput Screening
+Method for Antibiotic Production in Bacterial Libraries</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Murray</surname><given-names>Elizabeth M.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Allen</surname><given-names>Catherine F.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Handy</surname><given-names>Tess E.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Huffine</surname><given-names>Clair A.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff1" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Craig</surname><given-names>Whitney R.</given-names></name><xref rid="aff1" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Seaton</surname><given-names>Sarah C.</given-names></name><xref rid="aff2" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><name><surname>Wolfe</surname><given-names>Amanda L.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02021;</xref></contrib><aff id="aff1"><sup>&#x02020;</sup>Department
+of Biology and <sup>&#x02021;</sup>Department of Chemistry, <institution>University of
+North Carolina Asheville</institution>, One University Heights, Asheville, North Carolina 28804, <country>United States</country></aff><aff id="aff2"><label>&#x000a7;</label><institution>Indigo Ag</institution>, 500 Rutherford Avenue, Boston, Massachusetts 02129, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>awolfe@unca.edu</email>.</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>09</month><year>2019</year></pub-date><pub-date pub-type="collection"><day>24</day><month>09</month><year>2019</year></pub-date><volume>4</volume><issue>13</issue><fpage>15414</fpage><lpage>15420</lpage><history><date date-type="received"><day>20</day><month>05</month><year>2019</year></date><date date-type="accepted"><day>28</day><month>08</month><year>2019</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2019 American Chemical Society</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01461_0007" id="ab-tgr1"/></p><p>Over
+the past 30 years, there has been a dramatic rise in the number of
+infections caused by multidrug-resistant bacteria, which have proliferated
+due to the misuse and overuse of antibiotics. Over this same time
+period, however, there has also been a decline in the number of antibiotics
+with novel mechanisms of action coming to market. Therefore, there
+is a growing need for an increase in the speed at which new antibiotics
+are discovered and developed. Natural products produced by bacteria
+have been and continue to be a robust source of novel antibiotics;
+however, new and complementary methods for screening large bacterial
+libraries for novel antibiotic production are needed due to the current
+agar methods being limited in scope, time consuming, and prone to
+error. Herein, we describe a rapid, robust, and quantitative high-throughput
+liquid culture screening method for antibiotic production by bacteria.
+This method has the ability to screen both mono- and coculture mixtures
+of bacteria <italic>in vitro</italic> and be adapted to other phenotypic
+natural product analyses. Over 260 bacterial species were screened
+in monoculture, and 38 and 34% were found to produce antibiotics capable
+of inhibition of <italic>Staphylococcus aureus</italic> or <italic>Escherichia coli</italic>, respectively,
+with 8 and 4% being classified as strong producers (&#x02265;30% growth
+inhibition), respectively. Bacteria found to not produce antibiotics
+in monoculture were also screened in coculture using an adaptation
+of this method. Of the more than 270 cocultures screened, 14 and 30%
+were found to produce antibiotics capable of inhibition of <italic>S. aureus</italic> or <italic>E. coli</italic>, respectively. Of those bacteria found to produce antibiotics in
+monoculture, 43 bacteria were subjected to 16S rRNA sequencing and
+found to be majority <italic>Pseudomonas</italic> (37%), <italic>Serratia</italic> (19%), and <italic>Bacillus</italic> (14%) bacteria, but two novel
+producers, <italic>Herbaspirillum</italic> and <italic>Kluyvera</italic>, were also found.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao9b01461</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao-2019-01461a</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Multidrug-resistant
+bacterial infections are one of the top three threats to global public
+health and are projected to cause up to 10 million deaths worldwide
+by the year 2050 if the current trend continues.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> There
+are many factors that contribute to the upsurge of multidrug-resistant
+bacterial infections with the largest being the overuse and misuse
+of antibiotics both in medicine, as they are among the most commonly
+prescribed drugs, and in agriculture.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> Resistance
+to a particular antibiotic can occur rapidly and broadly, where bacteria
+can become resistant to an entire class of drugs with the same mechanism
+of action. Therefore, there is a dire need for the constant development
+and production of novel and efficacious antibiotics to keep pace with
+the ever-evolving bacteria. Natural products, which have been fine-tuned
+by nature to elicit a specific biological activity, continue to be
+an excellent source of novel molecules that can be used as blueprints
+for antibacterial drug design; however, many challenges with natural
+product isolation and characterization remain.</p><p>Between 1981
+and 2014, natural products and their derivatives, produced by a wide
+array of organisms including plants, fungi, and bacteria, accounted
+for 65% of all approved small molecule drugs and 73% of approved antibacterial
+agents.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> Despite these compelling numbers,
+natural product discovery programs, and specifically those for antibiotic
+development, have been largely abandoned over the past 30 years by
+the pharmaceutical industry for more efficient, and therefore profitable,
+high-throughput screening technologies and a combinatorial chemistry
+approach to drug discovery. It has been estimated that it takes approximately
+3 months of work and $50&#x02009;000 to isolate and characterize a
+single novel natural product due to the time-consuming nature of natural
+product discovery, from finding a hit to cultivating or culturing
+the natural source to extracting the bioactive compound, and the to
+the issue of dereplication, which is the process of identifying known
+compounds with bioactivity prior to full isolation.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref7">7</xref></sup> Over
+the past two decades, many strategies utilizing a variety of spectroscopic<sup><xref ref-type="bibr" rid="ref7">7</xref>&#x02212;<xref ref-type="bibr" rid="ref10">10</xref></sup> methods have been developed to facilitate dereplication for all
+types of natural product screening. However, recent focus has shifted
+to improve the process of natural product identification and isolation
+so that less dereplication is needed to begin with. Bacteria, which
+were a robust source of bioactive (especially antibacterial) natural
+products beginning in the early 1900s, saw diminished interest by
+scientists in the past 30 years due to the high frequency of reisolation
+of known compounds. Recently, bacteria have re-emerged as organisms
+of interest due to many new methods that have been developed to specifically
+target novel natural product production.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> These methods include screening unique bacterial species such as
+extremophiles, endophytes (kakadumycins from an endophytic Streptomycete
+associated with the fern-leafed grevillea<sup><xref ref-type="bibr" rid="ref12">12</xref></sup>), and marine bacteria (marinomycins A&#x02013;D from <italic>Marinispora</italic>(<xref ref-type="bibr" rid="ref13">13</xref>)), developing methods for culturing
+&#x0201c;unculturable&#x0201d; bacteria (teixobactin from <italic>Eleftheria terrae</italic> via iChip technology<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> and malacidins A and B from <italic>Streptomyces
+albus</italic>(<xref ref-type="bibr" rid="ref15">15</xref>)), and mixed microbial
+culture to mimic the natural, competitive environment and cross talk
+between species (pyocyanin produced by a <italic>Pseudomonas</italic>&#x02013;<italic>Enterobacter</italic> dual culture<sup><xref ref-type="bibr" rid="ref16">16</xref></sup>), which may utilize the bacteria&#x02019;s thousands of
+uncharacterized, silent genes as shown by whole-genome sequencing.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> For example, Garbeva et al. screened a 146 phylogenically
+diverse bacterial library in mono- and cocultures and found that 6%
+(154/2798 pairs) of interactions induced antibiotic activity against
+either <italic>Staphylococcus aureus</italic> or <italic>Escherichia coli</italic>.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup></p><p>In addition to developing methods to produce novel antibiotics from
+microorganisms, there is also a need for improving the screening techniques
+for these producers to reduce false positives, which lead to loss
+of time and resources. New techniques for screening bacteria libraries
+using tools such as microfluidics<sup><xref ref-type="bibr" rid="ref19">19</xref>,<xref ref-type="bibr" rid="ref20">20</xref></sup> and mass spectrometry<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref22">22</xref></sup> have been developed that allow for rapid and large-scale analysis
+of producing bacteria, but these require highly specialized equipment
+and instrumentation that may be inaccessible for smaller institutions,
+limiting their ability to contribute to the field of antibiotic discovery.
+For laboratory-culturable bacteria, the standard &#x0201c;low-tech&#x0201d;
+method for assaying bacteria for antibacterial production has been
+an agar-based method, similar to the disk diffusion agar method, where
+the bacteria to be assayed is spotted onto a solid media agar plate
+via pipette or pin replication that has been overlaid or spread with
+the pathogen target of interest on top<sup><xref ref-type="bibr" rid="ref23">23</xref>&#x02212;<xref ref-type="bibr" rid="ref25">25</xref></sup> (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>). Bacteria that produce antibiotics under
+these conditions will develop a &#x0201c;halo&#x0201d; or zone of inhibition
+around them (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, D5), where the pathogen has been cleared, which can be observed
+without the need for any specialized equipment or instrumentation.
+While this method allows for the evaluation of a large number of potential
+producers and is simple enough that even minimally trained scientists
+such as undergraduates can perform it, it is also highly prone to
+error, time consuming (typically taking 2 weeks for a single assay
+with growth times), and restricted to organisms that grow well and
+have low motility on solid media (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, B1 shows a high motility bacteria). The
+agar method is able to be quantified manually by measuring the size
+of the zone of inhibition, but this limits throughput.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> Additionally, since the analysis of antibiotic
+production is conducted visually, bacteria that produce only weakly
+active compounds or produce active compounds but in low concentrations
+may be missed. Herein, we report the development of a new, time-efficient,
+high-throughput, and quantitative method for screening bacteria in
+a liquid culture that compliments the use of novel organisms and mixed
+microbial culture for antibiotic production to further improve the
+drug discovery process. We have validated this process by screening &#x0003e;260
+bacteria isolated from a variety of environments including bulk and
+rhizosphere soil, the phytotelmata of <italic>Sarracenia</italic> pitcher
+plants, desert soil, and freshwater sediment for antibiotic production
+against <italic>S. aureus</italic> and <italic>E. coli</italic> in monoculture. Further, this method was
+adapted to screen coculture mixtures of bacteria, as well.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Agar overlay
+method against <italic>S. aureus</italic>. D5 represents
+a hit.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01461_0001" id="gr1" position="float"/></fig></sec><sec id="sec2"><title>Results and Discussion</title><sec id="sec2.1"><title>Assay Development</title><p>The goals for developing a new bacterial, phenotypic (specifically
+antibiotic) screening method were to<list list-type="simple"><list-item><label>1.</label><p>have a reduced assay time compared to traditional
+agar method;</p></list-item><list-item><label>2.</label><p>be robust
+enough that even minimally trained scientists can get reliable results;</p></list-item><list-item><label>3.</label><p>allow for quantification
+with error analysis via standard deviation (SD) of antibiotic activity;</p></list-item><list-item><label>4.</label><p>be amenable to mono- and
+coculture analyses.</p></list-item></list></p><p>With these goals
+in mind, the assay shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref> was developed. For monoculture evaluation, a single
+bacterial colony is inoculated in 10% tryptic soy broth (TSB) and
+incubated at 25 &#x000b0;C for 24 h (day 1). These overnight cultures
+are then pipetted into a 96-well filter bottom plate (<italic>n</italic> = 4), diluted 15-fold in fresh media (10% TSB), and incubated at
+25 &#x000b0;C for 48 h to allow for antibiotic production (days 2&#x02013;3).
+After the 48 h production period, the plate is centrifuged into a
+new 96-well round-bottom plate containing the test pathogen in fresh
+media (full-strength TSB), allowing for analysis of the cell-free
+media containing any excreted secondary metabolites (day 4). After
+a final 24 h incubation period at 37 &#x000b0;C, the absorbance is taken
+at OD<sub>590</sub> to assess pathogen growth in the presence and
+absence of culture filtrate (day 5). For coculture evaluation, the
+assay is extended to include an additional growth day of the monocultures
+in a 96-well assay plate before they are mixed in coculture and allowed
+to incubate for 48 h prior to filtration.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Workflow of the monoculture
+liquid high-throughput screening method. The 5 day process starts
+after the colonies are quadrant-streaked from agar plates and allowed
+to grow for 36&#x02013;48 h. Hits are determined as any inhibition
+2 standard deviations from the pathogen in TSB. Strong producers are
+categorized as those hits that have &#x02265;30% inhibition.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01461_0002" id="gr2" position="float"/></fig><p>For our specific library of bacteria, which is
+composed of bacteria isolated from both aqueous and rhizosphere soil
+samples found in western North Carolina and the southwestern United
+States, we found that the general optimal growth conditions were nutrient-poor
+media (diluted TSB to 10% of the manufacturer&#x02019;s recommendation)
+and 25 &#x000b0;C. Additionally, due to the small volume in each well,
+a 48 h incubation allowed for us to observe antibiotic production
+activity without issues associated with longer incubation times such
+as cell death due to the lack of nutrients or evaporation. These conditions
+can be optimized for any specific bacterial library, and larger culture
+volumes can be accommodated with deep-well filter plates. Pathogens, <italic>S. aureus</italic> and <italic>E. coli</italic>, were grown under optimal growth conditions of full-strength TSB
+and 37 &#x000b0;C.</p><p>In total, this assay takes 5&#x02013;6 days to
+complete depending on whether mono- or cocultures are used. The 96-well
+plate format allows for an appropriate number replicates to be run
+in parallel so that the &#x0201c;hits&#x0201d; are reliable and reproducible.
+For analysis of antibiotic production by bacteria in mono- or coculture,
+an <italic>n</italic> = 4 was deemed sufficient to be able to statistically
+differentiate (2 standard deviations (SDs), 95% confidence) a producing
+culture compared to the uninhibited pathogen control, which is detailed
+in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b01461/suppl_file/ao9b01461_si_001.pdf">Supporting Information</ext-link>. Additionally,
+we set a threshold of &#x02265;30% inhibition of the pathogen compared
+to the uninhibited pathogen control for bacteria to be deemed as &#x0201c;strong
+producers&#x0201d; or bacteria that produce either a large quantity
+of an antibiotic or a highly potent antibiotic. In a practical sense,
+this is a threshold that we found to be amenable to natural product
+isolation in our laboratory using standard large-scale culture methods
+(6&#x02013;12 L), which was validated in the isolation pseudopyronine
+B from a <italic>Pseudomonas</italic> soil bacteria,<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> but other thresholds could be established based on the
+specific goals of an individual screen.</p><p>One additional utility
+of this screening method is that it is modular and can be readily
+adapted for specific growth requirements of the bacteria being screened
+(i.e., extended growth time or varying media conditions) and for other
+phenotypic screens (i.e., cytotoxic where the filtrate is centrifuged
+into mammalian cells). Limitations of this method are that only bacteria
+that can be cultured in liquid are able to be screened, bacteria with
+erratic growth under standard conditions can lead to confounding results,
+and multiculture is limited by the volume of the 96-well plate (typically &#x0003c;200
+&#x003bc;L).</p></sec><sec id="sec2.2"><title>Screening in Monoculture</title><p>To validate
+the screening method, a bacterial library containing bacteria isolated
+from a variety of aqueous and rhizosphere soil environments was screened
+for antibiotic production using <italic>S. aureus</italic> and <italic>E. coli</italic> as representative Gram-positive
+and -negative pathogens. 302 bacterial samples were tested for single
+production against <italic>S. aureus</italic>, and 38%
+(<italic>n</italic> = 115) were found to produce antibiotic activity,
+with 23 of those 115 being classified as strong producers (&#x02265;30%
+inhibition) (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>). There were 267 bacterial samples tested for single production
+against <italic>E. coli</italic>, and 34% (<italic>n</italic> = 90) were found to produce antibiotic activity, with 11 of those
+90 being classified as strong producers (&#x02265;30% inhibition) (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>). Bacteria that
+had irreproducible growth in liquid media at any stage of the protocol
+were removed from the final analysis. A representation of the data
+output with 95% confidence intervals for the screening of 21 bacteria
+is shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>. Nonproducers are shown in blue, which were found to not significantly
+inhibit the growth of the <italic>S. aureus</italic> (SA in TSB) compared to that of the TBS-only control. Producers
+are shown in yellow and orange, with orange being those that inhibited
+the pathogen by &#x02265;30%.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Total hits in monoculture against <italic>S. aureus</italic> and <italic>E. coli</italic>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01461_0003" id="gr3" position="float"/></fig><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Representative data for 21 bacteria screened
+for antibiotic production against <italic>S. aureus</italic>. Each individual data point has been background-subtracted to remove
+absorbance from 32.5% TSB (&#x0201c;TSB only&#x0201d;) and normalized
+to the growth of the pathogen (&#x0201c;SA in TSB&#x0201d;), which has
+been set to 1. Black dots show individually normalized well values
+for each bacterial species (<italic>n</italic> = 4), colored bars
+show the mean of the individually normalized well, and 95% confidence
+intervals (&#x000b1;2 standard deviations) are shown as error bars. Blue
+bars indicated no inhibition of pathogen, yellow indicate weak inhibition
+(&#x0003c;30%), and orange indicate strong inhibition (&#x02265;30%) of
+pathogen compared to the pathogen-only (&#x02212;)-control SA in TSB.
+Bacteria 400, a <italic>Pseudomonas</italic> sp., which was found
+to strongly inhibit both <italic>S. aureus</italic> and <italic>E. coli</italic>, was used as a (+)-control for each individual
+assay.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01461_0004" id="gr4" position="float"/></fig><p>To date, 43 antibiotic producers
+have been identified by polymerase chain reaction (PCR) amplification
+and DNA sequencing of the full-length 16S rRNA genes (see the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b01461/suppl_file/ao9b01461_si_001.pdf">Supporting Information</ext-link>). Of those identified,
+the highest abundant genera were <italic>Pseudomonas</italic> (37%), <italic>Serratia</italic> (19%), and <italic>Bacillus</italic> (14%). <italic>Bacillus</italic>, <italic>Brevibacterium</italic>, <italic>Brevibacillus</italic>, <italic>Chromobacterium</italic>, <italic>Collimonas</italic>, <italic>Herbaspirillum</italic>, <italic>Kluyvera</italic>, <italic>Microbacterium</italic>, <italic>Staphylococcus</italic>, and <italic>Streptomyces</italic> encompass the remaining identified isolates. Out of these identified
+genera, <italic>Pseudomonas</italic>,<sup><xref ref-type="bibr" rid="ref26">26</xref>&#x02212;<xref ref-type="bibr" rid="ref28">28</xref></sup><italic>Serratia</italic>,<sup><xref ref-type="bibr" rid="ref29">29</xref></sup><italic>Bacillus</italic>,<sup><xref ref-type="bibr" rid="ref30">30</xref></sup><italic>Brevibacterium</italic>,<sup><xref ref-type="bibr" rid="ref31">31</xref></sup><italic>Brevibacillus</italic>,<sup><xref ref-type="bibr" rid="ref32">32</xref></sup><italic>Chromobacterium</italic>,<sup><xref ref-type="bibr" rid="ref33">33</xref></sup><italic>Collimonas</italic>,<sup><xref ref-type="bibr" rid="ref34">34</xref></sup><italic>Staphylococcus</italic>,<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> and <italic>Streptomyces</italic>(<xref ref-type="bibr" rid="ref36">36</xref>) are all known
+antibiotic producers. Isolates, which have not yet been found to produce
+antibiotic compounds, include <italic>Herbaspirillum</italic> and <italic>Kluyvera</italic>.</p></sec><sec id="sec2.3"><title>Screening in Coculture</title><p>As has been
+discussed, one way to increase the chances of isolating novel compounds
+produced by bacteria, and reduce the need for dereplication, is to
+use co- or multiculture techniques to elicit the production of small
+molecules from silent genes that are not active in monoculture. To
+this end, bacteria from the library that were found to not produce
+an antibiotic in monoculture were then screened pairwise in coculture,
+selected at random, using the adapted protocol described above. Three
+hundred and three bacterial pairs were screened against <italic>S. aureus,</italic> and 14% (<italic>n</italic> = 43) were
+found to have activity with 3.3% (<italic>n</italic> = 10) showing
+&#x02265;30% inhibition (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>). Two hundred and seventy-eight bacterial pairs were screened
+against <italic>E. coli</italic>, and 30% (<italic>n</italic> = 84) were found to have activity with 0% (<italic>n</italic> =
+0) showing &#x02265;30% inhibition (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>). These numbers include single bacteria
+that in coculture with any other bacteria caused antibiotic production.
+An example of the coculture data is shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Total hits in coculture against <italic>S. aureus</italic> and <italic>E. coli</italic>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01461_0005" id="gr5" position="float"/></fig><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Representative data for 20 bacteria pairs found
+to be nonproducers in monoculture screened for antibiotic production
+against <italic>S. aureus</italic>. Each individual
+data point has been background-subtracted to remove absorbance from
+32.5% TSB (TSB only) and normalized to the growth of the pathogen
+(SA in TSB), which has been set to 1. Black dots show individually
+normalized well values for each bacteria pair (<italic>n</italic> =
+4), colored bars show the mean of the individually normalized well,
+and 95% confidence intervals (&#x000b1;2 standard deviations) are shown
+as error bars. Blue bars indicated no inhibition of pathogen, yellow
+indicate weak inhibition (&#x0003c;30%), and orange indicate strong inhibition
+(&#x02265;30%) of pathogen compared to the pathogen-only (-)-control
+SA in TSB. Bacteria 400, a <italic>Pseudomonas</italic> sp., which
+was found to strongly inhibit both <italic>S. aureus</italic> and <italic>E. coli</italic>, was used as a (+)-control
+for each individual assay.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01461_0006" id="gr6" position="float"/></fig></sec></sec><sec id="sec3"><title>Conclusions</title><p>In summary, the discovery of novel antibiotics
+is and will continue to be a worldwide need as antibiotic resistance
+continues to rise. To help address this need, we have described the
+development of a new method for screening liquid bacteria in mono-
+and cocultures for antibiotic production that is rapid, quantitative,
+and robust enough that even minimally trained scientists, such as
+undergraduates, can perform, which is complimentary to and can be
+used as an initial screening tool for other more &#x0201c;high-tech&#x0201d;
+methods for antibiotic discovery and analysis in the field. This method
+not only allows for the identification of bacteria that produce molecules
+in large quantity or ones that are highly active but also allows for
+the identification of weakly producing bacteria that may be read as
+false negatives in standard agar methods used in the field today.
+Mono- and cocultures that were found to be active in our screens are
+being scaled for antibiotic isolation using methods previously described.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> Finally, this method can be easily adapted to
+other phenotypic screens, such as mechanism of action assays and LC-MSMS
+analysis of metabolites, since only the cell-free media with excreted,
+bioactive secondary metabolites are being evaluated.</p></sec><sec id="sec4"><title>Experimental
+Section</title><sec id="sec4.100"><title>General Procedures</title><p>All steps were completed with aseptic techniques. All media and glassware
+were sterilized via an autoclave at 121 &#x000b0;C for 60 min. All agitation
+occurred at 160 rpm in a temperature-controlled console shaker (Excella
+E25) at 25 &#x000b0;C. Bacteria in the library were stored at &#x02212;80
+&#x000b0;C as 25% glycerol stocks in 10% tryptic soy broth (TSB, 3 g
+BD Bacto TSB powder per 1 L deionized water). From these freezer stocks,
+bacteria were quadrant-streaked and grown on 10% tryptic soy agar
+(TSA, 3 g BD Bacto TSB powder, and 20 g Bacto agar per 1 L deionized
+water) for 36&#x02013;48 h at 25 &#x000b0;C. Purchased bacteria strains
+used were <italic>S. aureus</italic> (ATCC 29213) and <italic>E. coli</italic> (ATCC 15022).</p></sec><sec id="sec4.1"><title>Agar Spread Plate Method</title><p>The overnight target pathogen suspension (70 &#x003bc;L) was pipetted
+onto a 10% TSA plate. A sterilized plastic spreader was used to evenly
+spread the pathogen across the plate, and the plates were left to
+dry. The desired cell suspension (1.7 &#x003bc;L) was spotted onto dried
+plates and monitored up to a week at room temperature for zones of
+inhibition against the target pathogen.</p></sec><sec id="sec4.2"><title>Agar Overlay Method</title><p>TSA (10%, 4 mL) was melted via microwave and cooled to 50 &#x000b0;C
+in a hot water bath. The target pathogen overnight suspension (100
+&#x003bc;L) was added to the soft agar, inverted, and poured onto a
+prewarmed, 37 &#x000b0;C, 10% TSA (1.5% agar) plate. Plates were slightly
+rocked for even coverage and left to dry. The desired cell suspension
+(1.7 &#x003bc;L) was spotted onto dried overlay plates and monitored
+at room temperature up to a week for zones of inhibition against the
+target pathogen.</p></sec><sec id="sec4.3"><title>High-Throughput Liquid Assay Method</title><sec id="sec4.3.1"><title>Growth Parameters
+and Controls</title><p>Screened bacteria were grown in 10% TSB at 25
+&#x000b0;C. Pathogens were grown in full-strength TSB (30 g BD Bacto
+TSB per 1 L deionized water) at 37 &#x000b0;C. For all liquid assays,
+the (-)-control was a pathogen in 32.5% TSB (150 &#x003bc;L 10% TSB
++ 50 &#x003bc;L full-strength TSB), and the blank was 32.5% TSB to confirm
+no contamination present and to allow for background subtraction in
+data analysis (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b01461/suppl_file/ao9b01461_si_001.pdf">Figures S2&#x02013;S4</ext-link>). Additionally, a confirmed producer bacteria from our library (400, <italic>Pseudomonas</italic> sp.) was used as a (+)-control for all mono-
+and coculture assays.</p></sec><sec id="sec4.3.2"><title>Monoculture</title><p>As shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>, the 5 day screening
+process began with creating liquid bacterial cultures by inoculating
+a selected colony into 4 mL of 10% TSB, which was shaken at 25 &#x000b0;C
+for 24 h. On the second day, the liquid cultures from day 1 were used
+to make 96-well filtration plates (a 0.22 &#x003bc;M hydrophilic low
+protein binding Durapore membrane). The filter plates were prepared
+with 140 &#x003bc;L of 10% TSB and 10 &#x003bc;L of the appropriate sample
+in each well (<italic>n</italic> = 4). Filter plates were shaken for
+48 h. On the third day during the filter plate incubation period,
+overnight cultures of <italic>S. aureus</italic> and <italic>E. coli</italic> were grown in 4 mL of full-strength TSB from
+a selected colony and shaken for 24 h at 37 &#x000b0;C. On the fourth
+day, 50 &#x003bc;L of the overnight cultures of <italic>S. aureus</italic> or <italic>E. coli</italic> were pipetted into all
+wells of a sterile 96-well VWR tissue culture plate except for the
+final column, which served as a (+)-positive control and was filled
+with 50 &#x003bc;L of full-strength TSB only. Then, the filter plates
+were placed directly on top of the newly made plates and were centrifuged
+for 10 min at 1000<italic>g</italic> at 25 &#x000b0;C. This allowed all
+cellular material to stay in the filter membrane, while all excreted
+secondary metabolites were transported into the new plate. The final
+TSB concentration for all wells was 32.5% TSB. The plates were shaken
+for 24 h at 37 &#x000b0;C.</p><p>On the fifth and final day, plates were
+analyzed for absorbance at 590 nm using a Gen5 All-In-One Microplate
+Reader software with BioTek Synergy HTX Multimode Microplate Reader.
+Each plate&#x02019;s data was individually analyzed using Microsoft
+Excel. The average of TSB without pathogen was subtracted from each
+well of the 96-well plate to subtract the media background and create
+a standard baseline of &#x0201c;0&#x0201d; (TSB only, <xref rid="fig4" ref-type="fig">Figures <xref rid="fig4" ref-type="fig">4</xref></xref>&#x02013;<xref rid="fig6" ref-type="fig">6</xref>). The new average of TSB without pathogen represents the absorbance
+of a well, which contains 0% of the pathogen or 100% inhibition of
+bacterial growth. Each well was compared to the pathogen absorbance
+in TSB (SA in TSB, <xref rid="fig4" ref-type="fig">Figures <xref rid="fig4" ref-type="fig">4</xref></xref>&#x02013;<xref rid="fig6" ref-type="fig">6</xref>) as a ratio of the well/pathogen
+in TSB to normalize all values to the pathogen = 1 (&#x0201c;limit
+of acceptance&#x0201d;, <xref rid="fig4" ref-type="fig">Figures <xref rid="fig4" ref-type="fig">4</xref></xref>&#x02013;<xref rid="fig6" ref-type="fig">6</xref>). The new average of the
+pathogen in TSB represents the absorbance of a well, which contains
+100% of the pathogen or 0% inhibition of bacterial growth. The average
+and two standard deviations (SDs) of all ratios per bacteria were
+used to create a 95% confidence interval of the total pathogen inhibition.
+If the bacterial sample had an average of +2 SD below 1, then it qualified
+to have antibiotic activity. The bacterial sample qualified to be
+a strong producer when at least 30% inhibition occurred against the
+pathogen.</p></sec><sec id="sec4.3.3"><title>Coculture</title><p>The high-throughput liquid
+assay method for screening cocultures was modified to a 6 day process.
+On the first day, selected colonies from agar plates were inoculated
+into 4 mL of 10% TSB and shaken for 24 h at 25 &#x000b0;C. On the second
+day, 140 &#x003bc;L of 10% TSB and 10 &#x003bc;L of the appropriate liquid
+bacterial culture were pipetted into a 96-well VWR tissue culture
+plate and shaken for 24 h at 25 &#x000b0;C. This added step allowed each
+bacteria an additional 24 h to grow separately before growing in a
+coculture. The different bacteria were placed into pairs based on
+the order of the 96-well VWR tissue culture plate made on the second
+day. The plate was flipped on itself horizontally and vertically or
+rotated 18&#x00030;&#x0030a; to make the random pairings (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b01461/suppl_file/ao9b01461_si_001.pdf">Figure S1</ext-link> in Supporting Information). The resulting coculture
+pairs were checked to ensure that no repeats were tested during an
+assay. On the third day, 130 &#x003bc;L of 10% TSB was pipetted into
+the 96-well filtration plates (a 0.22 &#x003bc;M hydrophilic low protein
+binding Durapore membrane), and 10 &#x003bc;L of each bacteria in a
+pair were pipetted into a well so that each well contained a total
+of 150 &#x003bc;L. The plates were then shaken for 48 h at 25 &#x000b0;C.
+The last 3 days of this procedure follow the same methods outlined
+in the monoculture screening process.</p></sec></sec><sec id="sec4.4"><title>Microbial Characterization</title><sec id="sec4.4.1"><title>Gram
+Staining</title><p>Samples were placed onto a microscope slide by pipetting
+10 &#x003bc;L of sterile deionized water and smearing a colony. The
+slide was allowed to dry completely and then subjected to gentile
+heat fixation via flame. The smear was subjected to crystal violet
+(60 s), iodine (60 s), decolorizer (80% ethanol, 10&#x02013;20 s),
+and safranin (60 s). Between each step, the smear was washed thoroughly
+with deionized water. Bacterial cells were visualized under bright-field
+microscopy at 40&#x000d7; magnification.</p></sec><sec id="sec4.4.2"><title>Genomic Purification</title><p>Bacterial DNA was acquired using a PureLink Genomic DNA Mini Kit
+and protocol. Samples were grown in 4 mL of 10% TSB overnight, and
+cells (2 &#x000d7; 10<sup>9</sup>) were harvested via centrifugation.
+Protocol for bacterial cell lysate was followed with respect to Gram-staining
+results. All samples were subject to purifying genomic DNA using a
+spin column-based procedure. DNA elution from the spin column for
+each sample was completed twice with a 50 &#x003bc;L PureLink Genomic
+Elution Buffer to a total volume on 100 &#x003bc;L. Purified bacterial
+DNA was kept at &#x02212;18 &#x000b0;C.</p></sec><sec id="sec4.4.3"><title>PCR and Identification</title><p>Genus-level identification was determined using 16S rRNA amplification
+and DNA sequence analysis. Universal 16S rRNA primers were 27F (AGA
+GTT TGA TCM TGG CTC AG) and 1492R (CGG TTA CCT TGT TAC GAC TT). Polymerase
+chain reactions (PCRs) were completed for 50 &#x003bc;L reactions containing
+a 5&#x000d7; Phusion green HF buffer (10 &#x003bc;L), 10 mM dNTP (1 &#x003bc;L),
+Phusion DNA polymerase (0.5 &#x003bc;L), 10 mM universal primers (2.5
+&#x003bc;L), 100 ng/mL template, and nuclease-free water. Thermocycler
+was set for initial denaturing at 98 &#x000b0;C (3 min), followed by
+29 cycles of 98 &#x000b0;C (30 s), 48 &#x000b0;C (30 s), and 72 &#x000b0;C
+(5 min). After 29 cycles were completed, the sample underwent a final
+extension at 72 &#x000b0;C (5 min). PCR products were visualized for
+size separation on 1% agarose gel containing 0.5 &#x003bc;g/mL ethidium
+bromide in 1&#x000d7; TAE. A Quick-Load Purple 2-log DNA ladder (0.1&#x02013;10.0
+kb) was used for size reference. Products (approximately 1460 bp)
+were visualized under UV light and purified using QiaQuick PCR purification
+kit (Qiagen). Purified PCR product send-off was prepared in a total
+volume of 15 &#x003bc;L for sequencing at 4 ng/&#x003bc;L products, 25
+pmol 27F primer, and nuclease-free water. Samples were sent to GeneWiz
+(Cambridge, MA) for Sanger sequencing. Sanger sequencing results were
+cross-checked with the National Center for Biotechnology Information
+and Ribosomal Database Project for genus-level identification.</p></sec></sec></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The
+Supporting Information is available free of charge on the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org">ACS Publications website</ext-link> at
+DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/abs/10.1021/acsomega.9b01461">10.1021/acsomega.9b01461</ext-link>.<list id="silist" list-type="simple"><list-item><p>Process of flipping the 96-well VWR tissue
+culture plate (Figure S1); layout of data normalization (Figure S2);
+layout of inhibition ratio calculation (Figure S3); layout of data
+calculation for producer identification (Figure S4); and activity
+and genus-level sequencing of bacterial library (Table S1) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b01461/suppl_file/ao9b01461_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01461_si_001.pdf"><caption><p>ao9b01461_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes-3"><title>Author Contributions</title><p>E.M.M. developed
+the assay methods and screened monoculture bacteria, C.F.A. screened
+monoculture bacteria, developed the coculture adaptation of the method,
+and screened all coculture bacteria, T.E.H. and C.A.H. identified
+producing bacteria, W.R.C. ran experiments and analyzed data, S.C.S.
+supervised the isolation of the bacterial library and genomic identification,
+and A.L.W. designed experiments, analyzed data, and wrote the manuscript.
+All authors contributed to manuscript revision.</p></notes><notes notes-type="COI-statement" id="NOTES-d7e815-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>The authors would like to gratefully acknowledge the financial support
+of the North Carolina Biotechnology Center (2015-BRG-1201), Research
+Corporation for Science Advancement Cottrell Scholar Award (23975),
+and the University of North Carolina Chemistry Department.</p></ack><glossary id="dl1"><def-list><title>Abbreviations</title><def-item><term>S. aureus or SA</term><def><p><italic>Staphylococcus
+aureus</italic></p></def></def-item><def-item><term>E. coli
+or EC</term><def><p><italic>Escherichia coli</italic></p></def></def-item><def-item><term>SD</term><def><p>standard deviation</p></def></def-item><def-item><term>TSB</term><def><p>tryptic soy broth</p></def></def-item><def-item><term>TSA</term><def><p>tryptic soy agar</p></def></def-item><def-item><term>mL</term><def><p>milliliters</p></def></def-item><def-item><term>&#x003bc;L</term><def><p>microliters</p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="report" id="cit1"><person-group person-group-type="allauthors"><name><surname>O&#x02019;Neill</surname><given-names>J.</given-names></name></person-group><source>Review on
+Antimicrobial Resistance</source>, Tackling Drug-resistant Infections
+globally: Final Report and Recommendations, <year>2016</year>; <fpage>1</fpage>&#x02013;<lpage>7</lpage>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="undeclared" id="cit2"><person-group person-group-type="allauthors"><name><surname>de Kraker</surname><given-names>M. E. A.</given-names></name>; <name><surname>Stewardson</surname><given-names>A. J.</given-names></name>; <name><surname>Harbarth</surname><given-names>S.</given-names></name></person-group><article-title>Will 10 Million people die
+a year due to antimicrobial resistance by 2050?</article-title><source>PLoS Med.</source><year>2016</year>, <volume>13</volume> (<issue>11</issue>), <pub-id pub-id-type="doi">10.1371/journal.pmed.1002184</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="weblink" id="cit3"><article-title>Centers for disease control and prevention: Antibiotic/Antimicrobial
+resistance</article-title>. <year>2019</year>, <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/drugresistance/index.html">https://www.cdc.gov/drugresistance/index.html</uri>, (accessed April 28, 2019).</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>MacGowan</surname><given-names>A.</given-names></name>; <name><surname>Macnaughton</surname><given-names>E.</given-names></name>
+<article-title>Antibiotic resistance</article-title>. <source>Medicine</source>
+<year>2017</year>, <volume>45</volume>, <fpage>622</fpage>&#x02013;<lpage>628</lpage>. <pub-id pub-id-type="doi">10.1016/j.mpmed.2017.07.006</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Newman</surname><given-names>D. J.</given-names></name>; <name><surname>Cragg</surname><given-names>G. M.</given-names></name>
+<article-title>Natural products
+as sources of new drugs from 1981 to 2014</article-title>. <source>J.
+Nat. Prod.</source>
+<year>2016</year>, <volume>79</volume>, <fpage>629</fpage>&#x02013;<lpage>661</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jnatprod.5b01055</pub-id>.<pub-id pub-id-type="pmid">26852623</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Cordell</surname><given-names>G. A.</given-names></name>; <name><surname>Shin</surname><given-names>Y. G.</given-names></name>
+<article-title>Finding the needle
+in the haystack: The dereplication of natural product extracts</article-title>. <source>Pure Appl. Chem.</source>
+<year>1999</year>, <volume>71</volume>, <fpage>1089</fpage>&#x02013;<lpage>1094</lpage>. <pub-id pub-id-type="doi">10.1351/pac199971061089</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Dias</surname><given-names>D. A.</given-names></name>; <name><surname>Urban</surname><given-names>S.</given-names></name>; <name><surname>Roessner</surname><given-names>U.</given-names></name>
+<article-title>A historical overview of natural products in drug discovery</article-title>. <source>Metabolites</source>
+<year>2012</year>, <volume>2</volume>, <fpage>303</fpage>&#x02013;<lpage>336</lpage>. <pub-id pub-id-type="doi">10.3390/metabo2020303</pub-id>.<pub-id pub-id-type="pmid">24957513</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Ramakrishna</surname><given-names>N. V. S.</given-names></name>; <name><surname>Nadkarni</surname><given-names>S. R.</given-names></name>; <name><surname>Bhat</surname><given-names>R. G.</given-names></name>; <name><surname>Naker</surname><given-names>S. D.</given-names></name>; <name><surname>Kumar</surname><given-names>E. K. S. V.</given-names></name>; <name><surname>Lal</surname><given-names>B.</given-names></name>
+<article-title>Screening of natural
+product extracts for antibacterial activity: Early identification and elimination of known
+compounds by dereplication</article-title>. <source>Ind. J. Chem.</source>
+<year>1999</year>, <volume>38B</volume>, <fpage>1384</fpage>&#x02013;<lpage>1387</lpage>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Sashidhara</surname><given-names>K. V.</given-names></name>; <name><surname>Rosaiah</surname><given-names>J. N.</given-names></name>
+<article-title>Various dereplication
+strategies using LC-MS for rapid natural product lead identification
+and drug discovery</article-title>. <source>Nat. Prod. Commun.</source>
+<year>2007</year>, <volume>2</volume>, <fpage>193</fpage>&#x02013;<lpage>202</lpage>. <pub-id pub-id-type="doi">10.1177/1934578X0700200218</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Brklja&#x0010d;a</surname><given-names>R.</given-names></name>; <name><surname>Urban</surname><given-names>S.</given-names></name>
+<article-title>Recent advances in
+HPLC-NMR and applications for natural product profiling and identification</article-title>. <source>J. Liq. Chromatogr. Relat. Technol.</source>
+<year>2011</year>, <volume>34</volume>, <fpage>1063</fpage>&#x02013;<lpage>1076</lpage>. <pub-id pub-id-type="doi">10.1080/10826076.2011.587748</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Cragg</surname><given-names>G. M.</given-names></name>; <name><surname>Newman</surname><given-names>D. J.</given-names></name>
+<article-title>Natural products: A continuing source
+of novel drug leads</article-title>. <source>Biochim. Biophys. Acta</source>
+<year>2013</year>, <volume>1830</volume>, <fpage>3670</fpage>&#x02013;<lpage>3695</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbagen.2013.02.008</pub-id>.<pub-id pub-id-type="pmid">23428572</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Castillo</surname><given-names>U.</given-names></name>; <name><surname>Harper</surname><given-names>J. K.</given-names></name>; <name><surname>Strobel</surname><given-names>G. A.</given-names></name>; <name><surname>Sears</surname><given-names>J.</given-names></name>; <name><surname>Alesi</surname><given-names>K.</given-names></name>; <name><surname>Ford</surname><given-names>E.</given-names></name>; <name><surname>Lin</surname><given-names>J.</given-names></name>; <name><surname>Hunter</surname><given-names>M.</given-names></name>; <name><surname>Maranta</surname><given-names>M.</given-names></name>; <name><surname>Ge</surname><given-names>H.</given-names></name>; <name><surname>Yaver</surname><given-names>D.</given-names></name>; <name><surname>Jensen</surname><given-names>J. B.</given-names></name>; <name><surname>Porter</surname><given-names>H.</given-names></name>; <name><surname>Robinson</surname><given-names>R.</given-names></name>; <name><surname>Millar</surname><given-names>D.</given-names></name>; <name><surname>Hess</surname><given-names>W. M.</given-names></name>; <name><surname>Condron</surname><given-names>M.</given-names></name>; <name><surname>Teplow</surname><given-names>D.</given-names></name>
+<article-title>Kakadumycins, novel
+antibiotics from streptomyces sp. Nrrl 30566, an endophyte of <italic>Grevillea pteridifolia</italic></article-title>. <source>FEMS
+Microbiol. Lett.</source>
+<year>2003</year>, <volume>224</volume>, <fpage>183</fpage>&#x02013;<lpage>190</lpage>. <pub-id pub-id-type="doi">10.1016/S0378-1097(03)00426-9</pub-id>.<pub-id pub-id-type="pmid">12892881</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Kwon</surname><given-names>H. C.</given-names></name>; <name><surname>Kauffman</surname><given-names>C. A.</given-names></name>; <name><surname>Jensen</surname><given-names>P. R.</given-names></name>; <name><surname>Fenical</surname><given-names>W.</given-names></name>
+<article-title>Marinomycins A&#x02013;D, antitumor-antibiotics of a
+new structure class from a marine actinomycete of the recently discovered
+genus &#x0201c;Marinispora&#x0201d;</article-title>. <source>J. Am. Chem.
+Soc.</source>
+<year>2006</year>, <volume>128</volume>, <fpage>1622</fpage>&#x02013;<lpage>1632</lpage>. <pub-id pub-id-type="doi">10.1021/ja0558948</pub-id>.<pub-id pub-id-type="pmid">16448135</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Ling</surname><given-names>L. L.</given-names></name>; <name><surname>Schneider</surname><given-names>T.</given-names></name>; <name><surname>Peoples</surname><given-names>A. J.</given-names></name>; <name><surname>Spoering</surname><given-names>A. L.</given-names></name>; <name><surname>Engels</surname><given-names>I.</given-names></name>; <name><surname>Conlon</surname><given-names>B. P.</given-names></name>; <name><surname>Mueller</surname><given-names>A.</given-names></name>; <name><surname>Sch&#x000e4;berle</surname><given-names>T. F.</given-names></name>; <name><surname>Hughes</surname><given-names>D. E.</given-names></name>; <name><surname>Epstein</surname><given-names>S.</given-names></name>; <name><surname>Jones</surname><given-names>M.</given-names></name>; <name><surname>Lazarides</surname><given-names>L.</given-names></name>; <name><surname>Steadan</surname><given-names>V. A.</given-names></name>; <name><surname>Cohen</surname><given-names>D. R.</given-names></name>; <name><surname>Felix</surname><given-names>C. R.</given-names></name>; <name><surname>Fetterman</surname><given-names>K. A.</given-names></name>; <name><surname>Millett</surname><given-names>W. P.</given-names></name>; <name><surname>Nitti</surname><given-names>A. G.</given-names></name>; <name><surname>Zullo</surname><given-names>A. M.</given-names></name>; <name><surname>Chen</surname><given-names>C.</given-names></name>; <name><surname>Lewis</surname><given-names>K.</given-names></name>
+<article-title>A new antibiotic kills
+pathogens without detectable resistance</article-title>. <source>Nature</source>
+<year>2015</year>, <volume>517</volume>, <fpage>455</fpage>&#x02013;<lpage>459</lpage>. <pub-id pub-id-type="doi">10.1038/nature14098</pub-id>.<pub-id pub-id-type="pmid">25561178</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Hover</surname><given-names>B. M.</given-names></name>; <name><surname>Kim</surname><given-names>S.</given-names></name>; <name><surname>Katz</surname><given-names>M.</given-names></name>; <name><surname>Charlop-Powers</surname><given-names>Z.</given-names></name>; <name><surname>Owen</surname><given-names>J. G.</given-names></name>; <name><surname>Ternei</surname><given-names>M. A.</given-names></name>; <name><surname>Maniko</surname><given-names>J.</given-names></name>; <name><surname>Estrela</surname><given-names>A. B.</given-names></name>; <name><surname>Molina</surname><given-names>H.</given-names></name>; <name><surname>Park</surname><given-names>S.</given-names></name>; <name><surname>Perlin</surname><given-names>D. S.</given-names></name>; <name><surname>Brady</surname><given-names>S. F.</given-names></name>
+<article-title>Culture-independent
+discovery of the malacidins as calcium-dependent antibiotics with
+activity against multidrug-resistant Gram-positive pathogens</article-title>. <source>Nat. Microbiol.</source>
+<year>2018</year>, <volume>3</volume>, <fpage>415</fpage>&#x02013;<lpage>422</lpage>. <pub-id pub-id-type="doi">10.1038/s41564-018-0110-1</pub-id>.<pub-id pub-id-type="pmid">29434326</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Angell</surname><given-names>S.</given-names></name>; <name><surname>Bench</surname><given-names>B. J.</given-names></name>; <name><surname>Williams</surname><given-names>H.</given-names></name>; <name><surname>Watanabe</surname><given-names>C. M.</given-names></name>
+<article-title>Pyocyanin isolated from a marine microbial population;
+synergistic production between two distinct bacterial species and
+mode of action</article-title>. <source>Chem. Biol.</source>
+<year>2006</year>, <volume>13</volume>, <fpage>1349</fpage>&#x02013;<lpage>1359</lpage>. <pub-id pub-id-type="doi">10.1016/j.chembiol.2006.10.012</pub-id>.<pub-id pub-id-type="pmid">17185230</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Smanski</surname><given-names>M. J.</given-names></name>; <name><surname>Schlatter</surname><given-names>D. C.</given-names></name>; <name><surname>Kinkle</surname><given-names>L. L.</given-names></name>
+<article-title>Leveraging ecological theory to guide natural product
+discovery</article-title>. <source>J. Ind. Microbiol. Biotechnol.</source>
+<year>2016</year>, <volume>43</volume>, <fpage>115</fpage>&#x02013;<lpage>128</lpage>. <pub-id pub-id-type="doi">10.1007/s10295-015-1683-9</pub-id>.<pub-id pub-id-type="pmid">26434742</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Tyc</surname><given-names>O.</given-names></name>; <name><surname>van den Berg</surname><given-names>M.</given-names></name>; <name><surname>Gerards</surname><given-names>S.</given-names></name>; <name><surname>van Veen</surname><given-names>J. A.</given-names></name>; <name><surname>Raaijmakers</surname><given-names>J. M.</given-names></name>; <name><surname>de Boer</surname><given-names>W.</given-names></name>; <name><surname>Garbeva</surname><given-names>P.</given-names></name>
+<article-title>Impact of interspecific interactions
+on antimicrobial activity among soil bacteria</article-title>. <source>Front. Microbiol.</source>
+<year>2014</year>, <volume>5</volume>, <fpage>1</fpage>&#x02013;<lpage>10</lpage>. <pub-id pub-id-type="doi">10.3389/fmicb.2014.00567</pub-id>.<pub-id pub-id-type="pmid">24478763</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Mahler</surname><given-names>L.</given-names></name>; <name><surname>Wink</surname><given-names>K.</given-names></name>; <name><surname>Beulig</surname><given-names>R. J.</given-names></name>; <name><surname>Scherlach</surname><given-names>K.</given-names></name>; <name><surname>Tovar</surname><given-names>M.</given-names></name>; <name><surname>Zang</surname><given-names>E.</given-names></name>; <name><surname>Martin</surname><given-names>K.</given-names></name>; <name><surname>Hertweck</surname><given-names>C.</given-names></name>; <name><surname>Belder</surname><given-names>D.</given-names></name>; <name><surname>Roth</surname><given-names>M.</given-names></name>
+<article-title>Detection of antibiotics
+synthetized in microfluidic picolitre-droplets by various actinobacteria</article-title>. <source>Sci. Rep.</source>
+<year>2018</year>, <volume>8</volume>, <elocation-id>1307</elocation-id><pub-id pub-id-type="doi">10.1038/s41598-018-31263-2</pub-id>.<pub-id pub-id-type="pmid">29358621</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Kaminski</surname><given-names>T. S.</given-names></name>; <name><surname>Scheler</surname><given-names>O.</given-names></name>; <name><surname>Garstecki</surname><given-names>P.</given-names></name>
+<article-title>Droplet microfluidics
+for microbiology: techniques, applications and challenges</article-title>. <source>Lab Chip</source>
+<year>2016</year>, <volume>16</volume>, <fpage>2168</fpage>&#x02013;<lpage>2187</lpage>. <pub-id pub-id-type="doi">10.1039/C6LC00367B</pub-id>.<pub-id pub-id-type="pmid">27212581</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Schug</surname><given-names>K. A.</given-names></name>; <name><surname>Wang</surname><given-names>E.</given-names></name>; <name><surname>Shen</surname><given-names>S.</given-names></name>; <name><surname>Rao</surname><given-names>S.</given-names></name>; <name><surname>Smith</surname><given-names>S. M.</given-names></name>; <name><surname>Hunt</surname><given-names>L.</given-names></name>; <name><surname>Mydlarz</surname><given-names>L. D.</given-names></name>
+<article-title>Direct affinity
+screening chromatography&#x02013;mass spectrometry assay for identification
+of antibacterial agents from natural product sources</article-title>. <source>Anal. Chim. Acta</source>
+<year>2012</year>, <volume>713</volume>, <fpage>103</fpage>&#x02013;<lpage>110</lpage>. <pub-id pub-id-type="doi">10.1016/j.aca.2011.11.038</pub-id>.<pub-id pub-id-type="pmid">22200315</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Kim</surname><given-names>T. K.</given-names></name>; <name><surname>Hewavitharana</surname><given-names>A. K.</given-names></name>; <name><surname>Shaw</surname><given-names>P. N.</given-names></name>; <name><surname>Fuerst</surname><given-names>J. A.</given-names></name>
+<article-title>Discovery of a new source of rifamycin
+antibiotics in marine sponge actinobacteria by phylogenetic prediction</article-title>. <source>Appl. Environ. Mircobiol.</source>
+<year>2006</year>, <volume>72</volume>, <fpage>2118</fpage>&#x02013;<lpage>2125</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.72.3.2118-2125.2006</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Balouiri</surname><given-names>M.</given-names></name>; <name><surname>Sadiki</surname><given-names>M.</given-names></name>; <name><surname>Ibnsouda</surname><given-names>S. K.</given-names></name>
+<article-title>Methods
+for in vitro evaluating antimicrobial activity: A review</article-title>. <source>J. Pharm. Anal.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>71</fpage>&#x02013;<lpage>79</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpha.2015.11.005</pub-id>.<pub-id pub-id-type="pmid">29403965</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Seyedsayamdost</surname><given-names>M. R.</given-names></name>; <name><surname>Traxler</surname><given-names>M. F.</given-names></name>; <name><surname>Clardy</surname><given-names>J.</given-names></name>; <name><surname>Kolter</surname><given-names>R.</given-names></name>
+<article-title>Old meets new: Using interspecies interactions to detect
+secondary metabolite production in actinomycetes</article-title>. <source>Methods Enzymol.</source>
+<year>2012</year>, <volume>517</volume>, <fpage>89</fpage>&#x02013;<lpage>109</lpage>. <pub-id pub-id-type="doi">10.1016/B978-0-12-404634-4.00005-X</pub-id>.<pub-id pub-id-type="pmid">23084935</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Moran</surname><given-names>J. C.</given-names></name>; <name><surname>Crank</surname><given-names>E. L.</given-names></name>; <name><surname>Ghabban</surname><given-names>H. A.</given-names></name>; <name><surname>Horsburgh</surname><given-names>M. J.</given-names></name>
+<article-title>Deferred growth inhibition assay to quantify the effect
+of bacteria-derived antimicrobials on competition</article-title>. <source>J. Visualized
+Exp.</source>
+<year>2016</year>, <volume>115</volume>, <fpage>e54437/1</fpage>&#x02013;<lpage>e54437/5</lpage>. <pub-id pub-id-type="doi">10.3791/54437</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Bouthillette</surname><given-names>L. M.</given-names></name>; <name><surname>Darcey</surname><given-names>C. A.</given-names></name>; <name><surname>Handy</surname><given-names>T. E.</given-names></name>; <name><surname>Seaton</surname><given-names>S. C.</given-names></name>; <name><surname>Wolfe</surname><given-names>A. L.</given-names></name>
+<article-title>Isolation of the antibiotic pseudopyronine
+B and SAR evaluation of C3/C6 alkyl analogs</article-title>. <source>Bioorg. Med. Chem. Lett.</source>
+<year>2017</year>, <volume>27</volume>, <fpage>2762</fpage>&#x02013;<lpage>2765</lpage>. <pub-id pub-id-type="doi">10.1016/j.bmcl.2017.04.067</pub-id>.<pub-id pub-id-type="pmid">28478925</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Haas</surname><given-names>D.</given-names></name>; <name><surname>D&#x000e9;fago</surname><given-names>G.</given-names></name>
+<article-title>Biological control of soil-borne pathogens by fluorescent
+pseudomonads</article-title>. <source>Nat. Rev. Microbiol.</source>
+<year>2005</year>, <volume>3</volume>, <fpage>307</fpage>&#x02013;<lpage>319</lpage>. <pub-id pub-id-type="doi">10.1038/nrmicro1129</pub-id>.<pub-id pub-id-type="pmid">15759041</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Raaijmakers</surname><given-names>J. M.</given-names></name>; <name><surname>Weller</surname><given-names>D. M.</given-names></name>; <name><surname>Thomashow</surname><given-names>L. S.</given-names></name>
+<article-title>Frequency of antibiotic-producing <italic>Pseudomonas</italic> spp. In natural environments</article-title>. <source>Appl. Environ.
+Microbiol.</source>
+<year>1997</year>, <volume>63</volume>, <fpage>881</fpage>&#x02013;<lpage>887</lpage>.<pub-id pub-id-type="pmid">16535555</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Casullo de Ara&#x000fa;jo</surname><given-names>H. W.</given-names></name>; <name><surname>Fukushima</surname><given-names>K.</given-names></name>; <name><surname>Takaki</surname><given-names>G. M. C.</given-names></name>
+<article-title>Prodigiosin production by <italic>Serratia marcescens</italic> UCP 1549 using renewable-resources
+as a low-cost substrate</article-title>. <source>Molecules</source>
+<year>2010</year>, <volume>15</volume>, <fpage>6931</fpage>&#x02013;<lpage>6940</lpage>. <pub-id pub-id-type="doi">10.3390/molecules15106931</pub-id>.<pub-id pub-id-type="pmid">20938403</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Lakowitz</surname><given-names>A.</given-names></name>; <name><surname>Godard</surname><given-names>T.</given-names></name>; <name><surname>Biedendieck</surname><given-names>R.</given-names></name>; <name><surname>Krull</surname><given-names>R.</given-names></name>
+<article-title>Mini review: Recombinant production of tailored bio-pharmaceuticals
+in different <italic>Bacillus</italic> strains and future perspectives</article-title>. <source>Eur. J. Pharm. Biopharm.</source>
+<year>2018</year>, <volume>126</volume>, <fpage>27</fpage>&#x02013;<lpage>39</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejpb.2017.06.008</pub-id>.<pub-id pub-id-type="pmid">28606596</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Al-Admawy</surname><given-names>A. M.</given-names></name>; <name><surname>Noble</surname><given-names>W. C.</given-names></name>
+<article-title>Antibiotic production by cutaneous <italic>Brevibacterium</italic> sp</article-title>. <source>J. Appl. Bacteriol.</source>
+<year>1981</year>, <volume>51</volume>, <fpage>535</fpage>&#x02013;<lpage>540</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2672.1981.tb01272.x</pub-id>.<pub-id pub-id-type="pmid">7333986</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Westman</surname><given-names>E. L.</given-names></name>; <name><surname>Yan</surname><given-names>M.</given-names></name>; <name><surname>Waglechner</surname><given-names>N.</given-names></name>; <name><surname>Koteva</surname><given-names>K.</given-names></name>; <name><surname>Wright</surname><given-names>G. D.</given-names></name>
+<article-title>Self-resistance to the atypical cationic
+antimicrobial peptide edeine of <italic>Brevibacillus brevis</italic> Vm4 by the <italic>N</italic>-Acetyltransferase EdeQ</article-title>. <source>Chem. Biol.</source>
+<year>2013</year>, <volume>20</volume>, <fpage>983</fpage>&#x02013;<lpage>990</lpage>. <pub-id pub-id-type="doi">10.1016/j.chembiol.2013.06.010</pub-id>.<pub-id pub-id-type="pmid">23891151</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Lichstein</surname><given-names>H. C.</given-names></name>; <name><surname>Van De Sand</surname><given-names>F. V.</given-names></name>
+<article-title>Violacein,
+an antibiotic pigment produced by <italic>Chromobacterium violaceum</italic></article-title>. <source>J. Infect. Dis.</source>
+<year>1945</year>, <volume>76</volume>, <fpage>47</fpage>&#x02013;<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1093/infdis/76.1.47</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Garbeva</surname><given-names>P.</given-names></name>; <name><surname>Hordijk</surname><given-names>C.</given-names></name>; <name><surname>Gerards</surname><given-names>S.</given-names></name>; <name><surname>De Boer</surname><given-names>W.</given-names></name>
+<article-title>Volatiles produced
+by the mycophagous soil bacterium <italic>Collimonas</italic></article-title>. <source>FEMS Microbiol. Ecol.</source>
+<year>2014</year>, <volume>87</volume>, <fpage>639</fpage>&#x02013;<lpage>649</lpage>. <pub-id pub-id-type="doi">10.1111/1574-6941.12252</pub-id>.<pub-id pub-id-type="pmid">24329759</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Rossi</surname><given-names>C. C.</given-names></name>; <name><surname>Santos-Gandelman</surname><given-names>J. F.</given-names></name>; <name><surname>Barros</surname><given-names>E. M.</given-names></name>; <name><surname>Alvarez</surname><given-names>V. M.</given-names></name>; <name><surname>Laport</surname><given-names>M. S.</given-names></name>; <name><surname>Giambiagi-deMarval</surname><given-names>M.</given-names></name>
+<article-title><italic>Staphylococcus haemolyticus</italic> as a potential producer
+of biosurfactants with antimicrobial, anti-adhesive and synergistic
+properties</article-title>. <source>Lett. Appl. Microbiol.</source>
+<year>2016</year>, <volume>63</volume>, <fpage>215</fpage>&#x02013;<lpage>221</lpage>. <pub-id pub-id-type="doi">10.1111/lam.12611</pub-id>.<pub-id pub-id-type="pmid">27377762</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>de Lima
+Proc&#x000f3;pio</surname><given-names>R. E.</given-names></name>; <name><surname>Silva</surname><given-names>I. R.</given-names></name>; <name><surname>Martins</surname><given-names>M. K.</given-names></name>; <name><surname>Azevedo</surname><given-names>J. L.</given-names></name>; <name><surname>Ara&#x000fa;jo</surname><given-names>J. M.</given-names></name>
+<article-title>Antibiotics produced by <italic>Streptomyces</italic></article-title>. <source>Braz. J. Infect. Dis.</source>
+<year>2012</year>, <volume>16</volume>, <fpage>466</fpage>&#x02013;<lpage>471</lpage>. <pub-id pub-id-type="doi">10.1016/j.bjid.2012.08.014</pub-id>.<pub-id pub-id-type="pmid">22975171</pub-id></mixed-citation></ref></ref-list></back></article>

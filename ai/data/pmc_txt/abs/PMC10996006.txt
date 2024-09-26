@@ -1,0 +1,19 @@
+ The rapid development
+of antibiotic resistance, especially among
+difficult-to-treat Gram-negative bacteria, is recognized as a serious
+and urgent threat to public health. The detection and characterization
+of novel resistance mechanisms are essential to better predict the
+spread and evolution of antibiotic resistance. Corramycin is a novel
+and modified peptidic antibiotic with activity against several Gram-negative
+pathogens. We demonstrate that the kinase ComG, part of the corramycin
+biosynthetic gene cluster, phosphorylates and thereby inactivates
+corramycin, leading to the resistance of the host. Remarkably, we
+found that the closest structural homologues of ComG are aminoglycoside
+phosphotransferases; however, ComG shows no activity toward this class
+of antibiotics. The crystal structure of ComG in complex with corramycin
+reveals that corramycin adopts a β-hairpin-like structure and
+allowed us to define the changes leading to a switch in substrate
+from sugar to peptide. Bioinformatic analyses suggest a limited occurrence
+of ComG-like proteins, which along with the absence of cross-resistance
+to clinically used drugs positions corramycin as an attractive antibiotic
+for further development.

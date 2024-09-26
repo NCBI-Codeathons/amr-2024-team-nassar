@@ -1,0 +1,7 @@
+Summary Microbisporicin is a potent type I lantibiotic produced by the rare actinomycete M
+icrobispora corallina that is in preclinical trials for the treatment of infections caused by methicillin‐resistant isolates of S
+taphylococcus aureus (MRSA). Analysis of the gene cluster for the biosynthesis of microbisporicin, which contains two unique post‐translationally modified residues (5‐chlorotryptophan and 3, 4‐dihydroxyproline), has revealed an unusual regulatory mechanism that involves a pathway‐specific extracytoplasmic function sigma factor (MibX)/anti‐sigma factor (MibW) complex and an additional transcriptional regulator MibR. A model for the regulation of microbisporicin biosynthesis derived from transcriptional, mutational and quantitative reverse transcription polymerase chain reaction analyses suggests that MibR, which contains a C‐terminal DNA‐binding domain found in the LuxR family of transcriptional activators, functions as an essential master regulator to trigger microbisporicin production while MibX and MibW induce feed‐forward biosynthesis and producer immunity. Moreover, we demonstrate that initial expression of mib
+R, and thus microbisporicin production, is dependent on the ppGpp synthetase gene (relA) of M
+. corallina. In addition, we show that constitutive expression of either of the two positively acting regulatory genes, mib
+R or mib
+X, leads to precocious and enhanced microbisporicin production.

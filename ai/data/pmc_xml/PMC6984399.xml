@@ -1,0 +1,694 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Microb Biotechnol</journal-id><journal-id journal-id-type="iso-abbrev">Microb Biotechnol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1751-7915</journal-id><journal-id journal-id-type="publisher-id">MBT2</journal-id><journal-title-group><journal-title>Microbial Biotechnology</journal-title></journal-title-group><issn pub-type="epub">1751-7915</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6984399</article-id><article-id pub-id-type="pmid">30461205</article-id><article-id pub-id-type="doi">10.1111/1751-7915.13335</article-id><article-id pub-id-type="publisher-id">MBT213335</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Engineering <italic>Pseudomonas protegens</italic> Pf&#x02010;5 to improve its antifungal activity and nitrogen fixation</article-title><alt-title alt-title-type="left-running-head">X. Jing <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="mbt213335-cr-0001" contrib-type="author"><name><surname>Jing</surname><given-names>Xiaoshu</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-0284-455X</contrib-id><xref ref-type="aff" rid="mbt213335-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="mbt213335-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="mbt213335-cr-0002" contrib-type="author"><name><surname>Cui</surname><given-names>Qingwen</given-names></name><xref ref-type="aff" rid="mbt213335-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="mbt213335-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="mbt213335-cr-0003" contrib-type="author"><name><surname>Li</surname><given-names>Xiaochen</given-names></name><xref ref-type="aff" rid="mbt213335-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mbt213335-cr-0004" contrib-type="author"><name><surname>Yin</surname><given-names>Jia</given-names></name><xref ref-type="aff" rid="mbt213335-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mbt213335-cr-0005" contrib-type="author"><name><surname>Ravichandran</surname><given-names>Vinothkannan</given-names></name><xref ref-type="aff" rid="mbt213335-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mbt213335-cr-0006" contrib-type="author"><name><surname>Pan</surname><given-names>Deng</given-names></name><xref ref-type="aff" rid="mbt213335-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mbt213335-cr-0007" contrib-type="author"><name><surname>Fu</surname><given-names>Jun</given-names></name><xref ref-type="aff" rid="mbt213335-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mbt213335-cr-0008" contrib-type="author"><name><surname>Tu</surname><given-names>Qiang</given-names></name><xref ref-type="aff" rid="mbt213335-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mbt213335-cr-0009" contrib-type="author" corresp="yes"><name><surname>Wang</surname><given-names>Hailong</given-names></name><xref ref-type="aff" rid="mbt213335-aff-0001">
+<sup>1</sup>
+</xref><address><email>wanghailong@sdu.edu.cn</email></address></contrib><contrib id="mbt213335-cr-0010" contrib-type="author" corresp="yes"><name><surname>Bian</surname><given-names>Xiaoying</given-names></name><xref ref-type="aff" rid="mbt213335-aff-0001">
+<sup>1</sup>
+</xref><address><email>bianxiaoying@sdu.edu.cn</email></address></contrib><contrib id="mbt213335-cr-0011" contrib-type="author" corresp="yes"><name><surname>Zhang</surname><given-names>Youming</given-names></name><xref ref-type="aff" rid="mbt213335-aff-0001">
+<sup>1</sup>
+</xref><address><email>zhangyouming@sdu.edu.cn</email></address></contrib></contrib-group><aff id="mbt213335-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">State Key Laboratory of Microbial Technology</named-content>
+<named-content content-type="organisation-division">School of Life Science</named-content>
+<named-content content-type="organisation-division">Shandong University&#x02010;Helmholtz Institute of Biotechnology</named-content>
+<institution>Shandong University</institution>
+<postal-code>266237</postal-code>
+<city>Qingdao</city>
+<country country="CN">China</country>
+</aff><aff id="mbt213335-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Jinan Yian Biology Institute</named-content>
+<institution>Shandong Yian Biological Engineering Co. Ltd.</institution>
+<city>Jinan</city>
+<postal-code>250100</postal-code>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>For correspondence. *E&#x02010;mail: <email>wanghailong@sdu.edu.cn</email>; Tel. +86&#x02010;532&#x02010;67220908. **E&#x02010;mail <email>bianxiaoying@sdu.edu.cn</email>; Tel. +86&#x02010;532&#x02010;67720928. ***E&#x02010;mail <email>zhangyouming@sdu.edu.cn</email>; Tel. +86&#x02010;532&#x02010;67721918.</corresp><fn fn-type="equal" id="mbt213335-note-1001"><label>&#x02020;</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>20</day><month>11</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2020</year></pub-date><volume>13</volume><issue>1</issue><issue-id pub-id-type="doi">10.1111/mbt2.v13.1</issue-id><issue-title>Special Issue on Pseudomonas Applications</issue-title><fpage>118</fpage><lpage>133</lpage><history><date date-type="received"><day>29</day><month>7</month><year>2018</year></date><date date-type="rev-recd"><day>21</day><month>10</month><year>2018</year></date><date date-type="accepted"><day>21</day><month>10</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 John Wiley & Sons Ltd and Society for Applied Microbiology <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Microbial Biotechnology</italic> published by John Wiley &#x00026; Sons Ltd and Society for Applied Microbiology.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:MBT2-13-118.pdf"/><abstract id="mbt213335-abs-0001"><title>Summary</title><p>In agricultural production, sustainability is currently one of the most significant concerns. The genetic modification of plant growth&#x02010;promoting rhizobacteria may provide a novel way to use natural bacteria as microbial inoculants. In this study, the root&#x02010;colonizing strain <italic>Pseudomonas protegens</italic> Pf&#x02010;5 was genetically modified to act as a biocontrol agent and biofertilizer with biological nitrogen fixation activity. Genetic inactivation of <italic>retS</italic> enhanced the production of 2,4&#x02010;diacetylphloroglucinol, which contributed for the enhanced antifungal activity. Then, the entire nitrogenase island with native promoter from <italic>Pseudomonas stutzeri </italic>
+<styled-content style="fixed-case" toggle="no">DSM</styled-content>4166 was introduced into a <italic>retS</italic> mutant strain for expression. Root colonization patterns assessed via confocal laser scanning microscopy confirmed that <styled-content style="fixed-case" toggle="no">GFP</styled-content>&#x02010;tagged bacterial were mainly located on root surfaces and at the junctions between epidermal root cells. Moreover, under pathogen and N&#x02010;limited double treatment conditions, the fresh weights of seedlings inoculated with the recombinant <italic>retS</italic> mutant&#x02010;<italic>nif</italic> strain were increased compared with those of the control. In conclusion, this study has innovatively developed an eco&#x02010;friendly alternative to the agrochemicals that will benefit global plant production significantly.</p></abstract><abstract abstract-type="graphical" id="mbt213335-abs-0002"><p>In this study, the root&#x02010;colonizing strain <italic>Pseudomonas protegens</italic> Pf&#x02010;5 was genetically modified to act as a biocontrol agent and biofertilizer with biological nitrogen fixation activity. Under pathogen and N limited double treatment conditions, the fresh weights of seedlings inoculated with the recombinant were increased compared to those of the control. This study has innovatively developed an eco&#x02010;friendly alternative to the agrochemicals that will benefit global plant production significantly.
+<boxed-text position="anchor" content-type="graphic" id="mbt213335-blkfxd-0001" orientation="portrait"><graphic xlink:href="MBT2-13-118-g009.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><funding-group><award-group id="funding-0001"><funding-source>Project of Taishan industry leading talent in Shandong province</funding-source><award-id>LJNY201603</award-id></award-group><award-group id="funding-0002"><funding-source>Program of Introducing Talents of Discipline to Universities</funding-source><award-id>B16030</award-id></award-group><award-group id="funding-0003"><funding-source>Major Basic Program of Natural Science Foundation of Shandong Province</funding-source><award-id>ZR2017ZB0212</award-id></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>China Postdoctoral Science Foundation </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100002858</institution-id></institution-wrap></funding-source><award-id>2018M632669</award-id></award-group><award-group id="funding-0005"><funding-source><institution-wrap><institution>Natural Science Foundation of Shandong Province </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100007129</institution-id></institution-wrap></funding-source><award-id>ZR201709210045</award-id></award-group><award-group id="funding-0006"><funding-source><institution-wrap><institution>National Natural Science Foundation of China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>31700004</award-id><award-id>31670098</award-id></award-group><award-group id="funding-0007"><funding-source><institution-wrap><institution>Natural Science Foundation of Jiangsu Province </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100004608</institution-id></institution-wrap></funding-source><award-id>BK20160368</award-id></award-group><award-group id="funding-0008"><funding-source><institution-wrap><institution>Recruitment Program of Global Experts </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100010871</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="16"/><word-count count="8523"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.5 mode:remove_FC converted:27.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="mbt213335-cit-1001">
+<source xml:lang="en">Microbial Biotechnology</source> (<year>2020</year>) <volume>13</volume>(<issue>1</issue>), <fpage>118</fpage>&#x02013;<lpage>133</lpage>
+<pub-id pub-id-type="pmid">30461205</pub-id></mixed-citation>
+</p><fn-group id="mbt213335-ntgp-0001"><fn fn-type="funding" id="mbt213335-note-1002"><p>
+<bold>Funding Information</bold>
+</p><p>This work was supported by funding to Y.Z. from the Recruitment Program of Global Experts (1000 plan), the Project of Taishan industry leading talent in Shandong province (LJNY201603), the Program of Introducing Talents of Discipline to Universities (B16030), the Major Basic Program of Natural Science Foundation of Shandong Province (ZR2017ZB0212), China Postdoctoral Science Foundation Grant (No. 2018M632669), Natural Science Foundation of Shandong Province (ZR201709210045), National Natural Science Foundation of China (31700004, 31670098) and Natural Science Foundation of Jiangsu Province (BK20160368).</p></fn></fn-group></notes></front><body id="mbt213335-body-0001"><sec id="mbt213335-sec-0001"><title>Introduction</title><p>The extensive use of agrochemicals has led to harmful consequences for the environment and human health.&#x000a0;Development of eco&#x02010;friendly sustainable biological agents is needed urgently to improve agricultural production globally. Plant growth&#x02010;promoting rhizobacteria (PGPRs) are a better alternative than agrochemicals for the promotion for plant growth and suppression of phytopathogens through both direct and indirect mechanisms (Khalid <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0021" ref-type="ref">2013</xref>; Antweiler <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0002" ref-type="ref">2017</xref>; Pandin <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0031" ref-type="ref">2017</xref>). The direct mechanisms involve biological nitrogen fixation, phytohormone production, phosphate solubilization and iron chelating siderophore production (Vessey, <xref rid="mbt213335-bib-0045" ref-type="ref">2003</xref>; Ryu <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0038" ref-type="ref">2004</xref>; Ahemad, <xref rid="mbt213335-bib-0001" ref-type="ref">2014</xref>), while the major indirect mechanisms include biocontrol activity through the secretion of antifungal metabolites (Kim <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0022" ref-type="ref">2011</xref>; Bhattacharyya and Jha, <xref rid="mbt213335-bib-0003" ref-type="ref">2012</xref>), and the induction of plant defence systems such as systemic acquired resistance (SAR) and induced systemic resistance (ISR; Lugtenberg and Kamilova, <xref rid="mbt213335-bib-0029" ref-type="ref">2009</xref>). Some PGPR have biocontrol properties, while other strains effectively uptake nutrients to positively regulate plant growth and development. Finding strains that effectively fulfil both roles is uncommon. Thus, combining biocontrol properties and nutrient production activity into one PGPR via genetic manipulation may be an innovative approach comparable to the use of natural bacteria as inoculants.</p><p>
+<italic>Pseudomonas fluorescens</italic> is well&#x02010;characterized PGPR known for its production of a broad spectrum of secondary metabolites and root colonization of wide range of hosts (Table&#x000a0;S1; Budzikiewicz, <xref rid="mbt213335-bib-0007" ref-type="ref">1993</xref>; Lopes <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0027" ref-type="ref">2017</xref>, <xref rid="mbt213335-bib-0028" ref-type="ref">2018</xref>; Khalid <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0020" ref-type="ref">2004</xref>, <xref rid="mbt213335-bib-0021" ref-type="ref">2013</xref>; Weber <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0048" ref-type="ref">2015</xref>). <italic>Pseudomonas protegens</italic> Pf&#x02010;5 (formerly <italic>Pseudomonas fluorescens</italic> Pf&#x02010;5) was isolated from the cotton rhizosphere, which typically protects plants from diseases caused by plant pathogens (Howell and Stipanovic, <xref rid="mbt213335-bib-0016" ref-type="ref">1979</xref>, <xref rid="mbt213335-bib-0017" ref-type="ref">1980</xref>; Xu and Gross, <xref rid="mbt213335-bib-0051" ref-type="ref">1986</xref>; Rodriguez and Pfender, <xref rid="mbt213335-bib-0037" ref-type="ref">1997</xref>; Sexton <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0041" ref-type="ref">2017</xref>). At least 6% of the genome of <italic>P.&#x000a0;protegens</italic> Pf&#x02010;5 is involved in secondary metabolite production (Paulsen <italic>et al</italic>., 2005), including that of pyrrolnitrin (Howell and Stipanovic, <xref rid="mbt213335-bib-0016" ref-type="ref">1979</xref>, <xref rid="mbt213335-bib-0017" ref-type="ref">1980</xref>), 2,4&#x02010;diacetylphloroglucinol (Nowak&#x02010;Thompson <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0030" ref-type="ref">1994</xref>), pyoluteorin (Howell and Stipanovic, <xref rid="mbt213335-bib-0017" ref-type="ref">1980</xref>), hydrogen cyanide (Kraus and Loper, <xref rid="mbt213335-bib-0023" ref-type="ref">1992</xref>), rhizoxin analogues (Loper <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0026" ref-type="ref">2008</xref>) and toxoflavin (Philmus <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0034" ref-type="ref">2015</xref>). The production of these antibiotics requires the Gac/Rsm signal transduction pathway (Haas and D&#x000e9;fago, <xref rid="mbt213335-bib-0015" ref-type="ref">2005</xref>; Lapouge <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0024" ref-type="ref">2008</xref>). The GacS/A system, a two&#x02010;component regulatory system, comprises a sensor kinase GacS, a transcriptional regulator GacA and small regulatory RNA (Brencic <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0006" ref-type="ref">2009</xref>). Upon autophosphorylation, GacS senses a signal and transfers its phosphate to GacA (Brencic <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0006" ref-type="ref">2009</xref>). Phosphorylated GacA then positively regulates the expression of small regulatory RNAs that bind to the repressor proteins RsmA/E, thereby relieving translational repression on target genes encoding biocontrol factors (Valverde <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0042" ref-type="ref">2003</xref>; Kay <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0019" ref-type="ref">2005</xref>; Reimmann <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0036" ref-type="ref">2005</xref>; Lapouge <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0024" ref-type="ref">2008</xref>). RetS, a sensor kinase, has been reported to negatively regulate the production of antifungal secondary metabolites via the Gac/Rsm pathway in <italic>P.&#x000a0;aeruginosa</italic>,<italic> P.&#x000a0;protegens</italic> CHA0 and <italic>P.&#x000a0;fluorescens</italic> FD6 (Goodman <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0014" ref-type="ref">2004</xref>; Laskowski and Kazmierczak, <xref rid="mbt213335-bib-0025" ref-type="ref">2006</xref>; Humair <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0018" ref-type="ref">2009</xref>; Zhang <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0058" ref-type="ref">2015</xref>). RetS sensors have a negative effect on the expression of GacA&#x02010;controlled sRNA genes. The combination of RetS and GacS has been proven to prevent the phosphorylation of GacA, which subsequently leads to obstructions of the Gac/Rsm pathway (Goodman <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0014" ref-type="ref">2004</xref>; Gooderham and Hancock, <xref rid="mbt213335-bib-0013" ref-type="ref">2009</xref>; Workentine <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0049" ref-type="ref">2009</xref>; Quecine <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0035" ref-type="ref">2015</xref>). As a result, antibiotic biosynthetic genes such as 2,4&#x02010;DAPG are downregulated and the production of related antibiotics is reduced (Kay <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0019" ref-type="ref">2005</xref>; Reimmann <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0036" ref-type="ref">2005</xref>). Accordingly, a <italic>retS</italic> mutant was found to have strongly enhanced production of biocontrol factors.</p><p>Biological nitrogen fixation, the process in which N<sub>2</sub> is converted to NH<sub>3</sub> by bacteria, offers a natural way of providing nitrogen to plants. The inoculation of non&#x02010;legume crop plants with diazotrophic bacteria is an attractive option for reducing chemical nitrogen fertilizer requirements. Since the <italic>nif</italic> cluster was initially identified in <italic>Pseudomonas stutzeri</italic> A1501 was found to be essential for nitrogen fixation, several nitrogen&#x02010;fixing strains belonging to <italic>P.&#x000a0;stutzeri</italic> have recently been isolated and characterized (Desnoues <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0008" ref-type="ref">2003</xref>; Yan <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0052" ref-type="ref">2008</xref>; Venieraki <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0043" ref-type="ref">2011</xref>; Yu <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0054" ref-type="ref">2011</xref>; Pena <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0033" ref-type="ref">2013</xref>). Bioinformatics analysis has demonstrated that all putative <italic>nif genes</italic> in diazotrophic <italic>Pseudomonas</italic> species are anchored in an intergenic region with flanking regions designated by distinct repeats patterns (Venieraki <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0044" ref-type="ref">2014</xref>), indicating that the <italic>nif genes</italic> can be acquired by horizontal transfer among microorganisms. <italic>P.&#x000a0;stutzeri</italic> DSM 4166, which is highly similar overall to <italic>P.&#x000a0;stutzeri</italic> A1501 (Desnoues <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0008" ref-type="ref">2003</xref>; Yan <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0052" ref-type="ref">2008</xref>), was isolated from the rhizosphere of a <italic>Sorghum nutans</italic> cultivar in Germany (Yu <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0054" ref-type="ref">2011</xref>). This strain contains 58 genes clustered in a 49&#x02010;kb putative nitrogen fixation island and harbours all of the genes required for complete denitrification and nitrate assimilation (Yu <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0054" ref-type="ref">2011</xref>); however, it has limited production of secondary metabolites (Table&#x000a0;S1; Weber <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0048" ref-type="ref">2015</xref>).</p><p>
+<italic>P</italic>.&#x000a0;<italic>protegens</italic> Pf&#x02010;5 has only biocontrol properties, while <italic>P.&#x000a0;stutzeri</italic> DSM 4166 is an effective nitrogen fixer. The transfer of nitrogen fixation activity into root&#x02010;colonizing <italic>P</italic>.&#x000a0;<italic>protegens</italic> Pf&#x02010;5, with its biocontrol properties, would improve its agricultural performance. Horizontal transfer of the <italic>nif</italic> genes among microorganisms confers the ability to fix nitrogen in a non&#x02010;nitrogen&#x02010;fixing heterologous host (Dixon and Postgate, <xref rid="mbt213335-bib-0009" ref-type="ref">1971</xref>; Setten <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0040" ref-type="ref">2013</xref>; Fox <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0010" ref-type="ref">2016</xref>). Our group developed a Red/ET recombineering&#x02010;mediated direct cloning technology that has been successfully used to efficiently clone and heterologously express large biosynthetic gene clusters in multiple hosts (Fu <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0012" ref-type="ref">2012</xref>; Bian <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0004" ref-type="ref">2015</xref>; Wang <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0046" ref-type="ref">2016</xref>, <xref rid="mbt213335-bib-0047" ref-type="ref">2017</xref>). The entire nitrogenase island from the digested genomic DNA of <italic>P.&#x000a0;stutzeri</italic> DSM4166 was cloned into a Bacterial Artificial Chromosome (BAC) vector, followed by the addition of a cassette&#x02010;containing conjugation and MycoMar transposition elements (Yu <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0055" ref-type="ref">2018</xref>), which can facilitate the cloning and transfer of the <italic>nif</italic> island among <italic>Pseudomonas</italic> species (Fu <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0011" ref-type="ref">2008</xref>). Thus, the entire nitrogenase island from <italic>P.&#x000a0;stutzeri</italic> DSM4166 was transferred to <italic>P</italic>.&#x000a0;<italic>protegens</italic> Pf&#x02010;5 to construct a recombinant strain with nitrogen fixation and biocontrol properties.</p><p>In this study, we generated an engineered strain of <italic>P.&#x000a0;protegens</italic> Pf&#x02010;5 with nitrogen fixation and enhanced antifungal activities. We knocked out the <italic>retS</italic> gene and elucidated its role in the negative control of antibiotics biosynthesis in strain Pf&#x02010;5. Antibiotic production was improved in the <italic>retS</italic> mutant, as illustrated by a distinct zone of inhibition when grown with <italic>Rhizoctonia solani</italic>. A recombinant nitrogen&#x02010;fixing <italic>Pseudomonas</italic> strain was obtained by integrating of the <italic>nif</italic> genes from <italic>P.&#x000a0;stutzeri</italic> into the mutant genomes randomly. The recombinant showed high levels of nitrogenase activity. Further, the colonization patterns of the recombinant strains in roots were observed using confocal laser scanning microscope (CLSM). GFP&#x02010;labelled bacterial colonized root hairs and root surfaces as well as the junctions between epidermal root cells. Interestingly, the recombinant also increased seedlings fresh weights under pathogen and N&#x02010;limited double treatment conditions. This study provides a new approach for agricultural sustainability.</p></sec><sec id="mbt213335-sec-0002"><title>Results and discussion</title><sec id="mbt213335-sec-0003"><title>Indirect regulation of antibiotic biosynthesis and antifungal activity by the <italic>retS</italic> gene</title><p>In <italic>P.&#x000a0;protegens</italic>, RetS sensors act as an antagonist of the GacS/GacA system (Goodman <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0014" ref-type="ref">2004</xref>; Laskowski and Kazmierczak, <xref rid="mbt213335-bib-0025" ref-type="ref">2006</xref>; Humair <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0018" ref-type="ref">2009</xref>; Zhang <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0058" ref-type="ref">2015</xref>). To investigate the impact of <italic>retS</italic> on antibiotic production and antifungal activity in strain Pf&#x02010;5, a <italic>retS</italic> mutant was created via a recombineering method based on native phage protein pairs in <italic>Pseudomonas</italic> (unpublished data; Zhang <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0056" ref-type="ref">1998</xref>; Yin <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0053" ref-type="ref">2015</xref>). The production of antibiotics by <italic>P.&#x000a0;protegens</italic> Pf&#x02010;5 and <italic>retS</italic> mutants was evaluated by HPLC/MS (<xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S1</xref>). Compared with the wild&#x02010;type strain, two large peaks appeared at 12.2&#x000a0;min and 17.1&#x000a0;min in the <italic>retS</italic> mutant extracts (Fig.&#x000a0;<xref rid="mbt213335-fig-0001" ref-type="fig">1</xref>A and B; <xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S1</xref>). The compounds C1 and C2 were vastly increased by threefold~fourfold (C1), 20~30&#x02010;fold (C2) in the <italic>retS</italic> mutant compared with the wild&#x02010;type strain (Fig.&#x000a0;<xref rid="mbt213335-fig-0001" ref-type="fig">1</xref>C). The antifungal activity of the <italic>retS</italic> mutant was more significant, as revealed by the zone of inhibition of <italic>Rhizoctonia solani</italic> (Fig.&#x000a0;<xref rid="mbt213335-fig-0001" ref-type="fig">1</xref>C and D), compared with those of the wild&#x02010;type strain (Fig.&#x000a0;<xref rid="mbt213335-fig-0001" ref-type="fig">1</xref>D). Antifungal activity was also assessed with <italic>Botrytis cinereal</italic>; however, the activity against <italic>Botrytis cinereal</italic> was unaffected in the <italic>retS</italic> mutant (data not shown). To investigate the antifungal activity of the produced compounds against <italic>Rhizoctonia solani</italic>, compounds <bold>C1</bold> and <bold>C2</bold> were purified by preparative HPLC (<xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S2</xref>) and susceptibility testing was performed (Fig.&#x000a0;<xref rid="mbt213335-fig-0002" ref-type="fig">2</xref>). Compound <bold>C2</bold> showed excellent growth inhibition of <italic>Rhizoctonia solani</italic> (Fig.&#x000a0;<xref rid="mbt213335-fig-0002" ref-type="fig">2</xref>A), while compound <bold>C1</bold> did not have any significant antifungal activity against the tested fungi (date not shown). Compound <bold>C2</bold> had a large peak at 270&#x000a0;nm and a small peak at 330&#x000a0;nm, identical to those of 2,4&#x02010;DAPG (Fig.&#x000a0;<xref rid="mbt213335-fig-0002" ref-type="fig">2</xref>B); in addition, the <italic>m</italic>/<italic>z</italic> value and maximum absorption wavelength data for <bold>C2</bold> were also comparable to 2,4&#x02010;DAPG. Enhanced the production of 2,4&#x02010;DAPG and antifungal activity was further revealed by the inhibition of <italic>Rhizoctonia solani</italic> growth in 6&#x02010;well plates (Figs&#x000a0;<xref rid="mbt213335-fig-0001" ref-type="fig">1</xref> and <xref rid="mbt213335-fig-0002" ref-type="fig">2</xref>). The production of pyoluteorin (19.5&#x000a0;min; <xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S3</xref>), orfamide A (26.7&#x000a0;min; <xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S4</xref>), orfamide B (27.3&#x000a0;min; <xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S4</xref>) and orfamide C (26.1&#x000a0;min; <xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S4</xref>) were also identified by HPLC/MS. However, no significant differences in the production of these compounds were found in the <italic>retS</italic> mutant. These results suggest that <italic>retS</italic> could increase 2,4&#x02010;DAPG production in <italic>P.&#x000a0;protegens</italic> Pf&#x02010;5, similar to <italic>P.&#x000a0;protegens</italic> CHA0 and <italic>P.&#x000a0;fluorescens</italic> FD6 (Humair <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0018" ref-type="ref">2009</xref>; Zhang <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0058" ref-type="ref">2015</xref>). To obtain multifunctional <italic>P.&#x000a0;protegens</italic> capable of nitrogen fixation and enhanced antifungal production, the <italic>retS</italic> mutant Pf&#x02010;5 was used as the chassis for the introduction of <italic>nif</italic> genes.</p><fig fig-type="Figure" xml:lang="en" id="mbt213335-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Influence of the <italic>retS</italic> gene on the production of antibiotics in <italic>P.&#x000a0;protegens</italic> Pf&#x02010;5. <styled-content style="fixed-case" toggle="no">HPLC</styled-content> spectrum of compounds 1 (A) and 2 (B) from the Pf&#x02010;5, <italic>retS</italic> mutant, Pf&#x02010;5&#x02010;<italic>nif</italic> and <italic>retS</italic> mutant&#x02010;<italic>nif</italic> strains (C) Relative production of compounds 1 and 2. (D) Zones of inhibition (the arrowheads) on <italic>Rhizoctonia solani</italic>. Each column is the mean of three independent measurements at least. **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01 and ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001 according to ANOVA with Dunnett as post doc test.</p></caption><graphic id="nlm-graphic-3" xlink:href="MBT2-13-118-g001"/></fig><fig fig-type="Figure" xml:lang="en" id="mbt213335-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Inhibition of <italic>Rhizoctonia solani</italic> and <styled-content style="fixed-case" toggle="no">HPLC</styled-content> spectrum of compound 2.A. Susceptibility of <italic>Rhizoctonia solani</italic> to C2 in 6&#x02010;well plates. The number 1&#x02010;6 indicates the C2 concentrations of: 0, 5, 10, 15, 50 and 100&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup> respectively.B. <styled-content style="fixed-case" toggle="no">HPLC</styled-content> spectrum, <styled-content style="fixed-case" toggle="no">MS</styled-content> spectrum and <styled-content style="fixed-case" toggle="no">UV</styled-content> visible spectrum of compound 2.</p></caption><graphic id="nlm-graphic-5" xlink:href="MBT2-13-118-g002"/></fig></sec><sec id="mbt213335-sec-0004"><title>Genomic analysis of <italic>nif</italic> genes and nitrogenase activity in <italic>P.&#x000a0;protegens</italic> Pf&#x02010;5</title><p>Bioinformatics analysis demonstrated that the <italic>nif</italic> genes could be acquired by horizontal transfer among microorganisms (Venieraki <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0044" ref-type="ref">2014</xref>). Direct cloning via Red/ET recombineering is an updated method for horizontal gene transfer (Zhang <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0057" ref-type="ref">2000</xref>; Wang <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0046" ref-type="ref">2016</xref>, <xref rid="mbt213335-bib-0047" ref-type="ref">2017</xref>), in which non&#x02010;nitrogen&#x02010;fixing wild&#x02010;type <italic>P.&#x000a0;protegens</italic> could be converted to nitrogen fixers through plausible lateral gene transfer (Setten <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0040" ref-type="ref">2013</xref>; Fox <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0010" ref-type="ref">2016</xref>). The <italic>nif</italic> genes were introduced into the Pf&#x02010;5 and <italic>retS</italic> mutant strains via conjugation and MycoMar transposition (<xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S5</xref>). Recombinant containing <italic>nif</italic> genes was named Pf&#x02010;5&#x02010;<italic>nif</italic> or <italic>retS</italic> mutant&#x02010;<italic>nif</italic> respectively. Genomic PCR analysis confirmed the presence of the <italic>nif</italic> genes in these <italic>P.&#x000a0;protegens</italic> strains (Fig.&#x000a0;<xref rid="mbt213335-fig-0003" ref-type="fig">3</xref>A). In addition, the <italic>retS</italic> mutant, Pf&#x02010;5&#x02010;<italic>nif</italic> and <italic>retS</italic> mutant&#x02010;<italic>nif</italic> displayed similar growth characteristics as the wild&#x02010;type strain on LB medium (<xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S6</xref>), indicating that the growth rate was not affected by the <italic>retS</italic> or <italic>nif</italic> genes.</p><fig fig-type="Figure" xml:lang="en" id="mbt213335-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Genomic <styled-content style="fixed-case" toggle="no">PCR</styled-content> detection of the <italic>nif</italic> genes (A) and the relative nitrogenase activity (B) in <italic>P.&#x000a0;protegens</italic>.A. The physical region (arrowheads) and the <styled-content style="fixed-case" toggle="no">PCR</styled-content> products (bands 1&#x02013;4) of the four pairs check primers. The <italic>nif</italic> genes in the wild&#x02010;type <italic>P.&#x000a0;protegens</italic> (lane 1&#x02013;5) and retS mutant (lane 6&#x02013;10). Lane M: <styled-content style="fixed-case" toggle="no">DL</styled-content>5000 ladder. Lane P: <styled-content style="fixed-case" toggle="no">BAC</styled-content> containing the <italic>nif</italic> genes.B. Relative nitrogenase activity. <styled-content style="fixed-case" toggle="no">DSM</styled-content> 4166 was used as a positive control. Pf&#x02010;5 and the <italic>retS</italic> mutant were used as negative control. Each column is the mean of three independent measurements at least. Bars represent standard error of the mean. **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01 and ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001 according to ANOVA with Dunnett as post doc test.</p></caption><graphic id="nlm-graphic-7" xlink:href="MBT2-13-118-g003"/></fig><p>To understand whether the <italic>nif</italic> genes functioned properly in the heterologous host, we analysed the nitrogenase activity of the recombinants by measuring acetylene reduction in L&#x02010;medium (Setten <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0040" ref-type="ref">2013</xref>) without nitrogen under microaerobiosis. The engineered strains Pf&#x02010;5 <italic>nif</italic> or <italic>retS</italic> mutant&#x02010;<italic>nif</italic> showed significant nitrogenase activity (Fig.&#x000a0;<xref rid="mbt213335-fig-0003" ref-type="fig">3</xref>B), whereas no nitrogenase activity was observed in the wild&#x02010;type Pf&#x02010;5 or the <italic>retS</italic> mutant strains. In addition, high ammonium production in the L&#x02010;medium of the Pf&#x02010;5&#x02010;<italic>nif</italic> strain was associated with the activity (<xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S7</xref>). The recombinants displayed different levels of nitrogenase activity due to integration site for the <italic>nif</italic> genes. Compared with other recombinants, recombinant strains Pf&#x02010;5&#x02010;<italic>nif</italic>&#x02010;2 and <italic>retS</italic> mutant&#x02010; <italic>nif</italic>&#x02010;7 showed remarkable nitrogenase activity, indicating that the <italic>nif</italic> genes were more efficiently expressed in these strains. To assess the stability of the integrated <italic>nif</italic> genes, recombinant strains Pf&#x02010;5&#x02010;<italic>nif</italic>&#x02010;2 and <italic>retS</italic> mutant&#x02010; <italic>nif</italic>&#x02010;7 were sequentially subcultured in LB medium 30 times, the <italic>nif</italic> genes were stably present, as confirmed by genomic PCR analysis (during this process, the plasmid expressing the Red/ET recombineering system based on native phage protein pairs was removed, and its absence was verified by double streak). Next, the localization patterns and phenotypes of plants inoculated with the recombinant strains were examined.</p></sec><sec id="mbt213335-sec-0005"><title>Root localization patterns and phenotype analysis of the engineered <italic>P.&#x000a0;protegens</italic> Pf&#x02010;5 strains on <italic>Arabidopsis</italic> of seedlings</title><p>Efficient root colonization by plant rhizobacteria is essential for biocontrol activity. The effects of the <italic>retS</italic> and <italic>nif</italic> genes on roots colonization of the model plant &#x02013; <italic>Arabidopsis</italic> were assessed first. A vector with the green fluorescent protein gene (GFP) was constructed and introduced into the Pf&#x02010;5, <italic>retS</italic> mutant, Pf&#x02010;5&#x02010;<italic>nif</italic> and <italic>retS</italic> mutant&#x02010;<italic>nif</italic> strains (<xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S8</xref>). The root colonization patterns were then observed using CLSM after inoculating <italic>Arabidopsis</italic> seeds with the GFP&#x02010;tagged bacteria (Fig.&#x000a0;<xref rid="mbt213335-fig-0004" ref-type="fig">4</xref>). GFP was efficiently expressed in the <italic>Pseudomonas</italic> strains (<xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S8</xref>), and no fluorescence signal was detected in <italic>Arabidopsis</italic> roots controls inoculated with the unmodified strain (<xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S8</xref>). GFP&#x02010;tagged bacteria were visualized on <italic>Arabidopsis</italic> roots, indicating that the bacterial successfully survived and colonized the roots (Fig.&#x000a0;<xref rid="mbt213335-fig-0004" ref-type="fig">4</xref>A).</p><fig fig-type="Figure" xml:lang="en" id="mbt213335-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>The colonization of <styled-content style="fixed-case" toggle="no">GFP</styled-content>&#x02010;labelled <italic>P.&#x000a0;protegens</italic> on <italic>Arabidopsis</italic> roots (A) and Growth phenotype of <italic>Arabidopsis</italic> with or without nitrogen (B). Surface&#x02010;sterilized seeds of <italic>Arabidopsis</italic> were sown on 1/2 <styled-content style="fixed-case" toggle="no">MS</styled-content> semisolidified medium. The colonization patterns of elongation zone after 7&#x000a0;days of seeds inoculation. At 7&#x000a0;days post germination, the <italic>Arabidopsis</italic> was grown in cultures containing a mixture of peat and vermiculite (3:1 v/v) and were treated with <italic>P.&#x000a0;protegens</italic> with or without nitrogen source. Bars&#x000a0;=&#x000a0;50&#x000a0;&#x003bc;m.</p></caption><graphic id="nlm-graphic-9" xlink:href="MBT2-13-118-g004"/></fig><p>The colonization pattern of the recombinant was expected to be correlated with the productivity. Thus, the engineered <italic>retS</italic> mutant&#x02010;<italic>nif</italic> was used to analyse the impact of the <italic>nif</italic> genes on plant growth. <italic>Arabidopsis</italic> was grown in cultures treated with nitrogen (+N) or without nitrogen (&#x02212;N) and was inoculated with DSM 4166 (positive), the <italic>retS</italic> mutant (negative) or the <italic>retS</italic> mutant&#x02010;<italic>nif</italic> (engineered bacteria), individually. In the absence of nitrogen source, the rosette diameter of plants inoculated with the recombinant strain increased more than that of plants inoculated with the <italic>retS</italic> mutant strain for both the mixture cultures of peat and vermiculite (3:1 v/v; Fig.&#x000a0;<xref rid="mbt213335-fig-0004" ref-type="fig">4</xref>B) and 100% vermiculite cultures (<xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S9</xref>); however, a more significant increase occurred in the culture containing 100% vermiculite (<xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S9</xref>). Nevertheless, no differences were observed between <italic>Arabidopsis</italic> plants inoculated with the control and the <italic>retS</italic> mutant&#x02010;<italic>nif</italic> strains when nitrogen was present (Fig.&#x000a0;<xref rid="mbt213335-fig-0004" ref-type="fig">4</xref>B). Considering the nutrient contents of the cultures, these results indicated that this recombinant strain can retain at least some of negative regulation of the nitrogenase activity under excess nitrogen conditions. Furthermore, the <italic>nif</italic> genes in the recombinant strain promoted plant growth, as shown in the previous study (Setten <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0040" ref-type="ref">2013</xref>; Fox <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0010" ref-type="ref">2016</xref>).</p></sec><sec id="mbt213335-sec-0006"><title>Roots localization patterns and phenotype analysis of the engineered <italic>P.&#x000a0;protegens</italic> Pf&#x02010;5 strains on wheat and cucumber</title><p>To further extend potential nitrogen&#x02010;fixing ability to major cereal crops and vegetable, the effects of the <italic>retS</italic> and <italic>nif</italic> genes on root colonization were also studied on wheat (monocotyledons, crop) and cucumber (dicotyledon, vegetable) under growth room conditions. In the wheat and cucumber roots controls, no fluorescence signal was detected (<xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S8</xref>). In cucumber, GFP&#x02010;tagged bacteria were visualized on root surfaces after 3&#x02013;5&#x000a0;days after inoculation (Fig.&#x000a0;<xref rid="mbt213335-fig-0005" ref-type="fig">5</xref>A&#x02013;P). The bacterial were found to colonize on root tips and root hairs via single&#x02010;cell and small&#x02010;aggregate modes of colonization (Fig.&#x000a0;<xref rid="mbt213335-fig-0005" ref-type="fig">5</xref>A&#x02013;H). Seven days after inoculation, more bacteria were localized on the root surface, and dispersed large&#x02010;aggregate colonization was observed (Fig.&#x000a0;<xref rid="mbt213335-fig-0005" ref-type="fig">5</xref>M&#x02013;P), indicating that the bacterial were successfully survived and colonized the roots. In addition, a linear distribution of bacterial was also observed at the junctions between epidermal root cells (Fig.&#x000a0;<xref rid="mbt213335-fig-0005" ref-type="fig">5</xref>M&#x02013;P). Consistent with the results obtained in cucumber, GFP&#x02010;tagged bacterial also localized on the root hair of wheat (Fig.&#x000a0;<xref rid="mbt213335-fig-0006" ref-type="fig">6</xref>A&#x02013;D). Furthermore, bacterial colonized the primary roots (Fig.&#x000a0;<xref rid="mbt213335-fig-0006" ref-type="fig">6</xref>E&#x02013;H) and lateral roots (Fig.&#x000a0;<xref rid="mbt213335-fig-0006" ref-type="fig">6</xref>I&#x02013;L). These results showed that the <italic>retS</italic> and <italic>nif</italic> genes had no influence on colonization pattern when adapted to different hosts (Figs&#x000a0;<xref rid="mbt213335-fig-0004" ref-type="fig">4</xref>, <xref rid="mbt213335-fig-0005" ref-type="fig">5</xref>, <xref rid="mbt213335-fig-0006" ref-type="fig">6</xref>). In addition, the colonization patterns of the <italic>retS</italic> mutant&#x02010;GFP, <italic>nif</italic>&#x02010;GFP and <italic>retS</italic> mutant&#x02010;<italic>nif</italic>&#x02010;GFP strains were analogous to that of the wild&#x02010;type Pf&#x02010;5 (Figs&#x000a0;<xref rid="mbt213335-fig-0004" ref-type="fig">4</xref>, <xref rid="mbt213335-fig-0005" ref-type="fig">5</xref>, <xref rid="mbt213335-fig-0006" ref-type="fig">6</xref>).</p><fig fig-type="Figure" xml:lang="en" id="mbt213335-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>The colonization of <styled-content style="fixed-case" toggle="no">GFP</styled-content>&#x02010;labelled <italic>P.&#x000a0;protegens</italic> on cucumber roots.A&#x02013;D. The colonization patterns of apical 3&#x02013;5&#x000a0;days after inoculation.E&#x02013;H. The colonization patterns of root hair 3&#x02013;5&#x000a0;days after inoculation.I&#x02013;L. The colonization patterns of elongation zone 3&#x02013;5&#x000a0;days after inoculation.M&#x02013;P. The colonization patterns of elongation zone 7&#x000a0;days after inoculation. Bars&#x000a0;=&#x000a0;50&#x000a0;&#x003bc;m.</p></caption><graphic id="nlm-graphic-11" xlink:href="MBT2-13-118-g005"/></fig><fig fig-type="Figure" xml:lang="en" id="mbt213335-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>The colonization of the <styled-content style="fixed-case" toggle="no">GFP</styled-content>&#x02010;labelled <italic>P.&#x000a0;protegens</italic> on wheat roots.A&#x02013;D. The colonization patterns of root hair after 7&#x000a0;days after inoculation.E&#x02013;H. The colonization patterns of primary root 7&#x000a0;days after inoculation.I&#x02013;L. The colonization patterns of lateral root 7&#x000a0;days after inoculation. Bars&#x000a0;=&#x000a0;50&#x000a0;&#x003bc;m.</p></caption><graphic id="nlm-graphic-13" xlink:href="MBT2-13-118-g006"/></fig><p>Phenotype analysis of wheat and cucumber to assess the nitrogen&#x02010;fixing ability of the strains was first performed under N&#x02010;limited conditions. Improvement in the seedlings was reflected in their fresh weights. Without nitrogen, plants inoculated with the recombinant strain expressing <italic>nif</italic> genes showed significantly higher productivity than the <italic>retS</italic> mutant strains and the wild&#x02010;type pf&#x02010;5 (<xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S10</xref>). The fresh weights were increased by 74%, 45% and 135% in the cucumber seedlings, shoots and roots respectively (<xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S10</xref>B&#x02013;D). The fresh weights of wheat seedlings, shoots and roots were similarly increased by 57%, 53% and 131% respectively (<xref rid="mbt213335-sup-0001" ref-type="supplementary-material">Fig.&#x000a0;S10</xref>F&#x02013;H).</p><p>The combination of nitrogen&#x02010;fixing ability and antifungal activity was further studied on the major cereal crop (wheat) and vegetable (cucumber) under growth room conditions. Prior to the inoculation of <italic>P.&#x000a0;protegens</italic>, wheat/cucumber seedlings were grown in pots infected by <italic>Rhizoctonia solani</italic> and watered by 1/4 Hoagland's nutrient solution without nitrogen. The wheat/cucumber plants were then inoculated with the Pf&#x02010;5, <italic>retS</italic> mutant, Pf&#x02010;5&#x02010;<italic>nif</italic> or <italic>retS</italic> mutant&#x02010;<italic>nif</italic> strain.</p><p>In cucumber, <italic>Rhizoctonia solani</italic> inoculation caused the fresh weights of the seedlings, shoots and roots to decrease by 37%, 40% and 44%, respectively, compared with plants not incubated with <italic>Rhizoctonia solani</italic> inoculation (Fig.&#x000a0;<xref rid="mbt213335-fig-0007" ref-type="fig">7</xref>). Similar to the <italic>in&#x000a0;vitro</italic> results (Fig.&#x000a0;<xref rid="mbt213335-fig-0002" ref-type="fig">2</xref>), the <italic>retS</italic> mutant&#x02010;treated plants demonstrated that biocontrol potential against <italic>Rhizoctonia solani</italic> (Fig.&#x000a0;<xref rid="mbt213335-fig-0007" ref-type="fig">7</xref>). The <italic>retS</italic> mutant with or without <italic>nif</italic> genes exhibited protective effects in the presence of <italic>Rhizoctonia solani</italic>, resulting in increased fresh plant, shoot and root weights. Conversely, the effects of the Pf&#x02010;5 or the Pf&#x02010;5&#x02010;<italic>nif</italic> strains were sporadic (Fig.&#x000a0;<xref rid="mbt213335-fig-0007" ref-type="fig">7</xref>). Compared with the healthy control, seedling treatment with <italic>retS</italic> mutant had slightly enhanced the fresh biomass, especially in the root (Fig.&#x000a0;<xref rid="mbt213335-fig-0007" ref-type="fig">7</xref>D). In addition, the <italic>retS</italic> mutant&#x02010;<italic>nif</italic> strain resulted in a lower shoot/root ratio than that of the control, and it increased the fresh plant, shoot and root weights by 19%, 4% and 113% respectively (Fig.&#x000a0;<xref rid="mbt213335-fig-0007" ref-type="fig">7</xref>B&#x02013;D).</p><fig fig-type="Figure" xml:lang="en" id="mbt213335-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Growth phenotype of cucumber under pathogen and N&#x02010;limited double treatment condition. Surface&#x02010;sterilized cucumber seeds were sown on 1/2 <styled-content style="fixed-case" toggle="no">MS</styled-content> semisolidified medium. At 7&#x000a0;days post germination, seedlings were grown in cultures infected with <italic>Rhizoctonia solani</italic> in 1/4 Hoagland's nutrient solution without nitrogen. After 3&#x000a0;days of cocultivation, the seedlings were inoculated with <italic>P.&#x000a0;protegens</italic>. Photographs were taken 14&#x000a0;days after inoculation, and fresh weights were measured. A, B, C and D show plant performance (A), fresh weights of seedlings (B), shoots (C) or roots (D). Each column is the mean of six independent measurements. Bars represent standard error of the mean. Bars&#x000a0;=&#x000a0;2&#x000a0;cm. **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01 and ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001 according to ANOVA with Dunnett as post doc test.</p></caption><graphic id="nlm-graphic-15" xlink:href="MBT2-13-118-g007"/></fig><p>For wheat, inoculation with <italic>Rhizoctonia solani</italic> significantly reduced the fresh plant, shoot and root by 37%, 38% and 22%, respectively, which also were the lowest fresh weights observed (Fig.&#x000a0;<xref rid="mbt213335-fig-0008" ref-type="fig">8</xref>). Similar to cucumber, the fresh weights of pathogen&#x02010;inoculated wheat were unaffected by inoculation with wild&#x02010;type Pf&#x02010;5 (Figs&#x000a0;<xref rid="mbt213335-fig-0007" ref-type="fig">7</xref> and <xref rid="mbt213335-fig-0008" ref-type="fig">8</xref>). However, the fresh weights increased significantly among plants inoculated with the <italic>retS</italic> mutant, Pf&#x02010;5&#x02010;<italic>nif</italic> and <italic>retS</italic> mutant&#x02010;<italic>nif</italic> strains in the presence of pathogen (Fig.&#x000a0;<xref rid="mbt213335-fig-0008" ref-type="fig">8</xref>B&#x02013;D). For the <italic>Rhizoctonia solani</italic> treatments, inoculation with the Pf&#x02010;5&#x02010;<italic>nif</italic> increased the fresh seedling, shoot and root weights by 86%, 87% and 53% respectively (Fig.&#x000a0;<xref rid="mbt213335-fig-0008" ref-type="fig">8</xref>B&#x02013;D). Moreover, the <italic>retS</italic> mutant&#x02010;<italic>nif</italic> strain had the greatest overall effects in the presence of <italic>Rhizoctonia solani</italic> in relation to the control (Fig.&#x000a0;<xref rid="mbt213335-fig-0008" ref-type="fig">8</xref>B&#x02013;D).</p><fig fig-type="Figure" xml:lang="en" id="mbt213335-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Growth phenotype of wheat under pathogen and N&#x02010;limited double treatment condition. Surface&#x02010;sterilized wheat seeds were sown on 1/2 <styled-content style="fixed-case" toggle="no">MS</styled-content> semisolidified medium. At 7&#x000a0;days of postgermination, seedlings were grown in cultures infected with <italic>Rhizoctonia solani</italic> under 1/4 Hoagland's nutrient solution without nitrogen. After 3&#x000a0;days of cocultivation, the seedlings were inoculated with <italic>P.&#x000a0;protegens</italic>. Photographs and fresh weights were taken after 14&#x000a0;days of cocultivation with the inoculated treatment. A, B, C and D show plant performance (A), fresh weights of seedlings (B), shoots (C) or roots (D). Each column is the mean of 6 independent measurements. Bars represent standard error of the mean. Bars&#x000a0;=&#x000a0;1&#x000a0;cm. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01, ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001 and ****<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.0001 according to ANOVA with Dunnett as post doc test.</p></caption><graphic id="nlm-graphic-17" xlink:href="MBT2-13-118-g008"/></fig><p>Inoculation with <italic>Rhizoctonia solani</italic> significantly affected the growth of wheat and cucumber seedlings, compared with the pathogen&#x02010;inoculated and uninoculated control under N&#x02010;limited condition (Figs&#x000a0;<xref rid="mbt213335-fig-0007" ref-type="fig">7</xref> and <xref rid="mbt213335-fig-0008" ref-type="fig">8</xref>). Consistent with the antifungal activity against <italic>Rhizoctonia solani in&#x000a0;vitro</italic>, the effects of nitrogen limitation were significantly suppressed by the engineered <italic>P.&#x000a0;protegens</italic> Pf&#x02010;5 strain we constructed in this study. Compared the control, the fresh weights were unaffected with inoculation of the engineered <italic>P.&#x000a0;protegens</italic> Pf&#x02010;5 strain under the pathogen treatments (Figs&#x000a0;<xref rid="mbt213335-fig-0007" ref-type="fig">7</xref> and <xref rid="mbt213335-fig-0008" ref-type="fig">8</xref>). Furthermore, these seedlings were healthy and vigorous under pathogen and N&#x02010;limited double treatment condition (Figs&#x000a0;<xref rid="mbt213335-fig-0007" ref-type="fig">7</xref> and <xref rid="mbt213335-fig-0008" ref-type="fig">8</xref>). These results indicate that the engineered <italic>P.&#x000a0;protegens retS</italic> mutant&#x02010;<italic>nif</italic> strain may act as a biofactory for the biocontrol of plant pathogens and biological fixation of nitrogen.</p></sec></sec><sec id="mbt213335-sec-0007"><title>Conclusions</title><p>Numerous studies on the use of PGPRs for plant growth promotion have been reported, but interest in the potentials of microbial inoculants for agriculture has increased within the last few years. Precise and fluent genetic manipulation have greatly expanded recombinant DNA technology for genome engineering (Zhang <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0056" ref-type="ref">1998</xref>; Yin <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0053" ref-type="ref">2015</xref>). Direct cloning via a Red/ET recombineering method based on phage&#x02010;encoded homologous recombination systems is an updated method for horizontal gene transfer (Zhang <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0056" ref-type="ref">1998</xref>, <xref rid="mbt213335-bib-0057" ref-type="ref">2000</xref>; Wang <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0046" ref-type="ref">2016</xref>, <xref rid="mbt213335-bib-0047" ref-type="ref">2017</xref>) that can be applied to other host strains or to extend antimicrobial spectrum, which could open new avenues for the development of sustainable agriculture. Despite the great potential of these genetically modified strains, understanding its complexities is essential. For biological nitrogen fixation, for example, the activity of the engineered strain could potentially be affected by the integration site of the genes as well as by the soil types and soil oxygen levels under agricultural conditions. In this regard, refactoring the <italic>nif</italic> genes to unlock potential constraints would be interesting and could expand the use of nitrogen&#x02010;fixing inoculants to diverse plants and soils.</p></sec><sec id="mbt213335-sec-0008"><title>Experimental procedures</title><sec id="mbt213335-sec-0009"><title>Microorganisms, plasmids, primers and growth conditions</title><p>
+<italic>Escherichia coli</italic> GB05&#x02010;dir and GB05&#x02010;red were used for recombineering were grown in LB medium supplemented with appropriate antibiotics (chloramphenicol 15&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>, ampicillin 100&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup> and gentamicin 4&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>). <italic>E.&#x000a0;coli</italic> ET12567/pUZ8002 was grown in LB broth at 37&#x000b0;C overnight with 50&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup> kanamycin. <italic>P.&#x000a0;protegens</italic> Pf&#x02010;5 was grown in LB broth at 28&#x000b0;C overnight with shaking. After conjugation, PMM (K<sub>2</sub>HPO<sub>4</sub>, 8&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup>; KH<sub>2</sub>PO<sub>4</sub>, 5&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup>; (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, 1&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup>; succinic acid, 6.6&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup>; pH 7.0. After autoclaving, 20&#x000a0;mM MgSO<sub>4</sub> was added) medium with appropriate antibiotics was used to select for recombinants. All the strains, plasmid and primers used in this study are listed in Table&#x000a0;S2.</p></sec><sec id="mbt213335-sec-0010"><title>Construction of the <italic>retS</italic> deletion mutant</title><p>A gene removal system containing a gentamicin resistance gene and a Cre&#x02010;lox66/lox71 cassette was used to replace the <italic>retS</italic> gene in the genome of <italic>P.&#x000a0;protegens</italic> Pf&#x02010;5 using Red/ET recombineering. PCR products containing a 100&#x02010;bp sequence homologous to the <italic>retS</italic> gene at their 5&#x02032; ends and a 22&#x02010;bp PCR primers at their 3&#x02032; ends were amplified and electroporated by eporator (1250&#x000a0;V, 5&#x000a0;ms, Eppendorf Corporation) into a <italic>P.&#x000a0;protegens</italic> Pf&#x02010;5 expressing Red/ET recombineering system based on the native phage protein pairs (novel recombineering systems for <italic>Pseudomonas</italic>, our unpublished data; Zhang <italic>et&#x000a0;al</italic>., 2000; Yin <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0053" ref-type="ref">2015</xref>). After deleting the lox66/lox71&#x02010;flanked genta<sup>R</sup> gene, the <italic>retS</italic> mutation was verified by PCR using primers <italic>retS</italic> check 1 and <italic>retS</italic> check 2 that were designed upstream and downstream of the <italic>retS</italic> gene.</p></sec><sec id="mbt213335-sec-0011"><title>Construction of the GFP vector</title><p>The GFP vector was constructed by linear plus linear homologous recombination (LLHR, Zhang <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0056" ref-type="ref">1998</xref>). The linear pBBR1 vector was amplified with primers containing 25&#x02010;bp homology arms flanking the GFP/Pgenta promoter at their 5&#x02032; ends and 25&#x02010;bp PCR primers at their 3&#x02032; ends. Thus, the GFP/Pgenta promoter PCR products contain 25&#x02010;bp homology arms and 25&#x02010;bp PCR primers. Three PCR products were co&#x02010;electroporated by electroporator (1250&#x000a0;V, 5&#x000a0;ms, Eppendorf Corporation) into <italic>E.&#x000a0;coli</italic> GB05&#x02010;dir (arabinose&#x02010;inducible, RecET&#x02010;expressing <italic>E.&#x000a0;coli</italic> cells for LLHR) to construct the pBBR1&#x02010;kan&#x02010;Pgenta&#x02010;GFP. The recombinants were selected in LB medium with gentamicin at 4&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>. Subsequently, the construct was electroporated (1250&#x000a0;V, 5&#x000a0;ms, Eppendorf Corporation) into the Pf&#x02010;5, <italic>retS</italic> mutant, Pf&#x02010;5&#x02010;<italic>nif</italic> and <italic>retS</italic> mutant&#x02010;<italic>nif</italic> strains, separately.</p></sec><sec id="mbt213335-sec-0012"><title>Quantitative analysis and isolation of antibiotics with HPLC</title><p>Cultures of the Pf&#x02010;5, <italic>retS</italic> mutant, Pf&#x02010;5&#x02010;<italic>nif</italic> and <italic>retS</italic> mutant&#x02010;<italic>nif</italic> strains were grown in KB medium with shaking at 150&#x000a0;r.p.m. for 24, 48 and 72&#x000a0;h, individually. The supernatants were collected and antibiotics extracted with ethyl acetate from the culture suspension were analysed using Thermo Scientific Dionex Ultimate 3000 system coupled to Bruker Amazon SL Ion Trap mass spectrometer (Bruker Corporation, Germany) with Thermo Scientific&#x02122; Acclaim&#x02122; C18 column (2.1&#x000a0;mm&#x000a0;&#x000d7;&#x000a0;100&#x000a0;mm, 2.2&#x000a0;&#x003bc;m) at 30&#x000b0;C. The mobile phase contained of 0.1% aqueous acetic acid (solvent A) and acetonitrile (solvent B) with a linear gradient from 5% to 95% solvent B over 20&#x000a0;min, followed by 5&#x000a0;min at 95% solvent B. The flow rate was set to 0.5&#x000a0;ml&#x000a0;min<sup>&#x02212;1</sup> and DAD light detector monitored at 250, 270, 290 and 310&#x000a0;nm respectively (<bold>C1</bold>, 254&#x000a0;nm; <bold>C2</bold>, 2,4&#x02010;DAPG, 270&#x000a0;nm; Xie <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0050" ref-type="ref">2016</xref>). The experiment was repeated at least three times.</p><p>The ethyl acetate extracts of 6&#x02010;l culture were chromatographed using LC 3000 (Beijing Chuangxintongheng Science and Technology Co., Ltd) equipped with a C18&#x02010;reversed phase column (36&#x000a0;mm&#x000a0;&#x000d7;&#x000a0;460&#x000a0;mm) using linear gradient elution with H<sub>2</sub>O&#x02010;MeOH (20:80) to 100% MeOH with 0.1% formic acid at a flow rate of 20&#x000a0;ml&#x000a0;min<sup>&#x02212;1</sup>, and then the fractions were detected with LC&#x02010;MS. Fractions containing <bold>C2</bold> were further chromatographed with the LC 3000 on C18 column (YMC&#x02010;Pack ODS&#x02010;A, 20&#x000a0;mm&#x000a0;&#x000d7;&#x000a0;250&#x000a0;mm, 5&#x000a0;&#x003bc;m) at gradient from 65% to 76% (MeOH/H<sub>2</sub>O with 0.1% formic acid) for 50&#x000a0;min. Fractions containing <bold>C1</bold> was further chromatographed with Agilent 1260 Infinity using a C18 column (Agilent Co., USA; ZORBAX SB C18, 9.4&#x000a0;mm&#x000a0;&#x000d7;&#x000a0;250&#x000a0;mm, 5&#x000a0;&#x003bc;m) with linear gradient elution from 22%&#x02013;29% for 25&#x000a0;min.</p></sec><sec id="mbt213335-sec-0013"><title>Bioassay for antifungal activity</title><p>The antifungal activity was assessed with <italic>Rhizoctonia solani</italic> as the indicator as described (Humair <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0018" ref-type="ref">2009</xref>) on PDA medium plates. A mycelial plug (1&#x000a0;cm in diameter) from the actively growing fungus was placed in the centre of the plate. Cultures of Pf&#x02010;5, the <italic>retS</italic> mutant and Pf&#x02010;5 <italic>nif</italic> strains (20&#x000a0;&#x003bc;l; OD<sub>600</sub>&#x000a0;=&#x000a0;1.0) were, respectively, inoculated at four equidistant positions on the surface&#x02010;dry agar plates. After 5&#x000a0;days of incubation at 25&#x000b0;C, when the mycelium in control plates reached the edge of the plate, the inhibition zones were photographed.</p><p>The susceptibility of <italic>Rhizoctonia solani</italic> to <bold>C1</bold> and <bold>C2</bold> was analysed by mycelial plugs in 6&#x02010;well plates. Purified <bold>C1</bold> and <bold>C2</bold> were diluted in 7.5&#x000a0;ml PDA in each well (2&#x02013;5) with concentrations of: 5, 10, 15, 50 and 100&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>. In the first well, ethanol was used as control. Plugs of 0.5&#x000a0;mm in diameter were then placed in the centre of each well and incubated at 25&#x000b0;C. When the mycelium in the control plates reached the edge of the plate, the zones of inhibition were photographed. This experiment was performed in triplicates.</p></sec><sec id="mbt213335-sec-0014"><title>Transposition of the <italic>nif</italic> genes</title><p>A BAC vector containing the <italic>nif</italic> genes and a conjugation&#x02013;transposition cassette was constructed via direct clone and Red/ET recombineering (Wang <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0046" ref-type="ref">2016</xref>, <xref rid="mbt213335-bib-0047" ref-type="ref">2017</xref>) and identified by <italic>Kpn</italic>I. The BAC vector was electroporated (1250&#x000a0;V, 5&#x000a0;ms, Eppendorf Corporation) into <italic>E.&#x000a0;coli</italic> ET12567/pUZ8002, the donor strain for intergeneric conjugation with <italic>P.&#x000a0;protegens</italic> pf&#x02010;5. The constructs were then introduced into the chromosome of <italic>P.&#x000a0;protegens</italic> by conjugation, as described previously (Fu <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0011" ref-type="ref">2008</xref>). <italic>E.&#x000a0;coli</italic> containing the BAC vector was grown in LB broth at 37&#x000b0;C overnight with kanamycin at 50&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup> and gentamicin at 4&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>. <italic>P.&#x000a0;protegens</italic> Pf&#x02010;5 was grown in LB broth overnight at 28&#x000b0;C with shaking. The <italic>E.&#x000a0;coli</italic>&#x02013;<italic>P.&#x000a0;protegens</italic> conjugation mixture was plated on PMM agar supplemented with 20&#x000a0;mM MgSO<sub>4</sub> and 15&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup> gentamicin and 100&#x000a0;&#x003bc;g&#x000a0;ml ampicillin (to repress the growth of <italic>E.&#x000a0;coli</italic> rather than the Pf&#x02010;5). Proper recombinant transformants were verified by PCR amplification using the check primer pairs, which were randomly designed along the <italic>nif</italic> genes with distance about 15&#x02013;30&#x000a0;kb between primer pairs.</p></sec><sec id="mbt213335-sec-0015"><title>Nitrogenase activity and ammonium concentration</title><p>For the nitrogenase activity assays, the acetylene reduction method was used as described previously (Brencic <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0006" ref-type="ref">2009</xref>). After overnight incubation on LB plate, a single colony was grown in liquid medium for 8&#x000a0;h at 28&#x000b0;C. Cells were collected by centrifugation 5000&#x000a0;r.p.m. and 4&#x000b0;C for 10&#x000a0;min, washed three times with a 0.85% NaCl solution and then resuspended in nitrogen deficient medium to a final OD<sub>600</sub> of 1.0. Two millilitre cultures of each culture were added to 18&#x000a0;ml of N&#x02010;free L media (Setten <italic>et&#x000a0;al</italic>., <xref rid="mbt213335-bib-0040" ref-type="ref">2013</xref>) in 100&#x000a0;ml flasks with a rubber stopper. Air in the flasks was replaced with argon containing 1% oxygen. After incubation for 6&#x000a0;h at 28&#x000b0;C with shaking at 250&#x000a0;r.p.m., 10% C<sub>2</sub>H<sub>2</sub> was injected into the flasks. The cultures were then incubated for a further 4&#x000a0;h, and the gas phase was analysed using a Shimadzu GC2010 gas chromatograph to quantify ethylene production. The protein content was determined by the Bradford method (Bradford, <xref rid="mbt213335-bib-0005" ref-type="ref">1976</xref>). For the ammonium concentration assays, dinitrogen was used instead of argon followed by incubation for 24&#x000a0;h. Ammonium in the medium was analysed by adding 2.5&#x000a0;ml of each supernatant to a mixture containing phenol (0.1&#x000a0;ml), sodium nitropusside (0.1&#x000a0;ml) and oxidizing agents (sodium nitroprusside, sodium hydroxide and sodium hydrochlorite; 0.25&#x000a0;ml), mixed well and incubated for 1&#x000a0;h; the absorbance was measured at 640&#x000a0;nm.</p></sec><sec id="mbt213335-sec-0016"><title>Localization via root colonization assays</title><p>Seeds were sterilized with 10% NaClO for 15&#x000a0;min and then washed with ddH<sub>2</sub>O 5&#x02013;6 times to remove the NaClO. Surface&#x02010;sterilized cucumber/wheat seeds were incubated with 1/2&#x000d7; MS solution for 24&#x000a0;h at 25&#x000b0;C before inoculation. Surface&#x02010;sterilized <italic>Arabidopsis thaliana</italic> seeds were vernalized for 3&#x000a0;days at 4&#x000b0;C in darkness before inoculation. For inoculation, seeds were treated with a bacterial suspension at 10<sup>8</sup>&#x000a0;CFU&#x000a0;ml<sup>&#x02212;1</sup> (colony&#x02010;forming units) for 10&#x000a0;min and placed on filter papers for 2&#x000a0;min to remove any excess bacterial suspension. Then, the seeds were transferred to a flask (3&#x000a0;cm in diameter and 10&#x000a0;cm in height) filled with 15&#x000a0;ml of 1/2&#x000d7; MS semisolid agar medium with sucrose (30&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup>). Plants were grown in a growth chamber with a photoperiod of 16&#x000a0;h light/8&#x000a0;h dark, at 80&#x000a0;&#x003bc;mol photons m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup> and a constant temperature of 25&#x000b0;C. Fluorescence was examined after 5&#x02013;10&#x000a0;days of incubation with a Zeiss inverted fluorescence microscope (Zeiss LSM 800 Airyscan, Carl Zeiss Microimaging Inc., NY, USA) at 510&#x02013;535&#x000a0;nm for GFP.</p></sec><sec id="mbt213335-sec-0017"><title>Phenotype analysis of <italic>Arabidopsis thaliana</italic>
+</title><p>For the inoculation assays, <italic>Arabidopsis thaliana</italic> seeds were surface sterilized with 10% NaClO for 15&#x000a0;min and washed with ddH<sub>2</sub>O 5&#x02013;6 times to remove the NaClO. Then, the seeds were vernalized for 3&#x000a0;days at 4&#x000b0;C in darkness. After rooted in the 1/2&#x000d7; MS semisolid agar medium with sucrose (30&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup>), the seedlings were transferred to cultures containing a mixture of peat (a black substance rich in nutrient to help plants growth) and vermiculite (as a bedding medium to hold air and water for plants; 3:1 v/v), or, 100% vermiculite. After grown in 1/4 Hoagland's nutrient solution with or without nitrogen for 7&#x000a0;days, <italic>Arabidopsis</italic> seedlings were inoculated with overnight cultures of bacteria with or without the <italic>nif</italic> genes that were grown at 28&#x000b0;C, washed with saline solution twice and then resuspended to OD<sub>600</sub>&#x000a0;=&#x000a0;0.3 (&#x02248;10<sup>8</sup>&#x000a0;CFU&#x000a0;ml<sup>&#x02212;1</sup>). One millilitre of the bacterial solution was added on the soil surface at a distance of approximately 0.5&#x000a0;cm away from the roots. <italic>Arabidopsis</italic> seedlings were then grown in a growth room at 22&#x000b0;C and 120&#x000a0;&#x003bc;mol photons m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup> with a photoperiod of 16&#x000a0;h light/8&#x000a0;h darkness.</p></sec><sec id="mbt213335-sec-0018"><title>Phenotype analysis of the engineered <italic>P.&#x000a0;protegens</italic> Pf&#x02010;5 on wheat and cucumber</title><p>
+<italic>Rhizoctonia solani</italic> was grown on PAD plates for 7&#x000a0;days at 25&#x000b0;C. Ten mycelial plugs (1&#x02010;cm&#x02010;diameter) from the actively growing fungus were placed into 10&#x000a0;g ground organically grown processed oats and incubated for 14&#x000a0;days at 25&#x000b0;C. After incubation, the 10&#x000a0;g oats incubated <italic>Rhizoctonia solani</italic> containing oospores and hyphae were mixed with 90&#x000a0;g soil (peat: vermiculite, 3:1 v/v). Prior to the transplanting, inoculation of plants with <italic>Rhizoctonia solani</italic> was performed by placing the homogenized <italic>Rhizoctonia solani</italic> soil onto the surfaces at the height of 1&#x000a0;cm.</p><p>Surface&#x02010;sterilized cucumber/wheat seeds were incubated in 1/2&#x000d7; MS semisolid agar medium with sucrose (30&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup>). Under pathogen and N&#x02010;limited double treatment condition, 2&#x000a0;weeks old rooted wheat/cucumber seedlings were transferred to each pot for 3&#x000a0;days of cocultivation. Cultures of Pf&#x02010;5, the <italic>retS</italic> mutant, Pf&#x02010;5 <italic>nif</italic> and the <italic>retS</italic> mutant&#x02010;<italic>nif</italic> were, respectively, inoculated as described above. The plants were irrigated with 1/4 Hoagland's nutrient solution without nitrogen and were grown in a growth room at 25&#x000b0;C and 120&#x000a0;&#x003bc;mol photons m<sup>&#x02212;2</sup> s<sup>&#x02212;1</sup>, 16&#x000a0;h light/8&#x000a0;h dark. Photographs were taken after 14&#x000a0;days after inoculation treatment, and the fresh weights were measured.</p></sec><sec id="mbt213335-sec-0019"><title>Statistical analysis</title><p>All experiments data were analysed by GraphPad Prism 6 (GraphPad Software, Inc., San Diego, CA, USA). *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01, ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001 and ****<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.0001 according to ANOVA with Dunnett as post doc test.</p></sec></sec><sec sec-type="COI-statement" id="mbt213335-sec-0020"><title>Acknowledgements</title><p>The plant fungal were supported by the Qingdao Zhongda Agricultural Science and Technology Co., Ltd. Thanks for the generous gift. In addition, we acknowledge financial support by the Program of Global Experts (1000 plan), the Project of Taishan industry leading talent in Shandong province (LJNY201603), the Program of Introducing Talents of Discipline to Universities (B16030), the Major Basic Program of Natural Science Foundation of Shandong Province (ZR2017ZB0212), Natural Science Foundation of Shandong Province (ZR201709210045), National Natural Science Foundation of China (31700004) and Natural Science Foundation of Jiangsu Province (BK20160368).</p></sec><sec sec-type="COI-statement" id="mbt213335-sec-0021"><title>Conflicts of interest</title><p>The authors declare that they have no competing interests.</p></sec><sec id="mbt213335-sec-0022"><title>Author contributions</title><p>Xiaoshu Jing designed and performed the experiments, analysed the experimental data and prepared the manuscript. Qingwen Cui, Xiaochen Li, Jia Yin and Deng Pan partly participated in the experiments. <italic>Vinothkannan Ravichandran</italic> proofread this manuscript. Jun Fu, Qiang Tu, Hailong Wang, Xiaoying Bian and Youming Zhang conceived research plan. All authors have read and approved the final version of this manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="mbt213335-sup-0001"><caption><p>
+<bold>Table&#x000a0;S1.</bold> Secondary metabolite clusters prediction in <italic>P.&#x000a0;protegens</italic> Pf&#x02010;5 and DSM4166 based on GenBank sequences and antiSMASH analysis.<bold>Table&#x000a0;S2.</bold> All the strains, plasmid and primers used in this paper.<bold>Fig.&#x000a0;S1.</bold> HPLC spectrum of secondary metabolites of Pf&#x02010;5 and the <italic>retS</italic> mutant from cultures of 24&#x000a0;h (A) 48&#x000a0;h (B) and 72&#x000a0;h (C).<bold>Fig.&#x000a0;S2.</bold> Isolation of C1 and C2 by preparative HPLC.<bold>Fig.&#x000a0;S3.</bold> MS spectrum, UV visible spectrum and chemical structure of pyoluteorin.<bold>Fig.&#x000a0;S5.</bold> Graphical explanation of the <italic>retS</italic> mutant&#x02010;<italic>nif</italic> engineering.<bold>Fig.&#x000a0;S4.</bold> MS spectrum, UV visible spectrum and chemical structure of orfamide.<bold>Fig.&#x000a0;S6.</bold> Growth rates of Pf&#x02010;5, <italic>retS</italic> mutant, Pf&#x02010;5&#x02010;<italic>nif</italic> and <italic>retS</italic> mutant&#x02010;<italic>nif</italic>.<bold>Fig.&#x000a0;S7.</bold> Ammonium production assays in <italic>P.&#x000a0;protegens</italic>.<bold>Fig.&#x000a0;S8.</bold> Control fluorescence micrographs images using a confocal laser scanning microscope. (A) Construct and fluorescence micrographs of GFP&#x02010;expressing vector in <italic>P. protegens</italic> under the control of constitutive promoters. (B) Fluorescence micrographs of the wheat, cucumber and <italic>Arabidopsis</italic> roots inoculated with the unmodified strain.<bold>Fig.&#x000a0;S9.</bold> Growth phenotype of <italic>Arabidopsis</italic> on 100% vermiculite. <italic>Arabidopsis</italic> was grown in cultures containing 100% vermiculite without nitrogen.<bold>Fig.&#x000a0;S10.</bold> Growth phenotype of cucumber (A&#x02013;D) and wheat (E&#x02013;H) under N limited condition. A&#x02013;H show the plant performance of cucumber (A) and wheat (E), and the fresh weights of seedlings (B, F), shoots (C, G) or roots (D, H). Each column is the mean of 6 independent measurements. Bars represent standard error of the mean. Bars scale 5&#x000a0;cm (A), 2&#x000a0;cm (D).</p></caption><media xlink:href="MBT2-13-118-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ref-list content-type="cited-references" id="mbt213335-bibl-0001"><title>References</title><ref id="mbt213335-bib-0001"><mixed-citation publication-type="journal" id="mbt213335-cit-0001">
+<string-name>
+<surname>Ahemad</surname>, <given-names>M.K.M.</given-names>
+</string-name> (<year>2014</year>) <article-title>Mechanisms and applications of plant growth promoting rhizobacteria: Current perspective</article-title>. <source xml:lang="en">J King Abdulaziz Univ Sci</source>
+<volume>26</volume>(<issue>1</issue>): <fpage>1</fpage>&#x02013;<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1016/j.jksus.2013.05.001</pub-id>.</mixed-citation></ref><ref id="mbt213335-bib-0002"><mixed-citation publication-type="journal" id="mbt213335-cit-0002">
+<string-name>
+<surname>Antweiler</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Schreiter</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Keilwagen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Baldrian</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Kropf</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Smalla</surname>, <given-names>K.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Statistical test for tolerability of effects of an antifungal biocontrol strain on fungal communities in three arable soils</article-title>. <source xml:lang="en">Microbial Biotechnol</source>
+<volume>10</volume>(<issue>2</issue>): <fpage>434</fpage>&#x02013;<lpage>449</lpage>.</mixed-citation></ref><ref id="mbt213335-bib-0003"><mixed-citation publication-type="journal" id="mbt213335-cit-0003">
+<string-name>
+<surname>Bhattacharyya</surname>, <given-names>P.N.</given-names>
+</string-name>, and <string-name>
+<surname>Jha</surname>, <given-names>D.K.</given-names>
+</string-name> (<year>2012</year>) <article-title>Plant growth&#x02010;promoting rhizobacteria (PGPR): emergence in agriculture</article-title>. <source xml:lang="en">World J Microbiol Biotechnol</source>
+<volume>28</volume>(<issue>4</issue>): <fpage>1327</fpage>&#x02013;<lpage>1350</lpage>. <pub-id pub-id-type="doi">10.1007/s11274-011-0979-9</pub-id>.<pub-id pub-id-type="pmid">22805914</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0004"><mixed-citation publication-type="journal" id="mbt213335-cit-0004">
+<string-name>
+<surname>Bian</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Klefisch</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>R.</given-names>
+</string-name>, and <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2015</year>) <article-title>Heterologous production of glidobactins/luminmycins in <italic>Escherichia coli Nissle</italic> containing the glidobactin biosynthetic gene cluster from <italic>Burkholderia</italic> DSM7029</article-title>. <source xml:lang="en">ChemBioChem</source>
+<volume>15</volume>(<issue>15</issue>): <fpage>2221</fpage>&#x02013;<lpage>2224</lpage>. <pub-id pub-id-type="doi">10.1002/cbic.201402199</pub-id>.</mixed-citation></ref><ref id="mbt213335-bib-0005"><mixed-citation publication-type="journal" id="mbt213335-cit-0005">
+<string-name>
+<surname>Bradford</surname>, <given-names>M.M.</given-names>
+</string-name> (<year>1976</year>) <article-title>A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein&#x02010;dye binding</article-title>. <source xml:lang="en">Anal Biochem</source>
+<volume>72</volume>(<issue>s1&#x02013;2</issue>): <fpage>248</fpage>&#x02013;<lpage>254</lpage>.<pub-id pub-id-type="pmid">942051</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0006"><mixed-citation publication-type="journal" id="mbt213335-cit-0006">
+<string-name>
+<surname>Brencic</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Mcfarland</surname>, <given-names>K.A.</given-names>
+</string-name>, <string-name>
+<surname>Mcmanus</surname>, <given-names>H.R.</given-names>
+</string-name>, <string-name>
+<surname>Castang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mogno</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Dove</surname>, <given-names>S.L.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>The GacS/GacA signal transduction system of <italic>Pseudomonas aeruginosa</italic> acts exclusively through its control over the transcription of the RsmY and RsmZ regulatory small RNAs</article-title>. <source xml:lang="en">Mol Microbiol</source>
+<volume>73</volume>(<issue>3</issue>): <fpage>434</fpage>&#x02013;<lpage>445</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2958.2009.06782.x</pub-id>.<pub-id pub-id-type="pmid">19602144</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0007"><mixed-citation publication-type="journal" id="mbt213335-cit-0007">
+<string-name>
+<surname>Budzikiewicz</surname>, <given-names>H.</given-names>
+</string-name> (<year>1993</year>) <article-title>Secondary metabolites from fluorescent pseudomonads</article-title>. <source xml:lang="en">FEMS Microbiol Rev</source>
+<volume>10</volume>(<issue>3&#x02013;4</issue>): <fpage>209</fpage>&#x02013;<lpage>228</lpage>.<pub-id pub-id-type="pmid">8318257</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0008"><mixed-citation publication-type="journal" id="mbt213335-cit-0008">
+<string-name>
+<surname>Desnoues</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Carreno&#x02010;Lopez</surname>, <given-names>R.</given-names>
+</string-name>, and <string-name>
+<surname>Elmerich</surname>, <given-names>C.</given-names>
+</string-name> (<year>2003</year>) <article-title>Nitrogen fixation genetics and regulation in a <italic>Pseudomonas stutzeri</italic> strain associated with rice</article-title>. <source xml:lang="en">Microbiology</source>
+<volume>149</volume>(<issue>Pt 8</issue>): <fpage>2251</fpage>&#x02013;<lpage>2262</lpage>. <pub-id pub-id-type="doi">10.1099/mic.0.26270-0</pub-id>.<pub-id pub-id-type="pmid">12904565</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0009"><mixed-citation publication-type="journal" id="mbt213335-cit-0009">
+<string-name>
+<surname>Dixon</surname>, <given-names>R.A.</given-names>
+</string-name>, and <string-name>
+<surname>Postgate</surname>, <given-names>J.R.</given-names>
+</string-name> (<year>1971</year>) <article-title>Transfer of nitrogen&#x02010;fixation genes by conjugation in <italic>Klebsiella pneumoniae</italic>
+</article-title>. <source xml:lang="en">Nature</source>
+<volume>234</volume>(<issue>5323</issue>): <fpage>47</fpage>&#x02013;<lpage>48</lpage>.<pub-id pub-id-type="pmid">4942884</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0010"><mixed-citation publication-type="journal" id="mbt213335-cit-0010">
+<string-name>
+<surname>Fox</surname>, <given-names>A.R.</given-names>
+</string-name>, <string-name>
+<surname>Soto</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Valverde</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Russo</surname>, <given-names>D.</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Lagares</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Zorreguieta</surname>, <given-names>&#x000c1;.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Major cereal crops benefit from biological nitrogen fixation when inoculated with the nitrogen&#x02010;fixing bacterium <italic>Pseudomonas protegens</italic> pf&#x02010;5 x940</article-title>. <source xml:lang="en">Environ Microbiol</source>
+<volume>18</volume>(<issue>10</issue>): <fpage>3522</fpage>
+<pub-id pub-id-type="doi">10.1111/1462-2920.13376</pub-id>.<pub-id pub-id-type="pmid">27198923</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0011"><mixed-citation publication-type="journal" id="mbt213335-cit-0011">
+<string-name>
+<surname>Fu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wenzel</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>Perlova</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gross</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>Z.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>Efficient transfer of two large secondary metabolite pathway gene clusters into heterologous hosts by transposition</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>36</volume>(<issue>17</issue>): <fpage>e113</fpage>
+<pub-id pub-id-type="doi">10.1093/nar/gkn499</pub-id>.<pub-id pub-id-type="pmid">18701643</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0012"><mixed-citation publication-type="journal" id="mbt213335-cit-0012">
+<string-name>
+<surname>Fu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bian</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Seibert</surname>, <given-names>P.M.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>Full&#x02010;length rece enhances linear&#x02010;linear homologous recombination and facilitates direct cloning for bioprospecting</article-title>. <source xml:lang="en">Nature Biotechnol</source>
+<volume>30</volume>(<issue>5</issue>): <fpage>440</fpage>&#x02013;<lpage>446</lpage>. <pub-id pub-id-type="doi">10.1038/nbt.2183</pub-id>.<pub-id pub-id-type="pmid">22544021</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0013"><mixed-citation publication-type="journal" id="mbt213335-cit-0013">
+<string-name>
+<surname>Gooderham</surname>, <given-names>W.J.</given-names>
+</string-name>, and <string-name>
+<surname>Hancock</surname>, <given-names>R.E.</given-names>
+</string-name> (<year>2009</year>) <article-title>Regulation of virulence and antibiotic resistance by two&#x02010;component regulatory systems in <italic>Pseudomonas aeruginosa</italic>
+</article-title>. <source xml:lang="en">FEMS Microbiol Rev</source>
+<volume>33</volume>(<issue>2</issue>): <fpage>279</fpage>&#x02013;<lpage>294</lpage>. <pub-id pub-id-type="doi">10.1111/j.1574-6976.2008.00135.x</pub-id>.<pub-id pub-id-type="pmid">19243444</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0014"><mixed-citation publication-type="journal" id="mbt213335-cit-0014">
+<string-name>
+<surname>Goodman</surname>, <given-names>A.L.</given-names>
+</string-name>, <string-name>
+<surname>Kulasekara</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Rietsch</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Boyd</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>R.S.</given-names>
+</string-name>, and <string-name>
+<surname>Lory</surname>, <given-names>S.</given-names>
+</string-name> (<year>2004</year>) <article-title>A signaling network reciprocally regulates genes associated with acute infection and chronic persistence in <italic>Pseudomonas aeruginosa</italic>
+</article-title>. <source xml:lang="en">Dev Cell</source>
+<volume>7</volume>(<issue>5</issue>): <fpage>745</fpage>&#x02013;<lpage>754</lpage>. <pub-id pub-id-type="doi">10.1016/j.devcel.2004.08.020</pub-id>.<pub-id pub-id-type="pmid">15525535</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0015"><mixed-citation publication-type="journal" id="mbt213335-cit-0015">
+<string-name>
+<surname>Haas</surname>, <given-names>D.</given-names>
+</string-name>, and <string-name>
+<surname>D&#x000e9;fago</surname>, <given-names>G.</given-names>
+</string-name> (<year>2005</year>) <article-title>Biological control of soil&#x02010;borne pathogens by fluorescent pseudomonads</article-title>. <source xml:lang="en">Nat Rev Microbiol</source>
+<volume>3</volume>(<issue>4</issue>): <fpage>307</fpage>&#x02013;<lpage>319</lpage>. <pub-id pub-id-type="doi">10.1038/nrmicro1129</pub-id>.<pub-id pub-id-type="pmid">15759041</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0016"><mixed-citation publication-type="journal" id="mbt213335-cit-0016">
+<string-name>
+<surname>Howell</surname>, <given-names>C.R.</given-names>
+</string-name>, and <string-name>
+<surname>Stipanovic</surname>, <given-names>R.D.</given-names>
+</string-name> (<year>1979</year>) <article-title>Control of <italic>Rhizoctonia solani</italic> on cotton seedlings with <italic>Pseudomonas fluorescens</italic> and with an antibiotic produced by the bacterium</article-title>. <source xml:lang="en">Phytopathology</source>
+<volume>69</volume>: <fpage>480</fpage>&#x02013;<lpage>482</lpage>. <pub-id pub-id-type="doi">10.1094/Phyto-69-480</pub-id>.</mixed-citation></ref><ref id="mbt213335-bib-0017"><mixed-citation publication-type="journal" id="mbt213335-cit-0017">
+<string-name>
+<surname>Howell</surname>, <given-names>C.R.</given-names>
+</string-name>, and <string-name>
+<surname>Stipanovic</surname>, <given-names>R.D.</given-names>
+</string-name> (<year>1980</year>) <article-title>Suppression of <italic>Pythium ultimium</italic> induced damping off of cotton seedlings by <italic>Pseudomonas fluorescens</italic> and its antibiotic pyoluterin</article-title>. <source xml:lang="en">Phytopathology</source>
+<volume>70</volume>: <fpage>712</fpage>&#x02013;<lpage>715</lpage>. <pub-id pub-id-type="doi">10.1094/Phyto-70-712</pub-id>.</mixed-citation></ref><ref id="mbt213335-bib-0018"><mixed-citation publication-type="journal" id="mbt213335-cit-0018">
+<string-name>
+<surname>Humair</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#x000e1;lez</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Mossialos</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Reimmann</surname>, <given-names>C.</given-names>
+</string-name>, and <string-name>
+<surname>Haas</surname>, <given-names>D.</given-names>
+</string-name> (<year>2009</year>) <article-title>Temperature&#x02010;responsive sensing regulates biocontrol factor expression in <italic>Pseudomonas fluorescens</italic> CHA0</article-title>. <source xml:lang="en">ISME J</source>
+<volume>3</volume>(<issue>8</issue>): <fpage>955</fpage>&#x02013;<lpage>965</lpage>. <pub-id pub-id-type="doi">10.1038/ismej.2009.42</pub-id>.<pub-id pub-id-type="pmid">19421236</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0019"><mixed-citation publication-type="journal" id="mbt213335-cit-0019">
+<string-name>
+<surname>Kay</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Dubuis</surname>, <given-names>C.</given-names>
+</string-name>, and <string-name>
+<surname>Haas</surname>, <given-names>D.</given-names>
+</string-name> (<year>2005</year>) <article-title>Three small RNAs jointly ensure secondary metabolism and biocontrol in <italic>Pseudomonas fluorescens</italic> CHA0</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<volume>102</volume>(<issue>47</issue>): <fpage>17136</fpage>&#x02013;<lpage>17141</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0505673102</pub-id>.<pub-id pub-id-type="pmid">16286659</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0020"><mixed-citation publication-type="journal" id="mbt213335-cit-0020">
+<string-name>
+<surname>Khalid</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Arshad</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name>
+<surname>Zahir</surname>, <given-names>Z.A.</given-names>
+</string-name> (<year>2004</year>) <article-title>Screening plant growth&#x02010;promoting rhizobacteria for improving growth and yield of wheat</article-title>. <source xml:lang="en">J Appl Microbiol</source>
+<volume>96</volume>(<issue>3</issue>): <fpage>473</fpage>&#x02013;<lpage>480</lpage>.<pub-id pub-id-type="pmid">14962127</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0021"><mixed-citation publication-type="journal" id="mbt213335-cit-0021">
+<string-name>
+<surname>Khalid</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Arshad</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Shaharoona</surname>, <given-names>B.</given-names>
+</string-name>, and <string-name>
+<surname>Mahmood</surname>, <given-names>T.</given-names>
+</string-name> (<year>2013</year>) <article-title>Plant growth promoting rhizobacteria and sustainable agriculture</article-title>. <source xml:lang="en">Microbial Strategies Crop Improv</source>
+<volume>7</volume>: <fpage>133</fpage>&#x02013;<lpage>160</lpage>.</mixed-citation></ref><ref id="mbt213335-bib-0022"><mixed-citation publication-type="journal" id="mbt213335-cit-0022">
+<string-name>
+<surname>Kim</surname>, <given-names>Y.C.</given-names>
+</string-name>, <string-name>
+<surname>Leveau</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>McSpadden Gardener</surname>, <given-names>B.B.</given-names>
+</string-name>, <string-name>
+<surname>Pierson</surname>, <given-names>E.A.</given-names>
+</string-name>, and <string-name>
+<surname>Ryu</surname>, <given-names>C.M.</given-names>
+</string-name> (<year>2011</year>) <article-title>The multifactorial basis for plant health promotion by plant&#x02010;associated bacteria</article-title>. <source xml:lang="en">Appl Environ Microbiol</source>
+<volume>77</volume>(<issue>5</issue>): <fpage>1548</fpage>&#x02013;<lpage>1555</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.01867-10</pub-id>.<pub-id pub-id-type="pmid">21216911</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0023"><mixed-citation publication-type="journal" id="mbt213335-cit-0023">
+<string-name>
+<surname>Kraus</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<surname>Loper</surname>, <given-names>J.E.</given-names>
+</string-name> (<year>1992</year>) <article-title>Lack of evidence for a role of antifungal metabolite production by <italic>Pseudomonas fluorescens</italic> Pf&#x02010;5 in biological control of <italic>Pythium</italic> damping&#x02010;off of cucumber</article-title>. <source xml:lang="en">Phytopathology</source>
+<volume>82</volume>: <fpage>264</fpage>&#x02013;<lpage>271</lpage>. <pub-id pub-id-type="doi">10.1094/Phyto-82-264</pub-id>.</mixed-citation></ref><ref id="mbt213335-bib-0024"><mixed-citation publication-type="journal" id="mbt213335-cit-0024">
+<string-name>
+<surname>Lapouge</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Schubert</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Allain</surname>, <given-names>F.H.</given-names>
+</string-name>, and <string-name>
+<surname>Haas</surname>, <given-names>D.</given-names>
+</string-name> (<year>2008</year>) <article-title>Gac/Rsm signal transduction pathway of &#x003b3;&#x02010;proteobacteria: from RNA recognition to regulation of social behaviour</article-title>. <source xml:lang="en">Mol Microbiol</source>
+<volume>67</volume>(<issue>2</issue>): <fpage>241</fpage>&#x02013;<lpage>253</lpage>.<pub-id pub-id-type="pmid">18047567</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0025"><mixed-citation publication-type="journal" id="mbt213335-cit-0025">
+<string-name>
+<surname>Laskowski</surname>, <given-names>M.A.</given-names>
+</string-name>, and <string-name>
+<surname>Kazmierczak</surname>, <given-names>B.I.</given-names>
+</string-name> (<year>2006</year>) <article-title>Mutational analysis of RetS, an unusual sensor kinase&#x02010;response regulator hybrid required for <italic>Pseudomonas aeruginosa</italic> virulence</article-title>. <source xml:lang="en">Infect Immun</source>
+<volume>74</volume>(<issue>8</issue>): <fpage>4462</fpage>&#x02013;<lpage>4473</lpage>. <pub-id pub-id-type="doi">10.1128/IAI.00575-06</pub-id>.<pub-id pub-id-type="pmid">16861632</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0026"><mixed-citation publication-type="journal" id="mbt213335-cit-0026">
+<string-name>
+<surname>Loper</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Henkels</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Shaffer</surname>, <given-names>B.T.</given-names>
+</string-name>, <string-name>
+<surname>Valeriote</surname>, <given-names>F.A.</given-names>
+</string-name>, and <string-name>
+<surname>Gross</surname>, <given-names>H.</given-names>
+</string-name> (<year>2008</year>) <article-title>Isolation and identification of rhizoxin analogs from <italic>Pseudomonas fluorescens</italic> Pf&#x02010;5 by using a genomic mining strategy</article-title>. <source xml:lang="en">Appl Environ Microbiol</source>
+<volume>74</volume>(<issue>10</issue>): <fpage>3085</fpage>&#x02013;<lpage>3093</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.02848-07</pub-id>.<pub-id pub-id-type="pmid">18344330</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0027"><mixed-citation publication-type="journal" id="mbt213335-cit-0027">
+<string-name>
+<surname>Lopes</surname>, <given-names>L.D.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>N.E.</given-names>
+</string-name>, <string-name>
+<surname>Pereira</surname>, <given-names>M.E.S.</given-names>
+</string-name>, <string-name>
+<surname>Weisberg</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Bresciani</surname>, <given-names>L.</given-names>
+</string-name>, and <string-name>
+<surname>Chang</surname>, <given-names>J.H.</given-names>
+</string-name> (<year>2017</year>) <article-title>Tropical soils are a reservoir for fluorescent pseudomonas spp. biodiversity</article-title>. <source xml:lang="en">Environ Microbiol</source>
+<volume>20</volume>(<issue>1</issue>): <fpage>62</fpage>&#x02013;<lpage>74</lpage>.<pub-id pub-id-type="pmid">29027341</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0028"><mixed-citation publication-type="journal" id="mbt213335-cit-0028">
+<string-name>
+<surname>Lopes</surname>, <given-names>L.D.</given-names>
+</string-name>, <string-name>
+<surname>Silva</surname>, <given-names>M.D.C.P.E.</given-names>
+</string-name>, <string-name>
+<surname>Weisberg</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>E.W.</given-names>
+</string-name>, and <string-name>
+<surname>Andreote</surname>, <given-names>F.D.</given-names>
+</string-name> (<year>2018</year>) <article-title>Genome variations between rhizosphere and bulk soil ecotypes of a <italic>Pseudomonas koreensis</italic> population: ecology of <italic>P. koreensis</italic> in soil habitats</article-title>. <source xml:lang="en">Environ Microbiol</source> [Epub ahead of print] doi: <pub-id pub-id-type="doi">10.1111/1462-2920.14363</pub-id>.</mixed-citation></ref><ref id="mbt213335-bib-0029"><mixed-citation publication-type="journal" id="mbt213335-cit-0029">
+<string-name>
+<surname>Lugtenberg</surname>, <given-names>B.</given-names>
+</string-name>, and <string-name>
+<surname>Kamilova</surname>, <given-names>F.</given-names>
+</string-name> (<year>2009</year>) <article-title>Plant&#x02010;growth&#x02010;promoting rhizobacteria</article-title>. <source xml:lang="en">Annu Rev Microbiol</source>
+<volume>63</volume>: <fpage>541</fpage>&#x02013;<lpage>556</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.micro.62.081307.162918</pub-id>.<pub-id pub-id-type="pmid">19575558</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0030"><mixed-citation publication-type="journal" id="mbt213335-cit-0030">
+<string-name>
+<surname>Nowak&#x02010;Thompson</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Gould</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kraus</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<surname>Loper</surname>, <given-names>J.E.</given-names>
+</string-name> (<year>1994</year>) <article-title>Production of 2, 4&#x02010;diacetylphloroglucinol by the biocontrol agent <italic>Pseudomonas fluorescens</italic> Pf&#x02010;5</article-title>. <source xml:lang="en">Can J Microbiol</source>
+<volume>40</volume>: <fpage>1064</fpage>&#x02013;<lpage>1066</lpage>. <pub-id pub-id-type="doi">10.1139/m94-168</pub-id>.</mixed-citation></ref><ref id="mbt213335-bib-0031"><mixed-citation publication-type="journal" id="mbt213335-cit-0031">
+<string-name>
+<surname>Pandin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Coq</surname>, <given-names>D.L.</given-names>
+</string-name>, <string-name>
+<surname>Canette</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Aymerich</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name>
+<surname>Briandet</surname>, <given-names>R.</given-names>
+</string-name> (<year>2017</year>) <article-title>Should the biofilm mode of life be taken into consideration for microbial biocontrol agents?</article-title>
+<source xml:lang="en">Microbial Biotechnol</source>
+<volume>10</volume>(<issue>4</issue>): <fpage>719</fpage>&#x02013;<lpage>734</lpage>.</mixed-citation></ref><ref id="mbt213335-bib-0032"><mixed-citation publication-type="journal" id="mbt213335-cit-0032">
+<string-name>
+<surname>Paulsen</surname>, <given-names>I.T.</given-names>
+</string-name>, <string-name>
+<surname>Press</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Ravel</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>, <given-names>D.Y.</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>, <given-names>G.S.A.</given-names>
+</string-name>, <string-name>
+<surname>Mavrodi</surname>, <given-names>D.V.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2005</year>) <article-title>Complete genome sequence of the plant commensal <italic>Pseudomonas fluorescens</italic> pf&#x02010;5</article-title>. <source xml:lang="en">Nature Biotechnol</source>
+<volume>23</volume>(<issue>7</issue>): <fpage>873</fpage>&#x02013;<lpage>878</lpage>. <pub-id pub-id-type="doi">10.1038/nbt1110</pub-id>.<pub-id pub-id-type="pmid">15980861</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0033"><mixed-citation publication-type="journal" id="mbt213335-cit-0033">
+<string-name>
+<surname>Pena</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Busquets</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gomila</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mayol</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bosch</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Nogales</surname>, <given-names>B.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Draft genome of <italic>Pseudomonas stutzeri</italic> Strain NF13, a nitrogen fixer isolated from the galapagos rift hydrothermal vent</article-title>. <source xml:lang="en">Genome Announc</source>
+<volume>1</volume>(<issue>2</issue>): <fpage>e0011313</fpage>
+<pub-id pub-id-type="doi">10.1128/genomeA.00113-13</pub-id>.<pub-id pub-id-type="pmid">23516224</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0034"><mixed-citation publication-type="journal" id="mbt213335-cit-0034">
+<string-name>
+<surname>Philmus</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Shaffer</surname>, <given-names>B.T.</given-names>
+</string-name>, <string-name>
+<surname>Kidarsa</surname>, <given-names>T.A.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Raaijmakers</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Begley</surname>, <given-names>T.P.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Investigations into the biosynthesis, regulation, and self&#x02010;resistance of toxoflavin in <italic>Pseudomonas protegens</italic> Pf&#x02010;5</article-title>. <source xml:lang="en">ChemBioChem</source>
+<volume>16</volume>(<issue>12</issue>): <fpage>1782</fpage>&#x02013;<lpage>1790</lpage>. <pub-id pub-id-type="doi">10.1002/cbic.201500247</pub-id>.<pub-id pub-id-type="pmid">26077901</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0035"><mixed-citation publication-type="journal" id="mbt213335-cit-0035">
+<string-name>
+<surname>Quecine</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Kidarsa</surname>, <given-names>T.A.</given-names>
+</string-name>, <string-name>
+<surname>Goebel</surname>, <given-names>N.C.</given-names>
+</string-name>, <string-name>
+<surname>Shaffer</surname>, <given-names>B.T.</given-names>
+</string-name>, <string-name>
+<surname>Henkels</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Zabriskie</surname>, <given-names>T.M.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>An interspecies signaling system mediated by fusaric acid has parallel effects on antifungal metabolite production by <italic>Pseudomonas protegens</italic> strain Pf&#x02010;5 and antibiosis of <italic>Fusarium spp</italic>
+</article-title>. <source xml:lang="en">Appl Environ Microbiol</source>
+<volume>82</volume>(<issue>5</issue>): <fpage>1372</fpage>&#x02013;<lpage>1382</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.02574-15</pub-id>.<pub-id pub-id-type="pmid">26655755</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0036"><mixed-citation publication-type="journal" id="mbt213335-cit-0036">
+<string-name>
+<surname>Reimmann</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Valverde</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kay</surname>, <given-names>E.</given-names>
+</string-name>, and <string-name>
+<surname>Haas</surname>, <given-names>D.</given-names>
+</string-name> (<year>2005</year>) <article-title>Posttranscriptional repression of GacS/GacA&#x02010;controlled genes by the RNA&#x02010;binding protein RsmE acting together with RsmA in the biocontrol strain <italic>Pseudomonas fluorescens</italic> CHA0</article-title>. <source xml:lang="en">J Bacteriol</source>
+<volume>187</volume>(<issue>1</issue>): <fpage>276</fpage>&#x02013;<lpage>285</lpage>. <pub-id pub-id-type="doi">10.1128/JB.187.1.276-285.2005</pub-id>.<pub-id pub-id-type="pmid">15601712</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0037"><mixed-citation publication-type="journal" id="mbt213335-cit-0037">
+<string-name>
+<surname>Rodriguez</surname>, <given-names>F.</given-names>
+</string-name>, and <string-name>
+<surname>Pfender</surname>, <given-names>W.F.</given-names>
+</string-name> (<year>1997</year>) <article-title>Antibiosis and antagonism of <italic>Sclerotinia homoeocarpa</italic> and <italic>Drechslera poae</italic> by <italic>Pseudomonas fluorescens</italic> Pf&#x02010;5 in&#x000a0;vitro and in planta</article-title>. <source xml:lang="en">Phytopathology</source>
+<volume>87</volume>: <fpage>614</fpage>&#x02013;<lpage>621</lpage>. <pub-id pub-id-type="doi">10.1094/PHYTO.1997.87.6.614</pub-id>.<pub-id pub-id-type="pmid">18945079</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0038"><mixed-citation publication-type="journal" id="mbt213335-cit-0038">
+<string-name>
+<surname>Ryu</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Farag</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>C.H.</given-names>
+</string-name>, <string-name>
+<surname>Reddy</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Kloepper</surname>, <given-names>J.W.</given-names>
+</string-name>, and <string-name>
+<surname>Par&#x000e9;</surname>, <given-names>P.W.</given-names>
+</string-name> (<year>2004</year>) <article-title>Bacterial volatiles induce systemic resistance in <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Plant Physiol</source>
+<volume>134</volume>(<issue>3</issue>): <fpage>1017</fpage>&#x02013;<lpage>1026</lpage>. <pub-id pub-id-type="doi">10.1104/pp.103.026583</pub-id>.<pub-id pub-id-type="pmid">14976231</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0040"><mixed-citation publication-type="journal" id="mbt213335-cit-0040">
+<string-name>
+<surname>Setten</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Soto</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Mozzicafreddo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>, <given-names>A.R.</given-names>
+</string-name>, <string-name>
+<surname>Lisi</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Cuccioloni</surname>, <given-names>M.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Engineering <italic>Pseudomonas protegens</italic> Pf&#x02010;5 for nitrogen fixation and its application to improve plant growth under nitrogen&#x02010;deficient conditions</article-title>. <source xml:lang="en">PLoS ONE</source>
+<volume>8</volume>(<issue>5</issue>): <fpage>e63666</fpage>
+<pub-id pub-id-type="doi">10.1371/annotation/279fe0d7-d9b1-4d05-a45a-5ff00b4606b7</pub-id>.<pub-id pub-id-type="pmid">23675499</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0041"><mixed-citation publication-type="journal" id="mbt213335-cit-0041">
+<string-name>
+<surname>Sexton</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Glover</surname>, <given-names>R.C.</given-names>
+</string-name>, <string-name>
+<surname>Loper</surname>, <given-names>J.E.</given-names>
+</string-name>, and <string-name>
+<surname>Schuster</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>) <article-title>Pseudomonas protegens pf&#x02010;5 favours self&#x02010;produced siderophore over free&#x02010;loading in interspecies competition for iron</article-title>. <source xml:lang="en">Environ Microbiol</source>
+<volume>19</volume>(<issue>9</issue>): <fpage>3514</fpage>.<pub-id pub-id-type="pmid">28631403</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0042"><mixed-citation publication-type="journal" id="mbt213335-cit-0042">
+<string-name>
+<surname>Valverde</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Heeb</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Keel</surname>, <given-names>C.</given-names>
+</string-name>, and <string-name>
+<surname>Haas</surname>, <given-names>D.</given-names>
+</string-name> (<year>2003</year>) <article-title>RsmY, a small regulatory RNA, is required in concert with RsmZ for GacA&#x02010;dependent expression of biocontrol traits in <italic>Pseudomonas fluorescens</italic> CHA0</article-title>. <source xml:lang="en">Mol Microbiol</source>
+<volume>50</volume>(<issue>4</issue>): <fpage>1361</fpage>&#x02013;<lpage>1379</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2958.2003.03774.x</pub-id>.<pub-id pub-id-type="pmid">14622422</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0043"><mixed-citation publication-type="journal" id="mbt213335-cit-0043">
+<string-name>
+<surname>Venieraki</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Dimou</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pergalis</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Kefalogianni</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Chatzipavlidis</surname>, <given-names>I.</given-names>
+</string-name>, and <string-name>
+<surname>Katinakis</surname>, <given-names>P.</given-names>
+</string-name> (<year>2011</year>) <article-title>The genetic diversity of culturable nitrogen&#x02010;fixing bacteria in the rhizosphere of wheat</article-title>. <source xml:lang="en">Microb Ecol</source>
+<volume>61</volume>(<issue>2</issue>): <fpage>277</fpage>&#x02013;<lpage>285</lpage>. <pub-id pub-id-type="doi">10.1007/s00248-010-9747-x</pub-id>.<pub-id pub-id-type="pmid">20857096</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0044"><mixed-citation publication-type="journal" id="mbt213335-cit-0044">
+<string-name>
+<surname>Venieraki</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Dimou</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vezyri</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Vamvakas</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Katinaki</surname>, <given-names>P.A.</given-names>
+</string-name>, <string-name>
+<surname>Chatzipavlidis</surname>, <given-names>I.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>The nitrogen&#x02010;fixation island insertion site is conserved in diazotrophic <italic>Pseudomonas stutzeri</italic> and <italic>Pseudomonas</italic> sp. isolated from distal and close geographical regions</article-title>. <source xml:lang="en">PLoS ONE</source>
+<volume>9</volume>(<issue>9</issue>): <fpage>e105837</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0105837</pub-id>
+<pub-id pub-id-type="pmid">25251496</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0045"><mixed-citation publication-type="journal" id="mbt213335-cit-0045">
+<string-name>
+<surname>Vessey</surname>, <given-names>J.K.</given-names>
+</string-name> (<year>2003</year>) <article-title>Plant growth promoting rhizobacteria as biofertilizers</article-title>. <source xml:lang="en">Plant Soil</source>
+<volume>255</volume>(<issue>2</issue>): <fpage>571</fpage>&#x02013;<lpage>586</lpage>. <pub-id pub-id-type="doi">10.1023/a:1026037216893</pub-id>.</mixed-citation></ref><ref id="mbt213335-bib-0046"><mixed-citation publication-type="journal" id="mbt213335-cit-0046">
+<string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zhen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Bian</surname>, <given-names>X.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>RecET direct cloning and red&#x003b1;&#x003b2; recombineering of biosynthetic gene clusters, large operons or single genes for heterologous expression</article-title>. <source xml:lang="en">Nature Protoc</source>
+<volume>11</volume>(<issue>7</issue>): <fpage>1175</fpage>
+<pub-id pub-id-type="doi">10.1038/nprot.2016.054</pub-id>.<pub-id pub-id-type="pmid">27254463</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0047"><mixed-citation publication-type="journal" id="mbt213335-cit-0047">
+<string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>L.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Exocet: exonuclease in&#x000a0;vitro assembly combined with recet recombination for highly efficient direct dna cloning from complex genomes</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>46</volume>: <fpage>e28</fpage>
+<pub-id pub-id-type="doi">10.1093/nar/gkx1296</pub-id>.</mixed-citation></ref><ref id="mbt213335-bib-0048"><mixed-citation publication-type="journal" id="mbt213335-cit-0048">
+<string-name>
+<surname>Weber</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kai</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Duddela</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Krug</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>H.U.</given-names>
+</string-name>, <string-name>
+<surname>Bruccoleri</surname>, <given-names>R.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Antismash 3.0&#x02014;A comprehensive resource for the genome mining of biosynthetic gene clusters</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>43</volume>(<issue>W1</issue>): <fpage>W237</fpage>
+<pub-id pub-id-type="doi">10.1093/nar/gkv437</pub-id>
+<pub-id pub-id-type="pmid">25948579</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0049"><mixed-citation publication-type="journal" id="mbt213335-cit-0049">
+<string-name>
+<surname>Workentine</surname>, <given-names>M.L.</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ceri</surname>, <given-names>H.</given-names>
+</string-name>, and <string-name>
+<surname>Turner</surname>, <given-names>R.J.</given-names>
+</string-name> (<year>2009</year>) <article-title>The GacS&#x02010;GacA two&#x02010;component regulatory system of <italic>Pseudomonas fluorescens</italic>: a bacterial two&#x02010;hybrid analysis</article-title>. <source xml:lang="en">FEMS Microbiol Lett</source>
+<volume>292</volume>(<issue>1</issue>): <fpage>50</fpage>&#x02013;<lpage>56</lpage>. <pub-id pub-id-type="doi">10.1111/j.1574-6968.2008.01445.x</pub-id>.<pub-id pub-id-type="pmid">19191877</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0050"><mixed-citation publication-type="journal" id="mbt213335-cit-0050">
+<string-name>
+<surname>Xie</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Mo</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>L.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>A rifampicin&#x02010;resistant (rpoB) mutation in <italic>Pseudomonas protegens</italic> Pf&#x02010;5 strain leads to improved antifungal activity and elevated production of secondary metabolites</article-title>. <source xml:lang="en">Res Microbiol</source>
+<volume>167</volume>(<issue>8</issue>): <fpage>625</fpage>&#x02013;<lpage>629</lpage>. <pub-id pub-id-type="doi">10.1016/j.resmic.2016.05.001</pub-id>.<pub-id pub-id-type="pmid">27208659</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0051"><mixed-citation publication-type="journal" id="mbt213335-cit-0051">
+<string-name>
+<surname>Xu</surname>, <given-names>G.W.</given-names>
+</string-name>, and <string-name>
+<surname>Gross</surname>, <given-names>D.C.</given-names>
+</string-name> (<year>1986</year>) <article-title>Selection of fluorescent pseudomonads antagonistic to <italic>Erwinia carotovora</italic> and suppressive of potato seed piece decay</article-title>. <source xml:lang="en">Phytopathology</source>
+<volume>76</volume>: <fpage>414</fpage>&#x02013;<lpage>422</lpage>. <pub-id pub-id-type="doi">10.1094/Phyto-76-414</pub-id>.</mixed-citation></ref><ref id="mbt213335-bib-0052"><mixed-citation publication-type="journal" id="mbt213335-cit-0052">
+<string-name>
+<surname>Yan</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dou</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ping</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>, <given-names>J.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>Nitrogen fixation island and rhizosphere competence traits in the genome of root&#x02010;associated <italic>Pseudomonas stutzeri</italic> a1501</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<volume>105</volume>(<issue>21</issue>): <fpage>7564</fpage>
+<pub-id pub-id-type="doi">10.1073/pnas.0801093105</pub-id> Epub 2008 May 21.<pub-id pub-id-type="pmid">18495935</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0053"><mixed-citation publication-type="journal" id="mbt213335-cit-0053">
+<string-name>
+<surname>Yin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Hoffmann</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hoffmann</surname>, <given-names>M.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>A new recombineering system for <italic>Photorhabdus</italic> and <italic>Xenorhabdus</italic>
+</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>43</volume>(<issue>6</issue>): <fpage>e36</fpage>
+<pub-id pub-id-type="doi">10.1093/nar/gku1336</pub-id> Epub 2014 Dec 24.<pub-id pub-id-type="pmid">25539914</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0054"><mixed-citation publication-type="journal" id="mbt213335-cit-0054">
+<string-name>
+<surname>Yu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dai</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Q.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>Complete genome sequence of the nitrogen&#x02010;fixing and rhizosphere&#x02010;associated bacterium <italic>Pseudomonas stutzeri</italic> strain DSM4166</article-title>. <source xml:lang="en">J Bacteriol</source>
+<volume>193</volume>(<issue>13</issue>): <fpage>3422</fpage>&#x02013;<lpage>3423</lpage>. <pub-id pub-id-type="doi">10.1128/JB.05039-11</pub-id>.<pub-id pub-id-type="pmid">21515765</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0055"><mixed-citation publication-type="journal" id="mbt213335-cit-0055">
+<string-name>
+<surname>Yu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Jing</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zhong</surname>, <given-names>L.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title>Recombineering <italic>Pseudomonas protegens</italic> CHA0: an innovative approach that improves nitrogen fixation with impressive bactericidal potency</article-title>. <source xml:lang="en">Microbiol Res</source>
+<volume>218</volume>: <fpage>58</fpage>&#x02013;<lpage>65</lpage>.<pub-id pub-id-type="pmid">30454659</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0056"><mixed-citation publication-type="journal" id="mbt213335-cit-0056">
+<string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Buchholz</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Muyrers</surname>, <given-names>J.P.P.</given-names>
+</string-name>, and <string-name>
+<surname>Stewart</surname>, <given-names>A.F.</given-names>
+</string-name> (<year>1998</year>) <article-title>A new logic for DNA engineering using recombination in <italic>Escherichia coli</italic>
+</article-title>. <source xml:lang="en">Nat Genet</source>
+<volume>20</volume>(<issue>2</issue>): <fpage>123</fpage>
+<pub-id pub-id-type="doi">10.1038/2417</pub-id>.<pub-id pub-id-type="pmid">9771703</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0057"><mixed-citation publication-type="journal" id="mbt213335-cit-0057">
+<string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Muyrers</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Testa</surname>, <given-names>G.</given-names>
+</string-name>, and <string-name>
+<surname>Stewart</surname>, <given-names>A.F.</given-names>
+</string-name> (<year>2000</year>) <article-title>DNA cloning by homologous recombination in <italic>Escherichia coli</italic>
+</article-title>. <source xml:lang="en">Nature Biotechnol</source>
+<volume>18</volume>(<issue>12</issue>): <fpage>1314</fpage>
+<pub-id pub-id-type="doi">10.1038/82449</pub-id>.<pub-id pub-id-type="pmid">11101815</pub-id></mixed-citation></ref><ref id="mbt213335-bib-0058"><mixed-citation publication-type="journal" id="mbt213335-cit-0058">
+<string-name>
+<surname>Zhang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Tong</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>X.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Effect of <italic>retS</italic> gene on antibiotics production in <italic>Pseudomonas fluorescens</italic> FD6</article-title>. <source xml:lang="en">Microbiol Res</source>
+<volume>180</volume>: <fpage>23</fpage>&#x02013;<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1016/j.micres.2015.07.005</pub-id>.<pub-id pub-id-type="pmid">26505308</pub-id></mixed-citation></ref></ref-list></back></article>
