@@ -1,7 +1,0 @@
-biopython
-requests
-pandas
-numpy
-git+https://github.com/huggingface/transformers.git
-lxml
-bitsandbytes
