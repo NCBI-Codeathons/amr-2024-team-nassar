@@ -1,7 +1,7 @@
-# Team Project Name
+# Deciphering self-resistance genes in microbial biosynthetic gene clusters to combat AMR
 
 List of participants and affiliations:
-- Maaly Nassar (Team Leader)
+- Maaly Nassar, Elsevier, Cambridge, UK (Team Leader)
 - Parul Sharma, Emory University, Atlanta-GA, USA
 - Dae-young Kim, Children's National Hospital, Washington D.C., USA
 - Madeline Galac, NIAID BCBB, Washington DC, USA
