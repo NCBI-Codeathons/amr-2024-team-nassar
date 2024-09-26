@@ -1,0 +1,203 @@
+
+-Goal-
+Given a text document that is potentially relevant to this activity, first identify all entities needed from the text in order to capture the information and ideas in the text.
+Next, report all relationships among the identified entities.
+
+-Steps-
+1. Identify all entities. For each identified entity, extract the following information:
+- entity_name: Name of the entity, capitalized
+- entity_type: Suggest several labels or categories for the entity. The categories should not be specific, but should be as general as possible.
+- entity_description: Comprehensive description of the entity's attributes and activities
+Format each entity as ("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>)
+
+2. From the entities identified in step 1, identify all pairs of (source_entity, target_entity) that are *clearly related* to each other.
+For each pair of related entities, extract the following information:
+- source_entity: name of the source entity, as identified in step 1
+- target_entity: name of the target entity, as identified in step 1
+- relationship_description: explanation as to why you think the source entity and the target entity are related to each other
+- relationship_strength: a numeric score indicating strength of the relationship between the source entity and target entity
+Format each relationship as ("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+
+3. Return output in English as a single list of all the entities and relationships identified in steps 1 and 2. Use **{record_delimiter}** as the list delimiter.
+
+4. If you have to translate into English, just translate the descriptions, nothing else!
+
+5. When finished, output {completion_delimiter}.
+
+-Examples-
+######################
+
+Example 1:
+
+text:
+4). Detection of precursor PSOrn from the culture supernatant of phtQ- showed that PhtQ involved in the biosynthesis of PHTs with PSOrn and L-Ala- L-hArg as substrates. Accumulation of by-products Orn-Ala-hArg and Cit-Ala-hArg from the culture supernatants of wild type strains and certain gene in frame deletion mutants might be attributed to the substrate tolerance of PhtQ. We can not rule out the possibility that there are certain uncharacterized peptide ligases participated in the formation of Orn-Ala-hArg and/or Cit-Ala-hArg. PhtL might be involved in the biosynthetic steps of PSOrn with L-Orn as a close precursor. Based on the fact that there is a phtL gene homologous (agnD1 and agnD2) in the biosynthetic gene cluster of another phosphoramidate natural product Agrocin 84282930, we assume that phtL is related to the N-P bonds formation of PHTs. ArgK catalyzed the formation of Tripeptides Cit-Ala-hArg To extend our understanding about why such a great amount of by-products were accumulated, it is
+------------------------
+output:
+("entity"{tuple_delimiter}PHTQ{tuple_delimiter}GENE/PROTEIN{tuple_delimiter}PhtQ is involved in the biosynthesis of PHTs using PSOrn and L-Ala-L-hArg as substrates)
+{record_delimiter}
+("entity"{tuple_delimiter}PSORN{tuple_delimiter}COMPOUND{tuple_delimiter}PSOrn is a precursor involved in the biosynthesis of PHTs)
+{record_delimiter}
+("entity"{tuple_delimiter}L-ALA-L-HARG{tuple_delimiter}COMPOUND{tuple_delimiter}L-Ala-L-hArg is a substrate used in the biosynthesis of PHTs)
+{record_delimiter}
+("entity"{tuple_delimiter}ORN-ALA-HARG{tuple_delimiter}COMPOUND{tuple_delimiter}Orn-Ala-hArg is a by-product accumulated in the culture supernatants of wild type strains and certain gene deletion mutants)
+{record_delimiter}
+("entity"{tuple_delimiter}CIT-ALA-HARG{tuple_delimiter}COMPOUND{tuple_delimiter}Cit-Ala-hArg is a by-product accumulated in the culture supernatants of wild type strains and certain gene deletion mutants)
+{record_delimiter}
+("entity"{tuple_delimiter}PHTL{tuple_delimiter}GENE/PROTEIN{tuple_delimiter}PhtL might be involved in the biosynthetic steps of PSOrn with L-Orn as a close precursor)
+{record_delimiter}
+("entity"{tuple_delimiter}L-ORN{tuple_delimiter}COMPOUND{tuple_delimiter}L-Orn is a close precursor in the biosynthetic steps of PSOrn)
+{record_delimiter}
+("entity"{tuple_delimiter}AGND1{tuple_delimiter}GENE/PROTEIN{tuple_delimiter}AgnD1 is a gene homologous to phtL found in the biosynthetic gene cluster of Agrocin 84282930)
+{record_delimiter}
+("entity"{tuple_delimiter}AGND2{tuple_delimiter}GENE/PROTEIN{tuple_delimiter}AgnD2 is a gene homologous to phtL found in the biosynthetic gene cluster of Agrocin 84282930)
+{record_delimiter}
+("entity"{tuple_delimiter}AGROCIN 84282930{tuple_delimiter}COMPOUND{tuple_delimiter}Agrocin 84282930 is a phosphoramidate natural product with a biosynthetic gene cluster containing agnD1 and agnD2)
+{record_delimiter}
+("entity"{tuple_delimiter}ARGK{tuple_delimiter}GENE/PROTEIN{tuple_delimiter}ArgK catalyzes the formation of tripeptides Cit-Ala-hArg)
+{record_delimiter}
+("entity"{tuple_delimiter}TRIPEPTIDES CIT-ALA-HARG{tuple_delimiter}COMPOUND{tuple_delimiter}Tripeptides Cit-Ala-hArg are formed by the catalytic action of ArgK)
+{record_delimiter}
+("relationship"{tuple_delimiter}PHTQ{tuple_delimiter}PSORN{tuple_delimiter}PhtQ is involved in the biosynthesis of PHTs using PSOrn as a substrate{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}PHTQ{tuple_delimiter}L-ALA-L-HARG{tuple_delimiter}PhtQ is involved in the biosynthesis of PHTs using L-Ala-L-hArg as a substrate{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}PHTQ{tuple_delimiter}ORN-ALA-HARG{tuple_delimiter}Accumulation of Orn-Ala-hArg might be attributed to the substrate tolerance of PhtQ{tuple_delimiter}6)
+{record_delimiter}
+("relationship"{tuple_delimiter}PHTQ{tuple_delimiter}CIT-ALA-HARG{tuple_delimiter}Accumulation of Cit-Ala-hArg might be attributed to the substrate tolerance of PhtQ{tuple_delimiter}6)
+{record_delimiter}
+("relationship"{tuple_delimiter}PHTL{tuple_delimiter}PSORN{tuple_delimiter}PhtL might be involved in the biosynthetic steps of PSOrn{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}PHTL{tuple_delimiter}L-ORN{tuple_delimiter}PhtL might be involved in the biosynthetic steps of PSOrn with L-Orn as a close precursor{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}PHTL{tuple_delimiter}AGND1{tuple_delimiter}PhtL is homologous to AgnD1 found in the biosynthetic gene cluster of Agrocin 84282930{tuple_delimiter}6)
+{record_delimiter}
+("relationship"{tuple_delimiter}PHTL{tuple_delimiter}AGND2{tuple_delimiter}PhtL is homologous to AgnD2 found in the biosynthetic gene cluster of Agrocin 84282930{tuple_delimiter}6)
+{record_delimiter}
+("relationship"{tuple_delimiter}AGND1{tuple_delimiter}AGROCIN 84282930{tuple_delimiter}AgnD1 is part of the biosynthetic gene cluster of Agrocin 84282930{tuple_delimiter}6)
+{record_delimiter}
+("relationship"{tuple_delimiter}AGND2{tuple_delimiter}AGROCIN 84282930{tuple_delimiter}AgnD2 is part of the biosynthetic gene cluster of Agrocin 84282930{tuple_delimiter}6)
+{record_delimiter}
+("relationship"{tuple_delimiter}ARGK{tuple_delimiter}TRIPEPTIDES CIT-ALA-HARG{tuple_delimiter}ArgK catalyzes the formation of tripeptides Cit-Ala-hArg{tuple_delimiter}8)
+{completion_delimiter}
+#############################
+
+
+Example 2:
+
+text:
+, respectively. Amplification
+was performed using the Advantage GC2 polymerase enzyme (Clontech)
+and the following PCR conditions: initial denaturation at 95 °C
+for 3 min; 25 cycles at 94 °C for 30 s, 65–62 °C
+for 30 s, 68 °C for 35 s; final extension temperature at 68 °C
+for 5 min. Each PCR product was gel purified using the QIAquick gel
+extraction kit (Qiagen). Restriction digestion with NdeI/HindIII (New Englands Biolabs, NEB) followed by ligation using T4 DNA
+ligase (NEB) into a linearized dephosphorylated pET28a (Novagen) yielded
+pSECalU16, pSECalU17, and pSECalU19 for calU16, calU17, and calU19, respectively. Each
+plasmid was transformed into NEB DH5α chemically competent cells
+(NEB). Plasmids were purified using QIAprep Minispin kit (Qiagen).
+Each plasmid was verified by sequencing and subsequently transformed
+into the expression host BL21 (
+------------------------
+output:
+("entity"{tuple_delimiter}ADVANTAGE GC2 POLYMERASE ENZYME{tuple_delimiter}REAGENT{tuple_delimiter}A polymerase enzyme used for PCR amplification, provided by Clontech)
+{record_delimiter}
+("entity"{tuple_delimiter}CLONTECH{tuple_delimiter}ORGANIZATION{tuple_delimiter}The company that provides the Advantage GC2 polymerase enzyme)
+{record_delimiter}
+("entity"{tuple_delimiter}PCR{tuple_delimiter}TECHNIQUE{tuple_delimiter}Polymerase Chain Reaction, a method used to amplify DNA sequences)
+{record_delimiter}
+("entity"{tuple_delimiter}QIAQUICK GEL EXTRACTION KIT{tuple_delimiter}REAGENT{tuple_delimiter}A kit used for gel purification of PCR products, provided by Qiagen)
+{record_delimiter}
+("entity"{tuple_delimiter}QIAGEN{tuple_delimiter}ORGANIZATION{tuple_delimiter}The company that provides the QIAquick gel extraction kit and QIAprep Minispin kit)
+{record_delimiter}
+("entity"{tuple_delimiter}NDEI/HINDIII{tuple_delimiter}REAGENT{tuple_delimiter}Restriction enzymes used for digestion, provided by New England Biolabs)
+{record_delimiter}
+("entity"{tuple_delimiter}NEW ENGLAND BIOLABS{tuple_delimiter}ORGANIZATION{tuple_delimiter}The company that provides the NdeI/HindIII restriction enzymes and T4 DNA ligase)
+{record_delimiter}
+("entity"{tuple_delimiter}T4 DNA LIGASE{tuple_delimiter}REAGENT{tuple_delimiter}An enzyme used for ligation, provided by New England Biolabs)
+{record_delimiter}
+("entity"{tuple_delimiter}PET28A{tuple_delimiter}PLASMID{tuple_delimiter}A linearized dephosphorylated plasmid used for cloning)
+{record_delimiter}
+("entity"{tuple_delimiter}PSECALU16{tuple_delimiter}PLASMID{tuple_delimiter}A plasmid construct containing the calU16 gene)
+{record_delimiter}
+("entity"{tuple_delimiter}PSECALU17{tuple_delimiter}PLASMID{tuple_delimiter}A plasmid construct containing the calU17 gene)
+{record_delimiter}
+("entity"{tuple_delimiter}PSECALU19{tuple_delimiter}PLASMID{tuple_delimiter}A plasmid construct containing the calU19 gene)
+{record_delimiter}
+("entity"{tuple_delimiter}CALU16{tuple_delimiter}GENE{tuple_delimiter}A gene cloned into the pSECalU16 plasmid)
+{record_delimiter}
+("entity"{tuple_delimiter}CALU17{tuple_delimiter}GENE{tuple_delimiter}A gene cloned into the pSECalU17 plasmid)
+{record_delimiter}
+("entity"{tuple_delimiter}CALU19{tuple_delimiter}GENE{tuple_delimiter}A gene cloned into the pSECalU19 plasmid)
+{record_delimiter}
+("entity"{tuple_delimiter}NEB DH5α{tuple_delimiter}STRAIN{tuple_delimiter}A strain of chemically competent cells used for transformation, provided by New England Biolabs)
+{record_delimiter}
+("entity"{tuple_delimiter}QIAprep MINISPIN KIT{tuple_delimiter}REAGENT{tuple_delimiter}A kit used for plasmid purification, provided by Qiagen)
+{record_delimiter}
+("entity"{tuple_delimiter}BL21{tuple_delimiter}STRAIN{tuple_delimiter}An expression host strain used for protein expression)
+{record_delimiter}
+("relationship"{tuple_delimiter}ADVANTAGE GC2 POLYMERASE ENZYME{tuple_delimiter}CLONTECH{tuple_delimiter}Clontech provides the Advantage GC2 polymerase enzyme used in PCR{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}QIAQUICK GEL EXTRACTION KIT{tuple_delimiter}QIAGEN{tuple_delimiter}Qiagen provides the QIAquick gel extraction kit used for gel purification{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}NDEI/HINDIII{tuple_delimiter}NEW ENGLAND BIOLABS{tuple_delimiter}New England Biolabs provides the NdeI/HindIII restriction enzymes used for digestion{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}T4 DNA LIGASE{tuple_delimiter}NEW ENGLAND BIOLABS{tuple_delimiter}New England Biolabs provides the T4 DNA ligase used for ligation{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}PSECALU16{tuple_delimiter}CALU16{tuple_delimiter}The calU16 gene is cloned into the pSECalU16 plasmid{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}PSECALU17{tuple_delimiter}CALU17{tuple_delimiter}The calU17 gene is cloned into the pSECalU17 plasmid{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}PSECALU19{tuple_delimiter}CALU19{tuple_delimiter}The calU19 gene is cloned into the pSECalU19 plasmid{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}NEB DH5α{tuple_delimiter}NEW ENGLAND BIOLABS{tuple_delimiter}New England Biolabs provides the NEB DH5α strain used for transformation{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}QIAprep MINISPIN KIT{tuple_delimiter}QIAGEN{tuple_delimiter}Qiagen provides the QIAprep Minispin kit used for plasmid purification{tuple_delimiter}8)
+{record_delimiter}
+{completion_delimiter}
+#############################
+
+
+Example 3:
+
+text:
+ experiment. The result showed that LexR did not bind a probe of similar length from an unrelated promoter region (Fig. S1). Thus, the regulator LexR specifically binds to the promoter region of the lexQSABC operon. FIG 2LexR directly regulates LexABC expression. (A) The predicted promoter region of the lexQSABC operon. The putative −35 and −10 sequences are shaded. The putative binding site is shown in red. (B) SDS-PAGE results for the His-tagged, purified LexR (53.1 kDa). (C) EMSA results, showing binding of LexR to the lexQSABC promoter region in vitro. A 165-bp biotin-labeled probe (lex probe) was incubated with increasing amounts of LexR protein (concentrations are indicated). Lane1, 5 fmol labeled probe; lanes 2 to 5, 5 fmol labeled probe with different concentrations of LexR; lanes 6 and 7, 5 fmol labeled probe and different concentrations of unlabeled probe with LexR. LexR directly regulates LexABC expression. (A) The predicted promoter region of the lexQSABC oper
+------------------------
+output:
+("entity"{tuple_delimiter}LEXR{tuple_delimiter}PROTEIN, REGULATOR{tuple_delimiter}LexR is a protein that specifically binds to the promoter region of the lexQSABC operon and regulates LexABC expression)
+{record_delimiter}
+("entity"{tuple_delimiter}LEXQSABC OPERON{tuple_delimiter}GENETIC ELEMENT, OPERON{tuple_delimiter}The lexQSABC operon is a genetic element with a promoter region that is specifically bound by the LexR protein, leading to the regulation of LexABC expression)
+{record_delimiter}
+("entity"{tuple_delimiter}PROMOTER REGION{tuple_delimiter}GENETIC ELEMENT, DNA SEQUENCE{tuple_delimiter}The promoter region is a specific DNA sequence within the lexQSABC operon where the LexR protein binds to regulate gene expression)
+{record_delimiter}
+("entity"{tuple_delimiter}LEXABC{tuple_delimiter}GENE CLUSTER, PROTEIN COMPLEX{tuple_delimiter}LexABC is a set of genes within the lexQSABC operon whose expression is regulated by the LexR protein)
+{record_delimiter}
+("entity"{tuple_delimiter}SDS-PAGE{tuple_delimiter}TECHNIQUE, METHOD{tuple_delimiter}SDS-PAGE is a laboratory technique used to separate proteins based on their electrophoretic mobility, which was used to analyze the His-tagged, purified LexR protein)
+{record_delimiter}
+("entity"{tuple_delimiter}EMSA{tuple_delimiter}TECHNIQUE, METHOD{tuple_delimiter}EMSA (Electrophoretic Mobility Shift Assay) is a technique used to study protein-DNA interactions, which was used to show the binding of LexR to the lexQSABC promoter region in vitro)
+{record_delimiter}
+("entity"{tuple_delimiter}HIS-TAGGED PROTEIN{tuple_delimiter}PROTEIN, TAG{tuple_delimiter}A His-tagged protein is a protein that has been genetically modified to include a series of histidine residues, which facilitates purification and detection; in this case, it refers to the purified LexR protein)
+{record_delimiter}
+("relationship"{tuple_delimiter}LEXR{tuple_delimiter}LEXQSABC OPERON{tuple_delimiter}LexR specifically binds to the promoter region of the lexQSABC operon to regulate LexABC expression{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}LEXR{tuple_delimiter}PROMOTER REGION{tuple_delimiter}LexR binds to the promoter region of the lexQSABC operon{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}PROMOTER REGION{tuple_delimiter}LEXQSABC OPERON{tuple_delimiter}The promoter region is a part of the lexQSABC operon where LexR binds{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}LEXR{tuple_delimiter}LEXABC{tuple_delimiter}LexR regulates the expression of the LexABC genes within the lexQSABC operon{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}SDS-PAGE{tuple_delimiter}LEXR{tuple_delimiter}SDS-PAGE was used to analyze the His-tagged, purified LexR protein{tuple_delimiter}6)
+{record_delimiter}
+("relationship"{tuple_delimiter}EMSA{tuple_delimiter}LEXR{tuple_delimiter}EMSA was used to show the binding of LexR to the lexQSABC promoter region in vitro{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}HIS-TAGGED PROTEIN{tuple_delimiter}LEXR{tuple_delimiter}The LexR protein was purified and analyzed as a His-tagged protein{tuple_delimiter}6)
+{completion_delimiter}
+#############################
+
+
+
+-Real Data-
+######################
+text: {input_text}
+######################
+output:

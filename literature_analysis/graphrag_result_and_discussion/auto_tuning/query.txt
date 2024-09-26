@@ -1,0 +1,1 @@
+python -m graphrag.query --root . --method local "List name of all self-resistance genes"

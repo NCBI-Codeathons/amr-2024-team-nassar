@@ -3,6 +3,7 @@
 
 # MS GraphRAG Cache files
 **/cache/*
+**/lancedb/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

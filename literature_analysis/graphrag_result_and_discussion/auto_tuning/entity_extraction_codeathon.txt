@@ -1,0 +1,9 @@
+self-resistance-gene-protein
+self-resistance-compound
+self-resistance-type
+accession
+self-resistance-regulator,
+organism
+
+
+ These can include self-resistance-gene-protein, self-resistance-compound, self-resistance-type, accession, self-resistance-regulator, organism. Avoid creating sub-lists or combining entities within sub-lists. Do not provide any additional explanations, commentaries, or context. Your output should only contain the identified entities, not any additional information or interpretation.If the text does not contain any self-resistance-related entities, your output should be an empty list []."
