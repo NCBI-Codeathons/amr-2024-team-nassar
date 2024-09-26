@@ -1,28 +1,46 @@
 # Deciphering self-resistance genes in microbial biosynthetic gene clusters to combat AMR
 
-List of participants and affiliations:
+## Project Goals
+The objective of this project is to create a comprehensive dataset that encompasses self-resistance genes derived from microorganisms known for producing antitumor, antibacterial, and antiviral properties. These genes will be meticulously collected from both scientific publications and existing sequence databases. Utilizing the machine learning framework of [Emerald Biosynthetic Gene Clusters (BGCs)](https://gtr.ukri.org/projects?ref=BB%2FS009043%2F1#/tabOverview), we aim to construct a foundational dataset. This dataset will be rich in detail, featuring accession numbers for the self-resistance genes of microbes, the resistant compounds they produce, and the specific biological functions of those compounds.
+
+## Deliverables
+- ML classifier for AMR genes using NCBI pathogen dataset
+- Self-resistance microbial genes with their related accessions, self-resistance mechanisms, self-resistance compounds and microbes using few-shot LLM prompting and GraphRAG
+
+## Team Members
 - Maaly Nassar, Elsevier, Cambridge, UK (Team Leader)
 - Parul Sharma, Emory University, Atlanta-GA, USA
 - Dae-young Kim, Children's National Hospital, Washington D.C., USA
 - Madeline Galac, NIAID BCBB, Washington DC, USA
 - Brendan Jeffrey, NIAID BCBB, Corvallis, OR, USA
 
-## Project Goals
-
-Generate dataset of self-resistance genes with what up-/down-regulate them and train Machine Learning (ML) models to identify them in whole genomes
-
 ## Approach
 We selected a list of bacterial genomes to build our model on by focusing on the ESKAPE pathogens (*Enterococcus faecium, Staphylococcus aureus, Klebsiella 
-pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter spp.*) and those with complete genomes from the [NCBI Pathogen Detection Isolate Browser](https://www.ncbi.nlm.nih.gov/pathogens/isolates/) . The protein sequences in these genomes were then categorized as AMR or non-AMR using the [NCBI Pathogen Detection Microbial Browser for Identification of Genetic and Genomic Elements (MicroBIGG-E)](https://www.ncbi.nlm.nih.gov/pathogens/microbigge/). 
+pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter spp.*) and those with complete genomes from the [NCBI Pathogen Detection Isolate Browser](https://www.ncbi.nlm.nih.gov/pathogens/isolates/). The protein sequences in these genomes were then categorized as AMR or non-AMR using the [NCBI Pathogen Detection Microbial Browser for Identification of Genetic and Genomic Elements (MicroBIGG-E)](https://www.ncbi.nlm.nih.gov/pathogens/microbigge/). 
 
-## Results
+## Progress
+| Day  | Accomplishments |
+| ------------- | ------------- |
+| 2024/09/25| Finalized which genomes to get AMR genes from|
+| 2024/09/25| Determined how to get whole genome protein sequences from genomes of interest|
+| 2024/09/25| Sorted genes from the genomes of interest into AMR genes and non-AMR genes|
+
+
 
 ## Future Work
+
+
+
 
 ## NCBI Codeathon Disclaimer
 This software was created as part of an NCBI codeathon, a hackathon-style event focused on rapid innovation. While we encourage you to explore and adapt this code, please be aware that NCBI does not provide ongoing support for it.
 
 For general questions about NCBI software and tools, please visit: [NCBI Contact Page](https://www.ncbi.nlm.nih.gov/home/about/contact/)
+
+
+
+
+
 
 ## draft notes 
 
