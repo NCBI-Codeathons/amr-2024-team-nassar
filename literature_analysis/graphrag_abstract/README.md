@@ -1,4 +1,4 @@
-# GraphRAG with Abstract Section of Literatures
+# GraphRAG with Abstract Section of Literatures on Self-resistance Genes
 
 ![](graph.png)
 Bold green circle is the "self-resistance gene" node.
