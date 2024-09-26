@@ -1,5 +1,0 @@
-Methods Genome sequences Complete and published genome sequences of 211 anaerobic bacteria (Additional file
-1: Table S1) were obtained from the NCBI Refseq and draft genome repository. Analysis of anaerobe genomes Genomes were analyzed for the presence of RiPP encoding gene clusters by using the web-based bioinformatic tools antiSMASH
-[15, 16], Bagel and bactibase
-[17, 18]. Predicted gene clusters from each of the database outputs were inspected manually and compared using BLAST searches. Putative gene clusters were classified according to Arnison et al.
-[1] (antiSMASH data collected in April/ May 2012; Bagel database data collected in January 2014).
