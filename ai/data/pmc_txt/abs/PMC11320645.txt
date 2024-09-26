@@ -1,0 +1,15 @@
+ Fungi have historically been the source of numerous important
+medicinal
+compounds, but full exploitation of their genetic potential for drug
+development has been hampered in traditional discovery paradigms.
+Here we describe a radically different approach, top-down drug discovery
+(TD3), starting with a massive digital search through a
+database of over 100,000 fully genomicized fungi to identify loci
+encoding molecules with a predetermined human target. We exemplify
+TD3 by the selection of cyclin-dependent kinases (CDKs)
+as targets and the discovery of two molecules, 1 and 2, which inhibit therapeutically important human CDKs. 1 and 2 exhibit a remarkable mechanism, forming
+a site-selective covalent bond to the CDK active site Lys. We explored
+the structure–activity relationship via semi- and total synthesis,
+generating an analog, 43, with improved kinase selectivity,
+bioavailability, and efficacy. This work highlights the power of TD3 to identify mechanistically and structurally novel molecules
+for the development of new medicines.

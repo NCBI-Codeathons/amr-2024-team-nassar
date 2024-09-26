@@ -1,0 +1,767 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archivearticle1.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Microbiology (Reading)</journal-id><journal-id journal-id-type="iso-abbrev">Microbiology (Reading)</journal-id><journal-id journal-id-type="hwp">micro</journal-id><journal-id journal-id-type="publisher-id">micro</journal-id><journal-title-group><journal-title>Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1350-0872</issn><issn pub-type="epub">1465-2080</issn><publisher><publisher-name>Microbiology Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">10924459</article-id><article-id pub-id-type="pmid">38314762</article-id>
+<article-id pub-id-type="publisher-id">001427</article-id><article-id pub-id-type="doi">10.1099/mic.0.001427</article-id><article-categories><subj-group subj-group-type="heading"><subject>Microbial Virulence and Pathogenesis</subject></subj-group></article-categories><title-group><article-title>Current understandings of colibactin regulation</article-title><alt-title alt-title-type="recto-page-foot">
+<ext-link xlink:href="http://mic.microbiologyresearch.org" ext-link-type="uri">http://mic.microbiologyresearch.org</ext-link>
+</alt-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0005-0462-5627</contrib-id><name><surname>Addington</surname><given-names>Emily</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cor1" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7226-8848</contrib-id><name><surname>Sandalli</surname><given-names>Sofia</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3698-6134</contrib-id><name><surname>Roe</surname><given-names>Andrew J.</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><aff id="aff1">
+<label>
+<sup>1</sup>&#x0200b;</label>
+<institution content-type="department">School of Immunity and Inflammation, College of Medical, Veterinary and Life Sciences</institution>, <institution>University of Glasgow</institution>, <addr-line content-type="city">Scotland</addr-line>, <country>UK</country>
+</aff></contrib-group><author-notes><corresp id="cor1">
+<bold>*Correspondence:</bold> Emily Addington, <email xlink:href="mailto:emily.addington@glasgow.ac.uk">emily.addington@glasgow.ac.uk</email>
+</corresp></author-notes><pub-date pub-type="collection"><year>2024</year></pub-date><pub-date pub-type="epub"><day>5</day><month>2</month><year>2024</year></pub-date><pub-date pub-type="pmc-release"><day>5</day><month>2</month><year>2024</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>170</volume><issue>2</issue><elocation-id>001427</elocation-id><history>
+<date date-type="received"><day>30</day><month>10</month><year>2023</year></date>
+<date date-type="accepted"><day>12</day><month>1</month><year>2024</year></date>
+</history><permissions><copyright-statement>&#x000a9; 2024 The Authors</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License. This article was made open access via a Publish and Read agreement between the Microbiology Society and the corresponding author&#x02019;s institution.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="mic-170-1427.pdf"/><abstract abstract-type="graphical"><title>Graphical Abstract</title><p>
+<inline-graphic xlink:href="mic-170-1427-ilg001.jpg"/>
+</p></abstract><abstract><p>The biosynthetic machinery for the production of colibactin is encoded by 19 genes (<italic toggle="yes">clbA &#x02013; S</italic>) within the <italic toggle="yes">pks</italic> pathogenicity island harboured by many <italic toggle="yes">E. coli</italic> of the B2-phylogroup. Colibactin is a potent genotoxic metabolite which causes DNA-damage and which has potential roles in microbial competition and fitness of <italic toggle="yes">pks</italic>+ bacteria. Colibactin has also been strongly implicated in the development of colorectal cancer. Given the genotoxicity of colibactin and the metabolic cost of its synthesis, the regulatory system governing the <italic toggle="yes">clb</italic> cluster is accordingly highly complex, and many of the mechanisms remain to be elucidated. In this review we summarise the current understanding of regulation of colibactin biosynthesis by internal molecular components and how these factors are modulated by signals from the external environment.</p></abstract><kwd-group><kwd>colibactin</kwd><kwd>regulation</kwd><kwd>
+<italic toggle="yes">pks</italic> island</kwd><kwd>colorectal cancer</kwd><kwd>genotoxin</kwd><kwd>virulence</kwd></kwd-group><funding-group><award-group><funding-source>Wellcome Trust</funding-source><award-id>218518/Z/19/Z</award-id><principal-award-recipient>SofiaSandalli</principal-award-recipient></award-group><award-group><funding-source>Biotechnology and Biological Sciences Research Council</funding-source><award-id>BB/W015781/1</award-id><principal-award-recipient>AndrewJ Roe</principal-award-recipient></award-group><award-group><funding-source>Biotechnology and Biological Sciences Research Council</funding-source><award-id>BB/W015781/1</award-id><principal-award-recipient>EmilyAddington</principal-award-recipient></award-group></funding-group><custom-meta-group><custom-meta><meta-name>OpenAccessEmbargo</meta-name><meta-value>0</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>Introduction</title><p>Colorectal cancer (CRC) is the third most commonly diagnosed and second deadliest form of cancer globally [<xref rid="R1" ref-type="bibr">1</xref>]. The incidence of CRC is increasing worldwide and is predicted to continue to do so into the future, particularly in economically-impoverished regions where access to screening programmes is limited [<xref rid="R2" ref-type="bibr">2</xref>]. Worryingly, there is a rising incidence rate of CRC in young adults, pointing to changes in risk factors during early life [<xref rid="R1" ref-type="bibr">1</xref>]. It is well established that there are both environmental (diet, lifestyle) and genetic factors which influence the risk of developing CRC [<xref rid="R3" ref-type="bibr">3</xref>]. Individuals with inflammatory bowel disease (IBD) such as ulcerative colitis and Crohn&#x02019;s disease are at an increased risk of developing CRC, known as colitis-associated colorectal cancer (CA-CRC) [<xref rid="R4" ref-type="bibr">4</xref>]. Low-fibre, ultra-processed Westernised diets are known to be linked with increased CRC risk, and the adoption of this diet is likely a factor in the increasing CRC cases being seen in some demographics [<xref rid="R1" ref-type="bibr">1</xref>]. Diet heavily influences the composition of the gut microbiome and the role of microbes in CRC causation has become a topic of considerable research, particularly as individuals with CRC often display dysbiosis and greater colonisation with potentially harmful bacteria [<xref rid="R5" ref-type="bibr">5&#x02013;7</xref>].</p><p>In 2006, the pathogenicity locus known as the <underline>p</underline>oly<underline>k</underline>etide <underline>s</underline>ynthase (<italic toggle="yes">pks</italic>) island was found to encode the biosynthetic machinery for the synthesis of the genotoxin, colibactin. The genotoxicity of this secondary metabolite raised questions as to whether bacteria could have an aetiological role in CRC development [<xref rid="R8" ref-type="bibr">8</xref>]. The <italic toggle="yes">pks</italic> island was subsequently shown to be widespread amongst <italic toggle="yes">Enterobacteriaceae</italic>, particularly in <italic toggle="yes">E. coli</italic> belonging to the B2-phylogroup, which are common colonisers of the human intestinal tract [<xref rid="R9" ref-type="bibr">9</xref>]. In fact, it is estimated that 20&#x02013;22&#x0200a;% of healthy individuals are colonised by <italic toggle="yes">pks+ E. coli</italic> [<xref rid="R10" ref-type="bibr">10, 11</xref>]. However, <italic toggle="yes">pks</italic>+ bacteria appear to be significantly over-represented in the gut microbiome of patients with CRC, familial adenomatous polyposis (FAP), and IBD, when compared to controls [<xref rid="R10" ref-type="bibr">10&#x02013;14</xref>].</p><p>Research following the discovery of the <italic toggle="yes">pks</italic> island has established a strong link between the genotoxin and carcinogenesis, particularly with the identification of a distinct colibactin mutational signature in colorectal carcinomas following exposure to <italic toggle="yes">pks+ E. coli</italic> [<xref rid="R15" ref-type="bibr">15, 16</xref>]. Colibactin is a peptide-polyketide genotoxic metabolite and cyclomodulin, capable of inducing DNA damage such as interstrand cross links (ICLs), double strand breaks (DSBs), and single base pair substitutions (SBSs), as well as insertion and deletion (indel) mutations and rearrangement breakpoints. These genomic aberrations may lead to chromosomal instability and cell cycle arrest [<xref rid="R8" ref-type="bibr">8, 17&#x02013;25</xref>].</p><p>Characterization of the molecular structure of colibactin led to identification of two electrophilic cyclopropane warheads on opposing sides of the molecule which are capable of alkylating DNA and have high binding affinity for adenine rich motifs (AAAATT), causing DNA cross-linking and activation of DNA repair machinery in human cells [<xref rid="R20" ref-type="bibr">20, 22, 26, 27</xref>].</p><p>Further to being a potential procarcinogen, colibactin has proposed involvement in bacterial competition, induction of prophages, and manipulation of the gut microbiota composition [<xref rid="R28" ref-type="bibr">28&#x02013;30</xref>]. Indeed, colibactin may have originally evolved as a weapon against competing microbes in the poly-microbial environment, providing advantage to <italic toggle="yes">pks+</italic> bacteria&#x02009;and shaping the surrounding microbial community. Studies in mice indicate that colibactin may exert an effect on the gut microbiota at large, with <italic toggle="yes">pks+</italic> bacteria colonisation resulting in decreased microbial diversity [<xref rid="R28" ref-type="bibr">28</xref>]. It has also been shown that colibactin is capable of targeted killing of enteric pathogens and commensals such as <italic toggle="yes">Vibrio cholerae</italic> and <italic toggle="yes">Bacteroides fragilis,</italic> and interspecies culture has been shown to upregulate expression of the <italic toggle="yes">pks</italic> island [<xref rid="R29" ref-type="bibr">29, 31</xref>]. Recently, it was demonstrated that colibactin induces lytic development in bacteria containing prophages and that some non-<italic toggle="yes">pks+</italic> bacteria encode the colibactin resistance protein, ClbS [<xref rid="R30" ref-type="bibr">30</xref>]. Further, the colibactin intermediary product, N-myristoyl-<sc>d</sc>-Asn (NMDA) is capable of disrupting the membrane of <italic toggle="yes">S. aureus</italic>, a finding that has led to speculation about the involvement of NMDA in the mechanism of colibactin transport into target cells [<xref rid="R31" ref-type="bibr">31</xref>].</p><p>Whilst many colibactin-producing strains are pathogenic, certain commensal strains also possess the <italic toggle="yes">pks</italic> island, including Nissle 1917, which has long-standing and proven probiotic effects and is available commercially as a therapeutic.</p><p>Despite extensive research into colibactin structure, function, and effect on the human gastrointestinal tract, how the <italic toggle="yes">pks</italic> island and colibactin biosynthesis are regulated remains to be fully clarified. In this review, we aim to provide an up-to-date synopsis of current understanding of regulation of the <italic toggle="yes">pks</italic> island and colibactin determinant.</p></sec><sec id="s2"><title>The <italic toggle="yes">PKS</italic> island and colibactin biosynthesis</title><p>The genomic 54-kilobase <italic toggle="yes">pks</italic> island consists of a total of seven transcriptional units, transcribed as four polycistronic and three monocistronic elements. These are orientated in a single direction, with the exception of a singular contra-orientated polycistron encoding the pantetheinyltransferase (PPTase) (<italic toggle="yes">clbA</italic>) and the LuxR-type transcriptional activator (<italic toggle="yes">clbR</italic>) responsible for promoting downstream <italic toggle="yes">pks</italic> gene expression [<xref rid="R8" ref-type="bibr">8, 32, 33</xref>].</p><p>The 19 <italic toggle="yes">clb</italic> genes (<italic toggle="yes">clbA &#x02013; clbS</italic>) of the <italic toggle="yes">pks</italic> island encode the necessary apparatus for the production, transport, and activation of colibactin, including the key polyketide synthases (PKSs), nonribosomal peptide synthases (NRPSs) and hybrid NRPS-PKSs which function as an enzymatic &#x02018;assembly line&#x02019; for the genotoxin [<xref rid="R8" ref-type="bibr">8</xref>]. Specifically, the biosynthetic cluster encodes three NRPSs (ClbH, ClbJ, ClbN), three PKSs (ClbC, ClbI, ClbO), and two NRPS/PKS hybrids (ClbB, ClbK), as well as accessory and tailoring enzymes (ClbA, ClbD, ClbE, ClbF, ClbL, ClbP, ClbQ, ClbS) with various functions in colibactin synthesis, modification, and self-resistance, or in transport (CbM). The biosynthetic machinery of colibactin is covered in greater depth in other reviews [<xref rid="R34" ref-type="bibr">34&#x02013;36</xref>].</p><p>As the colibactin molecule is highly unstable and recalcitrant to isolation, structural predictions and insights into the metabolite have emerged largely from indirect and computational methods. These have revealed that colibactin has a nearly symmetrical structure which is characterised by two electrophilic cyclopropane warheads capable of forming adducts with and alkylating DNA [<xref rid="R22" ref-type="bibr">22, 23, 26, 37&#x02013;39</xref>]. Colibactin biosynthesis involves the sequential addition of building blocks by the enzymatic machinery as the colibactin precursor is transferred between the NRPS and PKS. The metabolite is assembled in an inactive, prodrug form known as &#x02018;precolibactin&#x02019; in the bacterial cytoplasm to avoid auto-genotoxicity [<xref rid="R37" ref-type="bibr">37, 40</xref>].</p><p>Synthesis begins when the PPTase ClbA transfers a phosphopantetheinyl to activate the NRPS and PKS proteins. The NRPS ClbN incorporates asparagine to generate the prodrug motif <italic toggle="yes">N</italic>-myristoyl-<sc>d</sc>-asparagine (NMDA) which is then transferred to, and accepted by NRPS/PKS hybrid, ClbB. ClbB adds either <sc>l</sc>-alanine or <sc>l</sc>-valine to the prodrug, followed by a malonyl-CoA molecule [<xref rid="R37" ref-type="bibr">37</xref>].</p><p>The prodrug scaffold is then passed along the NRPS-PKS assembly line, to proteins ClbC, -H, -I, -J and -K, undergoing elongation as these enzymes add substrates derived from malonyl-CoA and various <sc>l</sc>-amino acids such as glycine, cysteine, and methionine [<xref rid="R26" ref-type="bibr">26</xref>]. <sc>l</sc>-Methionine-derived cyclopropane is utilised by ClbH and ClbI, essential for constructing the cyclopropane warheads of the molecule which induce DNA alkylation [<xref rid="R27" ref-type="bibr">27, 39, 41, 42</xref>]. Enzymatic studies indicate that a PKS extender aminomalonyl (AM) unit is synthesised by ClbD-F, and is then transferred by ClbG to ClbK, which incorporates it into the precolibactin molecule [<xref rid="R39" ref-type="bibr">39</xref>]. The roles of ClbO, ClbL, and ClbQ in the final stages of precolibactin synthesis are still being fully deciphered, and it may be that ClbO is the final enzymatic module of the assembly line and completes the extension stage of the precolibactin skeleton [<xref rid="R39" ref-type="bibr">39</xref>]. ClbQ appears to involved in the offloading of compounds from the assembly line [<xref rid="R42" ref-type="bibr">42&#x02013;44</xref>]. Once the prodrug is released from the NRPS-PKS assembly-line, it is reportedly dimerized by the amidase ClbL, the final coupling step in precolibactin biosynthesis [<xref rid="R45" ref-type="bibr">45, 46</xref>]. Following dimerization, precolibactin is then transported into the periplasm by ClbM, a multidrug and toxic compound extrusion (MATE) transporter, where it is matured to generate the active genotoxin by the peptidase activity of ClbP, a periplasmic membrane-bound peptidase, which removes the NMDA sidechain. The removal of NMDA induces a spontaneous cyclization cascade resulting in the formation of two electrophilic cyclopropane rings capable of DNA alkylation by ring-opening addition [<xref rid="R19" ref-type="bibr">19, 23, 27, 37, 47, 48</xref>]. As the DNA of the synthesising bacteria may be damaged by colibactin should it accidently re-enter the cytoplasm, additional protection from auto-genotoxicity is provided by the hydrolase ClbS, which is able to open and &#x02018;disarm&#x02019; the cyclopropane ring on the alkylating warheads [<xref rid="R45" ref-type="bibr">45</xref>]. With the exception of <italic toggle="yes">clbS</italic>, activation of all <italic toggle="yes">clb</italic> genes is required for production of mature and genotoxic colibactin [<xref rid="R8" ref-type="bibr">8, 32</xref>].</p></sec><sec id="s3"><title>Internal regulation</title><sec id="s3-1"><title>ClbR</title><p>Recently, Wallenstein <italic toggle="yes">et al</italic>., (2020) reported that <italic toggle="yes">clbR</italic> encodes the main transcriptional activator of the <italic toggle="yes">pks</italic> operon which regulates colibactin biosynthesis [<xref rid="R33" ref-type="bibr">33</xref>]. ClbR appears to be a <italic toggle="yes">pks</italic> island-specific regulator, with ClbR expression directly correlating with functional colibactin production. ClbR itself is characterised as a LuxR-like protein with significant similarity to regulators of the LuxR/FixJ family. The protein possesses a helix-turn-helix DNA binding motif, however, atypically, lacks an N-terminal regulatory receiver (REC) domain. It has been noted that ClbR is highly similar to the GerE transcriptional regulator of <italic toggle="yes">Bacillus subtilis</italic>, which similarly lacks a REC domain, and it has been suggested that both proteins may act as autonomous effector domain regulators [<xref rid="R32" ref-type="bibr">32, 33</xref>].</p><p>As previously described, the <italic toggle="yes">clb</italic> operon may be considered as consisting of two units. Genes encoding <italic toggle="yes">clbR</italic> and <italic toggle="yes">clbA</italic> are organised in one orientation, whilst the gene cluster encoding for the colibactin biosynthetic machinery, transport, and resistance, is orientated oppositely, beginning with <italic toggle="yes">clbB</italic> and ending with the resistance gene <italic toggle="yes">clbS</italic> [<xref rid="R32" ref-type="bibr">32, 33</xref>]. For biosynthesis of the genotoxin to occur, the enzymatic assembly line must be activated, initially with the phosphopantetheinyl transferase, ClbA, which in turn activates the NRPSs and PKSs. Between the two oppositely oriented clusters of the colibactin determinant is an intergenic region comprised of the promoter sequences for the <italic toggle="yes">clbR</italic> and <italic toggle="yes">clbB</italic> genes, as well as variable number tandem repeats (VNTR) of an 8&#x02009;bp nucleotide sequence, 5&#x02032;-ACAGATAC-3&#x02032;, which differs in size amongst <italic toggle="yes">pks+</italic> strains [<xref rid="R49" ref-type="bibr">49</xref>]. ClbR appears to interact with this <italic toggle="yes">clbR-</italic>to-<italic toggle="yes">clbB</italic> intergenic region and has a binding site upstream of both <italic toggle="yes">clbB</italic> and its own coding sequence, suggesting that ClbR acts as both a transcriptional regulator and (auto)activator [<xref rid="R33" ref-type="bibr">33</xref>]. Located upstream of the <italic toggle="yes">clbR</italic> translational start side, the VNTR region appears to be an additional regulatory unit, affecting <italic toggle="yes">clbR</italic> promoter activity in a manner dependent on the number of repeats in this region. Therefore, VNTR size potentially affects <italic toggle="yes">clbR</italic> transcription, transcript stability, and the efficacy of translation [<xref rid="R33" ref-type="bibr">33</xref>].</p></sec><sec id="s3-2"><title>High-temperature protein G (HtpG)</title><p>The <italic toggle="yes">E. coli</italic> high-temperature protein G (HtpG / Hsp90<sub>EC</sub>) is a heat shock protein and molecular chaperone crucial for colibactin production, and in the absence or mutation of Hsp90<sub>EC</sub>, synthesis of the genotoxin in <italic toggle="yes">pks+E. coli</italic> is abolished [<xref rid="R34" ref-type="bibr">34, 50, 51</xref>]. It has recently been shown that direct interaction of Hsp90<sub>EC</sub> with the <italic toggle="yes">E. coli</italic> chaperone DnaK is required for colibactin production, and results suggest this collaboration with DnaK is necessary for Hsp90<sub>EC</sub> to correctly fold client proteins [<xref rid="R51" ref-type="bibr">51, 52</xref>]. It is possible that Hsp90<sub>EC</sub> facilitates colibactin production by preventing the misfolding of the colibactin biosynthetic enzymes, a function that would be analogous to what has been shown with the biosynthetic proteins of other PK-NRP compounds and other bacterial Hsp90 molecular chaperones [<xref rid="R50" ref-type="bibr">50, 53, 54</xref>]. Current research suggests that the interaction of DnaK and Hsp90<sub>EC</sub> may serve to protect the colibactin biosynthetic proteins from degradation via the protease HslVU, therefore exerting post-translational control of colibactin production. However, the identity of these client proteins or substrates in the colibactin biosynthetic pathway and how Hsp90<sub>EC</sub> interacts with these components remains to be clarified [<xref rid="R50" ref-type="bibr">50, 51</xref>].</p></sec><sec id="s3-3"><title>Polyphosphate kinases</title><p>Polyphosphate kinases (PPKs) catalyse the formation of polyphosphate (polyP) from ATP and have vital roles in bacterial functions such as virulence and stress response [<xref rid="R55" ref-type="bibr">55</xref>]. Recently, it was shown that mutagenic inactivation of the PPK in <italic toggle="yes">pks+ E. coli</italic> resulted in reduced promoter activity of <italic toggle="yes">clbB</italic> and decreased colibactin synthesis, identifying the PPK as a possible enhancer of colibactin production [<xref rid="R56" ref-type="bibr">56</xref>].</p><p>The involvement of PPK in colibactin production was further confirmed by use of the anti-inflammatory drug mesalamine, which inhibits PPK enzymatic activity and was shown to decrease <italic toggle="yes">pks</italic>+ genotoxicity [<xref rid="R56" ref-type="bibr">56</xref>]. Mesalamine is further covered in later sections of this review.</p><p>Notably, PPKs are involved in bacterial stress tolerance, and are activated to synthesise polyP in response to environmental stressors [<xref rid="R57" ref-type="bibr">57, 58</xref>]. It is possible that high-stress conditions encountered in inflamed and cancerous tissues may activate the bacterial PPK and enhance colibactin production in these niches. Further research is needed to elucidate the specifics of PPK interactions with the <italic toggle="yes">clb</italic> cluster and involvement in colibactin biosynthesis.</p></sec></sec><sec id="s4"><title>External inputs</title><p>Considering the high metabolic burden of the 54&#x02009;kb <italic toggle="yes">pks</italic> island and synthesis of a compound as complex as colibactin, it is unsurprising that regulation of this locus appears to be multifactorial, highly complex, and tightly controlled at multiple levels. A coordinated expression of all <italic toggle="yes">clb</italic> genes is necessary for functional colibactin production, and the transcription of this costly biosynthetic machinery would be deleterious to bacterial fitness if expressed under unsuitable conditions [<xref rid="R8" ref-type="bibr">8</xref>]. Therefore, the environment of the <italic toggle="yes">pks+</italic> bacterium appears paramount in the regulation of colibactin expression, with external conditions in the bacterial microniche either constraining or promoting colibactin synthesis [<xref rid="R35" ref-type="bibr">35</xref>]. To date, various external inputs have been identified which either induce or repress transcription of the colibactin determinant, including carbon source, oxygenation, iron availability, and growth phase [<xref rid="R32" ref-type="bibr">32, 59&#x02013;61</xref>]. Colibactin regulation must respond flexibly to this multitude of varied environmental signals encountered by the bacteria. In the following sections of this review, we will summarise some of the key conditions known to impact regulation of the <italic toggle="yes">pks</italic> island.</p><sec id="s4-1"><title>Growth phase and carbon sources</title><p>A wide-range of metabolic and virulence-associated traits, including <italic toggle="yes">pks</italic> gene expression, are governed by growth phase of the producing bacterium, as well as by environmental nutrient availability and carbon source. Such resource-dependent and growth-phase dependent regulation is seen with the colibactin operon [<xref rid="R32" ref-type="bibr">32</xref>]. Research has shown that promoter activity of the ClbR transcriptional regulator varies during <italic toggle="yes">E. coli</italic> growth, with the highest activity seen at the transition from late exponential phase to early stationary phase in all tested medias, excepting brain heart infusion (BHI) and epithelial cell culture medium, where promoter activity instead peaked at mid-exponential phase [<xref rid="R32" ref-type="bibr">32, 33</xref>]. Discussed in greater depth later in this review, this may be orchestrated through the BarA-UvrY system which senses the presence of protonated short-chain carboxylic acids that are produced at the late exponential phase of <italic toggle="yes">E. coli</italic> growth, leading to alterations in colibactin expression [<xref rid="R62" ref-type="bibr">62&#x02013;64</xref>]. Interestingly, it has also been observed that expression of <italic toggle="yes">clb</italic> genes <italic toggle="yes">clbA &#x02013; clbH</italic> is higher in shaking cultures than in static cultures, but that, conversely, genes <italic toggle="yes">clbJ &#x02013; clbQ</italic> show significantly lower expression [<xref rid="R32" ref-type="bibr">32</xref>].</p><p>Nutrient availability demonstrably affects <italic toggle="yes">clbR</italic> promoter activity, with nutrient dense media repressing colibactin expression whilst less complex or minimal media enhances expression [<xref rid="R32" ref-type="bibr">32, 33</xref>]. The impact of varying carbon sources has also been investigated and shown to influence colibactin expression. Whilst nutrient dense media typically causes repression of colibactin production, expression of <italic toggle="yes">clb</italic> genes is high in Dulbecco&#x02019;s Modified Eagle Medium (DMEM), although it remains unclear why this is the case. Specific research into different carbon sources looked at colibactin expression in minimal media supplemented with either glucose, glycerol, pyruvate, or acetate, and reported clear differences in expression of <italic toggle="yes">clb</italic> gene transcription [<xref rid="R32" ref-type="bibr">32</xref>]. Subsequent research has since shown the importance of central carbon metabolism on the regulation of colibactin expression, which is discussed in detail later in this review.</p><p>To the benefit of bacterial fitness, many <italic toggle="yes">E. coli</italic> virulence factors are induced only upon contact with host cells, and genotoxicity of colibactin in particular requires cell-to-cell contact due to its highly unstable nature and susceptibly to aerobic oxidation [<xref rid="R8" ref-type="bibr">8, 23</xref>]. However, a study which examined the expression of various <italic toggle="yes">clb</italic> genes in co-culture with epithelial cells saw no significant induction of these genes upon epithelial cell contact [<xref rid="R32" ref-type="bibr">32</xref>].</p></sec><sec id="s4-2"><title>Iron availability</title><p>Iron bioavailability has been established as a regulator of the <italic toggle="yes">pks</italic> island by directly modulating both <italic toggle="yes">clbR</italic> and <italic toggle="yes">clbA</italic> expression respectively. Iron limitation enhances ClbR-mediated activation of <italic toggle="yes">pks</italic> island transcription, resultingly increasing colibactin synthesis. Similarly, <italic toggle="yes">clbA</italic> transcription is upregulated under low iron conditions and repressed in iron-rich environments [<xref rid="R33" ref-type="bibr">33, 59, 65</xref>]. This iron-directed regulation of <italic toggle="yes">clbA</italic> expression appears to be independent of the ClbR transcriptional regulator, instead being positively regulated by the ferric uptake regulator (Fur) protein, and negatively regulated by the small regulatory RNA, <italic toggle="yes">rhyB,</italic> in a non-classical Fur/RhyB pathway [<xref rid="R59" ref-type="bibr">59, 65</xref>].</p><p>The ClbA PPtase is required for enzymatic activation of the colibactin synthetic machinery and has also been shown to contribute to the production of iron-scavenging siderophores, the biosynthesis of which are regulated by iron availability [<xref rid="R66" ref-type="bibr">66</xref>]. Fur, a global transcriptional regulator, is responsible for transcription of over 90 genes involved in iron uptake, storage, and metabolism, and has also been shown to regulate the <italic toggle="yes">stx</italic> genes encoding the Shiga toxin in enterohemorrhagic <italic toggle="yes">E. coli</italic> [<xref rid="R66" ref-type="bibr">66</xref>]. The direct binding of Fur to <italic toggle="yes">clbA</italic> positively regulates gene expression, subsequently upregulating colibactin synthesis. Conversely, <italic toggle="yes">rhyB</italic>, a small regulatory noncoding RNA which recruits ribonuclease E (RNase E) to facilitate degradation of mRNA targets, negatively regulates <italic toggle="yes">clbA</italic> transcription through direct binding [<xref rid="R59" ref-type="bibr">59, 67</xref>]. It is also possible that <italic toggle="yes">rhyB</italic> may act on colibactin production by repressing expression of serine acetyltransferases, required for incorporating serine as a building block in colibactin synthesis [<xref rid="R60" ref-type="bibr">60, 68</xref>].</p><p>Interestingly, iron-mediated repression of colibactin synthesis occurs even in a dual <italic toggle="yes">fur</italic> and <italic toggle="yes">rhyB</italic> deletion mutant, indicating that there remains an additional, yet unknown factor involved in iron-directed regulation of the <italic toggle="yes">clb</italic> locus which is Fur/RhyB independent [<xref rid="R65" ref-type="bibr">65</xref>]. Such a complex and multifactorial system of regulation likely allows &#x02018;fine-tuning&#x02019; of colibactin expression via the interplay of these factors.</p><p>The main transcriptional regulator of the <italic toggle="yes">pks</italic> locus, ClbR, is also directly modulated by iron bioavailability, with <italic toggle="yes">clbR</italic> expression enhanced in low iron conditions, thereby increasing colibactin production [<xref rid="R33" ref-type="bibr">33</xref>]. Currently, the exact mechanism of iron-dependent regulation of <italic toggle="yes">clbR</italic> is unclear, and no Fur binding sites have been identified upstream of the <italic toggle="yes">clbR</italic> gene [<xref rid="R33" ref-type="bibr">33</xref>].</p><p>Iron-mediated regulation of colibactin synthesis likely contributes to niche-specificity of <italic toggle="yes">pks+ E. coli</italic> by ensuring that the genotoxin is expressed only in appropriate environments, particularly as iron bioavailability varies widely throughout the body. Many gastrointestinal disorders result in severe iron deficiency, and iron deficiency anaemia is the most common extraintestinal symptom in patients with CRC due to inflammation, poor nutrient absorption, and chronic blood loss [<xref rid="R69" ref-type="bibr">69</xref>]. Given the implication of colibactin in the development of CRC, it is worth considering how iron-limited conditions upregulate the expression of this genotoxin and how this may potentially exacerbate tumorigenesis.</p></sec><sec id="s4-3"><title>BarA-UvrY and Csr</title><p>The carbon storage regulator (Csr) is a global regulatory system known to control multiple bacterial processes, including central carbon metabolism, biofilm formation, quorum sensing, iron storage, and pathogenicity. The Csr system consists of the dimeric mRNA binding protein carbon storage regulator A (CsrA) and the small regulatory RNAs (sRNAs), <italic toggle="yes">csrB</italic> and <italic toggle="yes">csrC</italic>, which are capable of inhibiting CsrA activity [<xref rid="R60" ref-type="bibr">60, 63, 70</xref>]. The Csr system is in turn regulated by the BarA/UvrY two-component system (TCS) responsible for modulating adaptive responses in <italic toggle="yes">E. coli</italic>. The BarA (bacterial adaptive response) protein is a sensor kinase, and the UvrY protein is a cognate response regulator of the FixJ family [<xref rid="R63" ref-type="bibr">63</xref>]. BarA senses changes in the environment of the bacterium &#x02013; such as the presence of short chain fatty acids (SCFA) &#x02013; resultantly activating itself by autophosphorylation and UvrY by transphosphorylation [<xref rid="R71" ref-type="bibr">71</xref>]. Activated UvrY is then able to switch-on transcription of the <italic toggle="yes">csrB</italic> and <italic toggle="yes">csrC</italic> sRNAs, which bind to and inhibit CsrA from post-transcriptionally modifying expression of its mRNA targets [<xref rid="R63" ref-type="bibr">63</xref>].</p><p>Recent work has demonstrated that the BarA-UvrY TCS regulates the <italic toggle="yes">pks</italic> island through mediation of the Csr system [<xref rid="R31" ref-type="bibr">31, 60</xref>]. In the absence of an environmental cue, the BarA-UvrY system is inactive and CsrA is free to bind the mRNA of <italic toggle="yes">clb</italic> genes and repress colibactin synthesis. Adding to the complexity of regulation, CsrA-dependent post-transcriptional modulation appears to occur on multiple genes in the colibactin biosynthetic locus. CsrA can bind to <italic toggle="yes">clbR</italic> mRNA encoding the transcriptional regulator of the <italic toggle="yes">pks</italic> island, leading to subsequent downregulation of colibactin synthesis [<xref rid="R31" ref-type="bibr">31</xref>]. CsrA has also been shown to bind to the <italic toggle="yes">clbQ</italic> 5&#x02032; untranslated leader sequence, repressing expression of the encoded thioesterase, ClbQ, required near the final stages of colibactin synthesis. Additionally, CsrA binding motifs in the upstream region of <italic toggle="yes">clbL</italic> and <italic toggle="yes">clbS</italic>, and in the coding sequence of <italic toggle="yes">clbG, clbI, clbJ</italic>, and <italic toggle="yes">clbN</italic>, have been identified [<xref rid="R60" ref-type="bibr">60</xref>]. The binding of CsrA leads to downregulation of the <italic toggle="yes">pks</italic> island and repression of colibactin synthesis.</p><p>Alternatively, when the appropriate environmental signals are detected by the BarA sensor kinase, it activates the response regulator UvrY by phosphorylation, which subsequently activates transcription of sRNAs <italic toggle="yes">csrB</italic> and <italic toggle="yes">csrC</italic>. These sRNAs bind to and limit the availability of CsrA, obstructing CsrA from binding to and repressing the <italic toggle="yes">pks</italic> locus [<xref rid="R60" ref-type="bibr">60</xref>].</p><p>Interestingly, given the proposed role of colibactin in interspecies competition, one of the external signals activating BarA-UvrY-dependent regulation of the <italic toggle="yes">pks</italic> island appears to be a polymicrobial environment [<xref rid="R31" ref-type="bibr">31</xref>]. A recent study found that expression of the <italic toggle="yes">pks</italic> island in <italic toggle="yes">E. coli</italic> grown in mixed species macrocolonies was significantly increased compared to that in <italic toggle="yes">E. coli</italic> monoculture macrocolonies, with this increased expression dependent on the BarA-UvrY TCS sensing <italic toggle="yes">S. aureus</italic> and enhancing colibactin expression through inhibition of CsrA [<xref rid="R31" ref-type="bibr">31</xref>].</p></sec><sec id="s4-4"><title>Oxygen availability</title><p>Bacteria which colonise the intestinal mucosa must contend with a steep oxygen gradient along the length of the intestine, as well as anoxia in the intestinal lumen to physiological hypoxia at the epithelial surface [<xref rid="R61" ref-type="bibr">61, 72</xref>]. Recent work has shown that oxygen concentration is a direct regulator of colibactin production in <italic toggle="yes">pks+ E. coli</italic>, with genotoxicity optimal in anoxic conditions and repressed in oxygen-rich environments [<xref rid="R61" ref-type="bibr">61</xref>]. The colibactin molecule itself is highly-unstable and susceptible to aerobic oxidation and inactivation, thus physical contact between the bacterial and host cell is required for genotoxicity [<xref rid="R23" ref-type="bibr">23</xref>]. Given the instability of colibactin and the metabolic expense of its synthesis to the bacterium, it is essential for microbial fitness and pathogenesis that transcription of the colibactin determinant occurs only under viable conditions [<xref rid="R61" ref-type="bibr">61</xref>]. That colibactin production is inhibited by oxygen and conversely upregulated in anoxic conditions shows adaption of <italic toggle="yes">pks+ E. coli</italic> to the anoxic intestinal lumen, with oxygen concentration serving as an environmental cue for arrival at a suitable niche.</p><p>
+<italic toggle="yes">E. coli</italic> encode the <underline>a</underline>noxic <underline>r</underline>edox <underline>c</underline>ontrol (or <underline>a</underline>erobic <underline>r</underline>espiration <underline>c</underline>ontrol) (Arc) two-component regulatory system consisting of ArcA, a cytosolic transcription factor and response regulator, and the sensor kinase ArcB, responsible for activation of ArcA by transphosphorylation [<xref rid="R73" ref-type="bibr">73</xref>]. ArcAB is capable of detecting oxygen availability through quinone levels and correspondingly altering metabolic pathways, and many known pathogenic enterobacteria, including <italic toggle="yes">Shigella,</italic> enterotoxigenic <italic toggle="yes">E. coli</italic>, and uropathogenic <italic toggle="yes">E. coli</italic>, utilise the Arc system to tightly regulate the expression of virulence factors in relation to oxygen concentration [<xref rid="R61" ref-type="bibr">61, 73&#x02013;76</xref>]. Work by Bousset <italic toggle="yes">et al</italic>., (2023) demonstrates that oxygen-induced inhibition of colibactin biosynthesis and genotoxicity occurs via an <italic toggle="yes">arcA</italic>-dependent regulatory mechanism, with anoxic conditions favouring optimal colibactin production. This suggests that <italic toggle="yes">pks+ E. coli</italic> are adapted to anoxic niches such as are found at the surface of the gut epithelium and inside the gut lumen, or to hypoxic niches such as the bottom of the intestinal crypts [<xref rid="R61" ref-type="bibr">61</xref>]. It is worth noting that such adaptation would be beneficial for the proposed role of colibactin in bacterial competition within the polymicrobial and anoxic intestinal lumen. Further, hypoxic conditions are a well-established characteristic of malignant tumours, known as tumour hypoxia, with such environments potentially favouring <italic toggle="yes">pks</italic>+ bacteria&#x02009;and optimal colibactin production [<xref rid="R77" ref-type="bibr">77</xref>]. Similarly, severe inflammation is associated with local oxygen depletion due to tissue necrosis and the neutrophil respiratory burst, with inflammation also being implicated in promotion of colorectal tumorigenesis by <italic toggle="yes">pks+ E. coli</italic> in murine models [<xref rid="R12" ref-type="bibr">12, 78</xref>]. Tissue hypoxia also commonly results from inflammation during bacterial infection [<xref rid="R79" ref-type="bibr">79, 80</xref>]. As such, the oxygen-dependent regulation of the colibactin locus via the Arc system helps to ensure that colibactin synthesis occurs in environmental conditions where the genotoxin will be potentized and able to maximise bacterial fitness.</p></sec><sec id="s4-5"><title>Inflammation</title><p>Inflammation is present in bacterial infections, gastrointestinal disorders, and CRC, and has been shown to promote proliferation and expansion of genotoxic <italic toggle="yes">E. coli</italic> by altering the composition of the intestinal microbiota and by increasing attachment of <italic toggle="yes">pks+</italic> bacteria&#x02009;to an impaired intestinal mucosa [<xref rid="R12" ref-type="bibr">12</xref>]. Chronic intestinal inflammation is an established driver of CRC development and is essential for colibactin-induced tumorigenesis, as notably, <italic toggle="yes">pks+ E. coli</italic> fail to produce CRC in inflammation-free murine models [<xref rid="R12" ref-type="bibr">12, 81</xref>]. It has been proposed that the carcinogenic microenvironment and the accompanying intestinal inflammation may provide a highly favourable niche for <italic toggle="yes">E. coli,</italic> which are able to utilise inflammation-derived nitrate and formate for growth [<xref rid="R82" ref-type="bibr">82, 83</xref>]. Similarly, intestinal inflammation has also been shown to trigger increased oxygen bioavailability in the lumen, providing a fitness advantage for <italic toggle="yes">pks+ E. coli</italic> through aerobic respiration which results in bacterial expansion [<xref rid="R83" ref-type="bibr">83, 84</xref>]. Thus, inflammation may enhance colibactin production as a result of increased colonisation of <italic toggle="yes">pks+</italic> bacteria, however, it remains unclear whether inflammation modulates <italic toggle="yes">clb</italic> gene expression directly. RNAseq performed by Arthur <italic toggle="yes">et al.</italic> (2014) indicates that transcription of the <italic toggle="yes">pks</italic> operon is significantly upregulated in response to the inflammatory and carcinogenic environment in mice. Conversely, anti-tumour necrosis factor (TNF) therapy was shown to attenuate CRC development and decrease DNA-damage in mice models infected with colibactin-producing <italic toggle="yes">E. coli</italic> without altering the colonisation of <italic toggle="yes">pks+ E. coli</italic>. This may indicate that the TNF blockade alters <italic toggle="yes">pks</italic> gene expression [<xref rid="R85" ref-type="bibr">85</xref>]. In fact, microbial RNA sequencing (RNAseq) performed by the study showed that expression of the <italic toggle="yes">clb</italic> operon was significantly higher when inflammation was present than in controls [<xref rid="R85" ref-type="bibr">85</xref>]. This observation is concordant with previous results from Arthur <italic toggle="yes">et al.</italic> (2014) that an inflammatory and carcinogenic environment enhanced <italic toggle="yes">clb</italic> gene activity [<xref rid="R81" ref-type="bibr">81</xref>].</p><p>Similarly, and of particular note, mesalamine, which is an anti-inflammatory medication frequently used to treat ulcerative colitis, reduces polyphosphate kinase (PPK) enzymatic activity and downregulates colibactin production [<xref rid="R56" ref-type="bibr">56, 86</xref>]. Mesalamine is discussed in greater detail in the following section of this review.</p><p>Colibactin itself may induce events leading to further inflammation by altering the gut microbiome composition via prophage induction and potential bactericidal activity, and by inducing DNA-damage and cell cycle arrest prompting pro-inflammatory host responses [<xref rid="R30" ref-type="bibr">30, 87, 88</xref>]. The relationship between inflammation, colibactin production, and cancer development is therefore highly complex and dynamic, and requires further study to determine and clarify specific mechanisms involved.</p></sec><sec id="s4-6"><title>Mesalamine</title><p>Mesalamine is an anti-inflammatory bacterial PPK-inhibitor used in the treatment of IBD which has been shown to downregulate expression of <italic toggle="yes">pks</italic> genes and reduce genotoxicity [<xref rid="R56" ref-type="bibr">56, 89</xref>]. Recent results indicate that mesalamine reduces colibactin production in both a PPK-dependent and independent manner [<xref rid="R56" ref-type="bibr">56, 90</xref>]. Mesalamine acts directly to downregulate colibactin production via inhibition of the bacterial PPK which is involved in synthesis of the active genotoxin. As is discussed earlier in this review, inactivation of the PPK reduces the promoter activity of <italic toggle="yes">clbB</italic>, resultantly diminishing colibactin biosynthesis [<xref rid="R56" ref-type="bibr">56</xref>]. The inhibition of PPK activity by mesalamine also serves to decrease <italic toggle="yes">pks+ E. coli</italic> persistence, resistance, and invasion. By decreasing the inflammation which promotes expansion of <italic toggle="yes">pks+</italic> bacteria&#x02009;and colibactin production, and by limiting <italic toggle="yes">pks+ E. coli</italic> colonization and invasion, mesalamine also indirectly affects levels of colibactin synthesis [<xref rid="R90" ref-type="bibr">90, 91</xref>]. Mesalamine has also been shown to directly inhibit growth of <italic toggle="yes">pks+ E. coli</italic> in aerobic conditions [<xref rid="R89" ref-type="bibr">89, 92</xref>].</p></sec><sec id="s4-7"><title>Spermidine</title><p>Polyamines are small polycationic molecules produced by all living organisms which have roles in numerous and varied physiological processes, including cell proliferation, stress resistance, and protein synthesis and regulation. As they are required for cell proliferation, polyamines also play a crucial role in carcinogenesis [<xref rid="R93" ref-type="bibr">93, 94</xref>]. The predominant polyamines in bacterial cells include putrescine, spermidine, and cadaverine, and these molecules may be synthesised by the bacteria <italic toggle="yes">de novo</italic> or scavenged from the surrounding environment [<xref rid="R94" ref-type="bibr">94</xref>]. Spermidine is particularly abundant in cancer tissues, as well as in the gut where it is amply produced by intestinal microbiota [<xref rid="R36" ref-type="bibr">36, 93, 95</xref>]. It has been shown that spermidine is involved in colibactin production, and that limited availability of this polyamine results in reduced colibactin synthesis and decreased <italic toggle="yes">pks+ E. coli</italic> genotoxicity [<xref rid="R93" ref-type="bibr">93</xref>]. As either spermidine supplementation or limitation affects expression of <italic toggle="yes">clb</italic> genes, and given that polyamines are known regulators of <italic toggle="yes">E. coli</italic> gene expression, it may be that polyamines play a role in monitoring the regulation of colibactin synthesis. Current research suggests that spermidine is capable of positively regulating <italic toggle="yes">clbR</italic> and <italic toggle="yes">clbQ</italic>, however the specific mechanisms and interactions of polyamines in the production of colibactin remain to be elucidated further [<xref rid="R36" ref-type="bibr">36, 93</xref>].</p></sec><sec id="s4-8"><title>
+<sc>d</sc>-Serine</title><p>The <sc>d</sc>-Serine enantiomer is present at varying concentrations within different regions of the human body, and concentration of this amino acid in the gut fluctuates greatly depending on diet. <sc>d</sc>-Serine can be obtained through dietary sources, such as fermented and fortified foods, or by conversion from <sc>l</sc>-Serine. Recent work by Hallam <italic toggle="yes">et al</italic>., (2023) has shown that <sc>d</sc>-Serine downregulates colibactin synthesis and reduces subsequent genotoxicity [<xref rid="R96" ref-type="bibr">96</xref>]. Repression of <italic toggle="yes">clb</italic> genes by <sc>d</sc>-Serine was found to be independent of the serine tolerance locus <italic toggle="yes">dsdCXA</italic> and the exact mechanism of <sc>d</sc>-Serine-induced <italic toggle="yes">clb</italic> gene repression still remains to be elucidated. It is possible that <sc>d</sc>-Serine, or a subsequent metabolic product of its catabolism, may act as a cofactor to a transcriptional regulator of the <italic toggle="yes">pks</italic> island [<xref rid="R96" ref-type="bibr">96</xref>].</p></sec><sec id="s4-9"><title>Other dietary and medical interventions</title><p>Numerous other external inputs, including both dietary substrates and medicinal compounds, have been shown to influence expression of the <italic toggle="yes">pks</italic> island and impact colibactin production.</p><p>The antibiotic polymyxin B enhances transcription of the colibactin biosynthetic enzymes, thus increasing genotoxin production. It has been proposed that this increase in colibactin synthesis is a stress response to antibiotics, through an unknown mechanism [<xref rid="R97" ref-type="bibr">97</xref>].</p><p>Oligosaccharides such as inulin and galacto-oligosaccharide (GOS) are prebiotic, and have been shown to upregulate <italic toggle="yes">clb</italic> gene expression and increase colibactin induced genotoxicity in <italic toggle="yes">pks</italic>+ bacteria [<xref rid="R98" ref-type="bibr">98</xref>]. Conversely, short chain fatty acids (SCFA) such as acetate, propionate, and butyrate, are produced by fermentation of dietary fibres by gut microbiota and have been shown to downregulate expression of the <italic toggle="yes">pks</italic> island. The mechanism of this process is unknown, although SCFA are established modulators of inflammation [<xref rid="R99" ref-type="bibr">99, 100</xref>].</p><p>Various plant-derived compounds such as tannin and quercetin have been shown to inhibit growth of <italic toggle="yes">pks+E. coli</italic> and the transcription of <italic toggle="yes">clb</italic> genes [<xref rid="R101" ref-type="bibr">101</xref>]. Additionally, one study found that cinnamon and cinnamaldehyde inhibited expression of <italic toggle="yes">clbB</italic> in several <italic toggle="yes">pks+</italic> isolates from CRC patients [<xref rid="R102" ref-type="bibr">102</xref>].</p></sec><sec id="s4-10"><title>Regulation of colibactin synthesis is complex and occurs at multiple levels</title><p>Genes encoding for the biosynthesis of colibactin are under strict control at multiple levels to ensure that this metabolically costly machinery is switched-on only under appropriate environmental conditions (<xref rid="F1" ref-type="fig">Fig. 1</xref>). The colibactin operon is transcriptionally regulated by ClbR, a LuxR-type transcriptional regulator, which activates <italic toggle="yes">clb</italic> gene transcription in response to various internal bacterial and external environmental cues. Growth phase, nutrient availability, and carbon source all impact transcription of the <italic toggle="yes">clb</italic> genes and synthesis of colibactin [<xref rid="R32" ref-type="bibr">32, 33</xref>]. The carbon storage regulator (Csr) is capable of posttranscriptional modulation of <italic toggle="yes">clb</italic> expression, regulated in turn through the BarA-Uvry TCS which detects changes in the bacterial surroundings [<xref rid="R31" ref-type="bibr">31, 60</xref>]. The ferric uptake regulator (Fur), in concert with <italic toggle="yes">rhyB</italic>, also regulates <italic toggle="yes">clb</italic> transcription based on iron availability, downregulating colibactin production in iron-rich conditions and upregulating expression of the genotoxin when iron availability is limited [<xref rid="R59" ref-type="bibr">59, 65</xref>]. Similarly, high oxygen conditions decrease colibactin production by inhibition of <italic toggle="yes">clb</italic> transcription which occurs through an Arc-dependent regulatory mechanism [<xref rid="R61" ref-type="bibr">61</xref>]. Inflammatory and carcinogenic environments also promote <italic toggle="yes">pks</italic> gene transcription, and anti-inflammatory drugs such as mesalamine have been shown to downregulate transcription of the colibactin biosynthetic machinery [<xref rid="R56" ref-type="bibr">56, 81, 85, 90</xref>]. Limited availability of the polyamine spermidine affects expression of <italic toggle="yes">clb</italic> genes, reducing colibactin synthesis through an unknown mechanism [<xref rid="R93" ref-type="bibr">93</xref>]. Similarly, the heat shock protein Hsp90<sub>EC</sub> is required for colibactin production, and may act as a chaperone for the enzymes comprising the colibactin biosynthetic machinery [<xref rid="R50" ref-type="bibr">50</xref>]. Diet is known to have profound consequences on the microbiota and environment of the intestinal tract, and many dietary modulators of colibactin gene expression have been identified, including oligosaccharides such as inulin and short chain fatty acids produced by dietary fibres [<xref rid="R98" ref-type="bibr">98, 99</xref>]. <sc>d</sc>-Serine has also been shown to downregulate transcription of <italic toggle="yes">clb</italic> genes and repress colibactin synthesis [<xref rid="R96" ref-type="bibr">96</xref>].</p><fig position="float" fig-type="figure" id="F1"><label>Fig. 1.</label><caption><p>Internal and external inputs effecting regulation of the <italic toggle="yes">clb</italic> genes. (<bold>a</bold>) The 19 genes of the <italic toggle="yes">clb</italic> operon (<italic toggle="yes">clbA &#x02013; clbS</italic>) encode the biosynthetic machinery required for colibactin production. The <italic toggle="yes">clbR</italic> gene encodes the transcriptional regulator, ClbR, which activates both its own transcription and transcription of the <italic toggle="yes">clb</italic> genes. Level of <italic toggle="yes">clbR</italic> transcription is influenced by the amount of variable number tandem repeats (VNTRs) in the <italic toggle="yes">clbR - clbB</italic> intergenic region, effecting the transcription of other <italic toggle="yes">clb</italic> genes and colibactin production. Colibactin is synthesised in the bacterial cytoplasm as an inactive pro-drug known as &#x02018;precolibactin&#x02019; by the enzymatic &#x02018;assembly line&#x02019; of polyketide synthases (PKSs), nonribosomal peptide synthases (NRPs) and hybrid NRPS-PKS encoded by the <italic toggle="yes">clb</italic> genes. The <italic toggle="yes">E. coli</italic> high-temperature protein G (HtpG) is also required during biosynthesis. Following dimerization by ClbL, precolibactin is effluxed to the periplasm by the MATE transporter ClbM. The prodrug is then matured into active and genotoxic colibactin by cleavage of the <italic toggle="yes">N</italic>-myristoyl-<sc>d</sc>-asparagine sidechains by the periplasmic membrane-bound peptidase, ClbP. Should mature colibactin re-enter the bacterial cytoplasm, it is inactivated by the hydrolase ClbS. (<bold>b</bold>) The regulation of the colibactin biosynthetic operon is influenced by a multitude of external environmental factors. Growth phase, nutrient availability, and carbon source impact colibactin expression. Such changes in the external environment are detected by the BarA-UvrY two component system (TCS) which activates the <italic toggle="yes">csrB</italic> and <italic toggle="yes">csrC</italic> small regulatory RNAs which inhibit the carbon storage regulator A (CsrA) from repressing colibactin synthesis. The BarA-UvrY TCS also appears to enhance colibactin expression through recognition of a polymicrobial environment. High oxygen conditions repress colibactin synthesis through the anoxic redox control (Arc) TCS, consisting of the ArcA cytosolic transcription factor and the sensor kinase ArB. Inflammatory environments are advantageous to <italic toggle="yes">pks</italic>+ bacteria and enhance colibactin production, with <italic toggle="yes">clb</italic> gene expression significantly higher when inflammation is present. Conversely, the anti-inflammatory PPK-inhibitor mesalamine downregulates colibactin synthesis, through both PPK-dependent and PPK-independent mechanisms. Anoxic, carcinogenic, and inflamed tissues may therefore be optimal niches for maximal colibactin production. The bioavailability of polyamines, notably spermidine, appears important for colibactin production, with limited spermidine correlating to decreased colibactin synthesis. It is possible that spermidine may positively regulate <italic toggle="yes">clbR</italic> and <italic toggle="yes">clbQ</italic> genes. The metabolite <sc>d</sc>-Serine has also been shown to downregulate colibactin synthesis, as have short chain fatty acids (SCFA), whilst the antibiotic polymyxin B, and oligosaccharides such as inulin and galacto-oligosaccharides, appear to upregulate colibactin synthesis. Figure by Iris Floria, created with BioRender.com.</p></caption><graphic xlink:href="mic-170-1427-g001" position="float"/></fig><p>It is apparent that <italic toggle="yes">pks</italic>+bacteria tightly regulate the production of colibactin through a number of mechanisms, in a highly specific manner dependent on numerous environmental cues that signal the presence of either optimal or deleterious conditions. Such regulatory systems maximise fitness of the bacterium, minimising unnecessary metabolic burden and facilitating appropriate production of the metabolite to the benefit of bacterial competition, survival, and pathogenesis.</p></sec></sec></body><back><ack id="ack1"><title>Funding information</title><p>S.S. supported by the Wellcome Trust Integrative Infection Biology PhD Programme at the University of Glasgow, grant number 218518/Z/19/Z. A.J.R. and E.A. are supported by the Biotechnology and Biological Sciences Research Council [BB/W015781/1].</p></ack><ack id="ack2"><title>Acknowledgements</title><p>The authors would like to thank Iris Floria for providing the graphical abstract for this paper. For the purpose of open access, the authors have applied a Creative Commons Attribution (CC BY) licence to any Author Accepted Manuscript version arising from this submission.</p></ack><ack id="ack3"><title>Author contributions</title><p>S.S., writing, original draft preparation and editing; E.A., writing, review, and editing; A.J.R., review and editing. All authors have read and agreed to the published version of the manuscript.</p></ack><ack id="ack4"><title>Conflicts of interest</title><p content-type="COI-statement">The authors declare no conflicts of interest.</p></ack><fn-group><fn id="fn1"><p>Abbreviations: AM, aminomalonyl; Arc, anoxic redox control; CA-CRC, colitis-associated colorectal cancer; CRC, colorectal cancer; Csr, carbon storage regulator; DMEM, Dulbecco's modified eagle medium; DSB, double strand break; FAP, familial adenomatous polyposis; Fur, ferric uptake regulator; GOS, galacto-oligosaccharides; HtpG, high-temperature protein G; IBD, inflammatory bowel disease; ICL, interstrand crosslink; Indel, insertion and deletion; MATE, multidrug and toxic compound extrusion; mRNA, messanger RNA; NMDA, N-myristoyl-d-asparagine; NRPS, non-ribosomal peptide synthetase; <italic toggle="yes">pks</italic>, polyketide synthetase; PKS, Polyketide synthase; PolyP, polyphosphate; PPtase, phosphopantetheinyl transferase; REC, phosphoacceptor receiver; RNA-Seq, RNA sequencing; SBS, single base-pair subsitution; SCFA, short chain fatty acids; sRNA, small regulatory RNA; TNF, tumor necrosis factor; VNTR, variable number tandem repeats.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Morgan</surname><given-names>E</given-names></name>
+<name><surname>Arnold</surname><given-names>M</given-names></name>
+<name><surname>Gini</surname><given-names>A</given-names></name>
+<name><surname>Lorenzoni</surname><given-names>V</given-names></name>
+<name><surname>Cabasag</surname><given-names>CJ</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Global burden of colorectal cancer in 2020 and 2040: incidence and mortality estimates from GLOBOCAN</article-title><source>Gut</source><year>2023</year><volume>72</volume><fpage>338</fpage><lpage>344</lpage><pub-id pub-id-type="doi">10.1136/gutjnl-2022-327736</pub-id><?supplied-pmid 36604116?><pub-id pub-id-type="pmid">36604116</pub-id>
+</element-citation></ref><ref id="R2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Adebayo</surname><given-names>AS</given-names></name>
+<name><surname>Agbaje</surname><given-names>K</given-names></name>
+<name><surname>Adesina</surname><given-names>SK</given-names></name>
+<name><surname>Olajubutu</surname><given-names>O</given-names></name>
+</person-group><article-title>Colorectal cancer: disease process, current treatment options, and future perspectives</article-title><source>Pharmaceutics</source><year>2023</year><volume>15</volume><elocation-id>2620</elocation-id><pub-id pub-id-type="doi">10.3390/pharmaceutics15112620</pub-id><?supplied-pmid 38004598?><pub-id pub-id-type="pmid">38004598</pub-id>
+</element-citation></ref><ref id="R3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hossain</surname><given-names>MS</given-names></name>
+<name><surname>Karuniawati</surname><given-names>H</given-names></name>
+<name><surname>Jairoun</surname><given-names>AA</given-names></name>
+<name><surname>Urbi</surname><given-names>Z</given-names></name>
+<name><surname>Ooi</surname><given-names>DJ</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Colorectal cancer: a review of carcinogenesis, global epidemiology, current challenges, risk factors, preventive and treatment strategies</article-title><source>Cancers</source><year>2022</year><volume>14</volume><elocation-id>1732</elocation-id><pub-id pub-id-type="doi">10.3390/cancers14071732</pub-id><?supplied-pmid 35406504?><pub-id pub-id-type="pmid">35406504</pub-id>
+</element-citation></ref><ref id="R4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>RW</given-names></name>
+<name><surname>Harpaz</surname><given-names>N</given-names></name>
+<name><surname>Itzkowitz</surname><given-names>SH</given-names></name>
+<name><surname>Parsons</surname><given-names>RE</given-names></name>
+</person-group><article-title>Molecular mechanisms in colitis-associated colorectal cancer</article-title><source>Oncogenesis</source><year>2023</year><volume>12</volume><elocation-id>48</elocation-id><pub-id pub-id-type="doi">10.1038/s41389-023-00492-0</pub-id><?supplied-pmid 37884500?><pub-id pub-id-type="pmid">37884500</pub-id>
+</element-citation></ref><ref id="R5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sobhani</surname><given-names>I</given-names></name>
+<name><surname>Amiot</surname><given-names>A</given-names></name>
+<name><surname>Le Baleur</surname><given-names>Y</given-names></name>
+<name><surname>Levy</surname><given-names>M</given-names></name>
+<name><surname>Auriault</surname><given-names>M-L</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Microbial dysbiosis and colon carcinogenesis: could colon cancer be considered a bacteria-related disease?</article-title><source>Therap Adv Gastroenterol</source><year>2013</year><volume>6</volume><fpage>215</fpage><lpage>229</lpage><pub-id pub-id-type="doi">10.1177/1756283X12473674</pub-id><?supplied-pmid 23634186?><pub-id pub-id-type="pmid">23634186</pub-id>
+</element-citation></ref><ref id="R6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zackular</surname><given-names>JP</given-names></name>
+<name><surname>Baxter</surname><given-names>NT</given-names></name>
+<name><surname>Iverson</surname><given-names>KD</given-names></name>
+<name><surname>Sadler</surname><given-names>WD</given-names></name>
+<name><surname>Petrosino</surname><given-names>JF</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The gut microbiome modulates colon tumorigenesis</article-title><source>mBio</source><year>2013</year><volume>4</volume><elocation-id>e00692-13</elocation-id><pub-id pub-id-type="doi">10.1128/mBio.00692-13</pub-id><?supplied-pmid 24194538?><pub-id pub-id-type="pmid">24194538</pub-id>
+</element-citation></ref><ref id="R7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hibberd</surname><given-names>AA</given-names></name>
+<name><surname>Lyra</surname><given-names>A</given-names></name>
+<name><surname>Ouwehand</surname><given-names>AC</given-names></name>
+<name><surname>Rolny</surname><given-names>P</given-names></name>
+<name><surname>Lindegren</surname><given-names>H</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Intestinal microbiota is altered in patients with colon cancer and modified by probiotic intervention</article-title><source>BMJ Open Gastroenterol</source><year>2017</year><volume>4</volume><elocation-id>e000145</elocation-id><pub-id pub-id-type="doi">10.1136/bmjgast-2017-000145</pub-id><?supplied-pmid 28944067?><pub-id pub-id-type="pmid">28944067</pub-id>
+</element-citation></ref><ref id="R8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nougayr&#x000e8;de</surname><given-names>J-P</given-names></name>
+<name><surname>Homburg</surname><given-names>S</given-names></name>
+<name><surname>Taieb</surname><given-names>F</given-names></name>
+<name><surname>Boury</surname><given-names>M</given-names></name>
+<name><surname>Brzuszkiewicz</surname><given-names>E</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>
+<italic toggle="yes">Escherichia coli</italic> induces DNA double-strand breaks in eukaryotic cells</article-title><source>Science</source><year>2006</year><volume>313</volume><fpage>848</fpage><lpage>851</lpage><pub-id pub-id-type="doi">10.1126/science.1127059</pub-id><?supplied-pmid 16902142?><pub-id pub-id-type="pmid">16902142</pub-id>
+</element-citation></ref><ref id="R9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Messerer</surname><given-names>M</given-names></name>
+<name><surname>Fischer</surname><given-names>W</given-names></name>
+<name><surname>Schubert</surname><given-names>S</given-names></name>
+</person-group><article-title>Investigation of horizontal gene transfer of pathogenicity islands in <italic toggle="yes">Escherichia coli</italic> using next-generation sequencing</article-title><source>PLoS One</source><year>2017</year><volume>12</volume><elocation-id>e0179880</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0179880</pub-id><?supplied-pmid 28732043?><pub-id pub-id-type="pmid">28732043</pub-id>
+</element-citation></ref><ref id="R10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Buc</surname><given-names>E</given-names></name>
+<name><surname>Dubois</surname><given-names>D</given-names></name>
+<name><surname>Sauvanet</surname><given-names>P</given-names></name>
+<name><surname>Raisch</surname><given-names>J</given-names></name>
+<name><surname>Delmas</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>High prevalence of mucosa-associated <italic toggle="yes">E. coli</italic> producing cyclomodulin and genotoxin in colon cancer</article-title><source>PLoS One</source><year>2013</year><volume>8</volume><elocation-id>e56964</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0056964</pub-id><?supplied-pmid 23457644?><pub-id pub-id-type="pmid">23457644</pub-id>
+</element-citation></ref><ref id="R11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dejea</surname><given-names>CM</given-names></name>
+<name><surname>Fathi</surname><given-names>P</given-names></name>
+<name><surname>Craig</surname><given-names>JM</given-names></name>
+<name><surname>Boleij</surname><given-names>A</given-names></name>
+<name><surname>Taddese</surname><given-names>R</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Patients with familial adenomatous polyposis harbor colonic biofilms containing tumorigenic bacteria</article-title><source>Science</source><year>2018</year><volume>359</volume><fpage>592</fpage><lpage>597</lpage><pub-id pub-id-type="doi">10.1126/science.aah3648</pub-id><?supplied-pmid 29420293?><pub-id pub-id-type="pmid">29420293</pub-id>
+</element-citation></ref><ref id="R12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Arthur</surname><given-names>JC</given-names></name>
+<name><surname>Perez-Chanona</surname><given-names>E</given-names></name>
+<name><surname>M&#x000fc;hlbauer</surname><given-names>M</given-names></name>
+<name><surname>Tomkovich</surname><given-names>S</given-names></name>
+<name><surname>Uronis</surname><given-names>JM</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Intestinal inflammation targets cancer-inducing activity of the microbiota</article-title><source>Science</source><year>2012</year><volume>338</volume><fpage>120</fpage><lpage>123</lpage><pub-id pub-id-type="doi">10.1126/science.1224820</pub-id><?supplied-pmid 22903521?><pub-id pub-id-type="pmid">22903521</pub-id>
+</element-citation></ref><ref id="R13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Raisch</surname><given-names>J</given-names></name>
+<name><surname>Buc</surname><given-names>E</given-names></name>
+<name><surname>Bonnet</surname><given-names>M</given-names></name>
+<name><surname>Sauvanet</surname><given-names>P</given-names></name>
+<name><surname>Vazeille</surname><given-names>E</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Colon cancer-associated B2 <italic toggle="yes">Escherichia coli</italic> colonize gut mucosa and promote cell proliferation</article-title><source>World J Gastroenterol</source><year>2014</year><volume>20</volume><fpage>6560</fpage><lpage>6572</lpage><pub-id pub-id-type="doi">10.3748/wjg.v20.i21.6560</pub-id><?supplied-pmid 24914378?><pub-id pub-id-type="pmid">24914378</pub-id>
+</element-citation></ref><ref id="R14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wirbel</surname><given-names>J</given-names></name>
+<name><surname>Pyl</surname><given-names>PT</given-names></name>
+<name><surname>Kartal</surname><given-names>E</given-names></name>
+<name><surname>Zych</surname><given-names>K</given-names></name>
+<name><surname>Kashani</surname><given-names>A</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Meta-analysis of fecal metagenomes reveals global microbial signatures that are specific for colorectal cancer</article-title><source>Nat Med</source><year>2019</year><volume>25</volume><fpage>679</fpage><lpage>689</lpage><pub-id pub-id-type="doi">10.1038/s41591-019-0406-6</pub-id><?supplied-pmid 30936547?><pub-id pub-id-type="pmid">30936547</pub-id>
+</element-citation></ref><ref id="R15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dziuba&#x00144;ska-Kusibab</surname><given-names>PJ</given-names></name>
+<name><surname>Berger</surname><given-names>H</given-names></name>
+<name><surname>Battistini</surname><given-names>F</given-names></name>
+<name><surname>Bouwman</surname><given-names>BAM</given-names></name>
+<name><surname>Iftekhar</surname><given-names>A</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Colibactin DNA-damage signature indicates mutational impact in colorectal cancer</article-title><source>Nat Med</source><year>2020</year><volume>26</volume><fpage>1063</fpage><lpage>1069</lpage><pub-id pub-id-type="doi">10.1038/s41591-020-0908-2</pub-id><?supplied-pmid 32483361?><pub-id pub-id-type="pmid">32483361</pub-id>
+</element-citation></ref><ref id="R16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pleguezuelos-Manzano</surname><given-names>C</given-names></name>
+<name><surname>Puschhof</surname><given-names>J</given-names></name>
+<name><surname>Rosendahl Huber</surname><given-names>A</given-names></name>
+<name><surname>van Hoeck</surname><given-names>A</given-names></name>
+<name><surname>Wood</surname><given-names>HM</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Mutational signature in colorectal cancer caused by genotoxic pks+ <italic toggle="yes">E. coli</italic>
+</article-title><source>Nature</source><year>2020</year><volume>580</volume><fpage>269</fpage><lpage>273</lpage><pub-id pub-id-type="doi">10.1038/s41586-020-2080-8</pub-id><pub-id pub-id-type="pmid">32106218</pub-id>
+</element-citation></ref><ref id="R17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cuevas-Ramos</surname><given-names>G</given-names></name>
+<name><surname>Petit</surname><given-names>CR</given-names></name>
+<name><surname>Marcq</surname><given-names>I</given-names></name>
+<name><surname>Boury</surname><given-names>M</given-names></name>
+<name><surname>Oswald</surname><given-names>E</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>
+<italic toggle="yes">Escherichia coli</italic> induces DNA damage in vivo and triggers genomic instability in mammalian cells</article-title><source>Proc Natl Acad Sci U S A</source><year>2010</year><volume>107</volume><fpage>11537</fpage><lpage>11542</lpage><pub-id pub-id-type="doi">10.1073/pnas.1001261107</pub-id><?supplied-pmid 20534522?><pub-id pub-id-type="pmid">20534522</pub-id>
+</element-citation></ref><ref id="R18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Secher</surname><given-names>T</given-names></name>
+<name><surname>Samba-Louaka</surname><given-names>A</given-names></name>
+<name><surname>Oswald</surname><given-names>E</given-names></name>
+<name><surname>Nougayr&#x000e8;de</surname><given-names>JP</given-names></name>
+</person-group><article-title>
+<italic toggle="yes">Escherichia coli</italic> producing colibactin triggers premature and transmissible senescence in mammalian cells</article-title><source>PLoS One</source><year>2013</year><volume>8</volume><elocation-id>e77157</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0077157</pub-id><?supplied-pmid 24116215?><pub-id pub-id-type="pmid">24116215</pub-id>
+</element-citation></ref><ref id="R19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cougnoux</surname><given-names>A</given-names></name>
+<name><surname>Dalmasso</surname><given-names>G</given-names></name>
+<name><surname>Martinez</surname><given-names>R</given-names></name>
+<name><surname>Buc</surname><given-names>E</given-names></name>
+<name><surname>Delmas</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Bacterial genotoxin colibactin promotes colon tumour growth by inducing a senescence-associated secretory phenotype</article-title><source>Gut</source><year>2014</year><volume>63</volume><fpage>1932</fpage><lpage>1942</lpage><pub-id pub-id-type="doi">10.1136/gutjnl-2013-305257</pub-id><?supplied-pmid 24658599?><pub-id pub-id-type="pmid">24658599</pub-id>
+</element-citation></ref><ref id="R20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bossuet-Greif</surname><given-names>N</given-names></name>
+<name><surname>Vignard</surname><given-names>J</given-names></name>
+<name><surname>Taieb</surname><given-names>F</given-names></name>
+<name><surname>Mirey</surname><given-names>G</given-names></name>
+<name><surname>Dubois</surname><given-names>D</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The colibactin genotoxin generates DNA interstrand cross-links in infected cells</article-title><source>mBio</source><year>2018</year><volume>9</volume><elocation-id>e02393-17</elocation-id><pub-id pub-id-type="doi">10.1128/mBio.02393-17</pub-id><?supplied-pmid 29559578?><pub-id pub-id-type="pmid">29559578</pub-id>
+</element-citation></ref><ref id="R21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wilson</surname><given-names>MR</given-names></name>
+<name><surname>Jiang</surname><given-names>Y</given-names></name>
+<name><surname>Villalta</surname><given-names>PW</given-names></name>
+<name><surname>Stornetta</surname><given-names>A</given-names></name>
+<name><surname>Boudreau</surname><given-names>PD</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The human gut bacterial genotoxin colibactin alkylates DNA</article-title><source>Science</source><year>2019</year><volume>363</volume><elocation-id>eaar7785</elocation-id><pub-id pub-id-type="doi">10.1126/science.aar7785</pub-id><?supplied-pmid 30765538?><pub-id pub-id-type="pmid">30765538</pub-id>
+</element-citation></ref><ref id="R22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xue</surname><given-names>M</given-names></name>
+<name><surname>Kim</surname><given-names>CS</given-names></name>
+<name><surname>Healy</surname><given-names>AR</given-names></name>
+<name><surname>Wernke</surname><given-names>KM</given-names></name>
+<name><surname>Wang</surname><given-names>Z</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Structure elucidation of colibactin and its DNA cross-links</article-title><source>Science</source><year>2019</year><volume>365</volume><elocation-id>eaax2685</elocation-id><pub-id pub-id-type="doi">10.1126/science.aax2685</pub-id><?supplied-pmid 31395743?><pub-id pub-id-type="pmid">31395743</pub-id>
+</element-citation></ref><ref id="R23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wernke</surname><given-names>KM</given-names></name>
+<name><surname>Xue</surname><given-names>M</given-names></name>
+<name><surname>Tirla</surname><given-names>A</given-names></name>
+<name><surname>Kim</surname><given-names>CS</given-names></name>
+<name><surname>Crawford</surname><given-names>JM</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Structure and bioactivity of colibactin</article-title><source>Bioorg Med Chem Lett</source><year>2020</year><volume>30</volume><fpage>127280</fpage><pub-id pub-id-type="doi">10.1016/j.bmcl.2020.127280</pub-id><?supplied-pmid 32527463?><pub-id pub-id-type="pmid">32527463</pub-id>
+</element-citation></ref><ref id="R24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Iftekhar</surname><given-names>A</given-names></name>
+<name><surname>Berger</surname><given-names>H</given-names></name>
+<name><surname>Bouznad</surname><given-names>N</given-names></name>
+<name><surname>Heuberger</surname><given-names>J</given-names></name>
+<name><surname>Boccellato</surname><given-names>F</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Genomic aberrations after short-term exposure to colibactin-producing <italic toggle="yes">E. coli</italic> transform primary colon epithelial cells</article-title><source>Nat Commun</source><year>2021</year><volume>12</volume><elocation-id>1003</elocation-id><pub-id pub-id-type="doi">10.1038/s41467-021-21162-y</pub-id><?supplied-pmid 33579932?><pub-id pub-id-type="pmid">33579932</pub-id>
+</element-citation></ref><ref id="R25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dougherty</surname><given-names>MW</given-names></name>
+<name><surname>Vald&#x000e9;s-Mas</surname><given-names>R</given-names></name>
+<name><surname>Wernke</surname><given-names>KM</given-names></name>
+<name><surname>Gharaibeh</surname><given-names>RZ</given-names></name>
+<name><surname>Yang</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The microbial genotoxin colibactin exacerbates mismatch repair mutations in colorectal tumors</article-title><source>Neoplasia</source><year>2023</year><volume>43</volume><elocation-id>100918</elocation-id><pub-id pub-id-type="doi">10.1016/j.neo.2023.100918</pub-id><?supplied-pmid 37499275?><pub-id pub-id-type="pmid">37499275</pub-id>
+</element-citation></ref><ref id="R26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vizcaino</surname><given-names>MI</given-names></name>
+<name><surname>Crawford</surname><given-names>JM</given-names></name>
+</person-group><article-title>The colibactin warhead crosslinks DNA</article-title><source>Nature Chem</source><year>2015</year><volume>7</volume><fpage>411</fpage><lpage>417</lpage><pub-id pub-id-type="doi">10.1038/nchem.2221</pub-id><pub-id pub-id-type="pmid">25901819</pub-id>
+</element-citation></ref><ref id="R27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Healy</surname><given-names>AR</given-names></name>
+<name><surname>Nikolayevskiy</surname><given-names>H</given-names></name>
+<name><surname>Patel</surname><given-names>JR</given-names></name>
+<name><surname>Crawford</surname><given-names>JM</given-names></name>
+<name><surname>Herzon</surname><given-names>SB</given-names></name>
+</person-group><article-title>A mechanistic model for colibactin-induced genotoxicity</article-title><source>J Am Chem Soc</source><year>2016</year><volume>138</volume><fpage>15563</fpage><lpage>15570</lpage><pub-id pub-id-type="doi">10.1021/jacs.6b10354</pub-id><pub-id pub-id-type="pmid">27934011</pub-id>
+</element-citation></ref><ref id="R28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tronnet</surname><given-names>S</given-names></name>
+<name><surname>Floch</surname><given-names>P</given-names></name>
+<name><surname>Lucarelli</surname><given-names>L</given-names></name>
+<name><surname>Gaillard</surname><given-names>D</given-names></name>
+<name><surname>Martin</surname><given-names>P</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The genotoxin colibactin shapes gut microbiota in mice</article-title><source>mSphere</source><year>2020</year><volume>5</volume><elocation-id>e00589-20</elocation-id><pub-id pub-id-type="doi">10.1128/mSphere.00589-20</pub-id><?supplied-pmid 32611705?><pub-id pub-id-type="pmid">32611705</pub-id>
+</element-citation></ref><ref id="R29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>J</given-names></name>
+<name><surname>Byun</surname><given-names>H</given-names></name>
+<name><surname>Liu</surname><given-names>R</given-names></name>
+<name><surname>Jung</surname><given-names>I-J</given-names></name>
+<name><surname>Pu</surname><given-names>Q</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>A commensal-encoded genotoxin drives restriction of <italic toggle="yes">Vibrio cholerae</italic> colonization and host gut microbiome remodeling</article-title><source>Proc Natl Acad Sci U S A</source><year>2022</year><volume>119</volume><elocation-id>e2121180119</elocation-id><pub-id pub-id-type="doi">10.1073/pnas.2121180119</pub-id><?supplied-pmid 35254905?><pub-id pub-id-type="pmid">35254905</pub-id>
+</element-citation></ref><ref id="R30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Silpe</surname><given-names>JE</given-names></name>
+<name><surname>Wong</surname><given-names>JWH</given-names></name>
+<name><surname>Owen</surname><given-names>SV</given-names></name>
+<name><surname>Baym</surname><given-names>M</given-names></name>
+<name><surname>Balskus</surname><given-names>EP</given-names></name>
+</person-group><article-title>The bacterial toxin colibactin triggers prophage induction</article-title><source>Nature</source><year>2022</year><volume>603</volume><fpage>315</fpage><lpage>320</lpage><pub-id pub-id-type="doi">10.1038/s41586-022-04444-3</pub-id><?supplied-pmid 35197633?><pub-id pub-id-type="pmid">35197633</pub-id>
+</element-citation></ref><ref id="R31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wong</surname><given-names>JJ</given-names></name>
+<name><surname>Ho</surname><given-names>FK</given-names></name>
+<name><surname>Choo</surname><given-names>PY</given-names></name>
+<name><surname>Chong</surname><given-names>KKL</given-names></name>
+<name><surname>Ho</surname><given-names>CMB</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>
+<italic toggle="yes">Escherichia coli</italic> BarA-UvrY regulates the <italic toggle="yes">pks</italic> island and kills Staphylococci via the genotoxin colibactin during interspecies competition</article-title><source>PLoS Pathog</source><year>2022</year><volume>18</volume><elocation-id>e1010766</elocation-id><pub-id pub-id-type="doi">10.1371/journal.ppat.1010766</pub-id><pub-id pub-id-type="pmid">36067266</pub-id>
+</element-citation></ref><ref id="R32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Homburg</surname><given-names>S</given-names></name>
+<name><surname>Oswald</surname><given-names>E</given-names></name>
+<name><surname>Hacker</surname><given-names>J</given-names></name>
+<name><surname>Dobrindt</surname><given-names>U</given-names></name>
+</person-group><article-title>Expression analysis of the colibactin gene cluster coding for a novel polyketide in <italic toggle="yes">Escherichia coli</italic>
+</article-title><source>FEMS Microbiol Lett</source><year>2007</year><volume>275</volume><fpage>255</fpage><lpage>262</lpage><pub-id pub-id-type="doi">10.1111/j.1574-6968.2007.00889.x</pub-id><?supplied-pmid 17714479?><pub-id pub-id-type="pmid">17714479</pub-id>
+</element-citation></ref><ref id="R33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wallenstein</surname><given-names>A</given-names></name>
+<name><surname>Rehm</surname><given-names>N</given-names></name>
+<name><surname>Brinkmann</surname><given-names>M</given-names></name>
+<name><surname>Selle</surname><given-names>M</given-names></name>
+<name><surname>Bossuet-Greif</surname><given-names>N</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>ClbR is the key transcriptional activator of colibactin gene expression in <italic toggle="yes">Escherichia coli</italic>
+</article-title><source>mSphere</source><year>2020</year><volume>5</volume><elocation-id>e00591-20</elocation-id><pub-id pub-id-type="doi">10.1128/mSphere.00591-20</pub-id><?supplied-pmid 32669458?><pub-id pub-id-type="pmid">32669458</pub-id>
+</element-citation></ref><ref id="R34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fa&#x000ef;s</surname><given-names>T</given-names></name>
+<name><surname>Delmas</surname><given-names>J</given-names></name>
+<name><surname>Barnich</surname><given-names>N</given-names></name>
+<name><surname>Bonnet</surname><given-names>R</given-names></name>
+<name><surname>Dalmasso</surname><given-names>G</given-names></name>
+</person-group><article-title>Colibactin: more than a new bacterial toxin</article-title><source>Toxins</source><year>2018</year><volume>10</volume><elocation-id>151</elocation-id><pub-id pub-id-type="doi">10.3390/toxins10040151</pub-id><?supplied-pmid 29642622?><pub-id pub-id-type="pmid">29642622</pub-id>
+</element-citation></ref><ref id="R35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dougherty</surname><given-names>MW</given-names></name>
+<name><surname>Jobin</surname><given-names>C</given-names></name>
+</person-group><article-title>Shining a light on colibactin biology</article-title><source>Toxins</source><year>2021</year><volume>13</volume><elocation-id>346</elocation-id><pub-id pub-id-type="doi">10.3390/toxins13050346</pub-id><?supplied-pmid 34065799?><pub-id pub-id-type="pmid">34065799</pub-id>
+</element-citation></ref><ref id="R36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chagneau</surname><given-names>CV</given-names></name>
+<name><surname>Payros</surname><given-names>D</given-names></name>
+<name><surname>Tang-Fichaux</surname><given-names>M</given-names></name>
+<name><surname>Auvray</surname><given-names>F</given-names></name>
+<name><surname>Nougayr&#x000e8;de</surname><given-names>JP</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The pks island: a bacterial Swiss army knife? Colibactin: beyond DNA damage and cancer</article-title><source>Trends Microbiol</source><year>2022</year><volume>30</volume><fpage>1146</fpage><lpage>1159</lpage><pub-id pub-id-type="doi">10.1016/j.tim.2022.05.010</pub-id><?supplied-pmid 35672224?><pub-id pub-id-type="pmid">35672224</pub-id>
+</element-citation></ref><ref id="R37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Brotherton</surname><given-names>CA</given-names></name>
+<name><surname>Balskus</surname><given-names>EP</given-names></name>
+</person-group><article-title>A prodrug resistance mechanism is involved in colibactin biosynthesis and cytotoxicity</article-title><source>J Am Chem Soc</source><year>2013</year><volume>135</volume><fpage>3359</fpage><lpage>3362</lpage><pub-id pub-id-type="doi">10.1021/ja312154m</pub-id><?supplied-pmid 23406518?><pub-id pub-id-type="pmid">23406518</pub-id>
+</element-citation></ref><ref id="R38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bian</surname><given-names>X</given-names></name>
+<name><surname>Plaza</surname><given-names>A</given-names></name>
+<name><surname>Zhang</surname><given-names>Y</given-names></name>
+<name><surname>M&#x000fc;ller</surname><given-names>R</given-names></name>
+</person-group><article-title>Two more pieces of the colibactin genotoxin puzzle from <italic toggle="yes">Escherichia coli</italic> show incorporation of an unusual 1-aminocyclopropanecarboxylic acid moiety</article-title><source>Chem Sci</source><year>2015</year><volume>6</volume><fpage>3154</fpage><lpage>3160</lpage><pub-id pub-id-type="doi">10.1039/c5sc00101c</pub-id><?supplied-pmid 28706687?><pub-id pub-id-type="pmid">28706687</pub-id>
+</element-citation></ref><ref id="R39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zha</surname><given-names>L</given-names></name>
+<name><surname>Jiang</surname><given-names>Y</given-names></name>
+<name><surname>Henke</surname><given-names>MT</given-names></name>
+<name><surname>Wilson</surname><given-names>MR</given-names></name>
+<name><surname>Wang</surname><given-names>JX</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Colibactin assembly line enzymes use S-adenosylmethionine to build a cyclopropane ring</article-title><source>Nat Chem Biol</source><year>2017</year><volume>13</volume><fpage>1063</fpage><lpage>1065</lpage><pub-id pub-id-type="doi">10.1038/nchembio.2448</pub-id><?supplied-pmid 28805802?><pub-id pub-id-type="pmid">28805802</pub-id>
+</element-citation></ref><ref id="R40"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bian</surname><given-names>X</given-names></name>
+<name><surname>Fu</surname><given-names>J</given-names></name>
+<name><surname>Plaza</surname><given-names>A</given-names></name>
+<name><surname>Herrmann</surname><given-names>J</given-names></name>
+<name><surname>Pistorius</surname><given-names>D</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>In vivo evidence for a prodrug activation mechanism during colibactin maturation</article-title><source>Chembiochem</source><year>2013</year><volume>14</volume><fpage>1194</fpage><lpage>1197</lpage><pub-id pub-id-type="doi">10.1002/cbic.201300208</pub-id><?supplied-pmid 23744512?><pub-id pub-id-type="pmid">23744512</pub-id>
+</element-citation></ref><ref id="R41"><label>41</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zha</surname><given-names>L</given-names></name>
+<name><surname>Wilson</surname><given-names>MR</given-names></name>
+<name><surname>Brotherton</surname><given-names>CA</given-names></name>
+<name><surname>Balskus</surname><given-names>EP</given-names></name>
+</person-group><article-title>Characterization of polyketide synthase machinery from the pks island facilitates isolation of a candidate precolibactin</article-title><source>ACS Chem Biol</source><year>2016</year><volume>11</volume><fpage>1287</fpage><lpage>1295</lpage><pub-id pub-id-type="doi">10.1021/acschembio.6b00014</pub-id><?supplied-pmid 26890481?><pub-id pub-id-type="pmid">26890481</pub-id>
+</element-citation></ref><ref id="R42"><label>42</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Trautman</surname><given-names>EP</given-names></name>
+<name><surname>Healy</surname><given-names>AR</given-names></name>
+<name><surname>Shine</surname><given-names>EE</given-names></name>
+<name><surname>Herzon</surname><given-names>SB</given-names></name>
+<name><surname>Crawford</surname><given-names>JM</given-names></name>
+</person-group><article-title>Domain-targeted metabolomics delineates the heterocycle assembly steps of colibactin biosynthesis</article-title><source>J Am Chem Soc</source><year>2017</year><volume>139</volume><fpage>4195</fpage><lpage>4201</lpage><pub-id pub-id-type="doi">10.1021/jacs.7b00659</pub-id><?supplied-pmid 28240912?><pub-id pub-id-type="pmid">28240912</pub-id>
+</element-citation></ref><ref id="R43"><label>43</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z-R</given-names></name>
+<name><surname>Li</surname><given-names>J</given-names></name>
+<name><surname>Gu</surname><given-names>J-P</given-names></name>
+<name><surname>Lai</surname><given-names>JYH</given-names></name>
+<name><surname>Duggan</surname><given-names>BM</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Divergent biosynthesis yields a cytotoxic aminomalonate-containing precolibactin</article-title><source>Nat Chem Biol</source><year>2016</year><volume>12</volume><fpage>773</fpage><lpage>775</lpage><pub-id pub-id-type="doi">10.1038/nchembio.2157</pub-id><?supplied-pmid 27547923?><pub-id pub-id-type="pmid">27547923</pub-id>
+</element-citation></ref><ref id="R44"><label>44</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Guntaka</surname><given-names>NS</given-names></name>
+<name><surname>Healy</surname><given-names>AR</given-names></name>
+<name><surname>Crawford</surname><given-names>JM</given-names></name>
+<name><surname>Herzon</surname><given-names>SB</given-names></name>
+<name><surname>Bruner</surname><given-names>SD</given-names></name>
+</person-group><article-title>Structure and functional analysis of ClbQ, an unusual intermediate-releasing thioesterase from the colibactin biosynthetic pathway</article-title><source>ACS Chem Biol</source><year>2017</year><volume>12</volume><fpage>2598</fpage><lpage>2608</lpage><pub-id pub-id-type="doi">10.1021/acschembio.7b00479</pub-id><pub-id pub-id-type="pmid">28846367</pub-id>
+</element-citation></ref><ref id="R45"><label>45</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tripathi</surname><given-names>P</given-names></name>
+<name><surname>Shine</surname><given-names>EE</given-names></name>
+<name><surname>Healy</surname><given-names>AR</given-names></name>
+<name><surname>Kim</surname><given-names>CS</given-names></name>
+<name><surname>Herzon</surname><given-names>SB</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>ClbS is a cyclopropane hydrolase that confers colibactin resistance</article-title><source>J Am Chem Soc</source><year>2017</year><volume>139</volume><fpage>17719</fpage><lpage>17722</lpage><pub-id pub-id-type="doi">10.1021/jacs.7b09971</pub-id><?supplied-pmid 29112397?><pub-id pub-id-type="pmid">29112397</pub-id>
+</element-citation></ref><ref id="R46"><label>46</label><element-citation publication-type="preprint"><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>Y</given-names></name>
+<name><surname>Stornetta</surname><given-names>A</given-names></name>
+<name><surname>Villalta</surname><given-names>PW</given-names></name>
+<name><surname>Wilson</surname><given-names>MR</given-names></name>
+<name><surname>Boudreau</surname><given-names>PD</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The reactivity of an unusual amidase may explain colibactin&#x02019;s DNA cross-linking activity</article-title><source>Biochemistry</source><year>2019</year><pub-id pub-id-type="doi">10.1101/567248</pub-id></element-citation></ref><ref id="R47"><label>47</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dubois</surname><given-names>D</given-names></name>
+<name><surname>Baron</surname><given-names>O</given-names></name>
+<name><surname>Cougnoux</surname><given-names>A</given-names></name>
+<name><surname>Delmas</surname><given-names>J</given-names></name>
+<name><surname>Pradel</surname><given-names>N</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>ClbP is a prototype of a peptidase subgroup involved in biosynthesis of nonribosomal peptides</article-title><source>J Biol Chem</source><year>2011</year><volume>286</volume><fpage>35562</fpage><lpage>35570</lpage><pub-id pub-id-type="doi">10.1074/jbc.M111.221960</pub-id><?supplied-pmid 21795676?><pub-id pub-id-type="pmid">21795676</pub-id>
+</element-citation></ref><ref id="R48"><label>48</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mousa</surname><given-names>JJ</given-names></name>
+<name><surname>Yang</surname><given-names>Y</given-names></name>
+<name><surname>Tomkovich</surname><given-names>S</given-names></name>
+<name><surname>Shima</surname><given-names>A</given-names></name>
+<name><surname>Newsome</surname><given-names>RC</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>MATE transport of the <italic toggle="yes">E. coli</italic>-derived genotoxin colibactin</article-title><source>Nat Microbiol</source><year>2016</year><volume>1</volume><fpage>15009</fpage><pub-id pub-id-type="doi">10.1038/nmicrobiol.2015.9</pub-id><?supplied-pmid 27571755?><pub-id pub-id-type="pmid">27571755</pub-id>
+</element-citation></ref><ref id="R49"><label>49</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Putze</surname><given-names>J</given-names></name>
+<name><surname>Hennequin</surname><given-names>C</given-names></name>
+<name><surname>Nougayr&#x000e8;de</surname><given-names>J-P</given-names></name>
+<name><surname>Zhang</surname><given-names>W</given-names></name>
+<name><surname>Homburg</surname><given-names>S</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Genetic structure and distribution of the colibactin genomic island among members of the family <italic toggle="yes">Enterobacteriaceae</italic>
+</article-title><source>Infect Immun</source><year>2009</year><volume>77</volume><fpage>4696</fpage><lpage>4703</lpage><pub-id pub-id-type="doi">10.1128/IAI.00522-09</pub-id><?supplied-pmid 19720753?><pub-id pub-id-type="pmid">19720753</pub-id>
+</element-citation></ref><ref id="R50"><label>50</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Garcie</surname><given-names>C</given-names></name>
+<name><surname>Tronnet</surname><given-names>S</given-names></name>
+<name><surname>Gar&#x000e9;naux</surname><given-names>A</given-names></name>
+<name><surname>McCarthy</surname><given-names>AJ</given-names></name>
+<name><surname>Brachmann</surname><given-names>AO</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The bacterial stress-responsive Hsp90 chaperone (HtpG) Is required for the production of the genotoxin colibactin and the siderophore yersiniabactin in <italic toggle="yes">Escherichia coli</italic>
+</article-title><source>J Infect Dis</source><year>2016</year><volume>214</volume><fpage>916</fpage><lpage>924</lpage><pub-id pub-id-type="doi">10.1093/infdis/jiw294</pub-id><?supplied-pmid 27412582?><pub-id pub-id-type="pmid">27412582</pub-id>
+</element-citation></ref><ref id="R51"><label>51</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Corteggiani</surname><given-names>M</given-names></name>
+<name><surname>Bossuet-Greif</surname><given-names>N</given-names></name>
+<name><surname>Nougayr&#x000e8;de</surname><given-names>J-P</given-names></name>
+<name><surname>Byrne</surname><given-names>D</given-names></name>
+<name><surname>Ilbert</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Uncoupling the Hsp90 and DnaK chaperone activities revealed the in vivo relevance of their collaboration in bacteria</article-title><source>Proc Natl Acad Sci U S A</source><year>2022</year><volume>119</volume><elocation-id>e2201779119</elocation-id><pub-id pub-id-type="doi">10.1073/pnas.2201779119</pub-id><?supplied-pmid 36070342?><pub-id pub-id-type="pmid">36070342</pub-id>
+</element-citation></ref><ref id="R52"><label>52</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Genest</surname><given-names>O</given-names></name>
+<name><surname>Hoskins</surname><given-names>JR</given-names></name>
+<name><surname>Camberg</surname><given-names>JL</given-names></name>
+<name><surname>Doyle</surname><given-names>SM</given-names></name>
+<name><surname>Wickner</surname><given-names>S</given-names></name>
+</person-group><article-title>Heat shock protein 90 from <italic toggle="yes">Escherichia coli</italic> collaborates with the DnaK chaperone system in client protein remodeling</article-title><source>Proc Natl Acad Sci U S A</source><year>2011</year><volume>108</volume><fpage>8206</fpage><lpage>8211</lpage><pub-id pub-id-type="doi">10.1073/pnas.1104703108</pub-id><?supplied-pmid 21525416?><pub-id pub-id-type="pmid">21525416</pub-id>
+</element-citation></ref><ref id="R53"><label>53</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vivien</surname><given-names>E</given-names></name>
+<name><surname>Megessier</surname><given-names>S</given-names></name>
+<name><surname>Pieretti</surname><given-names>I</given-names></name>
+<name><surname>Cociancich</surname><given-names>S</given-names></name>
+<name><surname>Frutos</surname><given-names>R</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>
+<italic toggle="yes">Xanthomonas albilineans</italic> HtpG is required for biosynthesis of the antibiotic and phytotoxin albicidin</article-title><source>FEMS Microbiol Lett</source><year>2005</year><volume>251</volume><fpage>81</fpage><lpage>89</lpage><pub-id pub-id-type="doi">10.1016/j.femsle.2005.07.026</pub-id><?supplied-pmid 16102911?><pub-id pub-id-type="pmid">16102911</pub-id>
+</element-citation></ref><ref id="R54"><label>54</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Washio</surname><given-names>K</given-names></name>
+<name><surname>Lim</surname><given-names>SP</given-names></name>
+<name><surname>Roongsawang</surname><given-names>N</given-names></name>
+<name><surname>Morikawa</surname><given-names>M</given-names></name>
+</person-group><article-title>Identification and characterization of the genes responsible for the production of the cyclic lipopeptide arthrofactin by <italic toggle="yes">Pseudomonas</italic> sp. MIS38</article-title><source>Biosci Biotechnol Biochem</source><year>2010</year><volume>74</volume><fpage>992</fpage><lpage>999</lpage><pub-id pub-id-type="doi">10.1271/bbb.90860</pub-id><?supplied-pmid 20460722?><pub-id pub-id-type="pmid">20460722</pub-id>
+</element-citation></ref><ref id="R55"><label>55</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rao</surname><given-names>NN</given-names></name>
+<name><surname>G&#x000f3;mez-Garc&#x000ed;a</surname><given-names>MR</given-names></name>
+<name><surname>Kornberg</surname><given-names>A</given-names></name>
+</person-group><article-title>Inorganic polyphosphate: essential for growth and survival</article-title><source>Annu Rev Biochem</source><year>2009</year><volume>78</volume><fpage>605</fpage><lpage>647</lpage><pub-id pub-id-type="doi">10.1146/annurev.biochem.77.083007.093039</pub-id><?supplied-pmid 19344251?><pub-id pub-id-type="pmid">19344251</pub-id>
+</element-citation></ref><ref id="R56"><label>56</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tang-Fichaux</surname><given-names>M</given-names></name>
+<name><surname>Chagneau</surname><given-names>CV</given-names></name>
+<name><surname>Bossuet-Greif</surname><given-names>N</given-names></name>
+<name><surname>Nougayr&#x000e8;de</surname><given-names>J-P</given-names></name>
+<name><surname>Oswald</surname><given-names>&#x000c9;</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The polyphosphate kinase of <italic toggle="yes">Escherichia coli</italic> is required for full production of the genotoxin colibactin</article-title><source>mSphere</source><year>2020</year><volume>5</volume><elocation-id>e01195-20</elocation-id><pub-id pub-id-type="doi">10.1128/mSphere.01195-20</pub-id><?supplied-pmid 33328353?><pub-id pub-id-type="pmid">33328353</pub-id>
+</element-citation></ref><ref id="R57"><label>57</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Albi</surname><given-names>T</given-names></name>
+<name><surname>Serrano</surname><given-names>A</given-names></name>
+</person-group><article-title>Inorganic polyphosphate in the microbial world. Emerging roles for a multifaceted biopolymer</article-title><source>World J Microbiol Biotechnol</source><year>2016</year><volume>32</volume><fpage>27</fpage><pub-id pub-id-type="doi">10.1007/s11274-015-1983-2</pub-id><?supplied-pmid 26748804?><pub-id pub-id-type="pmid">26748804</pub-id>
+</element-citation></ref><ref id="R58"><label>58</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bowlin</surname><given-names>MQ</given-names></name>
+<name><surname>Gray</surname><given-names>MJ</given-names></name>
+</person-group><article-title>Inorganic polyphosphate in host and microbe biology</article-title><source>Trends Microbiol</source><year>2021</year><volume>29</volume><fpage>1013</fpage><lpage>1023</lpage><pub-id pub-id-type="doi">10.1016/j.tim.2021.02.002</pub-id><?supplied-pmid 33632603?><pub-id pub-id-type="pmid">33632603</pub-id>
+</element-citation></ref><ref id="R59"><label>59</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tronnet</surname><given-names>S</given-names></name>
+<name><surname>Garcie</surname><given-names>C</given-names></name>
+<name><surname>Rehm</surname><given-names>N</given-names></name>
+<name><surname>Dobrindt</surname><given-names>U</given-names></name>
+<name><surname>Oswald</surname><given-names>E</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Iron homeostasis regulates the genotoxicity of <italic toggle="yes">Escherichia coli</italic> that produces colibactin</article-title><source>Infect Immun</source><year>2016</year><volume>84</volume><fpage>3358</fpage><lpage>3368</lpage><pub-id pub-id-type="doi">10.1128/IAI.00659-16</pub-id><?supplied-pmid 27620723?><pub-id pub-id-type="pmid">27620723</pub-id>
+</element-citation></ref><ref id="R60"><label>60</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rehm</surname><given-names>N</given-names></name>
+<name><surname>Wallenstein</surname><given-names>A</given-names></name>
+<name><surname>Keizers</surname><given-names>M</given-names></name>
+<name><surname>Homburg</surname><given-names>S</given-names></name>
+<name><surname>Magistro</surname><given-names>G</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Two polyketides intertwined in complex regulation: posttranscriptional CsrA-mediated control of colibactin and yersiniabactin synthesis in <italic toggle="yes">Escherichia coli</italic>
+</article-title><source>mBio</source><year>2021</year><volume>13</volume><elocation-id>e0381421</elocation-id><pub-id pub-id-type="doi">10.1128/mbio.03814-21</pub-id><?supplied-pmid 35100864?><pub-id pub-id-type="pmid">35100864</pub-id>
+</element-citation></ref><ref id="R61"><label>61</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bossuet</surname><given-names>N</given-names></name>
+<name><surname>Guyonnet</surname><given-names>C</given-names></name>
+<name><surname>Chagneau</surname><given-names>CV</given-names></name>
+<name><surname>Tang-Fichaux</surname><given-names>M</given-names></name>
+<name><surname>Penary</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Oxygen concentration modulates colibactin production</article-title><source>Gut Microbes</source><year>2023</year><volume>15</volume><elocation-id>2222437</elocation-id><pub-id pub-id-type="doi">10.1080/19490976.2023.2222437</pub-id><?supplied-pmid 37312436?><pub-id pub-id-type="pmid">37312436</pub-id>
+</element-citation></ref><ref id="R62"><label>62</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alvarez</surname><given-names>AF</given-names></name>
+<name><surname>Rodr&#x000ed;guez</surname><given-names>C</given-names></name>
+<name><surname>Gonz&#x000e1;lez-Ch&#x000e1;vez</surname><given-names>R</given-names></name>
+<name><surname>Georgellis</surname><given-names>D</given-names></name>
+</person-group><article-title>The <italic toggle="yes">Escherichia coli</italic> two-component signal sensor BarA binds protonated acetate via a conserved hydrophobic-binding pocket</article-title><source>J Biol Chem</source><year>2021</year><volume>297</volume><elocation-id>101383</elocation-id><pub-id pub-id-type="doi">10.1016/j.jbc.2021.101383</pub-id><?supplied-pmid 34743001?><pub-id pub-id-type="pmid">34743001</pub-id>
+</element-citation></ref><ref id="R63"><label>63</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Contreras</surname><given-names>FU</given-names></name>
+<name><surname>Camacho</surname><given-names>MI</given-names></name>
+<name><surname>Pannuri</surname><given-names>A</given-names></name>
+<name><surname>Romeo</surname><given-names>T</given-names></name>
+<name><surname>Alvarez</surname><given-names>AF</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Spatiotemporal regulation of the BarA/UvrY two-component signaling system</article-title><source>J Biol Chem</source><year>2023</year><volume>299</volume><elocation-id>104835</elocation-id><pub-id pub-id-type="doi">10.1016/j.jbc.2023.104835</pub-id><?supplied-pmid 37201582?><pub-id pub-id-type="pmid">37201582</pub-id>
+</element-citation></ref><ref id="R64"><label>64</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gonzalez Chavez</surname><given-names>R</given-names></name>
+<name><surname>Alvarez</surname><given-names>AF</given-names></name>
+<name><surname>Romeo</surname><given-names>T</given-names></name>
+<name><surname>Georgellis</surname><given-names>D</given-names></name>
+</person-group><article-title>The physiological stimulus for the BarA sensor kinase</article-title><source>J Bacteriol</source><year>2010</year><volume>192</volume><fpage>2009</fpage><lpage>2012</lpage><pub-id pub-id-type="doi">10.1128/JB.01685-09</pub-id><pub-id pub-id-type="pmid">20118252</pub-id>
+</element-citation></ref><ref id="R65"><label>65</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tronnet</surname><given-names>S</given-names></name>
+<name><surname>Garcie</surname><given-names>C</given-names></name>
+<name><surname>Brachmann</surname><given-names>AO</given-names></name>
+<name><surname>Piel</surname><given-names>J</given-names></name>
+<name><surname>Oswald</surname><given-names>E</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>High iron supply inhibits the synthesis of the genotoxin colibactin by pathogenic <italic toggle="yes">Escherichia coli</italic> through a non-canonical Fur/RyhB-mediated pathway</article-title><source>Pathog Dis</source><year>2017</year><volume>75</volume><pub-id pub-id-type="doi">10.1093/femspd/ftx066</pub-id><?supplied-pmid 28637194?><pub-id pub-id-type="pmid">28637194</pub-id>
+</element-citation></ref><ref id="R66"><label>66</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Martin</surname><given-names>P</given-names></name>
+<name><surname>Tronnet</surname><given-names>S</given-names></name>
+<name><surname>Garcie</surname><given-names>C</given-names></name>
+<name><surname>Oswald</surname><given-names>E</given-names></name>
+</person-group><article-title>Interplay between siderophores and colibactin genotoxin in <italic toggle="yes">Escherichia coli</italic>
+</article-title><source>IUBMB Life</source><year>2017</year><volume>69</volume><fpage>435</fpage><lpage>441</lpage><pub-id pub-id-type="doi">10.1002/iub.1612</pub-id><?supplied-pmid 28295919?><pub-id pub-id-type="pmid">28295919</pub-id>
+</element-citation></ref><ref id="R67"><label>67</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mass&#x000e9;</surname><given-names>E</given-names></name>
+<name><surname>Vanderpool</surname><given-names>CK</given-names></name>
+<name><surname>Gottesman</surname><given-names>S</given-names></name>
+</person-group><article-title>Effect of RyhB small RNA on global iron use in <italic toggle="yes">Escherichia coli</italic>
+</article-title><source>J Bacteriol</source><year>2005</year><volume>187</volume><fpage>6962</fpage><lpage>6971</lpage><pub-id pub-id-type="doi">10.1128/JB.187.20.6962-6971.2005</pub-id><?supplied-pmid 16199566?><pub-id pub-id-type="pmid">16199566</pub-id>
+</element-citation></ref><ref id="R68"><label>68</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Salvail</surname><given-names>H</given-names></name>
+<name><surname>Lanthier-Bourbonnais</surname><given-names>P</given-names></name>
+<name><surname>Sobota</surname><given-names>JM</given-names></name>
+<name><surname>Caza</surname><given-names>M</given-names></name>
+<name><surname>Benjamin</surname><given-names>J-AM</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>A small RNA promotes siderophore production through transcriptional and metabolic remodeling</article-title><source>Proc Natl Acad Sci U S A</source><year>2010</year><volume>107</volume><fpage>15223</fpage><lpage>15228</lpage><pub-id pub-id-type="doi">10.1073/pnas.1007805107</pub-id><?supplied-pmid 20696910?><pub-id pub-id-type="pmid">20696910</pub-id>
+</element-citation></ref><ref id="R69"><label>69</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chardalias</surname><given-names>L</given-names></name>
+<name><surname>Papaconstantinou</surname><given-names>I</given-names></name>
+<name><surname>Gklavas</surname><given-names>A</given-names></name>
+<name><surname>Politou</surname><given-names>M</given-names></name>
+<name><surname>Theodosopoulos</surname><given-names>T</given-names></name>
+</person-group><article-title>Iron deficiency anemia in colorectal cancer patients: is preoperative intravenous iron infusion indicated? A narrative review of the literature</article-title><source>Cancer Diagn Progn</source><year>2023</year><volume>3</volume><fpage>163</fpage><lpage>168</lpage><pub-id pub-id-type="doi">10.21873/cdp.10196</pub-id><?supplied-pmid 36875314?><pub-id pub-id-type="pmid">36875314</pub-id>
+</element-citation></ref><ref id="R70"><label>70</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Berndt</surname><given-names>V</given-names></name>
+<name><surname>Beckstette</surname><given-names>M</given-names></name>
+<name><surname>Volk</surname><given-names>M</given-names></name>
+<name><surname>Dersch</surname><given-names>P</given-names></name>
+<name><surname>Br&#x000f6;nstrup</surname><given-names>M</given-names></name>
+</person-group><article-title>Metabolome and transcriptome-wide effects of the carbon storage regulator A in enteropathogenic <italic toggle="yes">Escherichia coli</italic>
+</article-title><source>Sci Rep</source><year>2019</year><volume>9</volume><elocation-id>138</elocation-id><pub-id pub-id-type="doi">10.1038/s41598-018-36932-w</pub-id><?supplied-pmid 30644424?><pub-id pub-id-type="pmid">30644424</pub-id>
+</element-citation></ref><ref id="R71"><label>71</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mirzaei</surname><given-names>R</given-names></name>
+<name><surname>Dehkhodaie</surname><given-names>E</given-names></name>
+<name><surname>Bouzari</surname><given-names>B</given-names></name>
+<name><surname>Rahimi</surname><given-names>M</given-names></name>
+<name><surname>Gholestani</surname><given-names>A</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Dual role of microbiota-derived short-chain fatty acids on host and pathogen</article-title><source>Biomed Pharmacother</source><year>2022</year><volume>145</volume><fpage>112352</fpage><pub-id pub-id-type="doi">10.1016/j.biopha.2021.112352</pub-id><?supplied-pmid 34840032?><pub-id pub-id-type="pmid">34840032</pub-id>
+</element-citation></ref><ref id="R72"><label>72</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>L</given-names></name>
+<name><surname>Kelly</surname><given-names>CJ</given-names></name>
+<name><surname>Colgan</surname><given-names>SP</given-names></name>
+</person-group><article-title>Physiologic hypoxia and oxygen homeostasis in the healthy intestine. A review in the theme: cellular responses to hypoxia</article-title><source>Am J Physiol Cell Physiol</source><year>2015</year><volume>309</volume><fpage>C350</fpage><lpage>60</lpage><pub-id pub-id-type="doi">10.1152/ajpcell.00191.2015</pub-id><?supplied-pmid 26179603?><pub-id pub-id-type="pmid">26179603</pub-id>
+</element-citation></ref><ref id="R73"><label>73</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Brown</surname><given-names>AN</given-names></name>
+<name><surname>Anderson</surname><given-names>MT</given-names></name>
+<name><surname>Bachman</surname><given-names>MA</given-names></name>
+<name><surname>Mobley</surname><given-names>HLT</given-names></name>
+</person-group><article-title>The ArcAB two-component system: function in metabolism, redox control, and infection</article-title><source>Microbiol Mol Biol Rev</source><year>2022</year><volume>86</volume><elocation-id>e0011021</elocation-id><pub-id pub-id-type="doi">10.1128/mmbr.00110-21</pub-id><?supplied-pmid 35442087?><pub-id pub-id-type="pmid">35442087</pub-id>
+</element-citation></ref><ref id="R74"><label>74</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Crofts</surname><given-names>AA</given-names></name>
+<name><surname>Giovanetti</surname><given-names>SM</given-names></name>
+<name><surname>Rubin</surname><given-names>EJ</given-names></name>
+<name><surname>Poly</surname><given-names>FM</given-names></name>
+<name><surname>Guti&#x000e9;rrez</surname><given-names>RL</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Enterotoxigenic <italic toggle="yes">E. coli</italic> virulence gene regulation in human infections</article-title><source>Proc Natl Acad Sci U S A</source><year>2018</year><volume>115</volume><fpage>E8968</fpage><lpage>E8976</lpage><pub-id pub-id-type="doi">10.1073/pnas.1808982115</pub-id><?supplied-pmid 30126994?><pub-id pub-id-type="pmid">30126994</pub-id>
+</element-citation></ref><ref id="R75"><label>75</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Eberly</surname><given-names>AR</given-names></name>
+<name><surname>Floyd</surname><given-names>KA</given-names></name>
+<name><surname>Beebout</surname><given-names>CJ</given-names></name>
+<name><surname>Colling</surname><given-names>SJ</given-names></name>
+<name><surname>Fitzgerald</surname><given-names>MJ</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Biofilm formation by uropathogenic <italic toggle="yes">Escherichia coli</italic> is favored under oxygen conditions that mimic the bladder environment</article-title><source>Int J Mol Sci</source><year>2017</year><volume>18</volume><elocation-id>2077</elocation-id><pub-id pub-id-type="doi">10.3390/ijms18102077</pub-id><?supplied-pmid 28973965?><pub-id pub-id-type="pmid">28973965</pub-id>
+</element-citation></ref><ref id="R76"><label>76</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Marteyn</surname><given-names>B</given-names></name>
+<name><surname>West</surname><given-names>NP</given-names></name>
+<name><surname>Browning</surname><given-names>DF</given-names></name>
+<name><surname>Cole</surname><given-names>JA</given-names></name>
+<name><surname>Shaw</surname><given-names>JG</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Modulation of <italic toggle="yes">Shigella</italic> virulence in response to available oxygen <italic toggle="yes">in vivo</italic>
+</article-title><source>Nature</source><year>2010</year><volume>465</volume><fpage>355</fpage><lpage>358</lpage><pub-id pub-id-type="doi">10.1038/nature08970</pub-id><?supplied-pmid 20436458?><pub-id pub-id-type="pmid">20436458</pub-id>
+</element-citation></ref><ref id="R77"><label>77</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Muz</surname><given-names>B</given-names></name>
+<name><surname>de la Puente</surname><given-names>P</given-names></name>
+<name><surname>Azab</surname><given-names>F</given-names></name>
+<name><surname>Azab</surname><given-names>AK</given-names></name>
+</person-group><article-title>The role of hypoxia in cancer progression, angiogenesis, metastasis, and resistance to therapy</article-title><source>HP</source><year>2015</year><fpage>83</fpage><pub-id pub-id-type="doi">10.2147/HP.S93413</pub-id></element-citation></ref><ref id="R78"><label>78</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Schwartz</surname><given-names>RS</given-names></name>
+<name><surname>Eltzschig</surname><given-names>HK</given-names></name>
+<name><surname>Carmeliet</surname><given-names>P</given-names></name>
+</person-group><article-title>Hypoxia and inflammation</article-title><source>N Engl J Med</source><year>2011</year><volume>364</volume><fpage>656</fpage><lpage>665</lpage><pub-id pub-id-type="doi">10.1056/NEJMra0910283</pub-id><pub-id pub-id-type="pmid">21323543</pub-id>
+</element-citation></ref><ref id="R79"><label>79</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Melican</surname><given-names>K</given-names></name>
+<name><surname>Boekel</surname><given-names>J</given-names></name>
+<name><surname>M&#x000e5;nsson</surname><given-names>LE</given-names></name>
+<name><surname>Sandoval</surname><given-names>RM</given-names></name>
+<name><surname>Tanner</surname><given-names>GA</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Bacterial infection-mediated mucosal signalling induces local renal ischaemia as a defence against sepsis</article-title><source>Cell Microbiol</source><year>2008</year><volume>10</volume><fpage>1987</fpage><lpage>1998</lpage><pub-id pub-id-type="doi">10.1111/j.1462-5822.2008.01182.x</pub-id><?supplied-pmid 18549455?><pub-id pub-id-type="pmid">18549455</pub-id>
+</element-citation></ref><ref id="R80"><label>80</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Schaffer</surname><given-names>K</given-names></name>
+<name><surname>Taylor</surname><given-names>CT</given-names></name>
+</person-group><article-title>The impact of hypoxia on bacterial infection</article-title><source>FEBS J</source><year>2015</year><volume>282</volume><fpage>2260</fpage><lpage>2266</lpage><pub-id pub-id-type="doi">10.1111/febs.13270</pub-id><?supplied-pmid 25786849?><pub-id pub-id-type="pmid">25786849</pub-id>
+</element-citation></ref><ref id="R81"><label>81</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Arthur</surname><given-names>JC</given-names></name>
+<name><surname>Gharaibeh</surname><given-names>RZ</given-names></name>
+<name><surname>M&#x000fc;hlbauer</surname><given-names>M</given-names></name>
+<name><surname>Perez-Chanona</surname><given-names>E</given-names></name>
+<name><surname>Uronis</surname><given-names>JM</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Microbial genomic analysis reveals the essential role of inflammation in bacteria-induced colorectal cancer</article-title><source>Nat Commun</source><year>2014</year><volume>5</volume><elocation-id>4724</elocation-id><pub-id pub-id-type="doi">10.1038/ncomms5724</pub-id><?supplied-pmid 25182170?><pub-id pub-id-type="pmid">25182170</pub-id>
+</element-citation></ref><ref id="R82"><label>82</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Winter</surname><given-names>SE</given-names></name>
+<name><surname>Winter</surname><given-names>MG</given-names></name>
+<name><surname>Xavier</surname><given-names>MN</given-names></name>
+<name><surname>Thiennimitr</surname><given-names>P</given-names></name>
+<name><surname>Poon</surname><given-names>V</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Host-derived nitrate boosts growth of <italic toggle="yes">E. coli</italic> in the inflamed gut</article-title><source>Science</source><year>2013</year><volume>339</volume><fpage>708</fpage><lpage>711</lpage><pub-id pub-id-type="doi">10.1126/science.1232467</pub-id><?supplied-pmid 23393266?><pub-id pub-id-type="pmid">23393266</pub-id>
+</element-citation></ref><ref id="R83"><label>83</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hughes</surname><given-names>ER</given-names></name>
+<name><surname>Winter</surname><given-names>MG</given-names></name>
+<name><surname>Duerkop</surname><given-names>BA</given-names></name>
+<name><surname>Spiga</surname><given-names>L</given-names></name>
+<name><surname>Furtado de Carvalho</surname><given-names>T</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Microbial respiration and formate oxidation as metabolic signatures of inflammation-associated dysbiosis</article-title><source>Cell Host &#x00026; Microbe</source><year>2017</year><volume>21</volume><fpage>208</fpage><lpage>219</lpage><pub-id pub-id-type="doi">10.1016/j.chom.2017.01.005</pub-id><pub-id pub-id-type="pmid">28182951</pub-id>
+</element-citation></ref><ref id="R84"><label>84</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cevallos</surname><given-names>SA</given-names></name>
+<name><surname>Lee</surname><given-names>J-Y</given-names></name>
+<name><surname>Tiffany</surname><given-names>CR</given-names></name>
+<name><surname>Byndloss</surname><given-names>AJ</given-names></name>
+<name><surname>Johnston</surname><given-names>L</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Increased epithelial oxygenation links colitis to an expansion of tumorigenic bacteria</article-title><source>mBio</source><year>2019</year><volume>10</volume><elocation-id>e02244-19</elocation-id><pub-id pub-id-type="doi">10.1128/mBio.02244-19</pub-id><?supplied-pmid 31575772?><pub-id pub-id-type="pmid">31575772</pub-id>
+</element-citation></ref><ref id="R85"><label>85</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Y</given-names></name>
+<name><surname>Gharaibeh</surname><given-names>RZ</given-names></name>
+<name><surname>Newsome</surname><given-names>RC</given-names></name>
+<name><surname>Jobin</surname><given-names>C</given-names></name>
+</person-group><article-title>Amending microbiota by targeting intestinal inflammation with TNF blockade attenuates development of colorectal cancer</article-title><source>Nat Cancer</source><year>2020</year><volume>1</volume><fpage>723</fpage><lpage>734</lpage><pub-id pub-id-type="doi">10.1038/s43018-020-0078-7</pub-id><?supplied-pmid 33768208?><pub-id pub-id-type="pmid">33768208</pub-id>
+</element-citation></ref><ref id="R86"><label>86</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Clay</surname><given-names>SL</given-names></name>
+<name><surname>Fonseca-Pereira</surname><given-names>D</given-names></name>
+<name><surname>Garrett</surname><given-names>WS</given-names></name>
+</person-group><article-title>Colorectal cancer: the facts in the case of the microbiota</article-title><source>J Clin Invest</source><year>2022</year><volume>132</volume><elocation-id>e155101</elocation-id><pub-id pub-id-type="doi">10.1172/JCI155101</pub-id><?supplied-pmid 35166235?><pub-id pub-id-type="pmid">35166235</pub-id>
+</element-citation></ref><ref id="R87"><label>87</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Guerra</surname><given-names>L</given-names></name>
+<name><surname>Guidi</surname><given-names>R</given-names></name>
+<name><surname>Frisan</surname><given-names>T</given-names></name>
+</person-group><article-title>Do bacterial genotoxins contribute to chronic inflammation, genomic instability and tumor progression?</article-title><source>FEBS J</source><year>2011</year><volume>278</volume><fpage>4577</fpage><lpage>4588</lpage><pub-id pub-id-type="doi">10.1111/j.1742-4658.2011.08125.x</pub-id><?supplied-pmid 21585655?><pub-id pub-id-type="pmid">21585655</pub-id>
+</element-citation></ref><ref id="R88"><label>88</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Martin</surname><given-names>OCB</given-names></name>
+<name><surname>Bergonzini</surname><given-names>A</given-names></name>
+<name><surname>Lopez Chiloeches</surname><given-names>M</given-names></name>
+<name><surname>Paparouna</surname><given-names>E</given-names></name>
+<name><surname>Butter</surname><given-names>D</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Influence of the microenvironment on modulation of the host response by typhoid toxin</article-title><source>Cell Rep</source><year>2021</year><volume>35</volume><fpage>108931</fpage><pub-id pub-id-type="doi">10.1016/j.celrep.2021.108931</pub-id><?supplied-pmid 33826883?><pub-id pub-id-type="pmid">33826883</pub-id>
+</element-citation></ref><ref id="R89"><label>89</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>S</given-names></name>
+<name><surname>Fu</surname><given-names>J</given-names></name>
+<name><surname>Dogan</surname><given-names>B</given-names></name>
+<name><surname>Scherl</surname><given-names>EJ</given-names></name>
+<name><surname>Simpson</surname><given-names>KW</given-names></name>
+</person-group><article-title>5-Aminosalicylic acid downregulates the growth and virulence of <italic toggle="yes">Escherichia coli</italic> associated with IBD and colorectal cancer, and upregulates host anti-inflammatory activity</article-title><source>J Antibiot</source><year>2018</year><volume>71</volume><fpage>950</fpage><lpage>961</lpage><pub-id pub-id-type="doi">10.1038/s41429-018-0081-8</pub-id></element-citation></ref><ref id="R90"><label>90</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tang-Fichaux</surname><given-names>M</given-names></name>
+<name><surname>Branchu</surname><given-names>P</given-names></name>
+<name><surname>Nougayr&#x000e8;de</surname><given-names>JP</given-names></name>
+<name><surname>Oswald</surname><given-names>E</given-names></name>
+</person-group><article-title>Tackling the threat of cancer due to pathobionts producing colibactin: is mesalamine the magic bullet?</article-title><source>Toxins</source><year>2021</year><volume>13</volume><elocation-id>897</elocation-id><pub-id pub-id-type="doi">10.3390/toxins13120897</pub-id><?supplied-pmid 34941734?><pub-id pub-id-type="pmid">34941734</pub-id>
+</element-citation></ref><ref id="R91"><label>91</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dahl</surname><given-names>J-U</given-names></name>
+<name><surname>Gray</surname><given-names>MJ</given-names></name>
+<name><surname>Bazopoulou</surname><given-names>D</given-names></name>
+<name><surname>Beaufay</surname><given-names>F</given-names></name>
+<name><surname>Lempart</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The anti-inflammatory drug mesalamine targets bacterial polyphosphate accumulation</article-title><source>Nat Microbiol</source><year>2017</year><volume>2</volume><fpage>16267</fpage><pub-id pub-id-type="doi">10.1038/nmicrobiol.2016.267</pub-id><?supplied-pmid 28112760?><pub-id pub-id-type="pmid">28112760</pub-id>
+</element-citation></ref><ref id="R92"><label>92</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cevallos</surname><given-names>SA</given-names></name>
+<name><surname>Lee</surname><given-names>J-Y</given-names></name>
+<name><surname>Velazquez</surname><given-names>EM</given-names></name>
+<name><surname>Foegeding</surname><given-names>NJ</given-names></name>
+<name><surname>Shelton</surname><given-names>CD</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>5-aminosalicylic acid ameliorates colitis and checks dysbiotic <italic toggle="yes">Escherichia coli</italic> expansion by activating PPAR-&#x003b3; signaling in the intestinal epithelium</article-title><source>mBio</source><year>2021</year><volume>12</volume><elocation-id>e03227-20</elocation-id><pub-id pub-id-type="doi">10.1128/mBio.03227-20</pub-id><?supplied-pmid 33468700?><pub-id pub-id-type="pmid">33468700</pub-id>
+</element-citation></ref><ref id="R93"><label>93</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chagneau</surname><given-names>CV</given-names></name>
+<name><surname>Garcie</surname><given-names>C</given-names></name>
+<name><surname>Bossuet-Greif</surname><given-names>N</given-names></name>
+<name><surname>Tronnet</surname><given-names>S</given-names></name>
+<name><surname>Brachmann</surname><given-names>AO</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The polyamine spermidine modulates the production of the bacterial genotoxin colibactin</article-title><source>mSphere</source><year>2019</year><volume>4</volume><elocation-id>e00414-19</elocation-id><pub-id pub-id-type="doi">10.1128/mSphere.00414-19</pub-id><?supplied-pmid 31578245?><pub-id pub-id-type="pmid">31578245</pub-id>
+</element-citation></ref><ref id="R94"><label>94</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Di Martino</surname><given-names>ML</given-names></name>
+<name><surname>Campilongo</surname><given-names>R</given-names></name>
+<name><surname>Casalino</surname><given-names>M</given-names></name>
+<name><surname>Micheli</surname><given-names>G</given-names></name>
+<name><surname>Colonna</surname><given-names>B</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Polyamines: emerging players in bacteria-host interactions</article-title><source>Int J Med Microbiol</source><year>2013</year><volume>303</volume><fpage>484</fpage><lpage>491</lpage><pub-id pub-id-type="doi">10.1016/j.ijmm.2013.06.008</pub-id><?supplied-pmid 23871215?><pub-id pub-id-type="pmid">23871215</pub-id>
+</element-citation></ref><ref id="R95"><label>95</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tofalo</surname><given-names>R</given-names></name>
+<name><surname>Cocchi</surname><given-names>S</given-names></name>
+<name><surname>Suzzi</surname><given-names>G</given-names></name>
+</person-group><article-title>Polyamines and gut microbiota</article-title><source>Front Nutr</source><year>2019</year><volume>6</volume><elocation-id>16</elocation-id><pub-id pub-id-type="doi">10.3389/fnut.2019.00016</pub-id><?supplied-pmid 30859104?><pub-id pub-id-type="pmid">30859104</pub-id>
+</element-citation></ref><ref id="R96"><label>96</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hallam</surname><given-names>JC</given-names></name>
+<name><surname>Sandalli</surname><given-names>S</given-names></name>
+<name><surname>Floria</surname><given-names>I</given-names></name>
+<name><surname>Turner</surname><given-names>NCA</given-names></name>
+<name><surname>Tang-Fichaux</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>D-Serine reduces the expression of the cytopathic genotoxin colibactin</article-title><source>Microb Cell</source><year>2023</year><volume>10</volume><fpage>63</fpage><lpage>77</lpage><pub-id pub-id-type="doi">10.15698/mic2023.03.793</pub-id><?supplied-pmid 36908282?><pub-id pub-id-type="pmid">36908282</pub-id>
+</element-citation></ref><ref id="R97"><label>97</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sadecki</surname><given-names>PW</given-names></name>
+<name><surname>Balboa</surname><given-names>SJ</given-names></name>
+<name><surname>Lopez</surname><given-names>LR</given-names></name>
+<name><surname>Kedziora</surname><given-names>KM</given-names></name>
+<name><surname>Arthur</surname><given-names>JC</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Evolution of polymyxin resistance regulates colibactin production in <italic toggle="yes">Escherichia coli.</italic>
+</article-title><source>ACS Chem Biol</source><year>2021</year><volume>16</volume><fpage>1243</fpage><lpage>1254</lpage><pub-id pub-id-type="doi">10.1021/acschembio.1c00322</pub-id><?supplied-pmid 34232632?><pub-id pub-id-type="pmid">34232632</pub-id>
+</element-citation></ref><ref id="R98"><label>98</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Oliero</surname><given-names>M</given-names></name>
+<name><surname>Calv&#x000e9;</surname><given-names>A</given-names></name>
+<name><surname>Fragoso</surname><given-names>G</given-names></name>
+<name><surname>Cuisiniere</surname><given-names>T</given-names></name>
+<name><surname>Hajjar</surname><given-names>R</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Oligosaccharides increase the genotoxic effect of colibactin produced by pks+ <italic toggle="yes">Escherichia coli</italic> strains</article-title><source>BMC Cancer</source><year>2021</year><volume>21</volume><elocation-id>172</elocation-id><pub-id pub-id-type="doi">10.1186/s12885-021-07876-8</pub-id><?supplied-pmid 33596864?><pub-id pub-id-type="pmid">33596864</pub-id>
+</element-citation></ref><ref id="R99"><label>99</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>S</given-names></name>
+<name><surname>Dogan</surname><given-names>B</given-names></name>
+<name><surname>Guo</surname><given-names>C</given-names></name>
+<name><surname>Herlekar</surname><given-names>D</given-names></name>
+<name><surname>Stewart</surname><given-names>K</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Short chain fatty acids modulate the growth and virulence of pathosymbiont <italic toggle="yes">Escherichia coli</italic> and host response</article-title><source>Antibiotics</source><year>2020</year><volume>9</volume><elocation-id>462</elocation-id><pub-id pub-id-type="doi">10.3390/antibiotics9080462</pub-id><?supplied-pmid 32751519?><pub-id pub-id-type="pmid">32751519</pub-id>
+</element-citation></ref><ref id="R100"><label>100</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Z</given-names></name>
+<name><surname>Zhang</surname><given-names>H</given-names></name>
+<name><surname>Chen</surname><given-names>T</given-names></name>
+<name><surname>Shi</surname><given-names>L</given-names></name>
+<name><surname>Wang</surname><given-names>D</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Regulatory role of short-chain fatty acids in inflammatory bowel disease</article-title><source>Cell Commun Signal</source><year>2022</year><volume>20</volume><elocation-id>64</elocation-id><pub-id pub-id-type="doi">10.1186/s12964-022-00869-5</pub-id><?supplied-pmid 35546404?><pub-id pub-id-type="pmid">35546404</pub-id>
+</element-citation></ref><ref id="R101"><label>101</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kaewkod</surname><given-names>T</given-names></name>
+<name><surname>Tobe</surname><given-names>R</given-names></name>
+<name><surname>Tragoolpua</surname><given-names>Y</given-names></name>
+<name><surname>Mihara</surname><given-names>H</given-names></name>
+</person-group><article-title>Medicinal plant extracts protect epithelial cells from infection and DNA damage caused by colibactin-producing <italic toggle="yes">Escherichia coli</italic>, and inhibit the growth of bacteria</article-title><source>J Appl Microbiol</source><year>2021</year><volume>130</volume><fpage>769</fpage><lpage>785</lpage><pub-id pub-id-type="doi">10.1111/jam.14817</pub-id><?supplied-pmid 32767847?><pub-id pub-id-type="pmid">32767847</pub-id>
+</element-citation></ref><ref id="R102"><label>102</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kosari</surname><given-names>F</given-names></name>
+<name><surname>Taheri</surname><given-names>M</given-names></name>
+<name><surname>Moradi</surname><given-names>A</given-names></name>
+<name><surname>Hakimi Alni</surname><given-names>R</given-names></name>
+<name><surname>Alikhani</surname><given-names>MY</given-names></name>
+</person-group><article-title>Evaluation of cinnamon extract effects on clbB gene expression and biofilm formation in <italic toggle="yes">Escherichia coli</italic> strains isolated from colon cancer patients</article-title><source>BMC Cancer</source><year>2020</year><volume>20</volume><elocation-id>267</elocation-id><pub-id pub-id-type="doi">10.1186/s12885-020-06736-1</pub-id><?supplied-pmid 32228495?><pub-id pub-id-type="pmid">32228495</pub-id>
+</element-citation></ref></ref-list></back></article>

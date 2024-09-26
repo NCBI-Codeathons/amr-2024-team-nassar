@@ -1,0 +1,77 @@
+Results Evaluation for the criteria of maize lodging resistance by Fmax values From 2018 to 2020, 1,172 maize plants were tested in Laizhou and Weifang Region, Shandong Province, at the flowering, milk ripening, and maturity period. As the plant tilted angle increases, the pull trajectory of the plant determined by a tester complies with the equation y =–0.0028x
+2 + 0.3989x+2.4187 (R
+2 = 0.9991, n = 1172), where x represents the tilted angle, and y represents the pull value at the angle (
+Figure 5A
+). Figure 5The data analysis of lodging resistance from maize plants at different locations in three years. (A) Stress values of maize plants at different angles. (B) Clustered lodging level of maize plants according to the tested F
+max. (C) The survival rate of maize plants under different tilted angles. (D) The ratio of F to F
+max under different tilted angles. (E) Correlation between F
+45 and F
+max. The data analysis of lodging resistance from maize plants at different locations in three years. (A) Stress values of maize plants at different angles. (B) Clustered lodging level of maize plants according to the tested F
+max. (C) The survival rate of maize plants under different tilted angles. (D) The ratio of F to F
+max under different tilted angles. (E) Correlation between F
+45 and F
+max. The F
+max values of the above maize plants were clustered by Euclidean distance and divided into four categories (
+Figure 5B
+) with a mean of 9.25 N, 14.53 N, 20.61 N, and 31.33 N, which consisted of 32.25%, 37.88%, 22.70%, and 7.17% in the total number of varieties. Accordingly, the lodging resistance levels of maize was divided into four levels: poor lodging resistance (cluster 3, F
+max ≤11.8 N), low lodging resistance (cluster 2, F
+max > 11.8 N but ≤17.5 N), medium lodging resistance (cluster 1, F
+max
+>17.5 N but ≤25.8 N), and high lodging resistance (cluster 4, F
+max
+>25.8 N) (
+Table 2
+). The Fmax
+ clustering by the Euclidean distance method. F
+mean F
+min F
+max Samples in each cluster. cluster 1 31.33 26 55.8 84. cluster 2 20.61 17.6 25.8 266. cluster 3 14.53 11.9 17.5 444. cluster 4 9.25 3.4 11.8 378. A correlation between F
+45 and F
+max As shown in 
+Figure 5E
+, F
+45 and Fmax are strongly correlated, and Fmax predicted by F45 can be used to assess the lodging resistance of maize plants according to the correlation. Simulation results agree well with measurements. As the tilt angle of the maize plant increased, the breaking ratio of the plants gradually increased. When the tilt angle was below 45°, the breaking ratio was relatively low. When tilt angle was between 5° and 40° the cumulative proportion of breaking plants was 10.41%; at 45° the proportion was 4.27%, and at 50° the proportion was 11.60%, indicating that a plant tilt angle of 45° was the critical point for a significant decrease in the survival rate of plants. The proportion of plants breaking increases slowly as tilt angle increases up to<45°, and the survival rate of plants has a curve slope of –0.3527; when the tilt angle goes beyond 45°, the survival rate of plants decreases quickly, accompanied by a curve slope of –1.8749 (
+Figure 5C
+). In the process of the test, as the tilted angle θ of the plant increases, the pull force of the F value (expressed as F
+θ) increases until the plant breaks or does not break at a 90° angle. Subsequently,the maximum F value (expressed as F
+max) can be determined. As the results, the larger the tilt angle, the closer to F
+max is F
+θ. A map was made by using F
+θ/F
+max values and tilted angles (
+Figure 5D
+). It wis interesting that, at tilt angles in the 15–55° range, th F
+θ/F
+max increases proportionally, and F
+θ/F
+max is about 0.9 at a 45° tilt angle (
+Figure 5D
+), which could characterize the lodge resistance of maize plants. Out of 1,172 tested maize plants, 1,000 tilted by 45° without the stalk breaking and were selected to determine F
+45 values and F
+max, and comparing F
+45 with its corresponding F
+max developed the equation y = 1.1354x – 0.3358 (R² = 0.9112), indicating that a strong correlation exists between F
+45 and F
+max (
+Figure 5E
+). By measuring F
+45 and applying the formula, expected values for maximum stalk resistance can be obtained. The maize plants under a 45° tilt angle maintained a 85.32% survival rate in a large complex population; therefore, F
+45 can be used to evaluate the lodging resistance of maize plants with a simple method. Evaluation of lodging resistance for the different varieties of maize The Fmax was predicted by F45 and the lodging resistance of plants were evaluated under non-damaged conditions. Comparing the measured and expected values in pairs, the results are shown in 
+Table 3
+. In the low-resistance group the accuracy reached 97.28%; in the high-resistance group the accuracy was 88.57%, which was the lowest accuracy (
+Table 3
+). It was concluded that the two tests produced similar results for the lodging resistance of plants. Comparing of the lodging resistance levels of plants by measured and inferred values. Levels of lodging resistance Lodge-prone Low resistance Moderate resistance High resistance Total. Individual distribution from expected values 258 415 249 78 1000. Individual distribution from measured values 248 404 278 70 1000. Accuracy (%) 96.0 97.28 89.57 88.57. The traits of plants from different varieties, planting density, and development period were principal factors for the lodging resistance of maize plants. The planting density usually is negatively associated with F
+max, that is, higher planting density usually led to a lower F
+max. Under low-density conditions, the differences of varieties are significant, that is, the data of lodging resistance from a population consisting of different varieties show great heterogeneity, while at high density, the differences between varieties become smaller. Maize plants at different developmental stages or in different reproductive periods show obvious differences in lodging resistance. From 
+Figure 6
+, it is obvious that the F
+max estimation and F
+max measurement produced consistent results. Figure 6Measurement of lodging resistance of six varieties in different densities of maize plants. I: inferior lodging resistance, II: medium lodging resistance, III: high lodging resistance range, IV: strong lodging resistance. VT, flowering period; R3, grain filling period; R6, maturation period; AV, actual measured value F
+max value; PV, presumptive value. The missing value of the force indicates that the angle at which the plant breaks is less than 45°. Measurement of lodging resistance of six varieties in different densities of maize plants. I: inferior lodging resistance, II: medium lodging resistance, III: high lodging resistance range, IV: strong lodging resistance. VT, flowering period; R3, grain filling period; R6, maturation period; AV, actual measured value F
+max value; PV, presumptive value. The missing value of the force indicates that the angle at which the plant breaks is less than 45°. The eight varieties of maize were rated according to their lodging resistance in different planting densities in 2018 and 2020. Based on F
+max, DH661, DH618, and DH605 were high lodging-resistant varieties, with inferior lodging resistance detected in only 2.6%, 10.7% and 11.5% of total plants in two years. DH3622, ZD958, XY335, XD20, and XD18 had poor lodging resistance, with 22.7%, 37.1%, 36.1%, 40.0%, and 63.0% of plants having inferior lodging resistance (
+Figures 7A, C
+). The same conclusion was obtained by using the F45 measurement method (
+Figures 7B, D
+). Figure 7
+(A) In 2018, the actual measured value (AV) of all plants was rated for lodging resistance and the proportion of different grades of plants was determined. (B) In 2018, all plants were rated for lodging resistance based on presumptive value (PV) and the proportion of different grades of plants was determined. (C) In 2020, the AV of all plants was rated for lodging resistance and the proportion of different grades of plants was determined. (D) In 2018, all plants were rated for lodging resistance based on EV and the proportion of different grades of plants was determined. (A) In 2018, the actual measured value (AV) of all plants was rated for lodging resistance and the proportion of different grades of plants was determined. (B) In 2018, all plants were rated for lodging resistance based on presumptive value (PV) and the proportion of different grades of plants was determined. (C) In 2020, the AV of all plants was rated for lodging resistance and the proportion of different grades of plants was determined. (D) In 2018, all plants were rated for lodging resistance based on EV and the proportion of different grades of plants was determined.

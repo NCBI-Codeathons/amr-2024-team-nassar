@@ -1,0 +1,22 @@
+ The pairing of analytical chemistry with genomic techniques
+represents
+a new wave in natural product chemistry. With an increase in the availability
+of sequencing and assembly of microbial genomes, interrogation into
+the biosynthetic capability of producers with valuable secondary metabolites
+is possible. However, without the development of robust, accessible,
+and medium to high throughput tools, the bottleneck in pairing metabolic
+potential and compound isolation will continue. Several innovative
+approaches have proven useful in the nascent stages of microbial genome-informed
+drug discovery. Here, we consider a number of these approaches which
+have led to prioritization of strain targets and have mitigated rediscovery
+rates. Likewise, we discuss integration of principles of comparative
+evolutionary studies and retrobiosynthetic predictions to better understand
+biosynthetic mechanistic details and link genome sequence to structure.
+Lastly, we discuss advances in engineering, chemistry, and molecular
+networking and other computational approaches that are accelerating
+progress in the field of omic-informed natural product drug discovery.
+Together, these strategies enhance the synergy between cutting edge
+omics, chemical characterization, and computational technologies that
+pitch the discovery of natural products with pharmaceutical and other
+potential applications to the crest of the wave where progress is
+ripe for rapid advances.

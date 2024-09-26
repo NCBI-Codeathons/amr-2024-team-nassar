@@ -1,0 +1,2458 @@
+ Berberine bridge
+enzyme-like oxidases are often involved in natural
+product biosynthesis and are seen as essential enzymes for the generation
+of intricate pharmacophores. These oxidases have the ability to transfer
+a hydride atom to the FAD cofactor, which enables complex substrate
+modifications and rearrangements including (intramolecular) cyclizations,
+carbon–carbon bond formations, and nucleophilic additions.
+Despite the diverse range of activities, the mechanistic details of
+these reactions often remain incompletely understood. In this Review,
+we delve into the complexity that BBE-like oxidases from bacteria,
+fungal, and plant origins exhibit by providing an overview of the
+shared catalytic features and emphasizing the different reactivities.
+We propose four generalized modes of action by which BBE-like oxidases
+enable the synthesis of natural products, ranging from the classic
+alcohol oxidation reactions to less common amine and amide oxidation
+reactions. Exploring the mechanisms utilized by nature to produce
+its vast array of natural products is a subject of considerable interest
+and can lead to the discovery of unique biochemical activities. Special Issue Published as part of Biochemistryvirtual special issue “A Tribute to Christopher
+T. Walsh”. Natural products exhibit astonishing
+structural diversity and this molecular variety results in a vast
+array of biological activities.1 Nevertheless,
+secondary metabolites generally originate from a small number of starting
+components, which are obtained from primary metabolic pathways. Next
+to core biosynthetic enzymes, tailoring enzymes are required to enhance
+the complexity of natural products.2−5 There are a multitude of biocatalysts involved
+in the modification of the metabolite precursors including oxidoreductases,
+halogenases, (acyl-, glycosyl-)transferases and ligases.6 In particular, oxidoreductases are intriguing
+since complex biochemical
+transformations often require changes in redox states.7,8 Therefore, oxidoreductases are essential players in the complex
+pathways that lead to the synthesis of secondary metabolites in different
+organisms. Oxidation reactions such as dehydrogenation, epoxidation
+and hydroxylation are typical redox reactions in natural product biosynthesis.9 Flavin-dependent oxidoreductases are able to
+perform these transformations and are therefore commonly observed
+in secondary metabolic pathways. This Review focuses on flavin-dependent
+oxidases from the vanillyl-alcohol oxidase/p-cresol
+methylhydroxylase (VAO/PCMH) family.10 We
+will specifically cover the berberine bridge enzyme (BBE) subfamily
+since they are often involved in natural product biosynthesis and
+seen as essential enzymes for the generation of intricate pharmacophores.11−13 VAO/PCMH
+Flavoprotein Family VAO/PCMH
+Flavoprotein Family Based on structural data
+and sequence homology there are six different families of flavin-dependent
+oxidases.14 One of these six families is
+the VAO/PCMH flavoprotein family, named after the fungal vanillyl-alcohol
+oxidase and bacterial p-cresol methylhydroxylase,
+feature a distinct flavin adenine dinucleotide (FAD) binding domain
+in the N-terminal portion of the protein.12,15 This conserved domain allows for the binding of the adenosine diphosphate
+and ribityl functional groups of FAD. Except for the flavin-binding
+domain, VAO-type enzymes contain a substrate-binding domain (cap domain)
+with greater variability positioned above the isoalloxazine ring of
+the cofactor. This structural arrangement enables significant diversity
+in the active site structures and, consequently, in the catalytic
+activities of these enzymes.11 Based on structural data
+and sequence homology there are six different families of flavin-dependent
+oxidases.14 One of these six families is
+the VAO/PCMH flavoprotein family, named after the fungal vanillyl-alcohol
+oxidase and bacterial p-cresol methylhydroxylase,
+feature a distinct flavin adenine dinucleotide (FAD) binding domain
+in the N-terminal portion of the protein.12,15 This conserved domain allows for the binding of the adenosine diphosphate
+and ribityl functional groups of FAD. Except for the flavin-binding
+domain, VAO-type enzymes contain a substrate-binding domain (cap domain)
+with greater variability positioned above the isoalloxazine ring of
+the cofactor. This structural arrangement enables significant diversity
+in the active site structures and, consequently, in the catalytic
+activities of these enzymes.11 The
+crystal structure of VAO was the first to show FAD covalently linked
+to the protein via an 8α-N3-histidyl–FAD
+linkage.16−18 In the last few decades, many more members of the
+VAO family have been identified and shown to contain a covalently
+tethered flavin cofactor.12 Intriguingly,
+a significant number of them even had the flavin cofactor bicovalently
+bound to the protein, such as glucooligosaccharide oxidase (GOOX).19,20 Bicovalently tethering of the FAD enables flavoproteins to have
+a rather open active site thereby allowing them to accept larger substrates
+such as secondary metabolites but also oligosaccharides.21−23 Another effect of covalently binding FAD is the increase in flavin
+redox potential, which is highest for bicovalently bound flavoproteins.24 Increasing the redox potential enhances the
+oxidative power of the flavin cofactor making them particularly adept
+at catalyzing demanding oxidation reactions. The
+crystal structure of VAO was the first to show FAD covalently linked
+to the protein via an 8α-N3-histidyl–FAD
+linkage.16−18 In the last few decades, many more members of the
+VAO family have been identified and shown to contain a covalently
+tethered flavin cofactor.12 Intriguingly,
+a significant number of them even had the flavin cofactor bicovalently
+bound to the protein, such as glucooligosaccharide oxidase (GOOX).19,20 Bicovalently tethering of the FAD enables flavoproteins to have
+a rather open active site thereby allowing them to accept larger substrates
+such as secondary metabolites but also oligosaccharides.21−23 Another effect of covalently binding FAD is the increase in flavin
+redox potential, which is highest for bicovalently bound flavoproteins.24 Increasing the redox potential enhances the
+oxidative power of the flavin cofactor making them particularly adept
+at catalyzing demanding oxidation reactions. Flavoprotein oxidases
+typically contain FAD, and sometimes flavin
+mononucleotide (FMN), as prosthetic group for mediating redox reactions.9 Reactions are catalyzed in a two-step manner,
+consisting of a reductive and oxidative half reaction (Scheme 1).25 In the former half, the substrate is oxidized while the flavin is
+being reduced by hydride attack on the N5-atom. In the subsequent
+oxidative half reaction, the reduced flavin (Flred) returns
+to its oxidized state (Flox) as the cosubstrate molecular
+oxygen (O2) gets reduced. The first step in the oxidative
+half reaction is the single electron transfer of Flred to
+O2 producing a flavin semiquinone and superoxide species
+that can be covalently tethered yielding the C4a-hydroperoxyflavin
+species (Fl4aOOH).26 This species
+can then undergo multiple dissociation pathways, leading to different
+reactivities, making flavins very versatile organic cofactors. Oxidases
+typically use elimination and proton transfer to release hydrogen
+peroxide (H2O2) and thereby regenerate Flox. The elevated redox potential of (bi)covalently bound flavoprotein
+oxidases causes O2 to be one of the few electron acceptors
+that they can employ. Hence, in order to regenerate the reduced cofactor,
+oxidases use O2 as an electron acceptor by definition,
+effectively rendering the reaction irreversible. Flavoprotein oxidases
+typically contain FAD, and sometimes flavin
+mononucleotide (FMN), as prosthetic group for mediating redox reactions.9 Reactions are catalyzed in a two-step manner,
+consisting of a reductive and oxidative half reaction (Scheme 1).25 In the former half, the substrate is oxidized while the flavin is
+being reduced by hydride attack on the N5-atom. In the subsequent
+oxidative half reaction, the reduced flavin (Flred) returns
+to its oxidized state (Flox) as the cosubstrate molecular
+oxygen (O2) gets reduced. The first step in the oxidative
+half reaction is the single electron transfer of Flred to
+O2 producing a flavin semiquinone and superoxide species
+that can be covalently tethered yielding the C4a-hydroperoxyflavin
+species (Fl4aOOH).26 This species
+can then undergo multiple dissociation pathways, leading to different
+reactivities, making flavins very versatile organic cofactors. Oxidases
+typically use elimination and proton transfer to release hydrogen
+peroxide (H2O2) and thereby regenerate Flox. The elevated redox potential of (bi)covalently bound flavoprotein
+oxidases causes O2 to be one of the few electron acceptors
+that they can employ. Hence, in order to regenerate the reduced cofactor,
+oxidases use O2 as an electron acceptor by definition,
+effectively rendering the reaction irreversible. Scheme 1Reductive and Oxidative
+Half Reaction of Flavoprotein OxidasesFirst, the flavin is reduced
+by the substrate in the reductive half reaction generating Flred. Then, Flred reacts with O2 via a
+single-electron transfer to produce Flsemiquinone and recombination
+with the superoxide anion results in FlC4aOOH. Oxidases
+release H2O2 to obtain Flox again. Scheme 1Reductive and Oxidative
+Half Reaction of Flavoprotein OxidasesFirst, the flavin is reduced
+by the substrate in the reductive half reaction generating Flred. Then, Flred reacts with O2 via a
+single-electron transfer to produce Flsemiquinone and recombination
+with the superoxide anion results in FlC4aOOH. Oxidases
+release H2O2 to obtain Flox again. Reductive and Oxidative
+Half Reaction of Flavoprotein Oxidases Reductive and Oxidative
+Half Reaction of Flavoprotein Oxidases First, the flavin is reduced
+by the substrate in the reductive half reaction generating Flred. Then, Flred reacts with O2 via a
+single-electron transfer to produce Flsemiquinone and recombination
+with the superoxide anion results in FlC4aOOH. Oxidases
+release H2O2 to obtain Flox again. First, the flavin is reduced
+by the substrate in the reductive half reaction generating Flred. Then, Flred reacts with O2 via a
+single-electron transfer to produce Flsemiquinone and recombination
+with the superoxide anion results in FlC4aOOH. Oxidases
+release H2O2 to obtain Flox again. Berberine Bridge Enzyme Subfamily Berberine Bridge Enzyme Subfamily Within the VAO/PCMH
+flavoprotein family, there are 11 different subfamilies out of which
+one has members involved in secondary metabolite biosynthesis in both
+plants and microorganisms.23 These are
+named BBE-like enzymes and constitute a sizable portion of the VAO-fold
+oxidoreductase family. Apart from the common FAD- and substrate-binding
+domains, they have a distinct structural characteristic near the FAD-binding
+site which serves as a distinguishing feature of the BBE subfamily
+(Figure 1a).27 This structural characteristic has been annotated
+as a domain (pfam entry PF08031) and contains a special C-terminus
+with Y/FxN motif that, in the case of a Tyr, creates a specific hydrogen
+bonding network proximal to the isoalloxazine ring of FAD and conserved
+Asn residue (Figure 1b). This motif helps shape the O2 binding pocket and affects
+the positioning of the ribityl moiety of FAD.28 Within the VAO/PCMH
+flavoprotein family, there are 11 different subfamilies out of which
+one has members involved in secondary metabolite biosynthesis in both
+plants and microorganisms.23 These are
+named BBE-like enzymes and constitute a sizable portion of the VAO-fold
+oxidoreductase family. Apart from the common FAD- and substrate-binding
+domains, they have a distinct structural characteristic near the FAD-binding
+site which serves as a distinguishing feature of the BBE subfamily
+(Figure 1a).27 This structural characteristic has been annotated
+as a domain (pfam entry PF08031) and contains a special C-terminus
+with Y/FxN motif that, in the case of a Tyr, creates a specific hydrogen
+bonding network proximal to the isoalloxazine ring of FAD and conserved
+Asn residue (Figure 1b). This motif helps shape the O2 binding pocket and affects
+the positioning of the ribityl moiety of FAD.28 Figure 1(a)
+The structure of EcBBE (PDB: 3D2J) with the FAD-domain
+in silver, the substrate-domain in dark sea green and the BBE-domain
+in moccasin. The FAD-cofactor is colored orange, and all atoms are
+shown as ball-and-stick models. (b) The FAD-binding site of EcBBE featuring the distinctive C-terminal Y/FxN motif.
+The FAD cofactor is bicovalently bound to residues Cys166 and His104. Figure 1(a)
+The structure of EcBBE (PDB: 3D2J) with the FAD-domain
+in silver, the substrate-domain in dark sea green and the BBE-domain
+in moccasin. The FAD-cofactor is colored orange, and all atoms are
+shown as ball-and-stick models. (b) The FAD-binding site of EcBBE featuring the distinctive C-terminal Y/FxN motif.
+The FAD cofactor is bicovalently bound to residues Cys166 and His104. (a)
+The structure of EcBBE (PDB: 3D2J) with the FAD-domain
+in silver, the substrate-domain in dark sea green and the BBE-domain
+in moccasin. The FAD-cofactor is colored orange, and all atoms are
+shown as ball-and-stick models. (b) The FAD-binding site of EcBBE featuring the distinctive C-terminal Y/FxN motif.
+The FAD cofactor is bicovalently bound to residues Cys166 and His104. (a)
+The structure of EcBBE (PDB: 3D2J) with the FAD-domain
+in silver, the substrate-domain in dark sea green and the BBE-domain
+in moccasin. The FAD-cofactor is colored orange, and all atoms are
+shown as ball-and-stick models. (b) The FAD-binding site of EcBBE featuring the distinctive C-terminal Y/FxN motif.
+The FAD cofactor is bicovalently bound to residues Cys166 and His104. The (S)-reticuline oxidase, commonly
+known as
+the berberine bridge enzyme (BBE), from the plant Eschscholzia
+californica is the name-bearer for this subfamily and catalyzes
+the conversion of (S)-reticuline to (S)-scoulerine by mediating an oxidative ring closure reaction (Scheme 2). This reaction
+is proposed to occur through a stepwise oxidation of the N-methyl group to the iminium ion followed by a Friedel–Crafts
+acylation.29 (S)-Reticuline
+is the source of a wide range of benzylisoquinoline alkaloids (BIA)
+metabolites in secondary plant metabolism.30,31 A branch point in the biosynthesis of BIAs is marked by the C–C
+bond created by action of BBE, which is known as the berberine bridge.32 BBE-like flavoproteins typically contain a bicovalently
+bound FAD. However, there are examples of BBE-like oxidases with monocovalently
+bound FAD and singular instances where there is no covalent linkage
+with FAD whatsoever.33−36 The (S)-reticuline oxidase, commonly
+known as
+the berberine bridge enzyme (BBE), from the plant Eschscholzia
+californica is the name-bearer for this subfamily and catalyzes
+the conversion of (S)-reticuline to (S)-scoulerine by mediating an oxidative ring closure reaction (Scheme 2). This reaction
+is proposed to occur through a stepwise oxidation of the N-methyl group to the iminium ion followed by a Friedel–Crafts
+acylation.29 (S)-Reticuline
+is the source of a wide range of benzylisoquinoline alkaloids (BIA)
+metabolites in secondary plant metabolism.30,31 A branch point in the biosynthesis of BIAs is marked by the C–C
+bond created by action of BBE, which is known as the berberine bridge.32 BBE-like flavoproteins typically contain a bicovalently
+bound FAD. However, there are examples of BBE-like oxidases with monocovalently
+bound FAD and singular instances where there is no covalent linkage
+with FAD whatsoever.33−36 Scheme 2Oxidative Ring Closure Reaction from (S)-Reticuline
+to (S)-Scoulerine Catalyzed by the Plant-Derived
+Berberine Bridge EnzymeThe green dot indicates where
+the hydride is getting transferred to the N5 of the FAD cofactor. Scheme 2Oxidative Ring Closure Reaction from (S)-Reticuline
+to (S)-Scoulerine Catalyzed by the Plant-Derived
+Berberine Bridge EnzymeThe green dot indicates where
+the hydride is getting transferred to the N5 of the FAD cofactor. Oxidative Ring Closure Reaction from (S)-Reticuline
+to (S)-Scoulerine Catalyzed by the Plant-Derived
+Berberine Bridge Enzyme Oxidative Ring Closure Reaction from (S)-Reticuline
+to (S)-Scoulerine Catalyzed by the Plant-Derived
+Berberine Bridge Enzyme The green dot indicates where
+the hydride is getting transferred to the N5 of the FAD cofactor. The green dot indicates where
+the hydride is getting transferred to the N5 of the FAD cofactor. Unconventional Oxidation Reactions Catalyzed
+by BBE-like Oxidases Unconventional Oxidation Reactions Catalyzed
+by BBE-like Oxidases Even though BBE-like oxidases are named
+as such, they are functionally
+very different from the original name-bearer of this subfamily. They
+are capable of catalyzing a wide range of different reactions not
+only limited to the berberine bridge formation but also seen as essential
+enzymes for the generation of a plethora of intricate pharmacophores.
+A common trait among these unconventional oxidases is their capacity
+to generate novel C–C, C–O, or C–N bonds.35,37−40 These BBE-like oxidases promote the rearrangement of the molecular
+skeleton by catalyzing carbon-heteroatom and carbon–carbon
+bond oxidations. Oxidation can lead to the formation of new intramolecular
+bonds or prime the substrate to undergo hydration or dimerization
+reactions. These redox reactions have been of widespread interest
+in the field of synthetic electrochemisty41−43 and here we
+show the clever ways that nature utilizes BBEs to accomplish such
+challenging transformations. Even though BBE-like oxidases perform
+diverse activities, the exact mechanistic functioning of the enzymes
+performing the reactions is not always known. In this Review, we will
+go over multiple examples of experimentally validated BBE-like oxidoreductases
+in which the complexity of these biotransformations is portrayed. Even though BBE-like oxidases are named
+as such, they are functionally
+very different from the original name-bearer of this subfamily. They
+are capable of catalyzing a wide range of different reactions not
+only limited to the berberine bridge formation but also seen as essential
+enzymes for the generation of a plethora of intricate pharmacophores.
+A common trait among these unconventional oxidases is their capacity
+to generate novel C–C, C–O, or C–N bonds.35,37−40 These BBE-like oxidases promote the rearrangement of the molecular
+skeleton by catalyzing carbon-heteroatom and carbon–carbon
+bond oxidations. Oxidation can lead to the formation of new intramolecular
+bonds or prime the substrate to undergo hydration or dimerization
+reactions. These redox reactions have been of widespread interest
+in the field of synthetic electrochemisty41−43 and here we
+show the clever ways that nature utilizes BBEs to accomplish such
+challenging transformations. Even though BBE-like oxidases perform
+diverse activities, the exact mechanistic functioning of the enzymes
+performing the reactions is not always known. In this Review, we will
+go over multiple examples of experimentally validated BBE-like oxidoreductases
+in which the complexity of these biotransformations is portrayed. Below we highlight four generalized modes of action by which BBE-like
+oxidases enable the synthesis of intricate natural products. In Scheme 3 an example reaction
+is given for each reaction type that BBE-like oxidases utilize in
+natural product biosynthesis. The first reaction type is classical
+alcohol oxidation, where hydride transfer occurs at the α-carbon
+atom. The example shown in Scheme 3a illustrates a simple alcohol oxidation causing the
+dienophile to become sufficiently electron deficient and therefore
+allowing a [4 + 2] cycloaddition.44 The
+second example is the deprotonation of a phenol-derivative which promotes
+the hydride transfer at a distant carbon atom (Scheme 3b).45 This is
+similar to the benzylic oxidation reaction catalyzed by the classic
+VAO, with the only difference being the ortho-orientation
+of the hydroxy group compared to the usual para-orientation.
+Hydride transfer is achieved via the generation of an ortho-quinone methide (ο-QM) intermediate, that can then undergo
+different reactions such as the [4 + 2] cycloaddition leading to THCA.
+This ο-QM intermediate is observed in many BBE-like oxidases
+some of which have already been discussed by Purdy et al.46 The third example is the oxidation of a carbon–nitrogen
+bond, leading to hydride transfer from the α-carbon atom and
+thereby generating a transient imine or iminium cation that can undergo
+derivatization similar to the berberine bridge enzyme (Scheme 3c).47 The last example reaction is the hydride transfer from monoterpene
+indole alkaloids (Scheme 3d).48 The generated intermediate,
+stabilized via delocalized electrons from the indole N-atom, can undergo a multitude of derivatizations, including intramolecular
+cyclization but also water addition with concomitant oxidative cyclization.
+A phylogenetic tree was made but did not reveal clustering of the
+BBE-like enzymes into separate clades according to their function.
+The different activities might have evolved independently over time
+and other factors such as the enzyme’s origin and the type
+of natural product produced could be a reason for this. Below we highlight four generalized modes of action by which BBE-like
+oxidases enable the synthesis of intricate natural products. In Scheme 3 an example reaction
+is given for each reaction type that BBE-like oxidases utilize in
+natural product biosynthesis. The first reaction type is classical
+alcohol oxidation, where hydride transfer occurs at the α-carbon
+atom. The example shown in Scheme 3a illustrates a simple alcohol oxidation causing the
+dienophile to become sufficiently electron deficient and therefore
+allowing a [4 + 2] cycloaddition.44 The
+second example is the deprotonation of a phenol-derivative which promotes
+the hydride transfer at a distant carbon atom (Scheme 3b).45 This is
+similar to the benzylic oxidation reaction catalyzed by the classic
+VAO, with the only difference being the ortho-orientation
+of the hydroxy group compared to the usual para-orientation.
+Hydride transfer is achieved via the generation of an ortho-quinone methide (ο-QM) intermediate, that can then undergo
+different reactions such as the [4 + 2] cycloaddition leading to THCA.
+This ο-QM intermediate is observed in many BBE-like oxidases
+some of which have already been discussed by Purdy et al.46 The third example is the oxidation of a carbon–nitrogen
+bond, leading to hydride transfer from the α-carbon atom and
+thereby generating a transient imine or iminium cation that can undergo
+derivatization similar to the berberine bridge enzyme (Scheme 3c).47 The last example reaction is the hydride transfer from monoterpene
+indole alkaloids (Scheme 3d).48 The generated intermediate,
+stabilized via delocalized electrons from the indole N-atom, can undergo a multitude of derivatizations, including intramolecular
+cyclization but also water addition with concomitant oxidative cyclization.
+A phylogenetic tree was made but did not reveal clustering of the
+BBE-like enzymes into separate clades according to their function.
+The different activities might have evolved independently over time
+and other factors such as the enzyme’s origin and the type
+of natural product produced could be a reason for this. Scheme 3Four Modes
+of Action Illustrated by BBE-like Enzymes with Examples
+Taken from Literature(a) Aromatic alcohol oxidation
+catalyzed by Sol5 leading to a Diels-Alder cycloaddition reaction.
+(b) Oxidative cyclization reaction catalyzed by THCA synthase via
+an ortho-quinone methide intermediate. (c) Amide
+oxidation reaction catalyzed by FmqD with concomitant intramolecular
+cyclization. (d) Oxidative cyclization reaction catalyzed by CnsA.
+The green dot indicates where the hydride is getting transferred to
+the N5 of the FAD cofactor. Scheme 3Four Modes
+of Action Illustrated by BBE-like Enzymes with Examples
+Taken from Literature(a) Aromatic alcohol oxidation
+catalyzed by Sol5 leading to a Diels-Alder cycloaddition reaction.
+(b) Oxidative cyclization reaction catalyzed by THCA synthase via
+an ortho-quinone methide intermediate. (c) Amide
+oxidation reaction catalyzed by FmqD with concomitant intramolecular
+cyclization. (d) Oxidative cyclization reaction catalyzed by CnsA.
+The green dot indicates where the hydride is getting transferred to
+the N5 of the FAD cofactor. Four Modes
+of Action Illustrated by BBE-like Enzymes with Examples
+Taken from Literature Four Modes
+of Action Illustrated by BBE-like Enzymes with Examples
+Taken from Literature (a) Aromatic alcohol oxidation
+catalyzed by Sol5 leading to a Diels-Alder cycloaddition reaction.
+(b) Oxidative cyclization reaction catalyzed by THCA synthase via
+an ortho-quinone methide intermediate. (c) Amide
+oxidation reaction catalyzed by FmqD with concomitant intramolecular
+cyclization. (d) Oxidative cyclization reaction catalyzed by CnsA.
+The green dot indicates where the hydride is getting transferred to
+the N5 of the FAD cofactor. (a) Aromatic alcohol oxidation
+catalyzed by Sol5 leading to a Diels-Alder cycloaddition reaction.
+(b) Oxidative cyclization reaction catalyzed by THCA synthase via
+an ortho-quinone methide intermediate. (c) Amide
+oxidation reaction catalyzed by FmqD with concomitant intramolecular
+cyclization. (d) Oxidative cyclization reaction catalyzed by CnsA.
+The green dot indicates where the hydride is getting transferred to
+the N5 of the FAD cofactor. Alcohol Oxidation Alcohol Oxidation Alcohol Oxidation Flavin-dependent oxidases are particularly
+known for the oxidation of alcohol groups. Examples include the methanol
+oxidases from methylotrophic yeasts49−51 and glucose oxidases52 secreted by filamentous fungi. Below we elaborate
+on alcohol oxidations occurring in biosynthetic pathways that can
+facilitate subsequent noteworthy transformations. Flavin-dependent oxidases are particularly
+known for the oxidation of alcohol groups. Examples include the methanol
+oxidases from methylotrophic yeasts49−51 and glucose oxidases52 secreted by filamentous fungi. Below we elaborate
+on alcohol oxidations occurring in biosynthetic pathways that can
+facilitate subsequent noteworthy transformations. Flavin-dependent oxidases are particularly
+known for the oxidation of alcohol groups. Examples include the methanol
+oxidases from methylotrophic yeasts49−51 and glucose oxidases52 secreted by filamentous fungi. Below we elaborate
+on alcohol oxidations occurring in biosynthetic pathways that can
+facilitate subsequent noteworthy transformations. The first
+example concerns a BBE-like oxidase found in Alternaria solani, a pathogenic fungus that causes early blight in tomato and potato
+plants.53 Numerous polyketides are produced
+by this fungus including solanapyrone, which has a decalin structure
+formed through a [4 + 2] cycloaddition comparable to lovastatin skeleton
+formation.35,54 Initially assuming that a polyketide
+synthase would be responsible for the cycloaddition reaction as seen
+with lovastatin, it turned out that the flavoprotein oxidase Sol5
+was the enzyme involved.44 Although this
+flavoenzyme performs a single oxidation of a primary alcohol group
+of prosolanapyrone II to the corresponding aldehyde, it also lowers
+the LUMO energy of the dienophile, thereby promoting the [4 + 2] cycloaddition
+(Scheme 4). Hence,
+the initial redox reaction performed by the BBE-like oxidase Sol5
+is making this cycloaddition possible.55 The first
+example concerns a BBE-like oxidase found in Alternaria solani, a pathogenic fungus that causes early blight in tomato and potato
+plants.53 Numerous polyketides are produced
+by this fungus including solanapyrone, which has a decalin structure
+formed through a [4 + 2] cycloaddition comparable to lovastatin skeleton
+formation.35,54 Initially assuming that a polyketide
+synthase would be responsible for the cycloaddition reaction as seen
+with lovastatin, it turned out that the flavoprotein oxidase Sol5
+was the enzyme involved.44 Although this
+flavoenzyme performs a single oxidation of a primary alcohol group
+of prosolanapyrone II to the corresponding aldehyde, it also lowers
+the LUMO energy of the dienophile, thereby promoting the [4 + 2] cycloaddition
+(Scheme 4). Hence,
+the initial redox reaction performed by the BBE-like oxidase Sol5
+is making this cycloaddition possible.55 The first
+example concerns a BBE-like oxidase found in Alternaria solani, a pathogenic fungus that causes early blight in tomato and potato
+plants.53 Numerous polyketides are produced
+by this fungus including solanapyrone, which has a decalin structure
+formed through a [4 + 2] cycloaddition comparable to lovastatin skeleton
+formation.35,54 Initially assuming that a polyketide
+synthase would be responsible for the cycloaddition reaction as seen
+with lovastatin, it turned out that the flavoprotein oxidase Sol5
+was the enzyme involved.44 Although this
+flavoenzyme performs a single oxidation of a primary alcohol group
+of prosolanapyrone II to the corresponding aldehyde, it also lowers
+the LUMO energy of the dienophile, thereby promoting the [4 + 2] cycloaddition
+(Scheme 4). Hence,
+the initial redox reaction performed by the BBE-like oxidase Sol5
+is making this cycloaddition possible.55 Scheme 4[4 + 2] Cyclization Enabled by the Alcohol Oxidation of Prosolanapyrone
+II to Aldehyde Mediated by the FAD-Enzyme Sol5 Scheme 4[4 + 2] Cyclization Enabled by the Alcohol Oxidation of Prosolanapyrone
+II to Aldehyde Mediated by the FAD-Enzyme Sol5 Scheme 4[4 + 2] Cyclization Enabled by the Alcohol Oxidation of Prosolanapyrone
+II to Aldehyde Mediated by the FAD-Enzyme Sol5 [4 + 2] Cyclization Enabled by the Alcohol Oxidation of Prosolanapyrone
+II to Aldehyde Mediated by the FAD-Enzyme Sol5 [4 + 2] Cyclization Enabled by the Alcohol Oxidation of Prosolanapyrone
+II to Aldehyde Mediated by the FAD-Enzyme Sol5 [4 + 2] Cyclization Enabled by the Alcohol Oxidation of Prosolanapyrone
+II to Aldehyde Mediated by the FAD-Enzyme Sol5 Another more recent example is a BBE-like oxidase involved
+in sorbicillinoid
+biosynthesis.56 Sorbicillinoids represent
+a substantial fungal natural product class encompassing over 100 derivatives
+characterized by intricate three-dimensional architectures and a wide
+spectrum of significant pharmacological activities.57 Sorbicillinoids are categorized into monomeric, dimeric,
+trimeric, and hybrid groups based on shared structural features. The
+biosynthetic pathway toward sorbicillinoids involves the collaboration
+of a highly reducing iterative polyketide synthase (hrPKS, SorA) and
+a nonreducing iterative polyketide synthase (nrPKS, SorB) to establish
+the core backbone of sorbicillin. Subsequently, an NAD(P)H-dependent
+flavoprotein monooxygenase SorC catalyzes the oxidative dearomatization
+to yield sorbicillinol. The last enzyme in the biosynthetic pathway
+is BBE-like oxidase SorD that has been shown to play a crucial role
+in the polymerization and oxygenation of sorbicillinol.36,58,59 Recently, SorD from Acremonium
+chrysogenum was heterologously expressed in Aspergillus
+nidulans to analyze its exact function.56 Sorbicillinol undergoes spontaneous hydration, as it is
+a highly reactive α,β-unsaturated ketone generating the
+hydrated sorbicillinol intermediate (Scheme 5). Subsequently, SorD oxidizes this intermediate
+to the corresponding oxosorbicillinol. Oxosorbicillinol can then spontaneously
+react with sorbicillinol to form the cage-like acresorbicillinol C
+by a Michael-addition reaction. Another more recent example is a BBE-like oxidase involved
+in sorbicillinoid
+biosynthesis.56 Sorbicillinoids represent
+a substantial fungal natural product class encompassing over 100 derivatives
+characterized by intricate three-dimensional architectures and a wide
+spectrum of significant pharmacological activities.57 Sorbicillinoids are categorized into monomeric, dimeric,
+trimeric, and hybrid groups based on shared structural features. The
+biosynthetic pathway toward sorbicillinoids involves the collaboration
+of a highly reducing iterative polyketide synthase (hrPKS, SorA) and
+a nonreducing iterative polyketide synthase (nrPKS, SorB) to establish
+the core backbone of sorbicillin. Subsequently, an NAD(P)H-dependent
+flavoprotein monooxygenase SorC catalyzes the oxidative dearomatization
+to yield sorbicillinol. The last enzyme in the biosynthetic pathway
+is BBE-like oxidase SorD that has been shown to play a crucial role
+in the polymerization and oxygenation of sorbicillinol.36,58,59 Recently, SorD from Acremonium
+chrysogenum was heterologously expressed in Aspergillus
+nidulans to analyze its exact function.56 Sorbicillinol undergoes spontaneous hydration, as it is
+a highly reactive α,β-unsaturated ketone generating the
+hydrated sorbicillinol intermediate (Scheme 5). Subsequently, SorD oxidizes this intermediate
+to the corresponding oxosorbicillinol. Oxosorbicillinol can then spontaneously
+react with sorbicillinol to form the cage-like acresorbicillinol C
+by a Michael-addition reaction. Another more recent example is a BBE-like oxidase involved
+in sorbicillinoid
+biosynthesis.56 Sorbicillinoids represent
+a substantial fungal natural product class encompassing over 100 derivatives
+characterized by intricate three-dimensional architectures and a wide
+spectrum of significant pharmacological activities.57 Sorbicillinoids are categorized into monomeric, dimeric,
+trimeric, and hybrid groups based on shared structural features. The
+biosynthetic pathway toward sorbicillinoids involves the collaboration
+of a highly reducing iterative polyketide synthase (hrPKS, SorA) and
+a nonreducing iterative polyketide synthase (nrPKS, SorB) to establish
+the core backbone of sorbicillin. Subsequently, an NAD(P)H-dependent
+flavoprotein monooxygenase SorC catalyzes the oxidative dearomatization
+to yield sorbicillinol. The last enzyme in the biosynthetic pathway
+is BBE-like oxidase SorD that has been shown to play a crucial role
+in the polymerization and oxygenation of sorbicillinol.36,58,59 Recently, SorD from Acremonium
+chrysogenum was heterologously expressed in Aspergillus
+nidulans to analyze its exact function.56 Sorbicillinol undergoes spontaneous hydration, as it is
+a highly reactive α,β-unsaturated ketone generating the
+hydrated sorbicillinol intermediate (Scheme 5). Subsequently, SorD oxidizes this intermediate
+to the corresponding oxosorbicillinol. Oxosorbicillinol can then spontaneously
+react with sorbicillinol to form the cage-like acresorbicillinol C
+by a Michael-addition reaction. Scheme 5(a) The NAD(P)H-Dependent Flavoprotein
+Monooxygenase SorC Installs
+a Hydroxy-Group in Sorbicillin Producing the Reactive Sorbicillinol and (b) the Reactive Sorbicillinol Undergoes
+a Michael-Addition Reaction with Oxosorbicillinol to Produce the Dimer
+Acresorbicillinol CAfter spontaneous hydration,
+the BBE-like oxidase SorD performs an alcohol oxidation to form oxosorbicillinol. Scheme 5(a) The NAD(P)H-Dependent Flavoprotein
+Monooxygenase SorC Installs
+a Hydroxy-Group in Sorbicillin Producing the Reactive Sorbicillinol and (b) the Reactive Sorbicillinol Undergoes
+a Michael-Addition Reaction with Oxosorbicillinol to Produce the Dimer
+Acresorbicillinol CAfter spontaneous hydration,
+the BBE-like oxidase SorD performs an alcohol oxidation to form oxosorbicillinol. Scheme 5(a) The NAD(P)H-Dependent Flavoprotein
+Monooxygenase SorC Installs
+a Hydroxy-Group in Sorbicillin Producing the Reactive Sorbicillinol and (b) the Reactive Sorbicillinol Undergoes
+a Michael-Addition Reaction with Oxosorbicillinol to Produce the Dimer
+Acresorbicillinol CAfter spontaneous hydration,
+the BBE-like oxidase SorD performs an alcohol oxidation to form oxosorbicillinol. (a) The NAD(P)H-Dependent Flavoprotein
+Monooxygenase SorC Installs
+a Hydroxy-Group in Sorbicillin Producing the Reactive Sorbicillinol and (b) the Reactive Sorbicillinol Undergoes
+a Michael-Addition Reaction with Oxosorbicillinol to Produce the Dimer
+Acresorbicillinol C (a) The NAD(P)H-Dependent Flavoprotein
+Monooxygenase SorC Installs
+a Hydroxy-Group in Sorbicillin Producing the Reactive Sorbicillinol and (b) the Reactive Sorbicillinol Undergoes
+a Michael-Addition Reaction with Oxosorbicillinol to Produce the Dimer
+Acresorbicillinol C (a) The NAD(P)H-Dependent Flavoprotein
+Monooxygenase SorC Installs
+a Hydroxy-Group in Sorbicillin Producing the Reactive Sorbicillinol and (b) the Reactive Sorbicillinol Undergoes
+a Michael-Addition Reaction with Oxosorbicillinol to Produce the Dimer
+Acresorbicillinol C After spontaneous hydration,
+the BBE-like oxidase SorD performs an alcohol oxidation to form oxosorbicillinol. After spontaneous hydration,
+the BBE-like oxidase SorD performs an alcohol oxidation to form oxosorbicillinol. After spontaneous hydration,
+the BBE-like oxidase SorD performs an alcohol oxidation to form oxosorbicillinol. Ansaseomycins are part of the macrolactam family
+and exhibit potent
+biological activities.60 The oxidoreductase
+AsmF was shown to be responsible for the oxidation of C23-OH of the
+nascent polyketide synthase product 1 to yield ketone
+compound 2 (Scheme 6). This paves the way, after keto–enol tautomerization,
+to a Diels–Alder reaction forming compound 3.37 Knocking asmF out from the
+heterologous strain of Streptomyces seoulensis A01
+led to an increase in novel ansaseomycin derivatives. Indeed, when
+the hydroxyl group was not modified by AsmF, the substrate could undergo
+spontaneous dehydration, forming 4, a common precursor
+for other deoxy-naphthalenic compounds. This observation implies that
+nature has developed a specific approach for incorporating the hydroxyl
+naphthalenic moiety in ansamycin natural products. Ultimately, the
+deletion of asmF might be an effective strategy to
+enhance the structural diversity of ansamycins. Ansaseomycins are part of the macrolactam family
+and exhibit potent
+biological activities.60 The oxidoreductase
+AsmF was shown to be responsible for the oxidation of C23-OH of the
+nascent polyketide synthase product 1 to yield ketone
+compound 2 (Scheme 6). This paves the way, after keto–enol tautomerization,
+to a Diels–Alder reaction forming compound 3.37 Knocking asmF out from the
+heterologous strain of Streptomyces seoulensis A01
+led to an increase in novel ansaseomycin derivatives. Indeed, when
+the hydroxyl group was not modified by AsmF, the substrate could undergo
+spontaneous dehydration, forming 4, a common precursor
+for other deoxy-naphthalenic compounds. This observation implies that
+nature has developed a specific approach for incorporating the hydroxyl
+naphthalenic moiety in ansamycin natural products. Ultimately, the
+deletion of asmF might be an effective strategy to
+enhance the structural diversity of ansamycins. Ansaseomycins are part of the macrolactam family
+and exhibit potent
+biological activities.60 The oxidoreductase
+AsmF was shown to be responsible for the oxidation of C23-OH of the
+nascent polyketide synthase product 1 to yield ketone
+compound 2 (Scheme 6). This paves the way, after keto–enol tautomerization,
+to a Diels–Alder reaction forming compound 3.37 Knocking asmF out from the
+heterologous strain of Streptomyces seoulensis A01
+led to an increase in novel ansaseomycin derivatives. Indeed, when
+the hydroxyl group was not modified by AsmF, the substrate could undergo
+spontaneous dehydration, forming 4, a common precursor
+for other deoxy-naphthalenic compounds. This observation implies that
+nature has developed a specific approach for incorporating the hydroxyl
+naphthalenic moiety in ansamycin natural products. Ultimately, the
+deletion of asmF might be an effective strategy to
+enhance the structural diversity of ansamycins. Scheme 6Oxidoreductase AsmF
+Catalyzes the Alcohol Oxidation to the Corresponding
+Ketone, Preventing Spontaneous Dehydration and Therefore Limits Ansamycin
+Derivatization Scheme 6Oxidoreductase AsmF
+Catalyzes the Alcohol Oxidation to the Corresponding
+Ketone, Preventing Spontaneous Dehydration and Therefore Limits Ansamycin
+Derivatization Scheme 6Oxidoreductase AsmF
+Catalyzes the Alcohol Oxidation to the Corresponding
+Ketone, Preventing Spontaneous Dehydration and Therefore Limits Ansamycin
+Derivatization Oxidoreductase AsmF
+Catalyzes the Alcohol Oxidation to the Corresponding
+Ketone, Preventing Spontaneous Dehydration and Therefore Limits Ansamycin
+Derivatization Oxidoreductase AsmF
+Catalyzes the Alcohol Oxidation to the Corresponding
+Ketone, Preventing Spontaneous Dehydration and Therefore Limits Ansamycin
+Derivatization Oxidoreductase AsmF
+Catalyzes the Alcohol Oxidation to the Corresponding
+Ketone, Preventing Spontaneous Dehydration and Therefore Limits Ansamycin
+Derivatization AnuG was identified
+in the silent biosynthetic gene cluster involved
+in the oxidative lactonization forming the polyketide annullatin D.61 Via overexpression in A. nidulans, it was shown to synthesize the five-membered lactone ring via the
+oxidation of the hydroxyl groups of the alkylated salicylaldehyde
+precursor (Scheme 7). It is postulated that the hydroxymethyl functional group undergoes
+a double oxidation to the acid.61 The first
+oxidation creates an aldehyde that, after the addition of water, forms
+a hydrate that can be oxidized to the acid. This is followed by spontaneous
+lactonization with the other hydroxyl group. A homologous BGC can
+be found in Aspergillus ruber, Neurosporin
+crassa and Trichoderma virens, where the
+AnuG orthologs correspond to FogF, SrdI and VirF with sequence identities
+of 27–28%.62−64 These oxidases are thought to be involved in the
+oxidation of the hydroxymethyl group to the aldehyde of a flavoglaucin
+congener, but they do not lead to the formation of five-membered lactones.
+This is because the flavoglaucin congener substrate lacks the hydroxyl
+group needed for intramolecular ring-closure. The cytochrome P450
+monooxygenase (CYP) responsible for installing this hydroxyl group
+is not present in the BGC of N. crassa, and in A. ruber, the respective CYP hydroxylates the aromatic ring
+instead of the side chain. In T. virens, the CYP
+has not been characterized. AnuG was identified
+in the silent biosynthetic gene cluster involved
+in the oxidative lactonization forming the polyketide annullatin D.61 Via overexpression in A. nidulans, it was shown to synthesize the five-membered lactone ring via the
+oxidation of the hydroxyl groups of the alkylated salicylaldehyde
+precursor (Scheme 7). It is postulated that the hydroxymethyl functional group undergoes
+a double oxidation to the acid.61 The first
+oxidation creates an aldehyde that, after the addition of water, forms
+a hydrate that can be oxidized to the acid. This is followed by spontaneous
+lactonization with the other hydroxyl group. A homologous BGC can
+be found in Aspergillus ruber, Neurosporin
+crassa and Trichoderma virens, where the
+AnuG orthologs correspond to FogF, SrdI and VirF with sequence identities
+of 27–28%.62−64 These oxidases are thought to be involved in the
+oxidation of the hydroxymethyl group to the aldehyde of a flavoglaucin
+congener, but they do not lead to the formation of five-membered lactones.
+This is because the flavoglaucin congener substrate lacks the hydroxyl
+group needed for intramolecular ring-closure. The cytochrome P450
+monooxygenase (CYP) responsible for installing this hydroxyl group
+is not present in the BGC of N. crassa, and in A. ruber, the respective CYP hydroxylates the aromatic ring
+instead of the side chain. In T. virens, the CYP
+has not been characterized. AnuG was identified
+in the silent biosynthetic gene cluster involved
+in the oxidative lactonization forming the polyketide annullatin D.61 Via overexpression in A. nidulans, it was shown to synthesize the five-membered lactone ring via the
+oxidation of the hydroxyl groups of the alkylated salicylaldehyde
+precursor (Scheme 7). It is postulated that the hydroxymethyl functional group undergoes
+a double oxidation to the acid.61 The first
+oxidation creates an aldehyde that, after the addition of water, forms
+a hydrate that can be oxidized to the acid. This is followed by spontaneous
+lactonization with the other hydroxyl group. A homologous BGC can
+be found in Aspergillus ruber, Neurosporin
+crassa and Trichoderma virens, where the
+AnuG orthologs correspond to FogF, SrdI and VirF with sequence identities
+of 27–28%.62−64 These oxidases are thought to be involved in the
+oxidation of the hydroxymethyl group to the aldehyde of a flavoglaucin
+congener, but they do not lead to the formation of five-membered lactones.
+This is because the flavoglaucin congener substrate lacks the hydroxyl
+group needed for intramolecular ring-closure. The cytochrome P450
+monooxygenase (CYP) responsible for installing this hydroxyl group
+is not present in the BGC of N. crassa, and in A. ruber, the respective CYP hydroxylates the aromatic ring
+instead of the side chain. In T. virens, the CYP
+has not been characterized. Scheme 7Double-Oxidation Reaction Performed
+by AnuG to Create the Natural
+Product Annulatin D Scheme 7Double-Oxidation Reaction Performed
+by AnuG to Create the Natural
+Product Annulatin D Scheme 7Double-Oxidation Reaction Performed
+by AnuG to Create the Natural
+Product Annulatin D Double-Oxidation Reaction Performed
+by AnuG to Create the Natural
+Product Annulatin D Double-Oxidation Reaction Performed
+by AnuG to Create the Natural
+Product Annulatin D Double-Oxidation Reaction Performed
+by AnuG to Create the Natural
+Product Annulatin D Another notable enzyme
+is BeklD, a bicovalently-FAD bound flavoprotein
+that is likely to enable epimerization of berkeleylactone derivatives
+by performing an alcohol oxidation.65 Berkeleylactones
+are macrocyclic polyketides produced by several Penicillium species.66,67 Even though it is postulated
+that a short-chain dehydrogenase/reductase (SDR) termed BeklG is responsible
+for the complete epimerization, it might instead be a combination
+of the SDR BeklG and oxidase BeklD (Scheme 8). Characterized homologues of BeklD have
+been found in other macrolide-producing organisms such as BerkD from Penicillium egyptiacum (96% seq id.) and ZEB1 from Fusarium graminearum (40% seq id.) where they perform a
+secondary alcohol oxidation.66,68 The ketone functional
+group could then be reduced into the other epimer by the SDR BeklG,
+thereby enabling epimerization and causing structural diversification. Another notable enzyme
+is BeklD, a bicovalently-FAD bound flavoprotein
+that is likely to enable epimerization of berkeleylactone derivatives
+by performing an alcohol oxidation.65 Berkeleylactones
+are macrocyclic polyketides produced by several Penicillium species.66,67 Even though it is postulated
+that a short-chain dehydrogenase/reductase (SDR) termed BeklG is responsible
+for the complete epimerization, it might instead be a combination
+of the SDR BeklG and oxidase BeklD (Scheme 8). Characterized homologues of BeklD have
+been found in other macrolide-producing organisms such as BerkD from Penicillium egyptiacum (96% seq id.) and ZEB1 from Fusarium graminearum (40% seq id.) where they perform a
+secondary alcohol oxidation.66,68 The ketone functional
+group could then be reduced into the other epimer by the SDR BeklG,
+thereby enabling epimerization and causing structural diversification. Another notable enzyme
+is BeklD, a bicovalently-FAD bound flavoprotein
+that is likely to enable epimerization of berkeleylactone derivatives
+by performing an alcohol oxidation.65 Berkeleylactones
+are macrocyclic polyketides produced by several Penicillium species.66,67 Even though it is postulated
+that a short-chain dehydrogenase/reductase (SDR) termed BeklG is responsible
+for the complete epimerization, it might instead be a combination
+of the SDR BeklG and oxidase BeklD (Scheme 8). Characterized homologues of BeklD have
+been found in other macrolide-producing organisms such as BerkD from Penicillium egyptiacum (96% seq id.) and ZEB1 from Fusarium graminearum (40% seq id.) where they perform a
+secondary alcohol oxidation.66,68 The ketone functional
+group could then be reduced into the other epimer by the SDR BeklG,
+thereby enabling epimerization and causing structural diversification. Scheme 8Epimerization of Berkeleylactone Potentially Catalyzed by the Oxidase
+BeklD and Short-Chain Dehydrogenase/Reductase BeklG Scheme 8Epimerization of Berkeleylactone Potentially Catalyzed by the Oxidase
+BeklD and Short-Chain Dehydrogenase/Reductase BeklG Scheme 8Epimerization of Berkeleylactone Potentially Catalyzed by the Oxidase
+BeklD and Short-Chain Dehydrogenase/Reductase BeklG Epimerization of Berkeleylactone Potentially Catalyzed by the Oxidase
+BeklD and Short-Chain Dehydrogenase/Reductase BeklG Epimerization of Berkeleylactone Potentially Catalyzed by the Oxidase
+BeklD and Short-Chain Dehydrogenase/Reductase BeklG Epimerization of Berkeleylactone Potentially Catalyzed by the Oxidase
+BeklD and Short-Chain Dehydrogenase/Reductase BeklG A flavoprotein found in the marine-derived fungus Actinoalloteichus
+cyanogriseus WH1–2216–6 is noteworthy as it
+does not partake in the biosynthesis of the nonribosomal peptide-polyketide
+hybrid secondary metabolite caerulomycin A itself.69,70 This bicovalently FAD-bound oxidase named CrmK can recycle products
+back to the main biosynthetic pathway via a double oxidation reaction
+of an alcohol to a carboxylate via an aldehyde (Scheme 9). The on-pathway carboxylate substrate CRM
+O is transformed into the corresponding aldehyde intermediate CRM
+M using the dehydrogenase pair CrmN/CrmO. This aldehyde substrate
+is then stepwise converted to the Z- and E-configured aldoxime CRM H by the two-component monooxygenase
+CrmH. The unstable Z-CRM H, however, can spontaneously
+go back to the aldehyde CRMN M by a deoximation reaction. This would
+lead to an accumulation of the aldehyde intermediate. Since aldehydes
+are known for being reactive electrophiles, they are often detoxified
+by the cell enzymatically or spontaneously. In the cell, the aldehyde
+CRM M can spontaneously reduce to the corresponding alcohol CRM P
+in an inadvertent side reaction to potentially avoid buildup of the
+aldehyde intermediate. However, CrmK can shunt it back to the aldehyde
+and, after hydrate formation with water, also oxidize it to the carboxylate
+CRM O although with lower efficiency. Intriguingly, CrmK enables the
+possibility of a salvage pathway, which is rarely seen in secondary
+metabolism and perhaps more unassigned genes in BGC could have this
+function.71−73 A flavoprotein found in the marine-derived fungus Actinoalloteichus
+cyanogriseus WH1–2216–6 is noteworthy as it
+does not partake in the biosynthesis of the nonribosomal peptide-polyketide
+hybrid secondary metabolite caerulomycin A itself.69,70 This bicovalently FAD-bound oxidase named CrmK can recycle products
+back to the main biosynthetic pathway via a double oxidation reaction
+of an alcohol to a carboxylate via an aldehyde (Scheme 9). The on-pathway carboxylate substrate CRM
+O is transformed into the corresponding aldehyde intermediate CRM
+M using the dehydrogenase pair CrmN/CrmO. This aldehyde substrate
+is then stepwise converted to the Z- and E-configured aldoxime CRM H by the two-component monooxygenase
+CrmH. The unstable Z-CRM H, however, can spontaneously
+go back to the aldehyde CRMN M by a deoximation reaction. This would
+lead to an accumulation of the aldehyde intermediate. Since aldehydes
+are known for being reactive electrophiles, they are often detoxified
+by the cell enzymatically or spontaneously. In the cell, the aldehyde
+CRM M can spontaneously reduce to the corresponding alcohol CRM P
+in an inadvertent side reaction to potentially avoid buildup of the
+aldehyde intermediate. However, CrmK can shunt it back to the aldehyde
+and, after hydrate formation with water, also oxidize it to the carboxylate
+CRM O although with lower efficiency. Intriguingly, CrmK enables the
+possibility of a salvage pathway, which is rarely seen in secondary
+metabolism and perhaps more unassigned genes in BGC could have this
+function.71−73 A flavoprotein found in the marine-derived fungus Actinoalloteichus
+cyanogriseus WH1–2216–6 is noteworthy as it
+does not partake in the biosynthesis of the nonribosomal peptide-polyketide
+hybrid secondary metabolite caerulomycin A itself.69,70 This bicovalently FAD-bound oxidase named CrmK can recycle products
+back to the main biosynthetic pathway via a double oxidation reaction
+of an alcohol to a carboxylate via an aldehyde (Scheme 9). The on-pathway carboxylate substrate CRM
+O is transformed into the corresponding aldehyde intermediate CRM
+M using the dehydrogenase pair CrmN/CrmO. This aldehyde substrate
+is then stepwise converted to the Z- and E-configured aldoxime CRM H by the two-component monooxygenase
+CrmH. The unstable Z-CRM H, however, can spontaneously
+go back to the aldehyde CRMN M by a deoximation reaction. This would
+lead to an accumulation of the aldehyde intermediate. Since aldehydes
+are known for being reactive electrophiles, they are often detoxified
+by the cell enzymatically or spontaneously. In the cell, the aldehyde
+CRM M can spontaneously reduce to the corresponding alcohol CRM P
+in an inadvertent side reaction to potentially avoid buildup of the
+aldehyde intermediate. However, CrmK can shunt it back to the aldehyde
+and, after hydrate formation with water, also oxidize it to the carboxylate
+CRM O although with lower efficiency. Intriguingly, CrmK enables the
+possibility of a salvage pathway, which is rarely seen in secondary
+metabolism and perhaps more unassigned genes in BGC could have this
+function.71−73 Scheme 9Salvage Pathway for the Secondary Metabolite Caerulomycin
+A in Which
+CrmK Can Perform a Double Oxidation to Recycle the Alcohol to the
+Corresponding Aldehyde CRM M and Acid CRM O Scheme 9Salvage Pathway for the Secondary Metabolite Caerulomycin
+A in Which
+CrmK Can Perform a Double Oxidation to Recycle the Alcohol to the
+Corresponding Aldehyde CRM M and Acid CRM O Scheme 9Salvage Pathway for the Secondary Metabolite Caerulomycin
+A in Which
+CrmK Can Perform a Double Oxidation to Recycle the Alcohol to the
+Corresponding Aldehyde CRM M and Acid CRM O Salvage Pathway for the Secondary Metabolite Caerulomycin
+A in Which
+CrmK Can Perform a Double Oxidation to Recycle the Alcohol to the
+Corresponding Aldehyde CRM M and Acid CRM O Salvage Pathway for the Secondary Metabolite Caerulomycin
+A in Which
+CrmK Can Perform a Double Oxidation to Recycle the Alcohol to the
+Corresponding Aldehyde CRM M and Acid CRM O Salvage Pathway for the Secondary Metabolite Caerulomycin
+A in Which
+CrmK Can Perform a Double Oxidation to Recycle the Alcohol to the
+Corresponding Aldehyde CRM M and Acid CRM O Another flavoenzyme capable of a four-electron oxidation is called
+SapB from the sap cluster in Scedosporium
+apiospermum F41–1.74 This
+cluster encodes a PKS-NRPS (sapA) and flavin-dependent
+oxidoreductase (sapB) that together assemble a polyketide–amino
+acid (PKAA) conjugate type N-acylated amino acid
+(NAAA) that inhibits Arabidopsis root growth. Generally,
+the C-terminal domain of a fungal PKS-NRPS is reductive and can only
+release the amino-acyl adduct intermediate through a Dieckmann cyclization
+or Knoevenagel condensation making it impossible for a single fungal
+PKS-NRPS to produce a PKAA conjugate.75 Interestingly, SapA, after backbone formation, does not use such
+a release mechanism. Instead, it forms an N-acylated
+amino alcohol as an intermediate which can be used by the BBE-like
+oxidase SapB to perform a double oxidation creating the NAAA (Scheme 10). This work shows
+a new biosynthetic reasoning leading to a novel PKAA conjugate type
+NAAA enabled by combining a PKS-NRPS with a BBE-like oxidase. Another flavoenzyme capable of a four-electron oxidation is called
+SapB from the sap cluster in Scedosporium
+apiospermum F41–1.74 This
+cluster encodes a PKS-NRPS (sapA) and flavin-dependent
+oxidoreductase (sapB) that together assemble a polyketide–amino
+acid (PKAA) conjugate type N-acylated amino acid
+(NAAA) that inhibits Arabidopsis root growth. Generally,
+the C-terminal domain of a fungal PKS-NRPS is reductive and can only
+release the amino-acyl adduct intermediate through a Dieckmann cyclization
+or Knoevenagel condensation making it impossible for a single fungal
+PKS-NRPS to produce a PKAA conjugate.75 Interestingly, SapA, after backbone formation, does not use such
+a release mechanism. Instead, it forms an N-acylated
+amino alcohol as an intermediate which can be used by the BBE-like
+oxidase SapB to perform a double oxidation creating the NAAA (Scheme 10). This work shows
+a new biosynthetic reasoning leading to a novel PKAA conjugate type
+NAAA enabled by combining a PKS-NRPS with a BBE-like oxidase. Another flavoenzyme capable of a four-electron oxidation is called
+SapB from the sap cluster in Scedosporium
+apiospermum F41–1.74 This
+cluster encodes a PKS-NRPS (sapA) and flavin-dependent
+oxidoreductase (sapB) that together assemble a polyketide–amino
+acid (PKAA) conjugate type N-acylated amino acid
+(NAAA) that inhibits Arabidopsis root growth. Generally,
+the C-terminal domain of a fungal PKS-NRPS is reductive and can only
+release the amino-acyl adduct intermediate through a Dieckmann cyclization
+or Knoevenagel condensation making it impossible for a single fungal
+PKS-NRPS to produce a PKAA conjugate.75 Interestingly, SapA, after backbone formation, does not use such
+a release mechanism. Instead, it forms an N-acylated
+amino alcohol as an intermediate which can be used by the BBE-like
+oxidase SapB to perform a double oxidation creating the NAAA (Scheme 10). This work shows
+a new biosynthetic reasoning leading to a novel PKAA conjugate type
+NAAA enabled by combining a PKS-NRPS with a BBE-like oxidase. Scheme 10Four-Electron Oxidation Performed by SapB to Form an N-Acyl Amino Acid in Scedosporium apiospermum F41-1Fungal PKS-NRPSs have different
+release mechanisms, and SapA uses a four-electron reduction to release
+the N-acyl amino alcohol from the thiolation domain
+(T). Scheme 10Four-Electron Oxidation Performed by SapB to Form an N-Acyl Amino Acid in Scedosporium apiospermum F41-1Fungal PKS-NRPSs have different
+release mechanisms, and SapA uses a four-electron reduction to release
+the N-acyl amino alcohol from the thiolation domain
+(T). Scheme 10Four-Electron Oxidation Performed by SapB to Form an N-Acyl Amino Acid in Scedosporium apiospermum F41-1Fungal PKS-NRPSs have different
+release mechanisms, and SapA uses a four-electron reduction to release
+the N-acyl amino alcohol from the thiolation domain
+(T). Four-Electron Oxidation Performed by SapB to Form an N-Acyl Amino Acid in Scedosporium apiospermum F41-1 Four-Electron Oxidation Performed by SapB to Form an N-Acyl Amino Acid in Scedosporium apiospermum F41-1 Four-Electron Oxidation Performed by SapB to Form an N-Acyl Amino Acid in Scedosporium apiospermum F41-1 Fungal PKS-NRPSs have different
+release mechanisms, and SapA uses a four-electron reduction to release
+the N-acyl amino alcohol from the thiolation domain
+(T). Fungal PKS-NRPSs have different
+release mechanisms, and SapA uses a four-electron reduction to release
+the N-acyl amino alcohol from the thiolation domain
+(T). Fungal PKS-NRPSs have different
+release mechanisms, and SapA uses a four-electron reduction to release
+the N-acyl amino alcohol from the thiolation domain
+(T). The flavoprotein Dbv29 is the first described
+FMN-containing bicovalent
+oxidase.76 Dbv29 is involved in the maturation
+of the glycopeptide A40926, a vancomycin-like glycopeptide, and an
+important antibiotic obstructing bacterial cell wall synthesis. By
+catalyzing two consecutive oxidation reactions, Dbv29 transforms the N-acyl aminoglucosamine into N-acyl aminoglucuronic
+acid (Scheme 11).
+Liu et al.77 have been able to synthesize
+new antibiotic analogues for combatting antibacterial resistance by
+rationally intercepting the aldehyde intermediate and performing a
+chemoenzymatic reductive amination using different amines.78 The flavoprotein Dbv29 is the first described
+FMN-containing bicovalent
+oxidase.76 Dbv29 is involved in the maturation
+of the glycopeptide A40926, a vancomycin-like glycopeptide, and an
+important antibiotic obstructing bacterial cell wall synthesis. By
+catalyzing two consecutive oxidation reactions, Dbv29 transforms the N-acyl aminoglucosamine into N-acyl aminoglucuronic
+acid (Scheme 11).
+Liu et al.77 have been able to synthesize
+new antibiotic analogues for combatting antibacterial resistance by
+rationally intercepting the aldehyde intermediate and performing a
+chemoenzymatic reductive amination using different amines.78 The flavoprotein Dbv29 is the first described
+FMN-containing bicovalent
+oxidase.76 Dbv29 is involved in the maturation
+of the glycopeptide A40926, a vancomycin-like glycopeptide, and an
+important antibiotic obstructing bacterial cell wall synthesis. By
+catalyzing two consecutive oxidation reactions, Dbv29 transforms the N-acyl aminoglucosamine into N-acyl aminoglucuronic
+acid (Scheme 11).
+Liu et al.77 have been able to synthesize
+new antibiotic analogues for combatting antibacterial resistance by
+rationally intercepting the aldehyde intermediate and performing a
+chemoenzymatic reductive amination using different amines.78 Scheme 11Four-Electron Oxidation Catalyzed by Dbv29
+in the Maturation of Glycopeptide
+A40926 Scheme 11Four-Electron Oxidation Catalyzed by Dbv29
+in the Maturation of Glycopeptide
+A40926 Scheme 11Four-Electron Oxidation Catalyzed by Dbv29
+in the Maturation of Glycopeptide
+A40926 Four-Electron Oxidation Catalyzed by Dbv29
+in the Maturation of Glycopeptide
+A40926 Four-Electron Oxidation Catalyzed by Dbv29
+in the Maturation of Glycopeptide
+A40926 Four-Electron Oxidation Catalyzed by Dbv29
+in the Maturation of Glycopeptide
+A40926 Another unusual flavoenzyme
+is the aclacinomycin oxidase named
+AknOx. This bacterial-derived oxidase from Streptomyces galilaeus MA144-M1 is also capable of a four-electron oxidation but on two
+different functional groups: a – CH–OH and –
+CH2–CH2 moiety.79 Aclacinomycins (Acl) are aromatic polyketides with antibiotic and
+antitumor activity, hence a compound of interest for disease treatments.80 Connected to Acl is a trisaccharide moiety of
+which the terminal L-rhodinose sugar residue is modified by AknOx
+(Scheme 12). The next
+biosynthetic step involves the elimination of two hydrogen atoms in
+L-cinerulose A to form L-aculose, thereby obtaining AclY. The same
+active site is utilized for the catalysis of two FAD-dependent steps
+in the biosynthesis of AclY. Nevertheless, two separate sets of active
+site residues are used for each reaction, making AknOx a special flavoenzyme. Another unusual flavoenzyme
+is the aclacinomycin oxidase named
+AknOx. This bacterial-derived oxidase from Streptomyces galilaeus MA144-M1 is also capable of a four-electron oxidation but on two
+different functional groups: a – CH–OH and –
+CH2–CH2 moiety.79 Aclacinomycins (Acl) are aromatic polyketides with antibiotic and
+antitumor activity, hence a compound of interest for disease treatments.80 Connected to Acl is a trisaccharide moiety of
+which the terminal L-rhodinose sugar residue is modified by AknOx
+(Scheme 12). The next
+biosynthetic step involves the elimination of two hydrogen atoms in
+L-cinerulose A to form L-aculose, thereby obtaining AclY. The same
+active site is utilized for the catalysis of two FAD-dependent steps
+in the biosynthesis of AclY. Nevertheless, two separate sets of active
+site residues are used for each reaction, making AknOx a special flavoenzyme. Another unusual flavoenzyme
+is the aclacinomycin oxidase named
+AknOx. This bacterial-derived oxidase from Streptomyces galilaeus MA144-M1 is also capable of a four-electron oxidation but on two
+different functional groups: a – CH–OH and –
+CH2–CH2 moiety.79 Aclacinomycins (Acl) are aromatic polyketides with antibiotic and
+antitumor activity, hence a compound of interest for disease treatments.80 Connected to Acl is a trisaccharide moiety of
+which the terminal L-rhodinose sugar residue is modified by AknOx
+(Scheme 12). The next
+biosynthetic step involves the elimination of two hydrogen atoms in
+L-cinerulose A to form L-aculose, thereby obtaining AclY. The same
+active site is utilized for the catalysis of two FAD-dependent steps
+in the biosynthesis of AclY. Nevertheless, two separate sets of active
+site residues are used for each reaction, making AknOx a special flavoenzyme. Scheme 12Oxidation of Two Different Functional Groups (−CH–OH
+and −CH2CH2) Performed by the Flavoenzyme
+AknOx Using Two Separate Sets of Active Site Residues Scheme 12Oxidation of Two Different Functional Groups (−CH–OH
+and −CH2CH2) Performed by the Flavoenzyme
+AknOx Using Two Separate Sets of Active Site Residues Scheme 12Oxidation of Two Different Functional Groups (−CH–OH
+and −CH2CH2) Performed by the Flavoenzyme
+AknOx Using Two Separate Sets of Active Site Residues Oxidation of Two Different Functional Groups (−CH–OH
+and −CH2CH2) Performed by the Flavoenzyme
+AknOx Using Two Separate Sets of Active Site Residues Oxidation of Two Different Functional Groups (−CH–OH
+and −CH2CH2) Performed by the Flavoenzyme
+AknOx Using Two Separate Sets of Active Site Residues Oxidation of Two Different Functional Groups (−CH–OH
+and −CH2CH2) Performed by the Flavoenzyme
+AknOx Using Two Separate Sets of Active Site Residues A similar flavoenzyme named GcnQ (56% seq identity to
+AknOx) has
+been found in the grincamycin gene cluster of Streptomyces
+lusitanus.81 Grincamycin (GCN)
+has a tetragomycin skeleton containing a di- and trisaccharide substituent
+both with a terminal L-rhodinose moiety. Interestingly, in
+vitro this bicovalent FAD-containing GcnQ is able to perform
+the same double oxidation of the terminal sugar L-rhodinose to L-aculose.
+It was shown that the oxidation and subsequent desaturation occur
+in tandem without forming the intermediate L-cinerulose A (Scheme 13), differently
+to what has been observed in aclacinomycin biosynthesis.79 Moreover, GcnQ has divergent roles when it is
+expressed in different hosts. In S. lusitanus SCSIO
+LR32, GcnQ manages to perform solely the single oxidation reaction
+of L-rhodinose to L-cinerulose A. However, when being heterologously
+expressed in S. coelicolor M512 it is able to transform
+the L-rhodinose units to L-aculose. This exemplifies the diverse activities
+that a single berberine bridgelike enzyme can exhibit in natural product
+biosynthesis. A similar flavoenzyme named GcnQ (56% seq identity to
+AknOx) has
+been found in the grincamycin gene cluster of Streptomyces
+lusitanus.81 Grincamycin (GCN)
+has a tetragomycin skeleton containing a di- and trisaccharide substituent
+both with a terminal L-rhodinose moiety. Interestingly, in
+vitro this bicovalent FAD-containing GcnQ is able to perform
+the same double oxidation of the terminal sugar L-rhodinose to L-aculose.
+It was shown that the oxidation and subsequent desaturation occur
+in tandem without forming the intermediate L-cinerulose A (Scheme 13), differently
+to what has been observed in aclacinomycin biosynthesis.79 Moreover, GcnQ has divergent roles when it is
+expressed in different hosts. In S. lusitanus SCSIO
+LR32, GcnQ manages to perform solely the single oxidation reaction
+of L-rhodinose to L-cinerulose A. However, when being heterologously
+expressed in S. coelicolor M512 it is able to transform
+the L-rhodinose units to L-aculose. This exemplifies the diverse activities
+that a single berberine bridgelike enzyme can exhibit in natural product
+biosynthesis. A similar flavoenzyme named GcnQ (56% seq identity to
+AknOx) has
+been found in the grincamycin gene cluster of Streptomyces
+lusitanus.81 Grincamycin (GCN)
+has a tetragomycin skeleton containing a di- and trisaccharide substituent
+both with a terminal L-rhodinose moiety. Interestingly, in
+vitro this bicovalent FAD-containing GcnQ is able to perform
+the same double oxidation of the terminal sugar L-rhodinose to L-aculose.
+It was shown that the oxidation and subsequent desaturation occur
+in tandem without forming the intermediate L-cinerulose A (Scheme 13), differently
+to what has been observed in aclacinomycin biosynthesis.79 Moreover, GcnQ has divergent roles when it is
+expressed in different hosts. In S. lusitanus SCSIO
+LR32, GcnQ manages to perform solely the single oxidation reaction
+of L-rhodinose to L-cinerulose A. However, when being heterologously
+expressed in S. coelicolor M512 it is able to transform
+the L-rhodinose units to L-aculose. This exemplifies the diverse activities
+that a single berberine bridgelike enzyme can exhibit in natural product
+biosynthesis. Scheme 13Oxidation Reactions Catalyzed by GcnQ In Vitro Producing
+Different Grincamycin Derivatives Depending on the Host Organism and
+Reaction Conditions Scheme 13Oxidation Reactions Catalyzed by GcnQ In Vitro Producing
+Different Grincamycin Derivatives Depending on the Host Organism and
+Reaction Conditions Scheme 13Oxidation Reactions Catalyzed by GcnQ In Vitro Producing
+Different Grincamycin Derivatives Depending on the Host Organism and
+Reaction Conditions Oxidation Reactions Catalyzed by GcnQ In Vitro Producing
+Different Grincamycin Derivatives Depending on the Host Organism and
+Reaction Conditions Oxidation Reactions Catalyzed by GcnQ In Vitro Producing
+Different Grincamycin Derivatives Depending on the Host Organism and
+Reaction Conditions Oxidation Reactions Catalyzed by GcnQ In Vitro Producing
+Different Grincamycin Derivatives Depending on the Host Organism and
+Reaction Conditions TamL is a flavoprotein
+derived from Streptomyces sp. 307–9 and involved
+in the biosynthesis of the antibiotic
+tirandamycin.82 This flavin-dependent oxidase
+displays intriguing enzymatic interplay with a cytochrome P450 monooxygenase
+(CYP) named TamI in effectively tailoring tirandamycin.83 The oxidative reaction occurs in a defined order,
+where TamI first performs hydroxylation of substrate TirC to TirE
+(Scheme 14). Thereafter,
+TamL must oxidize this C10 hydroxyl group to the corresponding ketone
+TirD. TirD is then again used a substrate for TamI converting it to
+TirA via epoxidation and subsequently to TirB by a final hydroxylation
+reaction. This iterative substrate exchange between TamL and TamI
+establishes a distinctive tailoring route wherein a CYP performs multiple
+oxidations in tandem with another biosynthetic enzyme. Together, these
+oxidative alterations within the tirandamycin pathway play a substantial
+role in enhancing its antibiotic potency toward inhibiting bacterial
+ribonucleic acid polymerase by increasing reactivity.84,85 TamL is a flavoprotein
+derived from Streptomyces sp. 307–9 and involved
+in the biosynthesis of the antibiotic
+tirandamycin.82 This flavin-dependent oxidase
+displays intriguing enzymatic interplay with a cytochrome P450 monooxygenase
+(CYP) named TamI in effectively tailoring tirandamycin.83 The oxidative reaction occurs in a defined order,
+where TamI first performs hydroxylation of substrate TirC to TirE
+(Scheme 14). Thereafter,
+TamL must oxidize this C10 hydroxyl group to the corresponding ketone
+TirD. TirD is then again used a substrate for TamI converting it to
+TirA via epoxidation and subsequently to TirB by a final hydroxylation
+reaction. This iterative substrate exchange between TamL and TamI
+establishes a distinctive tailoring route wherein a CYP performs multiple
+oxidations in tandem with another biosynthetic enzyme. Together, these
+oxidative alterations within the tirandamycin pathway play a substantial
+role in enhancing its antibiotic potency toward inhibiting bacterial
+ribonucleic acid polymerase by increasing reactivity.84,85 TamL is a flavoprotein
+derived from Streptomyces sp. 307–9 and involved
+in the biosynthesis of the antibiotic
+tirandamycin.82 This flavin-dependent oxidase
+displays intriguing enzymatic interplay with a cytochrome P450 monooxygenase
+(CYP) named TamI in effectively tailoring tirandamycin.83 The oxidative reaction occurs in a defined order,
+where TamI first performs hydroxylation of substrate TirC to TirE
+(Scheme 14). Thereafter,
+TamL must oxidize this C10 hydroxyl group to the corresponding ketone
+TirD. TirD is then again used a substrate for TamI converting it to
+TirA via epoxidation and subsequently to TirB by a final hydroxylation
+reaction. This iterative substrate exchange between TamL and TamI
+establishes a distinctive tailoring route wherein a CYP performs multiple
+oxidations in tandem with another biosynthetic enzyme. Together, these
+oxidative alterations within the tirandamycin pathway play a substantial
+role in enhancing its antibiotic potency toward inhibiting bacterial
+ribonucleic acid polymerase by increasing reactivity.84,85 Scheme 14Biosynthetic Pathway for the Natural Product Tirandamycin Where
+the
+CYP TamI Initiates the Cascade via Hydroxylation of TirC to TirEThe flavin-dependent oxidase
+TamL converts TirE to the corresponding ketone TirD, which is again
+a substrate for TamI. Scheme 14Biosynthetic Pathway for the Natural Product Tirandamycin Where
+the
+CYP TamI Initiates the Cascade via Hydroxylation of TirC to TirEThe flavin-dependent oxidase
+TamL converts TirE to the corresponding ketone TirD, which is again
+a substrate for TamI. Scheme 14Biosynthetic Pathway for the Natural Product Tirandamycin Where
+the
+CYP TamI Initiates the Cascade via Hydroxylation of TirC to TirEThe flavin-dependent oxidase
+TamL converts TirE to the corresponding ketone TirD, which is again
+a substrate for TamI. Biosynthetic Pathway for the Natural Product Tirandamycin Where
+the
+CYP TamI Initiates the Cascade via Hydroxylation of TirC to TirE Biosynthetic Pathway for the Natural Product Tirandamycin Where
+the
+CYP TamI Initiates the Cascade via Hydroxylation of TirC to TirE Biosynthetic Pathway for the Natural Product Tirandamycin Where
+the
+CYP TamI Initiates the Cascade via Hydroxylation of TirC to TirE The flavin-dependent oxidase
+TamL converts TirE to the corresponding ketone TirD, which is again
+a substrate for TamI. The flavin-dependent oxidase
+TamL converts TirE to the corresponding ketone TirD, which is again
+a substrate for TamI. The flavin-dependent oxidase
+TamL converts TirE to the corresponding ketone TirD, which is again
+a substrate for TamI. Another bacterial-derived
+BBE-like oxidase is GilR from Streptomyces griseoflavus Gö3592.86 This unusual lactone-forming
+oxidoreductase catalyzes the
+final step in the biosynthetic pathway toward the polyketide-derived
+gilvocarcin V. Gilvocarcin-type compounds show distinct anticancer
+activity through a light-mediated [2 + 2]-cycloaddition adduct with
+the side chain of DNA.87,88 GilR is responsible for oxidizing
+the hemiacetal to the lactone, thereby forming gilvocarcin V (Scheme 15). This lactone
+moiety is of crucial importance for the antibiotic’s stability
+and potency.89 Another bacterial-derived
+BBE-like oxidase is GilR from Streptomyces griseoflavus Gö3592.86 This unusual lactone-forming
+oxidoreductase catalyzes the
+final step in the biosynthetic pathway toward the polyketide-derived
+gilvocarcin V. Gilvocarcin-type compounds show distinct anticancer
+activity through a light-mediated [2 + 2]-cycloaddition adduct with
+the side chain of DNA.87,88 GilR is responsible for oxidizing
+the hemiacetal to the lactone, thereby forming gilvocarcin V (Scheme 15). This lactone
+moiety is of crucial importance for the antibiotic’s stability
+and potency.89 Another bacterial-derived
+BBE-like oxidase is GilR from Streptomyces griseoflavus Gö3592.86 This unusual lactone-forming
+oxidoreductase catalyzes the
+final step in the biosynthetic pathway toward the polyketide-derived
+gilvocarcin V. Gilvocarcin-type compounds show distinct anticancer
+activity through a light-mediated [2 + 2]-cycloaddition adduct with
+the side chain of DNA.87,88 GilR is responsible for oxidizing
+the hemiacetal to the lactone, thereby forming gilvocarcin V (Scheme 15). This lactone
+moiety is of crucial importance for the antibiotic’s stability
+and potency.89 Scheme 15GilR Catalyzing
+the Oxidation of a Hemiacetal to the Lactone Gilvocarcin
+V Scheme 15GilR Catalyzing
+the Oxidation of a Hemiacetal to the Lactone Gilvocarcin
+V Scheme 15GilR Catalyzing
+the Oxidation of a Hemiacetal to the Lactone Gilvocarcin
+V GilR Catalyzing
+the Oxidation of a Hemiacetal to the Lactone Gilvocarcin
+V GilR Catalyzing
+the Oxidation of a Hemiacetal to the Lactone Gilvocarcin
+V GilR Catalyzing
+the Oxidation of a Hemiacetal to the Lactone Gilvocarcin
+V ortho-Quinone
+Methide Intermediate ortho-Quinone
+Methide Intermediate ortho-Quinone
+Methide Intermediate A classical mechanism observed for a
+wide variety of BBE-like oxidases
+is the deprotonation of a phenolic moiety with subsequent or concomitant
+hydride transfer at a distant carbon atom. The aromaticity of phenolic
+hydroxyl groups enables the delocalization of electrons and the transfer
+of a hydride from a distant carbon atom to the N5-atom of FAD. This
+deprotonation-assisted distant hydride transfer reaction can go via
+an ο-QM intermediate and multiple BBE-like oxidases have been
+hypothesized to employ this oxidation mechanism.46 A classical mechanism observed for a
+wide variety of BBE-like oxidases
+is the deprotonation of a phenolic moiety with subsequent or concomitant
+hydride transfer at a distant carbon atom. The aromaticity of phenolic
+hydroxyl groups enables the delocalization of electrons and the transfer
+of a hydride from a distant carbon atom to the N5-atom of FAD. This
+deprotonation-assisted distant hydride transfer reaction can go via
+an ο-QM intermediate and multiple BBE-like oxidases have been
+hypothesized to employ this oxidation mechanism.46 A classical mechanism observed for a
+wide variety of BBE-like oxidases
+is the deprotonation of a phenolic moiety with subsequent or concomitant
+hydride transfer at a distant carbon atom. The aromaticity of phenolic
+hydroxyl groups enables the delocalization of electrons and the transfer
+of a hydride from a distant carbon atom to the N5-atom of FAD. This
+deprotonation-assisted distant hydride transfer reaction can go via
+an ο-QM intermediate and multiple BBE-like oxidases have been
+hypothesized to employ this oxidation mechanism.46 The first example encompasses three BBE-like oxidases
+that are involved in the biosynthesis of the primary cannabinoids
+found in Cannabis sativa,90−92 namely tetrahydrocannabinolic
+acid synthase (THCAs), cannabidiolic acid synthase (CBDAs) and cannabichromenic
+acid synthase (CBCAs).45,93 These three BBE-like oxidases
+act on the same precursor, cannabigerolic acid (CBGA), and share an
+oxidative carbon–carbon bond formation. Purdy et al.46 proposed that the reaction is initiated by deprotonation
+of the C4 phenolic hydroxy group by a crucial tyrosine acting as a
+catalytic base (Scheme 16). This allows for subsequent or simultaneous transfer of
+the hydride to the oxidized FAD cofactor, generating the ο-QM
+intermediate. The following intramolecular cyclization can go through
+different mechanisms and regioselectivities, generating the three
+different cannabinoids THCA, CBDA and CBCA. The first example encompasses three BBE-like oxidases
+that are involved in the biosynthesis of the primary cannabinoids
+found in Cannabis sativa,90−92 namely tetrahydrocannabinolic
+acid synthase (THCAs), cannabidiolic acid synthase (CBDAs) and cannabichromenic
+acid synthase (CBCAs).45,93 These three BBE-like oxidases
+act on the same precursor, cannabigerolic acid (CBGA), and share an
+oxidative carbon–carbon bond formation. Purdy et al.46 proposed that the reaction is initiated by deprotonation
+of the C4 phenolic hydroxy group by a crucial tyrosine acting as a
+catalytic base (Scheme 16). This allows for subsequent or simultaneous transfer of
+the hydride to the oxidized FAD cofactor, generating the ο-QM
+intermediate. The following intramolecular cyclization can go through
+different mechanisms and regioselectivities, generating the three
+different cannabinoids THCA, CBDA and CBCA. The first example encompasses three BBE-like oxidases
+that are involved in the biosynthesis of the primary cannabinoids
+found in Cannabis sativa,90−92 namely tetrahydrocannabinolic
+acid synthase (THCAs), cannabidiolic acid synthase (CBDAs) and cannabichromenic
+acid synthase (CBCAs).45,93 These three BBE-like oxidases
+act on the same precursor, cannabigerolic acid (CBGA), and share an
+oxidative carbon–carbon bond formation. Purdy et al.46 proposed that the reaction is initiated by deprotonation
+of the C4 phenolic hydroxy group by a crucial tyrosine acting as a
+catalytic base (Scheme 16). This allows for subsequent or simultaneous transfer of
+the hydride to the oxidized FAD cofactor, generating the ο-QM
+intermediate. The following intramolecular cyclization can go through
+different mechanisms and regioselectivities, generating the three
+different cannabinoids THCA, CBDA and CBCA. Scheme 16Deprotonation-Assisted
+Distant Hydride Transfer of Cannabigerolic
+Acid (CBGA) to Form an ο-QM IntermediateThree BBE-like oxidases use
+this intermediate to generate three different cannabinoids (THCA,
+CBDA, and CBCA) via specific intramolecular cyclization reactions. Scheme 16Deprotonation-Assisted
+Distant Hydride Transfer of Cannabigerolic
+Acid (CBGA) to Form an ο-QM IntermediateThree BBE-like oxidases use
+this intermediate to generate three different cannabinoids (THCA,
+CBDA, and CBCA) via specific intramolecular cyclization reactions. Scheme 16Deprotonation-Assisted
+Distant Hydride Transfer of Cannabigerolic
+Acid (CBGA) to Form an ο-QM IntermediateThree BBE-like oxidases use
+this intermediate to generate three different cannabinoids (THCA,
+CBDA, and CBCA) via specific intramolecular cyclization reactions. Deprotonation-Assisted
+Distant Hydride Transfer of Cannabigerolic
+Acid (CBGA) to Form an ο-QM Intermediate Deprotonation-Assisted
+Distant Hydride Transfer of Cannabigerolic
+Acid (CBGA) to Form an ο-QM Intermediate Deprotonation-Assisted
+Distant Hydride Transfer of Cannabigerolic
+Acid (CBGA) to Form an ο-QM Intermediate Three BBE-like oxidases use
+this intermediate to generate three different cannabinoids (THCA,
+CBDA, and CBCA) via specific intramolecular cyclization reactions. Three BBE-like oxidases use
+this intermediate to generate three different cannabinoids (THCA,
+CBDA, and CBCA) via specific intramolecular cyclization reactions. Three BBE-like oxidases use
+this intermediate to generate three different cannabinoids (THCA,
+CBDA, and CBCA) via specific intramolecular cyclization reactions. Another BBE-like oxidase that is involved in
+oxidative cyclization
+via an ο-QM intermediate is Clz9 found in the BGC of Streptomyces sp. CNH-287 producing chlorizidine A.94 This natural compound contains a pyrrolo-isoindolone
+ring, which is a new and unique structure in the field of natural
+products.95 Deprotonation of the phenolic
+hydroxyl moiety promotes hydride transfer from the benzylic C13 to
+FAD, forming an ο-QM intermediate. The enone is then attacked
+by the pyrrole’s nitrogen creating chlorizidine A (Scheme 17a). A similar enzyme
+has been identified from Actinomycete strain AJS-327
+where a homologous (53% seq. id.) FAD-dependent oxidoreductase was
+found and named Tcz9.38 The oxidation reaction
+is again proposed to include an ο-QM intermediate but instead
+of a nucleophilic attack of pyrrole’s nitrogen, it forms a
+dichloropyrrole-containing compound featuring an α,β-unsaturated
+ketone (Scheme 17b). Another BBE-like oxidase that is involved in
+oxidative cyclization
+via an ο-QM intermediate is Clz9 found in the BGC of Streptomyces sp. CNH-287 producing chlorizidine A.94 This natural compound contains a pyrrolo-isoindolone
+ring, which is a new and unique structure in the field of natural
+products.95 Deprotonation of the phenolic
+hydroxyl moiety promotes hydride transfer from the benzylic C13 to
+FAD, forming an ο-QM intermediate. The enone is then attacked
+by the pyrrole’s nitrogen creating chlorizidine A (Scheme 17a). A similar enzyme
+has been identified from Actinomycete strain AJS-327
+where a homologous (53% seq. id.) FAD-dependent oxidoreductase was
+found and named Tcz9.38 The oxidation reaction
+is again proposed to include an ο-QM intermediate but instead
+of a nucleophilic attack of pyrrole’s nitrogen, it forms a
+dichloropyrrole-containing compound featuring an α,β-unsaturated
+ketone (Scheme 17b). Another BBE-like oxidase that is involved in
+oxidative cyclization
+via an ο-QM intermediate is Clz9 found in the BGC of Streptomyces sp. CNH-287 producing chlorizidine A.94 This natural compound contains a pyrrolo-isoindolone
+ring, which is a new and unique structure in the field of natural
+products.95 Deprotonation of the phenolic
+hydroxyl moiety promotes hydride transfer from the benzylic C13 to
+FAD, forming an ο-QM intermediate. The enone is then attacked
+by the pyrrole’s nitrogen creating chlorizidine A (Scheme 17a). A similar enzyme
+has been identified from Actinomycete strain AJS-327
+where a homologous (53% seq. id.) FAD-dependent oxidoreductase was
+found and named Tcz9.38 The oxidation reaction
+is again proposed to include an ο-QM intermediate but instead
+of a nucleophilic attack of pyrrole’s nitrogen, it forms a
+dichloropyrrole-containing compound featuring an α,β-unsaturated
+ketone (Scheme 17b). Scheme 17(a) The Oxidase Clz9 Catalyzes the Oxidation-Mediated Intramolecular
+Cyclization via an ο-QM Intermediate Forming Chlorizidine A
+and (b) the Oxidase Tcz9 Catalyzes the Benzylic Dehydrogenation via
+an ο-QM Intermediate Forming Tetrachlorizine Scheme 17(a) The Oxidase Clz9 Catalyzes the Oxidation-Mediated Intramolecular
+Cyclization via an ο-QM Intermediate Forming Chlorizidine A
+and (b) the Oxidase Tcz9 Catalyzes the Benzylic Dehydrogenation via
+an ο-QM Intermediate Forming Tetrachlorizine Scheme 17(a) The Oxidase Clz9 Catalyzes the Oxidation-Mediated Intramolecular
+Cyclization via an ο-QM Intermediate Forming Chlorizidine A
+and (b) the Oxidase Tcz9 Catalyzes the Benzylic Dehydrogenation via
+an ο-QM Intermediate Forming Tetrachlorizine (a) The Oxidase Clz9 Catalyzes the Oxidation-Mediated Intramolecular
+Cyclization via an ο-QM Intermediate Forming Chlorizidine A
+and (b) the Oxidase Tcz9 Catalyzes the Benzylic Dehydrogenation via
+an ο-QM Intermediate Forming Tetrachlorizine (a) The Oxidase Clz9 Catalyzes the Oxidation-Mediated Intramolecular
+Cyclization via an ο-QM Intermediate Forming Chlorizidine A
+and (b) the Oxidase Tcz9 Catalyzes the Benzylic Dehydrogenation via
+an ο-QM Intermediate Forming Tetrachlorizine (a) The Oxidase Clz9 Catalyzes the Oxidation-Mediated Intramolecular
+Cyclization via an ο-QM Intermediate Forming Chlorizidine A
+and (b) the Oxidase Tcz9 Catalyzes the Benzylic Dehydrogenation via
+an ο-QM Intermediate Forming Tetrachlorizine ο-QM intermediate can also be found in the secondary
+metabolic
+pathway of mulberry plants (Morus alba).33 Once a plant gets infected by a fungus, it produces
+chalcomoracin as a mean to protect the leaves via fungal germination
+suppression.96 This flavonoid is formed
+through an enzymatic Diels–Alder reaction between a diene (the
+isoprenyl portion of an isoprenylphenol) and a dienophile (double
+bond of morachalcone A). Interestingly, there are two BBE-like enzymes
+involved in this specific biosynthetic pathway and they show high
+(50%) sequence identities with THCAs, CBDAs and CBCAs.45 First, the BBE-like moracin C oxidase (MaMO)
+oxidizes the isoprenyl moiety of moracin C into the diene (Scheme 18a). The authors
+suggest a similar ο-QM intermediate in which deprotonation of
+the aromatic hydroxy group of moracin C leads to hydride transfer
+and subsequent diene formation via tautomerization. Next, the second
+BBE-like enzyme named Diels–Alderase (MaDA) enables [4 + 2]
+cyclization of the formed diene with the dienophile morachalcone A,
+representing the first known stand-alone intermolecular Diels–Alderase
+(Scheme 18b). MaDA
+will be discussed in more detail in the later section “Other Mechanisms”. ο-QM intermediate can also be found in the secondary
+metabolic
+pathway of mulberry plants (Morus alba).33 Once a plant gets infected by a fungus, it produces
+chalcomoracin as a mean to protect the leaves via fungal germination
+suppression.96 This flavonoid is formed
+through an enzymatic Diels–Alder reaction between a diene (the
+isoprenyl portion of an isoprenylphenol) and a dienophile (double
+bond of morachalcone A). Interestingly, there are two BBE-like enzymes
+involved in this specific biosynthetic pathway and they show high
+(50%) sequence identities with THCAs, CBDAs and CBCAs.45 First, the BBE-like moracin C oxidase (MaMO)
+oxidizes the isoprenyl moiety of moracin C into the diene (Scheme 18a). The authors
+suggest a similar ο-QM intermediate in which deprotonation of
+the aromatic hydroxy group of moracin C leads to hydride transfer
+and subsequent diene formation via tautomerization. Next, the second
+BBE-like enzyme named Diels–Alderase (MaDA) enables [4 + 2]
+cyclization of the formed diene with the dienophile morachalcone A,
+representing the first known stand-alone intermolecular Diels–Alderase
+(Scheme 18b). MaDA
+will be discussed in more detail in the later section “Other Mechanisms”. ο-QM intermediate can also be found in the secondary
+metabolic
+pathway of mulberry plants (Morus alba).33 Once a plant gets infected by a fungus, it produces
+chalcomoracin as a mean to protect the leaves via fungal germination
+suppression.96 This flavonoid is formed
+through an enzymatic Diels–Alder reaction between a diene (the
+isoprenyl portion of an isoprenylphenol) and a dienophile (double
+bond of morachalcone A). Interestingly, there are two BBE-like enzymes
+involved in this specific biosynthetic pathway and they show high
+(50%) sequence identities with THCAs, CBDAs and CBCAs.45 First, the BBE-like moracin C oxidase (MaMO)
+oxidizes the isoprenyl moiety of moracin C into the diene (Scheme 18a). The authors
+suggest a similar ο-QM intermediate in which deprotonation of
+the aromatic hydroxy group of moracin C leads to hydride transfer
+and subsequent diene formation via tautomerization. Next, the second
+BBE-like enzyme named Diels–Alderase (MaDA) enables [4 + 2]
+cyclization of the formed diene with the dienophile morachalcone A,
+representing the first known stand-alone intermolecular Diels–Alderase
+(Scheme 18b). MaDA
+will be discussed in more detail in the later section “Other Mechanisms”. Scheme 18(a) The BBE-like
+Oxidase MaMO Catalyzes the Oxidation of the Isoprenyl
+Moiety of Moracin C via an ο-QM Intermediate and (b) the Second
+BBE-like Oxidase MaDA Catalyzes the [4 + 2] Cyclization of the Formed
+Diene with Morachalcone A to Generate the Natural Product chalcomoracin Scheme 18(a) The BBE-like
+Oxidase MaMO Catalyzes the Oxidation of the Isoprenyl
+Moiety of Moracin C via an ο-QM Intermediate and (b) the Second
+BBE-like Oxidase MaDA Catalyzes the [4 + 2] Cyclization of the Formed
+Diene with Morachalcone A to Generate the Natural Product chalcomoracin Scheme 18(a) The BBE-like
+Oxidase MaMO Catalyzes the Oxidation of the Isoprenyl
+Moiety of Moracin C via an ο-QM Intermediate and (b) the Second
+BBE-like Oxidase MaDA Catalyzes the [4 + 2] Cyclization of the Formed
+Diene with Morachalcone A to Generate the Natural Product chalcomoracin (a) The BBE-like
+Oxidase MaMO Catalyzes the Oxidation of the Isoprenyl
+Moiety of Moracin C via an ο-QM Intermediate and (b) the Second
+BBE-like Oxidase MaDA Catalyzes the [4 + 2] Cyclization of the Formed
+Diene with Morachalcone A to Generate the Natural Product chalcomoracin (a) The BBE-like
+Oxidase MaMO Catalyzes the Oxidation of the Isoprenyl
+Moiety of Moracin C via an ο-QM Intermediate and (b) the Second
+BBE-like Oxidase MaDA Catalyzes the [4 + 2] Cyclization of the Formed
+Diene with Morachalcone A to Generate the Natural Product chalcomoracin (a) The BBE-like
+Oxidase MaMO Catalyzes the Oxidation of the Isoprenyl
+Moiety of Moracin C via an ο-QM Intermediate and (b) the Second
+BBE-like Oxidase MaDA Catalyzes the [4 + 2] Cyclization of the Formed
+Diene with Morachalcone A to Generate the Natural Product chalcomoracin Two closely related BBE-like oxidases, PenH
+and AsqF, perform an
+atypical oxidation-mediated extension of the prenyl side chain in
+the biosynthesis of the penigequinolone and aspoquinolone alkaloids
+of Penicillium thymicola and A. nidulans.97−99 A base-catalyzed reaction was proposed in which the C4 proton is
+removed and the C1 hydride is transferred to the N5 atom of the FAD
+cofactor.40 However, based on recent research
+of ο-QM intermediates, it might be more plausible that proton
+abstraction of the C6 phenolic alcohol promotes hydride transfer (Scheme 19). Both mechanisms
+produce an electron-rich diene intermediate able to undergo alkylation
+by dimethylallyl diphosphate as catalyzed by the prenyltransferase
+PenG or AsqP. Thereafter, the chain-extended product undergoes branching
+leading to penigequinolone or aspoquinolone. Two closely related BBE-like oxidases, PenH
+and AsqF, perform an
+atypical oxidation-mediated extension of the prenyl side chain in
+the biosynthesis of the penigequinolone and aspoquinolone alkaloids
+of Penicillium thymicola and A. nidulans.97−99 A base-catalyzed reaction was proposed in which the C4 proton is
+removed and the C1 hydride is transferred to the N5 atom of the FAD
+cofactor.40 However, based on recent research
+of ο-QM intermediates, it might be more plausible that proton
+abstraction of the C6 phenolic alcohol promotes hydride transfer (Scheme 19). Both mechanisms
+produce an electron-rich diene intermediate able to undergo alkylation
+by dimethylallyl diphosphate as catalyzed by the prenyltransferase
+PenG or AsqP. Thereafter, the chain-extended product undergoes branching
+leading to penigequinolone or aspoquinolone. Two closely related BBE-like oxidases, PenH
+and AsqF, perform an
+atypical oxidation-mediated extension of the prenyl side chain in
+the biosynthesis of the penigequinolone and aspoquinolone alkaloids
+of Penicillium thymicola and A. nidulans.97−99 A base-catalyzed reaction was proposed in which the C4 proton is
+removed and the C1 hydride is transferred to the N5 atom of the FAD
+cofactor.40 However, based on recent research
+of ο-QM intermediates, it might be more plausible that proton
+abstraction of the C6 phenolic alcohol promotes hydride transfer (Scheme 19). Both mechanisms
+produce an electron-rich diene intermediate able to undergo alkylation
+by dimethylallyl diphosphate as catalyzed by the prenyltransferase
+PenG or AsqP. Thereafter, the chain-extended product undergoes branching
+leading to penigequinolone or aspoquinolone. Scheme 19Oxidation of the
+Isoprenyl Side Chain Proposed to Go via an ο-QM
+Intermediate Catalyzed by PenH in the Biosynthesis of Penigequinolone
+or AsqF in the Biosynthesis of Aspoquinolone Scheme 19Oxidation of the
+Isoprenyl Side Chain Proposed to Go via an ο-QM
+Intermediate Catalyzed by PenH in the Biosynthesis of Penigequinolone
+or AsqF in the Biosynthesis of Aspoquinolone Scheme 19Oxidation of the
+Isoprenyl Side Chain Proposed to Go via an ο-QM
+Intermediate Catalyzed by PenH in the Biosynthesis of Penigequinolone
+or AsqF in the Biosynthesis of Aspoquinolone Oxidation of the
+Isoprenyl Side Chain Proposed to Go via an ο-QM
+Intermediate Catalyzed by PenH in the Biosynthesis of Penigequinolone
+or AsqF in the Biosynthesis of Aspoquinolone Oxidation of the
+Isoprenyl Side Chain Proposed to Go via an ο-QM
+Intermediate Catalyzed by PenH in the Biosynthesis of Penigequinolone
+or AsqF in the Biosynthesis of Aspoquinolone Oxidation of the
+Isoprenyl Side Chain Proposed to Go via an ο-QM
+Intermediate Catalyzed by PenH in the Biosynthesis of Penigequinolone
+or AsqF in the Biosynthesis of Aspoquinolone Three BBE-like oxidases are involved in production of the cytotoxic
+paraherquamide A, (−)-notoamideA and (+)-notoamide A.100,101 So far, research has not elucidated the exact roles of the corresponding
+flavoenzymes PhqH in Penicillium fellutanum, NotD
+in Aspergillus sp. MF297–2 and NotD’
+in Aspergillus versicolor NRRL35600. However, they
+are thought to be responsible for the oxidative pyran ring formation
+reaction (Scheme 20). It is plausible that the oxidation of the prenyl side chain goes
+via an ο-QM intermediate leading to a [4 + 2] cycloaddition
+reaction forming the corresponding pyran moiety. Below, the reaction
+is displayed for NotD from Aspergillus sp. MF297–2.102 Three BBE-like oxidases are involved in production of the cytotoxic
+paraherquamide A, (−)-notoamideA and (+)-notoamide A.100,101 So far, research has not elucidated the exact roles of the corresponding
+flavoenzymes PhqH in Penicillium fellutanum, NotD
+in Aspergillus sp. MF297–2 and NotD’
+in Aspergillus versicolor NRRL35600. However, they
+are thought to be responsible for the oxidative pyran ring formation
+reaction (Scheme 20). It is plausible that the oxidation of the prenyl side chain goes
+via an ο-QM intermediate leading to a [4 + 2] cycloaddition
+reaction forming the corresponding pyran moiety. Below, the reaction
+is displayed for NotD from Aspergillus sp. MF297–2.102 Three BBE-like oxidases are involved in production of the cytotoxic
+paraherquamide A, (−)-notoamideA and (+)-notoamide A.100,101 So far, research has not elucidated the exact roles of the corresponding
+flavoenzymes PhqH in Penicillium fellutanum, NotD
+in Aspergillus sp. MF297–2 and NotD’
+in Aspergillus versicolor NRRL35600. However, they
+are thought to be responsible for the oxidative pyran ring formation
+reaction (Scheme 20). It is plausible that the oxidation of the prenyl side chain goes
+via an ο-QM intermediate leading to a [4 + 2] cycloaddition
+reaction forming the corresponding pyran moiety. Below, the reaction
+is displayed for NotD from Aspergillus sp. MF297–2.102 Scheme 20Oxidative Pyran Ring Formation Thought
+to Be Catalyzed via an ο-QM
+IntermediateThe reaction displayed is
+the conversion of (+)-notoamide T to (+)-stephacidin A by the BBE-like
+oxidase notD. Scheme 20Oxidative Pyran Ring Formation Thought
+to Be Catalyzed via an ο-QM
+IntermediateThe reaction displayed is
+the conversion of (+)-notoamide T to (+)-stephacidin A by the BBE-like
+oxidase notD. Scheme 20Oxidative Pyran Ring Formation Thought
+to Be Catalyzed via an ο-QM
+IntermediateThe reaction displayed is
+the conversion of (+)-notoamide T to (+)-stephacidin A by the BBE-like
+oxidase notD. Oxidative Pyran Ring Formation Thought
+to Be Catalyzed via an ο-QM
+Intermediate Oxidative Pyran Ring Formation Thought
+to Be Catalyzed via an ο-QM
+Intermediate Oxidative Pyran Ring Formation Thought
+to Be Catalyzed via an ο-QM
+Intermediate The reaction displayed is
+the conversion of (+)-notoamide T to (+)-stephacidin A by the BBE-like
+oxidase notD. The reaction displayed is
+the conversion of (+)-notoamide T to (+)-stephacidin A by the BBE-like
+oxidase notD. The reaction displayed is
+the conversion of (+)-notoamide T to (+)-stephacidin A by the BBE-like
+oxidase notD. Another peculiar BBE-like oxidase
+is ElcE involved in the biosynthesis
+of the aromatic polyketide perylenequinone elsinochrome A found in Parastagonospora nodorum. ElcE was found to be responsible
+for the coupling of two nahpthol derivatives, requiring a laccase-like
+multicopper oxidase ElcG.103 The same was
+observed in Cercospora nicotianae, where the ElcG
+homologue, CTB12, was deleted thereby completely abolishing cercosporin
+production.104 By heterologous biosynthesis,
+it was demonstrated that both ElcE and ElcG are needed for the double
+coupling step, yielding the pentacyclic perylenequinone (Scheme 21). As laccases
+are known for catalyzing radical coupling reactions,3 it was suggested that ElcG catalyzes the first coupling
+via a phenol radical coupling mechanism. Thereafter, ElcE would catalyze
+the second carbon–carbon bond formation initiated by phenolic
+hydroxyl deprotonation and a concomitant or subsequent distant hydride
+transfer. Scheme 21 shows the suggested pathway proposed by Hu et al.103 However, the exact mechanism has yet to be elucidated. Another peculiar BBE-like oxidase
+is ElcE involved in the biosynthesis
+of the aromatic polyketide perylenequinone elsinochrome A found in Parastagonospora nodorum. ElcE was found to be responsible
+for the coupling of two nahpthol derivatives, requiring a laccase-like
+multicopper oxidase ElcG.103 The same was
+observed in Cercospora nicotianae, where the ElcG
+homologue, CTB12, was deleted thereby completely abolishing cercosporin
+production.104 By heterologous biosynthesis,
+it was demonstrated that both ElcE and ElcG are needed for the double
+coupling step, yielding the pentacyclic perylenequinone (Scheme 21). As laccases
+are known for catalyzing radical coupling reactions,3 it was suggested that ElcG catalyzes the first coupling
+via a phenol radical coupling mechanism. Thereafter, ElcE would catalyze
+the second carbon–carbon bond formation initiated by phenolic
+hydroxyl deprotonation and a concomitant or subsequent distant hydride
+transfer. Scheme 21 shows the suggested pathway proposed by Hu et al.103 However, the exact mechanism has yet to be elucidated. Another peculiar BBE-like oxidase
+is ElcE involved in the biosynthesis
+of the aromatic polyketide perylenequinone elsinochrome A found in Parastagonospora nodorum. ElcE was found to be responsible
+for the coupling of two nahpthol derivatives, requiring a laccase-like
+multicopper oxidase ElcG.103 The same was
+observed in Cercospora nicotianae, where the ElcG
+homologue, CTB12, was deleted thereby completely abolishing cercosporin
+production.104 By heterologous biosynthesis,
+it was demonstrated that both ElcE and ElcG are needed for the double
+coupling step, yielding the pentacyclic perylenequinone (Scheme 21). As laccases
+are known for catalyzing radical coupling reactions,3 it was suggested that ElcG catalyzes the first coupling
+via a phenol radical coupling mechanism. Thereafter, ElcE would catalyze
+the second carbon–carbon bond formation initiated by phenolic
+hydroxyl deprotonation and a concomitant or subsequent distant hydride
+transfer. Scheme 21 shows the suggested pathway proposed by Hu et al.103 However, the exact mechanism has yet to be elucidated. Scheme 21Double Coupling of Two Napthol Derivatives Thought to Be Catalyzed
+by the Laccase-like Multicopper Oxidase ElcG and Flavin-Dependent
+Oxidase ElcE Scheme 21Double Coupling of Two Napthol Derivatives Thought to Be Catalyzed
+by the Laccase-like Multicopper Oxidase ElcG and Flavin-Dependent
+Oxidase ElcE Scheme 21Double Coupling of Two Napthol Derivatives Thought to Be Catalyzed
+by the Laccase-like Multicopper Oxidase ElcG and Flavin-Dependent
+Oxidase ElcE Double Coupling of Two Napthol Derivatives Thought to Be Catalyzed
+by the Laccase-like Multicopper Oxidase ElcG and Flavin-Dependent
+Oxidase ElcE Double Coupling of Two Napthol Derivatives Thought to Be Catalyzed
+by the Laccase-like Multicopper Oxidase ElcG and Flavin-Dependent
+Oxidase ElcE Double Coupling of Two Napthol Derivatives Thought to Be Catalyzed
+by the Laccase-like Multicopper Oxidase ElcG and Flavin-Dependent
+Oxidase ElcE Amine and Amide Oxidation Amine and Amide Oxidation Amine and Amide Oxidation Many BBE-like enzymes are
+effective amine oxidases that generate transient imines or iminium
+cations that can undergo derivatization. The name-bearer of the BBE-like
+subfamily catalyzes this type of oxidation reaction (Scheme 2).23 A concerted mechanism was proposed where deprotonation of the C3-phenol,
+hydride transfer from the N-methyl group to the FAD
+and ring closure occur in a single step.27 However, a later-performed study on the solvent and substrate deuterium
+kinetic isotope effect suggested that an earlier proposed stepwise
+mechanism would be more likely.29,105 In the stepwise mechanism,
+a hydride is transferred from the N-methyl group
+forming a methylene iminium ion intermediate (Scheme 22). Thereafter, the active-site base Glu417
+deprotonates C3-phenol, making the C2 carbon more nucleophilic and
+able to attack the N-methylene moiety, forming the
+berberine bridge. Many BBE-like enzymes are
+effective amine oxidases that generate transient imines or iminium
+cations that can undergo derivatization. The name-bearer of the BBE-like
+subfamily catalyzes this type of oxidation reaction (Scheme 2).23 A concerted mechanism was proposed where deprotonation of the C3-phenol,
+hydride transfer from the N-methyl group to the FAD
+and ring closure occur in a single step.27 However, a later-performed study on the solvent and substrate deuterium
+kinetic isotope effect suggested that an earlier proposed stepwise
+mechanism would be more likely.29,105 In the stepwise mechanism,
+a hydride is transferred from the N-methyl group
+forming a methylene iminium ion intermediate (Scheme 22). Thereafter, the active-site base Glu417
+deprotonates C3-phenol, making the C2 carbon more nucleophilic and
+able to attack the N-methylene moiety, forming the
+berberine bridge. Many BBE-like enzymes are
+effective amine oxidases that generate transient imines or iminium
+cations that can undergo derivatization. The name-bearer of the BBE-like
+subfamily catalyzes this type of oxidation reaction (Scheme 2).23 A concerted mechanism was proposed where deprotonation of the C3-phenol,
+hydride transfer from the N-methyl group to the FAD
+and ring closure occur in a single step.27 However, a later-performed study on the solvent and substrate deuterium
+kinetic isotope effect suggested that an earlier proposed stepwise
+mechanism would be more likely.29,105 In the stepwise mechanism,
+a hydride is transferred from the N-methyl group
+forming a methylene iminium ion intermediate (Scheme 22). Thereafter, the active-site base Glu417
+deprotonates C3-phenol, making the C2 carbon more nucleophilic and
+able to attack the N-methylene moiety, forming the
+berberine bridge. Scheme 22Proposed Reaction Mechanism of the Plant-Derived Berberine
+Bridge
+Enzyme (BBE) Forming (S)-Scoulerine via Formation
+of the Berberine Bridge Scheme 22Proposed Reaction Mechanism of the Plant-Derived Berberine
+Bridge
+Enzyme (BBE) Forming (S)-Scoulerine via Formation
+of the Berberine Bridge Scheme 22Proposed Reaction Mechanism of the Plant-Derived Berberine
+Bridge
+Enzyme (BBE) Forming (S)-Scoulerine via Formation
+of the Berberine Bridge Proposed Reaction Mechanism of the Plant-Derived Berberine
+Bridge
+Enzyme (BBE) Forming (S)-Scoulerine via Formation
+of the Berberine Bridge Proposed Reaction Mechanism of the Plant-Derived Berberine
+Bridge
+Enzyme (BBE) Forming (S)-Scoulerine via Formation
+of the Berberine Bridge Proposed Reaction Mechanism of the Plant-Derived Berberine
+Bridge
+Enzyme (BBE) Forming (S)-Scoulerine via Formation
+of the Berberine Bridge A similar amine oxidase involved in benzylisoquinoline alkaloid
+biosynthesis is the (S)-tetrahydroprotoberberine
+oxidase (STOX) from Berberis wilsoniae.106,107 STOX can oxidize C–N bonds of the protoberberine alkaloid
+tetrahydroprotoberberine to produce palmatine (Scheme 23).108 Moreover,
+STOX has high sequence similarity to the BBE name-bearer from E. californica with 38%. Unsurprisingly, BBE itself also
+displays STOX activity although with lower efficiency.109 A four-electron oxidation reaction has to take
+place to synthesize palmatine and the initial oxidation forming the
+iminium ion is thought to proceed enzymatically and the second oxidation
+to proceed spontaneously.106 Mechanistic
+investigations concluded that the iminium ion was formed between C14
+and N7, creating an unstable intermediate that can undergo spontaneous
+oxidation in the presence of O2. A similar amine oxidase involved in benzylisoquinoline alkaloid
+biosynthesis is the (S)-tetrahydroprotoberberine
+oxidase (STOX) from Berberis wilsoniae.106,107 STOX can oxidize C–N bonds of the protoberberine alkaloid
+tetrahydroprotoberberine to produce palmatine (Scheme 23).108 Moreover,
+STOX has high sequence similarity to the BBE name-bearer from E. californica with 38%. Unsurprisingly, BBE itself also
+displays STOX activity although with lower efficiency.109 A four-electron oxidation reaction has to take
+place to synthesize palmatine and the initial oxidation forming the
+iminium ion is thought to proceed enzymatically and the second oxidation
+to proceed spontaneously.106 Mechanistic
+investigations concluded that the iminium ion was formed between C14
+and N7, creating an unstable intermediate that can undergo spontaneous
+oxidation in the presence of O2. A similar amine oxidase involved in benzylisoquinoline alkaloid
+biosynthesis is the (S)-tetrahydroprotoberberine
+oxidase (STOX) from Berberis wilsoniae.106,107 STOX can oxidize C–N bonds of the protoberberine alkaloid
+tetrahydroprotoberberine to produce palmatine (Scheme 23).108 Moreover,
+STOX has high sequence similarity to the BBE name-bearer from E. californica with 38%. Unsurprisingly, BBE itself also
+displays STOX activity although with lower efficiency.109 A four-electron oxidation reaction has to take
+place to synthesize palmatine and the initial oxidation forming the
+iminium ion is thought to proceed enzymatically and the second oxidation
+to proceed spontaneously.106 Mechanistic
+investigations concluded that the iminium ion was formed between C14
+and N7, creating an unstable intermediate that can undergo spontaneous
+oxidation in the presence of O2. Scheme 23Amine Oxidase Tetrahydroprotoberberine
+Oxidase (STOX) Catalyzing
+the Four-Electron Oxidation Reaction Transforming Tetrahydroprotoberberine
+into Palmatine Scheme 23Amine Oxidase Tetrahydroprotoberberine
+Oxidase (STOX) Catalyzing
+the Four-Electron Oxidation Reaction Transforming Tetrahydroprotoberberine
+into Palmatine Scheme 23Amine Oxidase Tetrahydroprotoberberine
+Oxidase (STOX) Catalyzing
+the Four-Electron Oxidation Reaction Transforming Tetrahydroprotoberberine
+into Palmatine Amine Oxidase Tetrahydroprotoberberine
+Oxidase (STOX) Catalyzing
+the Four-Electron Oxidation Reaction Transforming Tetrahydroprotoberberine
+into Palmatine Amine Oxidase Tetrahydroprotoberberine
+Oxidase (STOX) Catalyzing
+the Four-Electron Oxidation Reaction Transforming Tetrahydroprotoberberine
+into Palmatine Amine Oxidase Tetrahydroprotoberberine
+Oxidase (STOX) Catalyzing
+the Four-Electron Oxidation Reaction Transforming Tetrahydroprotoberberine
+into Palmatine Another example involves
+the monoterpenoid indole alkaloids catharanthine
+and tabersonine, produced by the plant Catharanthus roseus. These alkaloids are intermediates in the biosynthesis of the potent
+anticancer drugs vincristine and vinblastine and a BBE-like amine
+oxidase is involved in the synthesis of the scaffolds.110 This BBE-like enzyme was named precondylocarpine
+acetate synthase (PAS) and together with dihydroprecondylocarpine
+synthase (DPAS), tabersonine synthase (TS) or catharanthine synthase
+(CS) act in a concerted manner to produce tabersonine and catharanthine
+(Scheme 24).34In vitro analysis showed that
+PAS oxidizes the C–N bond of stemmadenine acetate producing
+the iminium intermediate precondylocarpine acetate, which is subsequently
+reduced by DPAS and undergoes [4 + 2] cyclization by TS or CS. Interestingly,
+PAS lacks the His and Cys residues necessary for the FAD cofactor’s
+covalent attachment. Homologues of PAS, sharing amino acid identities
+ranging from 68% to 74%, have been identified in other Apocynaceae
+plant species, suggesting their potential involvement in the assembly
+of similar monoterpene indole alkaloids through a conserved mechanism.110 Another example involves
+the monoterpenoid indole alkaloids catharanthine
+and tabersonine, produced by the plant Catharanthus roseus. These alkaloids are intermediates in the biosynthesis of the potent
+anticancer drugs vincristine and vinblastine and a BBE-like amine
+oxidase is involved in the synthesis of the scaffolds.110 This BBE-like enzyme was named precondylocarpine
+acetate synthase (PAS) and together with dihydroprecondylocarpine
+synthase (DPAS), tabersonine synthase (TS) or catharanthine synthase
+(CS) act in a concerted manner to produce tabersonine and catharanthine
+(Scheme 24).34In vitro analysis showed that
+PAS oxidizes the C–N bond of stemmadenine acetate producing
+the iminium intermediate precondylocarpine acetate, which is subsequently
+reduced by DPAS and undergoes [4 + 2] cyclization by TS or CS. Interestingly,
+PAS lacks the His and Cys residues necessary for the FAD cofactor’s
+covalent attachment. Homologues of PAS, sharing amino acid identities
+ranging from 68% to 74%, have been identified in other Apocynaceae
+plant species, suggesting their potential involvement in the assembly
+of similar monoterpene indole alkaloids through a conserved mechanism.110 Another example involves
+the monoterpenoid indole alkaloids catharanthine
+and tabersonine, produced by the plant Catharanthus roseus. These alkaloids are intermediates in the biosynthesis of the potent
+anticancer drugs vincristine and vinblastine and a BBE-like amine
+oxidase is involved in the synthesis of the scaffolds.110 This BBE-like enzyme was named precondylocarpine
+acetate synthase (PAS) and together with dihydroprecondylocarpine
+synthase (DPAS), tabersonine synthase (TS) or catharanthine synthase
+(CS) act in a concerted manner to produce tabersonine and catharanthine
+(Scheme 24).34In vitro analysis showed that
+PAS oxidizes the C–N bond of stemmadenine acetate producing
+the iminium intermediate precondylocarpine acetate, which is subsequently
+reduced by DPAS and undergoes [4 + 2] cyclization by TS or CS. Interestingly,
+PAS lacks the His and Cys residues necessary for the FAD cofactor’s
+covalent attachment. Homologues of PAS, sharing amino acid identities
+ranging from 68% to 74%, have been identified in other Apocynaceae
+plant species, suggesting their potential involvement in the assembly
+of similar monoterpene indole alkaloids through a conserved mechanism.110 Scheme 24Amine Oxidation Catalyzed by the BBE-like
+Enzyme PAS, Enabling Subsequent
+Transformations to Produce the Secondary Metabolites Tabersonine and
+Catharanthine Scheme 24Amine Oxidation Catalyzed by the BBE-like
+Enzyme PAS, Enabling Subsequent
+Transformations to Produce the Secondary Metabolites Tabersonine and
+Catharanthine Scheme 24Amine Oxidation Catalyzed by the BBE-like
+Enzyme PAS, Enabling Subsequent
+Transformations to Produce the Secondary Metabolites Tabersonine and
+Catharanthine Amine Oxidation Catalyzed by the BBE-like
+Enzyme PAS, Enabling Subsequent
+Transformations to Produce the Secondary Metabolites Tabersonine and
+Catharanthine Amine Oxidation Catalyzed by the BBE-like
+Enzyme PAS, Enabling Subsequent
+Transformations to Produce the Secondary Metabolites Tabersonine and
+Catharanthine Amine Oxidation Catalyzed by the BBE-like
+Enzyme PAS, Enabling Subsequent
+Transformations to Produce the Secondary Metabolites Tabersonine and
+Catharanthine A peculiar BBE-like
+enzyme named FsBBE has been
+found in the biosynthetic pathway of plant-derived Securinega alkaloids that enables intermolecular enamine-type addition reactions.111 The substrate allosecurinine is oxidized by FsBBE to form the iminium ion and tautomerization generates
+the enamine intermediate (Scheme 25). The C3 atom can then act as a nucleophile and attack
+the C2 of l-ascorbic acid (or its oxidative product dehydroascorbic
+acid). This enamine-type addition reaction enables a spontaneous cascade
+reaction of ketal formation and cyclization to fluesuffine A. Previously,
+it was proposed that many C2 or C3-funtionalized Securinega alkaloids were produced via a key enamine intermediate which acts
+as a branching point for further derivatization.112,113 In this study, FsBBE has shown to be a relevant
+gene for the biosynthesis of enamine intermediate, which opens up
+a way to generate novel C2 and C3-functionalized Securinega alkaloids. A peculiar BBE-like
+enzyme named FsBBE has been
+found in the biosynthetic pathway of plant-derived Securinega alkaloids that enables intermolecular enamine-type addition reactions.111 The substrate allosecurinine is oxidized by FsBBE to form the iminium ion and tautomerization generates
+the enamine intermediate (Scheme 25). The C3 atom can then act as a nucleophile and attack
+the C2 of l-ascorbic acid (or its oxidative product dehydroascorbic
+acid). This enamine-type addition reaction enables a spontaneous cascade
+reaction of ketal formation and cyclization to fluesuffine A. Previously,
+it was proposed that many C2 or C3-funtionalized Securinega alkaloids were produced via a key enamine intermediate which acts
+as a branching point for further derivatization.112,113 In this study, FsBBE has shown to be a relevant
+gene for the biosynthesis of enamine intermediate, which opens up
+a way to generate novel C2 and C3-functionalized Securinega alkaloids. A peculiar BBE-like
+enzyme named FsBBE has been
+found in the biosynthetic pathway of plant-derived Securinega alkaloids that enables intermolecular enamine-type addition reactions.111 The substrate allosecurinine is oxidized by FsBBE to form the iminium ion and tautomerization generates
+the enamine intermediate (Scheme 25). The C3 atom can then act as a nucleophile and attack
+the C2 of l-ascorbic acid (or its oxidative product dehydroascorbic
+acid). This enamine-type addition reaction enables a spontaneous cascade
+reaction of ketal formation and cyclization to fluesuffine A. Previously,
+it was proposed that many C2 or C3-funtionalized Securinega alkaloids were produced via a key enamine intermediate which acts
+as a branching point for further derivatization.112,113 In this study, FsBBE has shown to be a relevant
+gene for the biosynthesis of enamine intermediate, which opens up
+a way to generate novel C2 and C3-functionalized Securinega alkaloids. Scheme 25Intermolecular Enamine-Type Addition Reaction Catalyzed
+by the Plant-Derived FsBBE via an Initial Amine Oxidation Scheme 25Intermolecular Enamine-Type Addition Reaction Catalyzed
+by the Plant-Derived FsBBE via an Initial Amine Oxidation Scheme 25Intermolecular Enamine-Type Addition Reaction Catalyzed
+by the Plant-Derived FsBBE via an Initial Amine Oxidation Intermolecular Enamine-Type Addition Reaction Catalyzed
+by the Plant-Derived FsBBE via an Initial Amine Oxidation Intermolecular Enamine-Type Addition Reaction Catalyzed
+by the Plant-Derived FsBBE via an Initial Amine Oxidation Intermolecular Enamine-Type Addition Reaction Catalyzed
+by the Plant-Derived FsBBE via an Initial Amine Oxidation The flavoprotein SfmCy2 makes use of a transient
+iminium ion to
+accomplish the oxidative deamination forming the natural product saframycin
+A.114 SfmCy2 is expressed extracellularly
+by bearing a Tat signal peptide and allows for prodrug-maturation
+of saframycin A in Streptomyces lavendulae by catalyzing
+a final deamination reaction. This reaction proceeds through dehydrogenation
+of the amino group to form an imine intermediate (Scheme 26). The resulting imine is
+attacked by water to form the hemiaminal, which after NH3 release forms the ketone. The reaction was also performed in H218O and afforded an enzymatic product with a molecular
+weight increase of 2 Da as compared to the reaction performed in H216O. This validates that the ketone group is originating
+from water. This study uncovers another unique activity that BBE-like
+enzymes exhibit, namely, oxidative deamination. The flavoprotein SfmCy2 makes use of a transient
+iminium ion to
+accomplish the oxidative deamination forming the natural product saframycin
+A.114 SfmCy2 is expressed extracellularly
+by bearing a Tat signal peptide and allows for prodrug-maturation
+of saframycin A in Streptomyces lavendulae by catalyzing
+a final deamination reaction. This reaction proceeds through dehydrogenation
+of the amino group to form an imine intermediate (Scheme 26). The resulting imine is
+attacked by water to form the hemiaminal, which after NH3 release forms the ketone. The reaction was also performed in H218O and afforded an enzymatic product with a molecular
+weight increase of 2 Da as compared to the reaction performed in H216O. This validates that the ketone group is originating
+from water. This study uncovers another unique activity that BBE-like
+enzymes exhibit, namely, oxidative deamination. The flavoprotein SfmCy2 makes use of a transient
+iminium ion to
+accomplish the oxidative deamination forming the natural product saframycin
+A.114 SfmCy2 is expressed extracellularly
+by bearing a Tat signal peptide and allows for prodrug-maturation
+of saframycin A in Streptomyces lavendulae by catalyzing
+a final deamination reaction. This reaction proceeds through dehydrogenation
+of the amino group to form an imine intermediate (Scheme 26). The resulting imine is
+attacked by water to form the hemiaminal, which after NH3 release forms the ketone. The reaction was also performed in H218O and afforded an enzymatic product with a molecular
+weight increase of 2 Da as compared to the reaction performed in H216O. This validates that the ketone group is originating
+from water. This study uncovers another unique activity that BBE-like
+enzymes exhibit, namely, oxidative deamination. Scheme 26Oxidative Deamination
+by SfmCy2 Allowing for Prodrug-Maturation of
+Saframycin A in Streptomyces lavendulae Scheme 26Oxidative Deamination
+by SfmCy2 Allowing for Prodrug-Maturation of
+Saframycin A in Streptomyces lavendulae Scheme 26Oxidative Deamination
+by SfmCy2 Allowing for Prodrug-Maturation of
+Saframycin A in Streptomyces lavendulae Oxidative Deamination
+by SfmCy2 Allowing for Prodrug-Maturation of
+Saframycin A in Streptomyces lavendulae Oxidative Deamination
+by SfmCy2 Allowing for Prodrug-Maturation of
+Saframycin A in Streptomyces lavendulae Oxidative Deamination
+by SfmCy2 Allowing for Prodrug-Maturation of
+Saframycin A in Streptomyces lavendulae Another secreted BBE-like protein from Streptomyces bearing a Tat signal peptide is named NapU
+and performs an oxidative
+activation and overoxidative inactivation of the matured prodrug naphthyridinomycin
+(NDM).115 The first reaction that NapU
+catalyzes is the hydroxylation of the pharmacophore inactivated compound 1 to form the bioactive NDM (Scheme 27). When the reaction mixture was incubated
+for a longer period of time, another product 2 was formed
+with a decrease in molecular weight of 2 Da that did not show antibacterial
+activity. The first hydroxylation reaction is proposed to go through
+the reactive iminium intermediate. H2O may act as the nucleophile,
+potentially activated by two Tyr active site residues, to attack the
+imine and install the hydroxy-group in NDM. It was illustrated that
+NapU can also mediate the subsequent two-electron oxidation, yielding
+the corresponding inactivated ketone-derivative. Hence, the flavoprotein
+NapU is involved in the activation of a matured prodrug, but can also
+avoid self-toxicity via overoxidation of NDM as self-defense strategy. Another secreted BBE-like protein from Streptomyces bearing a Tat signal peptide is named NapU
+and performs an oxidative
+activation and overoxidative inactivation of the matured prodrug naphthyridinomycin
+(NDM).115 The first reaction that NapU
+catalyzes is the hydroxylation of the pharmacophore inactivated compound 1 to form the bioactive NDM (Scheme 27). When the reaction mixture was incubated
+for a longer period of time, another product 2 was formed
+with a decrease in molecular weight of 2 Da that did not show antibacterial
+activity. The first hydroxylation reaction is proposed to go through
+the reactive iminium intermediate. H2O may act as the nucleophile,
+potentially activated by two Tyr active site residues, to attack the
+imine and install the hydroxy-group in NDM. It was illustrated that
+NapU can also mediate the subsequent two-electron oxidation, yielding
+the corresponding inactivated ketone-derivative. Hence, the flavoprotein
+NapU is involved in the activation of a matured prodrug, but can also
+avoid self-toxicity via overoxidation of NDM as self-defense strategy. Another secreted BBE-like protein from Streptomyces bearing a Tat signal peptide is named NapU
+and performs an oxidative
+activation and overoxidative inactivation of the matured prodrug naphthyridinomycin
+(NDM).115 The first reaction that NapU
+catalyzes is the hydroxylation of the pharmacophore inactivated compound 1 to form the bioactive NDM (Scheme 27). When the reaction mixture was incubated
+for a longer period of time, another product 2 was formed
+with a decrease in molecular weight of 2 Da that did not show antibacterial
+activity. The first hydroxylation reaction is proposed to go through
+the reactive iminium intermediate. H2O may act as the nucleophile,
+potentially activated by two Tyr active site residues, to attack the
+imine and install the hydroxy-group in NDM. It was illustrated that
+NapU can also mediate the subsequent two-electron oxidation, yielding
+the corresponding inactivated ketone-derivative. Hence, the flavoprotein
+NapU is involved in the activation of a matured prodrug, but can also
+avoid self-toxicity via overoxidation of NDM as self-defense strategy. Scheme 27Oxidative Activation and Overoxidative Deactivation of Napthyridinomycin
+(NDM) by the Flavoprotein NapU in Streptomyces lusitanus NRRL 8034 Scheme 27Oxidative Activation and Overoxidative Deactivation of Napthyridinomycin
+(NDM) by the Flavoprotein NapU in Streptomyces lusitanus NRRL 8034 Scheme 27Oxidative Activation and Overoxidative Deactivation of Napthyridinomycin
+(NDM) by the Flavoprotein NapU in Streptomyces lusitanus NRRL 8034 Oxidative Activation and Overoxidative Deactivation of Napthyridinomycin
+(NDM) by the Flavoprotein NapU in Streptomyces lusitanus NRRL 8034 Oxidative Activation and Overoxidative Deactivation of Napthyridinomycin
+(NDM) by the Flavoprotein NapU in Streptomyces lusitanus NRRL 8034 Oxidative Activation and Overoxidative Deactivation of Napthyridinomycin
+(NDM) by the Flavoprotein NapU in Streptomyces lusitanus NRRL 8034 Although there is
+a considerable number of identified FAD-dependent
+amine oxidases,116 amide oxidases are not
+commonly known in literature. They are predicted to be involved in
+the biosynthesis of certain fungal-derived natural products such as
+pyranonigrin and pyranterreones.117,118 The first
+study that fully characterized a BBE-like oxidase performing an unprecedented
+amide oxidation is FmqD, which operates in the biosynthesis of two
+cytotoxic peptidyl alkaloids, fumiquinazoline C (FQC) and D (FQD).47,119 These metabolites are a key feature of the pathogenic fungus A. fumigatus and have received considerable attention due
+to their complex biochemistry.120 Thanks
+to co-ordination with sporulation-specific transcription factors,
+FmqD is secreted to the cell wall and directs its product to the fungal
+spores.120 Although there is
+a considerable number of identified FAD-dependent
+amine oxidases,116 amide oxidases are not
+commonly known in literature. They are predicted to be involved in
+the biosynthesis of certain fungal-derived natural products such as
+pyranonigrin and pyranterreones.117,118 The first
+study that fully characterized a BBE-like oxidase performing an unprecedented
+amide oxidation is FmqD, which operates in the biosynthesis of two
+cytotoxic peptidyl alkaloids, fumiquinazoline C (FQC) and D (FQD).47,119 These metabolites are a key feature of the pathogenic fungus A. fumigatus and have received considerable attention due
+to their complex biochemistry.120 Thanks
+to co-ordination with sporulation-specific transcription factors,
+FmqD is secreted to the cell wall and directs its product to the fungal
+spores.120 Although there is
+a considerable number of identified FAD-dependent
+amine oxidases,116 amide oxidases are not
+commonly known in literature. They are predicted to be involved in
+the biosynthesis of certain fungal-derived natural products such as
+pyranonigrin and pyranterreones.117,118 The first
+study that fully characterized a BBE-like oxidase performing an unprecedented
+amide oxidation is FmqD, which operates in the biosynthesis of two
+cytotoxic peptidyl alkaloids, fumiquinazoline C (FQC) and D (FQD).47,119 These metabolites are a key feature of the pathogenic fungus A. fumigatus and have received considerable attention due
+to their complex biochemistry.120 Thanks
+to co-ordination with sporulation-specific transcription factors,
+FmqD is secreted to the cell wall and directs its product to the fungal
+spores.120 FmqD primes its so-called
+substrate fumiquinazoline A (FQA) for
+C–O and C–N intramolecular cyclization. Specifically,
+amide oxidation leads to a transient imine, which is captured by the
+−OH group of the imidiazoindolone side chain, producing the
+spirohemiaminal FQC (Scheme 28).47 Slow equilibration ultimately
+forms the aminal FQD as a more thermodynamically stable product. The
+absence of the lone-pair stabilization for the amide might seem to
+make hydride abstraction of the α-carbon challenging, but it
+is speculated that the extended delocalized system of the FQ scaffold
+manages to stabilize the cation to allow for hydride abstraction.
+This example illustrates the delicate chemistry required for amide
+oxidation, leading to regioselective product cyclization. FmqD primes its so-called
+substrate fumiquinazoline A (FQA) for
+C–O and C–N intramolecular cyclization. Specifically,
+amide oxidation leads to a transient imine, which is captured by the
+−OH group of the imidiazoindolone side chain, producing the
+spirohemiaminal FQC (Scheme 28).47 Slow equilibration ultimately
+forms the aminal FQD as a more thermodynamically stable product. The
+absence of the lone-pair stabilization for the amide might seem to
+make hydride abstraction of the α-carbon challenging, but it
+is speculated that the extended delocalized system of the FQ scaffold
+manages to stabilize the cation to allow for hydride abstraction.
+This example illustrates the delicate chemistry required for amide
+oxidation, leading to regioselective product cyclization. FmqD primes its so-called
+substrate fumiquinazoline A (FQA) for
+C–O and C–N intramolecular cyclization. Specifically,
+amide oxidation leads to a transient imine, which is captured by the
+−OH group of the imidiazoindolone side chain, producing the
+spirohemiaminal FQC (Scheme 28).47 Slow equilibration ultimately
+forms the aminal FQD as a more thermodynamically stable product. The
+absence of the lone-pair stabilization for the amide might seem to
+make hydride abstraction of the α-carbon challenging, but it
+is speculated that the extended delocalized system of the FQ scaffold
+manages to stabilize the cation to allow for hydride abstraction.
+This example illustrates the delicate chemistry required for amide
+oxidation, leading to regioselective product cyclization. Scheme 28Amide
+Oxidation of FQA by Oxidase FmqD Allowing Intramolecular Cyclization
+Producing the Natural Products FQC and after Slow Equilibration FQD Scheme 28Amide
+Oxidation of FQA by Oxidase FmqD Allowing Intramolecular Cyclization
+Producing the Natural Products FQC and after Slow Equilibration FQD Scheme 28Amide
+Oxidation of FQA by Oxidase FmqD Allowing Intramolecular Cyclization
+Producing the Natural Products FQC and after Slow Equilibration FQD Amide
+Oxidation of FQA by Oxidase FmqD Allowing Intramolecular Cyclization
+Producing the Natural Products FQC and after Slow Equilibration FQD Amide
+Oxidation of FQA by Oxidase FmqD Allowing Intramolecular Cyclization
+Producing the Natural Products FQC and after Slow Equilibration FQD Amide
+Oxidation of FQA by Oxidase FmqD Allowing Intramolecular Cyclization
+Producing the Natural Products FQC and after Slow Equilibration FQD Monoterpene Indole Alkaloids Monoterpene Indole Alkaloids Monoterpene Indole Alkaloids A few
+BBE-like enzymes
+oxidize an isoprenyl moiety, typically conjugated to an indole-derived
+scaffold and also called monoterpene indole alkaloids. The mechanism
+by which this occurs has not yet been understood, and some propose
+the hydride transfer to occur at the benzylic C10 atom assisted via
+abstraction of the C13 hydrogen or vice versa. Taking into account
+the other BBE-like oxidation mechanisms discussed so far, we propose
+that the hydride transfer is enabled by the electron donating effect
+of the N1 atom through the indole ring to the C10 atom (Scheme 29). This ultimately
+allows the hydride to be transferred to the N5 atom of FAD. Such a
+mechanism would be similar to the one of the ο-QM intermediate.46 The obtained reactive iminium ion intermediate
+can undergo a multitude of derivatizations including intramolecular
+cyclizations, dehydrogenations, and hydration reactions. A few
+BBE-like enzymes
+oxidize an isoprenyl moiety, typically conjugated to an indole-derived
+scaffold and also called monoterpene indole alkaloids. The mechanism
+by which this occurs has not yet been understood, and some propose
+the hydride transfer to occur at the benzylic C10 atom assisted via
+abstraction of the C13 hydrogen or vice versa. Taking into account
+the other BBE-like oxidation mechanisms discussed so far, we propose
+that the hydride transfer is enabled by the electron donating effect
+of the N1 atom through the indole ring to the C10 atom (Scheme 29). This ultimately
+allows the hydride to be transferred to the N5 atom of FAD. Such a
+mechanism would be similar to the one of the ο-QM intermediate.46 The obtained reactive iminium ion intermediate
+can undergo a multitude of derivatizations including intramolecular
+cyclizations, dehydrogenations, and hydration reactions. A few
+BBE-like enzymes
+oxidize an isoprenyl moiety, typically conjugated to an indole-derived
+scaffold and also called monoterpene indole alkaloids. The mechanism
+by which this occurs has not yet been understood, and some propose
+the hydride transfer to occur at the benzylic C10 atom assisted via
+abstraction of the C13 hydrogen or vice versa. Taking into account
+the other BBE-like oxidation mechanisms discussed so far, we propose
+that the hydride transfer is enabled by the electron donating effect
+of the N1 atom through the indole ring to the C10 atom (Scheme 29). This ultimately
+allows the hydride to be transferred to the N5 atom of FAD. Such a
+mechanism would be similar to the one of the ο-QM intermediate.46 The obtained reactive iminium ion intermediate
+can undergo a multitude of derivatizations including intramolecular
+cyclizations, dehydrogenations, and hydration reactions. Scheme 29Proposed
+Oxidation Mechanism for Monoterpene Indole Alkaloids, Where
+Hydride Transfer at the C10 Center Is Enabled through Electron Pair
+Delocalization at the N1 Atom Forming the Reactive Iminium Ion Intermediate Scheme 29Proposed
+Oxidation Mechanism for Monoterpene Indole Alkaloids, Where
+Hydride Transfer at the C10 Center Is Enabled through Electron Pair
+Delocalization at the N1 Atom Forming the Reactive Iminium Ion Intermediate Scheme 29Proposed
+Oxidation Mechanism for Monoterpene Indole Alkaloids, Where
+Hydride Transfer at the C10 Center Is Enabled through Electron Pair
+Delocalization at the N1 Atom Forming the Reactive Iminium Ion Intermediate Proposed
+Oxidation Mechanism for Monoterpene Indole Alkaloids, Where
+Hydride Transfer at the C10 Center Is Enabled through Electron Pair
+Delocalization at the N1 Atom Forming the Reactive Iminium Ion Intermediate Proposed
+Oxidation Mechanism for Monoterpene Indole Alkaloids, Where
+Hydride Transfer at the C10 Center Is Enabled through Electron Pair
+Delocalization at the N1 Atom Forming the Reactive Iminium Ion Intermediate Proposed
+Oxidation Mechanism for Monoterpene Indole Alkaloids, Where
+Hydride Transfer at the C10 Center Is Enabled through Electron Pair
+Delocalization at the N1 Atom Forming the Reactive Iminium Ion Intermediate The first example can be found for ergot alkaloids,
+which are prenylated
+indole alkaloids produced by several filamentous fungi and have wide
+applications in therapeutics due to their similarity with monoamine
+neurotransmitters such as dopamine and adrenaline.121−123 A BBE-like oxidase involved in the biosynthesis of ergot alkaloid D-lysergic acid is EasE, a bicovalent flavoenzyme from the
+parasitic fungus Claviceps purpurea. Together with
+a catalase partner enzyme EasC, EasE is involved in the oxidative
+cyclization of 4-dimethylallyl-l-abrine (4DMA) to chanoclavine-I
+(Scheme 30).124 These two enzymes are essential for the central
+carbon ring in the tetracyclic ergoline core structure. Until recently,
+it remained an enigma how this central C ring was formed.39 Essentially, EasE performs a dehydrogenation
+reaction after which the O2-dependent catalase EasC can
+complete the cyclization via a radical addition mechanism. The first example can be found for ergot alkaloids,
+which are prenylated
+indole alkaloids produced by several filamentous fungi and have wide
+applications in therapeutics due to their similarity with monoamine
+neurotransmitters such as dopamine and adrenaline.121−123 A BBE-like oxidase involved in the biosynthesis of ergot alkaloid D-lysergic acid is EasE, a bicovalent flavoenzyme from the
+parasitic fungus Claviceps purpurea. Together with
+a catalase partner enzyme EasC, EasE is involved in the oxidative
+cyclization of 4-dimethylallyl-l-abrine (4DMA) to chanoclavine-I
+(Scheme 30).124 These two enzymes are essential for the central
+carbon ring in the tetracyclic ergoline core structure. Until recently,
+it remained an enigma how this central C ring was formed.39 Essentially, EasE performs a dehydrogenation
+reaction after which the O2-dependent catalase EasC can
+complete the cyclization via a radical addition mechanism. The first example can be found for ergot alkaloids,
+which are prenylated
+indole alkaloids produced by several filamentous fungi and have wide
+applications in therapeutics due to their similarity with monoamine
+neurotransmitters such as dopamine and adrenaline.121−123 A BBE-like oxidase involved in the biosynthesis of ergot alkaloid D-lysergic acid is EasE, a bicovalent flavoenzyme from the
+parasitic fungus Claviceps purpurea. Together with
+a catalase partner enzyme EasC, EasE is involved in the oxidative
+cyclization of 4-dimethylallyl-l-abrine (4DMA) to chanoclavine-I
+(Scheme 30).124 These two enzymes are essential for the central
+carbon ring in the tetracyclic ergoline core structure. Until recently,
+it remained an enigma how this central C ring was formed.39 Essentially, EasE performs a dehydrogenation
+reaction after which the O2-dependent catalase EasC can
+complete the cyclization via a radical addition mechanism. Scheme 30Isoprenyl
+Oxidation of the Ergot Alkaloid 4-Dimethylallyl-l-abrine
+by the BBE-like Oxidase EasE, Enabling Subsequent Oxidative
+Cyclization by Catalase EasC Scheme 30Isoprenyl
+Oxidation of the Ergot Alkaloid 4-Dimethylallyl-l-abrine
+by the BBE-like Oxidase EasE, Enabling Subsequent Oxidative
+Cyclization by Catalase EasC Scheme 30Isoprenyl
+Oxidation of the Ergot Alkaloid 4-Dimethylallyl-l-abrine
+by the BBE-like Oxidase EasE, Enabling Subsequent Oxidative
+Cyclization by Catalase EasC Isoprenyl
+Oxidation of the Ergot Alkaloid 4-Dimethylallyl-l-abrine
+by the BBE-like Oxidase EasE, Enabling Subsequent Oxidative
+Cyclization by Catalase EasC Isoprenyl
+Oxidation of the Ergot Alkaloid 4-Dimethylallyl-l-abrine
+by the BBE-like Oxidase EasE, Enabling Subsequent Oxidative
+Cyclization by Catalase EasC Isoprenyl
+Oxidation of the Ergot Alkaloid 4-Dimethylallyl-l-abrine
+by the BBE-like Oxidase EasE, Enabling Subsequent Oxidative
+Cyclization by Catalase EasC The FAD-dependent oxidoreductase CnsA and putative catalase CnsD
+from Penicillium expansum share homology to EasE
+and catalase partner EasC (51 and 59% seq. id.).48,125,126 These enzymes operate on 4-l-dimethyl-allyl tryptophan that is oxidized at the isoprenoid
+unit. However, subsequent cyclization is not caused by a radical addition
+mechanism but rather by an intramolecular attack of the α-NH2 group (Scheme 31). This leads to trans-clavicipitic acid,
+which forms aurantioclavine after decarboxylation by the putative
+catalase CnsD. The FAD-dependent oxidoreductase CnsA and putative catalase CnsD
+from Penicillium expansum share homology to EasE
+and catalase partner EasC (51 and 59% seq. id.).48,125,126 These enzymes operate on 4-l-dimethyl-allyl tryptophan that is oxidized at the isoprenoid
+unit. However, subsequent cyclization is not caused by a radical addition
+mechanism but rather by an intramolecular attack of the α-NH2 group (Scheme 31). This leads to trans-clavicipitic acid,
+which forms aurantioclavine after decarboxylation by the putative
+catalase CnsD. The FAD-dependent oxidoreductase CnsA and putative catalase CnsD
+from Penicillium expansum share homology to EasE
+and catalase partner EasC (51 and 59% seq. id.).48,125,126 These enzymes operate on 4-l-dimethyl-allyl tryptophan that is oxidized at the isoprenoid
+unit. However, subsequent cyclization is not caused by a radical addition
+mechanism but rather by an intramolecular attack of the α-NH2 group (Scheme 31). This leads to trans-clavicipitic acid,
+which forms aurantioclavine after decarboxylation by the putative
+catalase CnsD. Scheme 31CnsA Catalyzing the Oxidation of the Isoprenyl Moiety
+with Subsequent
+Intramolecular Attachment Forming trans-Clavicipitic
+Acid Scheme 31CnsA Catalyzing the Oxidation of the Isoprenyl Moiety
+with Subsequent
+Intramolecular Attachment Forming trans-Clavicipitic
+Acid Scheme 31CnsA Catalyzing the Oxidation of the Isoprenyl Moiety
+with Subsequent
+Intramolecular Attachment Forming trans-Clavicipitic
+Acid CnsA Catalyzing the Oxidation of the Isoprenyl Moiety
+with Subsequent
+Intramolecular Attachment Forming trans-Clavicipitic
+Acid CnsA Catalyzing the Oxidation of the Isoprenyl Moiety
+with Subsequent
+Intramolecular Attachment Forming trans-Clavicipitic
+Acid CnsA Catalyzing the Oxidation of the Isoprenyl Moiety
+with Subsequent
+Intramolecular Attachment Forming trans-Clavicipitic
+Acid Another type of meroterpenoids
+is the indole diterpenoids synthesized
+by various fungi. This meroterpenoid class lacks the polyketide scaffold
+and instead possesses an indole ring as nonterpenoid part.127 Indole diterpenes are generally synthesized
+via a common hexacyclic molecule named paspaline.128 This natural product class obtains variability through
+branching out using different biosynthetic gene clusters.129,130 Here, we will give an overview of three different FAD-oxidoreductases
+present in the biosynthetic pathways producing the three indole diterpene
+natural products shearinines, penitrems, and nodulisporic acids. Another type of meroterpenoids
+is the indole diterpenoids synthesized
+by various fungi. This meroterpenoid class lacks the polyketide scaffold
+and instead possesses an indole ring as nonterpenoid part.127 Indole diterpenes are generally synthesized
+via a common hexacyclic molecule named paspaline.128 This natural product class obtains variability through
+branching out using different biosynthetic gene clusters.129,130 Here, we will give an overview of three different FAD-oxidoreductases
+present in the biosynthetic pathways producing the three indole diterpene
+natural products shearinines, penitrems, and nodulisporic acids. Another type of meroterpenoids
+is the indole diterpenoids synthesized
+by various fungi. This meroterpenoid class lacks the polyketide scaffold
+and instead possesses an indole ring as nonterpenoid part.127 Indole diterpenes are generally synthesized
+via a common hexacyclic molecule named paspaline.128 This natural product class obtains variability through
+branching out using different biosynthetic gene clusters.129,130 Here, we will give an overview of three different FAD-oxidoreductases
+present in the biosynthetic pathways producing the three indole diterpene
+natural products shearinines, penitrems, and nodulisporic acids. JanO from Penicillium janthinellum and NodO from Hypoxylon pulicicidum (previously Nodulisporium sp.) perform an intriguing prenylation oxidation and cyclization
+to form a bicyclic system (Scheme 32).131−133 JanO was analyzed in vitro and yielded a single product, suggesting that cyclization goes rapidly
+without intermediate product formation. Incubating the reaction with
+30% H2O18 clarified that the
+O2 atom of the cyclic ether ring was originating from water.132 Thus, JanO catalyzes a cascade of reactions:
+oxidation of the isoprenyl group, hydration, another oxidation, and
+cyclization yielding the final shearinine B product. Recently, the
+ortholog of JanO named NodO (52.1% seq id.) was confirmed to be responsible
+for the oxidative cyclization forming nodulisporic acid D4.131 Most likely the nodulisporic acid
+D4 synthesis goes via a similar cyclization pathway.134,135 JanO from Penicillium janthinellum and NodO from Hypoxylon pulicicidum (previously Nodulisporium sp.) perform an intriguing prenylation oxidation and cyclization
+to form a bicyclic system (Scheme 32).131−133 JanO was analyzed in vitro and yielded a single product, suggesting that cyclization goes rapidly
+without intermediate product formation. Incubating the reaction with
+30% H2O18 clarified that the
+O2 atom of the cyclic ether ring was originating from water.132 Thus, JanO catalyzes a cascade of reactions:
+oxidation of the isoprenyl group, hydration, another oxidation, and
+cyclization yielding the final shearinine B product. Recently, the
+ortholog of JanO named NodO (52.1% seq id.) was confirmed to be responsible
+for the oxidative cyclization forming nodulisporic acid D4.131 Most likely the nodulisporic acid
+D4 synthesis goes via a similar cyclization pathway.134,135 JanO from Penicillium janthinellum and NodO from Hypoxylon pulicicidum (previously Nodulisporium sp.) perform an intriguing prenylation oxidation and cyclization
+to form a bicyclic system (Scheme 32).131−133 JanO was analyzed in vitro and yielded a single product, suggesting that cyclization goes rapidly
+without intermediate product formation. Incubating the reaction with
+30% H2O18 clarified that the
+O2 atom of the cyclic ether ring was originating from water.132 Thus, JanO catalyzes a cascade of reactions:
+oxidation of the isoprenyl group, hydration, another oxidation, and
+cyclization yielding the final shearinine B product. Recently, the
+ortholog of JanO named NodO (52.1% seq id.) was confirmed to be responsible
+for the oxidative cyclization forming nodulisporic acid D4.131 Most likely the nodulisporic acid
+D4 synthesis goes via a similar cyclization pathway.134,135 Scheme 32(a) Hypothesized Reaction Mechanism of JanO Allowing for the
+Double
+Oxidation of the Isoprenyl Side-Group Thereby Forming the Secondary
+Metabolite Shearinine B and (b) Oxidative Cyclization Reaction of
+NodO Producing Nodulisporic Acid D4 Scheme 32(a) Hypothesized Reaction Mechanism of JanO Allowing for the
+Double
+Oxidation of the Isoprenyl Side-Group Thereby Forming the Secondary
+Metabolite Shearinine B and (b) Oxidative Cyclization Reaction of
+NodO Producing Nodulisporic Acid D4 Scheme 32(a) Hypothesized Reaction Mechanism of JanO Allowing for the
+Double
+Oxidation of the Isoprenyl Side-Group Thereby Forming the Secondary
+Metabolite Shearinine B and (b) Oxidative Cyclization Reaction of
+NodO Producing Nodulisporic Acid D4 (a) Hypothesized Reaction Mechanism of JanO Allowing for the
+Double
+Oxidation of the Isoprenyl Side-Group Thereby Forming the Secondary
+Metabolite Shearinine B and (b) Oxidative Cyclization Reaction of
+NodO Producing Nodulisporic Acid D4 (a) Hypothesized Reaction Mechanism of JanO Allowing for the
+Double
+Oxidation of the Isoprenyl Side-Group Thereby Forming the Secondary
+Metabolite Shearinine B and (b) Oxidative Cyclization Reaction of
+NodO Producing Nodulisporic Acid D4 (a) Hypothesized Reaction Mechanism of JanO Allowing for the
+Double
+Oxidation of the Isoprenyl Side-Group Thereby Forming the Secondary
+Metabolite Shearinine B and (b) Oxidative Cyclization Reaction of
+NodO Producing Nodulisporic Acid D4 The third oxidoreductase PtmO from Penicillium
+simplicissimum(136) catalyzes a
+similar reaction in that
+its substrate’s isoprenyl group is oxidized, enabling the incorporation
+of a hydroxyl group coming from water (Scheme 33). The diversity of these reaction illustrates
+how indole diterpenoids can be used for generating a diverse set of
+molecules.130 The third oxidoreductase PtmO from Penicillium
+simplicissimum(136) catalyzes a
+similar reaction in that
+its substrate’s isoprenyl group is oxidized, enabling the incorporation
+of a hydroxyl group coming from water (Scheme 33). The diversity of these reaction illustrates
+how indole diterpenoids can be used for generating a diverse set of
+molecules.130 The third oxidoreductase PtmO from Penicillium
+simplicissimum(136) catalyzes a
+similar reaction in that
+its substrate’s isoprenyl group is oxidized, enabling the incorporation
+of a hydroxyl group coming from water (Scheme 33). The diversity of these reaction illustrates
+how indole diterpenoids can be used for generating a diverse set of
+molecules.130 Scheme 33Isoprenyl Oxidation
+by PtmO Allowing for Water Incorporation and
+Formation of Compound PC-M5, Subsequently Used as a Substrate for
+the Formation of Penitrem Derivatives Scheme 33Isoprenyl Oxidation
+by PtmO Allowing for Water Incorporation and
+Formation of Compound PC-M5, Subsequently Used as a Substrate for
+the Formation of Penitrem Derivatives Scheme 33Isoprenyl Oxidation
+by PtmO Allowing for Water Incorporation and
+Formation of Compound PC-M5, Subsequently Used as a Substrate for
+the Formation of Penitrem Derivatives Isoprenyl Oxidation
+by PtmO Allowing for Water Incorporation and
+Formation of Compound PC-M5, Subsequently Used as a Substrate for
+the Formation of Penitrem Derivatives Isoprenyl Oxidation
+by PtmO Allowing for Water Incorporation and
+Formation of Compound PC-M5, Subsequently Used as a Substrate for
+the Formation of Penitrem Derivatives Isoprenyl Oxidation
+by PtmO Allowing for Water Incorporation and
+Formation of Compound PC-M5, Subsequently Used as a Substrate for
+the Formation of Penitrem Derivatives Other Mechanisms Other Mechanisms Other Mechanisms All of the reactions described so
+far all have an overarching mechanism in which a hydride is transferred
+to the N5 atom of the FAD cofactor. Nevertheless, examples of BBE-like
+oxidoreductases can be found that do not employ the FAD cofactor for
+catalysis. Moreover, there are examples in which the role of the FAD
+cofactor is still unclear. All of the reactions described so
+far all have an overarching mechanism in which a hydride is transferred
+to the N5 atom of the FAD cofactor. Nevertheless, examples of BBE-like
+oxidoreductases can be found that do not employ the FAD cofactor for
+catalysis. Moreover, there are examples in which the role of the FAD
+cofactor is still unclear. All of the reactions described so
+far all have an overarching mechanism in which a hydride is transferred
+to the N5 atom of the FAD cofactor. Nevertheless, examples of BBE-like
+oxidoreductases can be found that do not employ the FAD cofactor for
+catalysis. Moreover, there are examples in which the role of the FAD
+cofactor is still unclear. The first example is the Diels–Alderase
+named MaDA,33,137 already briefly mentioned during
+the biosynthesis of morachalcone A in mulberry plants (Scheme 18b). After oxidation of the
+isoprenyl moiety of moracin C by the BBE-like oxidase MaMO, MaDA enables
+a [4 + 2] cycloaddition reaction making it the first stand-alone intermolecular
+Diels–Alderase. Multiple controls were performed to understand
+the role of the FAD cofactor in MaDa, including mutagenesis of the
+His116 residue that is critical for covalent FAD attachment and cofactor
+reduction using sodium dithionite. This mutation rendered MaDA almost
+inactive, thereby exemplifying that the (oxidized) FAD cofactor is
+necessary for the endo [4 + 2] cycloaddition. Moreover,
+homologous Diels–Alderases were discovered that could catalyze
+the same intermolecular Diels–Alder reaction with exo-selectivity.138 Mutagenesis studies demonstrated
+key residues involved in activating the dienophile through hydrogen
+bonding interactions and positioning the diene via π–π
+interactions for endo-selectivity. While for opposite
+selectivity a crucial arginine residue forms a cation−π
+interaction with the dienophile, which lowers the free energy barrier
+for the exo-pathway and thereby regulates selectivity.
+The evolutionary origin of MaDA and MaMO was also investigated and
+suggested their Diels–Alderase and oxidative dehydrogenation
+activity to have originated from a gene duplication and subsequent
+neofunctionalization of an oxidocyclase.139 Nevertheless, the exact function of the FAD cofactor in MaDA remains
+ambiguous. The first example is the Diels–Alderase
+named MaDA,33,137 already briefly mentioned during
+the biosynthesis of morachalcone A in mulberry plants (Scheme 18b). After oxidation of the
+isoprenyl moiety of moracin C by the BBE-like oxidase MaMO, MaDA enables
+a [4 + 2] cycloaddition reaction making it the first stand-alone intermolecular
+Diels–Alderase. Multiple controls were performed to understand
+the role of the FAD cofactor in MaDa, including mutagenesis of the
+His116 residue that is critical for covalent FAD attachment and cofactor
+reduction using sodium dithionite. This mutation rendered MaDA almost
+inactive, thereby exemplifying that the (oxidized) FAD cofactor is
+necessary for the endo [4 + 2] cycloaddition. Moreover,
+homologous Diels–Alderases were discovered that could catalyze
+the same intermolecular Diels–Alder reaction with exo-selectivity.138 Mutagenesis studies demonstrated
+key residues involved in activating the dienophile through hydrogen
+bonding interactions and positioning the diene via π–π
+interactions for endo-selectivity. While for opposite
+selectivity a crucial arginine residue forms a cation−π
+interaction with the dienophile, which lowers the free energy barrier
+for the exo-pathway and thereby regulates selectivity.
+The evolutionary origin of MaDA and MaMO was also investigated and
+suggested their Diels–Alderase and oxidative dehydrogenation
+activity to have originated from a gene duplication and subsequent
+neofunctionalization of an oxidocyclase.139 Nevertheless, the exact function of the FAD cofactor in MaDA remains
+ambiguous. The first example is the Diels–Alderase
+named MaDA,33,137 already briefly mentioned during
+the biosynthesis of morachalcone A in mulberry plants (Scheme 18b). After oxidation of the
+isoprenyl moiety of moracin C by the BBE-like oxidase MaMO, MaDA enables
+a [4 + 2] cycloaddition reaction making it the first stand-alone intermolecular
+Diels–Alderase. Multiple controls were performed to understand
+the role of the FAD cofactor in MaDa, including mutagenesis of the
+His116 residue that is critical for covalent FAD attachment and cofactor
+reduction using sodium dithionite. This mutation rendered MaDA almost
+inactive, thereby exemplifying that the (oxidized) FAD cofactor is
+necessary for the endo [4 + 2] cycloaddition. Moreover,
+homologous Diels–Alderases were discovered that could catalyze
+the same intermolecular Diels–Alder reaction with exo-selectivity.138 Mutagenesis studies demonstrated
+key residues involved in activating the dienophile through hydrogen
+bonding interactions and positioning the diene via π–π
+interactions for endo-selectivity. While for opposite
+selectivity a crucial arginine residue forms a cation−π
+interaction with the dienophile, which lowers the free energy barrier
+for the exo-pathway and thereby regulates selectivity.
+The evolutionary origin of MaDA and MaMO was also investigated and
+suggested their Diels–Alderase and oxidative dehydrogenation
+activity to have originated from a gene duplication and subsequent
+neofunctionalization of an oxidocyclase.139 Nevertheless, the exact function of the FAD cofactor in MaDA remains
+ambiguous. Another example is the enzyme SthB, involved in the
+biosynthesis
+of the phytotoxic polyketide stemphyloxin II.140 A highly similar (74% seq. id.) enzyme has been found in
+betaenone B and C-producing Phoma betae.141 The striking aspect about SthB is that it catalyzes
+a stereoselective aldol reaction to form a bridged tricyclo[6.2.2.02,7]dodecane scaffold (Scheme 34). The intramolecular aldol reaction is hypothesized to proceed
+via the standard base-catalyzed aldol reaction that is nonoxidative.
+SthB allows for a proton abstraction thereby producing the nucleophilic
+enolate that attacks the C1-carbonyl on the decalin ring, forming
+stemphyloxin II. No hydride is being transferred to the N5 atom of
+the FAD and the role (if any) of the cofactor in SthB has remained
+unexplored, pending additional biochemical characterization.142 Another example is the enzyme SthB, involved in the
+biosynthesis
+of the phytotoxic polyketide stemphyloxin II.140 A highly similar (74% seq. id.) enzyme has been found in
+betaenone B and C-producing Phoma betae.141 The striking aspect about SthB is that it catalyzes
+a stereoselective aldol reaction to form a bridged tricyclo[6.2.2.02,7]dodecane scaffold (Scheme 34). The intramolecular aldol reaction is hypothesized to proceed
+via the standard base-catalyzed aldol reaction that is nonoxidative.
+SthB allows for a proton abstraction thereby producing the nucleophilic
+enolate that attacks the C1-carbonyl on the decalin ring, forming
+stemphyloxin II. No hydride is being transferred to the N5 atom of
+the FAD and the role (if any) of the cofactor in SthB has remained
+unexplored, pending additional biochemical characterization.142 Another example is the enzyme SthB, involved in the
+biosynthesis
+of the phytotoxic polyketide stemphyloxin II.140 A highly similar (74% seq. id.) enzyme has been found in
+betaenone B and C-producing Phoma betae.141 The striking aspect about SthB is that it catalyzes
+a stereoselective aldol reaction to form a bridged tricyclo[6.2.2.02,7]dodecane scaffold (Scheme 34). The intramolecular aldol reaction is hypothesized to proceed
+via the standard base-catalyzed aldol reaction that is nonoxidative.
+SthB allows for a proton abstraction thereby producing the nucleophilic
+enolate that attacks the C1-carbonyl on the decalin ring, forming
+stemphyloxin II. No hydride is being transferred to the N5 atom of
+the FAD and the role (if any) of the cofactor in SthB has remained
+unexplored, pending additional biochemical characterization.142 Scheme 34Stereoselective Aldol Reaction Synthesizing
+Stemphyloxin II is Hypothesized
+to Go via a Nonoxidative Base-Catalyzed Aldol Reaction in SthB Scheme 34Stereoselective Aldol Reaction Synthesizing
+Stemphyloxin II is Hypothesized
+to Go via a Nonoxidative Base-Catalyzed Aldol Reaction in SthB Scheme 34Stereoselective Aldol Reaction Synthesizing
+Stemphyloxin II is Hypothesized
+to Go via a Nonoxidative Base-Catalyzed Aldol Reaction in SthB Stereoselective Aldol Reaction Synthesizing
+Stemphyloxin II is Hypothesized
+to Go via a Nonoxidative Base-Catalyzed Aldol Reaction in SthB Stereoselective Aldol Reaction Synthesizing
+Stemphyloxin II is Hypothesized
+to Go via a Nonoxidative Base-Catalyzed Aldol Reaction in SthB Stereoselective Aldol Reaction Synthesizing
+Stemphyloxin II is Hypothesized
+to Go via a Nonoxidative Base-Catalyzed Aldol Reaction in SthB Another peculiar BBE-like oxidase is called
+AspoA, which is involved
+in the biosynthesis of cytochalasans, fungal polyketide-nonribosomal
+peptides with antibiotic properties (PK-NRPs).143,144 Interestingly, this flavoenzyme from Aspergillus flavipes does not perform a dehydrogenation reaction but acts as general
+acid biocatalyst to catalyze double bond isomerization (Scheme 35). Addition of
+FAD did not increase activity, and deletion of His158, which covalently
+tethers the cofactor, did not decrease activity. A site-directed mutagenesis
+study was performed to identify the crucial residues and showed that
+Glu538 was highly conserved as mutagenesis caused a halt in activity.
+Isotope labeling studies confirmed that the double bond isomerization
+proceeds via protonation of the C21 carbonyl group, a hydride shift,
+and a keto–enol tautomerization. AspoA homologues such as ffsJ
+(85% seq. id.) from A. flavipes(145) and PhmC (60% seq. id.) from P. nodorum(146) might potentially perform similar
+reactions as they both harbor the conserved glutamate residue. Another peculiar BBE-like oxidase is called
+AspoA, which is involved
+in the biosynthesis of cytochalasans, fungal polyketide-nonribosomal
+peptides with antibiotic properties (PK-NRPs).143,144 Interestingly, this flavoenzyme from Aspergillus flavipes does not perform a dehydrogenation reaction but acts as general
+acid biocatalyst to catalyze double bond isomerization (Scheme 35). Addition of
+FAD did not increase activity, and deletion of His158, which covalently
+tethers the cofactor, did not decrease activity. A site-directed mutagenesis
+study was performed to identify the crucial residues and showed that
+Glu538 was highly conserved as mutagenesis caused a halt in activity.
+Isotope labeling studies confirmed that the double bond isomerization
+proceeds via protonation of the C21 carbonyl group, a hydride shift,
+and a keto–enol tautomerization. AspoA homologues such as ffsJ
+(85% seq. id.) from A. flavipes(145) and PhmC (60% seq. id.) from P. nodorum(146) might potentially perform similar
+reactions as they both harbor the conserved glutamate residue. Another peculiar BBE-like oxidase is called
+AspoA, which is involved
+in the biosynthesis of cytochalasans, fungal polyketide-nonribosomal
+peptides with antibiotic properties (PK-NRPs).143,144 Interestingly, this flavoenzyme from Aspergillus flavipes does not perform a dehydrogenation reaction but acts as general
+acid biocatalyst to catalyze double bond isomerization (Scheme 35). Addition of
+FAD did not increase activity, and deletion of His158, which covalently
+tethers the cofactor, did not decrease activity. A site-directed mutagenesis
+study was performed to identify the crucial residues and showed that
+Glu538 was highly conserved as mutagenesis caused a halt in activity.
+Isotope labeling studies confirmed that the double bond isomerization
+proceeds via protonation of the C21 carbonyl group, a hydride shift,
+and a keto–enol tautomerization. AspoA homologues such as ffsJ
+(85% seq. id.) from A. flavipes(145) and PhmC (60% seq. id.) from P. nodorum(146) might potentially perform similar
+reactions as they both harbor the conserved glutamate residue. Scheme 35AspoA Acting as a General Acid Biocatalyst Performing a Double Bond
+Isomerization Reaction Scheme 35AspoA Acting as a General Acid Biocatalyst Performing a Double Bond
+Isomerization Reaction Scheme 35AspoA Acting as a General Acid Biocatalyst Performing a Double Bond
+Isomerization Reaction AspoA Acting as a General Acid Biocatalyst Performing a Double Bond
+Isomerization Reaction AspoA Acting as a General Acid Biocatalyst Performing a Double Bond
+Isomerization Reaction AspoA Acting as a General Acid Biocatalyst Performing a Double Bond
+Isomerization Reaction A distinctive flavoenzyme named PylE was recently found in the
+biosynthetic gene cluster of Setosphaeria sp. SCSIO41009,
+responsible for the synthesis of pyrenophorol dilactones.147 Similar to AspoA (30% seq id), this flavoprotein
+also catalyzes an isomerization reaction.143 In this case, PylE catalyzes the isomerization of the 4-alcohol-2,3-unsaturated
+moiety of pyrenophorol, producing a 1,4-diketone. Two mechanisms were
+hypothesized for the isomerization reaction (Scheme 36). In the first mechanism, it was proposed
+that oxidation of the C4 hydroxyl occurs first, after which a hydride
+is transferred from FAD to C3 to create the enol intermediate. Tautomerization
+then leads to the first ketone product. Another isomerization round
+would then yield the final 1,4-diketone product. The second mechanism
+goes via initial protonation of the C1 carbonyl, after which the C4
+proton is abstracted to form the enol intermediate. Tautomerization
+and subsequent isomerization of this intermediate create the 1,4-diketone
+product. Mutagenesis studies proved acid–base residue Glu526
+to be a crucial residue for catalytic activity. With the help of docking,
+the authors showed this residue to be in the vicinity of the C1 carbonyl
+group and therefore could function as a general acid and base in route
+b. In contrast to AspoA, mutating the conserved His153 necessary for
+covalent tethering of the FAD cofactor abolished PylE’s activity.
+This would suggest its involvement in isomerase activity, but a complete
+mechanistic study is yet to be performed. A distinctive flavoenzyme named PylE was recently found in the
+biosynthetic gene cluster of Setosphaeria sp. SCSIO41009,
+responsible for the synthesis of pyrenophorol dilactones.147 Similar to AspoA (30% seq id), this flavoprotein
+also catalyzes an isomerization reaction.143 In this case, PylE catalyzes the isomerization of the 4-alcohol-2,3-unsaturated
+moiety of pyrenophorol, producing a 1,4-diketone. Two mechanisms were
+hypothesized for the isomerization reaction (Scheme 36). In the first mechanism, it was proposed
+that oxidation of the C4 hydroxyl occurs first, after which a hydride
+is transferred from FAD to C3 to create the enol intermediate. Tautomerization
+then leads to the first ketone product. Another isomerization round
+would then yield the final 1,4-diketone product. The second mechanism
+goes via initial protonation of the C1 carbonyl, after which the C4
+proton is abstracted to form the enol intermediate. Tautomerization
+and subsequent isomerization of this intermediate create the 1,4-diketone
+product. Mutagenesis studies proved acid–base residue Glu526
+to be a crucial residue for catalytic activity. With the help of docking,
+the authors showed this residue to be in the vicinity of the C1 carbonyl
+group and therefore could function as a general acid and base in route
+b. In contrast to AspoA, mutating the conserved His153 necessary for
+covalent tethering of the FAD cofactor abolished PylE’s activity.
+This would suggest its involvement in isomerase activity, but a complete
+mechanistic study is yet to be performed. A distinctive flavoenzyme named PylE was recently found in the
+biosynthetic gene cluster of Setosphaeria sp. SCSIO41009,
+responsible for the synthesis of pyrenophorol dilactones.147 Similar to AspoA (30% seq id), this flavoprotein
+also catalyzes an isomerization reaction.143 In this case, PylE catalyzes the isomerization of the 4-alcohol-2,3-unsaturated
+moiety of pyrenophorol, producing a 1,4-diketone. Two mechanisms were
+hypothesized for the isomerization reaction (Scheme 36). In the first mechanism, it was proposed
+that oxidation of the C4 hydroxyl occurs first, after which a hydride
+is transferred from FAD to C3 to create the enol intermediate. Tautomerization
+then leads to the first ketone product. Another isomerization round
+would then yield the final 1,4-diketone product. The second mechanism
+goes via initial protonation of the C1 carbonyl, after which the C4
+proton is abstracted to form the enol intermediate. Tautomerization
+and subsequent isomerization of this intermediate create the 1,4-diketone
+product. Mutagenesis studies proved acid–base residue Glu526
+to be a crucial residue for catalytic activity. With the help of docking,
+the authors showed this residue to be in the vicinity of the C1 carbonyl
+group and therefore could function as a general acid and base in route
+b. In contrast to AspoA, mutating the conserved His153 necessary for
+covalent tethering of the FAD cofactor abolished PylE’s activity.
+This would suggest its involvement in isomerase activity, but a complete
+mechanistic study is yet to be performed. Scheme 36(a) First Proposed
+Mechanistic Route Used by PylE to Produce the
+1,4-Diketone Product and (b) the Second Proposed Route of PylE Using
+an Acid–Base Residue for the Synthesis of the 1,4-Diketone
+Product Scheme 36(a) First Proposed
+Mechanistic Route Used by PylE to Produce the
+1,4-Diketone Product and (b) the Second Proposed Route of PylE Using
+an Acid–Base Residue for the Synthesis of the 1,4-Diketone
+Product Scheme 36(a) First Proposed
+Mechanistic Route Used by PylE to Produce the
+1,4-Diketone Product and (b) the Second Proposed Route of PylE Using
+an Acid–Base Residue for the Synthesis of the 1,4-Diketone
+Product (a) First Proposed
+Mechanistic Route Used by PylE to Produce the
+1,4-Diketone Product and (b) the Second Proposed Route of PylE Using
+an Acid–Base Residue for the Synthesis of the 1,4-Diketone
+Product (a) First Proposed
+Mechanistic Route Used by PylE to Produce the
+1,4-Diketone Product and (b) the Second Proposed Route of PylE Using
+an Acid–Base Residue for the Synthesis of the 1,4-Diketone
+Product (a) First Proposed
+Mechanistic Route Used by PylE to Produce the
+1,4-Diketone Product and (b) the Second Proposed Route of PylE Using
+an Acid–Base Residue for the Synthesis of the 1,4-Diketone
+Product For a long time, oxygenation
+reactions were commonly thought to
+be catalyzed by FAD-dependent monooxygenases using the Fl4aOOH species.9 Nevertheless, in 2013, the
+BBE-like enzyme named EncM was shown to feature a different oxygenating
+species termed as the flavin-N5-oxide (FlN5O).148,149 This oxygenase is part of a BGC in Streptomyces maritimus, forming enterocin, an unusual polyketide antibiotic. The FlN5O species triggers a Favorskii rearrangement by simultaneous
+hydroxylation and dehydrogenation (Scheme 37), reminiscent of the postredox cyclization
+reactions such as Sol5.35,55 So far, EncM has been
+the only enzyme employing the flavin-N5-oxide intermediate for catalysis
+within the BBE-like subfamily of oxidoreductases. Nevertheless, this
+exception sparked the investigation on the versatility of the N5 position
+and expanded the repertoire of known flavin catalyzed reactions.150 For a long time, oxygenation
+reactions were commonly thought to
+be catalyzed by FAD-dependent monooxygenases using the Fl4aOOH species.9 Nevertheless, in 2013, the
+BBE-like enzyme named EncM was shown to feature a different oxygenating
+species termed as the flavin-N5-oxide (FlN5O).148,149 This oxygenase is part of a BGC in Streptomyces maritimus, forming enterocin, an unusual polyketide antibiotic. The FlN5O species triggers a Favorskii rearrangement by simultaneous
+hydroxylation and dehydrogenation (Scheme 37), reminiscent of the postredox cyclization
+reactions such as Sol5.35,55 So far, EncM has been
+the only enzyme employing the flavin-N5-oxide intermediate for catalysis
+within the BBE-like subfamily of oxidoreductases. Nevertheless, this
+exception sparked the investigation on the versatility of the N5 position
+and expanded the repertoire of known flavin catalyzed reactions.150 For a long time, oxygenation
+reactions were commonly thought to
+be catalyzed by FAD-dependent monooxygenases using the Fl4aOOH species.9 Nevertheless, in 2013, the
+BBE-like enzyme named EncM was shown to feature a different oxygenating
+species termed as the flavin-N5-oxide (FlN5O).148,149 This oxygenase is part of a BGC in Streptomyces maritimus, forming enterocin, an unusual polyketide antibiotic. The FlN5O species triggers a Favorskii rearrangement by simultaneous
+hydroxylation and dehydrogenation (Scheme 37), reminiscent of the postredox cyclization
+reactions such as Sol5.35,55 So far, EncM has been
+the only enzyme employing the flavin-N5-oxide intermediate for catalysis
+within the BBE-like subfamily of oxidoreductases. Nevertheless, this
+exception sparked the investigation on the versatility of the N5 position
+and expanded the repertoire of known flavin catalyzed reactions.150 Scheme 37Oxygenation Reaction of EncM Using the
+Flavin-N5-Oxide Species Allowing
+the Synthesis of the Natural Product Enterocin Scheme 37Oxygenation Reaction of EncM Using the
+Flavin-N5-Oxide Species Allowing
+the Synthesis of the Natural Product Enterocin Scheme 37Oxygenation Reaction of EncM Using the
+Flavin-N5-Oxide Species Allowing
+the Synthesis of the Natural Product Enterocin Oxygenation Reaction of EncM Using the
+Flavin-N5-Oxide Species Allowing
+the Synthesis of the Natural Product Enterocin Oxygenation Reaction of EncM Using the
+Flavin-N5-Oxide Species Allowing
+the Synthesis of the Natural Product Enterocin Oxygenation Reaction of EncM Using the
+Flavin-N5-Oxide Species Allowing
+the Synthesis of the Natural Product Enterocin Conclusion Conclusion The BBE-like oxidases from the vanillyl-alcohol
+oxidase/p-cresol methyl hydroxylase flavoprotein
+family are fascinating
+enzymes exhibiting extraordinary chemical activities. The ability
+to transfer a hydride atom to the FAD cofactor enables complex substrate
+modifications and rearrangements, including intramolecular cyclizations,
+Diels–Alder reactions, Michael additions, and hydroxylations.
+This leads to a structurally and functionally diverse number of natural
+products in bacteria, plants, and fungi. A mechanistically recurrent
+theme of most of these enzymes is the ability to elicit molecular
+skeleton rearrangements triggered by an initial oxidation step through
+hydride transfer to the FAD. However, there are also cases in which
+the exact involvement of the FAD cofactor still remains unknown or
+in which the FAD cofactor utilizes a different oxygenating species.
+There is a plethora of uncharacterized BBE-like enzymes, and genomic
+context is needed to predict their functions. Understanding the natural
+mechanisms that are employed to generate the incredible diversity
+of natural products is a topic of great interest in biochemistry for
+its fundamental implications in the field. Hence, the study and characterization
+of these new enzymes will allow us to uncover more unique biochemical
+activities. The BBE-like oxidases from the vanillyl-alcohol
+oxidase/p-cresol methyl hydroxylase flavoprotein
+family are fascinating
+enzymes exhibiting extraordinary chemical activities. The ability
+to transfer a hydride atom to the FAD cofactor enables complex substrate
+modifications and rearrangements, including intramolecular cyclizations,
+Diels–Alder reactions, Michael additions, and hydroxylations.
+This leads to a structurally and functionally diverse number of natural
+products in bacteria, plants, and fungi. A mechanistically recurrent
+theme of most of these enzymes is the ability to elicit molecular
+skeleton rearrangements triggered by an initial oxidation step through
+hydride transfer to the FAD. However, there are also cases in which
+the exact involvement of the FAD cofactor still remains unknown or
+in which the FAD cofactor utilizes a different oxygenating species.
+There is a plethora of uncharacterized BBE-like enzymes, and genomic
+context is needed to predict their functions. Understanding the natural
+mechanisms that are employed to generate the incredible diversity
+of natural products is a topic of great interest in biochemistry for
+its fundamental implications in the field. Hence, the study and characterization
+of these new enzymes will allow us to uncover more unique biochemical
+activities. The authors declare
+no
+competing financial interest. Acknowledgments We thank Dr. Maria-Laura
+Mascotti for helping to
+identify different BBE-like enzymes by exploring structural and sequence
+databases. We thank Dr. Miloš Trajković for the useful
+discussions on chemical mechanisms and for providing critical feedback. References

@@ -1,0 +1,26 @@
+ Pedobacter cryoconitis strain UP508 was isolated
+from a soil sample using a mixture of ampicillin, kanamycin, and nalidixic
+acid for selection. UP508 was found to produce >30 unknown antibacterial
+peptides, of which eight, isopedopeptins A–H (1–8), were isolated by bioassay-guided fractionation
+and characterized with respect to structures and biological properties.
+Compounds 1–8 were all composed of
+nine amino acid residues and one 3-hydroxy fatty acid residue, and
+the structures were ring-closed via an ester bond from the C-terminal
+aspartic acid to the 3-hydroxy fatty acid. The differences between
+the peptides were the size and branching of the 3-hydroxy fatty acid
+and the presence of a valine or a 3-hydroxyvaline residue. The isopedopeptins
+mainly had activity against Gram-negative bacteria, and isopedopeptin
+B (2), which had the best combination of antibacterial
+activity, in vitro cytotoxicity, and hemolytic properties,
+was selected for further studies against a larger panel of Gram-negative
+bacteria. Isopedopeptin B was found to have good activity against
+strains of WHO top-priority Gram-negative bacteria, i.e., carbapenem-resistant Acinetobacter baumannii, Escherichia coli, and Pseudomonas aeruginosa, with minimal inhibitory
+concentrations (MIC) down to 1, 2, and 4 μg/mL, respectively.
+Furthermore, compound 2 had activity against colistin-resistant
+strains of A. baumannii, E. coli, and Klebsiella pneumoniae, with a MIC down to
+8, 2, and 4 μg/mL, respectively. Compound 6 was
+tested in an E. coli liposome system where it induced
+significant leakage, indicating membrane disruption as one mechanism
+involved in isopedopeptin antibacterial activity. Isopedopeptin B
+stands out as a promising candidate for further studies with the goal
+to develop a new antibiotic drug.

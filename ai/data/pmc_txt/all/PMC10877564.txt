@@ -1,0 +1,1501 @@
+ Recent advances in
+sequencing techniques unveiled the vast potential
+of ribosomally synthesized and post-translationally modified peptides
+(RiPPs) encoded in microbiomes. Class I lantibiotics such as nisin
+A, widely used as a food preservative, have been investigated for
+their efficacy in killing pathogens. However, the impact of nisin
+and nisin-like class I lantibiotics on commensal bacteria residing
+in the human gut remains unclear. Here, we report six gut-derived
+class I lantibiotics that are close homologues of nisin, four of which
+are novel. We applied an improved lantibiotic expression platform
+to produce and purify these lantibiotics for antimicrobial assays.
+We determined their minimal inhibitory concentration (MIC) against
+both Gram-positive human pathogens and gut commensals and profiled
+the lantibiotic resistance genes in these pathogens and commensals.
+Structure–activity relationship (SAR) studies with analogs
+revealed key regions and residues that impact their antimicrobial
+properties. Our characterization and SAR studies of nisin-like lantibiotics
+against both pathogens and human gut commensals could shed light on
+the future development of lantibiotic-based therapeutics and food
+preservatives. Introduction Introduction Bacteria have evolved in an intense competition
+with other microbes
+in complex environments. In order to make niche clearance or to establish
+colonization resistance in the community, many bacteria produce bacteriocins
+to kill microbial competitors.1 Bacteriocins
+can function as natural food preservatives through the inhibition
+of pathogenic bacteria, ultimately contributing to food safety.2 Ribosomally synthesized and post-translationally
+modified peptides (RiPPs) are a major class of bacteriocins that exhibit
+a broad spectrum of antimicrobial activities against Gram-positive
+and Gram-negative bacteria including Staphylococcus
+aureus, Enterococcus faecalis, and Escherichia coli.3−5 The biosynthesis of RiPPs starts with a gene-encoded precursor peptide,
+which comprises a C-terminal core peptide fused to an N-terminal leader
+peptide.6 The leader peptide is recognized
+by modification enzymes that are usually encoded in the same biosynthetic
+gene cluster (BGC) to receive post-translational modifications on
+the core peptide. Subsequently, the leader peptide is removed by protease
+cleavage to yield the mature peptide with desired bioactivity.7,8 Bioinformatic studies have found great potential for RiPP discovery
+from the microbiome.9 Recent advances in
+metagenomic sequencing and assembly have made vast amounts of environmental
+microbial genomes available for investigation. Mining algorithms of
+BGCs with machine learning are also developed to accommodate rapidly
+increasing metagenomic data sets.7,10 Lanthipeptides
+are a very large family of RiPPs that are characterized by thioether
+cross-links called lanthionine and methyllanthionine.11 The bioinformatic tool Rapid ORF Description & Evaluation
+Online (RODEO)12 has been used to discover
+novel lanthipeptide families from more than 100 000 genomes.13 Bacteria have evolved in an intense competition
+with other microbes
+in complex environments. In order to make niche clearance or to establish
+colonization resistance in the community, many bacteria produce bacteriocins
+to kill microbial competitors.1 Bacteriocins
+can function as natural food preservatives through the inhibition
+of pathogenic bacteria, ultimately contributing to food safety.2 Ribosomally synthesized and post-translationally
+modified peptides (RiPPs) are a major class of bacteriocins that exhibit
+a broad spectrum of antimicrobial activities against Gram-positive
+and Gram-negative bacteria including Staphylococcus
+aureus, Enterococcus faecalis, and Escherichia coli.3−5 The biosynthesis of RiPPs starts with a gene-encoded precursor peptide,
+which comprises a C-terminal core peptide fused to an N-terminal leader
+peptide.6 The leader peptide is recognized
+by modification enzymes that are usually encoded in the same biosynthetic
+gene cluster (BGC) to receive post-translational modifications on
+the core peptide. Subsequently, the leader peptide is removed by protease
+cleavage to yield the mature peptide with desired bioactivity.7,8 Bioinformatic studies have found great potential for RiPP discovery
+from the microbiome.9 Recent advances in
+metagenomic sequencing and assembly have made vast amounts of environmental
+microbial genomes available for investigation. Mining algorithms of
+BGCs with machine learning are also developed to accommodate rapidly
+increasing metagenomic data sets.7,10 Lanthipeptides
+are a very large family of RiPPs that are characterized by thioether
+cross-links called lanthionine and methyllanthionine.11 The bioinformatic tool Rapid ORF Description & Evaluation
+Online (RODEO)12 has been used to discover
+novel lanthipeptide families from more than 100 000 genomes.13 Lantibiotics, coined by combining “lanthipeptide”
+and “antibiotics”, are a class of RiPPs that have garnered
+significant attention due to their potent antimicrobial properties
+and wide application in the food industry. The thioether macrocycles
+in class I lantibiotics are installed in a two-step process.11 LanB dehydrates Ser and Thr residues in the
+LanA precursor peptides to generate dehydroalanine (Dha) and dehydrobutyrine
+(Dhb), respectively. The dehydration is followed by LanC catalyzing
+the intramolecular Michael-type addition of Cys residues to Dha or
+Dhb, forming lanthionine or methyllanthionine. The catalytic activity
+of LanB depends on glutamyl-tRNA synthetase (GluRS) and tRNAGlu,14 and LanBs display sequence selectivity
+toward the tRNAGlu acceptor stem.15 Previous studies have demonstrated that introducing GluRS and tRNAGlu from the native lanthipeptide-producing organism could
+improve the production of fully modified peptides in E. coli.15,16 Using this information,
+an improved production platform has been established for facile production
+of class I lanthipeptides in E. coli.17 Lantibiotics, coined by combining “lanthipeptide”
+and “antibiotics”, are a class of RiPPs that have garnered
+significant attention due to their potent antimicrobial properties
+and wide application in the food industry. The thioether macrocycles
+in class I lantibiotics are installed in a two-step process.11 LanB dehydrates Ser and Thr residues in the
+LanA precursor peptides to generate dehydroalanine (Dha) and dehydrobutyrine
+(Dhb), respectively. The dehydration is followed by LanC catalyzing
+the intramolecular Michael-type addition of Cys residues to Dha or
+Dhb, forming lanthionine or methyllanthionine. The catalytic activity
+of LanB depends on glutamyl-tRNA synthetase (GluRS) and tRNAGlu,14 and LanBs display sequence selectivity
+toward the tRNAGlu acceptor stem.15 Previous studies have demonstrated that introducing GluRS and tRNAGlu from the native lanthipeptide-producing organism could
+improve the production of fully modified peptides in E. coli.15,16 Using this information,
+an improved production platform has been established for facile production
+of class I lanthipeptides in E. coli.17 Blauticin, a class I lantibiotic produced
+by the gut commensal
+bacteria Blautia producta SCSK (BPSCSK), exerts colonization resistance and clearance of vancomycin-resistant Enterococci (VRE) in vivo.18 A
+previous study showed that the in vivo VRE colonization in colon was
+inhibited by BPSCSK but not by Lactococcus
+lactis, the producing strain of the well-studied class
+I lantibiotic nisin.18 In comparison to
+nisin, blauticin has reduced activity against intestinal commensal
+bacteria in vitro.18 Nisin binds lipid
+II and inhibits peptidoglycan biosynthesis through its N-terminal
+rings, and forms pores in the bacterial membrane that also involves
+the C terminus of the peptide.19−21 These pores are made up of eight
+nisin molecules and four lipid II molecules.22 Extensive efforts have been made to reveal the structure–activity
+relationship (SAR) of nisin and its antimicrobial efficacy.23−25 However, the SAR of blauticin and its bioactivities against pathogens
+and human gut commensals remain to be elucidated. Blauticin, a class I lantibiotic produced
+by the gut commensal
+bacteria Blautia producta SCSK (BPSCSK), exerts colonization resistance and clearance of vancomycin-resistant Enterococci (VRE) in vivo.18 A
+previous study showed that the in vivo VRE colonization in colon was
+inhibited by BPSCSK but not by Lactococcus
+lactis, the producing strain of the well-studied class
+I lantibiotic nisin.18 In comparison to
+nisin, blauticin has reduced activity against intestinal commensal
+bacteria in vitro.18 Nisin binds lipid
+II and inhibits peptidoglycan biosynthesis through its N-terminal
+rings, and forms pores in the bacterial membrane that also involves
+the C terminus of the peptide.19−21 These pores are made up of eight
+nisin molecules and four lipid II molecules.22 Extensive efforts have been made to reveal the structure–activity
+relationship (SAR) of nisin and its antimicrobial efficacy.23−25 However, the SAR of blauticin and its bioactivities against pathogens
+and human gut commensals remain to be elucidated. The sensitivity
+of human gut commensals to nisin that is widely
+present in food26 has been surprisingly
+underexplored. Gram-positive human gut commensals, especially those
+within the Lachnospiraceae family of Bacillota (previously Firmicutes),
+are major producers of secondary metabolites such as short-chain fatty
+acids and secondary bile acids, which are crucial in contributing
+to the stability of the gut microbiome and host immune homeostasis.27 Orally ingested nisin A induced sizable but
+reversible changes in microbial composition and metabolic activities
+of the gut microbiome in pigs28 and in
+mice.29 SAR studies of lantibiotics including
+blauticin and their potencies on human gut commensals will guide the
+future potential development of novel preservatives that could cause
+less collateral damage to human microbial communities. Genetic screening
+in pathogens and lantibiotic-producing organisms has identified multiple
+mechanisms of resistance against lantibiotics. These include cell
+wall modifications, cell membrane modifications, and efflux pumps,
+among others.30 However, whether these
+mechanisms exist in human gut commensals and how they may impact lantibiotic
+resistance in human gut commensals remain to be studied. The sensitivity
+of human gut commensals to nisin that is widely
+present in food26 has been surprisingly
+underexplored. Gram-positive human gut commensals, especially those
+within the Lachnospiraceae family of Bacillota (previously Firmicutes),
+are major producers of secondary metabolites such as short-chain fatty
+acids and secondary bile acids, which are crucial in contributing
+to the stability of the gut microbiome and host immune homeostasis.27 Orally ingested nisin A induced sizable but
+reversible changes in microbial composition and metabolic activities
+of the gut microbiome in pigs28 and in
+mice.29 SAR studies of lantibiotics including
+blauticin and their potencies on human gut commensals will guide the
+future potential development of novel preservatives that could cause
+less collateral damage to human microbial communities. Genetic screening
+in pathogens and lantibiotic-producing organisms has identified multiple
+mechanisms of resistance against lantibiotics. These include cell
+wall modifications, cell membrane modifications, and efflux pumps,
+among others.30 However, whether these
+mechanisms exist in human gut commensals and how they may impact lantibiotic
+resistance in human gut commensals remain to be studied. Here,
+we applied RODEO to the public RefSeq database to uncover
+novel nisin-like class I lantibiotics encoded in gut microbial genomes.
+After applying filtering criteria, six gut-derived class I lantibiotics
+that are close homologues of nisin were discovered, four of which
+were new. We applied the improved lantibiotic expression platform
+to produce and purify these lantibiotics for antimicrobial assays
+and determined their minimal inhibitory concentration (MIC) against
+both Gram-positive human pathogens and gut commensals. Furthermore,
+we profiled the lantibiotic resistance genes in these pathogens and
+commensals. Detailed SAR studies with the nisin-like analogs revealed
+key regions and residues in these lantibiotics that impact the antimicrobial
+properties. Our characterization and SAR studies of class I lantibiotics
+against both pathogens and human gut commensals could shed light on
+the future development of lantibiotic-based therapeutics and food
+preservatives. Here,
+we applied RODEO to the public RefSeq database to uncover
+novel nisin-like class I lantibiotics encoded in gut microbial genomes.
+After applying filtering criteria, six gut-derived class I lantibiotics
+that are close homologues of nisin were discovered, four of which
+were new. We applied the improved lantibiotic expression platform
+to produce and purify these lantibiotics for antimicrobial assays
+and determined their minimal inhibitory concentration (MIC) against
+both Gram-positive human pathogens and gut commensals. Furthermore,
+we profiled the lantibiotic resistance genes in these pathogens and
+commensals. Detailed SAR studies with the nisin-like analogs revealed
+key regions and residues in these lantibiotics that impact the antimicrobial
+properties. Our characterization and SAR studies of class I lantibiotics
+against both pathogens and human gut commensals could shed light on
+the future development of lantibiotic-based therapeutics and food
+preservatives. Results Results Mining of Class I Lantibiotics
+from the Gut Mining of Class I Lantibiotics
+from the Gut Mining of Class I Lantibiotics
+from the Gut To find
+novel class I lantibiotic sequences from the gut, we adopted a workflow
+shown in Figure 1A.
+We applied RODEO,12 an algorithm previously
+used to identify lanthipeptide sequences in large numbers of genomes,13 to the RefSeq database. RODEO uses a hidden
+Markov model to mine for RiPP BGCs and predict precursor peptides
+by the combination of heuristic scoring and machine learning.12 We restricted our search to bacterial genomes
+whose representatives were reported to be found in mammalian guts.
+From this approach, we identified 41 unique lanthipeptide candidates
+(Supporting Information). To find close
+homologues of nisin and related lantibiotics, we filtered the results
+based on the following criteria. First, we set a maximum on the peptide
+length. Because both nisin A and blauticin have 57 residues, including
+the leader peptide, any length significantly longer than that was
+unlikely to yield nisin-like lantibiotics. Indeed, WP_117994378.1_29961,
+a candidate with a length of 71, showed minimal sequence similarity
+to nisin A (Figure S1). We therefore set
+the maximum length as 72 residues. Second, the cysteine positions
+in the peptide needed to align with the ring-forming Cys residues
+in nisin A and blauticin based on a multiple sequence alignment (Figure S1). We further consolidated sequences
+that differed only in leader sequences but were the same in the core
+peptide. Six unique class I lantibiotic sequences, including two known
+examples, blauticin from B. producta and nisin O from Blautia obeum,31 were identified (Figure 1B, Supporting Information). In fact, the blauticin precursor peptide was also found in Blautia coccoides and nisin O was also found within
+a Faecalicatena contorta genome. The
+sequences of four novel nisin-like class I lantibiotic candidates
+were compared to the prototypical lantibiotics nisin A and blauticin,
+as shown in Figure 1B. Lan-Df from Dorea formicigenerans was identified to be a close homologue of nisin O, with one amino
+acid different from nisin O in ring A. Lan-CE02 from Clostridium sp. E02 further deviates from the prototype lantibiotics with unique
+residues spanning across the peptide. We discovered two variants,
+Lan-P49.1 and Lan-P49.2, from the same genome of Pseudobutyrivibrio sp. 49. Lan-P49.1 and Lan-P49.2 both share the same sequences as
+blauticin in ring A and B at the N termini of the peptides, but the
+C-termini of the peptides including the hinge region between rings
+C and D are different from nisin A and blauticin. This hinge region
+has been shown to be important for pore formation and antimicrobial
+activity.32−35 To find
+novel class I lantibiotic sequences from the gut, we adopted a workflow
+shown in Figure 1A.
+We applied RODEO,12 an algorithm previously
+used to identify lanthipeptide sequences in large numbers of genomes,13 to the RefSeq database. RODEO uses a hidden
+Markov model to mine for RiPP BGCs and predict precursor peptides
+by the combination of heuristic scoring and machine learning.12 We restricted our search to bacterial genomes
+whose representatives were reported to be found in mammalian guts.
+From this approach, we identified 41 unique lanthipeptide candidates
+(Supporting Information). To find close
+homologues of nisin and related lantibiotics, we filtered the results
+based on the following criteria. First, we set a maximum on the peptide
+length. Because both nisin A and blauticin have 57 residues, including
+the leader peptide, any length significantly longer than that was
+unlikely to yield nisin-like lantibiotics. Indeed, WP_117994378.1_29961,
+a candidate with a length of 71, showed minimal sequence similarity
+to nisin A (Figure S1). We therefore set
+the maximum length as 72 residues. Second, the cysteine positions
+in the peptide needed to align with the ring-forming Cys residues
+in nisin A and blauticin based on a multiple sequence alignment (Figure S1). We further consolidated sequences
+that differed only in leader sequences but were the same in the core
+peptide. Six unique class I lantibiotic sequences, including two known
+examples, blauticin from B. producta and nisin O from Blautia obeum,31 were identified (Figure 1B, Supporting Information). In fact, the blauticin precursor peptide was also found in Blautia coccoides and nisin O was also found within
+a Faecalicatena contorta genome. The
+sequences of four novel nisin-like class I lantibiotic candidates
+were compared to the prototypical lantibiotics nisin A and blauticin,
+as shown in Figure 1B. Lan-Df from Dorea formicigenerans was identified to be a close homologue of nisin O, with one amino
+acid different from nisin O in ring A. Lan-CE02 from Clostridium sp. E02 further deviates from the prototype lantibiotics with unique
+residues spanning across the peptide. We discovered two variants,
+Lan-P49.1 and Lan-P49.2, from the same genome of Pseudobutyrivibrio sp. 49. Lan-P49.1 and Lan-P49.2 both share the same sequences as
+blauticin in ring A and B at the N termini of the peptides, but the
+C-termini of the peptides including the hinge region between rings
+C and D are different from nisin A and blauticin. This hinge region
+has been shown to be important for pore formation and antimicrobial
+activity.32−35 To find
+novel class I lantibiotic sequences from the gut, we adopted a workflow
+shown in Figure 1A.
+We applied RODEO,12 an algorithm previously
+used to identify lanthipeptide sequences in large numbers of genomes,13 to the RefSeq database. RODEO uses a hidden
+Markov model to mine for RiPP BGCs and predict precursor peptides
+by the combination of heuristic scoring and machine learning.12 We restricted our search to bacterial genomes
+whose representatives were reported to be found in mammalian guts.
+From this approach, we identified 41 unique lanthipeptide candidates
+(Supporting Information). To find close
+homologues of nisin and related lantibiotics, we filtered the results
+based on the following criteria. First, we set a maximum on the peptide
+length. Because both nisin A and blauticin have 57 residues, including
+the leader peptide, any length significantly longer than that was
+unlikely to yield nisin-like lantibiotics. Indeed, WP_117994378.1_29961,
+a candidate with a length of 71, showed minimal sequence similarity
+to nisin A (Figure S1). We therefore set
+the maximum length as 72 residues. Second, the cysteine positions
+in the peptide needed to align with the ring-forming Cys residues
+in nisin A and blauticin based on a multiple sequence alignment (Figure S1). We further consolidated sequences
+that differed only in leader sequences but were the same in the core
+peptide. Six unique class I lantibiotic sequences, including two known
+examples, blauticin from B. producta and nisin O from Blautia obeum,31 were identified (Figure 1B, Supporting Information). In fact, the blauticin precursor peptide was also found in Blautia coccoides and nisin O was also found within
+a Faecalicatena contorta genome. The
+sequences of four novel nisin-like class I lantibiotic candidates
+were compared to the prototypical lantibiotics nisin A and blauticin,
+as shown in Figure 1B. Lan-Df from Dorea formicigenerans was identified to be a close homologue of nisin O, with one amino
+acid different from nisin O in ring A. Lan-CE02 from Clostridium sp. E02 further deviates from the prototype lantibiotics with unique
+residues spanning across the peptide. We discovered two variants,
+Lan-P49.1 and Lan-P49.2, from the same genome of Pseudobutyrivibrio sp. 49. Lan-P49.1 and Lan-P49.2 both share the same sequences as
+blauticin in ring A and B at the N termini of the peptides, but the
+C-termini of the peptides including the hinge region between rings
+C and D are different from nisin A and blauticin. This hinge region
+has been shown to be important for pore formation and antimicrobial
+activity.32−35 Figure 1Bioinformatic
+discovery of nisin-like class I lantibiotics encoded
+in gut bacteria. (A) Workflow chart of lantibiotic discovery from
+RefSeq database using RODEO and filtering criteria. (B) Illustration
+of discovered putative class I lantibiotics with the ring patterns
+predicted based on that of nisin A. Green shading indicates residues
+different from both nisin A and blauticin. The dashed box indicates
+the hinge region. Ring designations in the structure are denoted on
+the top. Figure 1Bioinformatic
+discovery of nisin-like class I lantibiotics encoded
+in gut bacteria. (A) Workflow chart of lantibiotic discovery from
+RefSeq database using RODEO and filtering criteria. (B) Illustration
+of discovered putative class I lantibiotics with the ring patterns
+predicted based on that of nisin A. Green shading indicates residues
+different from both nisin A and blauticin. The dashed box indicates
+the hinge region. Ring designations in the structure are denoted on
+the top. Figure 1Bioinformatic
+discovery of nisin-like class I lantibiotics encoded
+in gut bacteria. (A) Workflow chart of lantibiotic discovery from
+RefSeq database using RODEO and filtering criteria. (B) Illustration
+of discovered putative class I lantibiotics with the ring patterns
+predicted based on that of nisin A. Green shading indicates residues
+different from both nisin A and blauticin. The dashed box indicates
+the hinge region. Ring designations in the structure are denoted on
+the top. Bioinformatic
+discovery of nisin-like class I lantibiotics encoded
+in gut bacteria. (A) Workflow chart of lantibiotic discovery from
+RefSeq database using RODEO and filtering criteria. (B) Illustration
+of discovered putative class I lantibiotics with the ring patterns
+predicted based on that of nisin A. Green shading indicates residues
+different from both nisin A and blauticin. The dashed box indicates
+the hinge region. Ring designations in the structure are denoted on
+the top. Bioinformatic
+discovery of nisin-like class I lantibiotics encoded
+in gut bacteria. (A) Workflow chart of lantibiotic discovery from
+RefSeq database using RODEO and filtering criteria. (B) Illustration
+of discovered putative class I lantibiotics with the ring patterns
+predicted based on that of nisin A. Green shading indicates residues
+different from both nisin A and blauticin. The dashed box indicates
+the hinge region. Ring designations in the structure are denoted on
+the top. Bioinformatic
+discovery of nisin-like class I lantibiotics encoded
+in gut bacteria. (A) Workflow chart of lantibiotic discovery from
+RefSeq database using RODEO and filtering criteria. (B) Illustration
+of discovered putative class I lantibiotics with the ring patterns
+predicted based on that of nisin A. Green shading indicates residues
+different from both nisin A and blauticin. The dashed box indicates
+the hinge region. Ring designations in the structure are denoted on
+the top. Heterologous Expression
+of Blauticin in E. coli Heterologous Expression
+of Blauticin in E. coli Heterologous Expression
+of Blauticin in E. coli The
+genome of B. producta SCSK has been
+sequenced, assembled, and annotated.18 To
+heterologously express blauticin in E.
+coli, a three-plasmid-based expression platform that
+was developed previously for other lantibiotics was applied (Figure S2A).17 In
+the current version, this platform includes a pETDuet plasmid that
+encodes a His-tagged blauticin leader and a core sequence. The blauticin
+leader sequence is recognized by blauticin-specific LanB and LanC
+(bpcB and bpcC gene, respectively)
+encoded in the pCDFDuet plasmid. A third pEVOL plasmid encodes two
+copies of glutamyl-tRNA synthetase (GluRS) from B.
+producta (one under an inducible promoter araBAD,
+the other under a constitutive promoter glnS) and
+a copy of tRNAGlu from B. producta under a constitutive promoter proK. The availability of cognate
+glutamyl-tRNA was envisioned to ensure optimal catalytic activity
+of BpcB as the sequence of tRNAGlu strongly affects LanB
+dehydration activity.15 Coding sequences
+of bpcB and bpcC genes were codon-optimized
+for expression in E. coli (Supporting Information). Heterologously expressed
+lantibiotic precursors were purified from cell lysate by metal affinity
+chromatography, followed by trypsin digestion for leader peptide removal
+and RP-HPLC purification (Figure S2B,C). The
+genome of B. producta SCSK has been
+sequenced, assembled, and annotated.18 To
+heterologously express blauticin in E.
+coli, a three-plasmid-based expression platform that
+was developed previously for other lantibiotics was applied (Figure S2A).17 In
+the current version, this platform includes a pETDuet plasmid that
+encodes a His-tagged blauticin leader and a core sequence. The blauticin
+leader sequence is recognized by blauticin-specific LanB and LanC
+(bpcB and bpcC gene, respectively)
+encoded in the pCDFDuet plasmid. A third pEVOL plasmid encodes two
+copies of glutamyl-tRNA synthetase (GluRS) from B.
+producta (one under an inducible promoter araBAD,
+the other under a constitutive promoter glnS) and
+a copy of tRNAGlu from B. producta under a constitutive promoter proK. The availability of cognate
+glutamyl-tRNA was envisioned to ensure optimal catalytic activity
+of BpcB as the sequence of tRNAGlu strongly affects LanB
+dehydration activity.15 Coding sequences
+of bpcB and bpcC genes were codon-optimized
+for expression in E. coli (Supporting Information). Heterologously expressed
+lantibiotic precursors were purified from cell lysate by metal affinity
+chromatography, followed by trypsin digestion for leader peptide removal
+and RP-HPLC purification (Figure S2B,C). The
+genome of B. producta SCSK has been
+sequenced, assembled, and annotated.18 To
+heterologously express blauticin in E.
+coli, a three-plasmid-based expression platform that
+was developed previously for other lantibiotics was applied (Figure S2A).17 In
+the current version, this platform includes a pETDuet plasmid that
+encodes a His-tagged blauticin leader and a core sequence. The blauticin
+leader sequence is recognized by blauticin-specific LanB and LanC
+(bpcB and bpcC gene, respectively)
+encoded in the pCDFDuet plasmid. A third pEVOL plasmid encodes two
+copies of glutamyl-tRNA synthetase (GluRS) from B.
+producta (one under an inducible promoter araBAD,
+the other under a constitutive promoter glnS) and
+a copy of tRNAGlu from B. producta under a constitutive promoter proK. The availability of cognate
+glutamyl-tRNA was envisioned to ensure optimal catalytic activity
+of BpcB as the sequence of tRNAGlu strongly affects LanB
+dehydration activity.15 Coding sequences
+of bpcB and bpcC genes were codon-optimized
+for expression in E. coli (Supporting Information). Heterologously expressed
+lantibiotic precursors were purified from cell lysate by metal affinity
+chromatography, followed by trypsin digestion for leader peptide removal
+and RP-HPLC purification (Figure S2B,C). Among the five BPSCSK lantibiotic precursors that are
+encoded in the blauticin BGC, the BPSCSK lantibiotic precursors
+BpcA1–BpcA4 are four identical copies
+of the blauticin precursor peptide and BpcA5 is a fifth
+peptide, the function of which remains to be identified (Figure 2A).18 An initial attempt of coexpressing His6-tagged
+BpcA1 with BpcB and BpcC in E. coli in the absence of the pEVOL plasmid resulted in a mixture of zero
+to nine dehydrations with the 9-fold dehydrated peptide as one of
+the least abundant products after leader peptide removal (Figures 2D and S3B). The poor dehydratase activity is likely
+the result of sequence differences of the major recognition elements
+for the lantibiotic dehydratases that are located on the acceptor
+stem of tRNAGlu when comparing E. coli and B. producta sequences (Figure 2B). After incorporating
+the pEVOL vector that encodes B. producta SCSK GluRS and tRNACUCGlu in the expression
+system, up to nine dehydrations were observed by matrix-assisted laser
+desorption ionization time-of-flight mass spectrometry (MALDI-TOF
+MS) after trypsin removal of the leader peptide. The mass distribution
+of the product was similar as that of wild-type blauticin that was
+isolated from the producing organism (Figures 2C,E and S4A,C).
+Production of lantibiotics as a mixture of peptides with different
+dehydration states in the native producing organism is not uncommon
+and is for example also observed for the commercial food preservative
+nisin36,37 (Figure S6J)
+or a recently reported lanthipeptide from the human oral microbiome
+that has pro-immune activity.38 We further
+purified the blauticin mixture with RP-HPLC and collected its fully
+dehydrated form (nine dehydrations; Figure S4A) and compared its antimicrobial activity to the dehydration mixture.
+We observed a similar minimal inhibitory concentration (MIC) of fully
+dehydrated blauticin, mixed dehydrated blauticin, and native blauticin
+against vancomycin-resistant Enterococcus faecium ATCC700221 (VRE) (Figure S4B). Among the five BPSCSK lantibiotic precursors that are
+encoded in the blauticin BGC, the BPSCSK lantibiotic precursors
+BpcA1–BpcA4 are four identical copies
+of the blauticin precursor peptide and BpcA5 is a fifth
+peptide, the function of which remains to be identified (Figure 2A).18 An initial attempt of coexpressing His6-tagged
+BpcA1 with BpcB and BpcC in E. coli in the absence of the pEVOL plasmid resulted in a mixture of zero
+to nine dehydrations with the 9-fold dehydrated peptide as one of
+the least abundant products after leader peptide removal (Figures 2D and S3B). The poor dehydratase activity is likely
+the result of sequence differences of the major recognition elements
+for the lantibiotic dehydratases that are located on the acceptor
+stem of tRNAGlu when comparing E. coli and B. producta sequences (Figure 2B). After incorporating
+the pEVOL vector that encodes B. producta SCSK GluRS and tRNACUCGlu in the expression
+system, up to nine dehydrations were observed by matrix-assisted laser
+desorption ionization time-of-flight mass spectrometry (MALDI-TOF
+MS) after trypsin removal of the leader peptide. The mass distribution
+of the product was similar as that of wild-type blauticin that was
+isolated from the producing organism (Figures 2C,E and S4A,C).
+Production of lantibiotics as a mixture of peptides with different
+dehydration states in the native producing organism is not uncommon
+and is for example also observed for the commercial food preservative
+nisin36,37 (Figure S6J)
+or a recently reported lanthipeptide from the human oral microbiome
+that has pro-immune activity.38 We further
+purified the blauticin mixture with RP-HPLC and collected its fully
+dehydrated form (nine dehydrations; Figure S4A) and compared its antimicrobial activity to the dehydration mixture.
+We observed a similar minimal inhibitory concentration (MIC) of fully
+dehydrated blauticin, mixed dehydrated blauticin, and native blauticin
+against vancomycin-resistant Enterococcus faecium ATCC700221 (VRE) (Figure S4B). Among the five BPSCSK lantibiotic precursors that are
+encoded in the blauticin BGC, the BPSCSK lantibiotic precursors
+BpcA1–BpcA4 are four identical copies
+of the blauticin precursor peptide and BpcA5 is a fifth
+peptide, the function of which remains to be identified (Figure 2A).18 An initial attempt of coexpressing His6-tagged
+BpcA1 with BpcB and BpcC in E. coli in the absence of the pEVOL plasmid resulted in a mixture of zero
+to nine dehydrations with the 9-fold dehydrated peptide as one of
+the least abundant products after leader peptide removal (Figures 2D and S3B). The poor dehydratase activity is likely
+the result of sequence differences of the major recognition elements
+for the lantibiotic dehydratases that are located on the acceptor
+stem of tRNAGlu when comparing E. coli and B. producta sequences (Figure 2B). After incorporating
+the pEVOL vector that encodes B. producta SCSK GluRS and tRNACUCGlu in the expression
+system, up to nine dehydrations were observed by matrix-assisted laser
+desorption ionization time-of-flight mass spectrometry (MALDI-TOF
+MS) after trypsin removal of the leader peptide. The mass distribution
+of the product was similar as that of wild-type blauticin that was
+isolated from the producing organism (Figures 2C,E and S4A,C).
+Production of lantibiotics as a mixture of peptides with different
+dehydration states in the native producing organism is not uncommon
+and is for example also observed for the commercial food preservative
+nisin36,37 (Figure S6J)
+or a recently reported lanthipeptide from the human oral microbiome
+that has pro-immune activity.38 We further
+purified the blauticin mixture with RP-HPLC and collected its fully
+dehydrated form (nine dehydrations; Figure S4A) and compared its antimicrobial activity to the dehydration mixture.
+We observed a similar minimal inhibitory concentration (MIC) of fully
+dehydrated blauticin, mixed dehydrated blauticin, and native blauticin
+against vancomycin-resistant Enterococcus faecium ATCC700221 (VRE) (Figure S4B). Figure 2Heterologous
+production of blauticin using the pEVOL vector in E.
+coli and leader peptide removal with trypsin.
+(A) Blauticin BGC from B. producta SCSK.
+(B) Predicted cloverleaf structures of B. producta SCSK and E. coli tRNAGlu made with the tRNAscan-SE algorithm.39,40 The proposed
+major recognition elements of the tRNAGlu acceptor stem
+used by lantibiotic dehydratases are highlighted in red. (C–F)
+MALDI-TOF MS analysis of blauticin isolated from BPSCSK (C), His6-BpcA1 isolated from the coexpression
+with BpcBC without (D) and with the pEVOL platform using tRNACUCGlu (E) or tRNAUUCGlu (F)
+in E. coli after leader peptide removal
+by trypsin. 6: 6-fold dehydrated BpcA1 ([M + H]+m/z 3210, calcd m/z 3208); 7: 7-fold dehydrated BpcA1 ([M
++ H]+m/z 3192, calcd m/z 3190); 8: 8-fold dehydrated BpcA1 ([M + H]+m/z 3175, calcd m/z 3172); 9: 9-fold
+dehydrated BpcA1 ([M + H]+m/z 3156, calcd m/z 3154). For high resolution tandem MS data, see Figure S6. Figure 2Heterologous
+production of blauticin using the pEVOL vector in E.
+coli and leader peptide removal with trypsin.
+(A) Blauticin BGC from B. producta SCSK.
+(B) Predicted cloverleaf structures of B. producta SCSK and E. coli tRNAGlu made with the tRNAscan-SE algorithm.39,40 The proposed
+major recognition elements of the tRNAGlu acceptor stem
+used by lantibiotic dehydratases are highlighted in red. (C–F)
+MALDI-TOF MS analysis of blauticin isolated from BPSCSK (C), His6-BpcA1 isolated from the coexpression
+with BpcBC without (D) and with the pEVOL platform using tRNACUCGlu (E) or tRNAUUCGlu (F)
+in E. coli after leader peptide removal
+by trypsin. 6: 6-fold dehydrated BpcA1 ([M + H]+m/z 3210, calcd m/z 3208); 7: 7-fold dehydrated BpcA1 ([M
++ H]+m/z 3192, calcd m/z 3190); 8: 8-fold dehydrated BpcA1 ([M + H]+m/z 3175, calcd m/z 3172); 9: 9-fold
+dehydrated BpcA1 ([M + H]+m/z 3156, calcd m/z 3154). For high resolution tandem MS data, see Figure S6. Figure 2Heterologous
+production of blauticin using the pEVOL vector in E.
+coli and leader peptide removal with trypsin.
+(A) Blauticin BGC from B. producta SCSK.
+(B) Predicted cloverleaf structures of B. producta SCSK and E. coli tRNAGlu made with the tRNAscan-SE algorithm.39,40 The proposed
+major recognition elements of the tRNAGlu acceptor stem
+used by lantibiotic dehydratases are highlighted in red. (C–F)
+MALDI-TOF MS analysis of blauticin isolated from BPSCSK (C), His6-BpcA1 isolated from the coexpression
+with BpcBC without (D) and with the pEVOL platform using tRNACUCGlu (E) or tRNAUUCGlu (F)
+in E. coli after leader peptide removal
+by trypsin. 6: 6-fold dehydrated BpcA1 ([M + H]+m/z 3210, calcd m/z 3208); 7: 7-fold dehydrated BpcA1 ([M
++ H]+m/z 3192, calcd m/z 3190); 8: 8-fold dehydrated BpcA1 ([M + H]+m/z 3175, calcd m/z 3172); 9: 9-fold
+dehydrated BpcA1 ([M + H]+m/z 3156, calcd m/z 3154). For high resolution tandem MS data, see Figure S6. Heterologous
+production of blauticin using the pEVOL vector in E.
+coli and leader peptide removal with trypsin.
+(A) Blauticin BGC from B. producta SCSK.
+(B) Predicted cloverleaf structures of B. producta SCSK and E. coli tRNAGlu made with the tRNAscan-SE algorithm.39,40 The proposed
+major recognition elements of the tRNAGlu acceptor stem
+used by lantibiotic dehydratases are highlighted in red. (C–F)
+MALDI-TOF MS analysis of blauticin isolated from BPSCSK (C), His6-BpcA1 isolated from the coexpression
+with BpcBC without (D) and with the pEVOL platform using tRNACUCGlu (E) or tRNAUUCGlu (F)
+in E. coli after leader peptide removal
+by trypsin. 6: 6-fold dehydrated BpcA1 ([M + H]+m/z 3210, calcd m/z 3208); 7: 7-fold dehydrated BpcA1 ([M
++ H]+m/z 3192, calcd m/z 3190); 8: 8-fold dehydrated BpcA1 ([M + H]+m/z 3175, calcd m/z 3172); 9: 9-fold
+dehydrated BpcA1 ([M + H]+m/z 3156, calcd m/z 3154). For high resolution tandem MS data, see Figure S6. Heterologous
+production of blauticin using the pEVOL vector in E.
+coli and leader peptide removal with trypsin.
+(A) Blauticin BGC from B. producta SCSK.
+(B) Predicted cloverleaf structures of B. producta SCSK and E. coli tRNAGlu made with the tRNAscan-SE algorithm.39,40 The proposed
+major recognition elements of the tRNAGlu acceptor stem
+used by lantibiotic dehydratases are highlighted in red. (C–F)
+MALDI-TOF MS analysis of blauticin isolated from BPSCSK (C), His6-BpcA1 isolated from the coexpression
+with BpcBC without (D) and with the pEVOL platform using tRNACUCGlu (E) or tRNAUUCGlu (F)
+in E. coli after leader peptide removal
+by trypsin. 6: 6-fold dehydrated BpcA1 ([M + H]+m/z 3210, calcd m/z 3208); 7: 7-fold dehydrated BpcA1 ([M
++ H]+m/z 3192, calcd m/z 3190); 8: 8-fold dehydrated BpcA1 ([M + H]+m/z 3175, calcd m/z 3172); 9: 9-fold
+dehydrated BpcA1 ([M + H]+m/z 3156, calcd m/z 3154). For high resolution tandem MS data, see Figure S6. Heterologous
+production of blauticin using the pEVOL vector in E.
+coli and leader peptide removal with trypsin.
+(A) Blauticin BGC from B. producta SCSK.
+(B) Predicted cloverleaf structures of B. producta SCSK and E. coli tRNAGlu made with the tRNAscan-SE algorithm.39,40 The proposed
+major recognition elements of the tRNAGlu acceptor stem
+used by lantibiotic dehydratases are highlighted in red. (C–F)
+MALDI-TOF MS analysis of blauticin isolated from BPSCSK (C), His6-BpcA1 isolated from the coexpression
+with BpcBC without (D) and with the pEVOL platform using tRNACUCGlu (E) or tRNAUUCGlu (F)
+in E. coli after leader peptide removal
+by trypsin. 6: 6-fold dehydrated BpcA1 ([M + H]+m/z 3210, calcd m/z 3208); 7: 7-fold dehydrated BpcA1 ([M
++ H]+m/z 3192, calcd m/z 3190); 8: 8-fold dehydrated BpcA1 ([M + H]+m/z 3175, calcd m/z 3172); 9: 9-fold
+dehydrated BpcA1 ([M + H]+m/z 3156, calcd m/z 3154). For high resolution tandem MS data, see Figure S6. A previous report studied
+the tRNA specificity of the lantibiotic
+dehydratase MibB involved in the biosynthesis of NAI-107 from the
+Actinobacterium Microbispora sp. 107891.15 MibB was shown to not only discriminate between
+tRNAGlu from different organisms but to also discriminate
+between tRNAGlu isoacceptors encoded in the genome of Microbispora sp. 107891. A tRNA scanning analysis of the B. producta SCSK genome revealed the presence of
+two tRNAGlu genes encoding tRNACUCGlu and tRNAUUCGlu isoacceptors (Figure 2B).39,40 The presence of the two different tRNAGlu types prompted
+an investigation into whether the dehydratase BpcB displayed isoacceptor
+preference. We coexpressed each of the two isoacceptors in the pEVOL
+vector with BpcA1, BpcB, and BpcC in E.
+coli. MALDI-TOF MS analysis of dehydration assays
+revealed that BpcA1 dehydration was similarly improved when either
+tRNACUCGlu or tRNAUUCGlu was used as the isoacceptor, with tRNAUUCGlu perhaps yielding slightly more BpcA with less dehydration compared
+to tRNACUCGlu (Figures 2E,F, and S3C,D). These data indicate that both tRNAGlu isoacceptors
+from BPSCSK can be used by BpcB. A previous report studied
+the tRNA specificity of the lantibiotic
+dehydratase MibB involved in the biosynthesis of NAI-107 from the
+Actinobacterium Microbispora sp. 107891.15 MibB was shown to not only discriminate between
+tRNAGlu from different organisms but to also discriminate
+between tRNAGlu isoacceptors encoded in the genome of Microbispora sp. 107891. A tRNA scanning analysis of the B. producta SCSK genome revealed the presence of
+two tRNAGlu genes encoding tRNACUCGlu and tRNAUUCGlu isoacceptors (Figure 2B).39,40 The presence of the two different tRNAGlu types prompted
+an investigation into whether the dehydratase BpcB displayed isoacceptor
+preference. We coexpressed each of the two isoacceptors in the pEVOL
+vector with BpcA1, BpcB, and BpcC in E.
+coli. MALDI-TOF MS analysis of dehydration assays
+revealed that BpcA1 dehydration was similarly improved when either
+tRNACUCGlu or tRNAUUCGlu was used as the isoacceptor, with tRNAUUCGlu perhaps yielding slightly more BpcA with less dehydration compared
+to tRNACUCGlu (Figures 2E,F, and S3C,D). These data indicate that both tRNAGlu isoacceptors
+from BPSCSK can be used by BpcB. A previous report studied
+the tRNA specificity of the lantibiotic
+dehydratase MibB involved in the biosynthesis of NAI-107 from the
+Actinobacterium Microbispora sp. 107891.15 MibB was shown to not only discriminate between
+tRNAGlu from different organisms but to also discriminate
+between tRNAGlu isoacceptors encoded in the genome of Microbispora sp. 107891. A tRNA scanning analysis of the B. producta SCSK genome revealed the presence of
+two tRNAGlu genes encoding tRNACUCGlu and tRNAUUCGlu isoacceptors (Figure 2B).39,40 The presence of the two different tRNAGlu types prompted
+an investigation into whether the dehydratase BpcB displayed isoacceptor
+preference. We coexpressed each of the two isoacceptors in the pEVOL
+vector with BpcA1, BpcB, and BpcC in E.
+coli. MALDI-TOF MS analysis of dehydration assays
+revealed that BpcA1 dehydration was similarly improved when either
+tRNACUCGlu or tRNAUUCGlu was used as the isoacceptor, with tRNAUUCGlu perhaps yielding slightly more BpcA with less dehydration compared
+to tRNACUCGlu (Figures 2E,F, and S3C,D). These data indicate that both tRNAGlu isoacceptors
+from BPSCSK can be used by BpcB. Isolation and Bioactivities
+of Novel Class I Lantibiotics Isolation and Bioactivities
+of Novel Class I Lantibiotics Isolation and Bioactivities
+of Novel Class I Lantibiotics After successful demonstration
+of the expression of blauticin in E. coli, we applied a similar approach to express
+and isolate the novel nisin-like class I lantibiotics discovered in
+the genomes of mammalian gut microbiota. Rather than using the precursor
+peptide and biosynthetic enzymes encoded in the producing organisms,
+we used the His-tagged blauticin leader sequence and fused to its
+C-terminus the desired lanthipeptide core sequence. The pETDuet plasmid
+encoding the chimeric substrate was coexpressed with plasmids encoding
+BpcB, BpcC, and B. producta GluRS and
+tRNAGlu. Such use of one set of producing enzymes for production
+of structurally closely related analogs of a certain lantibiotic has
+been successfully used previously.41 The
+modified lantibiotic precursor peptides were purified and digested
+with trypsin for leader peptide removal. Fully dehydrated Lan-CE02,
+Lan-Df, Lan-P49.1, and Lan-P49.2 were observed by MALDI-TOF MS (Figure S5 and Table S1). Tandem electrospray
+ionization (ESI) MS analyses were consistent with these compounds
+all having the same ring pattern as that of nisin/blauticin (Figure S6). As has been pointed out before,42 the number of potential isomers with different
+ring patterns for these types of peptides is very large (>6500)
+if
+cyclization was nonselective, and nonenzymatic cyclization does not
+provide active nisin.43 Conversely, the
+LanC cyclases (NisC for nisin and BpcC for this study) govern the
+site-selectivity of thia-Michael addition to provide a single-ring
+pattern through a mechanism that is still not understood. After successful demonstration
+of the expression of blauticin in E. coli, we applied a similar approach to express
+and isolate the novel nisin-like class I lantibiotics discovered in
+the genomes of mammalian gut microbiota. Rather than using the precursor
+peptide and biosynthetic enzymes encoded in the producing organisms,
+we used the His-tagged blauticin leader sequence and fused to its
+C-terminus the desired lanthipeptide core sequence. The pETDuet plasmid
+encoding the chimeric substrate was coexpressed with plasmids encoding
+BpcB, BpcC, and B. producta GluRS and
+tRNAGlu. Such use of one set of producing enzymes for production
+of structurally closely related analogs of a certain lantibiotic has
+been successfully used previously.41 The
+modified lantibiotic precursor peptides were purified and digested
+with trypsin for leader peptide removal. Fully dehydrated Lan-CE02,
+Lan-Df, Lan-P49.1, and Lan-P49.2 were observed by MALDI-TOF MS (Figure S5 and Table S1). Tandem electrospray
+ionization (ESI) MS analyses were consistent with these compounds
+all having the same ring pattern as that of nisin/blauticin (Figure S6). As has been pointed out before,42 the number of potential isomers with different
+ring patterns for these types of peptides is very large (>6500)
+if
+cyclization was nonselective, and nonenzymatic cyclization does not
+provide active nisin.43 Conversely, the
+LanC cyclases (NisC for nisin and BpcC for this study) govern the
+site-selectivity of thia-Michael addition to provide a single-ring
+pattern through a mechanism that is still not understood. After successful demonstration
+of the expression of blauticin in E. coli, we applied a similar approach to express
+and isolate the novel nisin-like class I lantibiotics discovered in
+the genomes of mammalian gut microbiota. Rather than using the precursor
+peptide and biosynthetic enzymes encoded in the producing organisms,
+we used the His-tagged blauticin leader sequence and fused to its
+C-terminus the desired lanthipeptide core sequence. The pETDuet plasmid
+encoding the chimeric substrate was coexpressed with plasmids encoding
+BpcB, BpcC, and B. producta GluRS and
+tRNAGlu. Such use of one set of producing enzymes for production
+of structurally closely related analogs of a certain lantibiotic has
+been successfully used previously.41 The
+modified lantibiotic precursor peptides were purified and digested
+with trypsin for leader peptide removal. Fully dehydrated Lan-CE02,
+Lan-Df, Lan-P49.1, and Lan-P49.2 were observed by MALDI-TOF MS (Figure S5 and Table S1). Tandem electrospray
+ionization (ESI) MS analyses were consistent with these compounds
+all having the same ring pattern as that of nisin/blauticin (Figure S6). As has been pointed out before,42 the number of potential isomers with different
+ring patterns for these types of peptides is very large (>6500)
+if
+cyclization was nonselective, and nonenzymatic cyclization does not
+provide active nisin.43 Conversely, the
+LanC cyclases (NisC for nisin and BpcC for this study) govern the
+site-selectivity of thia-Michael addition to provide a single-ring
+pattern through a mechanism that is still not understood. Next,
+we set out to test the antimicrobial activities of these purified
+lantibiotics against a panel of Gram-positive bacteria that are representatives
+of some of the most prevalent human pathogens: VRE, Methicillin-resistant S. aureus USA300 (MRSA), Methicillin-resistant Staphylococcus epidermidis SK135 (MRSE), Listeria monocytogenes 10403S, and Clostridioides difficile VPI10463. We examined the
+growth of bacteria in a 96-well plate under a concentration gradient
+of lantibiotics under anaerobic conditions (Figure S2B). In general, nisin A and Lan-Df had the strongest inhibitory
+activities against pathogens based on their MIC, followed by nisin
+O. Blauticin, Lan-CE02, and Lan-P49.2 had intermediate activities,
+while Lan-P49.1 had the weakest activity (Figure 3A–E). Comparing across the pathogen
+panel, VRE, and C. difficile were more
+sensitive to lantibiotic treatment, while L. monocytogenes was the most resistant among the panel tested. Next,
+we set out to test the antimicrobial activities of these purified
+lantibiotics against a panel of Gram-positive bacteria that are representatives
+of some of the most prevalent human pathogens: VRE, Methicillin-resistant S. aureus USA300 (MRSA), Methicillin-resistant Staphylococcus epidermidis SK135 (MRSE), Listeria monocytogenes 10403S, and Clostridioides difficile VPI10463. We examined the
+growth of bacteria in a 96-well plate under a concentration gradient
+of lantibiotics under anaerobic conditions (Figure S2B). In general, nisin A and Lan-Df had the strongest inhibitory
+activities against pathogens based on their MIC, followed by nisin
+O. Blauticin, Lan-CE02, and Lan-P49.2 had intermediate activities,
+while Lan-P49.1 had the weakest activity (Figure 3A–E). Comparing across the pathogen
+panel, VRE, and C. difficile were more
+sensitive to lantibiotic treatment, while L. monocytogenes was the most resistant among the panel tested. Next,
+we set out to test the antimicrobial activities of these purified
+lantibiotics against a panel of Gram-positive bacteria that are representatives
+of some of the most prevalent human pathogens: VRE, Methicillin-resistant S. aureus USA300 (MRSA), Methicillin-resistant Staphylococcus epidermidis SK135 (MRSE), Listeria monocytogenes 10403S, and Clostridioides difficile VPI10463. We examined the
+growth of bacteria in a 96-well plate under a concentration gradient
+of lantibiotics under anaerobic conditions (Figure S2B). In general, nisin A and Lan-Df had the strongest inhibitory
+activities against pathogens based on their MIC, followed by nisin
+O. Blauticin, Lan-CE02, and Lan-P49.2 had intermediate activities,
+while Lan-P49.1 had the weakest activity (Figure 3A–E). Comparing across the pathogen
+panel, VRE, and C. difficile were more
+sensitive to lantibiotic treatment, while L. monocytogenes was the most resistant among the panel tested. Figure 3Minimal inhibitory concentration
+(MIC) of the panel of lantibiotics
+against human pathogens (A–E) and human gut commensals (F–M).
+Each dot indicates one measurement of MIC value, determined by the
+lowest concentration that caused no or significantly less bacterial
+growth. Each bar indicates median MIC value. Upper and lower dashed
+lines indicate upper and lower limits of concentration tested, respectively. Figure 3Minimal inhibitory concentration
+(MIC) of the panel of lantibiotics
+against human pathogens (A–E) and human gut commensals (F–M).
+Each dot indicates one measurement of MIC value, determined by the
+lowest concentration that caused no or significantly less bacterial
+growth. Each bar indicates median MIC value. Upper and lower dashed
+lines indicate upper and lower limits of concentration tested, respectively. Figure 3Minimal inhibitory concentration
+(MIC) of the panel of lantibiotics
+against human pathogens (A–E) and human gut commensals (F–M).
+Each dot indicates one measurement of MIC value, determined by the
+lowest concentration that caused no or significantly less bacterial
+growth. Each bar indicates median MIC value. Upper and lower dashed
+lines indicate upper and lower limits of concentration tested, respectively. Minimal inhibitory concentration
+(MIC) of the panel of lantibiotics
+against human pathogens (A–E) and human gut commensals (F–M).
+Each dot indicates one measurement of MIC value, determined by the
+lowest concentration that caused no or significantly less bacterial
+growth. Each bar indicates median MIC value. Upper and lower dashed
+lines indicate upper and lower limits of concentration tested, respectively. Minimal inhibitory concentration
+(MIC) of the panel of lantibiotics
+against human pathogens (A–E) and human gut commensals (F–M).
+Each dot indicates one measurement of MIC value, determined by the
+lowest concentration that caused no or significantly less bacterial
+growth. Each bar indicates median MIC value. Upper and lower dashed
+lines indicate upper and lower limits of concentration tested, respectively. Minimal inhibitory concentration
+(MIC) of the panel of lantibiotics
+against human pathogens (A–E) and human gut commensals (F–M).
+Each dot indicates one measurement of MIC value, determined by the
+lowest concentration that caused no or significantly less bacterial
+growth. Each bar indicates median MIC value. Upper and lower dashed
+lines indicate upper and lower limits of concentration tested, respectively. Antibiotic treatment may result in collateral damage
+to commensal
+bacteria in the human microbiome, leading to dysbiosis and susceptibility
+to various diseases.44 How lantibiotics
+impact Gram-positive commensals from the human gut has remained unclear.
+Therefore, we performed antimicrobial activity tests of these lantibiotics
+against selected Gram-positive human gut commensals, most of which
+belong to the Lachnospiraceae family, one of the most abundant bacterial
+families in the human gut.27 In general,
+human gut commensals were more susceptible to the set of investigated
+lantibiotics compared to pathogens (Figure 3). The activities of the lantibiotics tested
+generally followed the trend of those against Gram-positive pathogens;
+while nisin A and Lan-Df were generally more effective in growth inhibition,
+Lan-P49.1, Lan-P49.2, and Lan-CE02 had weaker antimicrobial activities
+(Figure 3F–M).
+Among all, Erysipeloclostridium ramosum MSK.23.96 displayed the highest resistance to lantibiotics compared
+to other commensals tested. Interestingly, Coprococcus
+comes MSK.11.23 had an opposite sensitivity profile;
+it was relatively resistant to nisin A, nisin O, and Lan-Df, while
+it was more sensitive to Lan-P49.1 and LanP49.2. Antibiotic treatment may result in collateral damage
+to commensal
+bacteria in the human microbiome, leading to dysbiosis and susceptibility
+to various diseases.44 How lantibiotics
+impact Gram-positive commensals from the human gut has remained unclear.
+Therefore, we performed antimicrobial activity tests of these lantibiotics
+against selected Gram-positive human gut commensals, most of which
+belong to the Lachnospiraceae family, one of the most abundant bacterial
+families in the human gut.27 In general,
+human gut commensals were more susceptible to the set of investigated
+lantibiotics compared to pathogens (Figure 3). The activities of the lantibiotics tested
+generally followed the trend of those against Gram-positive pathogens;
+while nisin A and Lan-Df were generally more effective in growth inhibition,
+Lan-P49.1, Lan-P49.2, and Lan-CE02 had weaker antimicrobial activities
+(Figure 3F–M).
+Among all, Erysipeloclostridium ramosum MSK.23.96 displayed the highest resistance to lantibiotics compared
+to other commensals tested. Interestingly, Coprococcus
+comes MSK.11.23 had an opposite sensitivity profile;
+it was relatively resistant to nisin A, nisin O, and Lan-Df, while
+it was more sensitive to Lan-P49.1 and LanP49.2. Antibiotic treatment may result in collateral damage
+to commensal
+bacteria in the human microbiome, leading to dysbiosis and susceptibility
+to various diseases.44 How lantibiotics
+impact Gram-positive commensals from the human gut has remained unclear.
+Therefore, we performed antimicrobial activity tests of these lantibiotics
+against selected Gram-positive human gut commensals, most of which
+belong to the Lachnospiraceae family, one of the most abundant bacterial
+families in the human gut.27 In general,
+human gut commensals were more susceptible to the set of investigated
+lantibiotics compared to pathogens (Figure 3). The activities of the lantibiotics tested
+generally followed the trend of those against Gram-positive pathogens;
+while nisin A and Lan-Df were generally more effective in growth inhibition,
+Lan-P49.1, Lan-P49.2, and Lan-CE02 had weaker antimicrobial activities
+(Figure 3F–M).
+Among all, Erysipeloclostridium ramosum MSK.23.96 displayed the highest resistance to lantibiotics compared
+to other commensals tested. Interestingly, Coprococcus
+comes MSK.11.23 had an opposite sensitivity profile;
+it was relatively resistant to nisin A, nisin O, and Lan-Df, while
+it was more sensitive to Lan-P49.1 and LanP49.2. To further
+investigate the mechanisms of action of these nisin-like
+lantibiotics, we performed liposome permeabilization assays using
+liposomes with or without lipid II (Figure S7). We observed that the fraction of liposomes containing lipid II
+that were permeabilized upon incubation with lantibiotics largely
+correlated with their MIC values against bacteria: nisin O, Lan-Df,
+and Lan-P49.2, as well as blauticin and nisin A, strongly induced
+permeabilization of lipid II-containing liposomes, while Lan-CE02
+and Lan-P49.1 were not as effective (Figure S7B). We further tested the most active lantibiotics for their permeabilization
+activities on liposomes without lipid II. Nisin O, Lan-Df, and Lan-P49.2,
+as well as blauticin and nisin A, had decreased permeabilization activities
+on liposomes without lipid II compared to liposomes with lipid II
+(Figure S7). These findings suggest that
+the mechanism of action of these nisin-like lantibiotics is mainly
+lipid II-dependent membrane permeabilization, but they also disrupt
+membranes less potently in the absence of lipid II in a nonspecific
+mechanism. Unexpectedly, blauticin in the mixed dehydration state
+had decreased permeabilization activity compared to fully dehydrated
+blauticin (Figure S7B), even though the
+MIC values against VRE were similar (Figure S4B). To further
+investigate the mechanisms of action of these nisin-like
+lantibiotics, we performed liposome permeabilization assays using
+liposomes with or without lipid II (Figure S7). We observed that the fraction of liposomes containing lipid II
+that were permeabilized upon incubation with lantibiotics largely
+correlated with their MIC values against bacteria: nisin O, Lan-Df,
+and Lan-P49.2, as well as blauticin and nisin A, strongly induced
+permeabilization of lipid II-containing liposomes, while Lan-CE02
+and Lan-P49.1 were not as effective (Figure S7B). We further tested the most active lantibiotics for their permeabilization
+activities on liposomes without lipid II. Nisin O, Lan-Df, and Lan-P49.2,
+as well as blauticin and nisin A, had decreased permeabilization activities
+on liposomes without lipid II compared to liposomes with lipid II
+(Figure S7). These findings suggest that
+the mechanism of action of these nisin-like lantibiotics is mainly
+lipid II-dependent membrane permeabilization, but they also disrupt
+membranes less potently in the absence of lipid II in a nonspecific
+mechanism. Unexpectedly, blauticin in the mixed dehydration state
+had decreased permeabilization activity compared to fully dehydrated
+blauticin (Figure S7B), even though the
+MIC values against VRE were similar (Figure S4B). To further
+investigate the mechanisms of action of these nisin-like
+lantibiotics, we performed liposome permeabilization assays using
+liposomes with or without lipid II (Figure S7). We observed that the fraction of liposomes containing lipid II
+that were permeabilized upon incubation with lantibiotics largely
+correlated with their MIC values against bacteria: nisin O, Lan-Df,
+and Lan-P49.2, as well as blauticin and nisin A, strongly induced
+permeabilization of lipid II-containing liposomes, while Lan-CE02
+and Lan-P49.1 were not as effective (Figure S7B). We further tested the most active lantibiotics for their permeabilization
+activities on liposomes without lipid II. Nisin O, Lan-Df, and Lan-P49.2,
+as well as blauticin and nisin A, had decreased permeabilization activities
+on liposomes without lipid II compared to liposomes with lipid II
+(Figure S7). These findings suggest that
+the mechanism of action of these nisin-like lantibiotics is mainly
+lipid II-dependent membrane permeabilization, but they also disrupt
+membranes less potently in the absence of lipid II in a nonspecific
+mechanism. Unexpectedly, blauticin in the mixed dehydration state
+had decreased permeabilization activity compared to fully dehydrated
+blauticin (Figure S7B), even though the
+MIC values against VRE were similar (Figure S4B). Lantibiotic Resistance Genes in Pathogens and Commensals Lantibiotic Resistance Genes in Pathogens and Commensals Lantibiotic Resistance Genes in Pathogens and Commensals The differences in lantibiotic susceptibility profiles of pathogens
+and human gut commensals led to further investigation of potential
+lantibiotic resistance mechanisms encoded in the genomes of gut bacteria.
+Many mechanisms of lantibiotic resistance in bacteria have been reported,
+mostly revealed through genetic screening of pathogens. One major
+resistance mechanism is bacterial cell wall modifications. The dltABCD operon is responsible for the d-alanylation
+of lipoteichoic acids (LTA) and wall teichoic acids (WTA), resulting
+in an increase of positive charges in the cell wall and the repulsion
+of cationic lantibiotics.45,46 Another major resistance
+mechanism is efflux pumps. The LanFEG three-component transporter
+and homologues can expel lantibiotics,30,47,48 while the BceAB two-component transporter, originally
+reported as a bacitracin efflux pump, also provides cross-protection
+against lantibiotics.49 Other resistance
+mechanisms include the tellurite resistance gene telA,50 cell membrane modifications by mprF,51 the nisin resistance
+protein NSR,52,53 and lantibiotic self-resistance
+proteins LanI.54 Of these, LanFEG and LanI
+are often found in lantibiotic BGCs. The differences in lantibiotic susceptibility profiles of pathogens
+and human gut commensals led to further investigation of potential
+lantibiotic resistance mechanisms encoded in the genomes of gut bacteria.
+Many mechanisms of lantibiotic resistance in bacteria have been reported,
+mostly revealed through genetic screening of pathogens. One major
+resistance mechanism is bacterial cell wall modifications. The dltABCD operon is responsible for the d-alanylation
+of lipoteichoic acids (LTA) and wall teichoic acids (WTA), resulting
+in an increase of positive charges in the cell wall and the repulsion
+of cationic lantibiotics.45,46 Another major resistance
+mechanism is efflux pumps. The LanFEG three-component transporter
+and homologues can expel lantibiotics,30,47,48 while the BceAB two-component transporter, originally
+reported as a bacitracin efflux pump, also provides cross-protection
+against lantibiotics.49 Other resistance
+mechanisms include the tellurite resistance gene telA,50 cell membrane modifications by mprF,51 the nisin resistance
+protein NSR,52,53 and lantibiotic self-resistance
+proteins LanI.54 Of these, LanFEG and LanI
+are often found in lantibiotic BGCs. The differences in lantibiotic susceptibility profiles of pathogens
+and human gut commensals led to further investigation of potential
+lantibiotic resistance mechanisms encoded in the genomes of gut bacteria.
+Many mechanisms of lantibiotic resistance in bacteria have been reported,
+mostly revealed through genetic screening of pathogens. One major
+resistance mechanism is bacterial cell wall modifications. The dltABCD operon is responsible for the d-alanylation
+of lipoteichoic acids (LTA) and wall teichoic acids (WTA), resulting
+in an increase of positive charges in the cell wall and the repulsion
+of cationic lantibiotics.45,46 Another major resistance
+mechanism is efflux pumps. The LanFEG three-component transporter
+and homologues can expel lantibiotics,30,47,48 while the BceAB two-component transporter, originally
+reported as a bacitracin efflux pump, also provides cross-protection
+against lantibiotics.49 Other resistance
+mechanisms include the tellurite resistance gene telA,50 cell membrane modifications by mprF,51 the nisin resistance
+protein NSR,52,53 and lantibiotic self-resistance
+proteins LanI.54 Of these, LanFEG and LanI
+are often found in lantibiotic BGCs. We performed a Hidden Markov
+Model and BLAST search for the aforementioned genes among the genomes
+of pathogens and human gut commensals tested. For resistance mechanisms
+that require multiple genes (dltABCD, bceAB, and lanFEG), only the complete presence as an
+operon was counted. The numbers of corresponding genes in each genome
+are listed in Tables 1 and 2. Bacteria are listed in ascending order
+from left to right according to the median MIC value across the nisin-like
+lantibiotic panel. We found that for most organisms, the numbers of
+potential resistance-inducing genes present in a specific genome did
+not correlate with stronger lantibiotic resistance (lower susceptibility). becAB and mprF may correlate with resistance
+in some cases, as the most sensitive Clostridioides
+difficile does not possess these genes. Among human
+gut commensals, the most resistant E. ramosum has more bceAB genes than others. However, one
+of the most sensitive strains, Anaerostipes hadrus MSK.14.23, also contains the bceAB genes. In conclusion,
+the numbers of putative resistance genes in these pathogens and commensals
+cannot fully explain their relative susceptibility to the lantibiotics
+tested. We performed a Hidden Markov
+Model and BLAST search for the aforementioned genes among the genomes
+of pathogens and human gut commensals tested. For resistance mechanisms
+that require multiple genes (dltABCD, bceAB, and lanFEG), only the complete presence as an
+operon was counted. The numbers of corresponding genes in each genome
+are listed in Tables 1 and 2. Bacteria are listed in ascending order
+from left to right according to the median MIC value across the nisin-like
+lantibiotic panel. We found that for most organisms, the numbers of
+potential resistance-inducing genes present in a specific genome did
+not correlate with stronger lantibiotic resistance (lower susceptibility). becAB and mprF may correlate with resistance
+in some cases, as the most sensitive Clostridioides
+difficile does not possess these genes. Among human
+gut commensals, the most resistant E. ramosum has more bceAB genes than others. However, one
+of the most sensitive strains, Anaerostipes hadrus MSK.14.23, also contains the bceAB genes. In conclusion,
+the numbers of putative resistance genes in these pathogens and commensals
+cannot fully explain their relative susceptibility to the lantibiotics
+tested. We performed a Hidden Markov
+Model and BLAST search for the aforementioned genes among the genomes
+of pathogens and human gut commensals tested. For resistance mechanisms
+that require multiple genes (dltABCD, bceAB, and lanFEG), only the complete presence as an
+operon was counted. The numbers of corresponding genes in each genome
+are listed in Tables 1 and 2. Bacteria are listed in ascending order
+from left to right according to the median MIC value across the nisin-like
+lantibiotic panel. We found that for most organisms, the numbers of
+potential resistance-inducing genes present in a specific genome did
+not correlate with stronger lantibiotic resistance (lower susceptibility). becAB and mprF may correlate with resistance
+in some cases, as the most sensitive Clostridioides
+difficile does not possess these genes. Among human
+gut commensals, the most resistant E. ramosum has more bceAB genes than others. However, one
+of the most sensitive strains, Anaerostipes hadrus MSK.14.23, also contains the bceAB genes. In conclusion,
+the numbers of putative resistance genes in these pathogens and commensals
+cannot fully explain their relative susceptibility to the lantibiotics
+tested. Number of Genes in Pathogens Related
+to Resistance to Class I Lantibiotics Number of Genes in Pathogens Related
+to Resistance to Class I Lantibiotics Number of Genes in Pathogens Related
+to Resistance to Class I Lantibiotics bacterial
+strain C. difficile VPI10463 E.
+faecium ATCC700221 S. aureus USA300 S. epidermidis SK135 L.
+monocytogenes 10403s mechanism
+of resistance. bacterial
+strain C. difficile VPI10463 E.
+faecium ATCC700221 S. aureus USA300 S. epidermidis SK135 L.
+monocytogenes 10403s mechanism
+of resistance. bacterial
+strain C. difficile VPI10463 E.
+faecium ATCC700221 S. aureus USA300 S. epidermidis SK135 L.
+monocytogenes 10403s mechanism
+of resistance. nisin A MIC (μM) 2.67 1.48 2.67 2.67 2.67. nisin A MIC (μM) 2.67 1.48 2.67 2.67 2.67. nisin A MIC (μM) 2.67 1.48 2.67 2.67 2.67. median
+MIC (μM) 4.44 13.3 >13.3 >13.3 >13.3. median
+MIC (μM) 4.44 13.3 >13.3 >13.3 >13.3. median
+MIC (μM) 4.44 13.3 >13.3 >13.3 >13.3. cell wall biosynthesis. cell wall biosynthesis. cell wall biosynthesis. complete dltABCD 1 1 1 1 1 changing cell
+wall charge. complete dltABCD 1 1 1 1 1 changing cell
+wall charge. complete dltABCD 1 1 1 1 1 changing cell
+wall charge. efflux pump. efflux pump. efflux pump. complete lanFEG 1 0 1 0 0 lantibiotic efflux. complete lanFEG 1 0 1 0 0 lantibiotic efflux. complete lanFEG 1 0 1 0 0 lantibiotic efflux. complete bceAB 0 1 1 1 1 bacitracin efflux. complete bceAB 0 1 1 1 1 bacitracin efflux. complete bceAB 0 1 1 1 1 bacitracin efflux. others. others. others. telA 1 1 1 1 1 unknown. telA 1 1 1 1 1 unknown. telA 1 1 1 1 1 unknown. mprF 0 2 1 1 1 changing cell membrane charge. mprF 0 2 1 1 1 changing cell membrane charge. mprF 0 2 1 1 1 changing cell membrane charge. nsr 0 0 0 0 0 lantibiotic protease. nsr 0 0 0 0 0 lantibiotic protease. nsr 0 0 0 0 0 lantibiotic protease. lanI 0 0 0 0 0 lantibiotic sequestration. lanI 0 0 0 0 0 lantibiotic sequestration. lanI 0 0 0 0 0 lantibiotic sequestration. Number of Genes in
+Human Gut Commensals
+Related to Resistance of Nisin-like Lantibiotics Number of Genes in
+Human Gut Commensals
+Related to Resistance of Nisin-like Lantibiotics Number of Genes in
+Human Gut Commensals
+Related to Resistance of Nisin-like Lantibiotics bacterial
+strain A. hadrus MSK.14.23 D.
+formicigenerans MSK.17.61 B. obeum MSK.18.40 Coprococcus eutactus MSK.18.32 B. luti MSK.20.18 F. fissicatena MSK.9.3 C. comes MSK.11.23 E. ramosum MSK.23.96 mechanism
+of resistance. bacterial
+strain A. hadrus MSK.14.23 D.
+formicigenerans MSK.17.61 B. obeum MSK.18.40 Coprococcus eutactus MSK.18.32 B. luti MSK.20.18 F. fissicatena MSK.9.3 C. comes MSK.11.23 E. ramosum MSK.23.96 mechanism
+of resistance. bacterial
+strain A. hadrus MSK.14.23 D.
+formicigenerans MSK.17.61 B. obeum MSK.18.40 Coprococcus eutactus MSK.18.32 B. luti MSK.20.18 F. fissicatena MSK.9.3 C. comes MSK.11.23 E. ramosum MSK.23.96 mechanism
+of resistance. nisin A MIC (μM) 0.0110 0.0110 0.0110 0.0110 0.0329 0.0329 0.296 0.889. nisin A MIC (μM) 0.0110 0.0110 0.0110 0.0110 0.0329 0.0329 0.296 0.889. nisin A MIC (μM) 0.0110 0.0110 0.0110 0.0110 0.0329 0.0329 0.296 0.889. median MIC (μM) 0.0329 0.0329 0.0988 0.0988 0.0988 0.0988 0.296 >2.67. median MIC (μM) 0.0329 0.0329 0.0988 0.0988 0.0988 0.0988 0.296 >2.67. median MIC (μM) 0.0329 0.0329 0.0988 0.0988 0.0988 0.0988 0.296 >2.67. cell wall biosynthesis. cell wall biosynthesis. cell wall biosynthesis. complete dltABCD 0 0 0 0 0 0 0 0 changing cell wall charge. complete dltABCD 0 0 0 0 0 0 0 0 changing cell wall charge. complete dltABCD 0 0 0 0 0 0 0 0 changing cell wall charge. efflux pump. efflux pump. efflux pump. complete lanFEG 0 0 0 0 0 0 0 0 lantibiotic efflux. complete lanFEG 0 0 0 0 0 0 0 0 lantibiotic efflux. complete lanFEG 0 0 0 0 0 0 0 0 lantibiotic efflux. complete bceAB 1 0 0 1 0 0 1 2 bacitracin efflux. complete bceAB 1 0 0 1 0 0 1 2 bacitracin efflux. complete bceAB 1 0 0 1 0 0 1 2 bacitracin efflux. others. others. others. telA 0 0 1 0 1 1 1 0 unknown. telA 0 0 1 0 1 1 1 0 unknown. telA 0 0 1 0 1 1 1 0 unknown. mprF 0 0 0 0 0 0 0 0 changing cell membrane charge. mprF 0 0 0 0 0 0 0 0 changing cell membrane charge. mprF 0 0 0 0 0 0 0 0 changing cell membrane charge. nsr 0 0 0 0 0 0 0 0 lantibiotic protease. nsr 0 0 0 0 0 0 0 0 lantibiotic protease. nsr 0 0 0 0 0 0 0 0 lantibiotic protease. lanI 0 0 0 0 0 0 0 0 lantibiotic sequestration. lanI 0 0 0 0 0 0 0 0 lantibiotic sequestration. lanI 0 0 0 0 0 0 0 0 lantibiotic sequestration. Structure–Activity
+Relationship Studies Structure–Activity
+Relationship Studies Structure–Activity
+Relationship Studies Given
+the high similarity of sequences among the nisin-like lantibiotics
+encoded in the gut microbiome, we next set out to study the structure–activity
+relationships (SAR) between specific residues and the antimicrobial
+activity. Blauticin and nisin O are two lantibiotics derived from Blautia species, but their activities vary against both
+pathogens and commensals, with nisin O being more effective in most
+cases. Four major regions differ between them: residues 1 and 2 at
+their N termini, residue 12 between rings B and C, residues 20–22
+at the hinge region, and residue 29 at the C termini (Figure 4A). To assess the impact of
+these individual regions on the antimicrobial activity, we synthesized
+four blauticin analogs by replacing the blauticin residues with the
+corresponding residues in nisin O (analog1–analog4) using the
+expression platform described above (Figures 4A and S8, and Table S1). Given
+the high similarity of sequences among the nisin-like lantibiotics
+encoded in the gut microbiome, we next set out to study the structure–activity
+relationships (SAR) between specific residues and the antimicrobial
+activity. Blauticin and nisin O are two lantibiotics derived from Blautia species, but their activities vary against both
+pathogens and commensals, with nisin O being more effective in most
+cases. Four major regions differ between them: residues 1 and 2 at
+their N termini, residue 12 between rings B and C, residues 20–22
+at the hinge region, and residue 29 at the C termini (Figure 4A). To assess the impact of
+these individual regions on the antimicrobial activity, we synthesized
+four blauticin analogs by replacing the blauticin residues with the
+corresponding residues in nisin O (analog1–analog4) using the
+expression platform described above (Figures 4A and S8, and Table S1). Given
+the high similarity of sequences among the nisin-like lantibiotics
+encoded in the gut microbiome, we next set out to study the structure–activity
+relationships (SAR) between specific residues and the antimicrobial
+activity. Blauticin and nisin O are two lantibiotics derived from Blautia species, but their activities vary against both
+pathogens and commensals, with nisin O being more effective in most
+cases. Four major regions differ between them: residues 1 and 2 at
+their N termini, residue 12 between rings B and C, residues 20–22
+at the hinge region, and residue 29 at the C termini (Figure 4A). To assess the impact of
+these individual regions on the antimicrobial activity, we synthesized
+four blauticin analogs by replacing the blauticin residues with the
+corresponding residues in nisin O (analog1–analog4) using the
+expression platform described above (Figures 4A and S8, and Table S1). Figure 4Structure–activity relationship (SAR) study of blauticin
+and comparison with Nisin O. (A) Illustration of blauticin, SAR analogs,
+and nisin O. Dashed boxes indicate regions from nisin O swapped into
+the blauticin backbone individually that created each SAR analog.
+Green shading indicates residues different from blauticin. Five rings
+in the structure are denoted on the top. Residue numbers and hinge
+region are denoted at the bottom. (B–N) Minimal inhibitory
+concentration (MIC) of the lantibiotic analogs against human pathogens
+(B–F) and human gut commensals (G–N). Each dot indicates
+one measurement of MIC value, determined by the lowest concentration
+that caused no or significantly less bacterial growth. Each bar indicates
+median MIC value. Upper and lower dashed lines indicate the upper
+and lower limits of concentration tested, respectively. Observed and
+expected masses for each compound are listed in Table S1. Figure 4Structure–activity relationship (SAR) study of blauticin
+and comparison with Nisin O. (A) Illustration of blauticin, SAR analogs,
+and nisin O. Dashed boxes indicate regions from nisin O swapped into
+the blauticin backbone individually that created each SAR analog.
+Green shading indicates residues different from blauticin. Five rings
+in the structure are denoted on the top. Residue numbers and hinge
+region are denoted at the bottom. (B–N) Minimal inhibitory
+concentration (MIC) of the lantibiotic analogs against human pathogens
+(B–F) and human gut commensals (G–N). Each dot indicates
+one measurement of MIC value, determined by the lowest concentration
+that caused no or significantly less bacterial growth. Each bar indicates
+median MIC value. Upper and lower dashed lines indicate the upper
+and lower limits of concentration tested, respectively. Observed and
+expected masses for each compound are listed in Table S1. Figure 4Structure–activity relationship (SAR) study of blauticin
+and comparison with Nisin O. (A) Illustration of blauticin, SAR analogs,
+and nisin O. Dashed boxes indicate regions from nisin O swapped into
+the blauticin backbone individually that created each SAR analog.
+Green shading indicates residues different from blauticin. Five rings
+in the structure are denoted on the top. Residue numbers and hinge
+region are denoted at the bottom. (B–N) Minimal inhibitory
+concentration (MIC) of the lantibiotic analogs against human pathogens
+(B–F) and human gut commensals (G–N). Each dot indicates
+one measurement of MIC value, determined by the lowest concentration
+that caused no or significantly less bacterial growth. Each bar indicates
+median MIC value. Upper and lower dashed lines indicate the upper
+and lower limits of concentration tested, respectively. Observed and
+expected masses for each compound are listed in Table S1. Structure–activity relationship (SAR) study of blauticin
+and comparison with Nisin O. (A) Illustration of blauticin, SAR analogs,
+and nisin O. Dashed boxes indicate regions from nisin O swapped into
+the blauticin backbone individually that created each SAR analog.
+Green shading indicates residues different from blauticin. Five rings
+in the structure are denoted on the top. Residue numbers and hinge
+region are denoted at the bottom. (B–N) Minimal inhibitory
+concentration (MIC) of the lantibiotic analogs against human pathogens
+(B–F) and human gut commensals (G–N). Each dot indicates
+one measurement of MIC value, determined by the lowest concentration
+that caused no or significantly less bacterial growth. Each bar indicates
+median MIC value. Upper and lower dashed lines indicate the upper
+and lower limits of concentration tested, respectively. Observed and
+expected masses for each compound are listed in Table S1. Structure–activity relationship (SAR) study of blauticin
+and comparison with Nisin O. (A) Illustration of blauticin, SAR analogs,
+and nisin O. Dashed boxes indicate regions from nisin O swapped into
+the blauticin backbone individually that created each SAR analog.
+Green shading indicates residues different from blauticin. Five rings
+in the structure are denoted on the top. Residue numbers and hinge
+region are denoted at the bottom. (B–N) Minimal inhibitory
+concentration (MIC) of the lantibiotic analogs against human pathogens
+(B–F) and human gut commensals (G–N). Each dot indicates
+one measurement of MIC value, determined by the lowest concentration
+that caused no or significantly less bacterial growth. Each bar indicates
+median MIC value. Upper and lower dashed lines indicate the upper
+and lower limits of concentration tested, respectively. Observed and
+expected masses for each compound are listed in Table S1. Structure–activity relationship (SAR) study of blauticin
+and comparison with Nisin O. (A) Illustration of blauticin, SAR analogs,
+and nisin O. Dashed boxes indicate regions from nisin O swapped into
+the blauticin backbone individually that created each SAR analog.
+Green shading indicates residues different from blauticin. Five rings
+in the structure are denoted on the top. Residue numbers and hinge
+region are denoted at the bottom. (B–N) Minimal inhibitory
+concentration (MIC) of the lantibiotic analogs against human pathogens
+(B–F) and human gut commensals (G–N). Each dot indicates
+one measurement of MIC value, determined by the lowest concentration
+that caused no or significantly less bacterial growth. Each bar indicates
+median MIC value. Upper and lower dashed lines indicate the upper
+and lower limits of concentration tested, respectively. Observed and
+expected masses for each compound are listed in Table S1. The bioactivities of
+the four analogs were tested against the aforementioned
+panel of pathogens and gut commensals. In the pathogen panel, analog1
+had intermediate antimicrobial activity between blauticin and nisin
+O, except in the case against VRE (Figure 4B–F), while analog2 to analog4 displayed
+comparable or reduced activities compared to the two parent lantibiotics.
+On the other hand, for the gut commensal panel, analog1 and analog3
+had intermediate inhibitory activities between blauticin and nisin
+O for some commensals (Figure 4G–I,L), and had even better antimicrobial activities
+when targeting E. ramosum (Figure 4J) or D. formicigenerans (Figure 4K). On the contrary, analogs2 and 4 exhibited
+diminished activities compared to both parent molecules (Figure 4G–N). Interestingly,
+for C. eutactus, none of the analogs
+displayed better inhibition than either parent lantibiotic, and it
+was also the only case when blauticin had a lower MIC than nisin O.
+These data suggest that the first two residues and the hinge region
+of nisin-like lantibiotics have a more direct impact on the antimicrobial
+activity of nisin-like lantibiotics, while single-residue mutations
+V12P and Q29H had a deleterious impact on antimicrobial activity depending
+on the context of the backbone. The bioactivities of
+the four analogs were tested against the aforementioned
+panel of pathogens and gut commensals. In the pathogen panel, analog1
+had intermediate antimicrobial activity between blauticin and nisin
+O, except in the case against VRE (Figure 4B–F), while analog2 to analog4 displayed
+comparable or reduced activities compared to the two parent lantibiotics.
+On the other hand, for the gut commensal panel, analog1 and analog3
+had intermediate inhibitory activities between blauticin and nisin
+O for some commensals (Figure 4G–I,L), and had even better antimicrobial activities
+when targeting E. ramosum (Figure 4J) or D. formicigenerans (Figure 4K). On the contrary, analogs2 and 4 exhibited
+diminished activities compared to both parent molecules (Figure 4G–N). Interestingly,
+for C. eutactus, none of the analogs
+displayed better inhibition than either parent lantibiotic, and it
+was also the only case when blauticin had a lower MIC than nisin O.
+These data suggest that the first two residues and the hinge region
+of nisin-like lantibiotics have a more direct impact on the antimicrobial
+activity of nisin-like lantibiotics, while single-residue mutations
+V12P and Q29H had a deleterious impact on antimicrobial activity depending
+on the context of the backbone. The bioactivities of
+the four analogs were tested against the aforementioned
+panel of pathogens and gut commensals. In the pathogen panel, analog1
+had intermediate antimicrobial activity between blauticin and nisin
+O, except in the case against VRE (Figure 4B–F), while analog2 to analog4 displayed
+comparable or reduced activities compared to the two parent lantibiotics.
+On the other hand, for the gut commensal panel, analog1 and analog3
+had intermediate inhibitory activities between blauticin and nisin
+O for some commensals (Figure 4G–I,L), and had even better antimicrobial activities
+when targeting E. ramosum (Figure 4J) or D. formicigenerans (Figure 4K). On the contrary, analogs2 and 4 exhibited
+diminished activities compared to both parent molecules (Figure 4G–N). Interestingly,
+for C. eutactus, none of the analogs
+displayed better inhibition than either parent lantibiotic, and it
+was also the only case when blauticin had a lower MIC than nisin O.
+These data suggest that the first two residues and the hinge region
+of nisin-like lantibiotics have a more direct impact on the antimicrobial
+activity of nisin-like lantibiotics, while single-residue mutations
+V12P and Q29H had a deleterious impact on antimicrobial activity depending
+on the context of the backbone. We further performed SAR studies
+on two highly similar lantibiotics,
+Lan-P49.1 and Lan-P49.2. They originate from the same Pseudobutyrivibrio genome, and their amino acid sequences have the largest difference
+in the hinge region. To test the impact of the hinge region, we swapped
+the hinge region of Lan-P49.1 into the Lan-P49.2 backbone, creating
+analog5 (Figures 5A
+and S8, and Table S1). Analog5 had decreased
+antimicrobial activity against the pathogen panel compared with Lan-P49.2
+(Figure 5B–F).
+When tested against the gut commensal panel, analog5 displayed intermediate
+activity compared to Lan-P49.1 and Lan-P49.2 in most cases (Figure 5H,I,K,M,N), reaching
+the same MIC as that of Lan-P49.1 in some bacteria (Figure 5M) and the same MIC as that
+of Lan-P49.2 in other commensals (Figure 5H,I,N). Interestingly, for A. hadrus and C. comes, analog5 had decreased antimicrobial activity compared to both parent
+lantibiotics, whereas for E. ramosum, analog5 had increased antimicrobial activity. These data demonstrate
+the importance of the hinge region in determining the antimicrobial
+activity of nisin-like lantibiotics, and are consistent with an emerging
+realization that lantibiotics may act differently based on the target
+organism investigated.55 We further performed SAR studies
+on two highly similar lantibiotics,
+Lan-P49.1 and Lan-P49.2. They originate from the same Pseudobutyrivibrio genome, and their amino acid sequences have the largest difference
+in the hinge region. To test the impact of the hinge region, we swapped
+the hinge region of Lan-P49.1 into the Lan-P49.2 backbone, creating
+analog5 (Figures 5A
+and S8, and Table S1). Analog5 had decreased
+antimicrobial activity against the pathogen panel compared with Lan-P49.2
+(Figure 5B–F).
+When tested against the gut commensal panel, analog5 displayed intermediate
+activity compared to Lan-P49.1 and Lan-P49.2 in most cases (Figure 5H,I,K,M,N), reaching
+the same MIC as that of Lan-P49.1 in some bacteria (Figure 5M) and the same MIC as that
+of Lan-P49.2 in other commensals (Figure 5H,I,N). Interestingly, for A. hadrus and C. comes, analog5 had decreased antimicrobial activity compared to both parent
+lantibiotics, whereas for E. ramosum, analog5 had increased antimicrobial activity. These data demonstrate
+the importance of the hinge region in determining the antimicrobial
+activity of nisin-like lantibiotics, and are consistent with an emerging
+realization that lantibiotics may act differently based on the target
+organism investigated.55 We further performed SAR studies
+on two highly similar lantibiotics,
+Lan-P49.1 and Lan-P49.2. They originate from the same Pseudobutyrivibrio genome, and their amino acid sequences have the largest difference
+in the hinge region. To test the impact of the hinge region, we swapped
+the hinge region of Lan-P49.1 into the Lan-P49.2 backbone, creating
+analog5 (Figures 5A
+and S8, and Table S1). Analog5 had decreased
+antimicrobial activity against the pathogen panel compared with Lan-P49.2
+(Figure 5B–F).
+When tested against the gut commensal panel, analog5 displayed intermediate
+activity compared to Lan-P49.1 and Lan-P49.2 in most cases (Figure 5H,I,K,M,N), reaching
+the same MIC as that of Lan-P49.1 in some bacteria (Figure 5M) and the same MIC as that
+of Lan-P49.2 in other commensals (Figure 5H,I,N). Interestingly, for A. hadrus and C. comes, analog5 had decreased antimicrobial activity compared to both parent
+lantibiotics, whereas for E. ramosum, analog5 had increased antimicrobial activity. These data demonstrate
+the importance of the hinge region in determining the antimicrobial
+activity of nisin-like lantibiotics, and are consistent with an emerging
+realization that lantibiotics may act differently based on the target
+organism investigated.55 Figure 5Structure–activity
+relationship (SAR) study of Lan-P49.1
+versus Lan-P49.2. (A) Illustration of Lan-P49.1, analog5, and Lan-P49.2.
+The dashed box indicates the hinge region from Lan-P49.1 swapped into
+the Lan-P49.2 backbone that created analog5. Green shading indicates
+residues different from P49.2. Five rings in the structure are denoted
+on the top. Residue numbers and hinge region are denoted at the bottom.
+(B–N) Minimal inhibitory concentration (MIC) of the lantibiotic
+analogs against human pathogens (B–F) and human gut commensals
+(G–N). Each dot indicates one measurement of MIC value, determined
+by the lowest concentration that caused no or significantly less bacterial
+growth. Each bar indicates median MIC value. Upper and lower dashed
+lines indicate upper and lower limits of concentration tested, respectively.
+Observed and expected masses for each compound are listed in Table S1. Figure 5Structure–activity
+relationship (SAR) study of Lan-P49.1
+versus Lan-P49.2. (A) Illustration of Lan-P49.1, analog5, and Lan-P49.2.
+The dashed box indicates the hinge region from Lan-P49.1 swapped into
+the Lan-P49.2 backbone that created analog5. Green shading indicates
+residues different from P49.2. Five rings in the structure are denoted
+on the top. Residue numbers and hinge region are denoted at the bottom.
+(B–N) Minimal inhibitory concentration (MIC) of the lantibiotic
+analogs against human pathogens (B–F) and human gut commensals
+(G–N). Each dot indicates one measurement of MIC value, determined
+by the lowest concentration that caused no or significantly less bacterial
+growth. Each bar indicates median MIC value. Upper and lower dashed
+lines indicate upper and lower limits of concentration tested, respectively.
+Observed and expected masses for each compound are listed in Table S1. Figure 5Structure–activity
+relationship (SAR) study of Lan-P49.1
+versus Lan-P49.2. (A) Illustration of Lan-P49.1, analog5, and Lan-P49.2.
+The dashed box indicates the hinge region from Lan-P49.1 swapped into
+the Lan-P49.2 backbone that created analog5. Green shading indicates
+residues different from P49.2. Five rings in the structure are denoted
+on the top. Residue numbers and hinge region are denoted at the bottom.
+(B–N) Minimal inhibitory concentration (MIC) of the lantibiotic
+analogs against human pathogens (B–F) and human gut commensals
+(G–N). Each dot indicates one measurement of MIC value, determined
+by the lowest concentration that caused no or significantly less bacterial
+growth. Each bar indicates median MIC value. Upper and lower dashed
+lines indicate upper and lower limits of concentration tested, respectively.
+Observed and expected masses for each compound are listed in Table S1. Structure–activity
+relationship (SAR) study of Lan-P49.1
+versus Lan-P49.2. (A) Illustration of Lan-P49.1, analog5, and Lan-P49.2.
+The dashed box indicates the hinge region from Lan-P49.1 swapped into
+the Lan-P49.2 backbone that created analog5. Green shading indicates
+residues different from P49.2. Five rings in the structure are denoted
+on the top. Residue numbers and hinge region are denoted at the bottom.
+(B–N) Minimal inhibitory concentration (MIC) of the lantibiotic
+analogs against human pathogens (B–F) and human gut commensals
+(G–N). Each dot indicates one measurement of MIC value, determined
+by the lowest concentration that caused no or significantly less bacterial
+growth. Each bar indicates median MIC value. Upper and lower dashed
+lines indicate upper and lower limits of concentration tested, respectively.
+Observed and expected masses for each compound are listed in Table S1. Structure–activity
+relationship (SAR) study of Lan-P49.1
+versus Lan-P49.2. (A) Illustration of Lan-P49.1, analog5, and Lan-P49.2.
+The dashed box indicates the hinge region from Lan-P49.1 swapped into
+the Lan-P49.2 backbone that created analog5. Green shading indicates
+residues different from P49.2. Five rings in the structure are denoted
+on the top. Residue numbers and hinge region are denoted at the bottom.
+(B–N) Minimal inhibitory concentration (MIC) of the lantibiotic
+analogs against human pathogens (B–F) and human gut commensals
+(G–N). Each dot indicates one measurement of MIC value, determined
+by the lowest concentration that caused no or significantly less bacterial
+growth. Each bar indicates median MIC value. Upper and lower dashed
+lines indicate upper and lower limits of concentration tested, respectively.
+Observed and expected masses for each compound are listed in Table S1. Structure–activity
+relationship (SAR) study of Lan-P49.1
+versus Lan-P49.2. (A) Illustration of Lan-P49.1, analog5, and Lan-P49.2.
+The dashed box indicates the hinge region from Lan-P49.1 swapped into
+the Lan-P49.2 backbone that created analog5. Green shading indicates
+residues different from P49.2. Five rings in the structure are denoted
+on the top. Residue numbers and hinge region are denoted at the bottom.
+(B–N) Minimal inhibitory concentration (MIC) of the lantibiotic
+analogs against human pathogens (B–F) and human gut commensals
+(G–N). Each dot indicates one measurement of MIC value, determined
+by the lowest concentration that caused no or significantly less bacterial
+growth. Each bar indicates median MIC value. Upper and lower dashed
+lines indicate upper and lower limits of concentration tested, respectively.
+Observed and expected masses for each compound are listed in Table S1. Discussion Discussion Nisin is a class I lantibiotic that has been
+widely used in the
+food industry for decades and has been explored as an antimicrobial
+therapeutic.23,26 Nisin A is produced by L. lactis, found in milk. However, how nisin and
+nisin-like lantibiotics might impact the human gut microbiome has
+not been elucidated, nor has the presence of nisin-like compounds
+in the human gut microbiome been investigated in detail. The recent
+discovery of blauticin and nisin analogs clearly indicates that nisin-like
+molecules are encoded in the human microbiome,18,31,56,57 with other
+analogs detected in the microbiome of other mammals.58,59 To first explore the biosynthetic potential of the gut microbiome
+for lantibiotic production, we systematically performed bioinformatic
+mining with RODEO for nisin-like lantibiotics derived from gut bacterial
+genomes. Subsequent filtering, multiple sequence alignment, and manual
+curation discovered six gut-derived nisin-like lantibiotics, four
+of which were not reported previously. Our work greatly expands the
+repertoire of naturally encoded nisin-like lantibiotics from the human
+gut. Nisin is a class I lantibiotic that has been
+widely used in the
+food industry for decades and has been explored as an antimicrobial
+therapeutic.23,26 Nisin A is produced by L. lactis, found in milk. However, how nisin and
+nisin-like lantibiotics might impact the human gut microbiome has
+not been elucidated, nor has the presence of nisin-like compounds
+in the human gut microbiome been investigated in detail. The recent
+discovery of blauticin and nisin analogs clearly indicates that nisin-like
+molecules are encoded in the human microbiome,18,31,56,57 with other
+analogs detected in the microbiome of other mammals.58,59 To first explore the biosynthetic potential of the gut microbiome
+for lantibiotic production, we systematically performed bioinformatic
+mining with RODEO for nisin-like lantibiotics derived from gut bacterial
+genomes. Subsequent filtering, multiple sequence alignment, and manual
+curation discovered six gut-derived nisin-like lantibiotics, four
+of which were not reported previously. Our work greatly expands the
+repertoire of naturally encoded nisin-like lantibiotics from the human
+gut. Utilizing an improved heterologous expression platform
+for lantibiotics
+in E. coli, we produced all six gut-derived
+lantibiotics in mixed dehydration states. Blauticin is produced in
+very similar mixed dehydration states by its native host B. producta, and its fully dehydrated form has a
+similar efficacy against VRE compared to its mixture of different
+dehydration states. This finding, along with the observation that
+nisin is also produced in various dehydration states in its native
+producer (e.g., see Figure S6J for commercial
+nisin A),36,37 suggests that nisin-like lantibiotics do
+not require full dehydration for their antimicrobial activity. Therefore,
+we used purified lantibiotics in mixed dehydration states in this
+study because they best represent the naturally produced compounds.
+Despite similar MIC values, blauticin in mixed dehydration states
+displayed decreased lipid II-containing liposome permeabilization
+activity compared with fully dehydrated blauticin. One possible explanation
+for this finding is that blauticin binding to lipid II without pore
+formation (e.g., lipid II sequestration60) may contribute to killing bacteria. Utilizing an improved heterologous expression platform
+for lantibiotics
+in E. coli, we produced all six gut-derived
+lantibiotics in mixed dehydration states. Blauticin is produced in
+very similar mixed dehydration states by its native host B. producta, and its fully dehydrated form has a
+similar efficacy against VRE compared to its mixture of different
+dehydration states. This finding, along with the observation that
+nisin is also produced in various dehydration states in its native
+producer (e.g., see Figure S6J for commercial
+nisin A),36,37 suggests that nisin-like lantibiotics do
+not require full dehydration for their antimicrobial activity. Therefore,
+we used purified lantibiotics in mixed dehydration states in this
+study because they best represent the naturally produced compounds.
+Despite similar MIC values, blauticin in mixed dehydration states
+displayed decreased lipid II-containing liposome permeabilization
+activity compared with fully dehydrated blauticin. One possible explanation
+for this finding is that blauticin binding to lipid II without pore
+formation (e.g., lipid II sequestration60) may contribute to killing bacteria. Gram-positive pathogens
+and human gut commensals have varied susceptibility
+profiles toward the panel of lantibiotics tested. Many mechanisms
+of lantibiotic resistance have been described in bacteria; besides
+mechanisms already discussed, an array of two-component systems and
+cell membrane modification genes have also been reported to confer
+lantibiotic resistance (see detailed discussion in ref (30)). Besides the presence
+and number of resistance genes in the genome, the regulation and expression
+of these genes are also important in lantibiotic resistance. While
+we did not find strong correlations between the numbers of resistance
+genes and the MICs of the lantibiotic panel tested, future studies
+of expression and regulation of various resistance genes in bacteria,
+especially in human gut commensals, will be needed to elucidate the
+apparent differences in susceptibility among Gram-positive bacteria.
+Alternatively, other differences between the tested bacteria, such
+as membrane composition, may account for the different susceptibilities. Gram-positive pathogens
+and human gut commensals have varied susceptibility
+profiles toward the panel of lantibiotics tested. Many mechanisms
+of lantibiotic resistance have been described in bacteria; besides
+mechanisms already discussed, an array of two-component systems and
+cell membrane modification genes have also been reported to confer
+lantibiotic resistance (see detailed discussion in ref (30)). Besides the presence
+and number of resistance genes in the genome, the regulation and expression
+of these genes are also important in lantibiotic resistance. While
+we did not find strong correlations between the numbers of resistance
+genes and the MICs of the lantibiotic panel tested, future studies
+of expression and regulation of various resistance genes in bacteria,
+especially in human gut commensals, will be needed to elucidate the
+apparent differences in susceptibility among Gram-positive bacteria.
+Alternatively, other differences between the tested bacteria, such
+as membrane composition, may account for the different susceptibilities. To further understand the contribution of specific residues in
+naturally occurring nisin-like lantibiotics to their antimicrobial
+activity, we studied the SAR of two pairs of closely related lantibiotics:
+blauticin versus nisin O, and Lan-P49.1 versus Lan-P49.2. Both SARs
+revealed that the hinge region is critical in determining the efficacy
+of these lantibiotics, consistent with previous reports.32−35,61 SAR studies of blauticin versus
+nisin O also found the first two residues to be important for activity.
+Surprisingly, when residues in blauticin were changed to their counterparts
+in nisin O (analog2 and analog4), it caused deleterious effects on
+the antimicrobial activity even against bacteria toward which nisin
+O has stronger activity than blauticin. Our data suggest that the
+impact of certain individual residues is context-dependent, implicating
+intricate interactions among residues along the full length of nisin-like
+lantibiotics. The 1:1 structure of nisin bound to lipid II has been
+determined by NMR spectroscopy in DMSO,62 and solid-state NMR studies of the lipid II-nisin complex in a membrane
+environment show that the hinge region is facing the lumen of the
+pore in the complex.63 However, the details
+of the structure of the 2:1 nisin to lipid II complex that is believed
+to be present in the pores that are made up of eight nisin and four
+lipid II molecules34 is currently still
+not known. Our results showing high sensitivity to replacing even
+single residues suggest that it may be that the naturally occurring
+sequences of nisin-like lantibiotics may have evolved such that covariance
+of residues is important for forming the 2:1 ratio structure and/or
+that the residues facing the lumen of the pore in the complex are
+important for bioactivity. To further understand the contribution of specific residues in
+naturally occurring nisin-like lantibiotics to their antimicrobial
+activity, we studied the SAR of two pairs of closely related lantibiotics:
+blauticin versus nisin O, and Lan-P49.1 versus Lan-P49.2. Both SARs
+revealed that the hinge region is critical in determining the efficacy
+of these lantibiotics, consistent with previous reports.32−35,61 SAR studies of blauticin versus
+nisin O also found the first two residues to be important for activity.
+Surprisingly, when residues in blauticin were changed to their counterparts
+in nisin O (analog2 and analog4), it caused deleterious effects on
+the antimicrobial activity even against bacteria toward which nisin
+O has stronger activity than blauticin. Our data suggest that the
+impact of certain individual residues is context-dependent, implicating
+intricate interactions among residues along the full length of nisin-like
+lantibiotics. The 1:1 structure of nisin bound to lipid II has been
+determined by NMR spectroscopy in DMSO,62 and solid-state NMR studies of the lipid II-nisin complex in a membrane
+environment show that the hinge region is facing the lumen of the
+pore in the complex.63 However, the details
+of the structure of the 2:1 nisin to lipid II complex that is believed
+to be present in the pores that are made up of eight nisin and four
+lipid II molecules34 is currently still
+not known. Our results showing high sensitivity to replacing even
+single residues suggest that it may be that the naturally occurring
+sequences of nisin-like lantibiotics may have evolved such that covariance
+of residues is important for forming the 2:1 ratio structure and/or
+that the residues facing the lumen of the pore in the complex are
+important for bioactivity. In summary, we have discovered gut-derived
+novel class I lantibiotics
+through bioinformatic mining, produced them using an improved heterologous
+expression platform, and studied their antimicrobial activities against
+both pathogens and human gut commensals. These characterizations and
+subsequent SAR studies have revealed the antimicrobial spectrum of
+both pathogens and human gut commensals, providing insights that will
+be valuable for the future development of lantibiotic-based therapeutics
+and food preservatives. In summary, we have discovered gut-derived
+novel class I lantibiotics
+through bioinformatic mining, produced them using an improved heterologous
+expression platform, and studied their antimicrobial activities against
+both pathogens and human gut commensals. These characterizations and
+subsequent SAR studies have revealed the antimicrobial spectrum of
+both pathogens and human gut commensals, providing insights that will
+be valuable for the future development of lantibiotic-based therapeutics
+and food preservatives. Supporting Information Available The Supporting Information
+is available free of charge at https://pubs.acs.org/doi/10.1021/acschembio.3c00577.Experimental procedures;
+bioinformatic analysis and
+MSA (Figure S1); improved expression platform and lantibiotic production
+workflow (Figure S2); MALDI-TOF MS analysis (Figures S3, S5, and S8);
+bioactivities of blauticin (Figure S4); tandem MS analysis (Figure
+S6); liposome permeabilization assays (Figure S7); lanthipeptide expected
+and observed masses (Table S1); oligonucleotides and gene fragments
+used in this study (Table S2); and bacterial genomes and PFAM HMM
+used in this study (Table S3); materials and methods, Figures S1–S8;
+Tables S1–S3 (PDF) Experimental procedures;
+bioinformatic analysis and
+MSA (Figure S1); improved expression platform and lantibiotic production
+workflow (Figure S2); MALDI-TOF MS analysis (Figures S3, S5, and S8);
+bioactivities of blauticin (Figure S4); tandem MS analysis (Figure
+S6); liposome permeabilization assays (Figure S7); lanthipeptide expected
+and observed masses (Table S1); oligonucleotides and gene fragments
+used in this study (Table S2); and bacterial genomes and PFAM HMM
+used in this study (Table S3); materials and methods, Figures S1–S8;
+Tables S1–S3 (PDF) Supplementary Material Supplementary Material cb3c00577_si_001.pdf cb3c00577_si_001.pdf Author Contributions # Z.J.Z. and C.W. contributed equally to this study. Z.J.Z. was supported
+by The GI Research Foundation early career grant, and R.M. was supported
+by a fellowship from the Life Science Research Foundation funded by
+HHMI. This work was supported by US National Institutes of Health
+grants R01AI095706, P01 CA023766, U01 AI124275, and R01 AI042135 to
+E.G.P., and by the Duchossois Family Institute of the University of
+Chicago. W.A.V. is an Investigator of the Howard Hughes Medical Institute.
+The Bruker UltrafleXtreme MALDI TOF/TOF mass spectrometer used for
+this work was purchased in part with a grant from the National Center
+for Research Resources, National Institutes of Health (S10 RR027109
+A). The authors declare the
+following competing financial interest(s): E.G.P. serves on the advisory
+board of Diversigen; is an inventor on patent applications WPO2015179437A1,
+titled Methods and compositions for reducing Clostridium difficile
+infection, and WO2017091753A1, titled Methods and compositions for
+reducing vancomycin-resistant enterococci infection or colonization;
+and receives royalties from Seres Therapeutics, Inc. The other authors
+are not aware of any affiliations, memberships, funding, or financial
+holdings that might be perceived as affecting the objectivity of this
+manuscript. Acknowledgments The authors thank members of the E.G.P. laboratory
+who have
+provided valuable feedback on this manuscript. This study is subject
+to HHMI’s Open Access to Publications policy. HHMI laboratory
+heads have previously granted a nonexclusive CC BY 4.0 license to
+the public and a sublicensable license to HHMI in their research articles.
+Pursuant to those licenses, the author-accepted manuscript of this
+article can be made freely available under a CC BY 4.0 license immediately
+upon publication. References e134.

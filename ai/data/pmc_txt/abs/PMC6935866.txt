@@ -1,0 +1,15 @@
+ Assembly-line polyketide synthases (PKSs) are among the
+most complex
+protein machineries known in nature, responsible for the biosynthesis
+of numerous compounds used in the clinic. Their present-day diversity
+is the result of an evolutionary path that has involved the emergence
+of a multimodular architecture and further diversification of assembly-line
+PKSs. In this review, we provide an overview of previous studies that
+investigated PKS evolution and propose a model that challenges the
+currently prevailing view that gene duplication has played a major
+role in the emergence of multimodularity. We also analyze the ensemble
+of orphan PKS clusters sequenced so far to evaluate how large the
+entire diversity of assembly-line PKS clusters and their chemical
+products could be. Finally, we examine the existing techniques to
+access the natural PKS diversity in natural and heterologous hosts
+and describe approaches to further expand this diversity through engineering.

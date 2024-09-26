@@ -19,7 +19,77 @@ class literature:
         self.ncbikey='5828bbfa3284f57313641eca97ae01703408' #my apikey https://www.ncbi.nlm.nih.gov/account/settings
         pass 
     
+
+    def get_ncbi_ids_summary(self,db,ids,tags,ids_splt):
+        start = list(range(0,len(ids),ids_splt)) # compounds starting indices
+        end = [*list(range(ids_splt,len(ids),ids_splt)),*[len(ids)]] # compounds ending indices  
+        irslts = []
+        for s,strt in enumerate(start):             
+            url = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?'
+            params = {'db':db,'id':','.join(ids[strt:end[s]]),'retmode':'json','api_key':self.ncbikey,'version':2.0}
+            print(params)
+            response = requests.get(url,params)
+            rstate = response.status_code
+            print(rstate)
+            rjson = response.json()
+            rslts = rjson['result']
+            uids = rjson['result']['uids']
+            for uid in uids:
+                irslt = {}
+                if tags!='all':
+                    for tag in tags:
+                        if tag in rslts[uid].keys():
+                            irslt[tag] = rslts[uid][tag]
+                else:
+                    for k in rslts[uid].keys():
+                        irslt[k] = rslts[uid][k]
+                irslts.append(irslt)
+                
+        return irslts
         
+    def map_ncbi_db_ids(self,dbfrom,db,ids,ids_splt):
+        ranges = [ids[r:r+ids_splt] for r in list(range(0,len(ids)+ids_splt,ids_splt))]
+        map_ids = []
+        for rs in ranges:
+            try:
+                if isinstance(rs,list):sids =','.join(rs) #converts ids list into a string
+                url = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi'
+                params = {'dbfrom':dbfrom,'db':db,'id':sids,'retmode':'json','api_key':self.ncbikey}
+                print(params)
+                response = requests.get(url,params)
+                rstate = response.status_code
+                print(rstate)
+                rjson = response.json()
+                #print(rjson)
+                map_ids = [*map_ids,*rjson['linksets'][0]['linksetdbs'][0]['links']]
+            except:
+                print('ERROR IN '+','.join(rs))
+                pass
+        return map_ids
+
+    def get_ncbi_db_ids(self,db,query):
+        url = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi'
+        params = {'db':db,'term':query,'retmax':'5','retmode':'json','api_key':self.ncbikey}
+        print(params)
+        try:
+            response = requests.get(url,params)
+            rjson = response.json()
+            count = rjson['esearchresult']['count']
+            ids = []
+            url = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db='+db+'&term='+query+'&retmax='+count+'&api_key='+self.ncbikey+'&retmode=json'
+            response = requests.get(url)
+            rstate = response.status_code
+            # print(rstate)
+            # print(response)
+            rjson = response.json() 
+            # print(rjson)
+            ids = np.unique(rjson['esearchresult']['idlist']).tolist()
+            # print(ids)
+        except:
+            print('response error')
+            pass
+        return ids
+    
     def xrf_pmc(self,project_name,output_dir,qpmids):
         
         if 'PMC' in qpmids[0]:db = 'pmc'
@@ -130,7 +200,10 @@ class literature:
     def get_ft_xml(self,xml_dir,pmcidsj):
         
         ### load pmcids ###
-        with open(pmcidsj) as j: pmcids = json.load(j)
+        if isinstance(pmcidsj, str):
+            with open(pmcidsj) as j: pmcids = json.load(j)
+        if isinstance(pmcidsj,list):
+            pmcids = pmcidsj
         print(pmcids)
         
         ### remove old dbdir ###        
@@ -170,7 +243,10 @@ class literature:
 
 
         ### load pmcids ###
-        with open(pmcidsj) as j:pmcids = json.load(j)
+        if isinstance(pmcidsj,str):
+            with open(pmcidsj) as j: pmcids = json.load(j)
+        if isinstance(pmcidsj,list):
+            pmcids = pmcidsj
             
         
         ### parse pmcid xml ###
@@ -218,7 +294,7 @@ class literature:
                         #snts = [sent.text.strip() for sent in doc.sents] # commented out because nlp generates segmentation issue with long texts
 
                         snts = sects[sect] # uncomment if segmentation error with long text is generated
-                        txt = ' '.join(snts)
+                        txt = ' '.join(np.unique(snts).tolist())
                         #print(txt)
 
                         # saving sentences and text files in the output dirs #

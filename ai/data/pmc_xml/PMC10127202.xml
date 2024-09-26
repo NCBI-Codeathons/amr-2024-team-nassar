@@ -1,0 +1,609 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Chem Biol</journal-id><journal-id journal-id-type="iso-abbrev">ACS Chem Biol</journal-id><journal-id journal-id-type="publisher-id">cb</journal-id><journal-id journal-id-type="coden">acbcct</journal-id><journal-title-group><journal-title>ACS Chemical Biology</journal-title></journal-title-group><issn pub-type="ppub">1554-8929</issn><issn pub-type="epub">1554-8937</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">10127202</article-id><article-id pub-id-type="pmid">37014749</article-id><article-id pub-id-type="doi">10.1021/acschembio.3c00063</article-id><article-categories><subj-group><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Genome-Guided
+Discovery of the Myxobacterial Thiolactone-Containing
+Sorangibactins</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Gao</surname><given-names>Yunsheng</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref><xref rid="notes-1" ref-type="notes">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Walt</surname><given-names>Christine</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref><xref rid="notes-1" ref-type="notes">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Bader</surname><given-names>Chantal D.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1042-5665</contrib-id><name><surname>M&#x000fc;ller</surname><given-names>Rolf</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Microbial Natural Products, <institution>Helmholtz-Institute
+for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for
+Infection Research (HZI) and Department of Pharmacy at Saarland University</institution>, Campus E8.1, 66123 Saarbr&#x000fc;cken, <country>Germany</country></aff><aff id="aff2"><label>&#x02021;</label><institution>Helmholtz
+International Lab for Anti-Infectives</institution>, Campus E8.1, 66123 Saarbr&#x000fc;cken, <country>Germany</country></aff><aff id="aff3"><label>&#x000a7;</label>German
+Center for Infection Research (DZIF), <institution>Partner
+Site Hannover-Braunschweig</institution>, 38124 Braunschweig, <country>Germany</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>rolf.mueller@helmholtz-hips.de</email>.</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>04</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>21</day><month>04</month><year>2023</year></pub-date><volume>18</volume><issue>4</issue><fpage>924</fpage><lpage>932</lpage><history><date date-type="received"><day>30</day><month>01</month><year>2023</year></date><date date-type="accepted"><day>24</day><month>03</month><year>2023</year></date></history><permissions><copyright-statement>&#x000a9; 2023 American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb3c00063_0006" id="ab-tgr1"/></p><p>In
+this study, an unprecedented myxobacterial siderophore
+termed
+sorangibactin was discovered by heterologous expression of a coelibactin-like
+nonribosomal peptide synthetase (NRPS) gene cluster from the <italic>Sorangiineae</italic> strain MSr11367 in the host <italic>Myxococcus xanthus</italic> DK1622. De novo structure elucidation
+uncovered a linear polycyclic structure consisting of an N-terminal
+phenol group, an oxazole, tandem <italic>N</italic>-methyl-thiazolidines,
+and an unusual C-terminal &#x003b3;-thiolactone moiety. Except for the
+unprecedented oxazoline dehydrogenation to form an oxazole, which
+we show to be catalyzed by a cytochrome P450-dependent enzyme, other
+tailoring steps were found necessary for efficient downstream processing.
+The unusual thioesterase (TE) domain is proposed to select homocysteine
+or methionine for offloading involving an intramolecular &#x003b3;-thiolactone
+formation. Its active site comprises a rare cysteine, which was found
+essential for product formation by point mutation to alanine or serine,
+which both abolished its activity. This unusual release mechanism
+and the resulting rare thiolactone structure can serve as a starting
+point for detailed biochemical investigations.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>Deutsches Zentrum f&#x000c3;&#x000bc;r Infektionsforschung</institution><institution-id institution-id-type="doi">10.13039/100009139</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>China Scholarship Council</institution><institution-id institution-id-type="doi">10.13039/501100004543</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Deutsche Forschungsgemeinschaft</institution><institution-id institution-id-type="doi">10.13039/501100001659</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>cb3c00063</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>cb3c00063</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Myxobacteria are Gram-negative
+&#x003b4;-proteobacteria featuring
+unique morphological characteristics, complex life cycles, large genomes,
+and a particularly huge biosynthetic potential for secondary metabolite
+production.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> Hundreds of structurally interesting
+scaffolds and bioactive compounds from myxobacteria were discovered
+over the past decades.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> Despite this rich
+collection of characterized secondary metabolites, genome sequencing
+as well as biosynthetic gene cluster (BGC) annotation have revealed
+that the majority of the myxobacterial biosynthetic potential is still
+untapped.<sup><xref ref-type="bibr" rid="ref3">3</xref>&#x02212;<xref ref-type="bibr" rid="ref5">5</xref></sup> Thus, a &#x0201c;gene to compound&#x0201d; strategy
+can shed light on assigning secondary metabolites to their BGCs and
+finding unprecedented structures. As myxobacteria, especially the <italic>Sorangiineae</italic> suborder, are usually slow growing and barely
+tractable for genetic manipulation, heterologous expression is particularly
+promising to explore them, as it facilitates not only genome mining
+for natural product discovery but also biosynthetic pathway engineering
+and detailed biosynthesis studies.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> One
+prolific starting point for the examination of cryptic BGCs are so-called
+broad cosmid libraries,<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> which can comprise
+the entire genome of a selected bacterial strain in the form of plasmid
+DNA and facilitate high-throughput heterologous expression.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> This approach also enables the unambiguous correlation
+of BGCs with their products.</p><p>One interesting structural class
+of natural products are bacterial
+siderophores, which are small-molecular-weight Fe(III)-specific ligands
+that scavenge iron from their environment and enable uptake into the
+cell through outer-membrane transporters.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> Siderophores from myxobacteria belong to two main categories, namely,
+the catecholate-type such as the myxochelins<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> and hyalachelins<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> and the citrate-hydroxamate-type
+such as the nannochelins.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> On the contrary,
+over 500 congeners of diverse siderophore families have been described
+from actinobacteria.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> One particularly
+puzzling actinobacterial siderophore is coelibactin, the existence
+of which has only been proposed based on the presence of the respective
+BGC and for which only a hypothetical chemical structure is found
+in the literature. Comprehensive bioinformatics analysis of the respective
+BGC found in the model species <italic>Streptomyces coelicolor</italic> A3(2)<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> enabled a prediction of the core
+structure based on the predicted sequence of the nonribosomal peptide
+synthetase (NRPS) gene cluster, yet isolation of coelibactin or derivatives
+thereof failed for unknown reasons.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup></p><p>In this study, we report the discovery of a novel myxobacterial
+secondary metabolite with siderophore-like behavior termed sorangibactin
+from the <italic>Sorangiineae</italic> strain MSr11367 by heterologous
+expression of a promoter-engineered NRPS gene cluster, which resembles
+the coelibactin BGC. This coelibactin-like NRPS gene cluster was prioritized
+due to the following reasons: (1) its bioinformatically predicted
+structure resembles coelibactin from <italic>Streptomyces coelicolor</italic> A3(2),<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> which raises hope to contribute
+to solving the puzzle of the coelibactins, (2) its regular operon
+organization, which is suitable for promoter engineering, and (3)
+multiple tailoring genes surrounding the core NRPS part, which indicates
+auxiliary modifications before or after chain release and may endow
+the final product with structural novelty and diversity.</p></sec><sec id="sec2"><label>2</label><title>Results and Discussion</title><sec id="sec2.1"><label>2.1</label><title>Heterologous Expression
+of a Coelibactin-like
+NRPS Gene Cluster</title><p>According to the antiSMASH prediction,<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> the myxobacterial <italic>Sorangiineae</italic> strain MSr11367 exhibits a great biosynthetic potential of 62 biosynthetic
+gene clusters and thus was prioritized for natural product discovery.
+The strain was already explored using an OSMAC (one strain many compounds)
+metabolomics approach in our laboratory, but even altered cultivation
+conditions did not reflect its full biosynthetic potential making
+this strain particularly interesting for genome-based discovery. Despite
+several efforts, MSr11367 proved to be intractable for in situ genetic
+manipulation. Therefore, a genomic DNA library in the form of cosmids
+was generated for systematic screening of biosynthetic gene clusters
+by heterologous expression in the genetically amenable host <italic>Myxococcus xanthus</italic> DK1622.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> Among the 62 BGCs encoded in the strain&#x02019;s genome, we prioritized
+a coelibactin-like NRPS gene cluster that showed widespread occurrence
+of homologous BGCs in <italic>Sorangium cellulosum</italic>, <italic>Streptomyces</italic>, and <italic>Pseudomonas</italic> strains (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A), presumably indicating a conserved function of the correlating
+secondary metabolites during evolution. The MSr11367 coelibactin-like
+gene cluster (sorangibactin BGC) has been deposited in the GenBank
+under the accession number OQ368584. The respective annotation of
+the gene cluster is provided in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Supporting Table S1</ext-link>.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Characterization of the coelibactin-like NRPS gene cluster from
+the <italic>Sorangiineae</italic> strain MSr11367. (A) Proposed structure
+of coelibactin from <italic>S. coelicolor</italic> A3(2)
+and clinker analysis of selected coelibactin BGC homologues from different
+bacterial species. The BGC from MSr11367 with gene names is shown
+at the top and has been characterized in this study. Genes with a
+&#x0003e;30% sequence identity are assigned a unique color and linked.
+(B)
+Significant difference between the heterologous expression data set
+(DK1622::km-Pvan-srb) encircled in red and the wild-type host data
+set (DK1622) encircled in blue shown by a PCA score plot. (C) Molecular
+features that contribute to this difference shown by a PCA loading
+plot. (D) Molecular features that are only found in the heterologous
+expression data set. (E) HPLC-MS chromatogram of sorangibactin A production
+by DK1622::km-Pvan-srb (red) and MSr11367 (orange).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb3c00063_0002" id="gr1" position="float"/></fig><p>The unmodified gene cluster was cloned from the
+cosmid library
+of the <italic>Sorangiineae</italic> strain MSr11367 and transferred
+to the host <italic>M. xanthus</italic> DK1622 for expression;
+however, no heterologous product was detected. Thus, a <italic>km-vanR-Pvan</italic> cassette was inserted between the two main operons (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S1</ext-link>), after which the first operon consisting
+of transporter genes shares a strong constitutive promoter with the
+kanamycin resistance gene and the second operon consisting of biosynthesis
+genes is under the control of a vanillate-inducible Pvan promoter.
+Principal component analysis (PCA) of high-performance liquid chromatography&#x02013;high-resolution
+mass spectrometry (HPLC-HRMS) datasets revealed several molecular
+features exclusively present in <italic>M. xanthus</italic> DK1622 mutants containing the promoter-engineered gene cluster and
+absent in the <italic>M. xanthus</italic> DK1622 wild-type
+host (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B&#x02013;D).
+The major component (termed sorangibactin A) could also be found in <italic>Sorangiineae</italic> strain MSr11367 extracts in equal concentrations
+when cultivated under iron-deficient conditions, indicating it as
+the final product of the respective BGC (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>E). Isolation for structure elucidation was
+performed utilizing the heterologous host, as besides its less complex
+metabolome that was beneficial for the purification process, it also
+shows faster growth rates reducing possible contamination issues during
+cultivation as observed for the strain MSr11367.</p></sec><sec id="sec2.2"><label>2.2</label><title>Characterization of Sorangibactins</title><p>HPLC-HRMS measurements
+exhibit an [M + H]<sup>+</sup> peak for the
+mixture of sorangibactins A1 and A2 at <italic>m</italic>/<italic>z</italic> 507.1190 matching the molecular formula C<sub>22</sub>H<sub>27</sub>N<sub>4</sub>O<sub>4</sub>S<sub>3</sub><sup>+</sup> (<italic>m</italic>/<italic>z</italic> calcd for [M + H]<sup>+</sup> 507.1189, &#x00394;0.2 ppm) featuring 12 double-bond equivalents (DBEs).
+Combined one-dimensional (1D) and two-dimensional (2D) NMR spectra
+uncovered a system comprising four heterocycles and one phenol, starting
+from the N-terminus with a phenol substituted by an oxazole group
+in the <italic>ortho</italic>-position, which is further connected
+to two consecutive <italic>N</italic>-methylated thiazolidines linked
+via an amide bond to a cyclic &#x003b3;-thiolactone as the C-terminal
+end (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>). The
+assignment of the oxazole moiety and the unusual C-terminus was underpinned
+by <sup>1</sup>H-<sup>15</sup>N HMBC experiments (see the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">SI</ext-link>) as well as the comparison of the chemical
+shifts for the homocysteine thiolactone part to already published
+NPs like thiolactomide.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> The two signal
+sets for sorangibactins A1 and A2 were identical besides the signal
+area of the isomerization of the C-terminal homocysteine thiolactone
+upon purification. The corresponding methine signal for atom 4 of
+sorangibactin A1 is located at &#x003b4;(<sup>1</sup>H) = 4.09 ppm and
+of A2 at &#x003b4;(<sup>1</sup>H) = 4.16 ppm, whereas the adjoining
+diastereotopic methylene group (atom 3) of sorangibactin A1 shows
+a signal at &#x003b4;(<sup>1</sup>H) = 2.10/1.92 ppm and A2 features
+a methylene group without any diastereotopic effect at &#x003b4;(<sup>1</sup>H) = 2.04 ppm. It is worth noting that, in the thiolactone
+part, the HMBC correlation between the methylene group (atom 2) at
+&#x003b4;(<sup>1</sup>H) = 3.01 ppm and the carbonyl group (atom 1)
+at &#x003b4;(<sup>13</sup>C) = 179.5 ppm could not be identified. Nevertheless,
+the predicted thiolactone ring is underpinned by the COSY and HMBC
+correlations between atoms 2 and 3 as well as atom 4 by the HMBC correlations
+from atom 4 and atom 3 to atom 1 as well as the predicted 12 DBEs
+in agreement with the predicted sum formula.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Chemical structures of
+sorangibactins A1 and A2 (<bold>1</bold> and <bold>2</bold>) and B
+(<bold>3</bold>) with atom numbering and
+main COSY (bold) and HMBC (arrows) correlations.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb3c00063_0003" id="gr2" position="float"/></fig><p>Several structure parts of sorangibactin show similarities
+to well-described
+siderophores; however, it features some uncommon modifications. The <italic>ortho</italic>-phenol moiety originating from salicylic acid incorporation
+is also present in yersiniabactin produced by <italic>Yersinia
+pestis</italic>(<xref ref-type="bibr" rid="ref19">19</xref>) and predicted
+for coelibactin from <italic>Streptomyces coelicolor</italic>.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> Furthermore, yersiniabactin features
+one thiazolidine moiety and two dihydrothiazoles, whereby the thiazolidine
+in contrast to sorangibactin is not <italic>N</italic>-methylated
+and no dihydrothiazoles are present in sorangibactin. The oxazole
+moiety in sorangibactin is different from the methylated dihydrooxazole
+predicted for coelibactin. Finally, the main structural difference
+of sorangibactin to published siderophores is clearly the uncommon
+homocysteine thiolactone at the C-terminus, reflecting the unprecedented
+structure of sorangibactin. This structural moiety impeded the purification
+procedure and also sheds light on possible obstacles that might have
+hindered structure elucidation of coelibactin: sorangibactins A1 and
+A2 undergo hydrolysis during the standard purification setup with
+formic acid as a modifier, resulting in the C-terminally ring-opened
+sorangibactin B. The &#x003b1;-proton of the acid labile homocysteine
+thiolactone tends to isomerize even when using the adapted purification
+workflow leading to a mixture of the two isomers sorangibactins A1
+and A2 (see the <xref rid="sec4" ref-type="other">Methods</xref> section). Even though
+we could not separate these two isomers, the corresponding NMR data
+set of the mixture enabled the structural assignment of both of them.</p><p>For the stereochemical assignment of sorangibactins A1 and A2,
+only Marfey&#x02019;s derivatization assay was applicable since this
+molecule is a peptide without any functionalities accessible for Mosher
+esterification and due to its instabilities not attainable for crystallization
+experiments as exemplarily performed to solve the stereochemistry
+of the related siderophore yersiniabactin.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> Marfey&#x02019;s analysis however could also only provide limited
+information for three main reasons: (1) the hydrolysis of thiazolidines
+is known to lead to the oxidation state of an aldehyde instead of
+the free acid, which is instable and degrades,<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> (2) the stereocenters at positions 9 and 15 originate from
+the former carboxyl function of the cysteine before cyclization to
+the thiazolidine group and thus would lose stereo information again
+upon hydrolysis, and (3) the mixture of sorangibactins A1 and A2 contains
+both <italic>R</italic>- and <italic>S</italic>-configurations of
+the &#x003b1;-proton of the C-terminal homocysteine thiolactone, which
+cannot be separated. Consequently, only positions 7 and 12 could reasonably
+be accessible by Marfey&#x02019;s analysis, but they were found to
+isomerize during hydrolysis. HPLC-HRMS analysis displayed a mixture
+of four enantiomers with a mass of <italic>m</italic>/<italic>z</italic> 430.14 &#x000b1; 0.02 corresponding to FDLA-derivatized <italic>N</italic>-methyl cysteine and homocysteine (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S2</ext-link>). Hence, we can solely present the flat structure with a bioinformatic
+prediction of all <italic>S</italic>-configurations due to the absence
+of an epimerase in the respective modules.</p><p>We also obtained
+a second congener of the sorangibactin family
+through provoking hydrolysis of the rather labile thioester yielding
+the ring-opened product sorangibactin B (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>). HPLC-HRMS experiments show an [M + H]<sup>+</sup> peak for sorangibactin B at <italic>m</italic>/<italic>z</italic> 525.1298 with a predicted molecular formula C<sub>22</sub>H<sub>28</sub>N<sub>4</sub>O<sub>5</sub>S<sub>3</sub><sup>+</sup> (<italic>m</italic>/<italic>z</italic> calcd for [M + H]<sup>+</sup> 525.1295,
+&#x00394;0.6 ppm) featuring 11 double-bond equivalents (DBEs). Noteworthily,
+more than five isomers of sorangibactin B are present in fractions
+that underwent the hydrolyzing isolation conditions using formic acid
+during purification. The presumably isomerizing stereocenters are
+most likely the ones belonging to the homocysteine and the two thiazolidine
+parts exhibiting five stereocenters. Thus, the following structure
+elucidation belongs to the most abundant isomer unveiling the most
+intensive NMR correlations. In contrast to sorangibactins A1 and A2,
+the cyclic homocysteine thiolactone is opened, which shows an impact
+on the corresponding shifts due to the more shielded free carboxylic
+acid (atom 1) with a shift at &#x003b4;(<sup>13</sup>C) = 176.6 ppm
+compared to the former thioester function. The HMBC spectrum exhibits
+two correlations to the free carboxyl group (atom 1) from methylene
+groups (atoms 2 and 3) at &#x003b4;(<sup>1</sup>H) = 2.27 and 1.59 ppm.
+The more downfield-shifted signal can be explained by the close neighborhood
+to the thiol function. Corresponding COSY correlations from the more
+shielded methylene group (atom 3) to the homocysteine &#x003b1;-proton
+(atom 4) at &#x003b4;(<sup>1</sup>H) = 4.68 ppm can be observed. Furthermore,
+HMBC correlations evince from atom 4 as well as the methine group
+of the adjacent thiazolidine ring (atom 7) at &#x003b4;(<sup>1</sup>H) = 3.57 ppm to the connective amide group (atom 6) at &#x003b4;(<sup>13</sup>C) = 173.0 ppm. Comparing the remaining data set to sorangibactins
+A1 and A2, the signals corresponding to the N-terminal part from atom
+8 to 26 are similar with &#x02264;0.1 ppm deviation for <sup>1</sup>H and &#x02264;2.1 ppm for <sup>13</sup>C shifts.</p><p>MS<sup>2</sup> spectral analysis was performed to obtain additional
+evidence supporting the proposed structures for sorangibactins A1,
+A2, and B. Just as for the structurally related siderophores yersiniabactin,
+ulbactin B, and escherichelin, characteristic fragmentation behavior
+can also be observed for sorangibactins.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> The three main fragment ions of sorangibactin B are in accordance
+with the respective bond cleavages in A1 and A2 (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A). Fragment ions b, c, and
+d of <bold>1</bold> and <bold>2</bold> correspond to fragment ions
+b, c+H<sub>2</sub>O, and d+H<sub>2</sub>O of <bold>3</bold>.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Characterization
+of sorangibactins by MS<sup>2</sup> analysis and
+feeding stable isotopes. (A) Proposed fragmentation pattern of <bold>1</bold> and <bold>2</bold> with abundant fragment ions a&#x02013;f
+(upper chromatogram) and of <bold>3</bold> with fragment ions b, c+H<sub>2</sub>O, and d+H<sub>2</sub>O (lower chromatogram). The predicted <italic>m</italic>/<italic>z</italic> of each fragment is marked in red.
+(B) Feeding salicylic acid-<italic>d</italic><sub>6</sub> (yellow), <sc>l</sc>-serine-<sup>13</sup>C<sub>3</sub>,<sup>15</sup>N (green), <sc>l</sc>-cysteine-<sup>13</sup>C<sub>3</sub>,<sup>15</sup>N (orange),
+and <sc>l</sc>-methionine-<sup>13</sup>C<sub>5</sub>,<sup>15</sup>N (blue).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb3c00063_0004" id="gr3" position="float"/></fig><p>The N-terminal phenol group derived
+from salicylic
+acid is further
+supported by feeding 2-hydroxybenzoic acid-<italic>d</italic><sub>6</sub>, resulting in a +4 mass shift of the respective fragment
+(<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>B). Feeding <sc>l</sc>-serine-<sup>13</sup>C<sub>3</sub>,<sup>15</sup>N and <sc>l</sc>-cysteine-<sup>13</sup>C<sub>3</sub>,<sup>15</sup>N resulted in the
++4 and +8 mass shift, respectively, which indicates the NRPS to incorporate
+one serine and two cysteines and is consistent with the proposed sorangibactin
+structure containing one oxazole and two thiazolidine substructures.
+Interestingly, feeding <sc>l</sc>-methionine-<sup>13</sup>C<sub>5</sub>,<sup>15</sup>N not only showed a +1 mass shift indicating a methyl
+transfer but also a +5, which indicated the incorporated homocysteine
+originating from methionine at the C-terminus, which is additionally
+supported by MS<sup>2</sup> analysis. This is consistent with the
+C-terminal &#x003b3;-thiolactone structure.</p><p>Sorangibactins A1
+and A2 showed no obvious bioactivity against
+our test panel of bacterial and fungal pathogens and selected cell
+lines (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Table S2</ext-link>). However, siderophore-like
+behavior was observed during UHR-TOF measurements even before the
+purification of sorangibactin. Besides the double charged species
+at <italic>m</italic>/<italic>z</italic> 254.0632 and the [M + H]<sup>+</sup> signal at <italic>m</italic>/<italic>z</italic> 507.1190,
+the MS spectrum of sorangibactins A1 and A2 exhibits a peak at <italic>m</italic>/<italic>z</italic> 560.0307. With a mass distance of <italic>m</italic>/<italic>z</italic> 52.9117 to the [M + H]<sup>+</sup> peak,
+it equals [M &#x02013; 2H + Fe<sup>3+</sup>]<sup>+</sup> with the predicted
+sum formula of C<sub>22</sub>H<sub>24</sub>FeN<sub>4</sub>O<sub>4</sub>S<sub>3</sub><sup>+</sup> (<italic>m</italic>/<italic>z</italic> calcd
+for [M &#x02013; 2H + Fe<sup>3+</sup>]<sup>+</sup> 560.0304, &#x00394;0.5
+ppm) and shows a characteristic M-2 iron isotope peak (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S3</ext-link>).<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> Additional
+evidence about sorangibactin being a siderophore is obtained by cultivation
+of MSr11367 under iron-deficient conditions using RGAE2 medium and
+iron-rich conditions by supplementing 1 mM FeCl<sub>3</sub>. As a
+result, iron limitation during cultivation induced the production
+of sorangibactin, whereas external addition of iron suppressed the
+production (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S4</ext-link>). This is a well-established
+indicator for siderophore features of molecules.<sup><xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup> Apart from that, possibilities to determine the exact affinity to
+iron in terms of binding properties is commonly conducted via competition
+experiments with a strong binder like EDTA.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> However, this approach was not possible for the sorangibactins due
+to their instability and isomerization issues during the purification
+process.</p></sec><sec id="sec2.3"><label>2.3</label><title>Proposed Biosynthesis of the Sorangibactins</title><p>The sorangibactin BGC spans approximately 32 kb of DNA sequence,
+from which 17 proteins are annotated (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Table S1</ext-link>) and proposed to be involved in biosynthesis (SrbA&#x02013;SrbK),
+transportation (SrbL&#x02013;SrbP), and regulation (SrbR). Besides
+in silico analysis, gene deletion and point mutation by Red&#x003b1;&#x003b2;
+recombineering (see the <xref rid="sec4" ref-type="other">Methods</xref> section and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S1</ext-link>) were carried out using the heterologous
+expression system. Based on those experiments, we present the following
+biosynthesis hypothesis of the sorangibactins.</p><p>Biosynthesis
+of the sorangibactins was initiated by salicylic acid formation catalyzed
+by SrbB, which shows 48.5% similarity with Irp9, a bifunctional salicylate
+synthase from <italic>Yersinia enterocolitica</italic> that can convert chorismate to salicylic acid in yersiniabactin
+biosynthesis.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> Deletion of <italic>srbB</italic> abolished heterologous production of sorangibactins in <italic>M. xanthus</italic> DK1622, whereas feeding salicylic acid
+to the <italic>srbB</italic> knockout mutant restored the production
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S5</ext-link>). The salicylic acid was then
+adenylated and loaded to the first carrier protein of SrbC by SrbK
+(<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A), a stand-alone
+A domain-containing protein, which is predicted to use salicylic acid
+as a substrate (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Table S3</ext-link>). Deletion of <italic>srbK</italic> completely abolished the heterologous production of
+sorangibactins in <italic>M. xanthus</italic> DK1622
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S6</ext-link>). SrbC and SrbD are nonribosomal
+peptide synthases, which comprise seven and five domains, respectively
+(<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A). Each adenylation
+domain was predicted by antiSMASH to use cysteine as a substrate (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Table S3</ext-link>); however, our biosynthesis model rather
+suggests the first adenylation domain in SrbC to activate serine instead,
+which is further modified to form the oxazole incorporated in the
+sorangibactin structure. This is consistent with the above-mentioned
+result from feeding <sc>l</sc>-serine-<sup>13</sup>C<sub>3</sub>,<sup>15</sup>N (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>B). The terminal thioesterase (TE) domain utilizes a cysteine as
+the active-site nucleophile instead of commonly used serine (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S7</ext-link>), which is not unprecedented but rare.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> Point mutation of this cysteine to alanine or
+serine (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S8</ext-link>) abolished the heterologous
+production of sorangibactin A in <italic>M. xanthus</italic> DK1622 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S6</ext-link>), which indicates its
+essential role. Besides, this TE domain was proposed to select homocysteine
+or methionine as an intermolecular nucleophile for chain release resulting
+in one more amino acid incorporation at the C-terminus, which was
+confirmed by feeding <sc>l</sc>-methionine-<sup>13</sup>C<sub>5</sub>,<sup>15</sup>N (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>B). Use of a free amino acid for chain release was previously
+found in threonine-tagged lipopeptide biosynthesis, where the TE domain
+selects the intermolecular nucleophiles threonine hydroxy or amino
+groups yielding ester- and amide-linked threonine tags.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> However, the complete C-terminal homocysteine
+thiolactone formation in sorangibactin biosynthesis is still unclear
+and may involve other tailoring enzymes, which is still under investigation.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Characterization
+of the biosynthesis of sorangibactins. (A) Gene
+cluster organization and proposed biosynthetic pathway. The core biosynthetic
+genes are marked in blue, the proposed additional biosynthetic genes
+are marked in red, the proposed transport-related genes and regulatory
+genes are marked in black and gray, respectively. CP: carrier protein
+domain, HC: heterocyclization domain, A: adenylation domain, MT: methyltransferase
+domain, and TE: thioesterase domain. (B) Feeding of <sc>l</sc>-Ser-2,3,3-<italic>d</italic><sub>3</sub> and incorporation into sorangibactin C, where
+the proposed deuterium incorporation sites are marked in red.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb3c00063_0005" id="gr4" position="float"/></fig><p>Besides SrbK and SrbB&#x02013;SrbD for the core
+biosynthesis, SrbE&#x02013;SrbJ
+are proposed to be tailoring enzymes that work in trans. SrbE is a
+putative oxidoreductase containing a saccharopine dehydrogenase NADP-binding
+domain (PF03435.17) and SrbF/G are proposed to be methyltransferases.
+Gene deletion of SrbE/F/G was achieved by replacing them with an ampicillin
+resistance gene, followed by a Ptet promoter to drive the downstream
+expression avoiding polar effects (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S1</ext-link>), which resulted in the abolishment of sorangibactin A production
+and indicated their essential role for biosynthesis (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S6</ext-link>). SrbH is a cytochrome P450-dependent enzyme, sharing
+remarkable similarity with the CYP105N1 from the <italic>S.
+coelicolor</italic> A3(2) coelibactin biosynthetic pathway
+both in sequence (36.2% identity, 51.6% similarity) and structure
+(RMSD 1.895, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S9</ext-link>). Structure characterization
+of CYP105N1 revealed an unexpected wide open substrate binding pocket,
+which was proposed to bind the peptidyl carrier protein (PCP)-bound
+substrate; however, the reaction catalyzed by CYP105N1 is still unclear.<sup><xref ref-type="bibr" rid="ref30">30</xref>,<xref ref-type="bibr" rid="ref31">31</xref></sup> Deletion of <italic>srbH</italic> abolished sorangibactin A production
+in <italic>M. xanthus</italic> DK1622, whereas another
+compound, termed sorangibactin C, was found accumulated (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S6</ext-link>). Molecular ion clusters [M + H]<sup>+</sup> (<italic>m</italic>/<italic>z</italic> 509.1332) and [M +
+2H]<sup>2+</sup> (<italic>m</italic>/<italic>z</italic> 255.0716)
+in ESI-HRMS revealed the elemental formula C<sub>22</sub>H<sub>28</sub>N<sub>4</sub>O<sub>4</sub>S<sub>3</sub> of sorangibactin C, which
+shows a highly similar fragmentation pattern with sorangibactin A
+and contains two more atoms of hydrogen in the first two cyclic moieties
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S10</ext-link>). Feeding <sc>l</sc>-serine-2,3,3-<italic>d</italic><sub>3</sub> revealed that these two atoms of hydrogen
+originated from serine, and therefore, oxazoline instead of oxazole
+is proposed for the sorangibactin C structure (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B). SrbH therefore presumably targets the
+carrier protein-bound substrate and catalyzes oxazoline dehydrogenation
+to form an oxazole on the assembly line (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A). However, the accumulation of sorangibactin
+C could also indicate SrbH to be a post-tailoring enzyme. SrbI shows
+47.9% similarity with Irp3 from <italic>Yersinia enterocolitica</italic> (PDB: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="PDB" xlink:href="5KVQ">5KVQ</ext-link>) and is assigned as <italic>trans</italic>-acting thiazolinyl imine
+reductase, catalyzing the NADPH-dependent reduction of a CP-tethered
+thiazoline ring.<sup><xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup> Deletion of <italic>srbI</italic> abolished sorangibactin A production, whereas the shunt product
+sorangibactin D observed at [M + H]<sup>+</sup><italic>m</italic>/<italic>z</italic> 376.0422 (calculated C<sub>16</sub>H<sub>14</sub>N<sub>3</sub>O<sub>4</sub>S<sub>2</sub><sup>+</sup> 376.0420, &#x00394;0.5
+ppm) was accumulated (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S11</ext-link>), which
+indicates that the thiazoline reduction is necessary for downstream
+processing, otherwise resulting in early hydrolytic release. SrbJ
+is proposed to belong to the VOC (vicinal oxygen chelate) superfamily
+that catalyzes diverse reactions.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> The
+function of SrbJ in sorangibactin biosynthesis is unclear but indispensable,
+as of <italic>srbJ</italic> deletion abolished sorangibactin A production
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S6</ext-link>). At this moment, we cannot
+fully assign each of these biosynthesis enzymes to the structure,
+as the obvious accumulation of intermediate was not observed in each
+gene knockout, presumably due to the non-native intermediates stalling
+the whole machinery or chemical instabilities of the resulting shunt
+products.</p><p>In addition to the 10 core genes described above that
+were all
+experimentally confirmed to be directly involved in sorangibactin
+biosynthesis, seven additional genes were found in the sorangibactin
+BGC. SrbA is a proposed tailoring enzyme containing an &#x003b1;/&#x003b2;
+hydrolase domain. Deletion of <italic>srbA</italic> by Red&#x003b1;&#x003b2;
+recombineering (see the <xref rid="sec4" ref-type="other">Methods</xref> section and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figure S1</ext-link>) had no obvious influence on heterologous
+production of sorangibactins in <italic>M. xanthus</italic> DK1622 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">Figures S5 and S6</ext-link>), which can
+either be explained by a functional homologue of <italic>srbA</italic> present in the <italic>M. xanthus</italic> DK1622
+chromosome or <italic>srbA</italic> being not involved in sorangibactin
+biosynthesis. SrbR is an LysR family transcriptional regulator, and
+SrbL&#x02013;SrbP are all transporter related. Whether or how the regulator
+and these transporters are correlated to sorangibactin production,
+however, was not investigated here.</p></sec></sec><sec id="sec3"><label>3</label><title>Conclusions</title><p>Genome mining and subsequent
+heterologous expression enabled the
+discovery of a novel myxobacterial natural product termed sorangibactin
+from the myxobacterial strain MSr11367. This genomics-guided approach
+highlighted the accessibility of its biosynthetic potential that was
+not reflected in its metabolome in our previous studies. De novo structure
+elucidation of sorangibactin revealed the presence of an unprecedented
+&#x003b3;-thiolactone at the C-terminus, which may help to solve the
+puzzle of the chemical structure of coelibactin based on their gene
+cluster similarity via the adapted purification route reducing putative
+degradation and isomerization issues as well as by providing reference
+data for comparison to facilitate the structure elucidation. Both
+biosynthetic pathways contain conserved cytochrome P450 enzymes, and
+the coelibactin P450 CYP105N1 protein was structurally characterized;
+however, their functions remained elusive before this study. Here,
+we discovered the sorangibactin P450-dependent enzyme SrbH, which
+is proposed to oxidize oxazoline to oxazole, representing the first
+P450-mediated oxazoline dehydrogenation in NRPS biosynthesis. Furthermore,
+both gene clusters involve an unusual TE domain containing a rare
+active-site cysteine instead of the commonly used serine. For the
+sorangibactin biosynthesis, we propose that homocysteine or methionine
+is incorporated into the C-terminus by this unusual TE domain, most
+probably together with other unassigned tailoring enzymes, resulting
+in &#x003b3;-thiolactone moiety formation in a manner that is not yet
+fully understood. Therefore, the bioinformatically predicted coelibactin
+structure remains to be experimentally characterized. Future studies
+could address the indispensable SrbE (saccharopine dehydrogenase NADP-binding
+domain-containing protein, also present in the coelibactin biosynthetic
+pathway with yet unknown function) and SrbJ (glyoxalase-like domain-containing
+protein, absent in the coelibactin biosynthetic pathway but conserved
+in many other BGC homologues), both of which are rare in natural product
+biosynthesis and worthy for further biochemical investigations. Homologous
+gene clusters are widespread not only in myxobacteria but also in <italic>Streptomyces</italic> and <italic>Pseudomonas</italic> strains, which
+indicates conservative functions across bacteria and potential for
+further discovery and characterization of sorangibactin analogues.</p><p>In summary, this study showcased the benefit of heterologous expression
+with subsequent gene cluster engineering for the discovery and biosynthesis
+investigations of myxobacterial natural products. Accessibility of
+a cosmid library herein will allow further high-throughput screening
+of cryptic myxobacteria BGCs by heterologous expression and facilitate
+characterization of their yet untapped biosynthetic potential.</p></sec><sec id="sec4"><label>4</label><title>Methods</title><sec id="sec4.1"><label>4.1</label><title>Isolation of Sorangibactins A1, A2, and B</title><p>The heterologous
+producer strain <italic>M. xanthus</italic> DK1622 mutant
+containing the promoter-engineered gene cluster was
+used for large-scale fermentation (see the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">SI</ext-link>). The myxobacterial extract in methanol was partitioned three times
+with hexane, dried, and redissolved in water to be partitioned three
+times with first ethyl acetate and later chloroform. Subsequently,
+the obtained chloroform phase was redissolved in methanol and fractionated
+with an Isolera Spektra One (Biotage) system. Respective fractions
+containing sorangibactins A1 and A2 were further purified using a
+Dionex Ultimate 3000 SL system comprising a SWPS 3000 SL autosampler,
+P680 pump, TCC100 column oven heated to 45 &#x000b0;C, PDA100 UV-detector
+at 220 nm, and an AFL 3000 fraction collector. In total, 2.4 mg of
+the mixture of sorangibactins A1 and A2 was obtained and stored under
+nitrogen at &#x02212;20 &#x000b0;C until further use. For isolation of
+sorangibactin B, the fraction resulted from Biotage work up was treated
+with hydrolyzing conditions, followed by the same purification protocol
+compared to sorangibactins A1 and A2. Finally, 4.5 mg of sorangibactin
+B isomer mixture could be obtained.</p></sec><sec id="sec4.2"><label>4.2</label><title>HPLC-HRMS
+Measurements</title><p>All HPLC-HRMS
+measurements were conducted on a maXis 4G UHR-TOF system (Bruker Daltonics)
+equipped with an ESI source and coupled to a Dionex UltiMate 3000
+rapid separation liquid chromatography (RSLC, Thermo Fisher) system.
+Separation was achieved with an Acquity BEH C18 column (100 mm &#x000d7;
+2.1 mm, 1.7 &#x003bc;m dp) (Waters) in combination with a Waters VanGuard
+BEH C18 1.7 &#x003bc;m guard using a linear 5&#x02013;95% gradient of
+acetonitrile with 0.1% formic acid in ddH<sub>2</sub>O with 0.1% formic
+acid for 18 min. Detection was conducted by a diode array detector
+at 200&#x02013;600 nm, the flow rate adjusted to 0.6 mL/min, the column
+heated to 45 &#x000b0;C, and the LC flow split to 75 &#x003bc;L/min before
+entering the mass spectrometer. Following MS settings were applied
+for standard measurements: capillary voltage 4000 V, end plate offset
+&#x02212;500 V, nebulizer gas pressure 1 bar, dry gas flow rate 5 L/min,
+dry gas temperature 200 &#x000b0;C, and mass scan range <italic>m</italic>/<italic>z</italic> 150&#x02013;2500. MS/MS measurements were carried
+out in collision-induced dissociation (CID) fragmentation mode with
+a collision energy of 5 eV. The mass spectrometer was calibrated in
+quadratic + HPC calibration mode on the masses of the first isotope
+signal of sodium formate clusters, which are formed in the ion source
+after co-injection of a mixture of 1 mM sodium hydroxide in 1:1 water/isopropanol
++ 0.1% FA. Additional lock mass calibration was performed on <italic>m</italic>/<italic>z</italic> 622.0277, <italic>m</italic>/<italic>z</italic> 922.0103, and <italic>m</italic>/<italic>z</italic> 1221.9960.</p></sec><sec id="sec4.3"><label>4.3</label><title>Marfey&#x02019;s Analysis for the Determination
+of Stereochemistry</title><p>For the determination of stereocenters
+7 and 12 of the <italic>N</italic>-methylated thiazolidines as well
+as stereo center 4 of the cyclic homocysteine thiolactone moiety,
+an adapted Marfey&#x02019;s derivatization protocol already described
+for the thiamyxins<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> was applied after
+acidic hydrolysis to <italic>N</italic>-methyl cysteine and homocysteine,
+respectively.</p></sec><sec id="sec4.4"><label>4.4</label><title>NMR Measurements</title><p>For structure elucidation
+of sorangibactins A1 and A2, all <sup>1</sup>H-, <sup>13</sup>C-,
+and 2D-NMR spectra were acquired in methanol-<italic>d</italic><sub>4</sub> on a Bruker Avance III (Ascend) 700 MHz spectrometer equipped
+with a 5 mm TCI cryoprobe using standard pulse programs. Observed
+chemical shifts (&#x003b4;) are listed in ppm, coupling constants (<italic>J</italic>) in Hz, and all spectra were calibrated with respective
+methanol signals at &#x003b4;(<sup>1</sup>H) = 3.31 ppm and &#x003b4;(<sup>13</sup>C) = 49.2 ppm. Sorangibactin B was measured using the same
+parameters on a Bruker Avance III (Ultrashield) 500 MHz spectrometer.</p></sec></sec></body><back><notes id="notes-2" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acschembio.3c00063?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acschembio.3c00063</ext-link>.<list id="silist" list-type="simple"><list-item><p>Materials and methods;
+gene cluster annotation; scheme
+for gene cluster engineering; domain and protein analysis; bioactivity
+results; and HPLC-MS and NMR data (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00063/suppl_file/cb3c00063_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb3c00063_si_001.pdf"><caption><p>cb3c00063_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes-1"><title>Author Contributions</title><p><sup>&#x02225;</sup> Y.G. and
+C.W. contributed equally to this work.</p></notes><notes notes-type="COI-statement" id="NOTES-d14e955-autogenerated"><p>The authors
+declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>The authors thank R. Garcia
+for providing
+the myxobacterial
+strain, V. George and A. Amann for bioactivity tests, D. Krug and
+N. A. Frank for helpful discussion, and F. Panter for assistance in
+metabolome analysis and compound purification. Y.G. acknowledges the
+China Scholarship Council for a fellowship of the PhD program. Research
+in R.M.&#x02019;s laboratory was partially funded by the Bundesministerium
+f&#x000fc;r Bildung und Forschung (BMBF) and Deutsche Forschungsgemeinschaft
+(DFG).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Gerth</surname><given-names>K.</given-names></name>; <name><surname>Pradella</surname><given-names>S.</given-names></name>; <name><surname>Perlova</surname><given-names>O.</given-names></name>; <name><surname>Beyer</surname><given-names>S.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name>
+<article-title>Myxobacteria:
+proficient producers of novel natural products with various biological
+activities - past and future biotechnological aspects with the focus
+on the genus <italic>Sorangium</italic></article-title>. <source>J.
+Biotechnol.</source>
+<year>2003</year>, <volume>106</volume>, <fpage>233</fpage>&#x02013;<lpage>253</lpage>. <pub-id pub-id-type="doi">10.1016/j.jbiotec.2003.07.015</pub-id>.<pub-id pub-id-type="pmid">14651865</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Herrmann</surname><given-names>J.</given-names></name>; <name><surname>Fayad</surname><given-names>A. A.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name>
+<article-title>Natural products
+from myxobacteria:
+novel metabolites and bioactivities</article-title>. <source>Nat. Prod.
+Rep.</source>
+<year>2017</year>, <volume>34</volume>, <fpage>135</fpage>&#x02013;<lpage>160</lpage>. <pub-id pub-id-type="doi">10.1039/c6np00106h</pub-id>.<pub-id pub-id-type="pmid">27907217</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Bauman</surname><given-names>K. D.</given-names></name>; <name><surname>Butler</surname><given-names>K. S.</given-names></name>; <name><surname>Moore</surname><given-names>B. S.</given-names></name>; <name><surname>Chekan</surname><given-names>J. R.</given-names></name>
+<article-title>Genome mining methods
+to discover bioactive natural products</article-title>. <source>Nat.
+Prod. Rep.</source>
+<year>2021</year>, <volume>38</volume>, <fpage>2100</fpage>&#x02013;<lpage>2129</lpage>. <pub-id pub-id-type="doi">10.1039/D1NP00032B</pub-id>.<pub-id pub-id-type="pmid">34734626</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Panter</surname><given-names>F.</given-names></name>; <name><surname>Krug</surname><given-names>D.</given-names></name>; <name><surname>Baumann</surname><given-names>S.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name>
+<article-title>Self-resistance
+guided genome mining uncovers new topoisomerase inhibitors from myxobacteria</article-title>. <source>Chem. Sci.</source>
+<year>2018</year>, <volume>9</volume>, <fpage>4898</fpage>&#x02013;<lpage>4908</lpage>. <pub-id pub-id-type="doi">10.1039/C8SC01325J</pub-id>.<pub-id pub-id-type="pmid">29910943</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Gavriilidou</surname><given-names>A.</given-names></name>; <name><surname>Kautsar</surname><given-names>S. A.</given-names></name>; <name><surname>Zaburannyi</surname><given-names>N.</given-names></name>; <name><surname>Krug</surname><given-names>D.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name>; <name><surname>Medema</surname><given-names>M. H.</given-names></name>; <name><surname>Ziemert</surname><given-names>N.</given-names></name>
+<article-title>Compendium
+of specialized metabolite
+biosynthetic diversity encoded in bacterial genomes</article-title>. <source>Nat. Microbiol.</source>
+<year>2022</year>, <volume>7</volume>, <fpage>726</fpage>&#x02013;<lpage>735</lpage>. <pub-id pub-id-type="doi">10.1038/s41564-022-01110-2</pub-id>.<pub-id pub-id-type="pmid">35505244</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Huo</surname><given-names>L.</given-names></name>; <name><surname>Hug</surname><given-names>J. J.</given-names></name>; <name><surname>Fu</surname><given-names>C.</given-names></name>; <name><surname>Bian</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name>
+<article-title>Heterologous
+expression of bacterial natural product
+biosynthetic pathways</article-title>. <source>Nat. Prod. Rep.</source>
+<year>2019</year>, <volume>36</volume>, <fpage>1412</fpage>&#x02013;<lpage>1436</lpage>. <pub-id pub-id-type="doi">10.1039/c8np00091c</pub-id>.<pub-id pub-id-type="pmid">30620035</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Clos</surname><given-names>J.</given-names></name>; <name><surname>Zander-Dinse</surname><given-names>D.</given-names></name>
+<article-title>Cosmid Library Construction and Functional Cloning</article-title>. <source>Methods Mol. Biol.</source>
+<year>2019</year>, <volume>1971</volume>, <fpage>123</fpage>&#x02013;<lpage>140</lpage>. <pub-id pub-id-type="doi">10.1007/978-1-4939-9210-2_6</pub-id>.<pub-id pub-id-type="pmid">30980301</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Wenzel</surname><given-names>S. C.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name>
+<article-title>Recent developments
+towards the heterologous expression
+of complex bacterial natural product biosynthetic pathways</article-title>. <source>Curr. Opin. Biotechnol.</source>
+<year>2005</year>, <volume>16</volume>, <fpage>594</fpage>&#x02013;<lpage>606</lpage>. <pub-id pub-id-type="doi">10.1016/j.copbio.2005.10.001</pub-id>.<pub-id pub-id-type="pmid">16226455</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Hider</surname><given-names>R. C.</given-names></name>; <name><surname>Kong</surname><given-names>X.</given-names></name>
+<article-title>Chemistry and biology
+of siderophores</article-title>. <source>Nat.
+Prod. Rep.</source>
+<year>2010</year>, <volume>27</volume>, <fpage>637</fpage>&#x02013;<lpage>657</lpage>. <pub-id pub-id-type="doi">10.1039/B906679A</pub-id>.<pub-id pub-id-type="pmid">20376388</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Kunze</surname><given-names>B.</given-names></name>; <name><surname>Bedorf</surname><given-names>N.</given-names></name>; <name><surname>Kohl</surname><given-names>W.</given-names></name>; <name><surname>H&#x000f6;fle</surname><given-names>G.</given-names></name>; <name><surname>Reichenbach</surname><given-names>H.</given-names></name>
+<article-title>Myxochelin A, a new iron-chelating
+compound from <italic>Angiococcus disciformis</italic> (Myxobacterales). Production,
+isolation, physico-chemical and biological properties</article-title>. <source>J. Antibiot.</source>
+<year>1989</year>, <volume>42</volume>, <fpage>14</fpage>&#x02013;<lpage>17</lpage>. <pub-id pub-id-type="doi">10.7164/antibiotics.42.14</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Nadmid</surname><given-names>S.</given-names></name>; <name><surname>Plaza</surname><given-names>A.</given-names></name>; <name><surname>Lauro</surname><given-names>G.</given-names></name>; <name><surname>Garcia</surname><given-names>R.</given-names></name>; <name><surname>Bifulco</surname><given-names>G.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name>
+<article-title>Hyalachelins
+A-C, unusual siderophores isolated from
+the terrestrial myxobacterium <italic>Hyalangium minutum</italic></article-title>. <source>Org. Lett.</source>
+<year>2014</year>, <volume>16</volume>, <fpage>4130</fpage>&#x02013;<lpage>4133</lpage>. <pub-id pub-id-type="doi">10.1021/ol501826a</pub-id>.<pub-id pub-id-type="pmid">25058569</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Kunze</surname><given-names>B.</given-names></name>; <name><surname>Trowitzsch-Kienast</surname><given-names>W.</given-names></name>; <name><surname>H&#x000f6;fle</surname><given-names>G.</given-names></name>; <name><surname>Reichenbach</surname><given-names>H.</given-names></name>
+<article-title>Nannochelins
+A, B and C, new iron-chelating compounds from <italic>Nannocystis
+exedens</italic> (myxobacteria). Production, isolation, physico-chemical
+and biological properties</article-title>. <source>J. Antibiot.</source>
+<year>1992</year>, <volume>45</volume>, <fpage>147</fpage>&#x02013;<lpage>150</lpage>. <pub-id pub-id-type="doi">10.7164/antibiotics.45.147</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Wang</surname><given-names>W.</given-names></name>; <name><surname>Qiu</surname><given-names>Z.</given-names></name>; <name><surname>Tan</surname><given-names>H.</given-names></name>; <name><surname>Cao</surname><given-names>L.</given-names></name>
+<article-title>Siderophore production by actinobacteria</article-title>. <source>BioMetals</source>
+<year>2014</year>, <volume>27</volume>, <fpage>623</fpage>&#x02013;<lpage>631</lpage>. <pub-id pub-id-type="doi">10.1007/s10534-014-9739-2</pub-id>.<pub-id pub-id-type="pmid">24770987</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Bentley</surname><given-names>S. D.</given-names></name>; <name><surname>Chater</surname><given-names>K. F.</given-names></name>; <name><surname>Cerde&#x000f1;o-T&#x000e1;rraga</surname><given-names>A.-M.</given-names></name>; <name><surname>Challis</surname><given-names>G. L.</given-names></name>; <name><surname>Thomson</surname><given-names>N. R.</given-names></name>; <name><surname>James</surname><given-names>K. D.</given-names></name>; <name><surname>Harris</surname><given-names>D. E.</given-names></name>; <name><surname>Quail</surname><given-names>M. A.</given-names></name>; <name><surname>Kieser</surname><given-names>H.</given-names></name>; <name><surname>Harper</surname><given-names>D.</given-names></name>; <name><surname>Bateman</surname><given-names>A.</given-names></name>; <name><surname>Brown</surname><given-names>S.</given-names></name>; <name><surname>Chandra</surname><given-names>G.</given-names></name>; <name><surname>Chen</surname><given-names>C. W.</given-names></name>; <name><surname>Collins</surname><given-names>M.</given-names></name>; <name><surname>Cronin</surname><given-names>A.</given-names></name>; <name><surname>Fraser</surname><given-names>A.</given-names></name>; <name><surname>Goble</surname><given-names>A.</given-names></name>; <name><surname>Hidalgo</surname><given-names>J.</given-names></name>; <name><surname>Hornsby</surname><given-names>T.</given-names></name>; <name><surname>Howarth</surname><given-names>S.</given-names></name>; <name><surname>Huang</surname><given-names>C.-H.</given-names></name>; <name><surname>Kieser</surname><given-names>T.</given-names></name>; <name><surname>Larke</surname><given-names>L.</given-names></name>; <name><surname>Murphy</surname><given-names>L.</given-names></name>; <name><surname>Oliver</surname><given-names>K.</given-names></name>; <name><surname>O&#x02019;Neil</surname><given-names>S.</given-names></name>; <name><surname>Rabbinowitsch</surname><given-names>E.</given-names></name>; <name><surname>Rajandream</surname><given-names>M.-A.</given-names></name>; <name><surname>Rutherford</surname><given-names>K.</given-names></name>; <name><surname>Rutter</surname><given-names>S.</given-names></name>; <name><surname>Seeger</surname><given-names>K.</given-names></name>; <name><surname>Saunders</surname><given-names>D.</given-names></name>; <name><surname>Sharp</surname><given-names>S.</given-names></name>; <name><surname>Squares</surname><given-names>R.</given-names></name>; <name><surname>Squares</surname><given-names>S.</given-names></name>; <name><surname>Taylor</surname><given-names>K.</given-names></name>; <name><surname>Warren</surname><given-names>T.</given-names></name>; <name><surname>Wietzorrek</surname><given-names>A.</given-names></name>; <name><surname>Woodward</surname><given-names>J.</given-names></name>; <name><surname>Barrell</surname><given-names>B. G.</given-names></name>; <name><surname>Parkhill</surname><given-names>J.</given-names></name>; <name><surname>Hopwood</surname><given-names>D. A.</given-names></name>
+<article-title>Complete genome sequence of the model actinomycete <italic>Streptomyces coelicolor</italic> A3(2)</article-title>. <source>Nature</source>
+<year>2002</year>, <volume>417</volume>, <fpage>141</fpage>&#x02013;<lpage>147</lpage>. <pub-id pub-id-type="doi">10.1038/417141a</pub-id>.<pub-id pub-id-type="pmid">12000953</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Johnstone</surname><given-names>T. C.</given-names></name>; <name><surname>Nolan</surname><given-names>E. M.</given-names></name>
+<article-title>Beyond iron: non-classical
+biological functions of
+bacterial siderophores</article-title>. <source>Dalton Trans.</source>
+<year>2015</year>, <volume>44</volume>, <fpage>6320</fpage>&#x02013;<lpage>6339</lpage>. <pub-id pub-id-type="doi">10.1039/C4DT03559C</pub-id>.<pub-id pub-id-type="pmid">25764171</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Blin</surname><given-names>K.</given-names></name>; <name><surname>Shaw</surname><given-names>S.</given-names></name>; <name><surname>Kloosterman</surname><given-names>A. M.</given-names></name>; <name><surname>Charlop-Powers</surname><given-names>Z.</given-names></name>; <name><surname>van Wezel</surname><given-names>G. P.</given-names></name>; <name><surname>Medema</surname><given-names>M. H.</given-names></name>; <name><surname>Weber</surname><given-names>T.</given-names></name>
+<article-title>antiSMASH 6.0: improving
+cluster detection and comparison capabilities</article-title>. <source>Nucleic Acids Res.</source>
+<year>2021</year>, <volume>49</volume>, <fpage>W29</fpage>&#x02013;<lpage>W35</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkab335</pub-id>.<pub-id pub-id-type="pmid">33978755</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Yang</surname><given-names>Y.-J.</given-names></name>; <name><surname>Singh</surname><given-names>R. P.</given-names></name>; <name><surname>Lan</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>C.-S.</given-names></name>; <name><surname>Li</surname><given-names>Y.-Z.</given-names></name>; <name><surname>Li</surname><given-names>Y.-Q.</given-names></name>; <name><surname>Sheng</surname><given-names>D.-H.</given-names></name>
+<article-title>Genome
+Editing in Model Strain <italic>Myxococcus xanthus</italic> DK1622 by a Site-Specific Cre/loxP
+Recombination System</article-title>. <source>Biomolecules</source>
+<year>2018</year>, <volume>8</volume>, <elocation-id>137</elocation-id><pub-id pub-id-type="doi">10.3390/biom8040137</pub-id>.<pub-id pub-id-type="pmid">30404219</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Jang</surname><given-names>J.-P.</given-names></name>; <name><surname>Kwon</surname><given-names>M. C.</given-names></name>; <name><surname>Nogawa</surname><given-names>T.</given-names></name>; <name><surname>Takahashi</surname><given-names>S.</given-names></name>; <name><surname>Osada</surname><given-names>H.</given-names></name>; <name><surname>Ahn</surname><given-names>J. S.</given-names></name>; <name><surname>Ko</surname><given-names>S.-K.</given-names></name>; <name><surname>Jang</surname><given-names>J.-H.</given-names></name>
+<article-title>Thiolactomide:
+A New Homocysteine Thiolactone Derivative from <italic>Streptomyces</italic> sp. with Neuroprotective Activity</article-title>. <source>J. Microbiol.
+Biotechnol.</source>
+<year>2021</year>, <volume>31</volume>, <fpage>1667</fpage>&#x02013;<lpage>1671</lpage>. <pub-id pub-id-type="doi">10.4014/jmb.2108.08015</pub-id>.<pub-id pub-id-type="pmid">34528916</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Haag</surname><given-names>H.</given-names></name>; <name><surname>Hantke</surname><given-names>K.</given-names></name>; <name><surname>Drechsel</surname><given-names>H.</given-names></name>; <name><surname>Stojiljkovic</surname><given-names>I.</given-names></name>; <name><surname>Jung</surname><given-names>G.</given-names></name>; <name><surname>Z&#x000e4;hner</surname><given-names>H.</given-names></name>
+<article-title>Purification
+of yersiniabactin: a
+siderophore and possible virulence factor of <italic>Yersinia
+enterocolitica</italic></article-title>. <source>Microbiology</source>
+<year>1993</year>, <volume>139</volume>, <fpage>2159</fpage>&#x02013;<lpage>2165</lpage>. <pub-id pub-id-type="doi">10.1099/00221287-139-9-2159</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Miller</surname><given-names>M. C.</given-names></name>; <name><surname>Parkin</surname><given-names>S.</given-names></name>; <name><surname>Fetherston</surname><given-names>J. D.</given-names></name>; <name><surname>Perry</surname><given-names>R. D.</given-names></name>; <name><surname>DeMoll</surname><given-names>E.</given-names></name>
+<article-title>Crystal structure
+of ferric-yersiniabactin, a virulence factor of <italic>Yersinia
+pestis</italic></article-title>. <source>J. Inorg. Biochem.</source>
+<year>2006</year>, <volume>100</volume>, <fpage>1495</fpage>&#x02013;<lpage>1500</lpage>. <pub-id pub-id-type="doi">10.1016/j.jinorgbio.2006.04.007</pub-id>.<pub-id pub-id-type="pmid">16806483</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Fife</surname><given-names>T. H.</given-names></name>; <name><surname>Natarajan</surname><given-names>R.</given-names></name>; <name><surname>Shen</surname><given-names>C. C.</given-names></name>; <name><surname>Bembi</surname><given-names>R.</given-names></name>
+<article-title>Mechanism of thiazolidine
+hydrolysis. Ring opening and hydrolysis of 1,3-thiazolidine derivatives
+of <italic>p</italic>-(dimethylamino)cinnamaldehyde</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>1991</year>, <volume>113</volume>, <fpage>3071</fpage>&#x02013;<lpage>3079</lpage>. <pub-id pub-id-type="doi">10.1021/ja00008a041</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Schulz</surname><given-names>M.</given-names></name>; <name><surname>Gaitanoglou</surname><given-names>V.</given-names></name>; <name><surname>Mantel</surname><given-names>O.</given-names></name>; <name><surname>H&#x000f6;velmann</surname><given-names>Y.</given-names></name>; <name><surname>H&#x000fc;bner</surname><given-names>F.</given-names></name>; <name><surname>Dobrindt</surname><given-names>U.</given-names></name>; <name><surname>Humpf</surname><given-names>H.-U.</given-names></name>
+<article-title>Metabolomics Study
+on Pathogenic and Non-pathogenic <italic>E. coli</italic> with Closely Related Genomes with a Focus on Yersiniabactin and
+Its Known and Novel Derivatives</article-title>. <source>Metabolites</source>
+<year>2020</year>, <volume>10</volume>, <elocation-id>221</elocation-id><pub-id pub-id-type="doi">10.3390/metabo10060221</pub-id>.<pub-id pub-id-type="pmid">32481767</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Hermenau</surname><given-names>R.</given-names></name>; <name><surname>Mehl</surname><given-names>J. L.</given-names></name>; <name><surname>Ishida</surname><given-names>K.</given-names></name>; <name><surname>Dose</surname><given-names>B.</given-names></name>; <name><surname>Pidot</surname><given-names>S. J.</given-names></name>; <name><surname>Stinear</surname><given-names>T. P.</given-names></name>; <name><surname>Hertweck</surname><given-names>C.</given-names></name>
+<article-title>Genomics-Driven Discovery
+of NO-Donating
+Diazeniumdiolate Siderophores in Diverse Plant-Associated Bacteria</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2019</year>, <volume>58</volume>, <fpage>13024</fpage>&#x02013;<lpage>13029</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201906326</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Neilands</surname><given-names>J. B.</given-names></name>
+<article-title>Siderophores:
+structure and function of microbial iron transport compounds</article-title>. <source>J. Biol. Chem.</source>
+<year>1995</year>, <volume>270</volume>, <fpage>26723</fpage>&#x02013;<lpage>26726</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.270.45.26723</pub-id>.<pub-id pub-id-type="pmid">7592901</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Wilhelm</surname><given-names>S. W.</given-names></name>; <name><surname>Trick</surname><given-names>C. G.</given-names></name>
+<article-title>Iron-limited growth of cyanobacteria: Multiple siderophore
+production is a common response</article-title>. <source>Limnol. Oceanogr.</source>
+<year>1994</year>, <volume>39</volume>, <fpage>1979</fpage>&#x02013;<lpage>1984</lpage>. <pub-id pub-id-type="doi">10.4319/lo.1994.39.8.1979</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Perry</surname><given-names>R. D.</given-names></name>; <name><surname>Balbo</surname><given-names>P. B.</given-names></name>; <name><surname>Jones</surname><given-names>H. A.</given-names></name>; <name><surname>Fetherston</surname><given-names>J. D.</given-names></name>; <name><surname>DeMoll</surname><given-names>E.</given-names></name>
+<article-title>Yersiniabactin from <italic>Yersinia pestis</italic>: biochemical characterization of
+the siderophore and its role in
+iron transport and regulation</article-title>. <source>Microbiology</source>
+<year>1999</year>, <volume>145</volume>, <fpage>1181</fpage>&#x02013;<lpage>1190</lpage>. <pub-id pub-id-type="doi">10.1099/13500872-145-5-1181</pub-id>.<pub-id pub-id-type="pmid">10376834</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Kerbarh</surname><given-names>O.</given-names></name>; <name><surname>Ciulli</surname><given-names>A.</given-names></name>; <name><surname>Howard</surname><given-names>N. I.</given-names></name>; <name><surname>Abell</surname><given-names>C.</given-names></name>
+<article-title>Salicylate biosynthesis:
+Overexpression, purification, and characterization of Irp9, a bifunctional
+salicylate synthase from <italic>Yersinia enterocolitica</italic></article-title>. <source>J. Bacteriol.</source>
+<year>2005</year>, <volume>187</volume>, <fpage>5061</fpage>&#x02013;<lpage>5066</lpage>. <pub-id pub-id-type="doi">10.1128/JB.187.15.5061&#x02013;5066.2005</pub-id>.<pub-id pub-id-type="pmid">16030197</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Little</surname><given-names>R. F.</given-names></name>; <name><surname>Hertweck</surname><given-names>C.</given-names></name>
+<article-title>Chain release mechanisms
+in polyketide and non-ribosomal
+peptide biosynthesis</article-title>. <source>Nat. Prod. Rep.</source>
+<year>2022</year>, <volume>39</volume>, <fpage>163</fpage>&#x02013;<lpage>205</lpage>. <pub-id pub-id-type="doi">10.1039/d1np00035g</pub-id>.<pub-id pub-id-type="pmid">34622896</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Thongkongkaew</surname><given-names>T.</given-names></name>; <name><surname>Ding</surname><given-names>W.</given-names></name>; <name><surname>Bratovanov</surname><given-names>E.</given-names></name>; <name><surname>Oueis</surname><given-names>E.</given-names></name>; <name><surname>Garc&#x00131;
+A-Altares</surname><given-names>M. A.</given-names></name>; <name><surname>Zaburannyi</surname><given-names>N.</given-names></name>; <name><surname>Harmrolfs</surname><given-names>K.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Scherlach</surname><given-names>K.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name>; <name><surname>Hertweck</surname><given-names>C.</given-names></name>
+<article-title>Two Types of Threonine-Tagged Lipopeptides Synergize
+in Host Colonization by Pathogenic <italic>Burkholderia</italic> Species</article-title>. <source>ACS Chem. Biol.</source>
+<year>2018</year>, <volume>13</volume>, <fpage>1370</fpage>&#x02013;<lpage>1379</lpage>. <pub-id pub-id-type="doi">10.1021/acschembio.8b00221</pub-id>.<pub-id pub-id-type="pmid">29669203</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Lim</surname><given-names>Y.-R.</given-names></name>; <name><surname>Hong</surname><given-names>M.-K.</given-names></name>; <name><surname>Kim</surname><given-names>J.-K.</given-names></name>; <name><surname>Doan</surname><given-names>T. T. N.</given-names></name>; <name><surname>Kim</surname><given-names>D.-H.</given-names></name>; <name><surname>Yun</surname><given-names>C.-H.</given-names></name>; <name><surname>Chun</surname><given-names>Y.-J.</given-names></name>; <name><surname>Kang</surname><given-names>L.-W.</given-names></name>; <name><surname>Kim</surname><given-names>D.</given-names></name>
+<article-title>Crystal structure
+of cytochrome P450 CYP105N1 from <italic>Streptomyces coelicolor</italic>, an oxidase in the coelibactin siderophore biosynthetic pathway</article-title>. <source>Arch. Biochem. Biophys</source>
+<year>2012</year>, <volume>528</volume>, <fpage>111</fpage>&#x02013;<lpage>117</lpage>. <pub-id pub-id-type="doi">10.1016/j.abb.2012.09.001</pub-id>.<pub-id pub-id-type="pmid">23000034</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Zhao</surname><given-names>B.</given-names></name>; <name><surname>Moody</surname><given-names>S. C.</given-names></name>; <name><surname>Hider</surname><given-names>R. C.</given-names></name>; <name><surname>Lei</surname><given-names>L.</given-names></name>; <name><surname>Kelly</surname><given-names>S. L.</given-names></name>; <name><surname>Waterman</surname><given-names>M. R.</given-names></name>; <name><surname>Lamb</surname><given-names>D. C.</given-names></name>
+<article-title>Structural analysis
+of cytochrome
+P450 105N1 involved in the biosynthesis of the zincophore, coelibactin</article-title>. <source>Int. J. Mol. Sci.</source>
+<year>2012</year>, <volume>13</volume>, <fpage>8500</fpage>&#x02013;<lpage>8513</lpage>. <pub-id pub-id-type="doi">10.3390/ijms13078500</pub-id>.<pub-id pub-id-type="pmid">22942716</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Meneely</surname><given-names>K. M.</given-names></name>; <name><surname>Lamb</surname><given-names>A. L.</given-names></name>
+<article-title>Two structures of a thiazolinyl imine reductase from <italic>Yersinia enterocolitica</italic> provide insight into catalysis
+and binding to the nonribosomal peptide synthetase module of HMWP1</article-title>. <source>Biochemistry</source>
+<year>2012</year>, <volume>51</volume>, <fpage>9002</fpage>&#x02013;<lpage>9013</lpage>. <pub-id pub-id-type="doi">10.1021/bi3011016</pub-id>.<pub-id pub-id-type="pmid">23066849</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Meneely</surname><given-names>K. M.</given-names></name>; <name><surname>Ronnebaum</surname><given-names>T. A.</given-names></name>; <name><surname>Riley</surname><given-names>A. P.</given-names></name>; <name><surname>Prisinzano</surname><given-names>T. E.</given-names></name>; <name><surname>Lamb</surname><given-names>A. L.</given-names></name>
+<article-title>Holo Structure and
+Steady State Kinetics of the Thiazolinyl
+Imine Reductases for Siderophore Biosynthesis</article-title>. <source>Biochemistry</source>
+<year>2016</year>, <volume>55</volume>, <fpage>5423</fpage>&#x02013;<lpage>5433</lpage>. <pub-id pub-id-type="doi">10.1021/acs.biochem.6b00735</pub-id>.<pub-id pub-id-type="pmid">27601130</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>He</surname><given-names>P.</given-names></name>; <name><surname>Moran</surname><given-names>G. R.</given-names></name>
+<article-title>Structural and mechanistic
+comparisons of the metal-binding
+members of the vicinal oxygen chelate (VOC) superfamily</article-title>. <source>J. Inorg. Biochem.</source>
+<year>2011</year>, <volume>105</volume>, <fpage>1259</fpage>&#x02013;<lpage>1272</lpage>. <pub-id pub-id-type="doi">10.1016/j.jinorgbio.2011.06.006</pub-id>.<pub-id pub-id-type="pmid">21820381</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Haack</surname><given-names>P. A.</given-names></name>; <name><surname>Harmrolfs</surname><given-names>K.</given-names></name>; <name><surname>Bader</surname><given-names>C. D.</given-names></name>; <name><surname>Garcia</surname><given-names>R.</given-names></name>; <name><surname>Gunesch</surname><given-names>A. P.</given-names></name>; <name><surname>Haid</surname><given-names>S.</given-names></name>; <name><surname>Popoff</surname><given-names>A.</given-names></name>; <name><surname>Voltz</surname><given-names>A.</given-names></name>; <name><surname>Kim</surname><given-names>H.</given-names></name>; <name><surname>Bartenschlager</surname><given-names>R.</given-names></name>; <name><surname>Pietschmann</surname><given-names>T.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name>
+<article-title>Thiamyxins:
+Structure and Biosynthesis of Myxobacterial RNA-Virus Inhibitors</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2022</year>, <volume>61</volume>, <elocation-id>e202212946</elocation-id><pub-id pub-id-type="doi">10.1002/anie.202212946</pub-id>.</mixed-citation></ref></ref-list></back></article>

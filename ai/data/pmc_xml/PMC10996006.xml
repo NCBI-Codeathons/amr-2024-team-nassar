@@ -1,0 +1,614 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Chem Soc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Chem Soc</journal-id><journal-id journal-id-type="publisher-id">ja</journal-id><journal-id journal-id-type="coden">jacsat</journal-id><journal-title-group><journal-title>Journal of the American Chemical Society</journal-title></journal-title-group><issn pub-type="ppub">0002-7863</issn><issn pub-type="epub">1520-5126</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">10996006</article-id><article-id pub-id-type="pmid">38513269</article-id>
+<article-id pub-id-type="doi">10.1021/jacs.3c13208</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>The
+Peptide Antibiotic Corramycin Adopts a &#x003b2;-Hairpin-like
+Structure and Is Inactivated by the Kinase ComG</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Adam</surname><given-names>Sebastian</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes-1" ref-type="notes">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Fries</surname><given-names>Franziska</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x025cb;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref><xref rid="notes-1" ref-type="notes">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>von Tesmar</surname><given-names>Alexander</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes-1" ref-type="notes">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Rasheed</surname><given-names>Sari</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Deckarm</surname><given-names>Selina</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath6"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6735-3455</contrib-id><name><surname>Sousa</surname><given-names>Carla F.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Reber&#x00161;ek</surname><given-names>Roman</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath8"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0003-2212-8232</contrib-id><name><surname>Risch</surname><given-names>Timo</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x025cb;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>Mancini</surname><given-names>Stefano</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath10"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3398-9938</contrib-id><name><surname>Herrmann</surname><given-names>Jennifer</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath11"><name><surname>Koehnke</surname><given-names>Jesko</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath12"><name><surname>Kalinina</surname><given-names>Olga V.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff6" ref-type="aff">#</xref><xref rid="aff7" ref-type="aff">g</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath13"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1042-5665</contrib-id><name><surname>M&#x000fc;ller</surname><given-names>Rolf</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x025cb;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Helmholtz
+Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre
+for Infection Research (HZI), <institution>Saarland University</institution>, Campus E8 1, 66123 Saarbr&#x000fc;cken, <country>Germany</country></aff><aff id="aff2"><label>&#x025cb;</label>Department
+of Pharmacy, <institution>Saarland University</institution>, 66123 Saarbr&#x000fc;cken, <country>Germany</country></aff><aff id="aff3"><label>&#x000a7;</label><institution>German
+Center for Infection Research (DZIF), Partner Site Hannover-Braunschweig</institution>, 38124 Braunschweig, <country>Germany</country></aff><aff id="aff4"><label>&#x02225;</label>Institute
+of Medical Microbiology, <institution>University of Z&#x000fc;rich</institution>, 8006 Z&#x000fc;rich, <country>Switzerland</country></aff><aff id="aff5"><label>&#x022a5;</label>Institute
+of Food Chemistry, <institution>Leibniz University Hannover</institution>, Callinstra&#x000df;e 5, 30167 Hannover, <country>Germany</country></aff><aff id="aff6"><label>#</label>Faculty of
+Medicine, <institution>Saarland University</institution>, 66421 Homburg , <country>Germany</country></aff><aff id="aff7"><label>g</label>Center for
+Bioinformatics, <institution>Saarland University</institution>, 66123 Saarbr&#x000fc;cken, <country>Germany</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>rolf.mueller@helmholtz-hips.de</email></corresp></author-notes><pub-date pub-type="epub"><day>21</day><month>03</month><year>2024</year></pub-date><pub-date pub-type="collection"><day>03</day><month>04</month><year>2024</year></pub-date><volume>146</volume><issue>13</issue><fpage>8981</fpage><lpage>8990</lpage><history><date date-type="received"><day>24</day><month>11</month><year>2023</year></date><date date-type="accepted"><day>04</day><month>03</month><year>2024</year></date><date date-type="rev-recd"><day>01</day><month>03</month><year>2024</year></date></history><permissions><copyright-statement>&#x000a9; 2024 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja3c13208_0007" id="ab-tgr1"/></p><p>The rapid development
+of antibiotic resistance, especially among
+difficult-to-treat Gram-negative bacteria, is recognized as a serious
+and urgent threat to public health. The detection and characterization
+of novel resistance mechanisms are essential to better predict the
+spread and evolution of antibiotic resistance. Corramycin is a novel
+and modified peptidic antibiotic with activity against several Gram-negative
+pathogens. We demonstrate that the kinase ComG, part of the corramycin
+biosynthetic gene cluster, phosphorylates and thereby inactivates
+corramycin, leading to the resistance of the host. Remarkably, we
+found that the closest structural homologues of ComG are aminoglycoside
+phosphotransferases; however, ComG shows no activity toward this class
+of antibiotics. The crystal structure of ComG in complex with corramycin
+reveals that corramycin adopts a &#x003b2;-hairpin-like structure and
+allowed us to define the changes leading to a switch in substrate
+from sugar to peptide. Bioinformatic analyses suggest a limited occurrence
+of ComG-like proteins, which along with the absence of cross-resistance
+to clinically used drugs positions corramycin as an attractive antibiotic
+for further development.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>Deutsches Zentrum f&#x000c3;&#x00083;&#x000c2;&#x000bc;r Infektionsforschung</institution><institution-id institution-id-type="doi">10.13039/100009139</institution-id></institution-wrap></funding-source><award-id>8004809827</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>European Commission</institution><institution-id institution-id-type="doi">10.13039/100010663</institution-id></institution-wrap></funding-source><award-id>101002326</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ja3c13208</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ja3c13208</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>The spread of antimicrobial resistance
+(AMR) represents one of
+the principal public health problems of this century and has consequently
+been declared as one of the top 10 global public health threats by
+the World Health Organization (WHO) in 2019.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> Infections
+with Gram-negative bacteria, in particular those included in the list
+of ESKAPE (<italic>Enterococcus faecium</italic>, <italic>Staphylococcus
+aureus</italic>, <italic>Klebsiella pneumoniae</italic>, <italic>Acinetobacter
+baumannii</italic>, <italic>Pseudomonas aeruginosa</italic>, <italic>Enterobacter</italic> spp.) pathogens, are a major concern due to
+their tendency to acquire multidrug resistance.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> Research
+efforts have thus largely focused on the development of new bioactive
+compounds against Gram-negative bacteria, ideally addressing innovative
+targets.<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref6">6</xref></sup></p><p>The investigation of the specialized
+metabolism of myxobacteria,
+&#x003b4;-proteobacteria known for their complex life cycle and social
+behavior, has resulted in the isolation of natural products exhibiting
+high chemical diversity and unusual modes of action.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup><italic>Corallococcus coralloides</italic> species are
+the producers of the natural products corramycins, which were isolated
+in an activity-guided isolation process aiming to identify novel chemical
+scaffolds exhibiting activity against Gram-negative pathogens. Corramycins
+(<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A) are linear,
+peptidic natural products harboring several modified amino acids as
+well as an N-terminal butyric acid and a thus far undescribed &#x003b3;-<italic>N</italic>-methyl-&#x003b2;-OH-histidine.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref></sup> The biosynthetic
+gene cluster (BGC) responsible for the production of corramycins was
+identified as a 12-modular hybrid nonribosomal peptide synthetase
+(NRPS)&#x02013;polyketide synthase (PKS) megasynthetase assembly line
+organized in one operon (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B). The major product of this BGC exhibited substantial
+antimicrobial activity against different Gram-negative bacteria (e<italic>.</italic>g., minimum inhibitory concentration (MIC) against <italic>Escherichia coli</italic> NCTC13441 = 4 &#x003bc;g mL<sup>&#x02013;1</sup>) and was active in a first <italic>in vivo</italic> proof of concept
+study in rodents.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> A hydroxylated derivative
+and a derivative with additional glycosylation were isolated as side
+products (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A).
+The mode of action of corramycins is still elusive, but given their
+potency and spectrum, we investigated how the producing organism had
+established self-resistance and whether the underlying resistance
+mechanism is already present among bacteria.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(A) Chemical structure
+of corramycins. (B) Representation of the
+biosynthetic gene cluster (BGC) of corramycins. Biosynthetic genes
+are colored based on their function. (C) Chemical structures of tobramycin
+(left panel) and gentamicin C<sub>1</sub> (right panel). NRPS: nonribosomal
+peptide synthetase; PKS: polyketide synthase.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja3c13208_0001" id="gr1" position="float"/></fig><p>Genes related to self-resistance mechanisms being
+directly linked
+to the BGC encoding the biosynthesis is a common feature of microbial
+natural product production.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> This fact
+has even been exploited in the search for new natural products in
+the so-called self-resistance-guided genome mining.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> The understanding of the underlying mechanisms of bacterial
+resistance against antibiotics as well as their epidemiological distribution
+is vital to develop successful counterstrategies as early as possible
+in the drug development process. In general, the most common mechanisms
+of AMR by prokaryotes include enzymatic inactivation, target modification,
+porin defects, and overexpression of efflux transporters.<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup></p><p>Aminoglycosides, such as tobramycin and gentamicin (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C), are antibiotics
+of high
+clinical relevance due to their bactericidal activity and broad-spectrum
+profiles. Aminoglycoside phosphotransferases (APHs), which phosphorylate
+specific hydroxyl groups in aminoglycosides, are very effective inactivators
+of this class of antibiotics.<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref15">15</xref></sup> Although other resistance
+mechanisms against aminoglycosides can occur, the synthesis of aminoglycoside-modifying
+enzymes (AMEs) is the predominant mode of resistance in clinical isolates.
+The evolutionary success of AMEs is attributed to the ability of most
+enzymes to act on more than one aminoglycoside in addition to their
+frequent occurrence on mobile genetic elements, increasing their likelihood
+of dissemination among species.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> Intriguingly,
+there have been scarce reports of enzymes with a substrate range beyond
+the aminoglycosides such as the kinase Cph, which confers self-resistance
+to the peptide-based antibiotic capreomycin.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> Capreomycin, viomycin, and derivatives thereof constitute the antibiotic
+class of tuberactinomycins, which represent effective treatments against
+multidrug-resistant tuberculosis (MDR TB).<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> In another case, there are reports of low-level resistance to the
+structurally very different class of fluoroquinolones conferred by
+the acetylation of ciprofloxacin and norfloxacin by an enzyme related
+to an APH.<sup><xref ref-type="bibr" rid="ref19">19</xref>,<xref ref-type="bibr" rid="ref20">20</xref></sup> Consequently, there have been
+hypotheses that aminoglycoside phosphotransferases and common kinases
+evolved from a mutual ancestor and share a general kinase fold and
+kinetic mechanism.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup></p><p>Herein, we describe
+the kinase ComG from the corramycin BGC as
+a self-resistance factor of <italic>C. coralloides</italic>. We demonstrate
+that the expression of ComG leads to resistance in <italic>E. coli</italic>. The reconstitution of the ComG activity <italic>in vitro</italic> allowed us to pinpoint the position of phosphorylation on the corramycin
+backbone. The crystal structure of ComG in complex with corramycin
+revealed an unexpected &#x003b2;-hairpin-like conformation of the natural
+product and shed light on the catalytic mechanism. Importantly, ComG-like
+enzymes were not found widely distributed among bacteria, and related
+aminoglycoside-modifying enzymes do not confer resistance to corramycin,
+indicating little pre-existing resistance and, thus, showing great
+potential for corramycin to be developed as a novel class of antibiotics.</p></sec><sec id="sec2"><title>Results
+and Discussion</title><sec id="sec2.1"><title>The Corramycin BGC Contains a Gene Related
+to Aminoglycoside
+Kinases</title><p>The corramycin BGC contains 15 genes, most of which
+belong to the modular hybrid PKS/NRPS assembly line and the corresponding
+tailoring genes for the biosynthesis of the natural product (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B). In the search
+for a characteristic self-resistance gene, we expressed several potential
+tailoring genes in <italic>E. coli</italic> and found <italic>comG</italic> to confer corramycin resistance (MIC 256 &#x003bc;g mL<sup>&#x02013;1</sup>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Table S1</ext-link>).</p><p>A search of the nonredundant
+protein sequences database using blastP and ComG as a query revealed
+that its closest homologues are kinases conferring resistance to aminoglycoside
+antibiotics. We did not observe any shift in the inhibitory concentration
+of reference antibiotics, including aminoglycosides, for ComG-expressing <italic>E. coli</italic> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Table S1</ext-link>). Thus, ComG
+cannot confer resistance to members of this antibiotic class, suggesting
+rather poor structural homology between the substrate binding site
+of ComG and those of other aminoglycoside kinases. Based on this finding,
+we were intrigued to understand how the peptidic antibiotic corramycin
+may be bound and modified by ComG.</p></sec><sec id="sec2.2"><title>ComG Phosphorylates Corramycin
+in an Unprecedented Position</title><p>After we observed that ComG
+conferred resistance to <italic>E.
+coli</italic>, we attempted to reconstitute this activity <italic>in vitro</italic>. The enzyme was expressed in <italic>E. coli</italic> Lemo21 (DE3) and purified to homogeneity (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S2A</ext-link>), and analysis of ComG using intact protein mass spectrometry
+showed very good agreement between observed and calculated mass (<italic>m</italic><sub>obs</sub> = 40,949.37 Da, <italic>m</italic><sub>calc</sub> = 40,949.97 Da, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S2B</ext-link>). Upon incubation
+of corramycin with ComG in the presence of ATP and MgCl<sub>2</sub> at 22 &#x000b0;C, we observed a mass shift of +79.97 Da, corresponding
+to the addition of a phosphate group (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A). As expected, no substrate conversion
+was observed without the addition of ATP (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S3</ext-link>). Interestingly, ComG heavily favors ATP over GTP as the
+phosphate donor for its catalytic function (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S4</ext-link>), which is in contrast to the capreomycin kinase Cph, which
+shows comparable conversion for both nucleotides.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> In addition, the enzyme kinetics for the reaction of ComG
+with ATP were analyzed for a series of corramycin concentrations,
+and <italic>K</italic><sub>m</sub> and <italic>k</italic><sub>cat</sub> values were determined to be 33 &#x003bc;M and 1 min<sup>&#x02013;1</sup>, respectively (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S5</ext-link>).</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>ComG phosphorylates
+corramycin in an unprecedented position. (A)
+HR-LCMS analysis of an <italic>in vitro</italic> reaction of corramycin
+with ComG and ATP/MgCl<sub>2</sub>. Extracted ion chromatograms (EIC)
+show a characteristic mass shift of +80 Da, hinting at the addition
+of a phosphate group (left panel: + ATP/&#x02013; ComG; right panel:
++ ComG/ATP). The negative control depicting the reaction of corramycin
+with ComG, but without ATP, can be found in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S3</ext-link>. (B) Tandem MS/MS analysis of the product of the ComG reaction
+Cor-P (phosphorylated corramycin). Characteristic shifts of y8 and
+b3 ions highlight the position of phosphorylation being the &#x003b2;-alanine
+moiety. Full mass tables of corramycin and Cor-P fragmentation by
+MS/MS analysis are shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Tables S2 and S3</ext-link>. NMR data of Cor-P can be found in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S7</ext-link>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja3c13208_0002" id="gr2" position="float"/></fig><p>We hypothesized that the phosphorylation
+of corramycins may be
+the inactivation mechanism inside living cells. To support this hypothesis,
+the inhibitory concentration of the purified, phosphorylated corramycin
+(Cor-P) against <italic>E. coli</italic> was determined. Cor-P showed
+no antibacterial activity (inhibitory concentration &#x0003e;64 &#x003bc;g
+mL<sup>&#x02013;1</sup>), confirming the inactivation of corramycin
+via phosphorylation
+by ComG. To identify the site of phosphorylation, we analyzed Cor-P
+using tandem mass spectrometry (MS<sup>2</sup>) and nuclear magnetic
+resonance (NMR). MS<sup>2</sup> of Cor-P confirmed a mass shift of
++80 Da and placed the mass shift on the characteristic b3 and y8 ions
+(<xref rid="fig2" ref-type="fig">Figures <xref rid="fig2" ref-type="fig">2</xref></xref>B and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">S6, Tables S2 and S3</ext-link>). Superposition of the HMBC
+NMR spectra of corramycin and Cor-P showed characteristic <sup>1</sup>H- and <sup>13</sup>C-shifts of 0.3 ppm and approximately 3 ppm,
+respectively, for the C<sub>3</sub> atom of the &#x003b2;-alanine incorporated
+by the PKS of the BGC. These data agree with the site of modification
+as determined by MS<sup>2</sup> and allowed us to pinpoint the specific
+atom that is phosphorylated (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S7</ext-link>).</p></sec><sec id="sec2.3"><title>Overall Structural Analysis of ComG</title><p>Aminoglycoside
+kinases have been the subject of intense research due to their involvement
+in AMR against an important clinical class of antibiotics. As aminoglycosides
+and the linear peptide corramycin do not share obvious chemical or
+structural space, we were intrigued by the idea of obtaining structural
+information on ComG. Low sequence identity to published aminoglycoside
+phosphotransferase protein structures required us to produce ComG
+in which methionine had been replaced by selenomethionine for experimental
+phasing. This protein crystallized in space group <italic>P</italic>2<sub>1</sub>, and a data set was collected to a resolution of 2.1
+&#x000c5;. The structure was determined using single-wavelength anomalous
+dispersion (all data collection and refinement statistics can be found
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Table S4</ext-link>). The presence of translational
+pseudosymmetry complicated refinement of the structure.</p><p>Apo
+ComG contained two protomers in the asymmetric unit, and the refined
+model encompassed residues 14&#x02013;33, 39&#x02013;57, and 66&#x02013;364
+for chain A (13&#x02013;33, 40&#x02013;56, and 66&#x02013;364 for chain
+B). The enzyme adopts the typical bilobed kinase fold, with the N-terminal
+lobe being formed primarily by &#x003b2;-sheets, while the C-terminal
+lobe consists predominantly of &#x003b1;-helices (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A). The ATP-binding hinge region is found
+in the loop between the two lobes, with the conserved glycine residue
+leading to the parallel orientation of the backbone, which in turn
+is expected to coordinate the adenine of ATP. On the opposing side
+of the hinge region lies the &#x0201c;DFG loop&#x0201d;, which in ComG
+is mutated to a DFE motif (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S8</ext-link>).
+The conserved aspartate residue is critical for the coordination of
+the magnesium cation and, thus, for the orientation of the phosphate
+region of ATP. The surface representation of ComG revealed a wide
+pocket between the N- and C-terminal lobes that appeared suitable
+to accommodate a larger natural product (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>B). In addition, residues on both sides of
+the pocket extending toward the solvent could possibly act as a closing
+lid above both the substrate and cofactor binding sites.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>(A) Cartoon
+representation of the crystal structure of apo ComG,
+highlighting the typical bilobed kinase fold. The N-terminal lobe
+is shown in blue, the hinge region in green, and the C-terminal lobe
+in orange. (B) Surface representation of the crystal structure of
+apo ComG, with the same color coding as that in A. (C) Surface representation
+of ComG<sup>C</sup>. Protein residues are shown in pale green, whereas
+corramycin is shown as yellow sticks. (D) Structure of corramycin
+bound to ComG adopts a &#x003b2;-hairpin-like structure. The hydroxyl
+group that is phosphorylated by ComG is marked with an asterisk.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja3c13208_0003" id="gr3" position="float"/></fig><p>A search for structural homologues of ComG using
+the DALI server
+revealed an uncharacterized kinase (PDB ID <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="PDB" xlink:href="3csv">3csv</ext-link>) as the closest hit with a C<sub>&#x003b1;</sub> RMSD of 4.0 &#x000c5; and 79% sequence coverage. The closest structural
+homologue for which the structure had been determined with a bound
+substrate was aminoglycoside 7&#x02033;-phosphotransferase-Ia, which
+phosphorylates and thereby inactivates the aminoglycoside antibiotic
+hygromycin B (PDB ID <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="PDB" xlink:href="6IY9">6IY9</ext-link>) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S9</ext-link>). The overall structural
+homology is fair, with a C<sub>&#x003b1;</sub> RMSD of 3.73 &#x000c5;,
+but only just over half of the C<sub>&#x003b1;</sub> atoms could be
+aligned structurally (52%). The poor structural homology was somewhat
+expected, since ComG acts on a peptidic substrate and led us to pursue
+crystallization of the ComG&#x02013;corramycin complex.</p></sec><sec id="sec2.4"><title>Corramycin
+Adopts a &#x003b2;-Hairpin-like Structure</title><p>To this end, ComG
+was incubated with a 5-fold molar excess of corramycin,
+a 10-fold molar excess of the nonhydrolyzable ATP analogue AMPPCP,
+and MgCl<sub>2</sub> for 24 h at 4 &#x000b0;C before crystallization
+trials were attempted. ComG complex crystals (ComG<sup>C</sup>) were
+observed in multiple conditions and also belonged to space group <italic>P</italic>2<sub>1</sub>, and a data set was processed to a resolution
+of 1.5 &#x000c5;. The structure of ComG<sup>C</sup> was determined by
+molecular replacement using the ComG structure as a search model.
+Interestingly, the addition of corramycin led to a significant difference
+in crystal packing, as ComG<sup>C</sup> only had a single protomer
+in the asymmetric unit, and the pathology observed for ComG crystals
+was no longer present. Binding of corramycin did not lead to notable
+movement in the structure of ComG when comparing apo and complex structures
+(C<sub>&#x003b1;</sub> RMSD of 0.35 &#x000c5;), with the exception of the
+loop connecting residues 33 and 39, which is ordered in the ComG<sup>C</sup> structure. This is likely a direct result of a hydrogen bond
+between corramycin and Arg38 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S10</ext-link>).</p><p>We observed unambiguous electron density for corramycin
+in a pocket formed between the N- and C-terminal lobes but could not
+observe any density for AMPPCP/Mg<sup>2+</sup> (<xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref>C and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">S10</ext-link>). Unexpectedly,
+the three-dimensional structure of corramycin was reminiscent of two
+antiparallel &#x003b2;-strands, which adopt a &#x003b2;-hairpin-like structure
+that is stabilized by six intramolecular hydrogen bonds (<xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref>D and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">S11</ext-link>). The turn of the hairpin is composed of
+the <italic>N</italic>-methyl-phenylalanine, the side chain of which
+is bound in a hydrophobic pocket, and part of the hydroxylated &#x003b3;-amino
+valeroyl moiety, which is also the site of corramycin phosphorylation
+by ComG. This region of corramycin is further stabilized by two hydrogen
+bonds between the natural product and ComG (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S12</ext-link>). Interestingly, the position of this moiety at the turn,
+the site of phosphorylation, leads to a conformation that could be
+viewed as mimicking a hexose (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>D), with both hydroxyl groups pointing toward the putative
+ATP-binding site.</p><p>Structures of APH-related enzymes in complex
+with peptide-based
+natural products have been reported only once, for the capreomycin
+kinase Cph.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> Even though the bilobed architecture
+of both enzymes is somewhat similar, the overall structural homology
+is low (C<sub>&#x003b1;</sub> RMSD of 6.22 &#x000c5;) and, thus, even lower
+than the homology to the more unrelated APHs (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S13</ext-link>). The biggest structural differences are the absence
+of two C-terminal ComG loops and one &#x003b1;-helix (residues 285&#x02013;315
+and 345&#x02013;364) in Cph, which are crucial for the formation of
+the hydrophobic pocket and, therefore, for corramycin binding. In
+contrast, the characteristic macrocycle of capreomycin is extending
+into the helical architecture of the C-terminal lobe, leading to the
+compound adopting a &#x0201c;C&#x0201d; shape.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> Intriguingly, this conformation is also the result of multiple intramolecular
+hydrogen bonds. Somewhat expected based on these results, we were
+unable to detect any phosphorylation of capreomycin by ComG, which
+highlights the structural differences of the substrate binding pocket
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S14 and Table S1</ext-link>).</p></sec><sec id="sec2.5"><title>Modeling of
+the Catalytic Center</title><p>Despite adding a 10-fold
+molar excess of AMPPCP/MgCl<sub>2</sub>, we did not observe convincing
+electron density for the ATP analogue in the complex structure. This
+may be due to a rather mediocre affinity or the fact that corramycin
+binding in the active site with a high affinity occluded AMPPCP from
+the pocket during the crystallization process. To better understand
+the catalytic mechanism, we set out to model ATP into our complex
+structure using molecular dynamics (MD) simulations. As an initial
+step, one ATP and one Mg<sup>2+</sup> were placed at the presumed
+ATP-binding site of ComG (hinge region, DFE motif). Next, the system
+was minimized, equilibrated, and simulated for 100 ns. In our simulations,
+the adenine group of ATP established an H-bond with the backbone carbonyl
+oxygen of Leu100 from the hinge region (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S15</ext-link>). The Mg<sup>2+</sup> center is hexacoordinated with an
+octahedral geometry, the most usual coordination for Mg<sup>2+</sup> in biological macromolecules,<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> which
+was previously described for an aminoglycoside kinase.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> According to our simulations, Mg<sup>2+</sup> is coordinated by two oxygens of the side chains of Asp220 and Glu222
+from the DFE loop of ComG and by the triphosphate group of ATP (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>). Despite ATP acting
+as a ligand in both of the simulations, in one of them, it acted as
+a tridentate ligand (production 1) and in the other as a bidentate
+ligand (production 2, <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>C). The coordination with Glu222 is very stable and was observed
+in both of our simulations; Asp220, however, acted as a ligand in
+only one of our simulations (production 1, <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>D).</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Mg<sup>2+</sup> coordination center. (A, B)
+Representation of the
+coordination center in production 1 (A) and production 2 (B). Mg<sup>2+</sup> is shown in dark green, DFE residues and water are shown
+with balls and sticks, and ATP is shown with sticks. Carbon atoms
+are colored in yellow, nitrogen in blue, oxygen in red, phosphorus
+in gold, and hydrogens in white. Protein backbone is shown in pale
+green. (C, D) Distance between the Mg<sup>2+</sup> center and the
+oxygen ligands from ATP (C) and from Asp220 or Glu222 (D). Results
+from production 1 are shown with solid lines, and results from production
+2 are shown with dashed lines. Oxygens from ATP are labeled as shown
+in the representation on the upper left side of C.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja3c13208_0004" id="gr4" position="float"/></fig><p>Furthermore, we analyzed the cofactor binding preferences
+of ComG
+by comparing the modeled ATP pose to that of bound nucleotides in
+other APHs (Pfam family PF01636, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Table S6</ext-link>). Although sequence conservation in this family is low, the amino
+acid pattern in ComG indicates a larger similarity to the ATP binding
+pocket in other kinases (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S16</ext-link>).</p><p>The role of the water molecules in the coordination of the Mg<sup>2+</sup> center is also important, at least as a transient ligand.
+In fact, in one of our simulations (production 2), Mg<sup>2+</sup> is coordinated with three water molecules for the full 100 ns of
+our simulation (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B). Furthermore, the orientation of the N-terminal chain of corramycin
+also seems to be important for its interaction with ATP, as depicted
+in the comparison between the position of corramycin after 90 ns of
+simulation in productions 1 and 2 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S17</ext-link>). We also followed the distance between the oxygen of the C<sub>3</sub>-hydroxyl group derived from the carboxy group of &#x003b2;-alanine
+from corramycin and the terminal phosphate from ATP along the simulated
+time (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S18</ext-link>), and all simulation data
+agree with experimental observation.</p></sec><sec id="sec2.6"><title>Bioinformatic Analysis
+and Evolution of ComG</title><p>Naturally
+occurring resistance is a major concern in the exploration of novel
+potential antibiotics. We thus performed a thorough bioinformatic
+analysis to explore the evolutionary spread of potential resistance
+mediated by ComG-like proteins through genome mining in the order <italic>Myxococcales</italic> and the phylum <italic>Actinobacteria</italic> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S19</ext-link>). In the <italic>Myxococcales</italic>, we only found one homologue with high sequence identity on the
+protein level (72.5%, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S1</ext-link>) in three
+identical NRPS/T1PKS-type clusters in <italic>Myxococcus llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogochensis</italic>, <italic>Myxococcus guangdongensis</italic>, and <italic>Myxococcus</italic> sp. CA040A (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S19</ext-link>). In <italic>Actinobacteria</italic>, we found several homologues with a relatively low sequence identity
+(25&#x02013;30%) but good coverage (sequence similarity observed over
+&#x0003e;75% of the entire ComG length) in BGCs of very different types,
+ranging
+from aryl polyene to NRPS and siderophores. These data may indicate
+other instances in which aminoglycoside-like phosphotransferases acquired
+a substrate range that is broader than aminoglycoside antibiotics,
+but experimental verification will be required before firm conclusions
+can be drawn.</p><p>Our bioinformatic analysis, along with the structural
+data presented above, supports the notion that aminoglycoside-like
+kinases are branched in the kinase protein family and share an evolutionary
+origin as well as catalytic mechanisms with other kinases.</p><p>In
+order to further characterize potential pre-existing corramycin
+resistance in bacteria, we explored the phylogenetic spread of ComG-like
+enzymes, irrespective of their position in BGCs. ComG belongs to the
+phosphotransferase enzyme family APH (Pfam family PF01636). However,
+this domain does not extend to the C-terminal region of the protein,
+comprising positions 285&#x02013;315 (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A), which is crucial for corramycin binding.
+Thus, most proteins in this family are likely incapable of binding
+corramycin.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>(A) Cartoon structure of ComG. The C-terminal corramycin-binding
+region between Trp285 and Tyr315 is colored orange, whereas the natural
+product is shown as violet sticks. (B) Phylogenetic tree of ComG-like
+proteins with a conserved C-terminal corramycin-binding region. Branches
+corresponding to important taxa are shown in color. ComG is shown
+in gold. (C) Sequence logo of conservation of corramycin-binding residues.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja3c13208_0005" id="gr5" position="float"/></fig><p>To narrow down the potential set of corramycin-binding
+APHs, we
+searched for homologues of ComG with BLAST and filtered them in such
+a way that the sequence similarity extended into the corramycin-binding
+C-terminal region. This yielded 202 proteins, predominantly phosphotransferases
+from <italic>Myxococcota</italic> and <italic>Actinomycetota</italic> and kinases and hypothetical proteins in other phyla from the <italic>Terrabacteria</italic> group such as <italic>Armatimonada</italic>, <italic>Bacillota</italic>, <italic>Cyanobacteriota</italic>, and <italic>Chloroflexota</italic>, as well as from a candidate
+phylum <italic>Rokubacteria</italic>. The corramycin kinase lies on
+a branch separated from other myxobacteria, with four proteins from <italic>Myxococcus</italic> sp. CA040A, <italic>M. llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogochensis</italic>, and <italic>M. guangdongensis</italic> that are annotated as phosphotransferases
+or aminoglycoside phosphotransferase family proteins. In these species,
+the ComG homologue is embedded in a BGC that is very similar to the
+corramycin BGC. A distant branch corresponds to GNAT family <italic>N</italic>-acetyltransferases from <italic>Legionella</italic> spp.
+and several other closely related proteins from <italic>Pseudomonadota</italic> (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>B). Analysis
+of conservation of corramycin-binding residues in these proteins shows
+a reasonable conservation within the phosphotransferase domain but
+a severe drop of conservation in the corramycin-binding C-terminal
+region, spanning positions 285&#x02013;315 (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>C). Structural analysis shows that this region
+is crucial for binding of corramycin. These data indicate that ComG
+is a distinct kinase with very few homologues in the kingdom of bacteria.</p><p>In order to identify potential naturally occurring resistance in
+pathogenic bacteria, we searched the CARD database (Comprehensive
+Antibiotic Resistance Database<sup><xref ref-type="bibr" rid="ref23">23</xref></sup>) for homologues
+of ComG, but in none of these hits did homology expand to the corramycin-binding
+C-terminal part. Together with an overall low homology, we propose
+that these proteins do not confer corramycin resistance. When we further
+analyzed the ESKAPE pathogens, we found five hits that were deemed
+significant and fell within the CARD branch of the phylogenetic tree
+(<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>B). Based
+on their taxonomic diversity, three genes were cloned, expressed in <italic>E. coli</italic> BL21 (DE3) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Figure S20</ext-link>), and tested for their activity toward corramycin. As expected and
+unlike ComG, we observed no MIC shift for the three tested ComG homologues,
+and they thus do not confer resistance to corramycin (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Table S7</ext-link>).</p></sec><sec id="sec2.7"><title>Corramycin Overcomes Aminoglycoside
+Resistance Mediated through
+AMEs</title><p>Given the relation of ComG to aminoglycoside phosphotransferases,
+we aimed to investigate a potential cross-resistance to this class
+of antibiotics. To this end, we assessed the antibacterial activity
+of corramycin against 57 <italic>E. coli</italic> clinical isolates,
+55 of which express different classes and combinations of AMEs (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Table S8</ext-link>).<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> Corramycin
+MICs were distributed unimodally with an MIC<sub>50</sub> of 8 &#x003bc;g
+mL<sup>&#x02013;1</sup> and MIC<sub>90</sub> of 16 &#x003bc;g mL<sup>&#x02013;1</sup> (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>, <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>). Besides
+imipenem and colistin, corramycin was the only antibiotic that remained
+active, irrespective of the resistance mechanism, indicating that
+the peptide is not inactivated by AMEs nor is it affected by other
+antimicrobial resistance determinants conferring resistance to antibiotics
+like fluoroquinolones, tetracyclines, or trimethoprim.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>MIC<sub>50</sub> and MIC<sub>90</sub> of Corramycin and Reference
+Antibiotics among 57 Multidrug-Resistant <italic>Escherichia coli</italic> Clinical Isolates<xref rid="tbl1-fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x000a0;</th><th colspan="3" align="center">MIC
+[&#x003bc;g mL<sup>&#x02013;1</sup>]<hr/></th></tr><tr><th style="border:none;" align="center">antibiotic</th><th style="border:none;" align="center">EUCAST CBP<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> [&#x003bc;g&#x000a0;mL<sup>&#x02013;1</sup>]</th><th style="border:none;" align="center">MIC range (<italic>n</italic>&#x000a0;=&#x000a0;57)</th><th style="border:none;" align="center" char=".">MIC<sub>50</sub></th><th style="border:none;" align="center" char=".">MIC<sub>90</sub></th></tr></thead><tbody><tr><td style="border:none;" align="left">corramycin</td><td style="border:none;" align="left">n/a</td><td style="border:none;" align="left">2 to &#x0003e;64</td><td style="border:none;" align="char" char=".">8</td><td style="border:none;" align="char" char=".">16</td></tr><tr><td style="border:none;" align="left">amikacin</td><td style="border:none;" align="left">8</td><td style="border:none;" align="left">4 to 64</td><td style="border:none;" align="char" char=".">16</td><td style="border:none;" align="char" char=".">32</td></tr><tr><td style="border:none;" align="left">gentamicin<xref rid="t1fn1" ref-type="table-fn">b</xref></td><td style="border:none;" align="left">2</td><td style="border:none;" align="left">2 to &#x0003e;64</td><td style="border:none;" align="char" char=".">&#x0003e;64</td><td style="border:none;" align="char" char=".">&#x0003e;64</td></tr><tr><td style="border:none;" align="left">kanamycin<xref rid="t1fn2" ref-type="table-fn">c</xref></td><td style="border:none;" align="left">n/a</td><td style="border:none;" align="left">4 to &#x0003e;64</td><td style="border:none;" align="char" char=".">&#x0003e;64</td><td style="border:none;" align="char" char=".">&#x0003e;64</td></tr><tr><td style="border:none;" align="left">neomycin<xref rid="t1fn3" ref-type="table-fn">d</xref></td><td style="border:none;" align="left">n/a</td><td style="border:none;" align="left">2 to &#x0003e;64</td><td style="border:none;" align="char" char=".">4</td><td style="border:none;" align="char" char=".">&#x0003e;64</td></tr><tr><td style="border:none;" align="left">tobramycin</td><td style="border:none;" align="left">2</td><td style="border:none;" align="left">2 to &#x0003e;64</td><td style="border:none;" align="char" char=".">32</td><td style="border:none;" align="char" char=".">&#x0003e;64</td></tr><tr><td style="border:none;" align="left">imipenem</td><td style="border:none;" align="left">2</td><td style="border:none;" align="left">0.25&#x000a0;to&#x000a0;2</td><td style="border:none;" align="char" char=".">0.5</td><td style="border:none;" align="char" char=".">1</td></tr><tr><td style="border:none;" align="left">colistin</td><td style="border:none;" align="left">2</td><td style="border:none;" align="left">0.25 to 0.5</td><td style="border:none;" align="char" char=".">0.5</td><td style="border:none;" align="char" char=".">0.5</td></tr><tr><td style="border:none;" align="left">ciprofloxacin</td><td style="border:none;" align="left">0.25<xref rid="t1fn4" ref-type="table-fn">e</xref></td><td style="border:none;" align="left">0.016 to &#x0003e;8</td><td style="border:none;" align="char" char=".">&#x0003e;8</td><td style="border:none;" align="char" char=".">&#x0003e;8</td></tr><tr><td style="border:none;" align="left">levofloxacin</td><td style="border:none;" align="left">0.5</td><td style="border:none;" align="left">0.03 to &#x0003e;16</td><td style="border:none;" align="char" char=".">16</td><td style="border:none;" align="char" char=".">&#x0003e;16</td></tr><tr><td style="border:none;" align="left">tetracycline</td><td style="border:none;" align="left">n/a</td><td style="border:none;" align="left">2 to &#x0003e;64</td><td style="border:none;" align="char" char=".">&#x0003e;64</td><td style="border:none;" align="char" char=".">&#x0003e;64</td></tr><tr><td style="border:none;" align="left">trimethoprim</td><td style="border:none;" align="left">4<xref rid="t1fn5" ref-type="table-fn">f</xref></td><td style="border:none;" align="left">0.5 to &#x0003e;64</td><td style="border:none;" align="char" char=".">&#x0003e;64</td><td style="border:none;" align="char" char=".">&#x0003e;64</td></tr></tbody></table><table-wrap-foot><fn id="tbl1-fn1"><label>a</label><p>Minimum inhibitory concentrations
+(MICs) were determined in cation-adjusted Mueller-Hinton broth (MHB2)
+using the broth microdilution method according to the EUCAST guidelines.
+Values represent two independent repeats. CBP: clinical breakpoint;
+EUCAST: European Committee on Antimicrobial Susceptibility Testing;
+n/a: not available.</p></fn><fn id="t1fn1"><label>b</label><p>Combination
+of gentamicin C<sub>1</sub>, C<sub>1a</sub>, and C<sub>2</sub>.</p></fn><fn id="t1fn2"><label>c</label><p>Main component kanamycin A.</p></fn><fn id="t1fn3"><label>d</label><p>Main component neomycin B.</p></fn><fn id="t1fn4"><label>e</label><p>Indications other than meningitis.</p></fn><fn id="t1fn5"><label>f</label><p>Uncomplicated urinary tract
+infections
+(UTI).</p></fn></table-wrap-foot></table-wrap><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Distribution of corramycin
+MICs among 57 multidrug-resistant <italic>Escherichia coli</italic> clinical isolates. Corramycin is not affected
+by aminoglycoside-modifying enzymes (AMEs), irrespective of the class
+of AMEs. APH: aminoglycoside phosphotransferase; AAC: aminoglycoside
+acetyltransferase; no.: number.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja3c13208_0006" id="gr6" position="float"/></fig><p>Remarkably, one of the clinical isolates expressing
+APH(3&#x02032;)-Ia
+displayed resistance to corramycin (MIC &#x0003e; 64 &#x003bc;g mL<sup>&#x02013;1</sup>). Nevertheless, we can exclude the involvement of the phosphotransferase,
+as corramycin maintained activity against other isolates expressing
+the same APH variant. The majority of the tested isolates are multidrug-resistant
+(<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">Table S9</ext-link>); thus, it appears likely that the loss
+of susceptibility is caused by a distinct mechanism. To identify the
+culprit of resistance, we carefully reassessed the genome of the isolate
+with a particular focus on the <italic>sbmA</italic> gene. We have
+previously described that mutations of SbmA, a transporter responsible
+for the uptake of the antibiotic in <italic>E. coli</italic>, can
+confer resistance to corramycin.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> Strikingly,
+we found a point mutation in the <italic>sbmA</italic> gene resulting
+in a premature stop codon and, hence, a truncated protein. We further
+assessed the susceptibility of the uptake-deficient strain in M9 minimal
+medium and found that corramycin activity was restored with an MIC
+of 1 &#x003bc;g mL<sup>&#x02013;1</sup>. This result supports our hypothesis
+of SbmA inactivation being the root of resistance in <italic>E. coli</italic>, as corramycin uses an additional uptake system under minimal conditions
+and does not solely rely on SbmA. We have previously demonstrated
+that single SbmA mutations, despite conferring resistance <italic>in vitro</italic>, may not necessarily translate into a loss of efficacy <italic>in vivo</italic>.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> These findings, coupled
+with the absence of cross-resistance to clinically used drugs, highlight
+the potential of corramycin in overcoming drug resistance.</p></sec></sec><sec id="sec3"><title>Conclusion</title><p>The in-depth study of antibiotic self-resistance
+mechanisms plays
+a vital role in controlling the spread of AMR and its associated problems
+for human health. This is especially true for compounds active against
+Gram-negative bacteria, as infections caused by such pathogens are
+generally more difficult to cure due to limited treatment options.
+Novel antibiotics with innovative targets are needed. The development
+of such is, however, time-consuming and expensive,<sup><xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref27">27</xref></sup> which makes the early, thorough understanding of resistance mechanisms
+and their spread among pathogenic bacteria a very high priority.</p><p>Besides self-resistance mechanisms of tuberactinomycins,<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> ComG is the first kinase within the APH enzyme
+family able to modify and inactivate a peptidic antibiotic. Unlike
+the capreomycin kinase Cph, however, ComG shows cofactor specificity
+toward ATP and adopts a unique 3D-fold tailored toward corramycin
+binding. It was particularly surprising to discover that corramycin
+adopts a &#x003b2;-hairpin-like structure, which in turn allows the
+part of the molecule that is modified by ComG to mimic a sugar. It
+is unclear whether the active conformation of corramycin, or indeed
+its solution structure, reflects that of corramycin bound to ComG.
+Stabilization of the conformation observed in the ComG<sup>C</sup> crystal structure by six hydrogen bonds, combined with the presence
+of the &#x003b1;-<italic>N</italic>-methylated phenylalanine at the
+&#x003b2;-hairpin turn, may be sufficient to stabilize the conformation
+in solution. The presence of a special &#x0201c;C&#x0201d;-shaped conformation
+of capreomycin, which is also the result of intramolecular hydrogen
+bonds, may hint at an evolutionary design for peptide antibiotics.
+Corramycin appears to combine two very important areas of medicinal
+chemistry in one molecule: &#x003b2;-hairpins and carbohydrate-mimetic
+peptides. It may therefore serve as a valuable starting point for
+future synthetic efforts to develop bioactive molecules featuring
+either one or both elements.</p><p>The effect of corramycin phosphorylation
+by ComG on target engagement
+by the antibiotic remains elusive, but we view it as probable that,
+analogously to aminoglycoside antibiotics, binding to the target is
+abolished by phosphorylation. A potential mode of dephosphorylation
+as activation mechanism has yet to be analyzed, but without a suitable
+gene product in the corramycin BGC, it may either occur spontaneously
+or, more likely, be the result of generic phosphatases. It remains
+unclear whether phosphorylation is the main way by which the producing
+strain protects itself against corramycin. We have previously hypothesized
+that corramycin may be produced as a fatty acid-linked pro-drug that
+is exported and subsequently hydrolyzed in the periplasm similar to
+the description of the myxobacterial natural product vioprolide.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref28">28</xref></sup> Thus, ComG might only function as a highly efficient fail-safe in
+case of a &#x0201c;production error&#x0201d; or unintentional import
+of released corramycin, ultimately eliminating the need for a reactivation
+mechanism.</p><p>Since phosphorylation is a very effective way to
+neutralize antibiotics,
+we performed genome mining studies to analyze the spread of potential
+ComG homologues. The results were very promising in that the spread
+is limited and mostly restricted to predicted biosynthetic gene clusters.
+Critically, no presence on mobile genetic elements could be determined,
+and our data indicate a rather narrow substrate range of ComG with
+no activity detected on aminoglycosides, macrolides, fluoroquinolones,
+and the peptide antibiotic capreomycin. We further characterized the
+activity of corramycin against multidrug-resistant <italic>E. coli</italic> clinical isolates expressing different types of AMEs including common
+aminoglycoside phosphotransferases. No cross-resistance was observed,
+suggesting that the natural product is not part of the substrate range
+of AMEs. To adapt the highly prevalent aminoglycoside phosphotransferases
+for activity on corramycin would, among extensive mutations, also
+require a specific C-terminal extension of these proteins. We are
+of the opinion that such a process would likely be very slow, which,
+in conjunction with its intriguing structure, the lack of cross-resistance
+with commercially used antibiotics, and a most likely innovative target
+renders corramycin a very promising antibiotic natural product primed
+for further development.</p></sec></body><back><notes id="notes-2" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/jacs.3c13208?goto=supporting-info">https://pubs.acs.org/doi/10.1021/jacs.3c13208</ext-link>.<list id="silist" list-type="simple"><list-item><p>Experimental details,
+materials, and methods, as well
+as supplementary figures and tables (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.3c13208/suppl_file/ja3c13208_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja3c13208_si_001.pdf"><caption><p>ja3c13208_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="accession-codes" id="notes-5"><title>Accession Codes</title><p>Diffraction data
+and refined structural models have been deposited in the PDB. See
+Table S4 for PDB codes.</p></notes><notes notes-type="" id="notes-1"><title>Author Contributions</title><p><sup>&#x02021;</sup> S.A.,
+F.F., and A.V.T. contributed equally to this paper. The manuscript
+was written through contributions of all authors. All authors have
+given approval to the final version of the manuscript.</p></notes><notes notes-type="funding-statement" id="notes-4"><p>This study was
+supported by the German Centre for Infection Research (DZIF) in the
+project &#x0201c;Development of corramycin as an antibiotic against
+Gram-negative bacteria&#x0201d; (project: TTU 09.827, funding code:
+8004809827) and the European Research Council (ERC CoG 101002326)
+(to J.K.).</p></notes><notes notes-type="COI-statement" id="NOTES-d14e1091-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>The authors would like to acknowledge David Auerbach for the
+purification of the phosphorylated corramycin and Asfandyar Sikandar
+for help with protein purification. In addition, the authors would
+like to thank Kirsten Harmrolfs, who aided the structural elucidation
+of Cor-P by NMR, and Natalia Kolesnik-Goldmann for shipment of the
+clinical isolates. Furthermore, the authors would like to thank Norbert
+Reiling and the National Reference Center for Mycobacteria (NRZ, Borstel,
+Germany) for providing capreomyin.</p></ack><glossary id="dl1"><def-list><title>ABBREVIATIONS</title><def-item><term>GNAT</term><def><p>GCN5-related <italic>N</italic>-acetyltransferase</p></def></def-item><def-item><term>HMBC</term><def><p>heteronuclear
+multiple bond correlation</p></def></def-item><def-item><term>RMSD</term><def><p>root mean square deviation</p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Prestinaci</surname><given-names>F.</given-names></name>; <name><surname>Pezzotti</surname><given-names>P.</given-names></name>; <name><surname>Pantosti</surname><given-names>A.</given-names></name>
+<article-title>Antimicrobial Resistance: A Global
+Multifaceted Phenomenon</article-title>. <source>Pathog Glob Health</source>
+<year>2015</year>, <volume>109</volume> (<issue>7</issue>), <fpage>309</fpage>&#x02013;<lpage>318</lpage>. <pub-id pub-id-type="doi">10.1179/2047773215Y.0000000030</pub-id>.<pub-id pub-id-type="pmid">26343252</pub-id>
+</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><article-title>Antimicrobial Resistance: A Top Ten
+Global Public Health Threat</article-title>. <source>eClinicalMedicine</source>
+<year>2021</year>, <volume>41</volume>, <elocation-id>101221</elocation-id><pub-id pub-id-type="doi">10.1016/j.eclinm.2021.101221</pub-id>.<pub-id pub-id-type="pmid">34877512</pub-id>
+</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Pogue</surname><given-names>J. M.</given-names></name>; <name><surname>Kaye</surname><given-names>K. S.</given-names></name>; <name><surname>Cohen</surname><given-names>D. A.</given-names></name>; <name><surname>Marchaim</surname><given-names>D.</given-names></name>
+<article-title>Appropriate Antimicrobial
+Therapy in the Era of Multidrug-Resistant Human Pathogens</article-title>. <source>Clin Microbiol Infect</source>
+<year>2015</year>, <volume>21</volume> (<issue>4</issue>), <fpage>302</fpage>&#x02013;<lpage>312</lpage>. <pub-id pub-id-type="doi">10.1016/j.cmi.2014.12.025</pub-id>.<pub-id pub-id-type="pmid">25743999</pub-id>
+</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Pendleton</surname><given-names>J. N.</given-names></name>; <name><surname>Gorman</surname><given-names>S. P.</given-names></name>; <name><surname>Gilmore</surname><given-names>B. F.</given-names></name>
+<article-title>Clinical
+Relevance of the ESKAPE
+Pathogens</article-title>. <source>Expert Review of Anti-infective Therapy</source>
+<year>2013</year>, <volume>11</volume> (<issue>3</issue>), <fpage>297</fpage>&#x02013;<lpage>308</lpage>. <pub-id pub-id-type="doi">10.1586/eri.13.12</pub-id>.<pub-id pub-id-type="pmid">23458769</pub-id>
+</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Impey</surname><given-names>R. E.</given-names></name>; <name><surname>Hawkins</surname><given-names>D. A.</given-names></name>; <name><surname>Sutton</surname><given-names>J. M.</given-names></name>; <name><surname>Soares da Costa</surname><given-names>T. P.</given-names></name>
+<article-title>Overcoming
+Intrinsic and Acquired Resistance Mechanisms Associated with the Cell
+Wall of Gram-Negative Bacteria</article-title>. <source>Antibiotics
+(Basel)</source>
+<year>2020</year>, <volume>9</volume> (<issue>9</issue>), <fpage>623</fpage><pub-id pub-id-type="doi">10.3390/antibiotics9090623</pub-id>.<pub-id pub-id-type="pmid">32961699</pub-id>
+</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Pandeya</surname><given-names>A.</given-names></name>; <name><surname>Ojo</surname><given-names>I.</given-names></name>; <name><surname>Alegun</surname><given-names>O.</given-names></name>; <name><surname>Wei</surname><given-names>Y.</given-names></name>
+<article-title>Periplasmic Targets for the Development
+of Effective Antimicrobials against Gram-Negative Bacteria</article-title>. <source>ACS Infect. Dis.</source>
+<year>2020</year>, <volume>6</volume> (<issue>9</issue>), <fpage>2337</fpage>&#x02013;<lpage>2354</lpage>. <pub-id pub-id-type="doi">10.1021/acsinfecdis.0c00384</pub-id>.<pub-id pub-id-type="pmid">32786281</pub-id>
+</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Herrmann</surname><given-names>J.</given-names></name>; <name><surname>Fayad</surname><given-names>A. A.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name>
+<article-title>Natural Products
+from Myxobacteria:
+Novel Metabolites and Bioactivities</article-title>. <source>Nat. Prod.
+Rep.</source>
+<year>2017</year>, <volume>34</volume> (<issue>2</issue>), <fpage>135</fpage>&#x02013;<lpage>160</lpage>. <pub-id pub-id-type="doi">10.1039/C6NP00106H</pub-id>.<pub-id pub-id-type="pmid">27907217</pub-id>
+</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Couturier</surname><given-names>C.</given-names></name>; <name><surname>Gro&#x000df;</surname><given-names>S.</given-names></name>; <name><surname>von Tesmar</surname><given-names>A.</given-names></name>; <name><surname>Hoffmann</surname><given-names>J.</given-names></name>; <name><surname>Deckarm</surname><given-names>S.</given-names></name>; <name><surname>Fievet</surname><given-names>A.</given-names></name>; <name><surname>Dubarry</surname><given-names>N.</given-names></name>; <name><surname>Taillier</surname><given-names>T.</given-names></name>; <name><surname>P&#x000f6;verlein</surname><given-names>C.</given-names></name>; <name><surname>Stump</surname><given-names>H.</given-names></name>; <name><surname>Kurz</surname><given-names>M.</given-names></name>; <name><surname>Toti</surname><given-names>L.</given-names></name>; <name><surname>Haag Richter</surname><given-names>S.</given-names></name>; <name><surname>Schummer</surname><given-names>D.</given-names></name>; <name><surname>Sizun</surname><given-names>P.</given-names></name>; <name><surname>Hoffmann</surname><given-names>M.</given-names></name>; <name><surname>Prasad Awal</surname><given-names>R.</given-names></name>; <name><surname>Zaburannyi</surname><given-names>N.</given-names></name>; <name><surname>Harmrolfs</surname><given-names>K.</given-names></name>; <name><surname>Wink</surname><given-names>J.</given-names></name>; <name><surname>Lessoud</surname><given-names>E.</given-names></name>; <name><surname>Vermat</surname><given-names>T.</given-names></name>; <name><surname>Cazals</surname><given-names>V.</given-names></name>; <name><surname>Silve</surname><given-names>S.</given-names></name>; <name><surname>Bauer</surname><given-names>A.</given-names></name>; <name><surname>Mourez</surname><given-names>M.</given-names></name>; <name><surname>Fraisse</surname><given-names>L.</given-names></name>; <name><surname>Leroi-Geissler</surname><given-names>C.</given-names></name>; <name><surname>Rey</surname><given-names>A.</given-names></name>; <name><surname>Versluys</surname><given-names>S.</given-names></name>; <name><surname>Bacqu&#x000e9;</surname><given-names>E.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name>; <name><surname>Renard</surname><given-names>S.</given-names></name>
+<article-title>Structure Elucidation, Total Synthesis, Antibacterial
+In Vivo Efficacy and Biosynthesis Proposal of Myxobacterial Corramycin</article-title>. <source>Angew. Chem., Int. Ed. Engl.</source>
+<year>2022</year>, <volume>61</volume> (<issue>51</issue>), <elocation-id>e202210747</elocation-id><pub-id pub-id-type="doi">10.1002/anie.202210747</pub-id>.<pub-id pub-id-type="pmid">36197755</pub-id>
+</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Renard</surname><given-names>S.</given-names></name>; <name><surname>Versluys</surname><given-names>S.</given-names></name>; <name><surname>Taillier</surname><given-names>T.</given-names></name>; <name><surname>Dubarry</surname><given-names>N.</given-names></name>; <name><surname>Leroi-Geissler</surname><given-names>C.</given-names></name>; <name><surname>Rey</surname><given-names>A.</given-names></name>; <name><surname>Cornaire</surname><given-names>E.</given-names></name>; <name><surname>Sordello</surname><given-names>S.</given-names></name>; <name><surname>Carry</surname><given-names>J.-C. B.</given-names></name>; <name><surname>Angouillant-Boniface</surname><given-names>O.</given-names></name>; <name><surname>Gouyon</surname><given-names>T.</given-names></name>; <name><surname>Thompson</surname><given-names>F.</given-names></name>; <name><surname>Lebourg</surname><given-names>G.</given-names></name>; <name><surname>Certal</surname><given-names>V.</given-names></name>; <name><surname>Balazs</surname><given-names>L.</given-names></name>; <name><surname>Arranz</surname><given-names>E.</given-names></name>; <name><surname>Doerflinger</surname><given-names>G.</given-names></name>; <name><surname>Bretin</surname><given-names>F.</given-names></name>; <name><surname>Gervat</surname><given-names>V.</given-names></name>; <name><surname>Brohan</surname><given-names>E.</given-names></name>; <name><surname>Kraft</surname><given-names>V.</given-names></name>; <name><surname>Boulenc</surname><given-names>X.</given-names></name>; <name><surname>Ducelier</surname><given-names>C.</given-names></name>; <name><surname>Bacqu&#x000e9;</surname><given-names>E.</given-names></name>; <name><surname>Couturier</surname><given-names>C.</given-names></name>
+<article-title>Optimization of the Antibacterial Spectrum and the
+Developability Profile of the Novel-Class Natural Product Corramycin</article-title>. <source>J. Med. Chem.</source>
+<year>2023</year>, <volume>66</volume> (<issue>24</issue>), <fpage>16869</fpage>&#x02013;<lpage>16887</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jmedchem.3c01564</pub-id>.<pub-id pub-id-type="pmid">38088830</pub-id>
+</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Tracanna</surname><given-names>V.</given-names></name>; <name><surname>de Jong</surname><given-names>A.</given-names></name>; <name><surname>Medema</surname><given-names>M. H.</given-names></name>; <name><surname>Kuipers</surname><given-names>O. P.</given-names></name>
+<article-title>Mining Prokaryotes
+for Antimicrobial Compounds: From Diversity to Function</article-title>. <source>FEMS Microbiology Reviews</source>
+<year>2017</year>, <volume>41</volume> (<issue>3</issue>), <fpage>417</fpage>&#x02013;<lpage>429</lpage>. <pub-id pub-id-type="doi">10.1093/femsre/fux014</pub-id>.<pub-id pub-id-type="pmid">28402441</pub-id>
+</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Panter</surname><given-names>F.</given-names></name>; <name><surname>Krug</surname><given-names>D.</given-names></name>; <name><surname>Baumann</surname><given-names>S.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name>
+<article-title>Self-Resistance
+Guided Genome Mining Uncovers New Topoisomerase Inhibitors from Myxobacteria</article-title>. <source>Chem. Sci.</source>
+<year>2018</year>, <volume>9</volume> (<issue>21</issue>), <fpage>4898</fpage>&#x02013;<lpage>4908</lpage>. <pub-id pub-id-type="doi">10.1039/C8SC01325J</pub-id>.<pub-id pub-id-type="pmid">29910943</pub-id>
+</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Almabruk</surname><given-names>K. H.</given-names></name>; <name><surname>Dinh</surname><given-names>L. K.</given-names></name>; <name><surname>Philmus</surname><given-names>B.</given-names></name>
+<article-title>Self-Resistance
+of Natural Product
+Producers: Past, Present, and Future Focusing on Self-Resistant Protein
+Variants</article-title>. <source>ACS Chem. Biol.</source>
+<year>2018</year>, <volume>13</volume> (<issue>6</issue>), <fpage>1426</fpage>&#x02013;<lpage>1437</lpage>. <pub-id pub-id-type="doi">10.1021/acschembio.8b00173</pub-id>.<pub-id pub-id-type="pmid">29763292</pub-id>
+</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Li</surname><given-names>X.-Z.</given-names></name>; <name><surname>Nikaido</surname><given-names>H.</given-names></name>
+<article-title>Efflux-Mediated Drug
+Resistance in Bacteria: An Update</article-title>. <source>Drugs</source>
+<year>2009</year>, <volume>69</volume> (<issue>12</issue>), <fpage>1555</fpage>&#x02013;<lpage>1623</lpage>. <pub-id pub-id-type="doi">10.2165/11317030-000000000-00000</pub-id>.<pub-id pub-id-type="pmid">19678712</pub-id>
+</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Smith</surname><given-names>C. A.</given-names></name>; <name><surname>Baker</surname><given-names>E. N.</given-names></name>
+<article-title>Aminoglycoside Antibiotic Resistance by Enzymatic Deactivation</article-title>. <source>CDTID</source>
+<year>2002</year>, <volume>2</volume> (<issue>2</issue>), <fpage>143</fpage>&#x02013;<lpage>160</lpage>. <pub-id pub-id-type="doi">10.2174/1568005023342533</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Wright</surname><given-names>G. D.</given-names></name>
+<article-title>Aminoglycoside
+Phosphotransferases: Proteins, Structure, and Mechanism</article-title>. <source>Front Biosci</source>
+<year>1999</year>, <volume>4</volume> (<issue>1&#x02013;3</issue>), <fpage>d9</fpage><pub-id pub-id-type="doi">10.2741/Wright</pub-id>.<pub-id pub-id-type="pmid">9872733</pub-id>
+</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><person-group person-group-type="allauthors"><name><surname>Shi</surname><given-names>K.</given-names></name>; <name><surname>Caldwell</surname><given-names>S. J.</given-names></name>; <name><surname>Fong</surname><given-names>D. H.</given-names></name>; <name><surname>Berghuis</surname><given-names>A. M.</given-names></name></person-group><article-title>Prospects for
+Circumventing Aminoglycoside Kinase Mediated Antibiotic Resistance</article-title>. <source>Front. Cell. Infect. Microbiol.</source><year>2013</year>, <volume>3</volume>,<pub-id pub-id-type="doi">10.3389/fcimb.2013.00022</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Pan</surname><given-names>Y.-C.</given-names></name>; <name><surname>Wang</surname><given-names>Y.-L.</given-names></name>; <name><surname>Toh</surname><given-names>S.-I.</given-names></name>; <name><surname>Hsu</surname><given-names>N.-S.</given-names></name>; <name><surname>Lin</surname><given-names>K.-H.</given-names></name>; <name><surname>Xu</surname><given-names>Z.</given-names></name>; <name><surname>Huang</surname><given-names>S.-C.</given-names></name>; <name><surname>Wu</surname><given-names>T.-K.</given-names></name>; <name><surname>Li</surname><given-names>T.-L.</given-names></name>; <name><surname>Chang</surname><given-names>C.-Y.</given-names></name>
+<article-title>Dual-Mechanism
+Confers Self-Resistance to the Antituberculosis Antibiotic Capreomycin</article-title>. <source>ACS Chem. Biol.</source>
+<year>2022</year>, <volume>17</volume> (<issue>1</issue>), <fpage>138</fpage>&#x02013;<lpage>146</lpage>. <pub-id pub-id-type="doi">10.1021/acschembio.1c00799</pub-id>.<pub-id pub-id-type="pmid">34994196</pub-id>
+</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Barkei</surname><given-names>J. J.</given-names></name>; <name><surname>Kevany</surname><given-names>B. M.</given-names></name>; <name><surname>Felnagle</surname><given-names>E. A.</given-names></name>; <name><surname>Thomas</surname><given-names>M. G.</given-names></name>
+<article-title>Investigations into
+Viomycin Biosynthesis by Using Heterologous Production in Streptomyces
+Lividans</article-title>. <source>Chembiochem</source>
+<year>2009</year>, <volume>10</volume> (<issue>2</issue>), <fpage>366</fpage>&#x02013;<lpage>376</lpage>. <pub-id pub-id-type="doi">10.1002/cbic.200800646</pub-id>.<pub-id pub-id-type="pmid">19105177</pub-id>
+</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Robicsek</surname><given-names>A.</given-names></name>; <name><surname>Strahilevitz</surname><given-names>J.</given-names></name>; <name><surname>Jacoby</surname><given-names>G. A.</given-names></name>; <name><surname>Macielag</surname><given-names>M.</given-names></name>; <name><surname>Abbanat</surname><given-names>D.</given-names></name>; <name><surname>Hye Park</surname><given-names>C.</given-names></name>; <name><surname>Bush</surname><given-names>K.</given-names></name>; <name><surname>Hooper</surname><given-names>D. C.</given-names></name>
+<article-title>Fluoroquinolone-Modifying
+Enzyme: A New Adaptation of a Common Aminoglycoside Acetyltransferase</article-title>. <source>Nat. Med.</source>
+<year>2006</year>, <volume>12</volume> (<issue>1</issue>), <fpage>83</fpage>&#x02013;<lpage>88</lpage>. <pub-id pub-id-type="doi">10.1038/nm1347</pub-id>.<pub-id pub-id-type="pmid">16369542</pub-id>
+</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Vetting</surname><given-names>M. W.</given-names></name>; <name><surname>Park</surname><given-names>C. H.</given-names></name>; <name><surname>Hegde</surname><given-names>S. S.</given-names></name>; <name><surname>Jacoby</surname><given-names>G. A.</given-names></name>; <name><surname>Hooper</surname><given-names>D. C.</given-names></name>; <name><surname>Blanchard</surname><given-names>J. S.</given-names></name>
+<article-title>Mechanistic and Structural Analysis of Aminoglycoside
+N-Acetyltransferase AAC(6&#x02032;)-Ib and Its Bifunctional, Fluoroquinolone-Active
+AAC(6&#x02032;)-Ib-Cr Variant</article-title>. <source>Biochemistry</source>
+<year>2008</year>, <volume>47</volume> (<issue>37</issue>), <fpage>9825</fpage>&#x02013;<lpage>9835</lpage>. <pub-id pub-id-type="doi">10.1021/bi800664x</pub-id>.<pub-id pub-id-type="pmid">18710261</pub-id>
+</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Putignano</surname><given-names>V.</given-names></name>; <name><surname>Rosato</surname><given-names>A.</given-names></name>; <name><surname>Banci</surname><given-names>L.</given-names></name>; <name><surname>Andreini</surname><given-names>C.</given-names></name>
+<article-title>MetalPDB in 2018: A
+Database of Metal Sites in Biological Macromolecular Structures</article-title>. <source>Nucleic Acids Res.</source>
+<year>2018</year>, <volume>46</volume> (<issue>D1</issue>), <fpage>D459</fpage>&#x02013;<lpage>D464</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkx989</pub-id>.<pub-id pub-id-type="pmid">29077942</pub-id>
+</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Caldwell</surname><given-names>S. J.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Berghuis</surname><given-names>A. M.</given-names></name>
+<article-title>Antibiotic
+Binding Drives Catalytic
+Activation of Aminoglycoside Kinase APH(2&#x02033;)-Ia</article-title>. <source>Structure</source>
+<year>2016</year>, <volume>24</volume> (<issue>6</issue>), <fpage>935</fpage>&#x02013;<lpage>945</lpage>. <pub-id pub-id-type="doi">10.1016/j.str.2016.04.002</pub-id>.<pub-id pub-id-type="pmid">27161980</pub-id>
+</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Alcock</surname><given-names>B. P.</given-names></name>; <name><surname>Huynh</surname><given-names>W.</given-names></name>; <name><surname>Chalil</surname><given-names>R.</given-names></name>; <name><surname>Smith</surname><given-names>K. W.</given-names></name>; <name><surname>Raphenya</surname><given-names>A. R.</given-names></name>; <name><surname>Wlodarski</surname><given-names>M. A.</given-names></name>; <name><surname>Edalatmand</surname><given-names>A.</given-names></name>; <name><surname>Petkau</surname><given-names>A.</given-names></name>; <name><surname>Syed</surname><given-names>S. A.</given-names></name>; <name><surname>Tsang</surname><given-names>K. K.</given-names></name>; <name><surname>Baker</surname><given-names>S. J. C.</given-names></name>; <name><surname>Dave</surname><given-names>M.</given-names></name>; <name><surname>McCarthy</surname><given-names>M. C.</given-names></name>; <name><surname>Mukiri</surname><given-names>K. M.</given-names></name>; <name><surname>Nasir</surname><given-names>J. A.</given-names></name>; <name><surname>Golbon</surname><given-names>B.</given-names></name>; <name><surname>Imtiaz</surname><given-names>H.</given-names></name>; <name><surname>Jiang</surname><given-names>X.</given-names></name>; <name><surname>Kaur</surname><given-names>K.</given-names></name>; <name><surname>Kwong</surname><given-names>M.</given-names></name>; <name><surname>Liang</surname><given-names>Z. C.</given-names></name>; <name><surname>Niu</surname><given-names>K. C.</given-names></name>; <name><surname>Shan</surname><given-names>P.</given-names></name>; <name><surname>Yang</surname><given-names>J. Y. J.</given-names></name>; <name><surname>Gray</surname><given-names>K. L.</given-names></name>; <name><surname>Hoad</surname><given-names>G. R.</given-names></name>; <name><surname>Jia</surname><given-names>B.</given-names></name>; <name><surname>Bhando</surname><given-names>T.</given-names></name>; <name><surname>Carfrae</surname><given-names>L. A.</given-names></name>; <name><surname>Farha</surname><given-names>M. A.</given-names></name>; <name><surname>French</surname><given-names>S.</given-names></name>; <name><surname>Gordzevich</surname><given-names>R.</given-names></name>; <name><surname>Rachwalski</surname><given-names>K.</given-names></name>; <name><surname>Tu</surname><given-names>M. M.</given-names></name>; <name><surname>Bordeleau</surname><given-names>E.</given-names></name>; <name><surname>Dooley</surname><given-names>D.</given-names></name>; <name><surname>Griffiths</surname><given-names>E.</given-names></name>; <name><surname>Zubyk</surname><given-names>H. L.</given-names></name>; <name><surname>Brown</surname><given-names>E. D.</given-names></name>; <name><surname>Maguire</surname><given-names>F.</given-names></name>; <name><surname>Beiko</surname><given-names>R. G.</given-names></name>; <name><surname>Hsiao</surname><given-names>W. W. L.</given-names></name>; <name><surname>Brinkman</surname><given-names>F. S. L.</given-names></name>; <name><surname>Van Domselaar</surname><given-names>G.</given-names></name>; <name><surname>McArthur</surname><given-names>A. G.</given-names></name>
+<article-title>CARD 2023: Expanded
+Curation, Support for Machine Learning, and Resistome Prediction at
+the Comprehensive Antibiotic Resistance Database</article-title>. <source>Nucleic Acids Res.</source>
+<year>2023</year>, <volume>51</volume> (<issue>D1</issue>), <fpage>D690</fpage>&#x02013;<lpage>D699</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkac920</pub-id>.<pub-id pub-id-type="pmid">36263822</pub-id>
+</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Mancini</surname><given-names>S.</given-names></name>; <name><surname>Marchesi</surname><given-names>M.</given-names></name>; <name><surname>Imkamp</surname><given-names>F.</given-names></name>; <name><surname>Wagner</surname><given-names>K.</given-names></name>; <name><surname>Keller</surname><given-names>P. M.</given-names></name>; <name><surname>Quiblier</surname><given-names>C.</given-names></name>; <name><surname>Bodendoerfer</surname><given-names>E.</given-names></name>; <name><surname>Courvalin</surname><given-names>P.</given-names></name>; <name><surname>B&#x000f6;ttger</surname><given-names>E. C.</given-names></name>
+<article-title>Population-Based Inference of Aminoglycoside
+Resistance
+Mechanisms in Escherichia Coli</article-title>. <source>EBioMedicine</source>
+<year>2019</year>, <volume>46</volume>, <fpage>184</fpage>&#x02013;<lpage>192</lpage>. <pub-id pub-id-type="doi">10.1016/j.ebiom.2019.07.020</pub-id>.<pub-id pub-id-type="pmid">31307955</pub-id>
+</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="weblink" id="cit25"><source>The European Committee on Antimicrobial Susceptibility
+Testing. Breakpoint
+tables for interpretation of MICs and zone diameters. Version 14.0,
+2024</source>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.eucast.org/clinical_breakpoints">https://www.eucast.org/clinical_breakpoints</uri> (accessed 2024&#x02013;01&#x02013;08).</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Miethke</surname><given-names>M.</given-names></name>; <name><surname>Pieroni</surname><given-names>M.</given-names></name>; <name><surname>Weber</surname><given-names>T.</given-names></name>; <name><surname>Br&#x000f6;nstrup</surname><given-names>M.</given-names></name>; <name><surname>Hammann</surname><given-names>P.</given-names></name>; <name><surname>Halby</surname><given-names>L.</given-names></name>; <name><surname>Arimondo</surname><given-names>P. B.</given-names></name>; <name><surname>Glaser</surname><given-names>P.</given-names></name>; <name><surname>Aigle</surname><given-names>B.</given-names></name>; <name><surname>Bode</surname><given-names>H. B.</given-names></name>; <name><surname>Moreira</surname><given-names>R.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Luzhetskyy</surname><given-names>A.</given-names></name>; <name><surname>Medema</surname><given-names>M. H.</given-names></name>; <name><surname>Pernodet</surname><given-names>J.-L.</given-names></name>; <name><surname>Stadler</surname><given-names>M.</given-names></name>; <name><surname>Tormo</surname><given-names>J. R.</given-names></name>; <name><surname>Genilloud</surname><given-names>O.</given-names></name>; <name><surname>Truman</surname><given-names>A. W.</given-names></name>; <name><surname>Weissman</surname><given-names>K. J.</given-names></name>; <name><surname>Takano</surname><given-names>E.</given-names></name>; <name><surname>Sabatini</surname><given-names>S.</given-names></name>; <name><surname>Stegmann</surname><given-names>E.</given-names></name>; <name><surname>Br&#x000f6;tz-Oesterhelt</surname><given-names>H.</given-names></name>; <name><surname>Wohlleben</surname><given-names>W.</given-names></name>; <name><surname>Seemann</surname><given-names>M.</given-names></name>; <name><surname>Empting</surname><given-names>M.</given-names></name>; <name><surname>Hirsch</surname><given-names>A. K. H.</given-names></name>; <name><surname>Loretz</surname><given-names>B.</given-names></name>; <name><surname>Lehr</surname><given-names>C.-M.</given-names></name>; <name><surname>Titz</surname><given-names>A.</given-names></name>; <name><surname>Herrmann</surname><given-names>J.</given-names></name>; <name><surname>Jaeger</surname><given-names>T.</given-names></name>; <name><surname>Alt</surname><given-names>S.</given-names></name>; <name><surname>Hesterkamp</surname><given-names>T.</given-names></name>; <name><surname>Winterhalter</surname><given-names>M.</given-names></name>; <name><surname>Schiefer</surname><given-names>A.</given-names></name>; <name><surname>Pfarr</surname><given-names>K.</given-names></name>; <name><surname>Hoerauf</surname><given-names>A.</given-names></name>; <name><surname>Graz</surname><given-names>H.</given-names></name>; <name><surname>Graz</surname><given-names>M.</given-names></name>; <name><surname>Lindvall</surname><given-names>M.</given-names></name>; <name><surname>Ramurthy</surname><given-names>S.</given-names></name>; <name><surname>Karl&#x000e9;n</surname><given-names>A.</given-names></name>; <name><surname>van Dongen</surname><given-names>M.</given-names></name>; <name><surname>Petkovic</surname><given-names>H.</given-names></name>; <name><surname>Keller</surname><given-names>A.</given-names></name>; <name><surname>Peyrane</surname><given-names>F.</given-names></name>; <name><surname>Donadio</surname><given-names>S.</given-names></name>; <name><surname>Fraisse</surname><given-names>L.</given-names></name>; <name><surname>Piddock</surname><given-names>L. J. V.</given-names></name>; <name><surname>Gilbert</surname><given-names>I. H.</given-names></name>; <name><surname>Moser</surname><given-names>H. E.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name>
+<article-title>Towards the
+Sustainable Discovery and Development of New Antibiotics</article-title>. <source>Nat. Rev. Chem.</source>
+<year>2021</year>, <volume>5</volume> (<issue>10</issue>), <fpage>726</fpage>&#x02013;<lpage>749</lpage>. <pub-id pub-id-type="doi">10.1038/s41570-021-00313-1</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Walesch</surname><given-names>S.</given-names></name>; <name><surname>Birkelbach</surname><given-names>J.</given-names></name>; <name><surname>J&#x000e9;z&#x000e9;quel</surname><given-names>G.</given-names></name>; <name><surname>Haeckl</surname><given-names>F. P. J.</given-names></name>; <name><surname>Hegemann</surname><given-names>J. D.</given-names></name>; <name><surname>Hesterkamp</surname><given-names>T.</given-names></name>; <name><surname>Hirsch</surname><given-names>A. K. H.</given-names></name>; <name><surname>Hammann</surname><given-names>P.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name>
+<article-title>Fighting Antibiotic
+Resistance&#x02014;Strategies and
+(Pre)Clinical Developments to Find New Antibacterials</article-title>. <source>EMBO Reports</source>
+<year>2023</year>, <volume>24</volume> (<issue>1</issue>), <elocation-id>e56033</elocation-id><pub-id pub-id-type="doi">10.15252/embr.202256033</pub-id>.<pub-id pub-id-type="pmid">36533629</pub-id>
+</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Yan</surname><given-names>F.</given-names></name>; <name><surname>Auerbach</surname><given-names>D.</given-names></name>; <name><surname>Chai</surname><given-names>Y.</given-names></name>; <name><surname>Keller</surname><given-names>L.</given-names></name>; <name><surname>Tu</surname><given-names>Q.</given-names></name>; <name><surname>H&#x000fc;ttel</surname><given-names>S.</given-names></name>; <name><surname>Glemser</surname><given-names>A.</given-names></name>; <name><surname>Grab</surname><given-names>H. A.</given-names></name>; <name><surname>Bach</surname><given-names>T.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name>
+<article-title>Biosynthesis and Heterologous Production
+of Vioprolides: Rational Biosynthetic Engineering and Unprecedented
+4-Methylazetidinecarboxylic Acid Formation</article-title>. <source>Angew. Chem. Int. Ed</source>
+<year>2018</year>, <volume>57</volume> (<issue>28</issue>), <fpage>8754</fpage>&#x02013;<lpage>8759</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201802479</pub-id>.</mixed-citation></ref></ref-list></back></article>

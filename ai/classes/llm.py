@@ -18,8 +18,8 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 import transformers
-from transformers import pipeline, AutoTokenizer, AutoModel, BitsAndBytesConfig, AutoModelForCausalLM, AwqConfig
-os.getenv('HF_TOKEN') 
+from transformers import pipeline, AutoTokenizer, AutoModel, BitsAndBytesConfig, AutoModelForCausalLM
+
 from datasets import Dataset
 import torch
 from argparse import ArgumentParser
@@ -34,7 +34,12 @@ parser.add_argument('--prompt','--prompt',required=True, help='prompt json file 
 parser.add_argument('--model','--model',required=True, help='llm name')
 parser.add_argument('--output','--output',required=True, help='output file path')
 parser.add_argument('--mconfig','--mconfig',required=True, help='quantize,flashattn,bfloat16,float16,auto')
+parser.add_argument('--hf_token','--hf_token',required=True, help='huggingface token')
 args = parser.parse_args()
+
+
+os.environ['HF_TOKEN'] = args.hf_token
+hf_token = os.getenv('HF_TOKEN')
 
 model_name = args.model
 if model_name in ['google/gemma-2-9b']: os.environ['CUDA_LAUNCH_BLOCKING'] = '1' 
@@ -44,14 +49,13 @@ mconfig = args.mconfig
 ### DOWNLOAD INPUT DATAFRAME ###
 ################################
 
-df = pd.read_csv(Path('input',input_file))
+df = pd.read_csv(Path(args.input))
 print(df)
 
 ### DOWNLOAD PROMPT FILE ###
 ############################
 
-s3.download_file(prompt_bucket,prompt_key,'input/'+prompt_file)
-with open(Path('input',prompt_file)) as json_file: prompt = json.load(json_file)
+with open(Path(args.prompt)) as json_file: prompt = json.load(json_file)
 task = prompt['task']
 examples = prompt['examples']
 
@@ -63,11 +67,9 @@ examples = prompt['examples']
 # quantization_config = BitsAndBytesConfig(load_in_4bit=True) # works with large models but slow 
 quantization_config = BitsAndBytesConfig(load_in_4bit=True, bnb_4bit_compute_dtype=torch.bfloat16) # works and faster
 # quantization_config = BitsAndBytesConfig(load_in_4bit=True,bnb_4bit_quant_type="nf4") # qlora better for training not inference
-awq_config = AwqConfig(bits=4,fuse_max_seq_len=10000,do_fuse=True)
 
 mconfigs = {
     'quantize':{"torch_dtype": torch.float16, "quantization_config": quantization_config,"low_cpu_mem_usage": True}, # llama 70b on g5.12xl
-    'awq':{"torch_dtype": torch.float16, "quantization_config": awq_config,"low_cpu_mem_usage": True},
     'flashattn':{"torch_dtype": torch.float16, "attn_implementation":"flash_attention_2"}, # flashattn unsupported in p3 ec2
     'bfloat16':{"torch_dtype": torch.bfloat16,"low_cpu_mem_usage": True}, # bfloat16 unsupported in p3 ec2
     'float16':{"torch_dtype": torch.float16,"low_cpu_mem_usage": True},
@@ -87,7 +89,7 @@ pipeline = transformers.pipeline(
 #######################
 
 gdf = {'id':[],'input':[],'task':[],'output':[]}
-output_file = 'output/'+output_file
+output_file = args.output
 
 start_time = time.time()
 #checks = [n for n in range(0,len(df),10)]
