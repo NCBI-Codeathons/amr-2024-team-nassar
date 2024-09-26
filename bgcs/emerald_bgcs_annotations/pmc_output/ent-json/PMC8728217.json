@@ -1,0 +1,665 @@
+{
+    "src": "PMC",
+    "id": "PMC8728217",
+    "provider": "Metagenomics",
+    "anns": [
+        {
+            "exact": "antibiotics",
+            "prefix": "Abstract As a result of the continuous evolution of drug resistant bacteria, new ",
+            "postfix": " are urgently needed.",
+            "tags": [
+                {
+                    "name": "antibiotics",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antibiotics"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antibiotic",
+            "prefix": "Encoded by biosynthetic gene clusters (BGCs), ",
+            "postfix": " compounds are mostly produced by bacteria.",
+            "tags": [
+                {
+                    "name": "antibiotic",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antibiotic"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "self-resistance",
+            "prefix": "Recently, researchers adopted ",
+            "postfix": " based strategies allowing them to predict the biological activities of natural products encoded by uncharacterized BGCs.",
+            "tags": [
+                {
+                    "name": "self-resistance",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=self-resistance"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "Antibiotic",
+            "prefix": "Since 2017, the ",
+            "postfix": " Resistant Target Seeker (ARTS) facilitated this so-called target-directed genome mining (TDGM) approach for the prioritization of BGCs encoding potentially novel antibiotics.",
+            "tags": [
+                {
+                    "name": "Antibiotic",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=Antibiotic"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antibiotics",
+            "prefix": "Since 2017, the Antibiotic Resistant Target Seeker (ARTS) facilitated this so-called target-directed genome mining (TDGM) approach for the prioritization of BGCs encoding potentially novel ",
+            "postfix": ".",
+            "tags": [
+                {
+                    "name": "antibiotics",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antibiotics"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "resistant",
+            "prefix": "Especially in the last decades, due to the escalation of multi-drug ",
+            "postfix": " bacteria, these continuously evolving pathogens have become a serious threat to human health.",
+            "tags": [
+                {
+                    "name": "resistant",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=resistant"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antibiotics",
+            "prefix": "Consequently, there is an urgent need for novel ",
+            "postfix": " with new modes of action (2,3).",
+            "tags": [
+                {
+                    "name": "antibiotics",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antibiotics"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antimicrobial",
+            "prefix": "Secondary metabolites (SMs) are the key molecules feeding ",
+            "postfix": " drug development pipelines (4).",
+            "tags": [
+                {
+                    "name": "antimicrobial",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antimicrobial"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "resistant",
+            "prefix": "Especially in the last decades, due to the escalation of multi-drug ",
+            "postfix": " bacteria, these continuously evolving pathogens have become a serious threat to human health.",
+            "tags": [
+                {
+                    "name": "resistant",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=resistant"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antibiotics",
+            "prefix": "Consequently, there is an urgent need for novel ",
+            "postfix": " with new modes of action (2,3).",
+            "tags": [
+                {
+                    "name": "antibiotics",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antibiotics"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antimicrobial",
+            "prefix": "Secondary metabolites (SMs) are the key molecules feeding ",
+            "postfix": " drug development pipelines (4).",
+            "tags": [
+                {
+                    "name": "antimicrobial",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antimicrobial"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "resistant",
+            "prefix": "A recently established technique adopts a BGC prioritization approach leveraging the idea that in order to avoid suicide, bacteria need to be evolved in such a way that they are ",
+            "postfix": " to the compounds they produce (13).",
+            "tags": [
+                {
+                    "name": "resistant",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=resistant"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "resistance",
+            "prefix": "One of the ",
+            "postfix": " mechanisms bacteria use to protect themselves from their own bioactive compounds is the modification of the antibiotics target (14).",
+            "tags": [
+                {
+                    "name": "resistance",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=resistance"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antibiotics",
+            "prefix": "One of the resistance mechanisms bacteria use to protect themselves from their own bioactive compounds is the modification of the ",
+            "postfix": " target (14).",
+            "tags": [
+                {
+                    "name": "antibiotics",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antibiotics"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antibiotic",
+            "prefix": "In such processes, the duplicated and modified ",
+            "postfix": " target gene can be found within the BGC, providing self resistance (15,16).",
+            "tags": [
+                {
+                    "name": "antibiotic",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antibiotic"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "self resistance",
+            "prefix": "In such processes, the duplicated and modified antibiotic target gene can be found within the BGC, providing ",
+            "postfix": " (15,16).",
+            "tags": [
+                {
+                    "name": "self resistance",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=self resistance"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antibiotics",
+            "prefix": "Since 2017, the Antibiotic Resistant Target Seeker (ARTS) facilitated TDGM approaches in order to prioritize promising strains producing ",
+            "postfix": " with putative novel modes of action by rapidly linking housekeeping and known resistance genes to BGC proximity, duplication and horizontal gene transfer (HGT) events (20,21).",
+            "tags": [
+                {
+                    "name": "antibiotics",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antibiotics"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "resistance",
+            "prefix": "Since 2017, the Antibiotic Resistant Target Seeker (ARTS) facilitated TDGM approaches in order to prioritize promising strains producing antibiotics with putative novel modes of action by rapidly linking housekeeping and known ",
+            "postfix": " genes to BGC proximity, duplication and horizontal gene transfer (HGT) events (20,21).",
+            "tags": [
+                {
+                    "name": "resistance",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=resistance"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "self resistance",
+            "prefix": "In order to further improve our work on ",
+            "postfix": " genome mining, we have developed the ARTS database, a user-friendly web-server for the extensive exploration of the bacterial kingdom using TDGM approaches.",
+            "tags": [
+                {
+                    "name": "self resistance",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=self resistance"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "resistant",
+            "prefix": "A recently established technique adopts a BGC prioritization approach leveraging the idea that in order to avoid suicide, bacteria need to be evolved in such a way that they are ",
+            "postfix": " to the compounds they produce (13).",
+            "tags": [
+                {
+                    "name": "resistant",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=resistant"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "resistance",
+            "prefix": "One of the ",
+            "postfix": " mechanisms bacteria use to protect themselves from their own bioactive compounds is the modification of the antibiotics target (14).",
+            "tags": [
+                {
+                    "name": "resistance",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=resistance"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antibiotics",
+            "prefix": "One of the resistance mechanisms bacteria use to protect themselves from their own bioactive compounds is the modification of the ",
+            "postfix": " target (14).",
+            "tags": [
+                {
+                    "name": "antibiotics",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antibiotics"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antibiotic",
+            "prefix": "In such processes, the duplicated and modified ",
+            "postfix": " target gene can be found within the BGC, providing self resistance (15,16).",
+            "tags": [
+                {
+                    "name": "antibiotic",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antibiotic"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "self resistance",
+            "prefix": "In such processes, the duplicated and modified antibiotic target gene can be found within the BGC, providing ",
+            "postfix": " (15,16).",
+            "tags": [
+                {
+                    "name": "self resistance",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=self resistance"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antibiotics",
+            "prefix": "Since 2017, the Antibiotic Resistant Target Seeker (ARTS) facilitated TDGM approaches in order to prioritize promising strains producing ",
+            "postfix": " with putative novel modes of action by rapidly linking housekeeping and known resistance genes to BGC proximity, duplication and horizontal gene transfer (HGT) events (20,21).",
+            "tags": [
+                {
+                    "name": "antibiotics",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antibiotics"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "resistance",
+            "prefix": "Since 2017, the Antibiotic Resistant Target Seeker (ARTS) facilitated TDGM approaches in order to prioritize promising strains producing antibiotics with putative novel modes of action by rapidly linking housekeeping and known ",
+            "postfix": " genes to BGC proximity, duplication and horizontal gene transfer (HGT) events (20,21).",
+            "tags": [
+                {
+                    "name": "resistance",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=resistance"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "self resistance",
+            "prefix": "In order to further improve our work on ",
+            "postfix": " genome mining, we have developed the ARTS database, a user-friendly web-server for the extensive exploration of the bacterial kingdom using TDGM approaches.",
+            "tags": [
+                {
+                    "name": "self resistance",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=self resistance"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antibiotics",
+            "prefix": "Building queries Building queries Building queries Case study Case study Case study Case study In a recent study, Hoskisson et al. investigated how the expansion of primary metabolism plays a role in the biosynthesis of ",
+            "postfix": " (31).",
+            "tags": [
+                {
+                    "name": "antibiotics",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antibiotics"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antibiotics",
+            "prefix": "In a recent study, Hoskisson et al. investigated how the expansion of primary metabolism plays a role in the biosynthesis of ",
+            "postfix": " (31).",
+            "tags": [
+                {
+                    "name": "antibiotics",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antibiotics"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antibiotics",
+            "prefix": "In a recent study, Hoskisson et al. investigated how the expansion of primary metabolism plays a role in the biosynthesis of ",
+            "postfix": " (31).",
+            "tags": [
+                {
+                    "name": "antibiotics",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antibiotics"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antibiotics",
+            "prefix": "In a recent study, Hoskisson et al. investigated how the expansion of primary metabolism plays a role in the biosynthesis of ",
+            "postfix": " (31).",
+            "tags": [
+                {
+                    "name": "antibiotics",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antibiotics"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "self resistance",
+            "prefix": "A recently developed ",
+            "postfix": " based approach, is progressively used by researchers for the discovery of natural products with novel modes of action.",
+            "tags": [
+                {
+                    "name": "self resistance",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=self resistance"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "self resistance",
+            "prefix": "Since its first release in 2017, ARTS has been allowing researchers to rapidly mine their sequences with ",
+            "postfix": " based genome mining approaches.",
+            "tags": [
+                {
+                    "name": "self resistance",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=self resistance"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "self resistance",
+            "prefix": "A recently developed ",
+            "postfix": " based approach, is progressively used by researchers for the discovery of natural products with novel modes of action.",
+            "tags": [
+                {
+                    "name": "self resistance",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=self resistance"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "self resistance",
+            "prefix": "Since its first release in 2017, ARTS has been allowing researchers to rapidly mine their sequences with ",
+            "postfix": " based genome mining approaches.",
+            "tags": [
+                {
+                    "name": "self resistance",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=self resistance"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antibiotics",
+            "prefix": "Since the need for new ",
+            "postfix": " and the usage of genome mining methodologies increase on a daily base, we are confident that the ARTS database will be a resource of significant importance in the search for novel natural products.",
+            "tags": [
+                {
+                    "name": "antibiotics",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antibiotics"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "antibiotics",
+            "prefix": "Since the need for new ",
+            "postfix": " and the usage of genome mining methodologies increase on a daily base, we are confident that the ARTS database will be a resource of significant importance in the search for novel natural products.",
+            "tags": [
+                {
+                    "name": "antibiotics",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=antibiotics"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-action"
+        },
+        {
+            "exact": "NNF20CC0035580",
+            "prefix": "FUNDING FUNDING University of Tübingen; German Research Foundation (DFG) [INST 37/935-1 FUGG]; German Center for Infection Research [DZIF TTU09.716 to N.Z., M.D.M.]; Novo Nordisk Foundation [",
+            "postfix": ", NNF16OC0021746 to K.B.].",
+            "tags": [
+                {
+                    "name": "NNF20CC0035580",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=NNF20CC0035580"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-accession"
+        },
+        {
+            "exact": "NNF16OC0021746",
+            "prefix": "FUNDING FUNDING University of Tübingen; German Research Foundation (DFG) [INST 37/935-1 FUGG]; German Center for Infection Research [DZIF TTU09.716 to N.Z., M.D.M.]; Novo Nordisk Foundation [NNF20CC0035580, ",
+            "postfix": " to K.B.].",
+            "tags": [
+                {
+                    "name": "NNF16OC0021746",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=NNF16OC0021746"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-accession"
+        },
+        {
+            "exact": "TTU09.716",
+            "prefix": "Funding for open access charge: BMBF [DZIF ",
+            "postfix": "].",
+            "tags": [
+                {
+                    "name": "TTU09.716",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=TTU09.716"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-accession"
+        },
+        {
+            "exact": "NNF20CC0035580",
+            "prefix": "University of Tübingen; German Research Foundation (DFG) [INST 37/935-1 FUGG]; German Center for Infection Research [DZIF TTU09.716 to N.Z., M.D.M.]; Novo Nordisk Foundation [",
+            "postfix": ", NNF16OC0021746 to K.B.].",
+            "tags": [
+                {
+                    "name": "NNF20CC0035580",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=NNF20CC0035580"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-accession"
+        },
+        {
+            "exact": "NNF16OC0021746",
+            "prefix": "University of Tübingen; German Research Foundation (DFG) [INST 37/935-1 FUGG]; German Center for Infection Research [DZIF TTU09.716 to N.Z., M.D.M.]; Novo Nordisk Foundation [NNF20CC0035580, ",
+            "postfix": " to K.B.].",
+            "tags": [
+                {
+                    "name": "NNF16OC0021746",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=NNF16OC0021746"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-accession"
+        },
+        {
+            "exact": "TTU09.716",
+            "prefix": "Funding for open access charge: BMBF [DZIF ",
+            "postfix": "].",
+            "tags": [
+                {
+                    "name": "TTU09.716",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=TTU09.716"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-accession"
+        },
+        {
+            "exact": "streptomyces",
+            "prefix": "For example, after adding ‘Genus’ search option with the term ‘",
+            "postfix": "’ and pressing ‘Search’, the user will have access to duplication rates of all essential genes from the genus streptomyces, including the gene counts in specific organisms, average gene counts for the reference set and its standard deviation.",
+            "tags": [
+                {
+                    "name": "streptomyces",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=streptomyces"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-organism"
+        },
+        {
+            "exact": "streptomyces",
+            "prefix": "For example, after adding ‘Genus’ search option with the term ‘",
+            "postfix": "’ and pressing ‘Search’, the user will have access to duplication rates of all essential genes from the genus streptomyces, including the gene counts in specific organisms, average gene counts for the reference set and its standard deviation.",
+            "tags": [
+                {
+                    "name": "streptomyces",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=streptomyces"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-organism"
+        },
+        {
+            "exact": "streptomyces",
+            "prefix": "For example, after adding ‘Genus’ search option with the term ‘",
+            "postfix": "’ and pressing ‘Search’, the user will have access to duplication rates of all essential genes from the genus streptomyces, including the gene counts in specific organisms, average gene counts for the reference set and its standard deviation.",
+            "tags": [
+                {
+                    "name": "streptomyces",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=streptomyces"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-organism"
+        },
+        {
+            "exact": "streptomyces",
+            "prefix": "For example, after adding ‘Genus’ search option with the term ‘",
+            "postfix": "’ and pressing ‘Search’, the user will have access to duplication rates of all essential genes from the genus streptomyces, including the gene counts in specific organisms, average gene counts for the reference set and its standard deviation.",
+            "tags": [
+                {
+                    "name": "streptomyces",
+                    "uri": "https://www.ebi.ac.uk/ols/search?q=streptomyces"
+                }
+            ],
+            "position": "1.0",
+            "section": "Methods (http://purl.org/orb/Methods)",
+            "type": "bgc-organism"
+        }
+    ]
+}
