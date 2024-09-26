@@ -33,12 +33,6 @@ text:
 However, similar to the gene-deletion experiments of berkC17, a self-resistance gene in Penicillium egyptiacum, after enormous attempts and screenings with different sucrose concentrations, it was still failed to get the sacH-deletion strain. Then E. coli BL21 (DE3) cells were used as the test strain to examine the relationship between sacH-expression and the resistance against SAC-B. The results showed that the survival ratio of sacH-expression strain did not decrease with the increase of SAC-B concentration, compared with the control strain containing vector pET28a (Fig.\xa02F). These collective results unambiguously supported that SacH, the DHFR-like protein, endows host cells resistance to SAC-B for self-protection via reductive inactivation of not only the end-product but also the hemiaminal pharmacophore-containing biosynthetic intermediate.
 ------------------------
 output:
-['berkC17|self-resistance-gene/protein', 
-'Penicillium egyptiacum|organism', 
-'SAC-B|self-resistance-compound', 
-'SacH|self-resistance-gene-protein', 
-'reductive inactivation|self-resistance-type']
-
 ("entity"{tuple_delimiter}berkC17{tuple_delimiter}self-resistance-gene/protein{tuple_delimiter}description required)
 {record_delimiter}
 ("entity"{tuple_delimiter}Penicillium egyptiacum{tuple_delimiter}organism{tuple_delimiter}description required)
