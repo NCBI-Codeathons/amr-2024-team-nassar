@@ -1,0 +1,4 @@
+python -m graphrag.query \
+--root . \
+--method global \
+"Provide full list of self-resistance genes"

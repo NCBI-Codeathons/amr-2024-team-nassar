@@ -1,0 +1,144 @@
+
+-Goal-
+Given a text document that is potentially relevant to this activity, first identify all entities needed from the text in order to capture the information and ideas in the text.
+Next, report all relationships among the identified entities.
+
+-Steps-
+1. Identify all entities. For each identified entity, extract the following information:
+- entity_name: Name of the entity, capitalized
+- entity_type: Suggest several labels or categories for the entity. The categories should not be specific, but should be as general as possible.
+- entity_description: Comprehensive description of the entity's attributes and activities
+Format each entity as ("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>)
+
+2. From the entities identified in step 1, identify all pairs of (source_entity, target_entity) that are *clearly related* to each other.
+For each pair of related entities, extract the following information:
+- source_entity: name of the source entity, as identified in step 1
+- target_entity: name of the target entity, as identified in step 1
+- relationship_description: explanation as to why you think the source entity and the target entity are related to each other
+- relationship_strength: a numeric score indicating strength of the relationship between the source entity and target entity
+Format each relationship as ("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+
+3. Return output in English as a single list of all the entities and relationships identified in steps 1 and 2. Use **{record_delimiter}** as the list delimiter.
+
+4. If you have to translate into English, just translate the descriptions, nothing else!
+
+5. When finished, output {completion_delimiter}.
+
+-Examples-
+######################
+
+Example 1:
+
+text:
+-dependent bacterial antiporters, was regulated in the same way as that of DrrC.
+------------------------
+output:
+("entity"{tuple_delimiter}BACTERIAL ANTIPORTERS{tuple_delimiter}BIOLOGICAL ENTITY{tuple_delimiter}Bacterial antiporters are membrane proteins that transport molecules across the bacterial cell membrane, often exchanging one type of ion or molecule for another)
+{record_delimiter}
+("entity"{tuple_delimiter}DRRC{tuple_delimiter}GENE/PROTEIN{tuple_delimiter}DrrC is a protein or gene involved in the transport mechanism within bacterial cells, likely associated with drug resistance)
+{record_delimiter}
+("relationship"{tuple_delimiter}BACTERIAL ANTIPORTERS{tuple_delimiter}DRRC{tuple_delimiter}The regulation of bacterial antiporters is similar to that of DrrC, indicating a potential shared regulatory mechanism or pathway{tuple_delimiter}7)
+{completion_delimiter}
+#############################
+
+
+Example 2:
+
+text:
+The rare actinomycete Actinoplanes friuliensis is the producer of the lipopeptide antibiotic friulimicin, which is active against a broad range of Gram-positive bacteria such as methicillin-resistant Enterococcus spec. and Staphylococcus aureus (MRE, MRSA) strains. Friulimicin consists of a decapeptide core and an acyl residue linked to an exocyclic amino acid. The complete biosynthetic gene cluster consisting of 24 open reading frames was characterized by sequence analysis and the transcription units were subsequently determined by RT-PCR experiments. In addition to several genes for biosynthesis, self-resistance and transport four different regulatory genes (regA, regB, regC and regD) were identified within the cluster. To analyse the role of the pathway-specific regulatory protein RegA in the friulimicin biosynthesis, the corresponding gene was inactivated resulting in friulimicin non-producing mutants. Furthermore, several protein-binding sites within the friulimicin gene cluster were identified by gel retardation assays. By real-time RT-PCR experiments, it was shown that the majority of the friulimicin biosynthetic genes is positively regulated by RegA
+------------------------
+output:
+("entity"{tuple_delimiter}ACTINOPLANES FRIULIENSIS{tuple_delimiter}MICROORGANISM, PRODUCER{tuple_delimiter}Actinoplanes friuliensis is a rare actinomycete that produces the lipopeptide antibiotic friulimicin)
+{record_delimiter}
+("entity"{tuple_delimiter}FRIULIMICIN{tuple_delimiter}ANTIBIOTIC, LIPOPEPTIDE{tuple_delimiter}Friulimicin is a lipopeptide antibiotic active against a broad range of Gram-positive bacteria, including methicillin-resistant Enterococcus and Staphylococcus aureus strains)
+{record_delimiter}
+("entity"{tuple_delimiter}GRAM-POSITIVE BACTERIA{tuple_delimiter}BACTERIA, PATHOGEN{tuple_delimiter}Gram-positive bacteria are a group of bacteria that have a thick cell wall and are targeted by friulimicin)
+{record_delimiter}
+("entity"{tuple_delimiter}METHICILLIN-RESISTANT ENTEROCOCCUS{tuple_delimiter}BACTERIA, PATHOGEN{tuple_delimiter}Methicillin-resistant Enterococcus is a type of Gram-positive bacteria resistant to methicillin and targeted by friulimicin)
+{record_delimiter}
+("entity"{tuple_delimiter}STAPHYLOCOCCUS AUREUS{tuple_delimiter}BACTERIA, PATHOGEN{tuple_delimiter}Staphylococcus aureus is a type of Gram-positive bacteria, including methicillin-resistant strains, targeted by friulimicin)
+{record_delimiter}
+("entity"{tuple_delimiter}BIOSYNTHETIC GENE CLUSTER{tuple_delimiter}GENETIC ELEMENT, CLUSTER{tuple_delimiter}The biosynthetic gene cluster of friulimicin consists of 24 open reading frames and includes genes for biosynthesis, self-resistance, transport, and regulation)
+{record_delimiter}
+("entity"{tuple_delimiter}REGULATORY GENES{tuple_delimiter}GENETIC ELEMENT, REGULATOR{tuple_delimiter}Regulatory genes within the friulimicin biosynthetic gene cluster include regA, regB, regC, and regD)
+{record_delimiter}
+("entity"{tuple_delimiter}REGA{tuple_delimiter}GENE, REGULATOR{tuple_delimiter}RegA is a pathway-specific regulatory protein that positively regulates the majority of the friulimicin biosynthetic genes)
+{record_delimiter}
+("entity"{tuple_delimiter}RT-PCR{tuple_delimiter}TECHNIQUE, EXPERIMENT{tuple_delimiter}RT-PCR is a technique used to determine transcription units and analyze gene expression within the friulimicin biosynthetic gene cluster)
+{record_delimiter}
+("entity"{tuple_delimiter}GEL RETARDATION ASSAY{tuple_delimiter}TECHNIQUE, EXPERIMENT{tuple_delimiter}Gel retardation assays are used to identify protein-binding sites within the friulimicin gene cluster)
+{record_delimiter}
+("relationship"{tuple_delimiter}ACTINOPLANES FRIULIENSIS{tuple_delimiter}FRIULIMICIN{tuple_delimiter}Actinoplanes friuliensis produces the antibiotic friulimicin{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}FRIULIMICIN{tuple_delimiter}GRAM-POSITIVE BACTERIA{tuple_delimiter}Friulimicin is active against a broad range of Gram-positive bacteria{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}FRIULIMICIN{tuple_delimiter}METHICILLIN-RESISTANT ENTEROCOCCUS{tuple_delimiter}Friulimicin is active against methicillin-resistant Enterococcus{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}FRIULIMICIN{tuple_delimiter}STAPHYLOCOCCUS AUREUS{tuple_delimiter}Friulimicin is active against Staphylococcus aureus, including methicillin-resistant strains{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}BIOSYNTHETIC GENE CLUSTER{tuple_delimiter}REGULATORY GENES{tuple_delimiter}The biosynthetic gene cluster includes several regulatory genes such as regA, regB, regC, and regD{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}REGA{tuple_delimiter}BIOSYNTHETIC GENE CLUSTER{tuple_delimiter}RegA positively regulates the majority of the friulimicin biosynthetic genes within the cluster{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}RT-PCR{tuple_delimiter}BIOSYNTHETIC GENE CLUSTER{tuple_delimiter}RT-PCR was used to determine the transcription units within the biosynthetic gene cluster{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}GEL RETARDATION ASSAY{tuple_delimiter}BIOSYNTHETIC GENE CLUSTER{tuple_delimiter}Gel retardation assays identified several protein-binding sites within the friulimicin gene cluster{tuple_delimiter}7)
+{completion_delimiter}
+#############################
+
+
+Example 3:
+
+text:
+ constitutive. Analysis of the UDP-linked peptidoglycan precursors revealed the presence of UDP-glycomuramyl pentadepsipeptide terminating in D-alanyl-D-lactate. No trace of precursors ending in d-alanyl-d-alanine was detected. Thus, the van gene complex was transcribed and expressed in the genetic background of A. teichomyceticus and conferred resistance to vancomycin and teicoplanin through the modification of cell wall biosynthesis. During teicoplanin production (maximum productivity, 70 to 80 microg/ml), the MIC of teicoplanin remained in the range of 25 to 35 microg/ml. Teicoplanin-producing cells were found to be tolerant to high concentrations of exogenously added glycopeptides, which were not bactericidal even at 5,000 microg/ml.
+------------------------
+output:
+("entity"{tuple_delimiter}UDP-LINKED PEPTIDOGLYCAN PRECURSORS{tuple_delimiter}MOLECULE{tuple_delimiter}Molecular precursors involved in the synthesis of peptidoglycan, linked to UDP)
+{record_delimiter}
+("entity"{tuple_delimiter}UDP-GLYCOMURAMYL PENTADEPSIPEPTIDE{tuple_delimiter}MOLECULE{tuple_delimiter}A specific type of UDP-linked peptidoglycan precursor terminating in D-alanyl-D-lactate)
+{record_delimiter}
+("entity"{tuple_delimiter}D-ALANYL-D-LACTATE{tuple_delimiter}MOLECULE{tuple_delimiter}A chemical group terminating the UDP-glycomuramyl pentadepsipeptide, involved in resistance mechanisms)
+{record_delimiter}
+("entity"{tuple_delimiter}D-ALANYL-D-ALANINE{tuple_delimiter}MOLECULE{tuple_delimiter}A chemical group that was not detected in the peptidoglycan precursors)
+{record_delimiter}
+("entity"{tuple_delimiter}VAN GENE COMPLEX{tuple_delimiter}GENE{tuple_delimiter}A set of genes responsible for conferring resistance to vancomycin and teicoplanin by modifying cell wall biosynthesis)
+{record_delimiter}
+("entity"{tuple_delimiter}A. TEICHOMYCETICUS{tuple_delimiter}MICROORGANISM{tuple_delimiter}A bacterial species in which the van gene complex was transcribed and expressed)
+{record_delimiter}
+("entity"{tuple_delimiter}VANCOMYCIN{tuple_delimiter}ANTIBIOTIC{tuple_delimiter}An antibiotic to which resistance was conferred by the van gene complex)
+{record_delimiter}
+("entity"{tuple_delimiter}TEICOPLANIN{tuple_delimiter}ANTIBIOTIC{tuple_delimiter}An antibiotic produced by A. teichomyceticus, with resistance conferred by the van gene complex)
+{record_delimiter}
+("entity"{tuple_delimiter}MIC OF TEICOPLANIN{tuple_delimiter}MEASUREMENT{tuple_delimiter}The minimum inhibitory concentration of teicoplanin, which remained in the range of 25 to 35 microg/ml during production)
+{record_delimiter}
+("entity"{tuple_delimiter}TEICOPLANIN-PRODUCING CELLS{tuple_delimiter}CELL{tuple_delimiter}Cells that produce teicoplanin and are tolerant to high concentrations of exogenously added glycopeptides)
+{record_delimiter}
+("entity"{tuple_delimiter}GLYCOPEPTIDES{tuple_delimiter}MOLECULE{tuple_delimiter}A class of molecules to which teicoplanin-producing cells were tolerant, even at high concentrations)
+{record_delimiter}
+("relationship"{tuple_delimiter}UDP-LINKED PEPTIDOGLYCAN PRECURSORS{tuple_delimiter}UDP-GLYCOMURAMYL PENTADEPSIPEPTIDE{tuple_delimiter}UDP-glycomuramyl pentadepsipeptide is a type of UDP-linked peptidoglycan precursor{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}UDP-GLYCOMURAMYL PENTADEPSIPEPTIDE{tuple_delimiter}D-ALANYL-D-LACTATE{tuple_delimiter}UDP-glycomuramyl pentadepsipeptide terminates in D-alanyl-D-lactate{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}UDP-LINKED PEPTIDOGLYCAN PRECURSORS{tuple_delimiter}D-ALANYL-D-ALANINE{tuple_delimiter}No trace of UDP-linked peptidoglycan precursors ending in D-alanyl-D-alanine was detected{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}VAN GENE COMPLEX{tuple_delimiter}A. TEICHOMYCETICUS{tuple_delimiter}The van gene complex was transcribed and expressed in A. teichomyceticus{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}VAN GENE COMPLEX{tuple_delimiter}VANCOMYCIN{tuple_delimiter}The van gene complex conferred resistance to vancomycin{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}VAN GENE COMPLEX{tuple_delimiter}TEICOPLANIN{tuple_delimiter}The van gene complex conferred resistance to teicoplanin{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}A. TEICHOMYCETICUS{tuple_delimiter}TEICOPLANIN{tuple_delimiter}A. teichomyceticus produces teicoplanin{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}TEICOPLANIN-PRODUCING CELLS{tuple_delimiter}GLYCOPEPTIDES{tuple_delimiter}Teicoplanin-producing cells are tolerant to high concentrations of glycopeptides{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}TEICOPLANIN-PRODUCING CELLS{tuple_delimiter}TEICOPLANIN{tuple_delimiter}Teicoplanin-producing cells were found to be tolerant to high concentrations of teicoplanin{tuple_delimiter}8)
+{completion_delimiter}
+#############################
+
+
+
+-Real Data-
+######################
+text: {input_text}
+######################
+output:
