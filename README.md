@@ -1,21 +1,30 @@
-# Team Project Name
+# Deciphering self-resistance genes in microbial biosynthetic gene clusters to combat AMR
 
-List of participants and affiliations:
-- Maaly Nassar (Team Leader)
-- Parul Sharma, Emory University, Atlanta-GA, USA
-- Dae-young Kim, Children's National Hospital, Washington D.C., USA
-- Madeline Galac, NIAID BCBB, Washington DC, USA
+Team Nassar Members:
+- Maaly Nassar (Team Leader), Elsevier
+- Parul Sharma (Flex Lead), Emory University, Atlanta-GA, USA
+- Dae-young Kim (Technical Lead), Children's National Hospital, Washington D.C., USA
+- Madeline Galac (Writer Lead), NIAID BCBB, Washington DC, USA
 - Brendan Jeffrey, NIAID BCBB, Corvallis, OR, USA
 
 ## Project Goals
+Antimicrobial resistant treatments were mostly focused on discovering new antimicrobial drugs (e.g. BGCs by-products) or mutating antimicrobial resistance genes (AMR genes) and mechanisms towards losing their function (i.e. loss of function). Thus, the goal of this project is to:
+1. Identify self-resistant (SR) genes in antimicrobial-producing microorganisms along with their mechanisms and regulators in literature and corresponding whole genome sequences using Large Language models (LLMs).
+2. Fine-tune machine learning models (e.g. transformers or LLMs) to identify AMR and SR genes in whole genome sequences using NCBI [pathogen](https://www.ncbi.nlm.nih.gov/pathogens/), [isolates](https://www.ncbi.nlm.nih.gov/pathogens/isolates/), [MicroBIGG-E](https://www.ncbi.nlm.nih.gov/pathogens/microbigge/) and LLM-derived SR dataset.
+3. Use AMR detection ML model to identify self-resistance genes and SR detection model to identify AMR genes to check for horizontal gene transfer and the possibility of AMR up-/downregulation by SR regulators
 
-Generate dataset of self-resistance genes with what up-/down-regulate them and train Machine Learning (ML) models to identify them in whole genomes
-
-## Approach
-We selected a list of bacterial genomes to build our model on by focusing on the ESKAPE pathogens (*Enterococcus faecium, Staphylococcus aureus, Klebsiella 
-pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter spp.*) and those with complete genomes from the [NCBI Pathogen Detection Isolate Browser](https://www.ncbi.nlm.nih.gov/pathogens/isolates/) . The protein sequences in these genomes were then categorized as AMR or non-AMR using the [NCBI Pathogen Detection Microbial Browser for Identification of Genetic and Genomic Elements (MicroBIGG-E)](https://www.ncbi.nlm.nih.gov/pathogens/microbigge/). 
+## Deliverables
+- ML classifier for AMR genes using NCBI pathogen dataset
+- Self-resistance microbial genes with their related accessions, self-resistance mechanisms, self-resistance compounds and microbes using few-shot LLM prompting and [GraphRAG](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
 
 ## Results
+#### [LLM-derived self-resistance entities](https://github.com/NCBI-Codeathons/amr-2024-team-nassar/tree/main/ai)
+- PMC full text were retrieved for the 150 self-resistance pubmed abstracts retrieved by Leroy. Then, splitted into introduction, method, results and discussion sections with their corresponding sentences
+- All sections were annotated with [EMERALD BGCs pipeline](https://gitlab.com/maaly7/emerald_bgcs_annotations) to identify BGCs genes, accessions, actions, compounds and classes
+- llama 70B instruct model was then used to identify self-resistance genes, proteins, mechanism, regulators, accession and organisms in BGCs annotated sentences using few-shot prompting
+#### Identifying genes to use in machine language models
+We selected a list of bacterial genomes to build our model on by focusing on the ESKAPE pathogens (*Enterococcus faecium, Staphylococcus aureus, Klebsiella 
+pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter spp.*) and those with complete genomes from the [NCBI Pathogen Detection Isolate Browser](https://www.ncbi.nlm.nih.gov/pathogens/isolates/). This resulted in 8,267 unique genomes being used.  The protein sequences in these genomes were then categorized as AMR or non-AMR using the [NCBI Pathogen Detection Microbial Browser for Identification of Genetic and Genomic Elements (MicroBIGG-E)](https://www.ncbi.nlm.nih.gov/pathogens/microbigge/). We found 180 AMR genes and 118,199 non-AMR genes to be used for the ML training.
 
 ## Future Work
 
@@ -23,36 +32,3 @@ pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter spp
 This software was created as part of an NCBI codeathon, a hackathon-style event focused on rapid innovation. While we encourage you to explore and adapt this code, please be aware that NCBI does not provide ongoing support for it.
 
 For general questions about NCBI software and tools, please visit: [NCBI Contact Page](https://www.ncbi.nlm.nih.gov/home/about/contact/)
-
-## draft notes 
-
-### 2024.09.23
-#### Work updates (Parul)
-- Extracted list of AMR genes from the NCBI Pathogen AMR dataset
-- Work in progress - extracting the listed AMR gene sequences from the whole genomes
-- Reading more about transformers to finalize which model to use for our dataset
-- Working on setting up GCP instances and setting up enviroments for installing transformer model
-
-#### Main Deliverable (Leo)
-Generate dataset of self-resistance genes with what up-/down-regulate them and train ML models to identify them in whole genomes
-#### Resources 
-[BGCs dataset](https://gitlab.com/maaly7/bgc_discovery_for_t_cell_immunology/-/tree/master/data/training_dataset/emerald?ref_type=heads), 
-[Hypothes.is](https://hypothes.is/groups/a27kDwg4/bgcs-molcon) (see screenshot of what the context looks like)
-<img src="figures/hypothesis001.png" width="400">
-#### Milestones
-
-* **Dae-Young Kim (Leroy)** (Tech Lead) to retrieve literature for self-resistance genes (from medline) and use LLMs and/or 
-RAG (https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/) to identify self-resistance genes in context,  their regulators and whole genome/BGCs accession numbers 
-* **Parul Sharma** (Flex Lead) to download and generate training datasets from ncbi_pathogen_detect_amr AMR gene sequences to train a transformer model 
-    * download ncbi_pathogen_detect_amr AMR protein/gene sequences of microbes
-    * generate a list of AMR and non-AMR genes from microbe whole genome given ncbi_pathogen_detect_amr dataset
-    * use this list to train transformer model
-* **Leo Martins** (Writer lead) to parse the jsons in the BGCs dataset and identify microbes with self-resistance action with their BGCs accessions and publications. 
-([Publication example](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5992853/), [microbe example](https://gitlab.com/maaly7/bgc_discovery_for_t_cell_immunology/-/blob/master/data/training_dataset/emerald/mibig3_emerald_4/MT459796.1.json))
-Then, we will see given the size of the metadata what to do next. Retrieve more data from Leroy or use Parul's transformers to identify self-resistance one or use sequence similarity
-
-#### Further links (regarding a transformer model)
-* **Most popular framework in Python3**: https://huggingface.co/
-* **Transformer in Hugging Face**: https://huggingface.co/docs/transformers/index
-* **LLaMA in Hugging Face**: https://huggingface.co/docs/transformers/v4.44.2/en/model_doc/llama#overview
-* **Microsoft GraphRAG info**: https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/ . Leroy believes we can identify our target entities (name of the bacterias, genes, accession number, etc. using GraphRAG.
