@@ -21,6 +21,12 @@ pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter spp
 - ML classifier for AMR genes using NCBI pathogen dataset
 - Self-resistance microbial genes with their related accessions, self-resistance mechanisms, self-resistance compounds and microbes using few-shot LLM prompting and [GraphRAG](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
 
+## Results
+#### [LLM-derived self-resistance entities](https://github.com/NCBI-Codeathons/amr-2024-team-nassar/tree/main/ai)
+- PMC full text were retrieved for the 150 self-resistance pubmed abstracts retrieved by Leroy. Then, splitted into introduction, method, results and discussion sections with their corresponding sentences
+- All sections were annotated with [EMERALD BGCs pipeline](https://gitlab.com/maaly7/emerald_bgcs_annotations) to identify BGCs genes, accessions, actions, compounds and classes
+- llama 70B instruct model was then used to identify self-resistance genes, proteins, mechanism, regulators, accession and organisms in BGCs annotated sentences using few-shot prompting
+
 ## Future Work
 
 ## NCBI Codeathon Disclaimer
