@@ -24,7 +24,7 @@ Antimicrobial resistant treatments were mostly focused on discovering new antimi
 - llama 70B instruct model was then used to identify self-resistance genes, proteins, mechanism, regulators, accession and organisms in BGCs annotated sentences using few-shot prompting
 #### Identifying genes to use in machine language models
 We selected a list of bacterial genomes to build our model on by focusing on the ESKAPE pathogens (*Enterococcus faecium, Staphylococcus aureus, Klebsiella 
-pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter spp.*) and those with complete genomes from the [NCBI Pathogen Detection Isolate Browser](https://www.ncbi.nlm.nih.gov/pathogens/isolates/) . The protein sequences in these genomes were then categorized as AMR or non-AMR using the [NCBI Pathogen Detection Microbial Browser for Identification of Genetic and Genomic Elements (MicroBIGG-E)](https://www.ncbi.nlm.nih.gov/pathogens/microbigge/).
+pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter spp.*) and those with complete genomes from the [NCBI Pathogen Detection Isolate Browser](https://www.ncbi.nlm.nih.gov/pathogens/isolates/). This resulted in 8,267 unique genomes being used.  The protein sequences in these genomes were then categorized as AMR or non-AMR using the [NCBI Pathogen Detection Microbial Browser for Identification of Genetic and Genomic Elements (MicroBIGG-E)](https://www.ncbi.nlm.nih.gov/pathogens/microbigge/). We found 180 AMR genes and 118,199 non-AMR genes to be used for the ML training.
 
 ## Future Work
 
