@@ -8,8 +8,8 @@ Team Nassar Members:
 - Brendan Jeffrey, NIAID BCBB, Corvallis, OR, USA
 
 ## Project Goals
-AMR treatments were mostly focused on discovering new antimicrobial drugs (e.g. BGCs by-products) or mutating AMR genes and mechanisms towards losing their function (i.e. loss of function). Thus, the goal of this project is to:
-1. Identify SR genes in antimicrobial-producing microorganisms along with their mechanisms and regulators in literature and corresponding whole genome sequences using Large Language models (LLMs).
+Antimicrobial resistant treatments were mostly focused on discovering new antimicrobial drugs (e.g. BGCs by-products) or mutating antimicrobial resistance genes (AMR genes) and mechanisms towards losing their function (i.e. loss of function). Thus, the goal of this project is to:
+1. Identify self-resistant (SR) genes in antimicrobial-producing microorganisms along with their mechanisms and regulators in literature and corresponding whole genome sequences using Large Language models (LLMs).
 2. Fine-tune machine learning models (e.g. transformers or LLMs) to identify AMR and SR genes in whole genome sequences using NCBI [pathogen](https://www.ncbi.nlm.nih.gov/pathogens/), [isolates](https://www.ncbi.nlm.nih.gov/pathogens/isolates/), [MicroBIGG-E](https://www.ncbi.nlm.nih.gov/pathogens/microbigge/) and LLM-derived SR dataset.
 3. Use AMR detection ML model to identify self-resistance genes and SR detection model to identify AMR genes to check for horizontal gene transfer and the possibility of AMR up-/downregulation by SR regulators
 
