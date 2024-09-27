@@ -1,6 +1,6 @@
 # Deciphering self-resistance genes in microbial biosynthetic gene clusters to combat AMR
 
-List of participants and affiliations:
+Team Nassar Members:
 - Maaly Nassar (Team Leader), Elsevier
 - Parul Sharma (Flex Lead), Emory University, Atlanta-GA, USA
 - Dae-young Kim (Technical Lead), Children's National Hospital, Washington D.C., USA
@@ -9,7 +9,7 @@ List of participants and affiliations:
 
 ## Project Goals
 
-Generate dataset of self-resistance genes with what up-/down-regulate them and train Machine Learning (ML) models to identify them in whole genomes
+The objective of this project is to create a comprehensive dataset that encompasses self-resistance genes derived from microorganisms known for producing antitumor, antibacterial, and antiviral properties. These genes will be meticulously collected from both scientific publications and existing sequence databases. Utilizing the machine learning framework of [Emerald Biosynthetic Gene Clusters (BGCs)](https://gtr.ukri.org/projects?ref=BB%2FS009043%2F1#/tabOverview), we aim to construct a foundational dataset. This dataset will be rich in detail, featuring accession numbers for the self-resistance genes of microbes, the resistant compounds they produce, and the specific biological functions of those compounds.
 
 ## Approach
 We selected a list of bacterial genomes to build our model on by focusing on the ESKAPE pathogens (*Enterococcus faecium, Staphylococcus aureus, Klebsiella 
