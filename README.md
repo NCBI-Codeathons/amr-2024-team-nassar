@@ -13,10 +13,6 @@ Antimicrobial resistant treatments were mostly focused on discovering new antimi
 2. Fine-tune machine learning models (e.g. transformers or LLMs) to identify AMR and SR genes in whole genome sequences using NCBI [pathogen](https://www.ncbi.nlm.nih.gov/pathogens/), [isolates](https://www.ncbi.nlm.nih.gov/pathogens/isolates/), [MicroBIGG-E](https://www.ncbi.nlm.nih.gov/pathogens/microbigge/) and LLM-derived SR dataset.
 3. Use AMR detection ML model to identify self-resistance genes and SR detection model to identify AMR genes to check for horizontal gene transfer and the possibility of AMR up-/downregulation by SR regulators
 
-## Approach
-We selected a list of bacterial genomes to build our model on by focusing on the ESKAPE pathogens (*Enterococcus faecium, Staphylococcus aureus, Klebsiella 
-pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter spp.*) and those with complete genomes from the [NCBI Pathogen Detection Isolate Browser](https://www.ncbi.nlm.nih.gov/pathogens/isolates/) . The protein sequences in these genomes were then categorized as AMR or non-AMR using the [NCBI Pathogen Detection Microbial Browser for Identification of Genetic and Genomic Elements (MicroBIGG-E)](https://www.ncbi.nlm.nih.gov/pathogens/microbigge/). 
-
 ## Deliverables
 - ML classifier for AMR genes using NCBI pathogen dataset
 - Self-resistance microbial genes with their related accessions, self-resistance mechanisms, self-resistance compounds and microbes using few-shot LLM prompting and [GraphRAG](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
@@ -26,6 +22,9 @@ pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter spp
 - PMC full text were retrieved for the 150 self-resistance pubmed abstracts retrieved by Leroy. Then, splitted into introduction, method, results and discussion sections with their corresponding sentences
 - All sections were annotated with [EMERALD BGCs pipeline](https://gitlab.com/maaly7/emerald_bgcs_annotations) to identify BGCs genes, accessions, actions, compounds and classes
 - llama 70B instruct model was then used to identify self-resistance genes, proteins, mechanism, regulators, accession and organisms in BGCs annotated sentences using few-shot prompting
+#### Identifying genes to use in machine language models
+We selected a list of bacterial genomes to build our model on by focusing on the ESKAPE pathogens (*Enterococcus faecium, Staphylococcus aureus, Klebsiella 
+pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter spp.*) and those with complete genomes from the [NCBI Pathogen Detection Isolate Browser](https://www.ncbi.nlm.nih.gov/pathogens/isolates/) . The protein sequences in these genomes were then categorized as AMR or non-AMR using the [NCBI Pathogen Detection Microbial Browser for Identification of Genetic and Genomic Elements (MicroBIGG-E)](https://www.ncbi.nlm.nih.gov/pathogens/microbigge/).
 
 ## Future Work
 
